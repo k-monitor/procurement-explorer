@@ -1,0 +1,4 @@
+Papíripari	papíripari	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+gépbeszerzés	gépbeszerzés	NOUN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+

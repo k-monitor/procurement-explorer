@@ -1,0 +1,10 @@
+Adásvételi	adásvételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+szén-monoxid-érzékelő	szén-monoxid-érzékelő	NOUN	Case=Nom|Number=Sing	
+készülékek	készülék	NOUN	Case=Nom|Number=Plur	
+beszerzésére	beszerzés	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+keretmegállapodás	keretmegállapodás	NOUN	Case=Nom|Number=Sing	
+keretén	keret	NOUN	Case=Sup|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+belül	belül	ADP	_	
+.	.	PUNCT	_	
+

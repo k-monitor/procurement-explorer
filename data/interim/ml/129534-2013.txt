@@ -1,0 +1,5 @@
+Vezetékes	vezetékes	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+földgáz	földgáz	NOUN	Case=Nom|Number=Sing	
+szállítása	szállítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

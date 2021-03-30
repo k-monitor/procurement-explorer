@@ -1,0 +1,6 @@
+Keretszerződés	keretszerződés	NOUN	Case=Nom|Number=Sing	
+gázolaj	gázolaj	NOUN	Case=Nom|Number=Sing	
+tankautós	tankautós	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szállításra	szállítás	NOUN	Case=Sub|Number=Sing	
+.	.	PUNCT	_	
+

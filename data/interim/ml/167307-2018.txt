@@ -1,0 +1,16 @@
+COMPASS+	COMPASS	PROPN	Case=Nom|Number=Sing	
+országos	országos	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+felhasználású	felhasználású	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+,	,	PUNCT	_	
+tudományos	tudományos	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+tartalmú	tartalmú	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+elektronikus	elektronikus	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+adatbázis	adatbázis	NOUN	Case=Nom|Number=Sing	
+és	és	CONJ	_	
+keresőfelület	keresőfelület	NOUN	Case=Nom|Number=Sing	
+kialakítása	kialakítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+vállalkozási	vállalkozási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

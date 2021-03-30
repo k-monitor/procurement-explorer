@@ -1,0 +1,1 @@
+Fővárosi Vízművek Zrt. által iratkezelésre használt ELO Professional rendszer, az OpenText Livelink rendszerek karbantartásának és üzemeltetésének, továbbfejlesztésének, valamint kapcsolódó SAP fejlesztések biztosítása

@@ -1,0 +1,6 @@
+Villamos	Villamos	PROPN	Case=Nom|Number=Sing	
+energia	energia	NOUN	Case=Nom|Number=Sing	
+vásárlási	vásárlási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+

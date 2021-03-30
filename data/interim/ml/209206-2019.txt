@@ -1,0 +1,7 @@
+Komplex	komplex	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+kommunikációs	kommunikációs	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+ügynökségi	ügynökségi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+feladatok	feladat	NOUN	Case=Nom|Number=Plur	
+ellátása	ellátás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

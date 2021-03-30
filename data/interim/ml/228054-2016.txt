@@ -1,0 +1,10 @@
+Ajánlatkérő	ajánlatkérő	NOUN	Case=Nom|Number=Sing	
+részére	részére	ADP	_	
+közétkeztetési	közétkeztetési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szolgáltatás	szolgáltatás	NOUN	Case=Nom|Number=Sing	
+nyújtása	nyújtás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+vállalkozási	vállalkozási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

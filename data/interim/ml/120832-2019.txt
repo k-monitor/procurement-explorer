@@ -1,0 +1,14 @@
+Általányáras	Általányáras	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+vállalkozási	vállalkozási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+Szeged	Szeged	PROPN	Case=Nom|Number=Sing	
+,	,	PUNCT	_	
+Cső	cső	NOUN	Case=Nom|Number=Sing	
+Utcai	Utcai	PROPN	Case=Nom|Number=Sing	
+Óvoda	óvoda	NOUN	Case=Nom|Number=Sing	
+fejlesztésének	fejlesztés	NOUN	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+kivitelezési	kivitelezési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+munkái	munka	NOUN	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

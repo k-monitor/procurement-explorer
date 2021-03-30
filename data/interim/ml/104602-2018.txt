@@ -1,0 +1,14 @@
+Budapesti	Budapesti	PROPN	Case=Nom|Number=Sing	
+Szent	Szent	PROPN	Case=Nom|Number=Sing	
+Ferenc	Ferenc	PROPN	Case=Nom|Number=Sing	
+Kórház	Kórház	PROPN	Case=Nom|Number=Sing	
+közel	közel	ADV	_	
+nulla	nulla	NUM	Case=Nom|NumType=Card|Number=Sing	
+energiaigényű	energiaigényű	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+épületének	épület	NOUN	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+kivitelezése	kivitelezés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+vállalkozási	vállalkozási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

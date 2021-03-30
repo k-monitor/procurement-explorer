@@ -1,0 +1,5 @@
+Röntgen	röntgen	NOUN	Case=Nom|Number=Sing	
+berendezés	berendezés	NOUN	Case=Nom|Number=Sing	
+beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

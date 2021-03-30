@@ -1,0 +1,9 @@
+„	„	PUNCT	_	
+Hidak	híd	NOUN	Case=Nom|Number=Plur	
+karbantartása	karbantartás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+2019.	2019.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+"	"	PUNCT	_	
+-	-	PUNCT	_	
+vállalkozási	vállalkozási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+keretszerződés	keretszerződés	NOUN	Case=Nom|Number=Sing	
+

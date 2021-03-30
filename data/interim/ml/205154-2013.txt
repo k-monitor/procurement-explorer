@@ -1,0 +1,11 @@
+Roche	Roche	PROPN	Case=Nom|Number=Sing	
+gyártmányú	gyártmányú	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+humán	humán	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+diagnosztikai	diagnosztikai	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+laboratóriumi	laboratóriumi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+automatákhoz	automata	NOUN	Case=All|Number=Plur	
+felhasználható	felhasználható	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
+reagensek	reagens	NOUN	Case=Nom|Number=Plur	
+beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

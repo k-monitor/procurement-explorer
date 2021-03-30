@@ -1,0 +1,27 @@
+Ózd	ózd	NOUN	Case=Nom|Number=Sing	
+Város	Város	PROPN	Case=Nom|Number=Sing	
+Önkormányzata	Önkormányzata	PROPN	Case=Nom|Number=Sing	
+szennyvízcsatorna	szennyvízcsatorna	NOUN	Case=Nom|Number=Sing	
+és	és	CONJ	_	
+szennyvíztisztító	szennyvíztisztító	NOUN	Case=Nom|Number=Sing	
+telepének	telep	NOUN	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+korszerűsítése	korszerűsítés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+című	című	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+"	"	PUNCT	_	
+KEOP-1	KEOP-1	PROPN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+
+2.0	2.0	PROPN	Case=Nom|Number=Sing	
+/	/	PUNCT	_	
+2F	2F	NUM	Case=Nom|NumType=Card|Number=Sing	
+/	/	PUNCT	_	
+09-2010-0060	09-2010-0060	PROPN	Case=Nom|Number=Sing	
+"	"	PUNCT	_	
+sz.	sz.	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+pályázat	pályázat	NOUN	Case=Nom|Number=Sing	
+megvalósításához	megvalósítás	NOUN	Case=All|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+szükséges	szükséges	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+önerő	önerő	NOUN	Case=Nom|Number=Sing	
+hitel	hitel	NOUN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+

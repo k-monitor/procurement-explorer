@@ -1,0 +1,13 @@
+Tiszántúli	Tiszántúli	PROPN	Case=Nom|Number=Sing	
+Református	Református	PROPN	Case=Nom|Number=Sing	
+Egyházkerület	egyházkerület	NOUN	Case=Nom|Number=Sing	
+részére	részére	ADP	_	
+kollégiumi	kollégiumi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+bútorzat	bútorzat	NOUN	Case=Nom|Number=Sing	
+beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+
+Szállítási	Szállítási	PROPN	Case=Nom|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+

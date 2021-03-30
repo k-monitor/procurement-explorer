@@ -1,0 +1,10 @@
+DVTK	DVTK	PROPN	Case=Nom|Number=Sing	
+Multifunkciós	multifunkciós	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+kosárlabda	kosárlabda	NOUN	Case=Nom|Number=Sing	
+sportcsarnok	sportcsarnok	NOUN	Case=Nom|Number=Sing	
+kialakítása	kialakítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+-	-	PUNCT	_	
+tervezés	tervezés	NOUN	Case=Nom|Number=Sing	
+és	és	CONJ	_	
+kivitelezés	kivitelezés	NOUN	Case=Nom|Number=Sing	
+

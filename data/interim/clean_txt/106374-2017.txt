@@ -1,0 +1,18 @@
+szociális közétkeztetés biztosítás étel készítés és kiszállítás
+hónapos határozott időtartamú szerződés keret
+intézmény szállítva
+egy intézmény napi étkezés
+reggeli
+ebéd
+uzsonna
+intézmény napi egyszeri étkezés
+ebéd
+lakás szállítva
+napi étkezés
+ebéd
+napi várható adagszám
+adag
+a szerződés határozott idő
+a szerződés aláírás nap
+hónap kerül megkötés
+a szerződéskötés követő hónap letelte előtt nap a fél a szerződés további hónapos meghosszabbítás állapodik meg

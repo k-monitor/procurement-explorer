@@ -1,0 +1,11 @@
+ESR-112	ESR-112	PROPN	Case=Nom|Number=Sing	
+Hívásfogadó	hívásfogadó	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+Rendszer	rendszer	NOUN	Case=Nom|Number=Sing	
+üzemeltetése	üzemeltetés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+és	és	CONJ	_	
+egyes	egyes	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+üzemeltetés-támogatási	üzemeltetés-támogatási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+feladatok	feladat	NOUN	Case=Nom|Number=Plur	
+ellátása	ellátás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

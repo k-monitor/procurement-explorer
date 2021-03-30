@@ -1,0 +1,16 @@
+1	1	NUM	Case=Nom|NumType=Card|Number=Sing	
+db	db	NOUN	Case=Nom|Number=Sing	
+X-sávú	X-sávú	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+Fourier	Fourier	PROPN	Case=Nom|Number=Sing	
+transzformációs	transzformációs	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+EPR	EPR	NOUN	Case=Nom|Number=Sing	
+spektrométer	spektrométer	NOUN	Case=Nom|Number=Sing	
+beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+,	,	PUNCT	_	
+beállítása	beállítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+,	,	PUNCT	_	
+beüzemelés	beüzemelés	NOUN	Case=Nom|Number=Sing	
+és	és	CONJ	_	
+betanítása	betanítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

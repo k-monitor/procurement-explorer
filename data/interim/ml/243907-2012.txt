@@ -1,0 +1,7 @@
+Tűzifa	tűzifa	NOUN	Case=Nom|Number=Sing	
+beszerzés	beszerzés	NOUN	Case=Nom|Number=Sing	
+teljeskörű	teljeskörű	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+logisztikai	logisztikai	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szolgáltatással	szolgáltatás	NOUN	Case=Ins|Number=Sing	
+.	.	PUNCT	_	
+

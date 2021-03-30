@@ -1,0 +1,171 @@
+Pécsi	Pécsi	PROPN	Case=Nom|Number=Sing	
+Haditechnikai	haditechnikai	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+Élménypark	élménypark	NOUN	Case=Nom|Number=Sing	
+kialakításához	kialakítás	NOUN	Case=All|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+haditechnikai	haditechnikai	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+eszközök	eszköz	NOUN	Case=Nom|Number=Plur	
+és	és	CONJ	_	
+felszerelések	felszerelés	NOUN	Case=Nom|Number=Plur	
+beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+Részek	rész	NOUN	Case=Nom|Number=Plur	
+:	:	PUNCT	_	
+1.	1.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+
+Katonai	Katonai	PROPN	Case=Nom|Number=Sing	
+ruházat	ruházat	NOUN	Case=Nom|Number=Sing	
+és	és	CONJ	_	
+egyéb	egyéb	PRON	Case=Nom|Number=Sing|Person=3|PronType=Ind	
+kiegészítő	kiegészítő	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
+felszerelések	felszerelés	NOUN	Case=Nom|Number=Plur	
+.	.	PUNCT	_	
+
+2.	2.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+
+Hatástalanított	hatástalanított	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPast	
+kézi	kézi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+fegyverek	fegyver	NOUN	Case=Nom|Number=Plur	
+,	,	PUNCT	_	
+valamint	valamint	CONJ	_	
+kiegészítők	kiegészítő	NOUN	Case=Nom|Number=Plur	
+.	.	PUNCT	_	
+
+3.	3.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+
+Repülőgép	repülőgép	NOUN	Case=Nom|Number=Sing	
+modellek	modell	NOUN	Case=Nom|Number=Plur	
+és	és	CONJ	_	
+szárazföldi	szárazföldi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+eszközök	eszköz	NOUN	Case=Nom|Number=Plur	
+modelljei	modell	NOUN	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+
+4.	4.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+
+Hatástalanított	hatástalanított	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPast	
+szárazföldi	szárazföldi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+eszközök	eszköz	NOUN	Case=Nom|Number=Plur	
+.	.	PUNCT	_	
+
+5.	5.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+
+Hatástalanított	hatástalanított	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPast	
+légi	légi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+járművek	jármű	NOUN	Case=Nom|Number=Plur	
+.	.	PUNCT	_	
+
+6.	6.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+
+Eredeti	eredeti	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+hatástalanított	hatástalanított	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPast	
+harci	harci	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+járművek	jármű	NOUN	Case=Nom|Number=Plur	
+és	és	CONJ	_	
+katonai	katonai	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+repülőeszközök	repülőeszköz	NOUN	Case=Nom|Number=Plur	
+bérlése	bérlés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+
+A	a	DET	Definite=Def|PronType=Art	
+beszerzés	beszerzés	NOUN	Case=Nom|Number=Sing	
+célja	cél	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+egy	egy	DET	Definite=Ind|PronType=Art	
+olyan	olyan	PRON	Case=Nom|Number=Sing|Person=3|PronType=Dem	
+katonai	katonai	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+kiállítás	kiállítás	NOUN	Case=Nom|Number=Sing	
+és	és	CONJ	_	
+múzeum	múzeum	NOUN	Case=Nom|Number=Sing	
+létrehozása	létrehozás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+,	,	PUNCT	_	
+mely	mely	PRON	Case=Nom|Number=Sing|Person=3|PronType=Rel	
+a	a	DET	Definite=Def|PronType=Art	
+Magyar	Magyar	PROPN	Case=Nom|Number=Sing	
+Néphadsereg	néphadsereg	NOUN	Case=Nom|Number=Sing	
+és	és	CONJ	_	
+honvédség	honvédség	NOUN	Case=Nom|Number=Sing	
+légi	légi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+és	és	CONJ	_	
+szárazföldi	szárazföldi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+eszközeit	eszköz	NOUN	Case=Acc|Number=Plur|Number[psor]=Sing|Person[psor]=3	
+korhű	korhű	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+,	,	PUNCT	_	
+eredeti	eredeti	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+megfelelő	megfelelő	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+történelmi	történelmi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+háttérben	háttér	NOUN	Case=Ine|Number=Sing	
+mutatja	mutat	VERB	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	
+be	be	ADV	Degree=Pos	
+a	a	DET	Definite=Def|PronType=Art	
+hazánkban	haza	NOUN	Case=Ine|Number=Sing|Number[psor]=Plur|Person[psor]=1	
+szolgált	szolgál	VERB	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	
+katonai	katonai	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+ruházattól	ruházat	NOUN	Case=Abl|Number=Sing	
+egészen	egészen	ADV	_	
+a	a	DET	Definite=Def|PronType=Art	
+nagy	nagy	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+gépekig	gép	NOUN	Case=Ter|Number=Plur	
+.	.	PUNCT	_	
+
+A	a	DET	Definite=Def|PronType=Art	
+bemutatott	bemutatott	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPast	
+kézi	kézi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+fegyverek	fegyver	NOUN	Case=Nom|Number=Plur	
+és	és	CONJ	_	
+ruházat	ruházat	NOUN	Case=Nom|Number=Sing	
+,	,	PUNCT	_	
+egyéb	egyéb	PRON	Case=Nom|Number=Sing|Person=3|PronType=Ind	
+kiegészítők	kiegészítő	NOUN	Case=Nom|Number=Plur	
+állapota	állapot	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+kiállításra	kiállítás	NOUN	Case=Sub|Number=Sing	
+alkalmasnak	alkalmas	ADJ	Case=Dat|Degree=Pos|Number=Sing	
+kell	kell	VERB	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	
+lennie	lennie	VERB	Number=Sing|Person=3|VerbForm=Inf|Voice=Act	
+.	.	PUNCT	_	
+
+A	a	DET	Definite=Def|PronType=Art	
+beszerzési	beszerzési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+tárgyaknak	tárgy	NOUN	Case=Dat|Number=Plur	
+valósághűeknek	valósághű	ADJ	Case=Dat|Degree=Pos|Number=Plur	
+,	,	PUNCT	_	
+külső	külső	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+megjelenésük	megjelenés	NOUN	Case=Nom|Number=Sing|Number[psor]=Plur|Person[psor]=3	
+alapján	alap	NOUN	Case=Sup|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+autentikus	autentikus	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+,	,	PUNCT	_	
+az	az	DET	Definite=Def|PronType=Art	
+adott	adott	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+korszaknak	korszak	NOUN	Case=Dat|Number=Sing	
+megfelelő	megfelelő	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+festésűnek	festésű	ADJ	Case=Dat|Degree=Pos|Number=Sing	
+kell	kell	VERB	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	
+lenniük	lenniük	VERB	Number=Plur|Person=3|VerbForm=Inf|Voice=Act	
+.	.	PUNCT	_	
+
+Egyenértékűség	egyenértékűség	NOUN	Case=Nom|Number=Sing	
+:	:	PUNCT	_	
+a	a	DET	Definite=Def|PronType=Art	
+321	321	NUM	Case=Nom|NumType=Card|Number=Sing	
+/	/	PUNCT	_	
+2015.	2015.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+
+(	(	PUNCT	_	
+X.	10.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+30.	30.	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+)	)	PUNCT	_	
+
+Korm	Korm	PROPN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+rendelet	rendelet	PROPN	Case=Nom|Number=Sing	
+46.	46.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+
+§	§	NOUN	Case=Nom|Number=Sing	
+(	(	PUNCT	_	
+3	3	NUM	Case=Nom|NumType=Card|Number=Sing	
+)	)	PUNCT	_	
+-	-	PUNCT	_	
+(	(	PUNCT	_	
+5	5	NUM	Case=Nom|NumType=Card|Number=Sing	
+)	)	PUNCT	_	
+bek.	bek.	NOUN	Case=Nom|Number=Sing	
+alapján	alap	NOUN	Case=Sup|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

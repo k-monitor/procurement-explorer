@@ -1,0 +1,8 @@
+Ritter	Ritter	PROPN	Case=Nom|Number=Sing	
+elosztó	elosztó	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
+karbantartása	karbantartás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+,	,	PUNCT	_	
+javítása	javítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+,	,	PUNCT	_	
+hibaelhárítás	hibaelhárítás	NOUN	Case=Nom|Number=Sing	
+

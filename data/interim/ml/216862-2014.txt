@@ -1,0 +1,21 @@
+Adásvételi	adásvételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+a	a	DET	Definite=Def|PronType=Art	
+Pilisvörösvári	pilisvörösvári	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szennyvízcsatorna	szennyvízcsatorna	NOUN	Case=Nom|Number=Sing	
+hálózat	hálózat	NOUN	Case=Nom|Number=Sing	
+eszközállományának	eszközállomány	NOUN	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+fejlesztése	fejlesztés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+tárgyában	tárgy	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+
+Adásvételi	adásvételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+1	1	NUM	Case=Nom|NumType=Card|Number=Sing	
+db	db	NOUN	Case=Nom|Number=Sing	
+kombinált	kombinált	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPast	
+csatornatisztító	csatornatisztító	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+célgép	célgép	NOUN	Case=Nom|Number=Sing	
+beszerzésére	beszerzés	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

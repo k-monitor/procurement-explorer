@@ -1,0 +1,10 @@
+Villamos	Villamos	PROPN	Case=Nom|Number=Sing	
+energia	energia	NOUN	Case=Nom|Number=Sing	
+áruvásárlási	áruvásárlási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+2013-2014	2013-2014	NUM	Case=Nom|NumType=Card|Number=Sing	
+.	.	PUNCT	_	
+évre	év	NOUN	Case=Sub|Number=Sing	
+Szeged	Szeged	PROPN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+

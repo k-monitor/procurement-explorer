@@ -1,0 +1,8 @@
+Vívóeszközök	vívóeszköz	NOUN	Case=Nom|Number=Plur	
+beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+a	a	DET	Definite=Def|PronType=Art	
+Magyar	Magyar	PROPN	Case=Nom|Number=Sing	
+Vívó	vívó	NOUN	Case=Nom|Number=Sing	
+Szövetség	Szövetség	PROPN	Case=Nom|Number=Sing	
+részére	részére	ADP	_	
+

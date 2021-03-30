@@ -1,0 +1,14 @@
+Adásvételi	adásvételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+Bőrcsomósodáskór	bőrcsomósodáskór	NOUN	Case=Nom|Number=Sing	
+(	(	PUNCT	_	
+lumpy	lumpy	X	_	
+skin	sk	NOUN	Case=Sup|Number=Plur|Number[psor]=Sing|Person[psor]=3	
+disease	disease	ADV	PronType=Tot	
+LSD	LSD	PROPN	Case=Nom|Number=Sing	
+)	)	PUNCT	_	
+elleni	elleni	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+vakcina	vakcina	NOUN	Case=Nom|Number=Sing	
+beszerzésére	beszerzés	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

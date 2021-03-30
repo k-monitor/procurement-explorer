@@ -1,0 +1,12 @@
+Nyári	nyári	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+védőitalok	védőital	NOUN	Case=Nom|Number=Plur	
+-	-	PUNCT	_	
+természetes	természetes	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+ásványvíz	ásványvíz	NOUN	Case=Nom|Number=Sing	
+-	-	PUNCT	_	
+adásvétele	adásvétel	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+értékalapú	értékalapú	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+keretszerződés	keretszerződés	NOUN	Case=Nom|Number=Sing	
+keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

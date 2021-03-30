@@ -1,0 +1,20 @@
+DEK-562	DEK-562	PROPN	Case=Nom|Number=Sing	
+_	_	X	_	
+Adásvételi	adásvételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+atomerőmikroszkóppal	atomerőmikroszkóp	NOUN	Case=Ins|Number=Sing	
+kombinált	kombinált	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPast	
+Raman-mikroszkóp	Raman-mikroszkóp	NOUN	Case=Nom|Number=Sing	
+beszerzésére	beszerzés	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+GINOP-2	GINOP-2	PROPN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+
+3	3	NUM	Case=Nom|NumType=Card|Number=Sing	
+.	.	PUNCT	_	
+2-15-2016-00041	2-15-2016-00041	PROPN	Case=Nom|Number=Sing	
+sz.	sz.	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+pályázat	pályázat	NOUN	Case=Nom|Number=Sing	
+keretein	keret	NOUN	Case=Sup|Number=Plur|Number[psor]=Sing|Person[psor]=3	
+belül	belül	ADP	_	
+.	.	PUNCT	_	
+

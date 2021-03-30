@@ -1,0 +1,19 @@
+Magyar	magyar	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+Születési	születési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+Kohorszvizsgálat	Kohorszvizsgálat	NOUN	Case=Nom|Number=Sing	
+adatfelvételének	adatfelvétel	NOUN	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+komplex	komplex	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+adatgyűjtési	adatgyűjtési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+feladatainak	feladat	NOUN	Case=Gen|Number=Plur|Number[psor]=Sing|Person[psor]=3	
+ellátása	ellátás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+az	az	DET	Definite=Def|PronType=Art	
+EFOP	EFOP	PROPN	Case=Nom|Number=Sing	
+1.	1.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+
+9	9	NUM	Case=Nom|NumType=Card|Number=Sing	
+.	.	PUNCT	_	
+4-VEKOP-16-2016-00001	4-VEKOP-16-2016-00001	PROPN	Case=Nom|Number=Sing	
+azonosítószámú	azonosítószámú	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+projekt	projekt	NOUN	Case=Nom|Number=Sing	
+keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+

@@ -1,0 +1,8 @@
+Kereskedelmi	kereskedelmi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+villamos	villamos	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+energia	energia	NOUN	Case=Nom|Number=Sing	
+beszerzésére	beszerzés	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+2014-ben	2014	NUM	Case=Ine|NumType=Card|Number=Sing	
+.	.	PUNCT	_	
+

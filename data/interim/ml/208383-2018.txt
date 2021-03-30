@@ -1,0 +1,35 @@
+Adás-vételi	Adás-vételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+
+Az	az	DET	Definite=Def|PronType=Art	
+EFOP-2	EFOP-2	PROPN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+
+2	2	NUM	Case=Nom|NumType=Card|Number=Sing	
+.	.	PUNCT	_	
+18-17-2017-00052	18-17-2017-00052	PROPN	Case=Nom|Number=Sing	
+„	„	PUNCT	_	
+Betegbiztonság	betegbiztonság	NOUN	Case=Nom|Number=Sing	
+növelését	növelés	NOUN	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+célzó	célzó	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
+komplex	komplex	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+infrastrukturális	infrastrukturális	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+fejlesztések	fejlesztés	NOUN	Case=Nom|Number=Plur	
+az	az	DET	Definite=Def|PronType=Art	
+egészségügyi	egészségügyi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+ellátórendszerben	ellátórendszer	NOUN	Case=Ine|Number=Sing	
+"	"	PUNCT	_	
+című	című	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+pályázat	pályázat	NOUN	Case=Nom|Number=Sing	
+keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+1	1	NUM	Case=Nom|NumType=Card|Number=Sing	
+db	db	NOUN	Case=Nom|Number=Sing	
+automatizált	automatizált	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPast	
+betegszíntű	betegszíntű	NOUN	Case=Nom|Number=Sing	
+gyógyszerelő	gyógyszerelő	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
+automata	automata	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+berendezés	berendezés	NOUN	Case=Nom|Number=Sing	
+beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

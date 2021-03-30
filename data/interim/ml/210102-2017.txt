@@ -1,0 +1,6 @@
+Energia	Energia	PROPN	Case=Nom|Number=Sing	
+monitoring	monitoring	NOUN	Case=Nom|Number=Sing	
+szolgáltatás	szolgáltatás	NOUN	Case=Nom|Number=Sing	
+igénybevétele	igénybevétel	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

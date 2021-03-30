@@ -1,0 +1,9 @@
+Szállítási	Szállítási	PROPN	Case=Nom|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+a	a	DET	Definite=Def|PronType=Art	
+2013.	2013.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+évi	évi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+oltóanyagok	oltóanyag	NOUN	Case=Nom|Number=Plur	
+beszerzésére	beszerzés	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

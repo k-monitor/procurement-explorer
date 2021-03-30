@@ -1,0 +1,7 @@
+1	1	NUM	Case=Nom|NumType=Card|Number=Sing	
+db	db	NOUN	Case=Nom|Number=Sing	
+alsó-középkategóriás	alsó-középkategóriás	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+függőleges	függőleges	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+hátfalú	hátfalú	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+személygépjármű	személygépjármű	NOUN	Case=Nom|Number=Sing	
+

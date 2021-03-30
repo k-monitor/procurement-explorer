@@ -1,0 +1,11 @@
+Földgáz	földgáz	NOUN	Case=Nom|Number=Sing	
+beszerzés	beszerzés	NOUN	Case=Nom|Number=Sing	
+a	a	DET	Definite=Def|PronType=Art	
+NAIK	naik	NOUN	Case=Nom|Number=Sing	
+részére	részére	ADP	_	
+2015	2015	NUM	Case=Nom|NumType=Card|Number=Sing	
+/	/	PUNCT	_	
+16.	16.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+évre	év	NOUN	Case=Sub|Number=Sing	
+.	.	PUNCT	_	
+

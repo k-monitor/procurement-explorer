@@ -1,0 +1,8 @@
+Gépjárművek	gépjármű	NOUN	Case=Nom|Number=Plur	
+tartós	tartós	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+bérlet	bérlet	NOUN	Case=Nom|Number=Sing	
+keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+történő	történő	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
+beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

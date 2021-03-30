@@ -1,0 +1,66 @@
+vállalkozási keretszerződés
+kr üzemeltetés lévő egyes gépjármű külső
+és alvázmosás
+regionális
+az alábbi szerint
+1. rk
+autóbusz
+budapest
+db 2. rk
+személygépkocsi
+tehergépkocsi
+autóbusz
+pécs
+db 3. rk
+személygépkocsi
+tehergépkocsi
+autóbusz
+kaposvár
+db 4. rk
+személygépkocsi
+tehergépkocsi
+autóbusz
+nagykanizsa
+db 5. rk
+személygépkocsi
+tehergépkocsi
+autóbusz
+szombathely
+db 6. rk
+személygépkocsi
+tehergépkocsi
+autóbusz
+győr
+db 7. rk
+személygépkocsi
+tehergépkocsi
+autóbusz
+miskolc
+db 8. rk
+személygépkocsi
+tehergépkocsi
+autóbusz
+nyírbátor
+db 9. rk
+személygépkocsi
+tehergépkocsi
+autóbusz
+debrecen
+db 10. rk
+személygépkocsi
+tehergépkocsi
+autóbusz
+orosháza
+db 11. rk
+személygépkocsi
+tehergépkocsi
+autóbusz
+szeged
+db 12. rk
+személygépkocsi
+tehergépkocsi
+autóbusz
+kiskunhalas
+db a részletes követelmény a közbeszerzési dokumentum rész képező műszaki leírás tartalmaz
+kkd 2
+sz.mell

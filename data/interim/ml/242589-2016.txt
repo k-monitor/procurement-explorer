@@ -1,0 +1,25 @@
+Komplex	komplex	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+Tisza-tó	Tisza-tó	NOUN	Case=Nom|Number=Sing	
+projekt	projekt	NOUN	Case=Nom|Number=Sing	
+című	című	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+projekt	projekt	NOUN	Case=Nom|Number=Sing	
+II	II	PROPN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+ütemének	ütem	NOUN	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+megvalósításához	megvalósítás	NOUN	Case=All|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+szükséges	szükséges	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+FIDIC	FIDIC	PROPN	Case=Nom|Number=Sing	
+mérnöki	mérnöki	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+,	,	PUNCT	_	
+műszaki	műszaki	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+ellenőri	ellenőri	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+tevékenység	tevékenység	NOUN	Case=Nom|Number=Sing	
+ellátása	ellátás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+KEHOP-1	KEHOP-1	PROPN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+
+3	3	NUM	Case=Nom|NumType=Card|Number=Sing	
+.	.	PUNCT	_	
+1-15-2015-00001	1-15-2015-00001	PROPN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+

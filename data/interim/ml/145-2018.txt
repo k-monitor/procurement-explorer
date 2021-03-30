@@ -1,0 +1,4 @@
+Adásvételi	adásvételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+

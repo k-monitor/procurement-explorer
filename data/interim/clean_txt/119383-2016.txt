@@ -1,0 +1,4 @@
+a duna transznacionális program lebonyolítás támogató monitoring és információs rendszer
+danube monitoring system dms
+fejlesztés
+bevezetés és működés-támogatás

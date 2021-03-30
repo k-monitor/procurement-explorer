@@ -1,0 +1,11 @@
+Használaton	használat	NOUN	Case=Sup|Number=Sing	
+kívüli	kívüli	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+bányászati	bányászati	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+célú	célú	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+mélyfúrások	mélyfúrás	NOUN	Case=Nom|Number=Plur	
+biztonságba	biztonság	NOUN	Case=Ill|Number=Sing	
+helyezése	helyezés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+,	,	PUNCT	_	
+elzárása	elzárás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

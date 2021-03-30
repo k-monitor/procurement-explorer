@@ -1,0 +1,9 @@
+Vas	Vas	PROPN	Case=Nom|Number=Sing	
+,	,	PUNCT	_	
+fém	fém	NOUN	Case=Nom|Number=Sing	
+,	,	PUNCT	_	
+színesfém	színesfém	NOUN	Case=Nom|Number=Sing	
+áruk	áru	NOUN	Case=Nom|Number=Plur	
+szállítása	szállítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

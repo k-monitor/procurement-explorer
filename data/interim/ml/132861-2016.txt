@@ -1,0 +1,17 @@
+Megbízási	megbízási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+a	a	DET	Definite=Def|PronType=Art	
+Radioaktív	radioaktív	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+Hulladéktároló	hulladéktároló	NOUN	Case=Nom|Number=Sing	
+és	és	CONJ	_	
+Feldolgozó	feldolgozó	NOUN	Case=Nom|Number=Sing	
+(	(	PUNCT	_	
+RHFT	RHFT	PROPN	Case=Nom|Number=Sing	
+)	)	PUNCT	_	
+biztonságnövelő	biztonságnövelő	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+beruházási	beruházási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+munkáinak	munka	NOUN	Case=Gen|Number=Plur|Number[psor]=Sing|Person[psor]=3	
+műszaki	műszaki	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+ellenőrzésére	ellenőrzés	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

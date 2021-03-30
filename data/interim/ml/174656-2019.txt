@@ -1,0 +1,6 @@
+3	3	NUM	Case=Nom|NumType=Card|Number=Sing	
+db	db	NOUN	Case=Nom|Number=Sing	
+porlasztó	porlasztó	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
+tárcsa	tárcsa	NOUN	Case=Nom|Number=Sing	
+beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+

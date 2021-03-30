@@ -1,0 +1,16 @@
+Étkeztetés	étkeztetés	NOUN	Case=Nom|Number=Sing	
+biztosítása	biztosítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+-	-	PUNCT	_	
+konyhabérlés	konyhabérlés	NOUN	Case=Nom|Number=Sing	
+és	és	CONJ	_	
+nyersanyagbeszerzés	nyersanyagbeszerzés	NOUN	Case=Nom|Number=Sing	
+útján	útján	ADP	_	
+-	-	PUNCT	_	
+Fót	fót	NOUN	Case=Nom|Number=Sing	
+Város	város	NOUN	Case=Nom|Number=Sing	
+intézményei	intézmény	NOUN	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3	
+részére	részére	ADP	_	
+határozott	határozott	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+időre	idő	NOUN	Case=Sub|Number=Sing	
+.	.	PUNCT	_	
+

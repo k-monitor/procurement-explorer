@@ -1,0 +1,5 @@
+Digitális	digitális	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+röntgen	röntgen	NOUN	Case=Nom|Number=Sing	
+berendezések	berendezés	NOUN	Case=Nom|Number=Plur	
+beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+

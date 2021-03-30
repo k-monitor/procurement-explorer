@@ -1,0 +1,34 @@
+Keretmegállapodás	keretmegállapodás	NOUN	Case=Nom|Number=Sing	
+a	a	DET	Definite=Def|PronType=Art	
+339	339	NUM	Case=Nom|NumType=Card|Number=Sing	
+/	/	PUNCT	_	
+2014.	2014.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+
+(	(	PUNCT	_	
+XII	12	NUM	Case=Nom|NumType=Card|Number=Sing	
+.	.	PUNCT	_	
+
+19.	19.	NUM	Case=Nom|NumType[sem]=Time|Number=Sing	
+)	)	PUNCT	_	
+
+Korm	Korm	PROPN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+rendelet	rendelet	PROPN	Case=Nom|Number=Sing	
+1.	1.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+§	§	NOUN	Case=Nom|Number=Sing	
+b	b	PROPN	Case=Nom|Number=Sing	
+)	)	PUNCT	_	
+pontja	pont	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+szerinti	szerinti	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+víziközmű	víziközmű	NOUN	Case=Nom|Number=Sing	
+projektekhez	projekt	NOUN	Case=All|Number=Plur	
+kapcsolódó	kapcsolódó	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
+FIDIC	FIDIC	PROPN	Case=Nom|Number=Sing	
+mérnöki	mérnöki	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+és	és	CONJ	_	
+műszaki	műszaki	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+ellenőri	ellenőri	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+feladatok	feladat	NOUN	Case=Nom|Number=Plur	
+ellátására	ellátás	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

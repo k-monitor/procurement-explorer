@@ -1,0 +1,9 @@
+Kovács	Kovács	PROPN	Case=Nom|Number=Sing	
+Katalin	Katalin	PROPN	Case=Nom|Number=Sing	
+Nemzeti	Nemzeti	PROPN	Case=Nom|Number=Sing	
+Kajak-Kenu	kajak-kenu	NOUN	Case=Nom|Number=Sing	
+Sportakadémia	sportakadémia	NOUN	Case=Nom|Number=Sing	
+generáltervezői	generáltervezői	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+feladatának	feladat	NOUN	Case=Dat|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+ellátása	ellátás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+

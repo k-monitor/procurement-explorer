@@ -1,0 +1,124 @@
+1.	1.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+rész	rész	NOUN	Case=Nom|Number=Sing	
+:	:	PUNCT	_	
+Magas-Hegyi	Magas-hegyi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+libegő	libegő	NOUN	Case=Nom|Number=Sing	
+A	a	DET	Definite=Def|PronType=Art	
+322	322	NUM	Case=Nom|NumType=Card|Number=Sing	
+/	/	PUNCT	_	
+2015.	2015.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+
+(	(	PUNCT	_	
+X.	10.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+30.	30.	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+)	)	PUNCT	_	
+
+Korm	Korm	PROPN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+rendelet	rendelet	PROPN	Case=Nom|Number=Sing	
+14.	14.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+
+§	§	NOUN	Case=Nom|Number=Sing	
+(	(	PUNCT	_	
+1	1	NUM	Case=Nom|NumType[sem]=Time|Number=Sing	
+)	)	PUNCT	_	
+bekezdés	bekezdés	NOUN	Case=Nom|Number=Sing	
+b	b	PROPN	Case=Nom|Number=Sing	
+)	)	PUNCT	_	
+pontja	pont	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+alapján	alap	NOUN	Case=Sup|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+építmény	építmény	NOUN	Case=Nom|Number=Sing	
+kivitelezése	kivitelezés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+és	és	CONJ	_	
+tervezése	tervezés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+együtt	együtt	ADP	_	
+.	.	PUNCT	_	
+
+A	a	DET	Definite=Def|PronType=Art	
+tervezési	tervezési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+feladat	feladat	NOUN	Case=Nom|Number=Sing	
+magában	maga	PRON	Case=Ine|Number=Sing|Person=3|Reflex=Yes	
+foglalja	foglal	VERB	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	
+az	az	DET	Definite=Def|PronType=Art	
+engedélyes	engedélyes	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+és	és	CONJ	_	
+kiviteli	kiviteli	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+tervek	terv	NOUN	Case=Nom|Number=Plur	
+elkészítését	elkészítés	NOUN	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+is	is	CONJ	_	
+.	.	PUNCT	_	
+
+A	a	DET	Definite=Def|PronType=Art	
+meglévő	meglévő	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
+kétüléses	kétüléses	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+libegő	libegő	NOUN	Case=Nom|Number=Sing	
+szétszerelésre	szétszerelés	NOUN	Case=Sub|Number=Sing	
+kerül	kerül	VERB	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	
+és	és	CONJ	_	
+helyére	hely	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+új	új	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+kétüléses	kétüléses	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+kötélpálya	kötélpálya	NOUN	Case=Nom|Number=Sing	
+kerül	kerül	VERB	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	
+.	.	PUNCT	_	
+
+2.	2.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+rész	rész	NOUN	Case=Nom|Number=Sing	
+:	:	PUNCT	_	
+2.	2.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+rész	rész	NOUN	Case=Nom|Number=Sing	
+:	:	PUNCT	_	
+Szár-hegyi	Szár-hegyi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+libegő	libegő	NOUN	Case=Nom|Number=Sing	
+A	a	DET	Definite=Def|PronType=Art	
+322	322	NUM	Case=Nom|NumType=Card|Number=Sing	
+/	/	PUNCT	_	
+2015.	2015.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+
+(	(	PUNCT	_	
+X.	10.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+30.	30.	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+)	)	PUNCT	_	
+
+Korm	Korm	PROPN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+rendelet	rendelet	PROPN	Case=Nom|Number=Sing	
+14.	14.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+
+§	§	NOUN	Case=Nom|Number=Sing	
+(	(	PUNCT	_	
+1	1	NUM	Case=Nom|NumType[sem]=Time|Number=Sing	
+)	)	PUNCT	_	
+bekezdés	bekezdés	NOUN	Case=Nom|Number=Sing	
+b	b	PROPN	Case=Nom|Number=Sing	
+)	)	PUNCT	_	
+pontja	pont	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+alapján	alap	NOUN	Case=Sup|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+építmény	építmény	NOUN	Case=Nom|Number=Sing	
+kivitelezése	kivitelezés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+és	és	CONJ	_	
+tervezése	tervezés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+együtt	együtt	ADP	_	
+.	.	PUNCT	_	
+
+A	a	DET	Definite=Def|PronType=Art	
+tervezési	tervezési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+feladat	feladat	NOUN	Case=Nom|Number=Sing	
+magában	maga	PRON	Case=Ine|Number=Sing|Person=3|Reflex=Yes	
+foglalja	foglal	VERB	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	
+az	az	DET	Definite=Def|PronType=Art	
+engedélyes	engedélyes	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+és	és	CONJ	_	
+kiviteli	kiviteli	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+tervek	terv	NOUN	Case=Nom|Number=Plur	
+elkészítését	elkészítés	NOUN	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+is	is	CONJ	_	
+.	.	PUNCT	_	
+
+Új	új	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+kötélpálya	kötélpálya	NOUN	Case=Nom|Number=Sing	
+létesítése	létesítés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+a	a	DET	Definite=Def|PronType=Art	
+feladat	feladat	NOUN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+

@@ -1,0 +1,10 @@
+Vállalkozási	Vállalkozási	PROPN	Case=Nom|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+burkolatállapot	burkolatállapot	NOUN	Case=Nom|Number=Sing	
+mérés	mérés	NOUN	Case=Nom|Number=Sing	
+elvégzésére	elvégzés	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+az	az	DET	Definite=Def|PronType=Art	
+országos	országos	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+úthálózaton	úthálózat	NOUN	Case=Sup|Number=Sing	
+.	.	PUNCT	_	
+

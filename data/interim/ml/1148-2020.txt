@@ -1,0 +1,10 @@
+Villamos	Villamos	PROPN	Case=Nom|Number=Sing	
+energia	energia	NOUN	Case=Nom|Number=Sing	
+-	-	PUNCT	_	
+köz	köz	NOUN	Case=Nom|Number=Sing	
+-	-	PUNCT	_	
+és	és	CONJ	_	
+térvilágítás	térvilágítás	NOUN	Case=Nom|Number=Sing	
+,	,	PUNCT	_	
+2020	2020	NUM	Case=Nom|NumType=Card|Number=Sing	
+

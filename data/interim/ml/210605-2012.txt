@@ -1,0 +1,10 @@
+Személygépjárművek	személygépjármű	NOUN	Case=Nom|Number=Plur	
+beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+a	a	DET	Definite=Def|PronType=Art	
+NAV	NAV	PROPN	Case=Nom|Number=Sing	
+részére	részére	ADP	_	
+8	8	NUM	Case=Nom|NumType=Card|Number=Sing	
+rész	rész	NOUN	Case=Nom|Number=Sing	
+keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

@@ -1,0 +1,11 @@
+Határidős	határidős	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+adásvételi	adásvételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+/	/	PUNCT	_	
+Különféle	különféle	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+gyógyszerek	gyógyszer	NOUN	Case=Nom|Number=Plur	
+és	és	CONJ	_	
+infúziók	infúzió	NOUN	Case=Nom|Number=Plur	
+szállítására	szállítás	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

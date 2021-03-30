@@ -1,0 +1,6 @@
+Járóbeteg-szakellátás	Járóbeteg-szakellátás	PROPN	Case=Nom|Number=Sing	
+orvostechnológiai	orvostechnológiai	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+eszközbeszerzése	eszközbeszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+8	8	NUM	Case=Nom|NumType=Card|Number=Sing	
+részben	rész	NOUN	Case=Ine|Number=Sing	
+

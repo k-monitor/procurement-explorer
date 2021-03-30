@@ -1,0 +1,17 @@
+Vállalkozási	Vállalkozási	PROPN	Case=Nom|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+tankönyvek	tankönyv	NOUN	Case=Nom|Number=Plur	
+nyomdai	nyomdai	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+előállítását	előállítás	NOUN	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+célzó	célzó	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
+nyomdai	nyomdai	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szolgáltatás	szolgáltatás	NOUN	Case=Nom|Number=Sing	
+beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+az	az	DET	Definite=Def|PronType=Art	
+Oktatáskutató	oktatáskutató	NOUN	Case=Nom|Number=Sing	
+és	és	CONJ	_	
+Fejlesztő	Fejlesztő	PROPN	Case=Nom|Number=Sing	
+Intézet	Intézet	PROPN	Case=Nom|Number=Sing	
+részére	részére	ADP	_	
+.	.	PUNCT	_	
+

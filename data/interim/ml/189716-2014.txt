@@ -1,0 +1,23 @@
+Tengelysúly	tengelysúly	NOUN	Case=Nom|Number=Sing	
+mérleg	mérleg	NOUN	Case=Nom|Number=Sing	
+beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+a	a	DET	Definite=Def|PronType=Art	
+Magyar	Magyar	PROPN	Case=Nom|Number=Sing	
+Közút	közút	NOUN	Case=Nom|Number=Sing	
+Nonprofit	nonprofit	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+Zrt.	Zrt.	PROPN	Case=Nom|Number=Sing	
+részére	részére	ADP	_	
+adás-vételi	adás-vételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+a	a	DET	Definite=Def|PronType=Art	
+GOP-2	GOP-2	PROPN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+
+1	1	NUM	Case=Nom|NumType=Card|Number=Sing	
+.	.	PUNCT	_	
+3-12-2012-0021	3-12-2012-0021	PROPN	Case=Nom|Number=Sing	
+projekthez	projekt	NOUN	Case=All|Number=Sing	
+kapcsolódóan	kapcsolódó	ADJ	Case=Ess|Degree=Pos|Number=Sing|VerbForm=PartPres	
+.	.	PUNCT	_	
+

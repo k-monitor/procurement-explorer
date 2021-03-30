@@ -1,0 +1,33 @@
+tervezett élelmezési szolgáltatás mennyiség
+1. rész
+betegélelmezés élelmezési nap
+év
+katonai élelmezés élelmezési nap
+év
+emelt normás élelmezés élelmezési nap
+év
+2. rész
+betegélelmezés élelmezési nap
+év
+katonai élelmezés élelmezési nap
+év
+emelt normás élelmezés élelmezési nap
+év
+3. rész
+katonai élelmezés élelmezési nap
+év
+és
+rész
+nyertes ajánlattevő
+nya
+a vállalkozási keretszerződés idő alatt rendelkeznie kell érvényes
+legalább huf
+év és legalább huf
+káresemény limithatárú közétkeztetés tevékenység vonatkozó felelősség biztosítás
+iso
+ohsas
+szerzterv meghat
+szoftver
+nya a haccp rendszer kiépítés elvégez a szerződés aláírás számított nap belül és teljes időtartam alatt fenntart
+1. rész
+nya rendelkezik szerzterv meghat tartalékkonyha

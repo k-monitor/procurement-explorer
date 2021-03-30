@@ -1,0 +1,12 @@
+Keretszerződés	keretszerződés	NOUN	Case=Nom|Number=Sing	
+nyomdai	nyomdai	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+kiviteli	kiviteli	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szolgáltatások	szolgáltatás	NOUN	Case=Nom|Number=Plur	
+nyújtására	nyújtás	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+a	a	DET	Definite=Def|PronType=Art	
+Barcika	barcika	NOUN	Case=Nom|Number=Sing	
+Art	Art	PROPN	Case=Nom|Number=Sing	
+Kft.	Kft.	PROPN	Case=Nom|Number=Sing	
+részére	részére	ADP	_	
+.	.	PUNCT	_	
+

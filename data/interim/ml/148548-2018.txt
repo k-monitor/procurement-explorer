@@ -1,0 +1,28 @@
+Adásvételi	adásvételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+gyógyszerek	gyógyszer	NOUN	Case=Nom|Number=Plur	
+,	,	PUNCT	_	
+kontrasztanyagok	kontrasztanyag	NOUN	Case=Nom|Number=Plur	
+,	,	PUNCT	_	
+infúziós	infúziós	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+oldatok	oldat	NOUN	Case=Nom|Number=Plur	
+vételére	vétel	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+
+Mindösszesen	mindösszesen	ADV	PronType=Tot	
+.	.	PUNCT	_	
+
+1-276	1-276	NUM	Case=Nom|NumType=Card|Number=Sing	
+részre	rész	NOUN	Case=Sub|Number=Sing	
+:	:	PUNCT	_	
+39	39	NUM	Case=Nom|NumType=Card|Number=Sing	
+084	084	NUM	Case=Nom|NumType=Card|Number=Sing	
+doboz	doboz	NOUN	Case=Nom|Number=Sing	
+277-290	277-290	NUM	Case=Nom|NumType=Card|Number=Sing	
+részre	rész	NOUN	Case=Sub|Number=Sing	
+:	:	PUNCT	_	
+45	45	NUM	Case=Nom|NumType=Card|Number=Sing	
+450	450	NUM	Case=Nom|NumType=Card|Number=Sing	
+db	db	NOUN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+

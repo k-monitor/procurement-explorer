@@ -1,0 +1,15 @@
+Adásvételi	adásvételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+keretszerződés	keretszerződés	NOUN	Case=Nom|Number=Sing	
+keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+új	új	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+általános	általános	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szerelési	szerelési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+segédanyagok	segédanyag	NOUN	Case=Nom|Number=Plur	
+,	,	PUNCT	_	
+hidraulika	hidraulika	NOUN	Case=Nom|Number=Sing	
+és	és	CONJ	_	
+pneumatika	pneumatika	NOUN	Case=Nom|Number=Sing	
+alkatrészek	alkatrész	NOUN	Case=Nom|Number=Plur	
+szállítása	szállítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

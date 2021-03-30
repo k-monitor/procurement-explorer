@@ -1,0 +1,14 @@
+Távvezetéki	távvezetéki	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+hibaelhárítási	hibaelhárítási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+és	és	CONJ	_	
+új	új	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+fogyasztók	fogyasztó	NOUN	Case=Nom|Number=Plur	
+bekötési	bekötési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+munkáira	munka	NOUN	Case=Sub|Number=Plur|Number[psor]=Sing|Person[psor]=3	
+keretszerződés	keretszerződés	NOUN	Case=Nom|Number=Sing	
+a	a	DET	Definite=Def|PronType=Art	
+Főtáv	Főtáv	PROPN	Case=Nom|Number=Sing	
+Zrt.	Zrt.	PROPN	Case=Nom|Number=Sing	
+részére	részére	ADP	_	
+.	.	PUNCT	_	
+

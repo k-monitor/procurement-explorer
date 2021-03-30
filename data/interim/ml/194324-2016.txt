@@ -1,0 +1,9 @@
+Használaton	használat	NOUN	Case=Sup|Number=Sing	
+kívüli	kívüli	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+bányászati	bányászati	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+célú	célú	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+mélyfúrások	mélyfúrás	NOUN	Case=Nom|Number=Plur	
+műszaki	műszaki	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+felszámolás	felszámolás	NOUN	Case=Nom|Number=Sing	
+2016.	2016.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+

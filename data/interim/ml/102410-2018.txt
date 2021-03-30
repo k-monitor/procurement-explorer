@@ -1,0 +1,14 @@
+Meglévő	meglévő	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
+épületek	épület	NOUN	Case=Nom|Number=Plur	
+teljes	teljes	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+körű	körű	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+energetikai	energetikai	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+felújítása	felújítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+,	,	PUNCT	_	
+átalakítása	átalakítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+,	,	PUNCT	_	
+korszerűsítése	korszerűsítés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+és	és	CONJ	_	
+bővítése	bővítés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

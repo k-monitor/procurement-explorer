@@ -1,0 +1,85 @@
+vállalkozási keretszerződés az ajánlatkérő meglévő sap alapú vállalatirányítási rendszer
+kapcsolódó rendszer-fejlesztési és egyéb szolgáltatás az ajánlatkérő eseti megrendelés alap történő elvégzés
+valamint az ajánlatkérő meglévő
+illetve az ajánlattevő által továbbfejlesztett sap alapú vállalatirányítási rendszer üzemvitel és üzemeltetés külső modul támogatás
+nyertes ajánlattevő feladat
+a szerződéskötés követő az ajánlatkérő sap rendszer a támogatási feladat megkezdés szükséges mérték szerinti megismerés
+mely az ajánlatkérő rendszer hozzáférési lehetőség
+és a meglévő dokumentáció betekintési lehetőség biztosít
+az ajánlattevő ezért külön díjazás nem illet meg
+a szerződés teljes időtartam alatt a rendszer modul üzemeltetési támogatás
+a megváltozott igény
+szervezet meg+felelő a meglévő sap rendszer átalakítás
+bővítés
+jelentős változáskezelés kapcsolódó teljes körű támogatás nyújtás a tervezés a megvalósítás
+a folyamatos zavartalan elérés
+a bejelentés nyom követhetőség
+és a teljesítésigazolás szükséges bizonylat
+bejelentés
+munkalap
+nyilvántartás
+és az havi jelentés elkészítés lehető tevő service desk
+sd
+szolgáltatás biztosítás
+jelenlegi rendszer szoftver komponens
+erp
+sap ecc 6.
+ehp
+non unicode
+srm
+beszerzés igénylési rendszer
+sap srm
+unicode
+mdm
+srm katalógus
+ver
+5.5 sp6
+solman
+solution manager
+unicode
+bw sap ehp 1 for sap netweaver 7.0
+unicode
+sap sap netweaver enterprise portal
+operációs rendszer
+suse linux enterprise server 10
+_ 64
+adatbázis
+oracle 11.2.0.2
+jó
+j2re 1.4.2 ibm j9 2.3 linux
+jit enabled
+standard folyamat integrált rendszer
+dms
+saperion 5.6.3
+külső
+kliens oldal
+windows
+sap gui
+sp
+bex 7. x sp
+ms internet explorer 8 a bevezetett sap modul
+fi
+számvitel
+fi-aa
+tárgyieszköz-gazdálkodás
+tr-cm
+cash menedzsment
+sd
+értékesítés
+mm
+anyaggazdálkodás
+co
+kontrolling és rendszer
+srm
+classic scenario
+beszerzés igénylési rendszer
+ver
+5.0
+mdm
+srm katalógus
+ver
+5.5 sp6
+solman
+solution manager
+sap bw
+sap enterprise portal

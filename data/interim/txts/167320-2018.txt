@@ -1,0 +1,1 @@
+Ajánlatkérő üzemeltetésében lévő ZF típusú váltószerkezet javítása.

@@ -1,0 +1,8 @@
+Újbuda	újbuda	NOUN	Case=Nom|Number=Sing	
+Sportjáért	sport	NOUN	Case=Cau|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+Nonprofit	nonprofit	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+Kft.	Kft.	PROPN	Case=Nom|Number=Sing	
+földgáz	földgáz	NOUN	Case=Nom|Number=Sing	
+beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

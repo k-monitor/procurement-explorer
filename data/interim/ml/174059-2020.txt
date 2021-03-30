@@ -1,0 +1,16 @@
+Mercedes	Mercedes	PROPN	Case=Nom|Number=Sing	
+gyártmányú	gyártmányú	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+alapgépekhez	alapgép	NOUN	Case=All|Number=Plur	
+gyári	gyári	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+új	új	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+,	,	PUNCT	_	
+és	és	CONJ	_	
+/	/	PUNCT	_	
+vagy	vagy	CONJ	_	
+gyári	gyári	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+felújított	felújított	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPast	
+alkatrészek	alkatrész	NOUN	Case=Nom|Number=Plur	
+beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+és	és	CONJ	_	
+szállítása	szállítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+

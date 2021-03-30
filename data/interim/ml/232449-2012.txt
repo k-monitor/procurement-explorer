@@ -1,0 +1,12 @@
+Szállítási	Szállítási	PROPN	Case=Nom|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+téli	téli	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+síkosság-mentesítő	síkosság-mentesítő	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+anyag	anyag	NOUN	Case=Nom|Number=Sing	
+(	(	PUNCT	_	
+útszóró	útszóró	NOUN	Case=Nom|Number=Sing	
+só	só	NOUN	Case=Nom|Number=Sing	
+)	)	PUNCT	_	
+szállítására	szállítás	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

@@ -1,0 +1,15 @@
+db pipettázó robot beszerzés pre és post pcr ngs applikáció
+1. robot
+postpcr
+a támogatás forrás áht-azonosító
+2. robot
+prepcr
+a támogatás forrás áht-azonosító
+379640. a beszerzés maga foglal a robot ajánlatkérő székhely történő szállítás
+üzem helyezés és az ajánlatkérő által kijelölt személy
+min. fő
+max
+fő
+felhasználói szintű betanítás legalább óra időtartam
+ld. még ii
+2.4

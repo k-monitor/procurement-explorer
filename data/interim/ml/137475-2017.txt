@@ -1,0 +1,15 @@
+Tamási	Tamási	PROPN	Case=Nom|Number=Sing	
+Város	Város	PROPN	Case=Nom|Number=Sing	
+közigazgatási	közigazgatási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+területén	terület	NOUN	Case=Sup|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+keletkező	keletkező	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
+települési	települési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szilárd	szilárd	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+hulladék	hulladék	NOUN	Case=Nom|Number=Sing	
+gyűjtése	gyűjtés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+,	,	PUNCT	_	
+elszállítása	elszállítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+és	és	CONJ	_	
+kezelése	kezelés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

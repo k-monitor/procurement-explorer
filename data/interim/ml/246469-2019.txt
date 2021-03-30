@@ -1,0 +1,12 @@
+Keretmegállapodás	keretmegállapodás	NOUN	Case=Nom|Number=Sing	
+hemodinamikai	hemodinamikai	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+fogyóanyagok	fogyóanyag	NOUN	Case=Nom|Number=Plur	
+beszerzésére	beszerzés	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+25	25	NUM	Case=Nom|NumType=Card|Number=Sing	
+részben	rész	NOUN	Case=Ine|Number=Sing	
+,	,	PUNCT	_	
+kihelyezett	kihelyezett	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPast	
+áruraktár	áruraktár	NOUN	Case=Nom|Number=Sing	
+biztosításával	biztosítás	NOUN	Case=Ins|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

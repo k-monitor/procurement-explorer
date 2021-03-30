@@ -1,0 +1,1 @@
+On-line bankkártyás fizetéshez (VPOS) szükséges szolgáltatások nyújtása.

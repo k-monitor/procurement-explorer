@@ -1,0 +1,8 @@
+Keretmegállapodás	keretmegállapodás	NOUN	Case=Nom|Number=Sing	
+közfoglalkoztatási	közfoglalkoztatási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+programok	program	NOUN	Case=Nom|Number=Plur	
+lebonyolításához	lebonyolítás	NOUN	Case=All|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+szállítójárművek	szállítójármű	NOUN	Case=Nom|Number=Plur	
+bérletére	bérlet	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

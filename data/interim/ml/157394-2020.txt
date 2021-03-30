@@ -1,0 +1,11 @@
+Takarítási	takarítási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+feladatok	feladat	NOUN	Case=Nom|Number=Plur	
+ellátása	ellátás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+az	az	DET	Definite=Def|PronType=Art	
+OBH	OBH	PROPN	Case=Nom|Number=Sing	
+részére	részére	ADP	_	
+,	,	PUNCT	_	
+két	két	NUM	Case=Nom|NumType=Card|Number=Sing	
+épületben	épület	NOUN	Case=Ine|Number=Sing	
+.	.	PUNCT	_	
+

@@ -1,0 +1,13 @@
+Szállítási	Szállítási	PROPN	Case=Nom|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+/	/	PUNCT	_	
+Új	Új	PROPN	Case=Nom|Number=Sing	
+1	1	NUM	Case=Nom|NumType=Card|Number=Sing	
+100	100	NUM	Case=Nom|NumType=Card|Number=Sing	
+literes	literes	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+fém	fém	NOUN	Case=Nom|Number=Sing	
+hulladékgyűjtő	hulladékgyűjtő	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+tartályok	tartály	NOUN	Case=Nom|Number=Plur	
+beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

@@ -1,0 +1,14 @@
+Városmajori	városmajori	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+Szív-és	Szív-és	CONJ	_	
+Érgyógyászati	érgyógyászati	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+Klinika	Klinika	PROPN	Case=Nom|Number=Sing	
+részére	részére	ADP	_	
+egyszer	egy	ADV	_	
+használatos	használatos	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+tételes	tételes	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+finanszírozású	finanszírozású	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szívsebészeti	szívsebészeti	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+eszközök	eszköz	NOUN	Case=Nom|Number=Plur	
+beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

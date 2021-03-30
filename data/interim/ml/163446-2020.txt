@@ -1,0 +1,10 @@
+Zárt	zárt	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+rendszerű	rendszerű	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+gyógyszerátviteli	gyógyszerátviteli	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+eszközök	eszköz	NOUN	Case=Nom|Number=Plur	
+(	(	PUNCT	_	
+CSTD	CSTD	PROPN	Case=Nom|Number=Sing	
+)	)	PUNCT	_	
+citosztatikus	citosztatikus	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+keverékinfúziókhoz	keverékinfúzió	NOUN	Case=All|Number=Plur	
+

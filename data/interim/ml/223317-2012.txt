@@ -1,0 +1,27 @@
+Vezetékes	vezetékes	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+földgázbeszerzés	földgázbeszerzés	NOUN	Case=Nom|Number=Sing	
+2013.01.01	2013.01.01	PROPN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+
+0	0	NUM	Case=Nom|NumType=Card|Number=Sing	
+:	:	PUNCT	_	
+00	00	NUM	Case=Nom|NumType=Card|Number=Sing	
+CET	cet	NOUN	Case=Nom|Number=Sing	
+-	-	PUNCT	_	
+2013.12.31	2013.12.31	PROPN	Case=Nom|Number=Sing	
+24	24	NUM	Case=Nom|NumType=Card|Number=Sing	
+:	:	PUNCT	_	
+00	00	NUM	Case=Nom|NumType=Card|Number=Sing	
+CET	cet	NOUN	Case=Nom|Number=Sing	
+időszakra	időszak	NOUN	Case=Sub|Number=Sing	
+vonatkozóan	vonatkozó	ADJ	Case=Ess|Degree=Pos|Number=Sing|VerbForm=PartPres	
+,	,	PUNCT	_	
+teljes	teljes	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+ellátás	ellátás	NOUN	Case=Nom|Number=Sing	
+alapú	alapú	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+földgáz	földgáz	NOUN	Case=Nom|Number=Sing	
+szállítási	szállítási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

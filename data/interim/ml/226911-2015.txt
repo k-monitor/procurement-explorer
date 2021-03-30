@@ -1,0 +1,22 @@
+Adásvételi	adásvételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+alapján	alap	NOUN	Case=Sup|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+orvosi	orvosi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+eszközök	eszköz	NOUN	Case=Nom|Number=Plur	
+szállítása	szállítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+,	,	PUNCT	_	
+berendezések	berendezés	NOUN	Case=Nom|Number=Plur	
+beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+az	az	DET	Definite=Def|PronType=Art	
+ÉAOP-2	ÉAOP-2	NOUN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+
+1.1	1.1	PROPN	Case=Nom|Number=Sing	
+/	/	PUNCT	_	
+G-12-2012-0007	G-12-2012-0007	PROPN	Case=Nom|Number=Sing	
+azonosító	azonosító	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
+számú	számú	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+projekt	projekt	NOUN	Case=Nom|Number=Sing	
+keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

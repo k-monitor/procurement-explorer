@@ -1,0 +1,8 @@
+Útépítés	útépítés	NOUN	Case=Nom|Number=Sing	
+,	,	PUNCT	_	
+útfenntartás	útfenntartás	NOUN	Case=Nom|Number=Sing	
+és	és	CONJ	_	
+mélyépítés	mélyépítés	NOUN	Case=Nom|Number=Sing	
+keretmegállapodás	keretmegállapodás	NOUN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+

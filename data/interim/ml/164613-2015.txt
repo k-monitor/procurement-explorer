@@ -1,0 +1,13 @@
+Román	Román	PROPN	Case=Nom|Number=Sing	
+Csarnok	csarnok	NOUN	Case=Nom|Number=Sing	
+és	és	CONJ	_	
+kapcsolódó	kapcsolódó	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
+tereinek	tér	NOUN	Case=Gen|Number=Plur|Number[psor]=Sing|Person[psor]=3	
+rekonstrukciója	rekonstrukció	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+az	az	DET	Definite=Def|PronType=Art	
+ajánlati	ajánlati	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+dokumentációban	dokumentáció	NOUN	Case=Ine|Number=Sing	
+részletezettek	részletezett	NOUN	Case=Nom|Number=Plur	
+szerint	szerint	ADP	_	
+.	.	PUNCT	_	
+

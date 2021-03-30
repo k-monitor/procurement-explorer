@@ -1,0 +1,12 @@
+Kölcsönszerződés	kölcsönszerződés	NOUN	Case=Nom|Number=Sing	
+beruházási	beruházási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+hitel	hitel	NOUN	Case=Nom|Number=Sing	
+felvételére	felvétel	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+az	az	DET	Definite=Def|PronType=Art	
+MFB	MFB	PROPN	Case=Nom|Number=Sing	
+Önkormányzati	Önkormányzati	PROPN	Case=Nom|Number=Sing	
+Infrastruktúrafejlesztési	infrastruktúrafejlesztési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+Program	Program	PROPN	Case=Nom|Number=Sing	
+keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

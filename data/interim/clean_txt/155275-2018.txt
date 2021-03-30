@@ -1,0 +1,29 @@
+1. a közvilágítási rendszer
+további kr
+korszerűsítés 1. ütem
+meglévő kr korszerűsítés led fényforrású világítótest
+tervezés
+kiviteli terv
+együtt
+bontandó a jelenleg üzemelő db világítótest és minden tartozék
+légvezetéki csatlakozó
+bekötő vezeték
+korrodált lámpakar
+nullázó vezeték
+a korszerűsítés keret így építendő db korszerű
+led fényforrás üzemelő világítótest
+2. a kr korszerűsítés ii
+ütem
+opcionális
+az 1. ütem eredmény kiépített korszerű led fényforrású világítótest felszerelt kr fénypont sűrítés led fényforrású világítótest
+a fejlesztés keret építendő db korszerű
+led fényforrás üzemelő világítótest és minden tartozék
+lámpakar
+légvezetéki csatlakozó
+bekötő vezeték
+nullázó vezeték
+3. a megvalósult kr üzemeltetés keret
+folyamatos karbantartás
+közvilágítási hibacím kezelés
+üzemzavar elhárítás
+tanácsadás és képviselet közvilágítási ügy

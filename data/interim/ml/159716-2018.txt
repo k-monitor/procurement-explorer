@@ -1,0 +1,12 @@
+CT	CT	PROPN	Case=Nom|Number=Sing	
+berendezések	berendezés	NOUN	Case=Nom|Number=Plur	
+teljes	teljes	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+körű	körű	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+karbantartása	karbantartás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+és	és	CONJ	_	
+szervizelése	szervizelés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+vállalkozási	vállalkozási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

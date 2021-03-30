@@ -1,0 +1,12 @@
+Vállalkozási	Vállalkozási	PROPN	Case=Nom|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+Hírös	hírös	NOUN	Case=Nom|Number=Sing	
+Sport	Sport	PROPN	Case=Nom|Number=Sing	
+Nonprofit	nonprofit	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+Kft.	Kft.	PROPN	Case=Nom|Number=Sing	
+létesítményeiben	létesítmény	NOUN	Case=Ine|Number=Plur|Number[psor]=Sing|Person[psor]=3	
+takarítási	takarítási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+feladatok	feladat	NOUN	Case=Nom|Number=Plur	
+ellátására	ellátás	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

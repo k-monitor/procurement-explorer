@@ -1,0 +1,16 @@
+Egyedi	egyedi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+vákuum	vákuum	NOUN	Case=Nom|Number=Sing	
+kamrák	kamra	NOUN	Case=Nom|Number=Plur	
+beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+HR	HR	PROPN	Case=Nom|Number=Sing	
+és	és	CONJ	_	
+SYLOS	SYLOS	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+lézer	lézer	NOUN	Case=Nom|Number=Sing	
+nyalábvezetéséhez	nyalábvezetés	NOUN	Case=All|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+adásvétellel	adásvétel	NOUN	Case=Ins|Number=Sing	
+vegyes	vegyes	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+vállalkozási	vállalkozási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

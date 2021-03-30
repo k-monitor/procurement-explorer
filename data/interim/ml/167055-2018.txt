@@ -1,0 +1,23 @@
+„	„	PUNCT	_	
+Pénzügyi	Pénzügyi	PROPN	Case=Nom|Number=Sing	
+közvetítői	közvetítői	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szolgáltatások	szolgáltatás	NOUN	Case=Nom|Number=Plur	
+nyújtása	nyújtás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+a	a	DET	Definite=Def|PronType=Art	
+GINOP-8	GINOP-8	PROPN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+
+3	3	NUM	Case=Nom|NumType=Card|Number=Sing	
+.	.	PUNCT	_	
+3-17	3-17	NUM	Case=Nom|NumType=Card|Number=Sing	
+Irinyi	irinyi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+Tőkeprogram	tőkeprogram	NOUN	Case=Nom|Number=Sing	
+(	(	PUNCT	_	
+TP	TP	PROPN	Case=Nom|Number=Sing	
+)	)	PUNCT	_	
+végrehajtásának	végrehajtás	NOUN	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+biztosítása	biztosítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+érdekében	érdek	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+"	"	PUNCT	_	
+.	.	PUNCT	_	
+

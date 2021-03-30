@@ -1,0 +1,16 @@
+EM-584	EM-584	PROPN	Case=Nom|Number=Sing	
+DE	de	CONJ	_	
+OEC	OEC	PROPN	Case=Nom|Number=Sing	
+részére	részére	ADP	_	
+12	12	NUM	Case=Nom|NumType=Card|Number=Sing	
+hónapra	hónap	NOUN	Case=Sub|Number=Sing	
+vonatkozó	vonatkozó	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
+sebészeti	sebészeti	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+varrógépek	varrógép	NOUN	Case=Nom|Number=Plur	
+és	és	CONJ	_	
+tárak	tár	NOUN	Case=Nom|Number=Plur	
+szállítása	szállítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+konszignációs	konszignációs	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+raktár	raktár	NOUN	Case=Nom|Number=Sing	
+üzemeltetésével	üzemeltetés	NOUN	Case=Ins|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+

@@ -1,0 +1,9 @@
+Ajánlatkérő	ajánlatkérő	NOUN	Case=Nom|Number=Sing	
+üzemeltetésében	üzemeltetés	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+lévő	lévő	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
+ZF	ZF	PROPN	Case=Nom|Number=Sing	
+típusú	típusú	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+váltószerkezet	váltószerkezet	NOUN	Case=Nom|Number=Sing	
+javítása	javítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

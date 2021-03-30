@@ -1,0 +1,16 @@
+McAfee	mcafee	NOUN	Case=Nom|Number=Sing	
+Endpoint	Endpoint	PROPN	Case=Nom|Number=Sing	
+Protection	Protection	PROPN	Case=Nom|Number=Sing	
+-	-	PUNCT	_	
+Advanced	Advanced	PROPN	Case=Nom|Number=Sing	
+Suite	Suite	PROPN	Case=Nom|Number=Sing	
+licencek	licenc	NOUN	Case=Nom|Number=Plur	
+meghosszabbítása	meghosszabbítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+,	,	PUNCT	_	
+valamint	valamint	CONJ	_	
+kapcsolódó	kapcsolódó	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
+gyártói	gyártói	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+támogatás	támogatás	NOUN	Case=Nom|Number=Sing	
+megújítása	megújítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

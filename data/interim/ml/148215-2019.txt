@@ -1,0 +1,22 @@
+VEKOP-5	VEKOP-5	PROPN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+
+3	3	NUM	Case=Nom|NumType=Card|Number=Sing	
+.	.	PUNCT	_	
+3.-17-2017-00002	3.-17-2017-00002	PROPN	Case=Nom|Number=Sing	
+kódszámú	kódszámú	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+,	,	PUNCT	_	
+«	«	PUNCT	_	
+Az	az	DET	Definite=Def|PronType=Art	
+Érd	ér	VERB	Definite=Def|Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	
+,	,	PUNCT	_	
+Elöljáró-Velencei	Elöljáró-velencei	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+utak	út	NOUN	Case=Nom|Number=Plur	
+forgalomirányított	forgalomirányít	VERB	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	
+csomópontjának	csomópont	NOUN	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+fejlesztése	fejlesztés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+»	»	PUNCT	_	
+tárgyú	tárgyú	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+projekt	projekt	NOUN	Case=Nom|Number=Sing	
+kivitelezése	kivitelezés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+

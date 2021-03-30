@@ -1,0 +1,12 @@
+Adásvételi	adásvételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+2	2	NUM	Case=Nom|NumType=Card|Number=Sing	
+db	db	NOUN	Case=Nom|Number=Sing	
+direkt	direkt	ADJ	Case=Nom|Degree=Cmp|Number=Sing	
+digitális	digitális	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+röntgen	röntgen	NOUN	Case=Nom|Number=Sing	
+berendezés	berendezés	NOUN	Case=Nom|Number=Sing	
+beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+érdekében	érdek	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

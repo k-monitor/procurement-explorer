@@ -1,0 +1,9 @@
+Adásvételi	adásvételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+1	1	NUM	Case=Nom|NumType=Card|Number=Sing	
+db	db	NOUN	Case=Nom|Number=Sing	
+pollenmérő	pollenmérő	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+busz	busz	NOUN	Case=Nom|Number=Sing	
+szállítására	szállítás	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

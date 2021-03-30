@@ -1,0 +1,7 @@
+Hossztoldó	hossztoldó	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+sor	sor	NOUN	Case=Nom|Number=Sing	
+szerszámgép	szerszámgép	NOUN	Case=Nom|Number=Sing	
+végtelen	végtelen	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+préssel	prés	NOUN	Case=Ins|Number=Sing	
+.	.	PUNCT	_	
+

@@ -1,0 +1,13 @@
+Budapesti	Budapesti	PROPN	Case=Nom|Number=Sing	
+Corvinus	Corvinus	PROPN	Case=Nom|Number=Sing	
+Egyetem	Egyetem	PROPN	Case=Nom|Number=Sing	
+pesti	pesti	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+oktatási	oktatási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+létesítményeiben	létesítmény	NOUN	Case=Ine|Number=Plur|Number[psor]=Sing|Person[psor]=3	
+őrzés-védelmi	őrzés-védelmi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+és	és	CONJ	_	
+portaszolgálati	portaszolgálati	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+feladatok	feladat	NOUN	Case=Nom|Number=Plur	
+ellátása	ellátás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

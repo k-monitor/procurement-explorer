@@ -1,0 +1,23 @@
+Szállítási	Szállítási	PROPN	Case=Nom|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+különféle	különféle	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+élelmiszerek	élelmiszer	NOUN	Case=Nom|Number=Plur	
+beszerzésére	beszerzés	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+,	,	PUNCT	_	
+szerződéskötéstől	szerződéskötés	NOUN	Case=Abl|Number=Sing	
+számított	számított	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPast	
+24	24	NUM	Case=Nom|NumType=Card|Number=Sing	
+hónap	hónap	NOUN	Case=Nom|Number=Sing	
+határozott	határozott	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+időre	idő	NOUN	Case=Sub|Number=Sing	
+.	.	PUNCT	_	
+
+Röviden	rövid	ADJ	Case=Ess|Degree=Pos|Number=Sing	
+:	:	PUNCT	_	
+„	„	PUNCT	_	
+Élelmiszer	élelmiszer	NOUN	Case=Nom|Number=Sing	
+beszerzés	beszerzés	NOUN	Case=Nom|Number=Sing	
+2015	2015	NUM	Case=Nom|NumType=Card|Number=Sing	
+"	"	PUNCT	_	
+.	.	PUNCT	_	
+

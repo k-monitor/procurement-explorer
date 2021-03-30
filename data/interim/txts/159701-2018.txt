@@ -1,0 +1,1 @@
+A KÖFOP-1.0.0-VEKOP-15-2016-00040 számú projekt keretében, az Elektronikus Ingatlan-nyilvántartás létrehozása érdekében infrastruktúra-felmérési, valamint adatbázis- és alkalmazásfejlesztési feladatok ellátása.

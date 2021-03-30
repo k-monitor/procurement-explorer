@@ -1,0 +1,8 @@
+Adásvételi	adásvételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+gyógyszertári	gyógyszertári	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+termékek	termék	NOUN	Case=Nom|Number=Plur	
+szállítása	szállítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+tárgyában	tárgy	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

@@ -1,0 +1,3 @@
+informatikai rendszer szállítás
+telepítés
+ajánlatkérő meglévő videokonferencia központi rendszer bővítés és integráció

@@ -1,0 +1,9 @@
+Földgáz	földgáz	NOUN	Case=Nom|Number=Sing	
+beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+teljes	teljes	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+ellátásalapú	ellátásalapú	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+földgáz-kereskedelmi	földgáz-kereskedelmi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

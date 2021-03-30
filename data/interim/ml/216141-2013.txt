@@ -1,0 +1,18 @@
+Részajánlatonként	részajánlatonként	NOUN	Case=Dis|Number=Sing	
+határozott	határozott	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+idejű	idejű	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+vállalkozási	vállalkozási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+a	a	DET	Definite=Def|PronType=Art	
+II	II	PROPN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+
+2.1	2.1	PROPN	Case=Nom|Number=Sing	
+)	)	PUNCT	_	
+pontban	pont	NOUN	Case=Ine|Number=Sing	
+meghatározott	meghatározott	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPast	
+takarítási	takarítási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+feladatok	feladat	NOUN	Case=Nom|Number=Plur	
+ellátására	ellátás	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

@@ -1,0 +1,14 @@
+Szolgáltatási	szolgáltatási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+keretszerződés	keretszerződés	NOUN	Case=Nom|Number=Sing	
+-	-	PUNCT	_	
+HHM	HHM	PROPN	Case=Nom|Number=Sing	
+területén	terület	NOUN	Case=Sup|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+lévő	lévő	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
+különféle	különféle	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+SIGMA	SIGMA	PROPN	Case=Nom|Number=Sing	
+típusú	típusú	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szivattyúk	szivattyú	NOUN	Case=Nom|Number=Plur	
+helyszíni	helyszíni	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+javítása	javítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

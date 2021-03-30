@@ -1,0 +1,5 @@
+a welcome havária fürdőirányítási rendszer távprogramozás útján történő továbbfejlesztés
+a rendszer üzemelés szükséges hardver eszköz szállítás
+beüzemelés
+a szükséges infrastruktúra kialakítás
+a meglévő eszköz integrálás

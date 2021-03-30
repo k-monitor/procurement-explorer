@@ -1,0 +1,7 @@
+K1969	K1969	PROPN	Case=Nom|Number=Sing	
+MAN	MAN	PROPN	Case=Nom|Number=Sing	
+alkatrész	alkatrész	NOUN	Case=Nom|Number=Sing	
+beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+és	és	CONJ	_	
+szállítása	szállítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+

@@ -1,0 +1,8 @@
+Nemzetközi	nemzetközi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+együttműködési	együttműködési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+programok	program	NOUN	Case=Nom|Number=Plur	
+második	második	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+szintű	szintű	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+projektellenőrzése	projektellenőrzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

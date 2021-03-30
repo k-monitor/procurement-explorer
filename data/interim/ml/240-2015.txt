@@ -1,0 +1,42 @@
+Adásvételi	adásvételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szerződések	szerződés	NOUN	Case=Nom|Number=Plur	
+dobozos	dobozos	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szoftverek	szoftver	NOUN	Case=Nom|Number=Plur	
+beszerzésére	beszerzés	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+az	az	DET	Definite=Def|PronType=Art	
+alábbi	alábbi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+részek	rész	NOUN	Case=Nom|Number=Plur	
+szerint	szerint	ADP	_	
+.	.	PUNCT	_	
+
+1.	1.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+rész	rész	NOUN	Case=Nom|Number=Sing	
+:	:	PUNCT	_	
+Trimble	trimble	NOUN	Case=Nom|Number=Sing	
+szoftverek	szoftver	NOUN	Case=Nom|Number=Plur	
+.	.	PUNCT	_	
+
+2.	2.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+rész	rész	NOUN	Case=Nom|Number=Sing	
+:	:	PUNCT	_	
+UltraMap	UltraMap	NOUN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+
+3.	3.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+rész	rész	NOUN	Case=Nom|Number=Sing	
+:	:	PUNCT	_	
+SOCET	SOCET	PROPN	Case=Nom|Number=Sing	
+GXP	GXP	PROPN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+
+4.	4.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+rész	rész	NOUN	Case=Nom|Number=Sing	
+:	:	PUNCT	_	
+Summit	summit	NOUN	Case=Nom|Number=Sing	
+Evolution	Evolution	PROPN	Case=Nom|Number=Sing	
+5.	5.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+rész	rész	NOUN	Case=Nom|Number=Sing	
+:	:	PUNCT	_	
+BINGO	BINGO	PROPN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+

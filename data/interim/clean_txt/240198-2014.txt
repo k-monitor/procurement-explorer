@@ -1,0 +1,5 @@
+szállítási szerződés db új pásztázó elektronmikroszkóp és tartozék beszerzés
+a beszerzés tárgy db téremissziós kiépítésű
+alacsony vákuumú üzemmód is működik képes pásztázó elektronmikroszkóp
+a mikroszkóp a hagyományos nagyvákuumos üzemmód legalább nm
+az alacsony vákuumú üzemmód legalább nm felbontás kell tud kép alkot a vizsgált felület topológia

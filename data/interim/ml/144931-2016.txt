@@ -1,0 +1,12 @@
+Adásvételi	adásvételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+vérkészítmény	vérkészítmény	NOUN	Case=Nom|Number=Sing	
+előállításhoz	előállítás	NOUN	Case=All|Number=Sing	
+felhasznált	felhasznált	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPast	
+oldatok	oldat	NOUN	Case=Nom|Number=Plur	
+beszerzésére	beszerzés	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+1-5	1-5	NUM	Case=Nom|NumType=Card|Number=Sing	
+.	.	PUNCT	_	
+rész	rész	NOUN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+

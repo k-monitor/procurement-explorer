@@ -1,0 +1,29 @@
+ajánlatkérő üzleti tevékenység támogatás oracle adatbázis kezelő szoftver alkalmaz
+a nemzeti útdíjfizetési rendszer éles környezet jelenleg tranzakciós és elemzési célú adatbázis egyaránt működik
+egymás elválasztva
+hogy a különböző természetű terhelés ne befolyásol negatív a tranzakciós rendszer teljesítmény
+ez következtében viszont állandó megoldandó feladat
+hogy a tranzakciós
+forrás
+rendszer adat rendszeres és lehetőleg kis késleltetés elszenvedve átjut az elemzési
+riportolási célú
+cél
+adatbázis
+nyertes ajánlattevő feladat a felhívás ii
+1.2
+pont szerinti teljesítési hely a felhívás ii
+2.1
+pont részletezett mennyiségű és az ajánlati dokumentáció iii
+fejezet
+közbeszerzési műszaki leírás meghatározott műszaki tartalom bíró oracle goldengate vagy az egyenértékű szoftver szállítás a ők tartozó éves szoftverfrissítés és licenctámogatási
+oracle software update license
+support
+suls
+szolgáltatás
+a szolgáltatás keret az ajánlatkérő a beszerzendő szoftver elem verziófrissítés elérhetőség
+szakértői tanácsadás
+támogatás
+technikai jellegű tájékoztatás
+ismert probléma való figyelemfelhívás
+az oracle üzemeltetői tudásbázis való hozzáférés
+telefonos támogatás vár el

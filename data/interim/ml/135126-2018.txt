@@ -1,0 +1,11 @@
+Atlas	atlas	NOUN	Case=Nom|Number=Sing	
+Copco	Copco	PROPN	Case=Nom|Number=Sing	
+gyártású	gyártású	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+kompresszorok	kompresszor	NOUN	Case=Nom|Number=Plur	
+és	és	CONJ	_	
+szűrőegységek	szűrőegység	NOUN	Case=Nom|Number=Plur	
+karbantartása	karbantartás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+és	és	CONJ	_	
+szervizelése	szervizelés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

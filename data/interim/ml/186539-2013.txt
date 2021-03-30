@@ -1,0 +1,11 @@
+Jenbacher	jenbacher	NOUN	Case=Nom|Number=Sing	
+kiserőművek	kiserőmű	NOUN	Case=Nom|Number=Plur	
+és	és	CONJ	_	
+azok	az	PRON	Case=Nom|Number=Plur|Person=3|PronType=Dem	
+szállítási	szállítási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+terjedelemébe	terjedelem	NOUN	Case=Ill|Number=Sing|Number[psed]=Sing	
+tartozó	tartozó	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
+gépészeti	gépészeti	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+berendezések	berendezés	NOUN	Case=Nom|Number=Plur	
+felújítása	felújítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+

@@ -1,0 +1,8 @@
+Miskolc	Miskolc	PROPN	Case=Nom|Number=Sing	
+Lyukó	lyukó	NOUN	Case=Nom|Number=Sing	
+városrészben	városrész	NOUN	Case=Ine|Number=Sing	
+új	új	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+orvosi	orvosi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+rendelő	rendelő	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
+építése	építés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+

@@ -1,0 +1,9 @@
+Vállalkozási	Vállalkozási	PROPN	Case=Nom|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+Gönyű	gönyű	NOUN	Case=Nom|Number=Sing	
+község	község	NOUN	Case=Nom|Number=Sing	
+közétkeztetési	közétkeztetési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+feladatainak	feladat	NOUN	Case=Gen|Number=Plur|Number[psor]=Sing|Person[psor]=3	
+ellátására	ellátás	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

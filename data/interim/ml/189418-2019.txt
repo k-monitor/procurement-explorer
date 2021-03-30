@@ -1,0 +1,56 @@
+Adásvételi	adásvételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+oktatási	oktatási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+célra	cél	NOUN	Case=Sub|Number=Sing	
+is	is	CONJ	_	
+alkalmazható	alkalmazható	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
+alábbi	alábbi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+eszközök	eszköz	NOUN	Case=Nom|Number=Plur	
+beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+:	:	PUNCT	_	
+1.	1.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+
+Dinamikus	dinamikus	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+mechanikus	mechanikus	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+elemző	elemző	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
+műszer	műszer	NOUN	Case=Nom|Number=Sing	
+2.	2.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+
+Pofás	pofás	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+törő	törő	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
+aprítógép	aprítógép	NOUN	Case=Nom|Number=Sing	
+3.	3.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+
+Bolygóműves-golyós	Bolygóműves-golyós	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+malom	malom	NOUN	Case=Nom|Number=Sing	
+4.	4.	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+
+Tárcsás	tárcsás	NOUN	Case=Nom|Number=Sing	
+malom	malom	NOUN	Case=Nom|Number=Sing	
+5.	5.	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+
+Membránszeparációs	Membránszeparációs	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+egység	egység	NOUN	Case=Nom|Number=Sing	
+(	(	PUNCT	_	
+membránszűrő	membránszűrő	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+eszköz	eszköz	NOUN	Case=Nom|Number=Sing	
+,	,	PUNCT	_	
+membrán	membrán	NOUN	Case=Nom|Number=Sing	
+gázelválasztó	gázelválasztó	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+eszköz	eszköz	NOUN	Case=Nom|Number=Sing	
+és	és	CONJ	_	
+fluidizációs	fluidizációs	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+és	és	CONJ	_	
+pneumatikus	pneumatikus	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szállító	szállító	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
+eszköz	eszköz	NOUN	Case=Nom|Number=Sing	
+)	)	PUNCT	_	
+6.	6.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+
+Fermentor	fermentor	NOUN	Case=Nom|Number=Sing	
+7.	7.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+
+Analitikai	analitikai	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szitakészlet	szitakészlet	NOUN	Case=Nom|Number=Sing	
+

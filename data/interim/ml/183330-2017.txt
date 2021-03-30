@@ -1,0 +1,9 @@
+Járda	járda	NOUN	Case=Nom|Number=Sing	
+-	-	PUNCT	_	
+és	és	CONJ	_	
+kerékpárút	kerékpárút	NOUN	Case=Nom|Number=Sing	
+takarító	takarító	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
+gépek	gép	NOUN	Case=Nom|Number=Plur	
+beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

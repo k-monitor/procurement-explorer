@@ -1,0 +1,8 @@
+Kijelölt	kijelölt	PROPN	Case=Nom|Number=Sing	
+Szervezet	Szervezet	PROPN	Case=Nom|Number=Sing	
+(	(	PUNCT	_	
+DEBO	debo	NOUN	Case=Nom|Number=Sing	
+)	)	PUNCT	_	
+feladatok	feladat	NOUN	Case=Nom|Number=Plur	
+ellátása	ellátás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+

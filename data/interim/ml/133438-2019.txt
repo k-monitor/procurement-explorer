@@ -1,0 +1,25 @@
+Adásvételi	adásvételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+csípőszegek	csípőszeg	NOUN	Case=Nom|Number=Plur	
+beszerzésére	beszerzés	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+,	,	PUNCT	_	
+konszignációs	konszignációs	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+raktárkészlet	raktárkészlet	NOUN	Case=Nom|Number=Sing	
+kihelyezésével	kihelyezés	NOUN	Case=Ins|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+36	36	NUM	Case=Nom|NumType=Card|Number=Sing	
+hónapra	hónap	NOUN	Case=Sub|Number=Sing	
+2	2	NUM	Case=Nom|NumType=Card|Number=Sing	
+rész	rész	NOUN	Case=Nom|Number=Sing	
+az	az	DET	Definite=Def|PronType=Art	
+alábbiak	alábbi	NOUN	Case=Nom|Number=Plur	
+szerint	szerint	ADP	_	
+:	:	PUNCT	_	
+1.	1.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+
+Csípőszeg	csípőszeg	NOUN	Case=Nom|Number=Sing	
+combnyakcsavarral	combnyakcsavar	NOUN	Case=Ins|Number=Sing	
+2.	2.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+
+Csípőszeg	csípőszeg	NOUN	Case=Nom|Number=Sing	
+spirálpengével	spirálpeng	NOUN	Case=Ins|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+

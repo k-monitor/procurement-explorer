@@ -1,0 +1,14 @@
+Megbízási	megbízási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+közbeszerzési	közbeszerzési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+tanácsadás	tanácsadás	NOUN	Case=Nom|Number=Sing	
+és	és	CONJ	_	
+felelős	felelős	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+akkreditált	akkreditált	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPast	
+közbeszerzési	közbeszerzési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szaktanácsadói	szaktanácsadói	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+feladatok	feladat	NOUN	Case=Nom|Number=Plur	
+ellátása	ellátás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

@@ -1,0 +1,22 @@
+A	a	DET	Definite=Def|PronType=Art	
+Bábolna	Bábolna	PROPN	Case=Nom|Number=Sing	
+Nemzeti	Nemzeti	PROPN	Case=Nom|Number=Sing	
+Ménesbirtok	ménesbirt	NOUN	Case=Nom|Number=Plur	
+részére	részére	ADP	_	
+villamos	villamos	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+energia	energia	NOUN	Case=Nom|Number=Sing	
+beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+1.	1.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+
+7	7	NUM	Case=Nom|NumType=Card|Number=Sing	
+.	.	PUNCT	_	
+2019-től	2019	NUM	Case=Abl|NumType=Card|Number=Sing	
+30.	30.	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+
+6	6	NUM	Case=Nom|NumType=Card|Number=Sing	
+.	.	PUNCT	_	
+2020-ig	2020	NUM	Case=Ter|NumType=Card|Number=Sing	
+terjedő	terjedő	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
+időszakra	időszak	NOUN	Case=Sub|Number=Sing	
+.	.	PUNCT	_	
+

@@ -1,0 +1,11 @@
+Adásvételi	adásvételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+,	,	PUNCT	_	
+amelynek	amely	PRON	Case=Gen|Number=Sing|Person=3|PronType=Rel	
+tárgya	tárgy	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+Hálózati	Hálózati	PROPN	Case=Nom|Number=Sing	
+LAN	LAN	PROPN	Case=Nom|Number=Sing	
+eszközök	eszköz	NOUN	Case=Nom|Number=Plur	
+beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

@@ -1,0 +1,11 @@
+A	a	DET	Definite=Def|PronType=Art	
+Pécsi	Pécsi	PROPN	Case=Nom|Number=Sing	
+Tudományegyetem	Tudományegyetem	PROPN	Case=Nom|Number=Sing	
+részére	részére	ADP	_	
+antibiotikumok	antibiotikum	NOUN	Case=Nom|Number=Plur	
+beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+adásvételi	adásvételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+keretszerződés	keretszerződés	NOUN	Case=Nom|Number=Sing	
+keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

@@ -1,0 +1,25 @@
+Miskolc	Miskolc	PROPN	Case=Nom|Number=Sing	
+Megyei	Megyei	PROPN	Case=Nom|Number=Sing	
+Jogú	Jogú	PROPN	Case=Nom|Number=Sing	
+Város	Város	PROPN	Case=Nom|Number=Sing	
+Önkormányzatának	önkormányzat	NOUN	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+2010.,	2010.,	PROPN	Case=Nom|Number=Sing	
+
+2011.,	2011.,	PROPN	Case=Nom|Number=Sing	
+
+2012.	2012.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+és	és	CONJ	_	
+2013.	2013.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+,	,	PUNCT	_	
+évi	évi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+fejlesztési	fejlesztési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+hiteleinek	hitel	NOUN	Case=Gen|Number=Plur|Number[psor]=Sing|Person[psor]=3	
+közbeszerzése	közbeszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+2	2	NUM	Case=Nom|NumType=Card|Number=Sing	
+105	105	NUM	Case=Nom|NumType=Card|Number=Sing	
+895	895	NUM	Case=Nom|NumType=Card|Number=Sing	
+000	000	NUM	Case=Nom|NumType=Card|Number=Sing	
+HUF	HUF	PROPN	Case=Nom|Number=Sing	
+összegben	összeg	NOUN	Case=Ine|Number=Sing	
+.	.	PUNCT	_	
+

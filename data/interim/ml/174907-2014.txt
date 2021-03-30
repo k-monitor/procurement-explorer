@@ -1,0 +1,10 @@
+Garantált	garantált	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPast	
+megtakarítás-alapú	megtakarítás-alapú	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+hőenergia-szolgáltatási	hőenergia-szolgáltatási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+,	,	PUNCT	_	
+karbantartási	karbantartási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+és	és	CONJ	_	
+hibaelhárítási	hibaelhárítási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+

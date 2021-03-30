@@ -1,0 +1,1 @@
+a pénzügyminisztérium által használt workflowgen alapú workflow rendszer kapcsolódó fejlesztési feladat ellátás

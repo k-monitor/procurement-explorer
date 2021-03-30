@@ -1,0 +1,111 @@
+Adásvételi	adásvételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+kórházi	kórházi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+berendezések	berendezés	NOUN	Case=Nom|Number=Plur	
+,	,	PUNCT	_	
+és	és	CONJ	_	
+gépek	gép	NOUN	Case=Nom|Number=Plur	
+beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+a	a	DET	Definite=Def|PronType=Art	
+Jászberényi	jászberényi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+Szent	Szent	PROPN	Case=Nom|Number=Sing	
+Erzsébet	Erzsébet	PROPN	Case=Nom|Number=Sing	
+Kórház	Kórház	PROPN	Case=Nom|Number=Sing	
+részére	részére	ADP	_	
+.	.	PUNCT	_	
+
+1.	1.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+
+Rész	rész	NOUN	Case=Nom|Number=Sing	
+:	:	PUNCT	_	
+Defibrillátor	Defibrillátor	PROPN	Case=Nom|Number=Sing	
+(	(	PUNCT	_	
+2	2	NUM	Case=Nom|NumType=Card|Number=Sing	
+db	db	NOUN	Case=Nom|Number=Sing	
+)	)	PUNCT	_	
+.	.	PUNCT	_	
+
+Intenzív	intenzív	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+ágy	ágy	NOUN	Case=Nom|Number=Sing	
+(	(	PUNCT	_	
+5	5	NUM	Case=Nom|NumType=Card|Number=Sing	
+db	db	NOUN	Case=Nom|Number=Sing	
+)	)	PUNCT	_	
+.	.	PUNCT	_	
+
+2.	2.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+rész	rész	NOUN	Case=Nom|Number=Sing	
+:	:	PUNCT	_	
+Ágytálmosó	ágytálmosó	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+berendezés	berendezés	NOUN	Case=Nom|Number=Sing	
+(	(	PUNCT	_	
+2	2	NUM	Case=Nom|NumType=Card|Number=Sing	
+db	db	NOUN	Case=Nom|Number=Sing	
+)	)	PUNCT	_	
+.	.	PUNCT	_	
+
+3.	3.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+rész	rész	NOUN	Case=Nom|Number=Sing	
+:	:	PUNCT	_	
+Arthroscopos	Arthroscopos	PROPN	Case=Nom|Number=Sing	
+torony	torony	NOUN	Case=Nom|Number=Sing	
+és	és	CONJ	_	
+tartozékai	tartozék	NOUN	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3	
+(	(	PUNCT	_	
+1	1	NUM	Case=Nom|NumType=Card|Number=Sing	
+db	db	NOUN	Case=Nom|Number=Sing	
+)	)	PUNCT	_	
+.	.	PUNCT	_	
+
+4.	4.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+rész	rész	NOUN	Case=Nom|Number=Sing	
+:	:	PUNCT	_	
+Sterilizáló	sterilizáló	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
+eszközök	eszköz	NOUN	Case=Nom|Number=Plur	
+:	:	PUNCT	_	
+.	.	PUNCT	_	
+
+Fóliahegesztő	fóliahegesztő	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+(	(	PUNCT	_	
+1	1	NUM	Case=Nom|NumType=Card|Number=Sing	
+db	db	NOUN	Case=Nom|Number=Sing	
+)	)	PUNCT	_	
+.	.	PUNCT	_	
+
+Gőzsterilizáló	gőzsterilizáló	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+készülék	készülék	NOUN	Case=Nom|Number=Sing	
+(	(	PUNCT	_	
+2	2	NUM	Case=Nom|NumType=Card|Number=Sing	
+db	db	NOUN	Case=Nom|Number=Sing	
+)	)	PUNCT	_	
+.	.	PUNCT	_	
+
+5.	5.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+rész	rész	NOUN	Case=Nom|Number=Sing	
+:	:	PUNCT	_	
+Nőgyógyászati	nőgyógyászati	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+vizsgálógép	vizsgálógép	NOUN	Case=Nom|Number=Sing	
+:	:	PUNCT	_	
+Hysteroscope	Hysteroscope	PROPN	Case=Nom|Number=Sing	
+(	(	PUNCT	_	
+1	1	NUM	Case=Nom|NumType=Card|Number=Sing	
+db	db	NOUN	Case=Nom|Number=Sing	
+)	)	PUNCT	_	
+.	.	PUNCT	_	
+
+6.	6.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+rész	rész	NOUN	Case=Nom|Number=Sing	
+:	:	PUNCT	_	
+Traumatológiai	traumatológiai	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+és	és	CONJ	_	
+Ortopédiai	ortopédiai	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+Fúrómotor	fúrómotor	NOUN	Case=Nom|Number=Sing	
+és	és	CONJ	_	
+feltétei	feltét	NOUN	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3	
+(	(	PUNCT	_	
+1	1	NUM	Case=Nom|NumType=Card|Number=Sing	
+db	db	NOUN	Case=Nom|Number=Sing	
+)	)	PUNCT	_	
+.	.	PUNCT	_	
+

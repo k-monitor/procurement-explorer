@@ -1,0 +1,16 @@
+Vállalkozási	Vállalkozási	PROPN	Case=Nom|Number=Sing	
+keretszerződés	keretszerződés	NOUN	Case=Nom|Number=Sing	
+„	„	PUNCT	_	
+Pénzügyi	Pénzügyi	PROPN	Case=Nom|Number=Sing	
+tanácsadás	tanácsadás	NOUN	Case=Nom|Number=Sing	
+,	,	PUNCT	_	
+projektek	projekt	NOUN	Case=Nom|Number=Plur	
+pénzügyi	pénzügyi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+ellenőrzése	ellenőrzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+,	,	PUNCT	_	
+szabályzatok	szabályzat	NOUN	Case=Nom|Number=Plur	
+aktualizálása	aktualizálás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+"	"	PUNCT	_	
+tárgyban	tárgy	NOUN	Case=Ine|Number=Sing	
+.	.	PUNCT	_	
+

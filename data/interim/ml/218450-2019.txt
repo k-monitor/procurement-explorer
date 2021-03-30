@@ -1,0 +1,9 @@
+Speciális	speciális	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+célú	célú	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+gépkocsik	gépkocsi	NOUN	Case=Nom|Number=Plur	
+beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+,	,	PUNCT	_	
+Adásvételi	adásvételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+

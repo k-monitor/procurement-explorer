@@ -1,0 +1,5 @@
+VEKOP	VEKOP	PROPN	Case=Nom|Number=Sing	
+Laboreszköz	laboreszköz	NOUN	Case=Nom|Number=Sing	
+beszerzés	beszerzés	NOUN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+

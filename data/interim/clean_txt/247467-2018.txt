@@ -1,0 +1,17 @@
+vállalkozási szerződés a fejér megyei kormányhivatal szent istván tér 9. sz. alatti épület ablakcsere és egyéb felújítási munka
+a kivitelezés a következő elvárás szerint kell megvalósít
+épület fejlesztés előtti átlagos éves fogyasztás
+energetikai tanúsítvány alap
+kwh
+év
+épület fejlesztés utáni átlagos éves fogyasztás energetikai számítás alap
+kwh
+év
+vállalkozó feladat a megvalósult állapot
+összhang a fejlesztés utáni számított megtakarítás
+energiatanúsítvány készít és az a műszaki átadás-átvételi eljárás keret megrendelő részére továbbít
+a megvalósult állapot készített energiatanúsítvány elkészítés irányadó a kehop-5
+2.2
+kódszámú pály
+felhív
+ foglalt előírás

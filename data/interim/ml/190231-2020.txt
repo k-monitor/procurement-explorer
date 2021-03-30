@@ -1,0 +1,6 @@
+Földgáz	földgáz	NOUN	Case=Nom|Number=Sing	
+közbeszerzés	közbeszerzés	NOUN	Case=Nom|Number=Sing	
+2020-2021	2020-2021	NUM	Case=Nom|NumType=Card|Number=Sing	
+.	.	PUNCT	_	
+gázévre	gázév	NOUN	Case=Sub|Number=Sing	
+

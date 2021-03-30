@@ -1,0 +1,33 @@
+Határozott	határozott	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+időtartamra	időtartam	NOUN	Case=Sub|Number=Sing	
+szóló	szóló	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
+vállalkozási	vállalkozási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+keretszerződés	keretszerződés	NOUN	Case=Nom|Number=Sing	
+kreatív	kreatív	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+és	és	CONJ	_	
+tartalomfejlesztési	tartalomfejlesztési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+,	,	PUNCT	_	
+médiaügynökségi	médiaügynökségi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+,	,	PUNCT	_	
+PR	PR	NOUN	Case=Nom|Number=Sing	
+és	és	CONJ	_	
+online	online	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szolgáltatási	szolgáltatási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+feladatok	feladat	NOUN	Case=Nom|Number=Plur	
+ellátása	ellátás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+tárgyban	tárgy	NOUN	Case=Ine|Number=Sing	
+európai	európai	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+uniós	uniós	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+(	(	PUNCT	_	
+GINOP-1	GINOP-1	PROPN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+
+3	3	NUM	Case=Nom|NumType=Card|Number=Sing	
+.	.	PUNCT	_	
+5-15-2015-00001	5-15-2015-00001	PROPN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+
+)	)	PUNCT	_	
+forrásból	forrás	NOUN	Case=Ela|Number=Sing	
+.	.	PUNCT	_	
+

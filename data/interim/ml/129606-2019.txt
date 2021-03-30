@@ -1,0 +1,14 @@
+Tervezési	tervezési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+Kecskeméten	Kecskemét	PROPN	Case=Sup|Number=Sing	
+a	a	DET	Definite=Def|PronType=Art	
+Rudolf-laktanya	Rudolf-laktanya	NOUN	Case=Nom|Number=Sing	
+területén	terület	NOUN	Case=Sup|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+megvalósítandó	megvalósítandó	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartFut	
+beruházások	beruházás	NOUN	Case=Nom|Number=Plur	
+engedélyezési	engedélyezési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+és	és	CONJ	_	
+kiviteli	kiviteli	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+tervdokumentációinak	tervdokumentáció	NOUN	Case=Gen|Number=Plur|Number[psor]=Sing|Person[psor]=3	
+elkészítésére	elkészítés	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+

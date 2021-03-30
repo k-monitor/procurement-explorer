@@ -1,0 +1,12 @@
+Étkeztetési	étkeztetési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szolgáltatás	szolgáltatás	NOUN	Case=Nom|Number=Sing	
+biztosítása	biztosítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+a	a	DET	Definite=Def|PronType=Art	
+Békéscsabai	békéscsabai	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+Kistérségi	kistérségi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+Életfa	életfa	NOUN	Case=Nom|Number=Sing	
+Idősek	idős	ADJ	Case=Nom|Degree=Pos|Number=Plur	
+Otthona	otthon	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+számára	számára	ADP	_	
+.	.	PUNCT	_	
+

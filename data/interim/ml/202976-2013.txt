@@ -1,0 +1,8 @@
+Szállítási	Szállítási	PROPN	Case=Nom|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+-	-	PUNCT	_	
+Építési	építési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+anyagok	anyag	NOUN	Case=Nom|Number=Plur	
+beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

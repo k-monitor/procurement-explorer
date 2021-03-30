@@ -1,0 +1,25 @@
+Vállalkozási	Vállalkozási	PROPN	Case=Nom|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+„	„	PUNCT	_	
+Árvízi	árvízi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+kockázati	kockázati	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+térképezés	térképezés	NOUN	Case=Nom|Number=Sing	
+és	és	CONJ	_	
+stratégiai	stratégiai	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+kockázatkezelési	kockázatkezelési	NOUN	Case=Nom|Number=Sing	
+terv	terv	NOUN	Case=Nom|Number=Sing	
+készítése	készítés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+"	"	PUNCT	_	
+(	(	PUNCT	_	
+KEOP-2	KEOP-2	PROPN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+
+5.0	5.0	PROPN	Case=Nom|Number=Sing	
+/	/	PUNCT	_	
+B	B	NOUN	Case=Nom|Number=Sing	
+/	/	PUNCT	_	
+09-12-2013-0001	09-12-2013-0001	PROPN	Case=Nom|Number=Sing	
+)	)	PUNCT	_	
+.	.	PUNCT	_	
+

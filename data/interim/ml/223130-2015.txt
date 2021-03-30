@@ -1,0 +1,16 @@
+Megbízási	megbízási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+a	a	DET	Definite=Def|PronType=Art	
+Magyar	Magyar	PROPN	Case=Nom|Number=Sing	
+Művészeti	Művészeti	PROPN	Case=Nom|Number=Sing	
+Akadémia	Akadémia	PROPN	Case=Nom|Number=Sing	
+Irodaházának	irodaház	NOUN	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+teljeskörű	teljeskörű	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+tervezési	tervezési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+és	és	CONJ	_	
+tervezői	tervezői	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+művezetési	művezetési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+feladatainak	feladat	NOUN	Case=Gen|Number=Plur|Number[psor]=Sing|Person[psor]=3	
+ellátására	ellátás	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

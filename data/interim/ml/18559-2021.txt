@@ -1,0 +1,12 @@
+Modern	Modern	PROPN	Case=Nom|Number=Sing	
+Városok	város	NOUN	Case=Nom|Number=Plur	
+Program	Program	PROPN	Case=Nom|Number=Sing	
+keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+"	"	PUNCT	_	
+Békéscsaba	Békéscsaba	PROPN	Case=Nom|Number=Sing	
+-	-	PUNCT	_	
+Versenyuszoda	versenyuszoda	NOUN	Case=Nom|Number=Sing	
+tervezése	tervezés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+"	"	PUNCT	_	
+.	.	PUNCT	_	
+

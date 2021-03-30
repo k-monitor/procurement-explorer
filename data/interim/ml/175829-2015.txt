@@ -1,0 +1,9 @@
+Hulladékgazdálkodási	hulladékgazdálkodási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+közszolgáltatás	közszolgáltatás	NOUN	Case=Nom|Number=Sing	
+Alsónémedin	alsónémedi	NOUN	Case=Sup|Number=Sing	
+-	-	PUNCT	_	
+tárgyú	tárgyú	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+közszolgáltatási	közszolgáltatási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+

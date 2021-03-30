@@ -1,0 +1,17 @@
+Adás-vételi	Adás-vételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+alapján	alap	NOUN	Case=Sup|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+a	a	DET	Definite=Def|PronType=Art	
+Nemzeti	Nemzeti	PROPN	Case=Nom|Number=Sing	
+Választási	Választási	PROPN	Case=Nom|Number=Sing	
+Iroda	Iroda	PROPN	Case=Nom|Number=Sing	
+részére	részére	ADP	_	
+Liferay	liferay	NOUN	Case=Nom|Number=Sing	
+CMS	CMS	PROPN	Case=Nom|Number=Sing	
+licenszek	licensz	NOUN	Case=Nom|Number=Plur	
+és	és	CONJ	_	
+kapcsolódó	kapcsolódó	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
+támogatások	támogatás	NOUN	Case=Nom|Number=Plur	
+beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

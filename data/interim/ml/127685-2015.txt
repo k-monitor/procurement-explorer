@@ -1,0 +1,13 @@
+Az	az	DET	Definite=Def|PronType=Art	
+állampapírok	állampapír	NOUN	Case=Nom|Number=Plur	
+értékesítésének	értékesítés	NOUN	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+támogatása	támogatás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+érdekében	érdek	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+média	média	NOUN	Case=Nom|Number=Sing	
+-	-	PUNCT	_	
+tervezés	tervezés	NOUN	Case=Nom|Number=Sing	
+és	és	CONJ	_	
+vásárlás	vásárlás	NOUN	Case=Nom|Number=Sing	
+lebonyolítása	lebonyolítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

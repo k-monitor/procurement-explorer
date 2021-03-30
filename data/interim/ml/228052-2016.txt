@@ -1,0 +1,35 @@
+Az	az	DET	Definite=Def|PronType=Art	
+MNÁMK	MNÁMK	PROPN	Case=Nom|Number=Sing	
+használatába	használat	NOUN	Case=Ill|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+adott	adott	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPast	
+területen	terület	NOUN	Case=Sup|Number=Sing	
+személy-és	személy-és	CONJ	_	
+vagyonvédelmi	vagyonvédelmi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szolgálat	szolgálat	NOUN	Case=Nom|Number=Sing	
+teljesítése	teljesítés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+
+Kizárólag	kizárólag	ADV	_	
+teljes	teljes	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+körű	körű	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+,	,	PUNCT	_	
+valamennyi	valamennyi	PRON	Case=Nom|Number=Sing|Person=3|PronType=Tot	
+feladat	feladat	NOUN	Case=Nom|Number=Sing	
+ellátására	ellátás	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+kiterjedő	kiterjedő	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
+ajánlatot	ajánlat	NOUN	Case=Acc|Number=Sing	
+lehetséges	lehetséges	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+tenni	tesz	VERB	VerbForm=Inf|Voice=Act	
+.	.	PUNCT	_	
+
+A	a	DET	Definite=Def|PronType=Art	
+beszerzés	beszerzés	NOUN	Case=Nom|Number=Sing	
+tárgyának	tárgy	NOUN	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+részletes	részletes	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+meghatározását	meghatározás	NOUN	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+az	az	DET	Definite=Def|PronType=Art	
+ajánlattételi	ajánlattételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+dokumentáció	dokumentáció	NOUN	Case=Nom|Number=Sing	
+tartalmazza	tartalmaz	VERB	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	
+.	.	PUNCT	_	
+

@@ -1,0 +1,16 @@
+Gyógyszerek	gyógyszer	NOUN	Case=Nom|Number=Plur	
+és	és	CONJ	_	
+infúziók	infúzió	NOUN	Case=Nom|Number=Plur	
+beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+1-198	1-198	NUM	Case=Nom|NumType=Card|Number=Sing	
+.	.	PUNCT	_	
+részben	részben	ADV	_	
+az	az	DET	Definite=Def|PronType=Art	
+ajánlatkérő	ajánlatkérő	NOUN	Case=Nom|Number=Sing	
+számára	számára	ADP	_	
+12	12	NUM	Case=Nom|NumType=Card|Number=Sing	
+hónap	hónap	NOUN	Case=Nom|Number=Sing	
+határozott	határozott	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+időtartamra	időtartam	NOUN	Case=Sub|Number=Sing	
+.	.	PUNCT	_	
+

@@ -1,0 +1,15 @@
+a kiegészítő közbeszerzési dokumentum
+kkd
+meghatározott műszaki specifikáció megfelelő nagyértékű tárgyi eszköz ajánlatkérő
+ak
+általi megvásárlás részajánlati kör
+kizárólag új termék ajánlható meg
+az ajánlati ár tartalmaznia kell a szállítandó termék csomagolás és szállítás költség
+szakmai ajánlat az ajánlat tartalmaznia kell valamennyi megajánlott termék
+fantázia
+név
+gyártó
+típus
+a megajánlott termék nettó ellenérték
+huf
+db

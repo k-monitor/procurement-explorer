@@ -1,0 +1,10 @@
+POS	POS	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+,	,	PUNCT	_	
+illetve	illetve	CONJ	_	
+virtuális	virtuális	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+POS	POS	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+kártyaelfogadói	kártyaelfogadói	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szolgáltatás	szolgáltatás	NOUN	Case=Nom|Number=Sing	
+nyújtása	nyújtás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

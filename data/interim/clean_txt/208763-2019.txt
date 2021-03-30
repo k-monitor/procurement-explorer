@@ -1,0 +1,9 @@
+mellkasi szívó
+szűrő
+filter beszerzés
+összesen db
+hónap eszköz
+ajánlatkérő minden termék eset egyes csomagolt
+steril termék szállítás követel meg
+amennyiben az adott rész termék szerepel
+úgy a rész szereplő összes termék ajánlat kell tesz

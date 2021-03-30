@@ -1,0 +1,24 @@
+szállítási szerződés
+a semmelweis egyetem szervezeti egység
+a betegápoló irgalmasrend
+budai irgalmasrendi kórház
+rész
+hónap szükséges sebészeti varróanyag
+főcsoport
+felszívódó
+nem felszívódó
+egyéb speciális sebzáró anyag
+felszívódó varróanyag
+részteljesítés
+darab
+levél
+nem felszívódó varróanyag
+részteljesítés
+darab
+levél
+egyéb speciális sebzáró anyag
+részteljesítés
+darab a dokumentáció 1. sz. melléklet részletezett fajta és mennyiség
+szerződéskötés után a megrendelés kerülő mennyiség
+az ajánlati dokumentáció foglalt
+ lefelé eltér

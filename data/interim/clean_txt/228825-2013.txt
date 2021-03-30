@@ -1,0 +1,3 @@
+vállalkozási szerződés a pte meglévő sap rendszer fejlesztés
+az funkcionális bővítés
+valamint az az sap magyar államigazgatási megoldáscsomag szerinti tartalom történő funkcionális sztenderdizáció

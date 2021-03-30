@@ -1,0 +1,14 @@
+Tisza-völgyi	Tisza-völgyi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+árvízvédelmi	árvízvédelmi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+rendszer	rendszer	NOUN	Case=Nom|Number=Sing	
+üzemirányításának	üzemirányítás	NOUN	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+kidolgozása	kidolgozás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+"	"	PUNCT	_	
+tárgyú	tárgyú	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+projekt	projekt	NOUN	Case=Nom|Number=Sing	
+keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+üzemirányítási	üzemirányítási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+rendszer	rendszer	NOUN	Case=Nom|Number=Sing	
+elkészítése	elkészítés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

@@ -1,0 +1,26 @@
+A	a	DET	Definite=Def|PronType=Art	
+KEOP-5	KEOP-5	PROPN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+
+6.0	6.0	PROPN	Case=Nom|Number=Sing	
+/	/	PUNCT	_	
+E	e	PRON	Case=Nom|Number=Sing|Person=3|PronType=Dem	
+/	/	PUNCT	_	
+15	15	NUM	Case=Nom|NumType=Card|Number=Sing	
+azonosítószámú	azonosítószámú	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+projekt	projekt	NOUN	Case=Nom|Number=Sing	
+keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+C-íves	C-íves	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+sebészeti	sebészeti	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+képerősítő	képerősítő	NOUN	Case=Nom|Number=Sing	
+,	,	PUNCT	_	
+valamint	valamint	CONJ	_	
+digitális	digitális	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+mobil	mobil	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+röntgen	röntgen	NOUN	Case=Nom|Number=Sing	
+berendezés	berendezés	NOUN	Case=Nom|Number=Sing	
+beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+,	,	PUNCT	_	
+adás-vétel	adás-vétel	NOUN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+

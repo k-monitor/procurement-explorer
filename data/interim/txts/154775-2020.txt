@@ -1,0 +1,1 @@
+A Debreceni Egyetem európai uniós forrásból származó különböző pályázatai számára informatikai alkatrészek beszerzését kívánja lebonyolítani. A pályázatok keretében beszerzendő egyéb eszközök között az alábbiak beszerzésére vállalkoztunk: 1. rész: GPU és tartozékai 2. rész: NAS és háttértárolók

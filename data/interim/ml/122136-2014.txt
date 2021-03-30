@@ -1,0 +1,13 @@
+1	1	NUM	Case=Nom|NumType=Card|Number=Sing	
+db	db	NOUN	Case=Nom|Number=Sing	
+új	új	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+,	,	PUNCT	_	
+első	első	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+alkalommal	alkalom	NOUN	Case=Ins|Number=Sing	
+forgalomba	forgalom	NOUN	Case=Ill|Number=Sing	
+helyezett	helyezett	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPast	
+emelőhátfalas	emelőhátfalas	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+tehergépkocsi	tehergépkocsi	NOUN	Case=Nom|Number=Sing	
+beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

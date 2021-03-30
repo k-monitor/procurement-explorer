@@ -1,0 +1,8 @@
+Hatvan	Hatvan	PROPN	Case=Nom|Number=Sing	
+városban	város	NOUN	Case=Ine|Number=Sing	
+szükséges	szükséges	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+zöldterület-rendezési	zöldterület-rendezési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+feladatok	feladat	NOUN	Case=Nom|Number=Plur	
+megrendelése	megrendelés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

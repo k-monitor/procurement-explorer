@@ -1,0 +1,5 @@
+Fejlesztéspolitikai	fejlesztéspolitikai	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+rendszerek	rendszer	NOUN	Case=Nom|Number=Plur	
+hardverinfrastruktúra	hardverinfrastruktúra	NOUN	Case=Nom|Number=Sing	
+bővítése	bővítés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+

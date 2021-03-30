@@ -1,0 +1,5 @@
+AS6	AS6	PROPN	Case=Nom|Number=Sing	
+upgrade	upgrade	X	_	
+fejlesztés	fejlesztés	NOUN	Case=Nom|Number=Sing	
+támogatás	támogatás	NOUN	Case=Nom|Number=Sing	
+

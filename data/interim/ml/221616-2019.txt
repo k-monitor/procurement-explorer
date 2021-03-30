@@ -1,0 +1,15 @@
+A	a	DET	Definite=Def|PronType=Art	
+Központi	Központi	PROPN	Case=Nom|Number=Sing	
+Konyha	konyha	NOUN	Case=Nom|Number=Sing	
+1.8.2019	1.8.2019	PROPN	Case=Nom|Number=Sing	
+-	-	PUNCT	_	
+31.7.2020	31.7.2020	PROPN	Case=Nom|Number=Sing	
+közti	közti	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+időszakra	időszak	NOUN	Case=Sub|Number=Sing	
+történő	történő	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
+élelmiszer	élelmiszer	NOUN	Case=Nom|Number=Sing	
+alapanyag	alapanyag	NOUN	Case=Nom|Number=Sing	
+szállítójának	szállító	NOUN	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+kiválasztása	kiválasztás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

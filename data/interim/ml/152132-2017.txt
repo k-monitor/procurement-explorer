@@ -1,0 +1,12 @@
+Egy	egy	DET	Definite=Ind|PronType=Art	
+SD	SD	PROPN	Case=Nom|Number=Sing	
+és	és	CONJ	_	
+egy	egy	DET	Definite=Ind|PronType=Art	
+LSM	LSM	PROPN	Case=Nom|Number=Sing	
+,	,	PUNCT	_	
+egymással	egymás	PRON	Case=Ins|Number=Sing|Person=3|PronType=Rcp	
+kompatibilis	kompatibilis	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+fénymikroszkóp-rendszer	fénymikroszkóp-rendszer	NOUN	Case=Nom|Number=Sing	
+beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

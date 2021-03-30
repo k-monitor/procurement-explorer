@@ -1,0 +1,16 @@
+1	1	NUM	Case=Nom|NumType=Card|Number=Sing	
+(	(	PUNCT	_	
+egy	egy	NUM	Case=Nom|NumType=Card|Number=Sing	
+)	)	PUNCT	_	
+darab	darab	NOUN	Case=Nom|Number=Sing	
+új	új	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+automata	automata	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+töltő	töltő	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
+,	,	PUNCT	_	
+palackozó	palackozó	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
+és	és	CONJ	_	
+zsugorfóliázó	zsugorfóliázó	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
+gépsor	gépsor	NOUN	Case=Nom|Number=Sing	
+beszerzésére	beszerzés	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

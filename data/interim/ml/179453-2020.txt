@@ -1,0 +1,7 @@
+C-ROADS	C-ROADS	PROPN	Case=Nom|Number=Sing	
+elektromos	elektromos	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+berendezések	berendezés	NOUN	Case=Nom|Number=Plur	
+beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+és	és	CONJ	_	
+telepítése	telepítés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+

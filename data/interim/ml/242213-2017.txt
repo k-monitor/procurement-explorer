@@ -1,0 +1,14 @@
+Élelmiszerek	élelmiszer	NOUN	Case=Nom|Number=Plur	
+beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+az	az	DET	Definite=Def|PronType=Art	
+I.	1.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+sz.	sz.	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+Gazdasági	Gazdasági	PROPN	Case=Nom|Number=Sing	
+Működtető	működtető	NOUN	Case=Nom|Number=Sing	
+Központ	Központ	PROPN	Case=Nom|Number=Sing	
+részére	részére	ADP	_	
+adásvételi	adásvételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+keretszerződés	keretszerződés	NOUN	Case=Nom|Number=Sing	
+keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

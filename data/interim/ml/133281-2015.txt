@@ -1,0 +1,7 @@
+Keretmegállapodás	keretmegállapodás	NOUN	Case=Nom|Number=Sing	
+gépjármű	gépjármű	NOUN	Case=Nom|Number=Sing	
+üzemanyag	üzemanyag	NOUN	Case=Nom|Number=Sing	
+tankautós	tankautós	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+kiszállítására	kiszállítás	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

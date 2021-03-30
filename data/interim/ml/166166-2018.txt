@@ -1,0 +1,26 @@
+A	a	DET	Definite=Def|PronType=Art	
+TOP-6	TOP-6	PROPN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+
+3	3	NUM	Case=Nom|NumType=Card|Number=Sing	
+.	.	PUNCT	_	
+3-15-DE1-2016-00002	3-15-DE1-2016-00002	PROPN	Case=Nom|Number=Sing	
+azonosítószámú	azonosítószámú	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+projekt	projekt	NOUN	Case=Nom|Number=Sing	
+keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+a	a	DET	Definite=Def|PronType=Art	
+Nagysándortelep-Vulkántelep	Nagysándortelep-vulkántelep	NOUN	Case=Nom|Number=Sing	
+és	és	CONJ	_	
+Fészek	Fészek	PROPN	Case=Nom|Number=Sing	
+lakópark	lakópark	NOUN	Case=Nom|Number=Sing	
+(	(	PUNCT	_	
+Téglagyár	téglagyár	NOUN	Case=Nom|Number=Sing	
+városrész	városrész	NOUN	Case=Nom|Number=Sing	
+)	)	PUNCT	_	
+csapadékvíz	csapadékvíz	NOUN	Case=Nom|Number=Sing	
+elvezetés	elvezetés	NOUN	Case=Nom|Number=Sing	
+kivitelezésének	kivitelezés	NOUN	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+2.	2.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+része	rész	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

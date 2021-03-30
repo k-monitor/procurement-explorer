@@ -1,0 +1,13 @@
+EWC	EWC	PROPN	Case=Nom|Number=Sing	
+17.	17.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+főcsoportba	főcsoport	NOUN	Case=Ill|Number=Sing	
+tartozó	tartozó	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
+építési	építési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+és	és	CONJ	_	
+bontási	bontási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+hulladék	hulladék	NOUN	Case=Nom|Number=Sing	
+telephelyek	telephely	NOUN	Case=Nom|Number=Plur	
+közötti	közötti	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szállítása	szállítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

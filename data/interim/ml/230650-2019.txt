@@ -1,0 +1,15 @@
+Csákvár	csákvár	NOUN	Case=Nom|Number=Sing	
+Város	város	NOUN	Case=Nom|Number=Sing	
+közigazgatási	közigazgatási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+területén	terület	NOUN	Case=Sup|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+lévő	lévő	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
+közintézmények	közintézmény	NOUN	Case=Nom|Number=Plur	
+részére	részére	ADP	_	
+közétkeztetési	közétkeztetési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szolgáltatás	szolgáltatás	NOUN	Case=Nom|Number=Sing	
+nyújtása	nyújtás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+vállalkozási	vállalkozási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

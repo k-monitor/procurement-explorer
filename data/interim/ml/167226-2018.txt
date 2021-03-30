@@ -1,0 +1,225 @@
+Vállalkozási	Vállalkozási	PROPN	Case=Nom|Number=Sing	
+keretszerződés	keretszerződés	NOUN	Case=Nom|Number=Sing	
+a	a	DET	Definite=Def|PronType=Art	
+B-A-Z	B-A-Z	PROPN	Case=Nom|Number=Sing	
+megyében	megye	NOUN	Case=Ine|Number=Sing	
+megvalósuló	megvalósuló	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
+GINOP-5	GINOP-5	PROPN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+
+2	2	NUM	Case=Nom|NumType=Card|Number=Sing	
+.	.	PUNCT	_	
+1-14-2015-00001	1-14-2015-00001	PROPN	Case=Nom|Number=Sing	
+Ifjúsági	Ifjúsági	PROPN	Case=Nom|Number=Sing	
+Garancia	Garancia	PROPN	Case=Nom|Number=Sing	
+program	program	NOUN	Case=Nom|Number=Sing	
+keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+mentori	mentori	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+és	és	CONJ	_	
+egyéb	egyéb	PRON	Case=Nom|Number=Sing|Person=3|PronType=Ind	
+munkaerő-piaci	munkaerő-piaci	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szolg-ok	szolg	NOUN	Case=Nom|Number=Plur	
+biztosítására	biztosítás	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+a	a	DET	Definite=Def|PronType=Art	
+30	30	NUM	Case=Nom|NumType=Card|Number=Sing	
+/	/	PUNCT	_	
+2000.	2000.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+
+(	(	PUNCT	_	
+IX	9	NUM	Case=Nom|NumType=Card|Number=Sing	
+.	.	PUNCT	_	
+
+15.	15.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+)	)	PUNCT	_	
+
+GM	GM	PROPN	Case=Nom|Number=Sing	
+rend	rend	NOUN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+és	és	CONJ	_	
+a	a	DET	Definite=Def|PronType=Art	
+dok-ban	dok	NOUN	Case=Ine|Number=Sing	
+meghatározott	meghatározott	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPast	
+szakmai	szakmai	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+követelmények	követelmény	NOUN	Case=Nom|Number=Plur	
+szerint	szerint	ADP	_	
+.	.	PUNCT	_	
+
+1.	1.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+rész	rész	NOUN	Case=Nom|Number=Sing	
+:	:	PUNCT	_	
+Miskolc	Miskolc	PROPN	Case=Nom|Number=Sing	
+térség	térség	NOUN	Case=Nom|Number=Sing	
+:	:	PUNCT	_	
+Miskolc	Miskolc	PROPN	Case=Nom|Number=Sing	
+járás	járás	NOUN	Case=Nom|Number=Sing	
+max	max	ADV	_	
+.	.	PUNCT	_	
+keretszáma	keretszám	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+:	:	PUNCT	_	
+2350	2350	NUM	Case=Nom|NumType=Card|Number=Sing	
+fő	fő	NOUN	Case=Nom|Number=Sing	
+Msz:9400	Msz:9400	PROPN	Case=Nom|Number=Sing	
+óra	óra	NOUN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+
+Et:7050	Et:7050	PROPN	Case=Nom|Number=Sing	
+óra	óra	NOUN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+
+Cst:456	Cst:456	PROPN	Case=Nom|Number=Sing	
+óra	óra	NOUN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+
+2.	2.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+rész	rész	NOUN	Case=Nom|Number=Sing	
+:	:	PUNCT	_	
+Abaúj	abaúj	NOUN	Case=Nom|Number=Sing	
+térség	térség	NOUN	Case=Nom|Number=Sing	
+:	:	PUNCT	_	
+Encs	encs	NOUN	Case=Nom|Number=Sing	
+,	,	PUNCT	_	
+Szikszó	szikszó	NOUN	Case=Nom|Number=Sing	
+,	,	PUNCT	_	
+Gönc	gönc	NOUN	Case=Nom|Number=Sing	
+járás	járás	NOUN	Case=Nom|Number=Sing	
+max	max	ADV	_	
+.	.	PUNCT	_	
+keretszáma	keretszám	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+:	:	PUNCT	_	
+2008	2008	NUM	Case=Nom|NumType=Card|Number=Sing	
+fő	fő	NOUN	Case=Nom|Number=Sing	
+Msz:8032	Msz:8032	PROPN	Case=Nom|Number=Sing	
+óra	óra	NOUN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+
+Et:6024	Et:6024	PROPN	Case=Nom|Number=Sing	
+óra	óra	NOUN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+
+Cst:392	Cst:392	PROPN	Case=Nom|Number=Sing	
+óra	óra	NOUN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+
+3.	3.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+rész	rész	NOUN	Case=Nom|Number=Sing	
+:	:	PUNCT	_	
+Zemplén	zemplén	NOUN	Case=Nom|Number=Sing	
+térség	térség	NOUN	Case=Nom|Number=Sing	
+:	:	PUNCT	_	
+Sárospatak	sárospatak	NOUN	Case=Nom|Number=Sing	
+,	,	PUNCT	_	
+Sátoraljaújhely	sátoraljaújhely	NOUN	Case=Nom|Number=Sing	
+,	,	PUNCT	_	
+Szerencs	szerencs	NOUN	Case=Nom|Number=Sing	
+,	,	PUNCT	_	
+Tokaj	Tokaj	PROPN	Case=Nom|Number=Sing	
+,	,	PUNCT	_	
+Cigánd	cigánd	NOUN	Case=Nom|Number=Sing	
+járás	járás	NOUN	Case=Nom|Number=Sing	
+max	max	ADV	_	
+.	.	PUNCT	_	
+keretszáma	keretszám	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+:	:	PUNCT	_	
+2531	2531	NUM	Case=Nom|NumType=Card|Number=Sing	
+fő	fő	NOUN	Case=Nom|Number=Sing	
+Msz:10124	Msz:10124	PROPN	Case=Nom|Number=Sing	
+óra	óra	NOUN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+
+Et:7593	Et:7593	PROPN	Case=Nom|Number=Sing	
+óra	óra	NOUN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+
+Cst:495	Cst:495	PROPN	Case=Nom|Number=Sing	
+óra	óra	NOUN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+
+4.	4.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+rész	rész	NOUN	Case=Nom|Number=Sing	
+:	:	PUNCT	_	
+Dél-Borsod	Dél-borsod	NOUN	Case=Nom|Number=Sing	
+térség	térség	NOUN	Case=Nom|Number=Sing	
+:	:	PUNCT	_	
+Tiszaújváros	Tiszaújváros	PROPN	Case=Nom|Number=Sing	
+,	,	PUNCT	_	
+Mezőkövesd	mezőkövesd	NOUN	Case=Nom|Number=Sing	
+,	,	PUNCT	_	
+Mezőcsát	mezőcsát	NOUN	Case=Nom|Number=Sing	
+járás	járás	NOUN	Case=Nom|Number=Sing	
+max	max	ADV	_	
+.	.	PUNCT	_	
+keretszáma	keretszám	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+:	:	PUNCT	_	
+1493	1493	NUM	Case=Nom|NumType=Card|Number=Sing	
+fő	fő	NOUN	Case=Nom|Number=Sing	
+Msz:5972	Msz:5972	PROPN	Case=Nom|Number=Sing	
+óra	óra	NOUN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+
+Et:4479	Et:4479	PROPN	Case=Nom|Number=Sing	
+óra	óra	NOUN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+
+Cst:292	Cst:292	PROPN	Case=Nom|Number=Sing	
+óra	óra	NOUN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+
+5.	5.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+rész	rész	NOUN	Case=Nom|Number=Sing	
+:	:	PUNCT	_	
+Sajó-Bódva	Sajó-bódva	NOUN	Case=Nom|Number=Sing	
+térség	térség	NOUN	Case=Nom|Number=Sing	
+:	:	PUNCT	_	
+Kazincbarcika	kazincbarcika	NOUN	Case=Nom|Number=Sing	
+,	,	PUNCT	_	
+Ózd	ózd	NOUN	Case=Nom|Number=Sing	
+,	,	PUNCT	_	
+Edelény	edelény	NOUN	Case=Nom|Number=Sing	
+,	,	PUNCT	_	
+Putnok	putnok	NOUN	Case=Nom|Number=Sing	
+járás	járás	NOUN	Case=Nom|Number=Sing	
+max	max	ADV	_	
+.	.	PUNCT	_	
+keretszáma	keretszám	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+:	:	PUNCT	_	
+3618	3618	NUM	Case=Nom|NumType=Card|Number=Sing	
+fő	fő	NOUN	Case=Nom|Number=Sing	
+Msz:14472	Msz:14472	PROPN	Case=Nom|Number=Sing	
+óra	óra	NOUN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+
+Et:10854	Et:10854	PROPN	Case=Nom|Number=Sing	
+óra	óra	NOUN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+
+Cst:705	Cst:705	PROPN	Case=Nom|Number=Sing	
+óra	óra	NOUN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+
+Msz	Msz	PROPN	Case=Nom|Number=Sing	
+=	=	PUNCT	_	
+Mentori	mentori	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szolgáltatás	szolgáltatás	NOUN	Case=Nom|Number=Sing	
+max	max	ADV	_	
+.	.	PUNCT	_	
+keretszáma	keretszám	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+
+Et	et	PROPN	Case=Nom|Number=Sing	
+=	=	PUNCT	_	
+Egyéni	egyéni	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+tanácsadás	tanácsadás	NOUN	Case=Nom|Number=Sing	
+max	max	ADV	_	
+.	.	PUNCT	_	
+keretszáma	keretszám	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+
+Cst	Cst	PROPN	Case=Nom|Number=Sing	
+=	=	PUNCT	_	
+Csoportos	csoportos	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+tanácsadás	tanácsadás	NOUN	Case=Nom|Number=Sing	
+max	max	ADV	_	
+.	.	PUNCT	_	
+keretszáma	keretszám	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

@@ -1,0 +1,31 @@
+1. rész
+ajánlatkérő a meglévő
+jelenleg is üzemszerűen működő
+első országos
+nemzeti és tudományos bibliográfiai adatbázis rendszer
+magyar tudományos művek tár
+rövid mtmt
+integrált informatikai rendszer
+vállalkozási szerződés keret történő újratervezés
+nyílt
+dokumentált alkalmazói programfelület
+api
+rendelkező
+modul felépített megoldás
+újraalkotás
+üzemszerű működés elindítás
+amely eredmény létrejön az mtmt2 nevű integrált informatikai rendszer
+ez keret feladat a mycite2 szoftver fejlesztés
+az ajánlatkérő egyeztetett kivitelezési terv keret történő elkészítés
+folyamatos szoftver-minőség ellenőrzés és tesztelés biztosítás
+valamint a fejlesztés és tesztelés dokumentálás
+továbbá a dokumentum a szoftver forráskód és futtató környezet együtt történő átadás az ajánlatkérő által
+a közbeszerzési eljárás másik rész
+kiválasztott szoftver-minőség-ellenőrzés és tesztelési szolgáltatás végző ajánlattevő
+2. rész
+a jelen közbeszerzési eljárás 1. rész nyertes által kifejlesztendő mycite2 szoftverrendszer fejlesztés és tesztelés kapcsolatos minőségbiztosítási feladat ellátás vállalkozási szerződés keret a fejlesztés sor készülő dokumentáció
+a forráskód
+és a rendszerműködés alap
+ajánlattevő köteles nyilatkozik az 1. rész keret kifejlesztés kerülő mycite2 szoftverrendszer megfelelőség
+amely alap az ajánlatkérő az 1. rész tekintet a teljesítés elfogad
+ez meg+felelő a 2. rész nyertes a felelősség az 1. rész szerződésszerű teljesítés megállapítás

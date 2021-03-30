@@ -1,0 +1,9 @@
+Adásvételi	adásvételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+keretszerződés	keretszerződés	NOUN	Case=Nom|Number=Sing	
+80	80	NUM	Case=Nom|NumType=Card|Number=Sing	
+darab	darab	NOUN	Case=Nom|Number=Sing	
+útellenőr	útellenőr	NOUN	Case=Nom|Number=Sing	
+gépjármű	gépjármű	NOUN	Case=Nom|Number=Sing	
+beszerzésére	beszerzés	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

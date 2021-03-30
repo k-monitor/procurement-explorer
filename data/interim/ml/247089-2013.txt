@@ -1,0 +1,19 @@
+KDOP-2	KDOP-2	PROPN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+
+1.1	1.1	PROPN	Case=Nom|Number=Sing	
+/	/	PUNCT	_	
+B-12-2012-0030	B-12-2012-0030	PROPN	Case=Nom|Number=Sing	
+azonosítószámú	azonosítószámú	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+Koronás	koronás	NOUN	Case=Nom|Number=Sing	
+Park	Park	PROPN	Case=Nom|Number=Sing	
+projekthez	projekt	NOUN	Case=All|Number=Sing	
+kapcsolódó	kapcsolódó	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
+telepített	telepített	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPast	
+játszóeszközök	játszóeszköz	NOUN	Case=Nom|Number=Plur	
+beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+szállítási	szállítási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

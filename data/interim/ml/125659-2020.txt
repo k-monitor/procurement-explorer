@@ -1,0 +1,8 @@
+Élelmiszerek	élelmiszer	NOUN	Case=Nom|Number=Plur	
+beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+2020	2020	NUM	Case=Nom|NumType=Card|Number=Sing	
+(	(	PUNCT	_	
+32	32	NUM	Case=Nom|NumType=Card|Number=Sing	
+rész	rész	NOUN	Case=Nom|Number=Sing	
+)	)	PUNCT	_	
+

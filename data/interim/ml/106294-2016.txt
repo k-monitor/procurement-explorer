@@ -1,0 +1,14 @@
+Az	az	DET	Definite=Def|PronType=Art	
+FKF	FKF	PROPN	Case=Nom|Number=Sing	
+Nonprofit	nonprofit	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+Zrt.	Zrt.	PROPN	Case=Nom|Number=Sing	
+Oracle	Oracle	PROPN	Case=Nom|Number=Sing	
+vállalatirányítási	vállalatirányítási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+rendszerének	rendszer	NOUN	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+üzemeltetésével	üzemeltetés	NOUN	Case=Ins|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+kapcsolatos	kapcsolatos	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szakértői	szakértői	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+támogatás	támogatás	NOUN	Case=Nom|Number=Sing	
+beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

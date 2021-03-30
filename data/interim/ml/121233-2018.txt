@@ -1,0 +1,11 @@
+Szállítási	Szállítási	PROPN	Case=Nom|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+a	a	DET	Definite=Def|PronType=Art	
+betegbiztonság	betegbiztonság	NOUN	Case=Nom|Number=Sing	
+növelését	növelés	NOUN	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+célzó	célzó	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
+eszközök	eszköz	NOUN	Case=Nom|Number=Plur	
+szállítására	szállítás	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+vonatkozóan	vonatkozó	ADJ	Case=Ess|Degree=Pos|Number=Sing|VerbForm=PartPres	
+.	.	PUNCT	_	
+

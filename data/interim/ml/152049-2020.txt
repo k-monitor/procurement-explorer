@@ -1,0 +1,8 @@
+Szegedi	Szegedi	PROPN	Case=Nom|Number=Sing	
+Tudományegyetemen	Tudományegyetemen	PROPN	Case=Nom|Number=Sing	
+Infektológiai	Infektológiai	PROPN	Case=Nom|Number=Sing	
+Klinika	Klinika	PROPN	Case=Nom|Number=Sing	
+és	és	CONJ	_	
+Oktatóközpont	oktatóközpont	NOUN	Case=Nom|Number=Sing	
+kialakítása	kialakítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+

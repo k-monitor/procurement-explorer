@@ -1,0 +1,1 @@
+A Magyar Nemzeti Bank (MNB) integrált statisztikai (ISTAT) rendszerének továbbfejlesztése.

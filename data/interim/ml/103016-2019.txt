@@ -1,0 +1,32 @@
+1.	1.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+
+Dunakorzó	dunakorzó	NOUN	Case=Nom|Number=Sing	
+átalakításához	átalakítás	NOUN	Case=All|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+és	és	CONJ	_	
+felújításához	felújítás	NOUN	Case=All|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+szükséges	szükséges	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+tervezési	tervezési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+és	és	CONJ	_	
+engedélyeztetési	engedélyeztetési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+feladatok	feladat	NOUN	Case=Nom|Number=Plur	
+ellátása	ellátás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+vállalkozási	vállalkozási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+
+2.	2.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+
+Templomdomb	templomdomb	NOUN	Case=Nom|Number=Sing	
+felújításához	felújítás	NOUN	Case=All|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+szükséges	szükséges	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+tervezési	tervezési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+és	és	CONJ	_	
+engedélyeztetési	engedélyeztetési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+feladatok	feladat	NOUN	Case=Nom|Number=Plur	
+ellátása	ellátás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+vállalkozási	vállalkozási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

@@ -1,0 +1,2 @@
+pos
+illetve virtuális pos kártyaelfogadói szolgáltatás nyújtás

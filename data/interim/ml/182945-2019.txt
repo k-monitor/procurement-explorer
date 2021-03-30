@@ -1,0 +1,9 @@
+Adásvételi	adásvételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+keretszerződés	keretszerződés	NOUN	Case=Nom|Number=Sing	
+genotipizáló	genotipizáló	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
+kitek	kite	NOUN	Case=Nom|Number=Plur	
+beszerzésére	beszerzés	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+2	2	NUM	Case=Nom|NumType=Card|Number=Sing	
+részben	rész	NOUN	Case=Ine|Number=Sing	
+.	.	PUNCT	_	
+

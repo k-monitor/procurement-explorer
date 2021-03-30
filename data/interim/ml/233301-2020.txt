@@ -1,0 +1,6 @@
+Adásvételi	adásvételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+keretszerződés	keretszerződés	NOUN	Case=Nom|Number=Sing	
+alapján	alap	NOUN	Case=Sup|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+E-kerékpárok	E-kerékpár	NOUN	Case=Nom|Number=Plur	
+beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+

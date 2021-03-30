@@ -1,0 +1,2 @@
+Földgázenergia	földgázenergia	NOUN	Case=Nom|Number=Sing	
+

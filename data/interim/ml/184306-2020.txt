@@ -1,0 +1,4 @@
+Közétkeztetés	közétkeztetés	NOUN	Case=Nom|Number=Sing	
+Székesfehérvár	Székesfehérvár	PROPN	Case=Nom|Number=Sing	
+2020	2020	NUM	Case=Nom|NumType=Card|Number=Sing	
+

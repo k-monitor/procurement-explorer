@@ -1,0 +1,11 @@
+Adásvételi	adásvételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+-	-	PUNCT	_	
+5	5	NUM	Case=Nom|NumType=Card|Number=Sing	
+db	db	NOUN	Case=Nom|Number=Sing	
+személygépkocsi	személygépkocsi	NOUN	Case=Nom|Number=Sing	
+határidős	határidős	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+adásvétele	adásvétel	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+tárgyában	tárgy	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

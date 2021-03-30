@@ -1,0 +1,5 @@
+Tetra	Tetra	PROPN	Case=Nom|Number=Sing	
+rádió	rádió	NOUN	Case=Nom|Number=Sing	
+beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+2014.	2014.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+

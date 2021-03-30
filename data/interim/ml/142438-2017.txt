@@ -1,0 +1,19 @@
+Az	az	DET	Definite=Def|PronType=Art	
+MVM	MVM	PROPN	Case=Nom|Number=Sing	
+Paks	paks	NOUN	Case=Nom|Number=Sing	
+II	II	PROPN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+
+Zrt.	Zrt.	PROPN	Case=Nom|Number=Sing	
+részére	részére	ADP	_	
+gépjárműbérleti	gépjárműbérleti	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szolgáltatás	szolgáltatás	NOUN	Case=Nom|Number=Sing	
+nyújtása	nyújtás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+teljes	teljes	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+körű	körű	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+flottakezeléssel	flottakezelés	NOUN	Case=Ins|Number=Sing	
+és	és	CONJ	_	
+üzemeltetéssel	üzemeltetés	NOUN	Case=Ins|Number=Sing	
+együtt	együtt	ADP	_	
+.	.	PUNCT	_	
+

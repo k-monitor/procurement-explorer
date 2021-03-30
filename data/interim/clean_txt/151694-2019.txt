@@ -1,0 +1,6 @@
+éves szint legalább egyedi látogató kiszolgálás alkalmas tartalom menedzser rendszer
+portál
+megoldás szoftver implementálás
+üzem helyezés
+üzemeltetési támogatás
+valamint szoftverfejlesztési támogatás

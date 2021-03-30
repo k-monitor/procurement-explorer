@@ -1,0 +1,8 @@
+Hulladékhasznosító	hulladékhasznosító	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
+Műben	mű	NOUN	Case=Ine|Number=Sing	
+üzemelő	üzemelő	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
+kazánok	kazán	NOUN	Case=Nom|Number=Plur	
+rostélyhengereihez	rostélyhenger	NOUN	Case=All|Number=Plur|Number[psor]=Sing|Person[psor]=3	
+rostélypálcák	rostélypálca	NOUN	Case=Nom|Number=Plur	
+beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+

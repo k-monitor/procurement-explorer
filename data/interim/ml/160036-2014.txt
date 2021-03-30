@@ -1,0 +1,8 @@
+Kölcsönszerződés	kölcsönszerződés	NOUN	Case=Nom|Number=Sing	
+keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+beruházási	beruházási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+célú	célú	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+fejlesztési	fejlesztési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+hitel	hitel	NOUN	Case=Nom|Number=Sing	
+felvétele	felvétel	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+

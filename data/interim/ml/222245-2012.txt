@@ -1,0 +1,8 @@
+Külső	Külső	PROPN	Case=Nom|Number=Sing	
+Bécsi	Bécsi	PROPN	Case=Nom|Number=Sing	
+úti	úti	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+villamosvonal	villamosvonal	NOUN	Case=Nom|Number=Sing	
+meghosszabbításának	meghosszabbítás	NOUN	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+előkészítése	előkészítés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

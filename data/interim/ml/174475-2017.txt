@@ -1,0 +1,17 @@
+Vállalkozási	Vállalkozási	PROPN	Case=Nom|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+légi	légi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+fényképezésre	fényképezés	NOUN	Case=Sub|Number=Sing	
+Magyarország	Magyarország	PROPN	Case=Nom|Number=Sing	
+30898	30898	NUM	Case=Nom|NumType=Card|Number=Sing	
+km2	km2	NOUN	Case=Nom|Number=Sing	
+nagyságú	nagyságú	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+területén	terület	NOUN	Case=Sup|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+és	és	CONJ	_	
+1	1	NUM	Case=Nom|NumType=Card|Number=Sing	
+386	386	NUM	Case=Nom|NumType=Card|Number=Sing	
+db	db	NOUN	Case=Nom|Number=Sing	
+ortofotó	ortofotó	NOUN	Case=Nom|Number=Sing	
+készítése	készítés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

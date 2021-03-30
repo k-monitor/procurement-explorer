@@ -1,0 +1,2 @@
+ncts és egy rendszer
+valamint az ics és emcs rendszer kommunikáció általános támogatás és fejlesztés

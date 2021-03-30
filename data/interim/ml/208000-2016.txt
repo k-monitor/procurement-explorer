@@ -1,0 +1,15 @@
+„	„	PUNCT	_	
+Elektronikus	elektronikus	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+jegyrendszer	jegyrendszer	NOUN	Case=Nom|Number=Sing	
+előkészítése	előkészítés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+és	és	CONJ	_	
+kivitelezése	kivitelezés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+"	"	PUNCT	_	
+című	című	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+projekt	projekt	NOUN	Case=Nom|Number=Sing	
+nyomdai	nyomdai	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+feladatainak	feladat	NOUN	Case=Gen|Number=Plur|Number[psor]=Sing|Person[psor]=3	
+ellátása	ellátás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+"	"	PUNCT	_	
+.	.	PUNCT	_	
+

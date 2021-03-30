@@ -1,0 +1,7 @@
+ii
+1.5
+a szerződés vagy a beszerzés
+e
+rövid meghatározás
+emc vnx tároló fejlesztés és tároló kapacitás bővítés
+db tároló rendszer fejlesztés és kapacitás bővítés a műszaki leírás foglalt szerint

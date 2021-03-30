@@ -1,0 +1,8 @@
+Adásvételi	adásvételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+keretszerződés	keretszerződés	NOUN	Case=Nom|Number=Sing	
+cseppfolyós	cseppfolyós	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+egészségügyi	egészségügyi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+gázok	gáz	NOUN	Case=Nom|Number=Plur	
+beszerzésére	beszerzés	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

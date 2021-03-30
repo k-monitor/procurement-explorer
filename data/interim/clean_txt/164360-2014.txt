@@ -1,0 +1,9 @@
+adásvételi szerződés
+radiológiai berendezés digitalizálás alkalmas eszköz és kiegészítő be-szerzés
+a meglévő analóg átvilágító rendszer utódigitalizálás
+eszköz áttelepítés
+meglévő kórtermi mobil röntgen flatpanel detektoros utódigitalizálás
+páciens cd író munkaállomás telepítés
+meglevő pacs rendszer bővítés leletező munkaállomás hardver biztosítás
+belső ethernet hálózat kiépítés a meglévő pacs rendszer és az analóg digitális átalakított részegység között
+és a lecserélés került eszközrész átszállítás ajánlatkérő raktár

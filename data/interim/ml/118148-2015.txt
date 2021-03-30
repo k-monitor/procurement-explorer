@@ -1,0 +1,14 @@
+Adásvételi	adásvételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+a	a	DET	Definite=Def|PronType=Art	
+kötelező	kötelező	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+védőoltási	védőoltási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+rendbe	rend	NOUN	Case=Ill|Number=Sing	
+tartozó	tartozó	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
+oltóanyagok	oltóanyag	NOUN	Case=Nom|Number=Plur	
+beszerzésére	beszerzés	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+,	,	PUNCT	_	
+2015.	2015.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+évre	év	NOUN	Case=Sub|Number=Sing	
+.	.	PUNCT	_	
+

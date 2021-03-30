@@ -1,0 +1,8 @@
+„	„	PUNCT	_	
+Defibrillátor	Defibrillátor	PROPN	Case=Nom|Number=Sing	
+beszerzés	beszerzés	NOUN	Case=Nom|Number=Sing	
+az	az	DET	Definite=Def|PronType=Art	
+MLSZ	MLSZ	PROPN	Case=Nom|Number=Sing	
+részére	részére	ADP	_	
+"	"	PUNCT	_	
+

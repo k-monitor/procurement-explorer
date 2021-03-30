@@ -1,0 +1,27 @@
+Szabványos	Szabványos	PROPN	Case=Nom|Number=Sing	
+minőségű	minőségű	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+villamos	villamos	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+energia	energia	NOUN	Case=Nom|Number=Sing	
+biztosítása	biztosítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+,	,	PUNCT	_	
+teljes	teljes	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+ellátásalapú	ellátásalapú	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+villamosenergia	villamosenergia	NOUN	Case=Nom|Number=Sing	
+áruvásárlási	áruvásárlási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+,	,	PUNCT	_	
+menetrendadási	menetrendadási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+kötelezettség	kötelezettség	NOUN	Case=Nom|Number=Sing	
+nélkül	nélkül	ADP	_	
+1.	1.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+
+11	11	NUM	Case=Nom|NumType=Card|Number=Sing	
+.	.	PUNCT	_	
+2015-31.10.2016	2015-31.10.2016	PROPN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+közötti	közötti	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szállítási	szállítási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+időre	idő	NOUN	Case=Sub|Number=Sing	
+.	.	PUNCT	_	
+

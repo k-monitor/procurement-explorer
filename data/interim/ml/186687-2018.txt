@@ -1,0 +1,21 @@
+Termelési	termelési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+kapacitásbővítés	kapacitásbővítés	NOUN	Case=Nom|Number=Sing	
+a	a	DET	Definite=Def|PronType=Art	
+Medina	medina	NOUN	Case=Nom|Number=Sing	
+Bútor	bútor	NOUN	Case=Nom|Number=Sing	
+Kft-nél	Kft	NOUN	Case=Ade|Number=Sing	
+lézervágó	lézervágó	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+gép	gép	NOUN	Case=Nom|Number=Sing	
+beszerzésével	beszerzés	NOUN	Case=Ins|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+a	a	DET	Definite=Def|PronType=Art	
+GINOP-1	GINOP-1	PROPN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+
+2	2	NUM	Case=Nom|NumType=Card|Number=Sing	
+.	.	PUNCT	_	
+1-16-2017-00727	1-16-2017-00727	PROPN	Case=Nom|Number=Sing	
+azonosítószámú	azonosítószámú	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+projekt	projekt	NOUN	Case=Nom|Number=Sing	
+keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

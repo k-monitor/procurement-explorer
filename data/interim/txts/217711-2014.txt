@@ -1,0 +1,1 @@
+POS, illetve virtuális POS kártyaelfogadói szolgáltatás nyújtása.

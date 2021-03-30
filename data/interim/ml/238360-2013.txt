@@ -1,0 +1,16 @@
+Számlavezetés	számlavezetés	NOUN	Case=Nom|Number=Sing	
+,	,	PUNCT	_	
+folyószámla-hitelkeret	folyószámla-hitelkeret	NOUN	Case=Nom|Number=Sing	
+és	és	CONJ	_	
+Beruházási	Beruházási	PROPN	Case=Nom|Number=Sing	
+hitelkeret	hitelkeret	NOUN	Case=Nom|Number=Sing	
+biztosítása	biztosítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+(	(	PUNCT	_	
+Folyószámla	folyószámla	NOUN	Case=Nom|Number=Sing	
+és	és	CONJ	_	
+Hitel	Hitel	PROPN	Case=Nom|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+)	)	PUNCT	_	
+.	.	PUNCT	_	
+

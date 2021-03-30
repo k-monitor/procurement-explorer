@@ -1,0 +1,4 @@
+db homlokrakodógép
+db dózer
+db teleszkópos rakodógép beszerzés
+a részletes műszaki előírás a műszaki leírás tartalmaz

@@ -1,0 +1,16 @@
+Adás-vételi	Adás-vételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+élelmiszer	élelmiszer	NOUN	Case=Nom|Number=Sing	
+alapanyagok	alapanyag	NOUN	Case=Nom|Number=Plur	
+beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+Alsózsolca	alsózsolca	NOUN	Case=Nom|Number=Sing	
+Város	Város	PROPN	Case=Nom|Number=Sing	
+Önkormányzata	Önkormányzata	PROPN	Case=Nom|Number=Sing	
+részére	részére	ADP	_	
+,	,	PUNCT	_	
+13	13	NUM	Case=Nom|NumType=Card|Number=Sing	
+részajánlattételi	részajánlattételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+körben	kör	NOUN	Case=Ine|Number=Sing	
+.	.	PUNCT	_	
+

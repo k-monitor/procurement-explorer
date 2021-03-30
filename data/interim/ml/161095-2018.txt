@@ -1,0 +1,25 @@
+TOP-6	TOP-6	PROPN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+
+1	1	NUM	Case=Nom|NumType=Card|Number=Sing	
+.	.	PUNCT	_	
+1-16-PC1-2017-00003	1-16-PC1-2017-00003	PROPN	Case=Nom|Number=Sing	
+-	-	PUNCT	_	
+„	„	PUNCT	_	
+Ipari	Ipari	PROPN	Case=Nom|Number=Sing	
+parkok	parkok	PROPN	Case=Nom|Number=Sing	
+,	,	PUNCT	_	
+iparterületek	iparterület	NOUN	Case=Nom|Number=Plur	
+fejlesztése	fejlesztés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+"	"	PUNCT	_	
+program	program	NOUN	Case=Nom|Number=Sing	
+keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+üzemcsarnok	üzemcsarnok	NOUN	Case=Nom|Number=Sing	
+építés	építés	NOUN	Case=Nom|Number=Sing	
+a	a	DET	Definite=Def|PronType=Art	
+Pécsi	Pécsi	PROPN	Case=Nom|Number=Sing	
+Déli	Déli	PROPN	Case=Nom|Number=Sing	
+Ipari	Ipari	PROPN	Case=Nom|Number=Sing	
+Parkban	Park	PROPN	Case=Ine|Number=Sing	
+.	.	PUNCT	_	
+

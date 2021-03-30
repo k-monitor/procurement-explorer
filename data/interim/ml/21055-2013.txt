@@ -1,0 +1,13 @@
+Villamos	Villamos	PROPN	Case=Nom|Number=Sing	
+energia	energia	NOUN	Case=Nom|Number=Sing	
+beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+az	az	DET	Definite=Def|PronType=Art	
+ORFK	ORFK	PROPN	Case=Nom|Number=Sing	
+és	és	CONJ	_	
+szervezeti	szervezeti	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+egységei	egység	NOUN	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3	
+,	,	PUNCT	_	
+intézményei	intézmény	NOUN	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3	
+részére	részére	ADP	_	
+.	.	PUNCT	_	
+

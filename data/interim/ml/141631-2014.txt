@@ -1,0 +1,13 @@
+Vállalkozási	Vállalkozási	PROPN	Case=Nom|Number=Sing	
+keretszerződés	keretszerződés	NOUN	Case=Nom|Number=Sing	
+,	,	PUNCT	_	
+Ajánlatkérő	ajánlatkérő	NOUN	Case=Nom|Number=Sing	
+által	által	ADP	_	
+üzemeltetett	üzemeltetett	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPast	
+országos	országos	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+közutakon	közút	NOUN	Case=Sup|Number=Plur	
+keresztmetszeti	keresztmetszeti	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+forgalomszámlálás	forgalomszámlálás	NOUN	Case=Nom|Number=Sing	
+elvégzésére	elvégzés	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

@@ -1,0 +1,11 @@
+Zala	Zala	PROPN	Case=Nom|Number=Sing	
+Megyei	Megyei	PROPN	Case=Nom|Number=Sing	
+Kórház	Kórház	PROPN	Case=Nom|Number=Sing	
+8900	8900	NUM	Case=Nom|NumType=Card|Number=Sing	
+Zalaegerszeg	zalaegerszeg	NOUN	Case=Nom|Number=Sing	
+,	,	PUNCT	_	
+Zrínyi	Zrínyi	PROPN	Case=Nom|Number=Sing	
+M.	M.	PROPN	Case=Nom|Number=Sing	
+u.	u.	PROPN	Case=Nom|Number=Sing	
+1.	1.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+

@@ -1,0 +1,12 @@
+Adásvételi	adásvételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+keretszerződés	keretszerződés	NOUN	Case=Nom|Number=Sing	
+„	„	PUNCT	_	
+Labor-igazgatóság	Labor-igazgatóság	NOUN	Case=Nom|Number=Sing	
+színes	színes	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+forgatási	forgatási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+negatív	negatív	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+"	"	PUNCT	_	
+tárgyában	tárgy	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

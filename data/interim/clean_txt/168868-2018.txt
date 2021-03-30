@@ -1,0 +1,31 @@
+1. r
+db hidraulikus fröccsöntőgép 2. r
+db egyedi felszívó 3. r
+db garatszárító 4. r
+db szállítószalag engusszeparátor 5. r
+db kompakt garatszárító 6. r
+db termékeltávolító cnc szervo robot 7. r
+db egyedi felszívó 8. r
+db válogató
+kacsa
+9. r
+db szivattyú 10. r
+db fröccsöntő gép 11. r
+db eszterga 12. r
+db fröccsöntőgép 13. r
+db szárazlevegős szárító 14. r
+db egykörös temperáló 15. r
+db egykörös temperáló 16. r
+db huzalos szikraforgácsoló 17. r
+db z-szállítószalag engusszeparátor 18. r
+db pneumatikus robot 19. r
+db fogashengeres daráló 20. r
+db színadagoló 21. r
+db egykörös temperáló 22. r
+db kompakt mobil szárító 23. r
+db m3 mobile pda 24. r
+db termékeltávolító cnc szervo robot 25. r
+db hordozható számítógép 26. r
+szerver számítógép 27. r
+vezeték nélküli hálózat kiépítés
+ajánlatkérő a minimum magyar nyelvű szervizes biztosítás követelmény a nem magyar nyelvű szervizelés eset a magyar nyelvű tolmács tört

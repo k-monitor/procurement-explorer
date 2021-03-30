@@ -1,0 +1,4 @@
+Távoktatási	távoktatási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+licenszek	licensz	NOUN	Case=Nom|Number=Plur	
+beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+

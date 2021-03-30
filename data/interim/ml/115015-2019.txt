@@ -1,0 +1,13 @@
+Győr	Győr	PROPN	Case=Nom|Number=Sing	
+,	,	PUNCT	_	
+belső	belső	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+elkerülő	elkerülő	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
+út	út	NOUN	Case=Nom|Number=Sing	
+tervezése	tervezés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+(	(	PUNCT	_	
+K014	K014	PROPN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+
+03	03	NUM	Case=Nom|NumType=Card|Number=Sing	
+)	)	PUNCT	_	
+

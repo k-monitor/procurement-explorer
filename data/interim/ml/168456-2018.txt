@@ -1,0 +1,17 @@
+A	a	DET	Definite=Def|PronType=Art	
+Diósgyőri	diósgyőri	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+vár	vár	NOUN	Case=Nom|Number=Sing	
+komplex	komplex	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+és	és	CONJ	_	
+turisztikai	turisztikai	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+fejlesztése	fejlesztés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+,	,	PUNCT	_	
+Belső	Belső	PROPN	Case=Nom|Number=Sing	
+Vár	Vár	PROPN	Case=Nom|Number=Sing	
+és	és	CONJ	_	
+Külső	Külső	PROPN	Case=Nom|Number=Sing	
+Vár	Vár	PROPN	Case=Nom|Number=Sing	
+kivitelezési	kivitelezési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+munkái	munka	NOUN	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

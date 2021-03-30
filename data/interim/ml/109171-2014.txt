@@ -1,0 +1,4 @@
+Szolgáltatási	szolgáltatási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+keretszerződés	keretszerződés	NOUN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+

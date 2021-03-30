@@ -1,0 +1,6 @@
+Keretmegállapodás	keretmegállapodás	NOUN	Case=Nom|Number=Sing	
+mélyépítési	mélyépítési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+munkák	munka	NOUN	Case=Nom|Number=Plur	
+kivitelezésére	kivitelezés	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

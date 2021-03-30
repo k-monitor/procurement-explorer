@@ -1,0 +1,7 @@
+Automatizált	automatizált	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPast	
+betegazonosító	betegazonosító	NOUN	Case=Nom|Number=Sing	
+és	és	CONJ	_	
+betegkövető	betegkövető	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+rendszer	rendszer	NOUN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+

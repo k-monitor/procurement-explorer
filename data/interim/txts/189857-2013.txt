@@ -1,0 +1,1 @@
+Intel és Alpha szerverek, mentőegységek, tárolók, LAN és SAN eszközök hardver szintű támogatása érdekében nyújtott üzemeltetést biztosító szakértői szolgáltatás (hardver hibajavítás, hardverkarbantartás, tanácsadás, Firmware frissítések legalább 1 alkalommal történő telepítése) meghatározott szolgáltatási szint biztosítása mellett.

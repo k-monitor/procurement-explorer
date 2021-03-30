@@ -1,0 +1,16 @@
+Vállalkozási	Vállalkozási	PROPN	Case=Nom|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+-	-	PUNCT	_	
+In-store	In-store	NOUN	Case=Nom|Number=Sing	
+kampány	kampány	NOUN	Case=Nom|Number=Sing	
+és	és	CONJ	_	
+gasztronapok	gasztronap	NOUN	Case=Nom|Number=Plur	
+a	a	DET	Definite=Def|PronType=Art	
+magyar	magyar	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+sertéshús	sertéshús	NOUN	Case=Nom|Number=Sing	
+népszerűsítésére	népszerűsítés	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+,	,	PUNCT	_	
+fogyasztásösztönzésére	fogyasztásösztönzés	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+Szerbiában	Szerbia	PROPN	Case=Ine|Number=Sing	
+.	.	PUNCT	_	
+

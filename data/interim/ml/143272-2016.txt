@@ -1,0 +1,11 @@
+Főzési	főzési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+alapanyag	alapanyag	NOUN	Case=Nom|Number=Sing	
+és	és	CONJ	_	
+élelmiszer	élelmiszer	NOUN	Case=Nom|Number=Sing	
+beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+(	(	PUNCT	_	
+adásvételi	adásvételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+)	)	PUNCT	_	
+.	.	PUNCT	_	
+

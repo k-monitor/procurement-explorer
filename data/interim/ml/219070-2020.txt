@@ -1,0 +1,9 @@
+Adásvételi	adásvételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+/	/	PUNCT	_	
+MH	MH	PROPN	Case=Nom|Number=Sing	
+HAVARIA	havaria	NOUN	Case=Nom|Number=Sing	
+laboratórium	laboratórium	NOUN	Case=Nom|Number=Sing	
+képességének	képesség	NOUN	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+fenntartása	fenntartás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+

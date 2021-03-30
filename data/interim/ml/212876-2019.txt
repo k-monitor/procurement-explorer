@@ -1,0 +1,8 @@
+Faipari	faipari	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+gépsor	gépsor	NOUN	Case=Nom|Number=Sing	
+és	és	CONJ	_	
+csomagoló	csomagoló	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
+gép	gép	NOUN	Case=Nom|Number=Sing	
+beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

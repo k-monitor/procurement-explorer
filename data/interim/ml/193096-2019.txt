@@ -1,0 +1,11 @@
+Orvos	orvos	NOUN	Case=Nom|Number=Sing	
+szakmai	szakmai	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+berendezések	berendezés	NOUN	Case=Nom|Number=Plur	
+és	és	CONJ	_	
+eszközök	eszköz	NOUN	Case=Nom|Number=Plur	
+beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+adásvételi	adásvételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

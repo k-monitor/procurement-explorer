@@ -1,0 +1,12 @@
+távmeghallgatás és kép-és hangrögzítés alkalmas videokommunikációs rendszer beszerzés és implementálás az országos bírósági hivatal részére
+védett személy meghallgatás is alkalmas
+olyan komplex videokommunikációs végpont kialakítás
+mely az ip alapú nemzeti távközlési gerinchálózat kapcsolódva képes lesz a bírósági folyamat támogató videó kommunikáció
+a vállalkozó feladat az általános elvárás és a műszaki leírás előírt meg+felelő az eszköz szállítás
+szerelés
+beüzemelés
+közreműködés a videokommunikációs konfiguráció kompatibilitási teszt elvégzés
+a műszaki leírás meghatározott dokumentálási feladat elvégzés
+részvétel az átadási-átvételi teszt
+jótállás
+terméktámogatás nyújtás és felhasználói oktatás megtartás

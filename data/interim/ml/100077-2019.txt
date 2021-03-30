@@ -1,0 +1,14 @@
+Pont-pont	pont-pont	NOUN	Case=Nom|Number=Sing	
+mikrohullámú	mikrohullámú	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+adatátviteli	adatátviteli	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+rendszer	rendszer	NOUN	Case=Nom|Number=Sing	
+kialakításához	kialakítás	NOUN	Case=All|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+szükséges	szükséges	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+berendezések	berendezés	NOUN	Case=Nom|Number=Plur	
+szállítása	szállítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+és	és	CONJ	_	
+kapcsolódó	kapcsolódó	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
+oktatási	oktatási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szolgáltatás	szolgáltatás	NOUN	Case=Nom|Number=Sing	
+nyújtása	nyújtás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+

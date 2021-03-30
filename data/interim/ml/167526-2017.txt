@@ -1,0 +1,14 @@
+Keretmegállapodás	keretmegállapodás	NOUN	Case=Nom|Number=Sing	
+keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+élelmiszer	élelmiszer	NOUN	Case=Nom|Number=Sing	
+alapanyag	alapanyag	NOUN	Case=Nom|Number=Sing	
+-	-	PUNCT	_	
+pékáru	pékáru	NOUN	Case=Nom|Number=Sing	
+-	-	PUNCT	_	
+beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+az	az	DET	Definite=Def|PronType=Art	
+Orosházi	orosházi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+Kórház	Kórház	PROPN	Case=Nom|Number=Sing	
+részére	részére	ADP	_	
+.	.	PUNCT	_	
+

@@ -1,0 +1,9 @@
+Mobil	Mobil	PROPN	Case=Nom|Number=Sing	
+végponti	végponti	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+,	,	PUNCT	_	
+kézi	kézi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+információs	információs	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+eszközök	eszköz	NOUN	Case=Nom|Number=Plur	
+beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

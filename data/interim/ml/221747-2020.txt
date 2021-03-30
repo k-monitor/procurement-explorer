@@ -1,0 +1,24 @@
+„	„	PUNCT	_	
+Projektorok	projektor	NOUN	Case=Nom|Number=Plur	
+beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+"	"	PUNCT	_	
+(	(	PUNCT	_	
+projektor	projektor	NOUN	Case=Nom|Number=Sing	
+beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+az	az	DET	Definite=Def|PronType=Art	
+EFOP-3	EFOP-3	PROPN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+
+2	2	NUM	Case=Nom|NumType=Card|Number=Sing	
+.	.	PUNCT	_	
+4-16-2016-00001	4-16-2016-00001	PROPN	Case=Nom|Number=Sing	
+[	[	PUNCT	_	
+Digitális	digitális	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+kompetencia	kompetencia	NOUN	Case=Nom|Number=Sing	
+fejlesztése	fejlesztés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+]	]	PUNCT	_	
+című	című	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+projekt	projekt	NOUN	Case=Nom|Number=Sing	
+keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+)	)	PUNCT	_	
+

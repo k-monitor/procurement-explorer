@@ -1,0 +1,1 @@
+Meglévő szerverek cseréje és bővítése: 1. rész – ÜVP (Üzemeltetői Virtualizált Platform) rendszer bővítése; 2. rész – Elöregedett HVR naplógyűjtő szerverek kiváltása; 3. rész – Elöregedett Hyper-V szerverek kiváltása; 4. rész – Meglévő blade szerverek memória bővítése.

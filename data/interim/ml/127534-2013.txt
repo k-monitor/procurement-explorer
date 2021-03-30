@@ -1,0 +1,5 @@
+Hulladékszállító	hulladékszállító	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+tehergépjárművek	tehergépjármű	NOUN	Case=Nom|Number=Plur	
+bérlése	bérlés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

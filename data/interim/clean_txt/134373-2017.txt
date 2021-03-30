@@ -1,0 +1,31 @@
+a beszerzendő aszfaltmennyiség
+ac-4 kopó aszfalt
+alapmennyiség
+tonna
+opciós mennyiség
+ac-8 kopó aszfalt
+alapmennyiség
+tonna
+opciós mennyiség
+ac-11
+f kopó aszfalt
+alapmennyiség
+tonna
+opciós mennyiség
+ac-16
+f kopó aszfalt
+alapmennyiség
+tonna
+opciós mennyiség
+ac-22 kötő aszfalt
+alapmennyiség
+tonna
+opciós mennyiség
+bitumen emulzió c60b1 literes kiszerelés
+alapmennyiség
+tonna
+opciós mennyiség
+a termék részletes leírás a közbeszerzési dokumentum tartalmaz
+az ajánlatkérő tárgyi eljárás nem biztosít részajánlattételi lehetőség
+tekintet az
+hogy a közbeszerzés rész bontása gazdasági ésszerűség követelmény nem összeegyeztethető

@@ -1,0 +1,8 @@
+Autóbuszbeszerzés	autóbuszbeszerzés	NOUN	Case=Nom|Number=Sing	
+,	,	PUNCT	_	
+adásvételi	adásvételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+kapcsolódó	kapcsolódó	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
+szolgáltatásokkal	szolgáltatás	NOUN	Case=Ins|Number=Plur	
+.	.	PUNCT	_	
+

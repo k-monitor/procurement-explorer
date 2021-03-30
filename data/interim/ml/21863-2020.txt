@@ -1,0 +1,4 @@
+MoLaRi	MoLaRi	PROPN	Case=Nom|Number=Sing	
+rendszer	rendszer	NOUN	Case=Nom|Number=Sing	
+üzemeltetése	üzemeltetés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+

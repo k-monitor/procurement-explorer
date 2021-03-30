@@ -1,0 +1,12 @@
+Szolgáltatási	szolgáltatási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+keretszerződés	keretszerződés	NOUN	Case=Nom|Number=Sing	
+keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+Ritter	Ritter	PROPN	Case=Nom|Number=Sing	
+elosztók	elosztó	NOUN	Case=Nom|Number=Plur	
+karbantartása	karbantartás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+és	és	CONJ	_	
+meghibásodás	meghibásodás	NOUN	Case=Nom|Number=Sing	
+esetén	eset	NOUN	Case=Sup|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+javítása	javítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

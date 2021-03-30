@@ -1,0 +1,35 @@
+Meglévő	meglévő	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
+Symantec	Symantec	PROPN	Case=Nom|Number=Sing	
+végpontvédelmi	végpontvédelmi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+és	és	CONJ	_	
+titkosító	titkosító	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
+licencek	licenc	NOUN	Case=Nom|Number=Plur	
+érvényességének	érvényesség	NOUN	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+meghosszabbítása	meghosszabbítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+31.	31.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+
+3	3	NUM	Case=Nom|NumType=Card|Number=Sing	
+.	.	PUNCT	_	
+2017-ig	2017	NUM	Case=Ter|NumType=Card|Number=Sing	
+.	.	PUNCT	_	
+
+1.	1.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+rész	rész	NOUN	Case=Nom|Number=Sing	
+-	-	PUNCT	_	
+Meglévő	meglévő	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
+Symantec	Symantec	PROPN	Case=Nom|Number=Sing	
+végpontvédelmi	végpontvédelmi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+licencek	licenc	NOUN	Case=Nom|Number=Plur	
+hosszabbítása	hosszabbítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+
+2.	2.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+rész	rész	NOUN	Case=Nom|Number=Sing	
+-	-	PUNCT	_	
+Meglévő	meglévő	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
+Symantec	Symantec	PROPN	Case=Nom|Number=Sing	
+titkosító	titkosító	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
+szoftverlicencek	szoftverlicenc	NOUN	Case=Nom|Number=Plur	
+hosszabbítása	hosszabbítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

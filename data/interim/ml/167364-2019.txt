@@ -1,0 +1,6 @@
+Dialízis	dialízis	NOUN	Case=Nom|Number=Sing	
+kezeléshez	kezelés	NOUN	Case=All|Number=Sing	
+szükséges	szükséges	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szerelék	szerelék	NOUN	Case=Nom|Number=Sing	
+beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+

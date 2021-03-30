@@ -1,0 +1,257 @@
+Jászberény	jászberény	NOUN	Case=Nom|Number=Sing	
+közigazgatási	közigazgatási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+területén	terület	NOUN	Case=Sup|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+közétkeztetés	közétkeztetés	NOUN	Case=Nom|Number=Sing	
+bizt-a	bizt	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+a	a	DET	Definite=Def|PronType=Art	
+hatályos	hatályos	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+jogszab-oknak	jogszab	NOUN	Case=Gen|Number=Plur	
+és	és	CONJ	_	
+egyéb	egyéb	PRON	Case=Nom|Number=Sing|Person=3|PronType=Ind	
+vonatkozó	vonatkozó	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
+szab-nak	szab-nak	NOUN	Case=Nom|Number=Sing	
+megfelelően	megfelelő	ADJ	Case=Ess|Degree=Pos|Number=Sing	
+,	,	PUNCT	_	
+az	az	DET	Definite=Def|PronType=Art	
+alábbi	alábbi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+intézményekben	intézmény	NOUN	Case=Ine|Number=Plur	
+:	:	PUNCT	_	
+Fürkész	fürkész	NOUN	Case=Nom|Number=Sing	
+Óvoda	óvoda	NOUN	Case=Nom|Number=Sing	
+(	(	PUNCT	_	
+5100	5100	NUM	Case=Nom|NumType=Card|Number=Sing	
+Jászberény	jászberény	NOUN	Case=Nom|Number=Sing	
+,	,	PUNCT	_	
+Kossuth	Kossuth	PROPN	Case=Nom|Number=Sing	
+u.	u.	PROPN	Case=Nom|Number=Sing	
+116.	116.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+)	)	PUNCT	_	
+.	.	PUNCT	_	
+
+Gézengúz	gézengúz	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+Óvoda	óvoda	NOUN	Case=Nom|Number=Sing	
+(	(	PUNCT	_	
+5100	5100	NUM	Case=Nom|NumType=Card|Number=Sing	
+Jászberény	jászberény	NOUN	Case=Nom|Number=Sing	
+,	,	PUNCT	_	
+Mártírok	Mártírok	PROPN	Case=Nom|Number=Sing	
+u.	u.	PROPN	Case=Nom|Number=Sing	
+5.	5.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+)	)	PUNCT	_	
+.	.	PUNCT	_	
+
+Hétszínvirág	hétszínvirág	NOUN	Case=Nom|Number=Sing	
+Óvoda	óvoda	NOUN	Case=Nom|Number=Sing	
+(	(	PUNCT	_	
+5100	5100	NUM	Case=Nom|NumType=Card|Number=Sing	
+Portelek	portelek	NOUN	Case=Nom|Number=Sing	
+,	,	PUNCT	_	
+Fő	Fő	PROPN	Case=Nom|Number=Sing	
+u.	u.	PROPN	Case=Nom|Number=Sing	
+22.	22.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+)	)	PUNCT	_	
+.	.	PUNCT	_	
+
+Kuckó	kuckó	NOUN	Case=Nom|Number=Sing	
+Óvoda	óvoda	NOUN	Case=Nom|Number=Sing	
+(	(	PUNCT	_	
+5100	5100	NUM	Case=Nom|NumType=Card|Number=Sing	
+Jászberény	jászberény	NOUN	Case=Nom|Number=Sing	
+,	,	PUNCT	_	
+Báthori	báthori	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+u.	u.	PROPN	Case=Nom|Number=Sing	
+37.	37.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+)	)	PUNCT	_	
+.	.	PUNCT	_	
+
+Sün	sün	NOUN	Case=Nom|Number=Sing	
+Sámuel	Sámuel	PROPN	Case=Nom|Number=Sing	
+Óvoda	óvoda	NOUN	Case=Nom|Number=Sing	
+(	(	PUNCT	_	
+5100	5100	NUM	Case=Nom|NumType=Card|Number=Sing	
+Jászberény	jászberény	NOUN	Case=Nom|Number=Sing	
+,	,	PUNCT	_	
+Lajosmizse	lajosmizse	NOUN	Case=Nom|Number=Sing	
+u.	u.	PROPN	Case=Nom|Number=Sing	
+1.	1.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+)	)	PUNCT	_	
+.	.	PUNCT	_	
+
+Szivárvány	szivárvány	NOUN	Case=Nom|Number=Sing	
+Óvoda	óvoda	NOUN	Case=Nom|Number=Sing	
+(	(	PUNCT	_	
+5100	5100	NUM	Case=Nom|NumType=Card|Number=Sing	
+Jászberény	jászberény	NOUN	Case=Nom|Number=Sing	
+,	,	PUNCT	_	
+Szt.	Szt.	PROPN	Case=Nom|Number=Sing	
+István	István	PROPN	Case=Nom|Number=Sing	
+krt.	krt.	PROPN	Case=Nom|Number=Sing	
+18.	18.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+)	)	PUNCT	_	
+.	.	PUNCT	_	
+
+Zengő	zengő	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
+Óvoda	óvoda	NOUN	Case=Nom|Number=Sing	
+(	(	PUNCT	_	
+5100	5100	NUM	Case=Nom|NumType=Card|Number=Sing	
+Jászberény	jászberény	NOUN	Case=Nom|Number=Sing	
+,	,	PUNCT	_	
+Kiss	Kiss	PROPN	Case=Nom|Number=Sing	
+E.	E.	PROPN	Case=Nom|Number=Sing	
+u.	u.	PROPN	Case=Nom|Number=Sing	
+12.	12.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+)	)	PUNCT	_	
+.	.	PUNCT	_	
+
+Központi	Központi	PROPN	Case=Nom|Number=Sing	
+Óvoda	óvoda	NOUN	Case=Nom|Number=Sing	
+(	(	PUNCT	_	
+5100	5100	NUM	Case=Nom|NumType=Card|Number=Sing	
+Jászberény	jászberény	NOUN	Case=Nom|Number=Sing	
+,	,	PUNCT	_	
+Bajcsy	bajcsy	NOUN	Case=Nom|Number=Sing	
+Zs.	Zs.	PROPN	Case=Nom|Number=Sing	
+u.	u.	PROPN	Case=Nom|Number=Sing	
+10.	10.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+)	)	PUNCT	_	
+.	.	PUNCT	_	
+
+Jászsági	jászsági	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+Apponyi	apponyi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+A.	A.	PROPN	Case=Nom|Number=Sing	
+
+Ált	ál	ADJ	Case=Acc|Degree=Pos|Number=Sing	
+.	.	PUNCT	_	
+
+Isk.	Isk.	PROPN	Case=Nom|Number=Sing	
+és	és	CONJ	_	
+Alapfokú	alapfokú	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+Műv	Műv	NOUN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+
+Isk.	Isk.	PROPN	Case=Nom|Number=Sing	
+(	(	PUNCT	_	
+5100	5100	NUM	Case=Nom|NumType=Card|Number=Sing	
+Jászb	Jászb	PROPN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+,	,	PUNCT	_	
+
+Bajcsy	bajcsy	NOUN	Case=Nom|Number=Sing	
+u.	u.	PROPN	Case=Nom|Number=Sing	
+1.	1.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+)	)	PUNCT	_	
+.	.	PUNCT	_	
+
+Jászsági	jászsági	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+Ált	ál	ADJ	Case=Acc|Degree=Pos|Number=Sing	
+.	.	PUNCT	_	
+
+Isk.	Isk.	PROPN	Case=Nom|Number=Sing	
+Bercsényi	bercsényi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+M.	M.	PROPN	Case=Nom|Number=Sing	
+
+Ált	ál	ADJ	Case=Acc|Degree=Pos|Number=Sing	
+.	.	PUNCT	_	
+
+Isk.	Isk.	PROPN	Case=Nom|Number=Sing	
+Tagintézménye	tagintézmény	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+(	(	PUNCT	_	
+5100	5100	NUM	Case=Nom|NumType=Card|Number=Sing	
+Jászb	Jászb	PROPN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+,	,	PUNCT	_	
+
+Bercsényi	bercsényi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+út	út	NOUN	Case=Nom|Number=Sing	
+9-13	9-13	NUM	Case=Nom|NumType=Card|Number=Sing	
+.	.	PUNCT	_	
+)	)	PUNCT	_	
+.	.	PUNCT	_	
+
+Jászsági	jászsági	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+Ált	ál	ADJ	Case=Acc|Degree=Pos|Number=Sing	
+.	.	PUNCT	_	
+
+Isk.	Isk.	PROPN	Case=Nom|Number=Sing	
+Székely	Székely	PROPN	Case=Nom|Number=Sing	
+M.	M.	PROPN	Case=Nom|Number=Sing	
+
+Ált	ál	ADJ	Case=Acc|Degree=Pos|Number=Sing	
+.	.	PUNCT	_	
+
+Isk.	Isk.	PROPN	Case=Nom|Number=Sing	
+Tagintézménye	tagintézmény	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+(	(	PUNCT	_	
+5100	5100	NUM	Case=Nom|NumType=Card|Number=Sing	
+Jászb	Jászb	PROPN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+,	,	PUNCT	_	
+
+Lehel	Lehel	PROPN	Case=Nom|Number=Sing	
+vezér	vezér	PROPN	Case=Nom|Number=Sing	
+tér	tér	PROPN	Case=Nom|Number=Sing	
+6.	6.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+)	)	PUNCT	_	
+.	.	PUNCT	_	
+
+Szent	Szent	PROPN	Case=Nom|Number=Sing	
+István	István	PROPN	Case=Nom|Number=Sing	
+Körúti	Körúti	PROPN	Case=Nom|Number=Sing	
+Egységes	egységes	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+Gyógyped	Gyógyped	PROPN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+
+Int.	Int.	PROPN	Case=Nom|Number=Sing	
+(	(	PUNCT	_	
+5100	5100	NUM	Case=Nom|NumType=Card|Number=Sing	
+Jászb	Jászb	PROPN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+,	,	PUNCT	_	
+
+Szt	Szt	PROPN	Case=Nom|Number=Sing	
+István	István	PROPN	Case=Nom|Number=Sing	
+krt.	krt.	PROPN	Case=Nom|Number=Sing	
+22.	22.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+)	)	PUNCT	_	
+.	.	PUNCT	_	
+
+Lehel	Lehel	PROPN	Case=Nom|Number=Sing	
+Vezér	vezér	NOUN	Case=Nom|Number=Sing	
+Gimn	Gimn	PROPN	Case=Ine|Number=Sing	
+.	.	PUNCT	_	
+
+(	(	PUNCT	_	
+5100	5100	NUM	Case=Nom|NumType=Card|Number=Sing	
+Jászb	Jászb	PROPN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+,	,	PUNCT	_	
+
+Szentháromság	szentháromság	NOUN	Case=Nom|Number=Sing	
+tér	tér	PROPN	Case=Nom|Number=Sing	
+1.	1.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+)	)	PUNCT	_	
+.	.	PUNCT	_	
+
+Szent	Szent	PROPN	Case=Nom|Number=Sing	
+István	István	PROPN	Case=Nom|Number=Sing	
+Sport	Sport	PROPN	Case=Nom|Number=Sing	
+Ált	ál	ADJ	Case=Acc|Degree=Pos|Number=Sing	
+.	.	PUNCT	_	
+
+Isk.	Isk.	PROPN	Case=Nom|Number=Sing	
+és	és	CONJ	_	
+Gimn	Gimn	PROPN	Case=Ine|Number=Sing	
+.	.	PUNCT	_	
+
+(	(	PUNCT	_	
+5100	5100	NUM	Case=Nom|NumType=Card|Number=Sing	
+Jászb	Jászb	PROPN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+,	,	PUNCT	_	
+
+Rákóczi	Rákóczi	PROPN	Case=Nom|Number=Sing	
+út	út	PROPN	Case=Nom|Number=Sing	
+53.	53.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+)	)	PUNCT	_	
+.	.	PUNCT	_	
+

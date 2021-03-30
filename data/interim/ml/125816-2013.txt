@@ -1,0 +1,13 @@
+Megbízási	megbízási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+az	az	DET	Definite=Def|PronType=Art	
+országos	országos	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+közúthálózaton	közúthálózat	NOUN	Case=Sup|Number=Sing	
+végzett	végez	VERB	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	
+közútkezelői	közútkezelői	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+tevékenység	tevékenység	NOUN	Case=Nom|Number=Sing	
+2013.	2013.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+évi	évi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+ellenőrzésére	ellenőrzés	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

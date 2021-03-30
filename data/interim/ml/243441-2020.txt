@@ -1,0 +1,24 @@
+„	„	PUNCT	_	
+Tolna	Tolna	PROPN	Case=Nom|Number=Sing	
+Megyei	Megyei	PROPN	Case=Nom|Number=Sing	
+Oktatási	Oktatási	PROPN	Case=Nom|Number=Sing	
+Intézmények	intézmény	NOUN	Case=Nom|Number=Plur	
+épületenergetikai	épületenergetikai	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+fejlesztése	fejlesztés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+"	"	PUNCT	_	
+című	című	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+,	,	PUNCT	_	
+KEHOP-5	KEHOP-5	PROPN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+
+2.2	2.2	PROPN	Case=Nom|Number=Sing	
+/	/	PUNCT	_	
+16-2016-00027	16-2016-00027	PROPN	Case=Nom|Number=Sing	
+azonosító	azonosító	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
+számú	számú	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+projekt	projekt	NOUN	Case=Nom|Number=Sing	
+kivitelezési	kivitelezési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+munkáinak	munka	NOUN	Case=Gen|Number=Plur|Number[psor]=Sing|Person[psor]=3	
+megvalósítása	megvalósítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+"	"	PUNCT	_	
+

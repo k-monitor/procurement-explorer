@@ -1,0 +1,14 @@
+A	a	DET	Definite=Def|PronType=Art	
+debreceni	debreceni	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+déli	déli	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+gazdasági	gazdasági	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+övezet	övezet	NOUN	Case=Nom|Number=Sing	
+feltáró	feltáró	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
+úthálózatának	úthálózat	NOUN	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+megépítése	megépítés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+a	a	DET	Definite=Def|PronType=Art	
+hozzá	ő	PRON	Case=All|Number=Sing|Person=3|PronType=Prs	
+kapcsolódó	kapcsolódó	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
+közművekkel	közmű	NOUN	Case=Ins|Number=Plur	
+.	.	PUNCT	_	
+

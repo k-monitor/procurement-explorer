@@ -1,0 +1,5 @@
+Dialízis	dialízis	NOUN	Case=Nom|Number=Sing	
+állomás	állomás	NOUN	Case=Nom|Number=Sing	
+működtetése	működtetés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

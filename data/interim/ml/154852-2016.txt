@@ -1,0 +1,13 @@
+Kossuth	Kossuth	PROPN	Case=Nom|Number=Sing	
+Lajos	Lajos	PROPN	Case=Nom|Number=Sing	
+Középiskola	középiskola	NOUN	Case=Nom|Number=Sing	
+főzőkonyhájának	főzőkonyha	NOUN	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+üzemeltetése	üzemeltetés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+,	,	PUNCT	_	
+készétel	készétel	NOUN	Case=Nom|Number=Sing	
+kiszállítással	kiszállítás	NOUN	Case=Ins|Number=Sing	
+vállalkozási	vállalkozási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

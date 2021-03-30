@@ -1,0 +1,16 @@
+Egyedi	egyedi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+,	,	PUNCT	_	
+rögzített	rögzített	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPast	
+díjtételű	díjtételű	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+vagyonbiztosítás	vagyonbiztosítás	NOUN	Case=Nom|Number=Sing	
+,	,	PUNCT	_	
+kiegészítő	kiegészítő	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
+kockázatokra	kockázat	NOUN	Case=Sub|Number=Plur	
+szóló	szóló	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
+fedezetekkel	fedezet	NOUN	Case=Ins|Number=Plur	
+és	és	CONJ	_	
+kombinált	kombinált	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPast	
+felelősségbiztosítási	felelősségbiztosítási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+

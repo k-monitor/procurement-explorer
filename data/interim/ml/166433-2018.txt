@@ -1,0 +1,11 @@
+Mintavevő	mintavevő	NOUN	Case=Nom|Number=Sing	
+és	és	CONJ	_	
+-	-	PUNCT	_	
+preparáló	preparáló	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
+berendezések	berendezés	NOUN	Case=Nom|Number=Plur	
+szállítása	szállítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+adásvételi	adásvételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

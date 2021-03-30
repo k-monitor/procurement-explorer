@@ -1,0 +1,7 @@
+ELTE	ELTE	PROPN	Case=Nom|Number=Sing	
+Üzemeltetés	üzemeltetés	NOUN	Case=Nom|Number=Sing	
+,	,	PUNCT	_	
+karbantartás	karbantartás	NOUN	Case=Nom|Number=Sing	
+és	és	CONJ	_	
+hibajavítás	hibajavítás	NOUN	Case=Nom|Number=Sing	
+

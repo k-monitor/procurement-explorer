@@ -1,0 +1,13 @@
+Adásvételi	adásvételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+keretszerződés	keretszerződés	NOUN	Case=Nom|Number=Sing	
+textiltermékek	textiltermék	NOUN	Case=Nom|Number=Plur	
+gyártására	gyártás	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+,	,	PUNCT	_	
+szállítására	szállítás	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+a	a	DET	Definite=Def|PronType=Art	
+Semmelweis	Semmelweis	PROPN	Case=Nom|Number=Sing	
+Egyetem	Egyetem	PROPN	Case=Nom|Number=Sing	
+egészségügyi	egészségügyi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+intézményei	intézmény	NOUN	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3	
+részére	részére	ADP	_	
+

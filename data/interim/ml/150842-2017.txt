@@ -1,0 +1,7 @@
+Hídfelújítási	hídfelújítási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+munkákhoz	munka	NOUN	Case=All|Number=Plur	
+kapcsolódó	kapcsolódó	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
+tervezési	tervezési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szolgáltatások	szolgáltatás	NOUN	Case=Nom|Number=Plur	
+.	.	PUNCT	_	
+

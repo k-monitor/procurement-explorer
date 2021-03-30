@@ -1,0 +1,5 @@
+Balatonfüredi	Balatonfüredi	PROPN	Case=Nom|Number=Sing	
+megállópont	megállópont	NOUN	Case=Nom|Number=Sing	
+létesítése	létesítés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

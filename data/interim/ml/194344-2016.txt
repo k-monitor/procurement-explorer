@@ -1,0 +1,29 @@
+1.	1.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+
+Régészeti	régészeti	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+feltáráshoz	feltárás	NOUN	Case=All|Number=Sing	
+kapcsolódó	kapcsolódó	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
+bontómunka	bontómunka	NOUN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+
+2.	2.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+
+Régészeti	régészeti	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+ásatáshoz	ásatás	NOUN	Case=All|Number=Sing	
+kapcsolódó	kapcsolódó	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
+geodéziai	geodéziai	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+és	és	CONJ	_	
+térinformatikai	térinformatikai	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szolgáltatás	szolgáltatás	NOUN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+
+3.	3.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+
+Régészeti	régészeti	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+feltáráshoz	feltárás	NOUN	Case=All|Number=Sing	
+kapcsolódó	kapcsolódó	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
+szakmai	szakmai	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+feladatok	feladat	NOUN	Case=Nom|Number=Plur	
+ellátása	ellátás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

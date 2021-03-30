@@ -1,0 +1,7 @@
+Kincstári	Kincstári	PROPN	Case=Nom|Number=Sing	
+tulajdonú	tulajdonú	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+eszközök	eszköz	NOUN	Case=Nom|Number=Plur	
+vagyonbiztosítási	vagyonbiztosítási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szerződése	szerződés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

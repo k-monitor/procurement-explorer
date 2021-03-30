@@ -1,0 +1,18 @@
+Szállítási	Szállítási	PROPN	Case=Nom|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+-	-	PUNCT	_	
+Budapest	Budapest	PROPN	Case=Nom|Number=Sing	
+Főváros	főváros	NOUN	Case=Nom|Number=Sing	
+XVI	16	NUM	Case=Nom|NumType=Card|Number=Sing	
+.	.	PUNCT	_	
+
+Kerületi	Kerületi	PROPN	Case=Nom|Number=Sing	
+Önkormányzat	Önkormányzat	PROPN	Case=Nom|Number=Sing	
+és	és	CONJ	_	
+intézményei	intézmény	NOUN	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3	
+részére	részére	ADP	_	
+vezetékes	vezetékes	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+földgáz	földgáz	NOUN	Case=Nom|Number=Sing	
+beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+2013.	2013.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+

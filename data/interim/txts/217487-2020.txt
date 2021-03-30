@@ -1,0 +1,1 @@
+Az Ajánlatkérő (Megrendelő) tulajdonában lévő Integrált Irat- és Dokumentumkezelő Rendszer (rövid elnevezéssel: IIDR) továbbfejlesztése, új modulokkal történő kiegészítése annak érdekében, hogy a fejlesztés befejeztével az IIDR szoftver alkalmas legyen országos, éles üzembe állítással az ügyészi munkának - legalább egy szakterületen - történő kiszolgálására.

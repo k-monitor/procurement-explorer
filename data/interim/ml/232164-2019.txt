@@ -1,0 +1,12 @@
+Keretszerződés	keretszerződés	NOUN	Case=Nom|Number=Sing	
+folyóiratok	folyóirat	NOUN	Case=Nom|Number=Plur	
+,	,	PUNCT	_	
+tankönyvek	tankönyv	NOUN	Case=Nom|Number=Plur	
+és	és	CONJ	_	
+egyéb	egyéb	PRON	Case=Nom|Number=Sing|Person=3|PronType=Ind	
+kiadványok	kiadvány	NOUN	Case=Nom|Number=Plur	
+nyomdai	nyomdai	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+kivitelezésére	kivitelezés	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+3	3	NUM	Case=Nom|NumType=Card|Number=Sing	
+részben	rész	NOUN	Case=Ine|Number=Sing	
+

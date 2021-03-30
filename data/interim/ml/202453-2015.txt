@@ -1,0 +1,16 @@
+„	„	PUNCT	_	
+Aszfaltmaró	aszfaltmaró	NOUN	Case=Nom|Number=Sing	
+,	,	PUNCT	_	
+aszfaltfinisher	aszfaltfinisher	NOUN	Case=Nom|Number=Sing	
+bérlése	bérlés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+"	"	PUNCT	_	
+tárgyú	tárgyú	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+keretszerződés	keretszerződés	NOUN	Case=Nom|Number=Sing	
+,	,	PUNCT	_	
+szerződéskötéstől	szerződéskötés	NOUN	Case=Abl|Number=Sing	
+számított	számított	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPast	
+36	36	NUM	Case=Nom|NumType=Card|Number=Sing	
+hónap	hónap	NOUN	Case=Nom|Number=Sing	
+időtartamban	időtartam	NOUN	Case=Ine|Number=Sing	
+.	.	PUNCT	_	
+

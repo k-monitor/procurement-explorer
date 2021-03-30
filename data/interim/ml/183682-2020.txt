@@ -1,0 +1,7 @@
+Élelmezési	élelmezési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+nyersanyag	nyersanyag	NOUN	Case=Nom|Number=Sing	
+beszerzés	beszerzés	NOUN	Case=Nom|Number=Sing	
+adásvételi	adásvételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+

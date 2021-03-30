@@ -1,0 +1,16 @@
+„	„	PUNCT	_	
+Városi	Városi	PROPN	Case=Nom|Number=Sing	
+Szociális	Szociális	PROPN	Case=Nom|Number=Sing	
+Szolgálat	Szolgálat	PROPN	Case=Nom|Number=Sing	
+Süveg	süveg	NOUN	Case=Nom|Number=Sing	
+utcai	utcai	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+telephelyének	telephely	NOUN	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+infrastrukturális	infrastrukturális	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+fejlesztéséhez	fejlesztés	NOUN	Case=All|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+kapcsolódó	kapcsolódó	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
+tervezési	tervezési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+feladatok	feladat	NOUN	Case=Nom|Number=Plur	
+ellátása	ellátás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+"	"	PUNCT	_	
+.	.	PUNCT	_	
+

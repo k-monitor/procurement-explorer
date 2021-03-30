@@ -1,0 +1,8 @@
+Budapesti	Budapesti	PROPN	Case=Nom|Number=Sing	
+Nemzeti	Nemzeti	PROPN	Case=Nom|Number=Sing	
+Tornasport	tornasport	NOUN	Case=Nom|Number=Sing	
+Akadémia	Akadémia	PROPN	Case=Nom|Number=Sing	
+tervezési	tervezési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+feladatainak	feladat	NOUN	Case=Gen|Number=Plur|Number[psor]=Sing|Person[psor]=3	
+ellátása	ellátás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+

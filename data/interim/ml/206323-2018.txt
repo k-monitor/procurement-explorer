@@ -1,0 +1,10 @@
+Adásvételi	adásvételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+„	„	PUNCT	_	
+ADN	ADN	PROPN	Case=Nom|Number=Sing	
+járőrhajó	járőrhajó	NOUN	Case=Nom|Number=Sing	
+beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+"	"	PUNCT	_	
+tárgyban	tárgy	NOUN	Case=Ine|Number=Sing	
+.	.	PUNCT	_	
+

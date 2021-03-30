@@ -1,0 +1,15 @@
+„	„	PUNCT	_	
+A	a	DET	Definite=Def|PronType=Art	
+budapesti	budapesti	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+Új	új	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+Duna-híd	Duna-híd	NOUN	Case=Nom|Number=Sing	
+független	független	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+statikai	statikai	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+számításainak	számítás	NOUN	Case=Gen|Number=Plur|Number[psor]=Sing|Person[psor]=3	
+elkészítése	elkészítés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+és	és	CONJ	_	
+tervellenőrzési	tervellenőrzési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+feladatainak	feladat	NOUN	Case=Gen|Number=Plur|Number[psor]=Sing|Person[psor]=3	
+ellátása	ellátás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+"	"	PUNCT	_	
+

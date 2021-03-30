@@ -1,0 +1,11 @@
+Vagyon	vagyon	NOUN	Case=Nom|Number=Sing	
+-	-	PUNCT	_	
+és	és	CONJ	_	
+felelősségbiztosítás	felelősségbiztosítás	NOUN	Case=Nom|Number=Sing	
+Józsefvárosi	Józsefvárosi	PROPN	Case=Nom|Number=Sing	
+Önkormányzat	Önkormányzat	PROPN	Case=Nom|Number=Sing	
+és	és	CONJ	_	
+intézményei	intézmény	NOUN	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3	
+részére	részére	ADP	_	
+.	.	PUNCT	_	
+

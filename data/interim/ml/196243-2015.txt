@@ -1,0 +1,12 @@
+Folyószámlahitel	folyószámlahitel	NOUN	Case=Nom|Number=Sing	
+biztosítása	biztosítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+hitelszerződés	hitelszerződés	NOUN	Case=Nom|Number=Sing	
+formájában	forma	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+1	1	NUM	Case=Nom|NumType=Card|Number=Sing	
+100	100	NUM	Case=Nom|NumType=Card|Number=Sing	
+000	000	NUM	Case=Nom|NumType=Card|Number=Sing	
+000	000	NUM	Case=Nom|NumType=Card|Number=Sing	
+HUF	HUF	PROPN	Case=Nom|Number=Sing	
+értékben	érték	NOUN	Case=Ine|Number=Sing	
+.	.	PUNCT	_	
+

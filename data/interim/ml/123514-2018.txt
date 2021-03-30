@@ -1,0 +1,9 @@
+Adásvételi	adásvételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+SAXS	SAXS	PROPN	Case=Nom|Number=Sing	
+röntgen	röntgen	NOUN	Case=Nom|Number=Sing	
+por	por	NOUN	Case=Nom|Number=Sing	
+diffraktométer	diffraktométer	NOUN	Case=Nom|Number=Sing	
+beszerzésére	beszerzés	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

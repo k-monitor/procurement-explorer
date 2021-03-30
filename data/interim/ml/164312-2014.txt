@@ -1,0 +1,9 @@
+Egyszerhasználatos	egyszerhasználatos	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+keringéstámogató	keringéstámogató	NOUN	Case=Nom|Number=Sing	
+eszközök	eszköz	NOUN	Case=Nom|Number=Plur	
+beszerzés	beszerzés	NOUN	Case=Nom|Number=Sing	
+,	,	PUNCT	_	
+adásvételi	adásvételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+

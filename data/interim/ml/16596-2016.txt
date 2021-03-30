@@ -1,0 +1,10 @@
+Élelmezési	élelmezési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+nyersanyag	nyersanyag	NOUN	Case=Nom|Number=Sing	
+közbeszerzés	közbeszerzés	NOUN	Case=Nom|Number=Sing	
+-	-	PUNCT	_	
+Szentendre	Szentendre	PROPN	Case=Nom|Number=Sing	
+,	,	PUNCT	_	
+adásvételi	adásvételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+

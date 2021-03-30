@@ -1,0 +1,2 @@
+jelen eljárás cél
+hogy az asp központ keresztül üzemeltetett asp 2.0 projekt keret résztvevő önkormányzat számára iratkezelő szakrendszer működés biztosított lesz

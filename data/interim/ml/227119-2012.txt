@@ -1,0 +1,31 @@
+Földgázenergia	földgázenergia	NOUN	Case=Nom|Number=Sing	
+beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+2012.	2012.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+11.01	11.01	NUM	Case=Nom|NumType[sem]=Time|Number=Sing	
+.	.	PUNCT	_	
+
+6	6	NUM	Case=Nom|NumType=Card|Number=Sing	
+:	:	PUNCT	_	
+00	00	NUM	Case=Nom|NumType=Card|Number=Sing	
+CET	cet	NOUN	Case=Nom|Number=Sing	
+-	-	PUNCT	_	
+2013.	2013.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+07.01	07.01	NUM	Case=Nom|NumType[sem]=Time|Number=Sing	
+.	.	PUNCT	_	
+
+6	6	NUM	Case=Nom|NumType=Card|Number=Sing	
+:	:	PUNCT	_	
+00	00	NUM	Case=Nom|NumType=Card|Number=Sing	
+CET	cet	NOUN	Case=Nom|Number=Sing	
+időszakra	időszak	NOUN	Case=Sub|Number=Sing	
+vonatkozóan	vonatkozó	ADJ	Case=Ess|Degree=Pos|Number=Sing|VerbForm=PartPres	
+,	,	PUNCT	_	
+teljes	teljes	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+ellátás	ellátás	NOUN	Case=Nom|Number=Sing	
+alapú	alapú	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+földgázenergia	földgázenergia	NOUN	Case=Nom|Number=Sing	
+kereskedelmi	kereskedelmi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

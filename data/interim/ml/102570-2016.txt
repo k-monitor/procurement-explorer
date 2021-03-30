@@ -1,0 +1,14 @@
+Az	az	DET	Definite=Def|PronType=Art	
+MTVA	MTVA	PROPN	Case=Nom|Number=Sing	
+részére	részére	ADP	_	
+Hybrid	Hybrid	PROPN	Case=Nom|Number=Sing	
+router	router	NOUN	Case=Nom|Number=Sing	
+és	és	CONJ	_	
+hozzátartozó	hozzátartozó	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
+vezérlő	vezérlő	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
+rendszer	rendszer	NOUN	Case=Nom|Number=Sing	
+beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+egyes	egyes	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+részei	rész	NOUN	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

@@ -1,0 +1,24 @@
+Kézfertőtlenítési	kézfertőtlenítési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+technika	technika	NOUN	Case=Nom|Number=Sing	
+mérő	mérő	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
+rendszer	rendszer	NOUN	Case=Nom|Number=Sing	
+beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+a	a	DET	Definite=Def|PronType=Art	
+PTE	PTE	PROPN	Case=Nom|Number=Sing	
+részére	részére	ADP	_	
+az	az	DET	Definite=Def|PronType=Art	
+EFOP-2	EFOP-2	NOUN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+
+2	2	NUM	Case=Nom|NumType=Card|Number=Sing	
+.	.	PUNCT	_	
+18-17-2017-00017	18-17-2017-00017	PROPN	Case=Nom|Number=Sing	
+projekt	projekt	NOUN	Case=Nom|Number=Sing	
+keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+a	a	DET	Definite=Def|PronType=Art	
+közbeszerzési	közbeszerzési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+dokumentumokban	dokumentum	NOUN	Case=Ine|Number=Plur	
+meghatározottak	meghatározott	ADJ	Case=Nom|Degree=Pos|Number=Plur|VerbForm=PartPast	
+szerint	szerint	ADP	_	
+.	.	PUNCT	_	
+

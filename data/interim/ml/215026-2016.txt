@@ -1,0 +1,12 @@
+Takarítási	takarítási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+munkák	munka	NOUN	Case=Nom|Number=Plur	
+a	a	DET	Definite=Def|PronType=Art	
+Dél-budai	Dél-budai	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+Egészségügyi	Egészségügyi	PROPN	Case=Nom|Number=Sing	
+Szolgálat	Szolgálat	PROPN	Case=Nom|Number=Sing	
+Közhasznú	Közhasznú	PROPN	Case=Nom|Number=Sing	
+Nonprofit	nonprofit	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+Kft.	kft.	NOUN	Case=Nom|Number=Sing	
+részére	részére	ADP	_	
+.	.	PUNCT	_	
+

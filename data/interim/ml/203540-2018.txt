@@ -1,0 +1,17 @@
+Az	az	DET	Definite=Def|PronType=Art	
+Országos	Országos	PROPN	Case=Nom|Number=Sing	
+pénzügyi	pénzügyi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+fogyasztóvédelmi	fogyasztóvédelmi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+hálózat	hálózat	NOUN	Case=Nom|Number=Sing	
+kialakítása	kialakítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+és	és	CONJ	_	
+működtetése	működtetés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+18	18	NUM	Case=Nom|NumType=Card|Number=Sing	
+megyeszékhelyen	megyeszékhely	NOUN	Case=Sup|Number=Sing	
+kialakított	kialakított	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPast	
+és	és	CONJ	_	
+működtetett	működtetett	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPast	
+irodán	iroda	NOUN	Case=Sup|Number=Sing	
+keresztül	keresztül	ADP	_	
+.	.	PUNCT	_	
+

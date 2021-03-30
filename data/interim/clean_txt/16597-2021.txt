@@ -1,0 +1,2 @@
+zárt rendszerű gyógyszerátviteli eszköz
+cstd

@@ -1,0 +1,16 @@
+Szállítási	Szállítási	PROPN	Case=Nom|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+9	9	NUM	Case=Nom|NumType=Card|Number=Sing	
+db	db	NOUN	Case=Nom|Number=Sing	
++	+	PUNCT	_	
+4	4	NUM	Case=Nom|NumType=Card|Number=Sing	
+db	db	NOUN	Case=Nom|Number=Sing	
+új	új	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+,	,	PUNCT	_	
+Magyarországon	Magyarország	PROPN	Case=Sup|Number=Sing	
+forgalomba	forgalom	NOUN	Case=Ill|Number=Sing	
+helyezett	helyezett	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPast	
+tehergépjármű	tehergépjármű	NOUN	Case=Nom|Number=Sing	
+beszerzésére	beszerzés	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

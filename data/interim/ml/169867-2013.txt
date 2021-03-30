@@ -1,0 +1,8 @@
+Megbízási	megbízási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+alapján	alap	NOUN	Case=Sup|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+élőerős	élőerős	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+őrzés-védelem	őrzés-védelem	NOUN	Case=Nom|Number=Sing	
+ellátása	ellátás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

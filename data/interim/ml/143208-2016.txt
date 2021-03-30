@@ -1,0 +1,18 @@
+Budapest	Budapest	PROPN	Case=Nom|Number=Sing	
+XIII	13	NUM	Case=Nom|NumType=Card|Number=Sing	
+.	.	PUNCT	_	
+
+Róbert	Róbert	PROPN	Case=Nom|Number=Sing	
+Károly	Károly	PROPN	Case=Nom|Number=Sing	
+körút	körút	PROPN	Case=Nom|Number=Sing	
+(	(	PUNCT	_	
+Árpád	Árpád	PROPN	Case=Nom|Number=Sing	
+híd-Vágány	híd-vágány	NOUN	Case=Nom|Number=Sing	
+utca	utca	NOUN	Case=Nom|Number=Sing	
+közötti	közötti	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+)	)	PUNCT	_	
+felújításának	felújítás	NOUN	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+kivitelezési	kivitelezési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+munkái	munka	NOUN	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

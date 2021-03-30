@@ -1,0 +1,4 @@
+Különféle	különféle	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szerződések	szerződés	NOUN	Case=Nom|Number=Plur	
+.	.	PUNCT	_	
+

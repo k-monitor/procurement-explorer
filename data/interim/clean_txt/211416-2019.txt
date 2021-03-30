@@ -1,0 +1,46 @@
+őrzés-védelem és portaszolgálat szolgáltatás ellátás
+vagyonvédelmi szempont őrzött terület
+az intézet terület
+épület terület
+összes szint
+összesen
+m2 az őrzés folyamatos
+a nap óra biztosít kell
+a szolgálati időbeosztás és a helyi sajátosság maximális figyelembevétel
+szolgálat létszám hétköznap
+fő munkaszüneti és ünnepnap
+fő
+szolgálatvezető
+biztonsági őr fő órás
+munkanap
+főépület recepció
+porta
+portaszolgálat
+a
+porta
+portaszolgálat
+fő órás
+gyermekszív központ recepció
+portaszolgálat
+b
+porta
+portaszolgálat
+fő órás
+teherporta
+portaszolgálat
+c
+porta
+portaszolgálat
+fő órás
+munkanap
+épület belüli járőr
+óra között az egyik járőr udvari járőr szolgálat teljesít
+biztonsági őr
+a
+biztonsági őr és
+b
+biztonsági őr
+fő órás
+telefonközpontos fő órás
+munkanap munkaszüneti nap a teherporta nem üzemel
+portaszolgálat nincs

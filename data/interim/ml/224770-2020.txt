@@ -1,0 +1,11 @@
+Telepített	telepített	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPast	
+növények	növény	NOUN	Case=Nom|Number=Plur	
+három	három	NUM	Case=Nom|NumType=Card|Number=Sing	
+éven	év	NOUN	Case=Sup|Number=Sing	
+keresztül	keresztül	ADP	_	
+történő	történő	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
+ápolása	ápolás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+és	és	CONJ	_	
+pótlása	pótlás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

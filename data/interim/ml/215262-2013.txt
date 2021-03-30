@@ -1,0 +1,35 @@
+Vállalkozási	Vállalkozási	PROPN	Case=Nom|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+a	a	DET	Definite=Def|PronType=Art	
+„	„	PUNCT	_	
+K008	K008	PROPN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+
+20.	20.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+
+8.	8.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+sz.	sz.	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+főút	főút	NOUN	Case=Nom|Number=Sing	
+131+550	131+550	PROPN	Case=Nom|Number=Sing	
+-	-	PUNCT	_	
+143+350	143+350	PROPN	Case=Nom|Number=Sing	
+km	km	NOUN	Case=Nom|Number=Sing	
+sz.	sz.	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+közötti	közötti	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szakasz	szakasz	NOUN	Case=Nom|Number=Sing	
+115	115	NUM	Case=Nom|NumType=Card|Number=Sing	
+kN-os	kN	NOUN	Case=Nom|Number=Sing	
+burkolat-megerősítési	burkolat-megerősítési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+,	,	PUNCT	_	
+korszerűsítési	korszerűsítési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+,	,	PUNCT	_	
+valamint	valamint	CONJ	_	
+kapcsolódó	kapcsolódó	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
+létesítményeinek	létesítmény	NOUN	Case=Gen|Number=Plur|Number[psor]=Sing|Person[psor]=3	
+kivitelezési	kivitelezési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+feladatainak	feladat	NOUN	Case=Gen|Number=Plur|Number[psor]=Sing|Person[psor]=3	
+ellátása	ellátás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+"	"	PUNCT	_	
+tárgyában	tárgy	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

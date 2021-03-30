@@ -1,0 +1,14 @@
+Hitelszerződés	hitelszerződés	NOUN	Case=Nom|Number=Sing	
+Eger	Eger	PROPN	Case=Nom|Number=Sing	
+MJV	MJV	PROPN	Case=Nom|Number=Sing	
+Önkormányzata	Önkormányzata	PROPN	Case=Nom|Number=Sing	
+önkormányzati	önkormányzati	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+2014.	2014.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+évi	évi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+fejlesztési	fejlesztési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+célok	cél	NOUN	Case=Nom|Number=Plur	
+megvalósítását	megvalósítás	NOUN	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+szolgáló	szolgáló	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
+beruházások	beruházás	NOUN	Case=Nom|Number=Plur	
+finanszírozásához	finanszírozás	NOUN	Case=All|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+

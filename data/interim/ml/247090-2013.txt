@@ -1,0 +1,11 @@
+Szállítási	Szállítási	PROPN	Case=Nom|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+különféle	különféle	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+élelmiszerek	élelmiszer	NOUN	Case=Nom|Number=Plur	
+beszerzésére	beszerzés	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+,	,	PUNCT	_	
+7	7	NUM	Case=Nom|NumType=Card|Number=Sing	
+részajánlattételi	részajánlattételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+körben	kör	NOUN	Case=Ine|Number=Sing	
+.	.	PUNCT	_	
+

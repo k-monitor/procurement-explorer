@@ -1,0 +1,20 @@
+Kombinált	kombinált	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPast	
+célgépek	célgép	NOUN	Case=Nom|Number=Plur	
+beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+
+1.	1.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+rész	rész	NOUN	Case=Nom|Number=Sing	
+Kombinált	kombinált	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPast	
+célgép	célgép	NOUN	Case=Nom|Number=Sing	
+beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+
+2.	2.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+rész	rész	NOUN	Case=Nom|Number=Sing	
+Ügyeleti	ügyeleti	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+kombinált	kombinált	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPast	
+célgép	célgép	NOUN	Case=Nom|Number=Sing	
+beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

@@ -1,0 +1,12 @@
+Szállítási	Szállítási	PROPN	Case=Nom|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+az	az	DET	Definite=Def|PronType=Art	
+MTVA	MTVA	PROPN	Case=Nom|Number=Sing	
+műsorkészítési	műsorkészítési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+feladatainak	feladat	NOUN	Case=Gen|Number=Plur|Number[psor]=Sing|Person[psor]=3	
+ellátásához	ellátás	NOUN	Case=All|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+szükséges	szükséges	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+tehergépjárművek	tehergépjármű	NOUN	Case=Nom|Number=Plur	
+szállítására	szállítás	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

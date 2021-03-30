@@ -1,0 +1,10 @@
+DEK-903	DEK-903	PROPN	Case=Nom|Number=Sing	
+Adásvételi	adásvételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+gázenergia	gázenergia	NOUN	Case=Nom|Number=Sing	
+beszerzésére	beszerzés	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+a	a	DET	Definite=Def|PronType=Art	
+Debreceni	debreceni	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+Egyetem	Egyetem	PROPN	Case=Nom|Number=Sing	
+részére	részére	ADP	_	
+

@@ -1,0 +1,13 @@
+Központi	Központi	PROPN	Case=Nom|Number=Sing	
+Nyomozó	nyomozó	NOUN	Case=Nom|Number=Sing	
+Főügyészség	Főügyészség	PROPN	Case=Nom|Number=Sing	
+öt	öt	NUM	Case=Nom|NumType=Card|Number=Sing	
+irodaépületének	irodaépület	NOUN	Case=Gen|Number=Sing|Number[psed]=Sing	
+élőerős	élőerős	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+őrzés-védelmi	őrzés-védelmi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+és	és	CONJ	_	
+portaszolgálati	portaszolgálati	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+tevékenységének	tevékenység	NOUN	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+ellátása	ellátás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

@@ -1,0 +1,13 @@
+Számítógépes	számítógépes	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+hardver	hardver	NOUN	Case=Nom|Number=Sing	
+eszközök	eszköz	NOUN	Case=Nom|Number=Plur	
+szállítása	szállítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+Openstack	openstack	NOUN	Case=Nom|Number=Sing	
+alapú	alapú	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+felhőinfrastruktúra	felhőinfrastruktúra	NOUN	Case=Nom|Number=Sing	
+bővítéséhez	bővítés	NOUN	Case=All|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+az	az	DET	Definite=Def|PronType=Art	
+alábbiaknak	alábbi	NOUN	Case=Dat|Number=Plur	
+megfelelően	meg+felelő	ADJ	Case=Ess|Degree=Pos|Number=Sing|VerbForm=PartPres	
+.	.	PUNCT	_	
+

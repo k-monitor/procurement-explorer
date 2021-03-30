@@ -1,0 +1,16 @@
+Gyári	gyári	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+új	új	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+,	,	PUNCT	_	
+vagy	vagy	CONJ	_	
+legfeljebb	legfeljebb	ADV	_	
+6	6	NUM	Case=Nom|NumType=Card|Number=Sing	
+hónapos	hónapos	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+használt	használt	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPast	
+hulladéktároló	hulladéktároló	NOUN	Case=Nom|Number=Sing	
+edényzet	edényzet	NOUN	Case=Nom|Number=Sing	
+beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+bérleti	bérleti	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

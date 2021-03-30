@@ -1,0 +1,15 @@
+Központi	Központi	PROPN	Case=Nom|Number=Sing	
+szúnyoggyérítési	szúnyoggyérítési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+feladatok	feladat	NOUN	Case=Nom|Number=Plur	
+ellátása	ellátás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+(	(	PUNCT	_	
+kiegészítő	kiegészítő	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
+szolgáltatások	szolgáltatás	NOUN	Case=Nom|Number=Plur	
+2016.	2016.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+)	)	PUNCT	_	
+,	,	PUNCT	_	
+vállalkozási	vállalkozási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

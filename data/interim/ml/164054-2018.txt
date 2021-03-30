@@ -1,0 +1,6 @@
+Villamosenergia-kereskedő	Villamosenergia-kereskedő	NOUN	Case=Nom|Number=Sing	
+kiválasztása	kiválasztás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+2019.	2019.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+évre	év	NOUN	Case=Sub|Number=Sing	
+.	.	PUNCT	_	
+

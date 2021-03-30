@@ -1,0 +1,14 @@
+EM-559	EM-559	PROPN	Case=Nom|Number=Sing	
+DEOEC	DEOEC	PROPN	Case=Nom|Number=Sing	
+részére	részére	ADP	_	
+3	3	NUM	Case=Nom|NumType=Card|Number=Sing	
+db	db	NOUN	Case=Nom|Number=Sing	
+ultrahang	ultrahang	NOUN	Case=Nom|Number=Sing	
+diagnosztikai	diagnosztikai	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+készülék	készülék	NOUN	Case=Nom|Number=Sing	
+beszerzésére	beszerzés	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+irányuló	irányuló	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
+szállítási	szállítási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+

@@ -1,0 +1,37 @@
+TOP-6	TOP-6	PROPN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+
+1	1	NUM	Case=Nom|NumType=Card|Number=Sing	
+.	.	PUNCT	_	
+5-16-VP1-2017-00001	5-16-VP1-2017-00001	PROPN	Case=Nom|Number=Sing	
+azonosítójú	azonosítójú	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+,	,	PUNCT	_	
+„	„	PUNCT	_	
+Északi	Északi	PROPN	Case=Nom|Number=Sing	
+iparterület	iparterület	NOUN	Case=Nom|Number=Sing	
+közlekedésfejlesztése	közlekedésfejlesztés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+"	"	PUNCT	_	
+1-2	1-2	NUM	Case=Nom|NumType=Card|Number=Sing	
+.	.	PUNCT	_	
+részfeladatban	részfeladat	NOUN	Case=Ine|Number=Sing	
+foglaltak	foglalt	NOUN	Case=Nom|Number=Plur	
+kivitelezése	kivitelezés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+
+A	a	DET	Definite=Def|PronType=Art	
+közbeszerzési	közbeszerzési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+eljárás	eljárás	NOUN	Case=Nom|Number=Sing	
+feltételes	feltételes	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+közbeszerzési	közbeszerzési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+eljárás	eljárás	NOUN	Case=Nom|Number=Sing	
+a	a	DET	Definite=Def|PronType=Art	
+Kbt.	Kbt.	PROPN	Case=Nom|Number=Sing	
+53.	53.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+§	§	NOUN	Case=Nom|Number=Sing	
+(	(	PUNCT	_	
+6	6	NUM	Case=Nom|NumType=Card|Number=Sing	
+)	)	PUNCT	_	
+bekezdése	bekezdés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+alapján	alap	NOUN	Case=Sup|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

@@ -1,0 +1,12 @@
+Adásvételi	adásvételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+az	az	DET	Definite=Def|PronType=Art	
+Erkel	Erkel	PROPN	Case=Nom|Number=Sing	
+színház	színház	NOUN	Case=Nom|Number=Sing	
+részére	részére	ADP	_	
+hangtechnikai	hangtechnikai	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+eszközök	eszköz	NOUN	Case=Nom|Number=Plur	
+beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+tárgyában	tárgy	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

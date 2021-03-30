@@ -1,0 +1,8 @@
+mfb zrt működő sap rendszer afi és kapcsolódó analitikus modul
+fi
+trm
+sl
+cb
+továbbfejlesztési koncepció kidolgozás
+megvalósítás
+éles indítás és üzemeltetés támogatás

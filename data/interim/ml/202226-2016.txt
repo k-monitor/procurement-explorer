@@ -1,0 +1,26 @@
+Adásvételi	adásvételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+„	„	PUNCT	_	
+Field	field	NOUN	Case=Nom|Number=Sing	
+revitalizációs	revitalizációs	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+projekt	projekt	NOUN	Case=Nom|Number=Sing	
+II	II	PROPN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+tartalék	tartalék	NOUN	Case=Nom|Number=Sing	
+eszközök	eszköz	NOUN	Case=Nom|Number=Plur	
+beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+"	"	PUNCT	_	
+tárgyban	tárgy	NOUN	Case=Ine|Number=Sing	
+.	.	PUNCT	_	
+
+A	a	DET	Definite=Def|PronType=Art	
+közbeszerzés	közbeszerzés	NOUN	Case=Nom|Number=Sing	
+pontos	pontos	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+leírását	leírás	NOUN	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+az	az	DET	Definite=Def|PronType=Art	
+ajánlattételi	ajánlattételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+dokumentáció	dokumentáció	NOUN	Case=Nom|Number=Sing	
+tartalmazza	tartalmaz	VERB	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	
+.	.	PUNCT	_	
+

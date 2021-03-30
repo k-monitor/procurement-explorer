@@ -1,0 +1,15 @@
+Batthyány	Batthyány	PROPN	Case=Nom|Number=Sing	
+Kázmér	kázmér	NOUN	Case=Nom|Number=Sing	
+Szakkórház	szakkórház	NOUN	Case=Nom|Number=Sing	
+-	-	PUNCT	_	
+EFOP-2	EFOP-2	PROPN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+
+2	2	NUM	Case=Nom|NumType=Card|Number=Sing	
+.	.	PUNCT	_	
+18-17	18-17	NUM	Case=Nom|NumType=Card|Number=Sing	
+-	-	PUNCT	_	
+árubeszerzés	árubeszerzés	NOUN	Case=Nom|Number=Sing	
+-	-	PUNCT	_	
+2018.	2018.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+

@@ -1,0 +1,15 @@
+„	„	PUNCT	_	
+Települési	települési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szilárd	szilárd	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+kommunális	kommunális	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+hulladék	hulladék	NOUN	Case=Nom|Number=Sing	
+gyűjtése	gyűjtés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+és	és	CONJ	_	
+beszállítása	beszállítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+a	a	DET	Definite=Def|PronType=Art	
+Duna-Vértes	Duna-vértes	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+Regionális	Regionális	PROPN	Case=Nom|Number=Sing	
+Hulladékkezelő	hulladékkezelő	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+Központba	központ	NOUN	Case=Ill|Number=Sing	
+"	"	PUNCT	_	
+

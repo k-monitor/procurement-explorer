@@ -1,0 +1,12 @@
+Szolgáltatási	szolgáltatási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+középiskolai	középiskolai	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+ebéd	ebéd	NOUN	Case=Nom|Number=Sing	
+beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+szakközépiskolák	szakközépiskola	NOUN	Case=Nom|Number=Plur	
+és	és	CONJ	_	
+szakiskolák	szakiskola	NOUN	Case=Nom|Number=Plur	
+részére	részére	ADP	_	
+.	.	PUNCT	_	
+

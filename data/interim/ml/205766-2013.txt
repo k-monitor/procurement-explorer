@@ -1,0 +1,25 @@
+Hitelszerződés	hitelszerződés	NOUN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+
+Veszprém	Veszprém	PROPN	Case=Nom|Number=Sing	
+,	,	PUNCT	_	
+Felhalmozási	felhalmozási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+célú	célú	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+hitelfelvétel	hitelfelvétel	NOUN	Case=Nom|Number=Sing	
+650	650	NUM	Case=Nom|NumType=Card|Number=Sing	
+000	000	NUM	Case=Nom|NumType=Card|Number=Sing	
+000	000	NUM	Case=Nom|NumType=Card|Number=Sing	
+HUF	HUF	PROPN	Case=Nom|Number=Sing	
+összegű	összegű	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+beruházási	beruházási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+hitel	hitel	NOUN	Case=Nom|Number=Sing	
+felvétele	felvétel	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+,	,	PUNCT	_	
+az	az	DET	Definite=Def|PronType=Art	
+ajánlattételi	ajánlattételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+dokumentációban	dokumentáció	NOUN	Case=Ine|Number=Sing	
+részletezett	részletezett	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPast	
+beruházási	beruházási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+célokra	cél	NOUN	Case=Sub|Number=Plur	
+.	.	PUNCT	_	
+

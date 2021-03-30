@@ -1,0 +1,9 @@
+Adásvételi	adásvételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+szívó	szívó	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
+felépítménnyel	felépítmény	NOUN	Case=Ins|Number=Sing	
+rendelkező	rendelkező	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
+célgép	célgép	NOUN	Case=Nom|Number=Sing	
+beszerzésére	beszerzés	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

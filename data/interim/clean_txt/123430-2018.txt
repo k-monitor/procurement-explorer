@@ -1,0 +1,6 @@
+filter
+szerelék
+katéter beszerzés
+összesen db
+doboz mennyiség
+rész

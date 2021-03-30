@@ -1,0 +1,9 @@
+PTE	PTE	PROPN	Case=Nom|Number=Sing	
+Gyermekgyógyászati	gyermekgyógyászati	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+Klinika	Klinika	PROPN	Case=Nom|Number=Sing	
+felújításának	felújítás	NOUN	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+és	és	CONJ	_	
+bővítésének	bővítés	NOUN	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+kivitelezése	kivitelezés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

@@ -1,0 +1,13 @@
+Kröger	Kröger	PROPN	Case=Nom|Number=Sing	
+típusú	típusú	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+vagy	vagy	CONJ	_	
+azzal	az	PRON	Case=Ins|Number=Sing|Person=3|PronType=Dem	
+egyenértékű	egyenértékű	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szemétbunker	szemétbunker	NOUN	Case=Nom|Number=Sing	
+téri	téri	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+polipmarkolók	polipmarkoló	NOUN	Case=Nom|Number=Plur	
+beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+és	és	CONJ	_	
+szállítása	szállítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

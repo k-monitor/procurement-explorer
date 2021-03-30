@@ -1,0 +1,14 @@
+WEB	web	NOUN	Case=Nom|Number=Sing	
+technológia	technológia	NOUN	Case=Nom|Number=Sing	
+és	és	CONJ	_	
+az	az	DET	Definite=Def|PronType=Art	
+AVAYA	AVAYA	PROPN	Case=Nom|Number=Sing	
+Call	Call	PROPN	Case=Nom|Number=Sing	
+Center	Center	PROPN	Case=Nom|Number=Sing	
+üzemeltetésével	üzemeltetés	NOUN	Case=Ins|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+kapcsolatos	kapcsolatos	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szakértői	szakértői	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+támogatás	támogatás	NOUN	Case=Nom|Number=Sing	
+beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

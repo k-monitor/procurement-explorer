@@ -1,0 +1,12 @@
+Szálláshely	szálláshely	NOUN	Case=Nom|Number=Sing	
+szolgáltatás	szolgáltatás	NOUN	Case=Nom|Number=Sing	
+egyetemi	egyetemi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+hallgatók	hallgató	NOUN	Case=Nom|Number=Plur	
+részére	részére	ADP	_	
+,	,	PUNCT	_	
+maximum	maximum	ADV	_	
+3	3	NUM	Case=Nom|NumType=Card|Number=Sing	
+ágyas	ágyas	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szobákban	szoba	NOUN	Case=Ine|Number=Plur	
+.	.	PUNCT	_	
+

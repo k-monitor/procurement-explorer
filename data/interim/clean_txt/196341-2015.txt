@@ -1,0 +1,22 @@
+vállalkozási szerződés keret a magyar nemzeti bank sap ecc
+használt standard modul
+bc
+mm
+fi
+co
+sd
+hr
+am
+sl
+tm
+pp
+netweaver
+bw
+sem
+srm
+portál
+esik
+mdm
+sap solution manager
+sap webdispatcher rend-szer üzemeltetés támogatás
+fejlesztési és módosítási tevékenység végrehajtás

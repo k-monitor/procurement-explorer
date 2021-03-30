@@ -1,0 +1,14 @@
+Közétkeztetési	közétkeztetési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szolgáltatás	szolgáltatás	NOUN	Case=Nom|Number=Sing	
+nyújtása	nyújtás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+Ócsa	ócsa	NOUN	Case=Nom|Number=Sing	
+város	város	NOUN	Case=Nom|Number=Sing	
+közigazgatási	közigazgatási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+területén	terület	NOUN	Case=Sup|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+főző	főző	NOUN	Case=Nom|Number=Sing	
+-	-	PUNCT	_	
+és	és	CONJ	_	
+tálalókonyhák	tálalókonyha	NOUN	Case=Nom|Number=Plur	
+üzemeltetésével	üzemeltetés	NOUN	Case=Ins|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

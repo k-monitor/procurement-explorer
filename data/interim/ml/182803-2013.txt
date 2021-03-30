@@ -1,0 +1,15 @@
+Magyarországi	magyarországi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+fekvőbeteg	fekvőbeteg	NOUN	Case=Nom|Number=Sing	
+ellátó	ellátó	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
+intézmény	intézmény	NOUN	Case=Nom|Number=Sing	
+12	12	NUM	Case=Nom|NumType=Card|Number=Sing	
+havi	havi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+gyógyszerellátásának	gyógyszerellátás	NOUN	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+biztosítása	biztosítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+8	8	NUM	Case=Nom|NumType=Card|Number=Sing	
+különböző	különböző	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+hatóanyag	hatóanyag	NOUN	Case=Nom|Number=Sing	
+,	,	PUNCT	_	
+hatóanyagcsoport	hatóanyagcsoport	NOUN	Case=Nom|Number=Sing	
+tekintetében	tekintet	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+

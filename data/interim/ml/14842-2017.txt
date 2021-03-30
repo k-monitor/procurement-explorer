@@ -1,0 +1,14 @@
+Meglévő	meglévő	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
+SUN	sun	NOUN	Case=Nom|Number=Sing	
+szerverek	szerver	NOUN	Case=Nom|Number=Plur	
+és	és	CONJ	_	
+SUN	sun	NOUN	Case=Nom|Number=Sing	
+(	(	PUNCT	_	
+Hitachi	Hitachi	PROPN	Case=Nom|Number=Sing	
+)	)	PUNCT	_	
+tárolókhoz	tároló	NOUN	Case=All|Number=Plur	
+garancia	garancia	NOUN	Case=Nom|Number=Sing	
+kiterjesztés	kiterjesztés	NOUN	Case=Nom|Number=Sing	
+beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

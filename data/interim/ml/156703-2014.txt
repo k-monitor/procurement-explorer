@@ -1,0 +1,8 @@
+Határidős	határidős	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+adásvételi	adásvételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+különféle	különféle	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+mikroszkópok	mikroszkóp	NOUN	Case=Nom|Number=Plur	
+szállítására	szállítás	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

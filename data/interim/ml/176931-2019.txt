@@ -1,0 +1,23 @@
+DEK-738	DEK-738	PROPN	Case=Nom|Number=Sing	
+A	a	DET	Definite=Def|PronType=Art	
+Debreceni	debreceni	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+Egyetem	Egyetem	PROPN	Case=Nom|Number=Sing	
+felsőoktatási	felsőoktatási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+infrastruktúra	infrastruktúra	NOUN	Case=Nom|Number=Sing	
+fejlesztése	fejlesztés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+a	a	DET	Definite=Def|PronType=Art	
+gyakorlati	gyakorlati	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+és	és	CONJ	_	
+szakmai	szakmai	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+képzés	képzés	NOUN	Case=Nom|Number=Sing	
+megújítása	megújítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+az	az	DET	Definite=Def|PronType=Art	
+EFOP-4	EFOP-4	PROPN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+
+2	2	NUM	Case=Nom|NumType=Card|Number=Sing	
+.	.	PUNCT	_	
+1-16-2017-00015	1-16-2017-00015	PROPN	Case=Nom|Number=Sing	
+projekt	projekt	NOUN	Case=Nom|Number=Sing	
+keretében-3	keretében-3	NUM	Case=Nom|NumType=Frac|Number=Sing	
+

@@ -1,0 +1,9 @@
+Földgáz	földgáz	NOUN	Case=Nom|Number=Sing	
+beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+a	a	DET	Definite=Def|PronType=Art	
+Kaposvári	kaposvári	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+Szakképzési	szakképzési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+Centrum	centrum	NOUN	Case=Nom|Number=Sing	
+tagintézményei	tagintézmény	NOUN	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3	
+részére	részére	ADP	_	
+

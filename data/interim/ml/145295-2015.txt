@@ -1,0 +1,10 @@
+Adásvételi	adásvételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+12	12	NUM	Case=Nom|NumType=Card|Number=Sing	
+havi	havi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+tej	tej	NOUN	Case=Nom|Number=Sing	
+,	,	PUNCT	_	
+tejtermékek	tejtermék	NOUN	Case=Nom|Number=Plur	
+beszerzésére	beszerzés	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

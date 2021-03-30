@@ -1,0 +1,40 @@
+a beszerzés tervezett mennyiség
+éves korcsoport eset a reggeli
+tízórai
+ebéd
+uzsonna
+vacsora tervezett összmennyiség
+adag
+hó
+éves korcsoport eset a reggeli
+tízórai
+ebéd
+uzsonna
+vacsora tervezett összmennyiség
+adag
+hó
+éves korcsoport eset a reggeli
+tízórai
+ebéd
+uzsonna
+vacsora tervezett összmennyiség
+adag
+hó
+éves korcsoport eset a reggeli
+tízórai
+ebéd
+uzsonna
+vacsora tervezett összmennyiség
+adag
+hó
+a normál és diétás étkeztetés jelenlegi arány
+jelenleg féle diéta biztosítás szükséges
+a diétás étrend arány max
+ történő változás nem alapoz meg az ajánlati ár módosítás
+a szerződés a keretösszeg kimerülés
+mely nettó huf
+de legfeljebb hó időtartam jön lét
+a teljes mennyiség ez meg+felelő a keretösszeg mérték képez
+részletes a ii
+2.4
+pont

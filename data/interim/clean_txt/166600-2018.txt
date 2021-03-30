@@ -1,0 +1,8 @@
+kötszer beszerzés
+összesen db
+csomag
+tekercs
+levél
+lap
+doboz mennyiség
+ajánlati rész

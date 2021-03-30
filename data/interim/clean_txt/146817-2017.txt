@@ -1,0 +1,53 @@
+adásvételi szerződés
+lézeres cső
+és zártszelvény megmunkáló berendezés
+teljes mennyiség
+darab lézeres cső
+és zártszelvény megmunkáló berendezés
+elvárt minimum paraméter
+lézerforrás típus
+fiber
+optikai szál vezetésű
+lézerforrás
+optikai nyersanyag pozíció bemérő meglét
+nagy névleges kimenő teljesítmény
+w
+kis vágásrés
+mm
+tokmány típus
+2+2 pofás önbeálló
+aszimmetrikus oldalszélességű szelvény befogás képes
+nyitás
+zárás automatikus
+kis befogható átmérő
+mm
+nagy befogható átmérő
+mm
+zártszelvény a befogható szelvény átló
+maximális beadagolható szelvény hossz
+mm
+maximális kiadagolható szelvény hossz
+mm
+félautomata beadagolás mm csőátmérő
+szimultán tengely vezérlés alkalmas nc vezérlésű modul
+iso kód beolvasási lehetőség
+a szerszámgép cad
+cam szoftver kapcsán elvárt minimum paraméter
+3d-s tervező felület
+egyaránt alkatrész rajzolási és beimportálási lehetőség
+terítékképzés a kiválasztott szelvény
+automatikus
+de minden paraméter módosítható szerszámozás
+teljes szimuláció ütközés ellenőrzés
+post processzor a fenti berendezés
+további elvárt minimum paraméter
+óra belüli kiszállás a szerszámgép meghibásodás eset
+jótállási időszak alatt
+nyertes ajánlattevő feladat a berendezés leszállítás
+helyszíni telepítés és beüzemelés egyaránt
+felhív ajánlattevő figyelem
+miszerint ajánlatkérő a beszerzés tárgy szerinti berendezés beszerzés részbeni finanszírozás kapcsán a ginop-1
+mikro
+kis
+és középvállalkozás termelési kapacitás bővítés tárgyú pályázat indul
+mely kapcsán pályázat benyújt

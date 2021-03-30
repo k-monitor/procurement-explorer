@@ -1,0 +1,8 @@
+Debreceni	debreceni	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+Nemzetközi	Nemzetközi	PROPN	Case=Nom|Number=Sing	
+Repülőtér	repülőtér	PROPN	Case=Nom|Number=Sing	
+tűzoltó	tűzoltó	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
+laktanya	laktanya	NOUN	Case=Nom|Number=Sing	
+tervezési	tervezési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+feladatai	feladat	NOUN	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3	
+

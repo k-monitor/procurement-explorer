@@ -1,0 +1,13 @@
+Megbízási	megbízási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+keretszerződés	keretszerződés	NOUN	Case=Nom|Number=Sing	
+,	,	PUNCT	_	
+melynek	mely	PRON	Case=Gen|Number=Sing|Person=3|PronType=Rel	
+tárgya	tárgy	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+"	"	PUNCT	_	
+pénzügyi	pénzügyi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+tanácsadó	tanácsadó	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
+szolgáltatások	szolgáltatás	NOUN	Case=Nom|Number=Plur	
+ellátása	ellátás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+"	"	PUNCT	_	
+.	.	PUNCT	_	
+

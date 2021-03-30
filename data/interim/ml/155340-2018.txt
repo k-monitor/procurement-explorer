@@ -1,0 +1,9 @@
+Tápturbina	tápturbina	NOUN	Case=Nom|Number=Sing	
+rekonstrukciója	rekonstrukció	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+(	(	PUNCT	_	
+javítása	javítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+,	,	PUNCT	_	
+karbantartása	karbantartás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+)	)	PUNCT	_	
+.	.	PUNCT	_	
+

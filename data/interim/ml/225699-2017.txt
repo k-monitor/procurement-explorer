@@ -1,0 +1,16 @@
+Ajánlatkérő	ajánlatkérő	NOUN	Case=Nom|Number=Sing	
+által	által	ADP	_	
+használt	használt	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPast	
+HPE	HPE	PROPN	Case=Nom|Number=Sing	
+termékek	termék	NOUN	Case=Nom|Number=Plur	
+licenceinek	licenc	NOUN	Case=Gen|Number=Plur|Number[psor]=Sing|Person[psor]=3	
+frissítése	frissítés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+(	(	PUNCT	_	
+upgrade-je	upgrade	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+)	)	PUNCT	_	
+és	és	CONJ	_	
+ELA	ELA	PROPN	Case=Nom|Number=Sing	
+gyártói	gyártói	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+támogatása	támogatás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

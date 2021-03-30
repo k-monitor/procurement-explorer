@@ -1,0 +1,54 @@
+Vállalkozási	Vállalkozási	PROPN	Case=Nom|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+mart	mart	X	_	
+aszfalt	aszfalt	NOUN	Case=Nom|Number=Sing	
+hidegen	hideg	ADJ	Case=Ess|Degree=Pos|Number=Sing	
+történő	történő	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
+újrahasznosítása	újrahasznosítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+,	,	PUNCT	_	
+kátyúzó	kátyúzó	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
+keverék	keverék	NOUN	Case=Nom|Number=Sing	
+előállítása	előállítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+céljából	cél	NOUN	Case=Ela|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+
+-	-	PUNCT	_	
+1.	1.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+rész	rész	NOUN	Case=Nom|Number=Sing	
+-	-	PUNCT	_	
+Hidegaszfalt	hidegaszfalt	NOUN	Case=Nom|Number=Sing	
+bekeverése	bekeverés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+mart	mart	X	_	
+aszfaltból	aszfalt	NOUN	Case=Ela|Number=Sing	
+-	-	PUNCT	_	
+2013.	2013.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+
+Észak-Magyarország	Észak-magyarország	NOUN	Case=Nom|Number=Sing	
+,	,	PUNCT	_	
+-	-	PUNCT	_	
+2.	2.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+rész	rész	NOUN	Case=Nom|Number=Sing	
+-	-	PUNCT	_	
+Hidegaszfalt	hidegaszfalt	NOUN	Case=Nom|Number=Sing	
+bekeverése	bekeverés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+mart	mart	X	_	
+aszfaltból	aszfalt	NOUN	Case=Ela|Number=Sing	
+-	-	PUNCT	_	
+2013.	2013.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+
+Nyugat-Magyarország	Nyugat-magyarország	NOUN	Case=Nom|Number=Sing	
+,	,	PUNCT	_	
+-	-	PUNCT	_	
+3.	3.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+rész	rész	NOUN	Case=Nom|Number=Sing	
+-	-	PUNCT	_	
+Hidegaszfalt	hidegaszfalt	NOUN	Case=Nom|Number=Sing	
+bekeverése	bekeverés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+mart	mart	X	_	
+aszfaltból	aszfalt	NOUN	Case=Ela|Number=Sing	
+-	-	PUNCT	_	
+2013.	2013.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+
+Dél-Magyarország	Dél-magyarország	NOUN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+

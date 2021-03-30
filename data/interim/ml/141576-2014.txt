@@ -1,0 +1,13 @@
+Szeged	Szeged	PROPN	Case=Nom|Number=Sing	
+Megyei	Megyei	PROPN	Case=Nom|Number=Sing	
+Jogú	Jogú	PROPN	Case=Nom|Number=Sing	
+Város	Város	PROPN	Case=Nom|Number=Sing	
+közvilágításának	közvilágítás	NOUN	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+üzemeltetése	üzemeltetés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+és	és	CONJ	_	
+karbantartása	karbantartás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+vállalkozási	vállalkozási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

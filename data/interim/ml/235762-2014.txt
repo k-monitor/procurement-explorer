@@ -1,0 +1,25 @@
+Adás-vételi	Adás-vételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+
+Főzési	főzési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+alapanyagok	alapanyag	NOUN	Case=Nom|Number=Plur	
+beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+7	7	NUM	Case=Nom|NumType=Card|Number=Sing	
+„	„	PUNCT	_	
+rész	rész	NOUN	Case=Nom|Number=Sing	
+"	"	PUNCT	_	
+-	-	PUNCT	_	
+ben	ben	NOUN	Case=Nom|Number=Sing	
+,	,	PUNCT	_	
+gyermekélelmezés	gyermekélelmezés	NOUN	Case=Nom|Number=Sing	
+,	,	PUNCT	_	
+egészségügyi	egészségügyi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+,	,	PUNCT	_	
+és	és	CONJ	_	
+szociális	szociális	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+intézményi	intézményi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+élelmezés	élelmezés	NOUN	Case=Nom|Number=Sing	
+céljából	cél	NOUN	Case=Ela|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

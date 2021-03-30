@@ -1,0 +1,13 @@
+UDPR-01	UDPR-01	PROPN	Case=Nom|Number=Sing	
+/	/	PUNCT	_	
+2019.	2019.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+
+:	:	PUNCT	_	
+BGP-15	BGP-15	PROPN	Case=Nom|Number=Sing	
+Speciális	Speciális	PROPN	Case=Nom|Number=Sing	
+vegyület	vegyület	NOUN	Case=Nom|Number=Sing	
+beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+humán	humán	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+klinikai	klinikai	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+vizsgálathoz	vizsgálat	NOUN	Case=All|Number=Sing	
+

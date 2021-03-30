@@ -1,0 +1,61 @@
+vállalkozási keretszerződés a b-a-z megye megvalósuló ginop-5
+1-14-2015-00001 ifjúsági garancia program keret mentori és egyéb munkaerő-piaci szolg biztosítás a
+2000.
+15.
+gm rend
+és a dok meghatározott szakmai követelmény szerint
+1. rész
+miskolc térség
+miskolc járás max
+keretszám
+fő msz:9400 óra
+et:7050 óra
+cst:456 óra
+2. rész
+abaúj térség
+encs
+szikszó
+gönc járás max
+keretszám
+fő msz:8032 óra
+et:6024 óra
+cst:392 óra
+3. rész
+zemplén térség
+sárospatak
+sátoraljaújhely
+szerencs
+tokaj
+cigánd járás max
+keretszám
+fő msz:10124 óra
+et:7593 óra
+cst:495 óra
+4. rész
+dél-borsod térség
+tiszaújváros
+mezőkövesd
+mezőcsát járás max
+keretszám
+fő msz:5972 óra
+et:4479 óra
+cst:292 óra
+5. rész
+sajó-bódva térség
+kazincbarcika
+ózd
+edelény
+putnok járás max
+keretszám
+fő msz:14472 óra
+et:10854 óra
+cst:705 óra
+msz
+mentori szolgáltatás max
+keretszám
+et
+egyéni tanácsadás max
+keretszám
+cst
+csoportos tanácsadás max
+keretszám

@@ -1,0 +1,4 @@
+Sebességváltók	sebességváltó	NOUN	Case=Nom|Number=Plur	
+felújítása	felújítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

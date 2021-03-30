@@ -1,0 +1,15 @@
+Hitel	Hitel	PROPN	Case=Nom|Number=Sing	
+szerződés	szerződés	PROPN	Case=Nom|Number=Sing	
+EU	EU	PROPN	Case=Nom|Number=Sing	
+finanszírozású	finanszírozású	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+beruházások	beruházás	NOUN	Case=Nom|Number=Plur	
+támogatott	támogatott	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPast	
+önrészének	önrész	NOUN	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+finanszírozására	finanszírozás	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+vonatkozó	vonatkozó	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
+fejlesztési	fejlesztési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+hitel	hitel	NOUN	Case=Nom|Number=Sing	
+felvétele	felvétel	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+tárgyban	tárgy	NOUN	Case=Ine|Number=Sing	
+.	.	PUNCT	_	
+

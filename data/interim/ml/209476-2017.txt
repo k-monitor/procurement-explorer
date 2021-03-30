@@ -1,0 +1,13 @@
+Adásvételi	adásvételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+leolvasói	leolvasó	ADJ	Case=Nom|Degree=Pos|Number=Plur|Number[psor]=Sing|Person[psor]=3|VerbForm=PartPres	
+és	és	CONJ	_	
+mérőcsere	mérőcsere	NOUN	Case=Nom|Number=Sing	
+tevékenységet	tevékenység	NOUN	Case=Acc|Number=Sing	
+támogató	támogató	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
+ipari	ipari	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+kivitelű	kivitelű	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+PDA-k	PDA	NOUN	Case=Nom|Number=Plur	
+szállítására	szállítás	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

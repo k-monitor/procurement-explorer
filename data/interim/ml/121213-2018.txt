@@ -1,0 +1,5 @@
+ATMR	ATMR	PROPN	Case=Nom|Number=Sing	
+szerver	szerver	NOUN	Case=Nom|Number=Sing	
+alkatrészek	alkatrész	NOUN	Case=Nom|Number=Plur	
+.	.	PUNCT	_	
+

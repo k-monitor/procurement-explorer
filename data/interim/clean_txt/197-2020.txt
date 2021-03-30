@@ -1,0 +1,29 @@
+a budapesti operettszínház főszínpadi felsőgépészet csere
+gépi díszlethúzó elektronikus vezérlés
+db
+gépi díszlethúzó plc rendszer
+db
+gépi díszlethúzó gépegység
+db
+elektronikus színpadgépészeti rendszer plc vezérlés
+db
+elektronikus színpadgépészeti rendszer kezelőpult
+db
+frekvenciaváltó 1.
+db
+frekvenciaváltó 2.
+db
+frekvenciaváltó 3.
+db
+forgó pozíciókapcsoló gépi díszlethúzó gépegység
+db
+túlterhelés érzékelő gépi díszlethúzó gépegység
+db
+plc vezérlés egy-kétsebességes gépi díszlethúzó gépegység
+db
+frekvenciaváltó egy-kétsebességes gépi díszlethúzó gépegység
+db
+abszolut út jeladó gépi díszlethúzó gépegység
+db
+tartalék
+motor gépi díszlethúzó gépegység

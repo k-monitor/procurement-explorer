@@ -1,0 +1,15 @@
+Szállítási	Szállítási	PROPN	Case=Nom|Number=Sing	
+keretszerződés	keretszerződés	NOUN	Case=Nom|Number=Sing	
+az	az	DET	Definite=Def|PronType=Art	
+MH	MH	PROPN	Case=Nom|Number=Sing	
+állomány	állomány	NOUN	Case=Nom|Number=Sing	
+immunizálásához	immunizálás	NOUN	Case=All|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+különféle	különféle	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+készítmények	készítmény	NOUN	Case=Nom|Number=Plur	
+beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+-	-	PUNCT	_	
+2013.	2013.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+évben	év	NOUN	Case=Ine|Number=Sing	
+tárgyban	tárgy	NOUN	Case=Ine|Number=Sing	
+.	.	PUNCT	_	
+

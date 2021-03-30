@@ -1,0 +1,20 @@
+VEKOP-5	VEKOP-5	PROPN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+
+3	3	NUM	Case=Nom|NumType=Card|Number=Sing	
+.	.	PUNCT	_	
+3.-17-2017-00001	3.-17-2017-00001	PROPN	Case=Nom|Number=Sing	
+kódszámú	kódszámú	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+,	,	PUNCT	_	
+«	«	PUNCT	_	
+Érd	ér	VERB	Definite=Def|Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	
+,	,	PUNCT	_	
+Búvár	búvár	NOUN	Case=Nom|Number=Sing	
+utca	utca	NOUN	Case=Nom|Number=Sing	
+hrsz:933;936,937	hrsz:933;936,937	NUM	Case=Nom|NumType=Card|Number=Sing	
+ingatlanokon	ingatlan	NOUN	Case=Sup|Number=Plur	
+tervezett	tervezett	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPast	
+intézmények	intézmény	NOUN	Case=Nom|Number=Plur	
+megközelítése	megközelítés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+»	»	PUNCT	_	
+

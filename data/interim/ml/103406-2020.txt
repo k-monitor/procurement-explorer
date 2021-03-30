@@ -1,0 +1,13 @@
+„	„	PUNCT	_	
+Keretszerződés	keretszerződés	NOUN	Case=Nom|Number=Sing	
+megkötése	megkötés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+sportcikkek	sportcikk	NOUN	Case=Nom|Number=Plur	
+és	és	CONJ	_	
+felszerelések	felszerelés	NOUN	Case=Nom|Number=Plur	
+szállítására	szállítás	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+az	az	DET	Definite=Def|PronType=Art	
+OTP	OTP	PROPN	Case=Nom|Number=Sing	
+Bozsik-program	Bozsik-program	NOUN	Case=Nom|Number=Sing	
+részére	részére	ADP	_	
+"	"	PUNCT	_	
+

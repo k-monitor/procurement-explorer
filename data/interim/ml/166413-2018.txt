@@ -1,0 +1,8 @@
+Stabil	stabil	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+hőkamera	hőkamera	NOUN	Case=Nom|Number=Sing	
+rendszer	rendszer	NOUN	Case=Nom|Number=Sing	
+rekonstrukciója	rekonstrukció	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+-	-	PUNCT	_	
+keretmegállapodás	keretmegállapodás	NOUN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+

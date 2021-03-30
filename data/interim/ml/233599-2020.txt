@@ -1,0 +1,10 @@
+Szivattyúk	szivattyú	NOUN	Case=Nom|Number=Plur	
+beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+5	5	NUM	Case=Nom|NumType=Card|Number=Sing	
+részben	rész	NOUN	Case=Ine|Number=Sing	
+a	a	DET	Definite=Def|PronType=Art	
+Körös-vidéki	Körös-vidéki	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+Vízügyi	Vízügyi	PROPN	Case=Nom|Number=Sing	
+Igazgatóság	Igazgatóság	PROPN	Case=Nom|Number=Sing	
+részére	részére	ADP	_	
+

@@ -1,0 +1,9 @@
+mobil munkaeszköz beszerzés rész
+1. rész notebook
+kicsi
+2. rész notebook
+közepes
+3. rész tablet
+nagy
+4. rész tablet
+közepes

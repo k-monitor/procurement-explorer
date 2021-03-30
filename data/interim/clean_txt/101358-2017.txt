@@ -1,0 +1,2 @@
+simo monitoring rendszer crfs
+commsaudit és izt gyártmányú műszer fejlesztés

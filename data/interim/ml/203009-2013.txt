@@ -1,0 +1,15 @@
+B	B	NOUN	Case=Nom|Number=Sing	
+-	-	PUNCT	_	
+,	,	PUNCT	_	
+illetve	illetve	CONJ	_	
+C-típusú	C-típusú	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+mentőgépjárművek	mentőgépjármű	NOUN	Case=Nom|Number=Plur	
+beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+az	az	DET	Definite=Def|PronType=Art	
+Országos	Országos	PROPN	Case=Nom|Number=Sing	
+Mentőszolgálat	Mentőszolgálat	PROPN	Case=Nom|Number=Sing	
+részére	részére	ADP	_	
+szállítási	szállítási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szerződéssel	szerződés	NOUN	Case=Ins|Number=Sing	
+.	.	PUNCT	_	
+

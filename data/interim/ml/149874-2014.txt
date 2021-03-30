@@ -1,0 +1,11 @@
+Adásvételi	adásvételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+egyes	egyes	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+,	,	PUNCT	_	
+veleszületett	veleszületett	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPast	
+vérzékenység	vérzékenység	NOUN	Case=Nom|Number=Sing	
+kezelésére	kezelés	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+szolgáló	szolgáló	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
+készítmények	készítmény	NOUN	Case=Nom|Number=Plur	
+beszerzésére	beszerzés	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+

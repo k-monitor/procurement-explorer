@@ -1,0 +1,12 @@
+Fasori	fasori	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+fák	fa	NOUN	Case=Nom|Number=Plur	
+és	és	CONJ	_	
+közterületi	közterületi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+parkfák	parkfa	NOUN	Case=Nom|Number=Plur	
+ápolása	ápolás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+,	,	PUNCT	_	
+fenntartása	fenntartás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+vállalkozási	vállalkozási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+

@@ -1,0 +1,27 @@
+KEOP-5	KEOP-5	PROPN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+
+6.0	6.0	PROPN	Case=Nom|Number=Sing	
+/	/	PUNCT	_	
+E	e	PRON	Case=Nom|Number=Sing|Person=3|PronType=Dem	
+/	/	PUNCT	_	
+15	15	NUM	Case=Nom|NumType=Card|Number=Sing	
+Egészségügyi	Egészségügyi	PROPN	Case=Nom|Number=Sing	
+eszközök	eszköz	NOUN	Case=Nom|Number=Plur	
+energia-megtakarítást	energia-megtakarítás	NOUN	Case=Acc|Number=Sing	
+célzó	célzó	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
+beszerzésének	beszerzés	NOUN	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+támogatása	támogatás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+című	című	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+pályázati	pályázati	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+konstrukcióból	konstrukció	NOUN	Case=Ela|Number=Sing	
+képalkotó	képalkotó	NOUN	Case=Nom|Number=Sing	
+diagnosztikai	diagnosztikai	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+eszközök	eszköz	NOUN	Case=Nom|Number=Plur	
+beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+-	-	PUNCT	_	
+adásvételi	adásvételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

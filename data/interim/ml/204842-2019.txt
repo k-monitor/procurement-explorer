@@ -1,0 +1,6 @@
+Piac	Piac	PROPN	Case=Nom|Number=Sing	
+épületéhez	épület	NOUN	Case=All|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+kapcsolódó	kapcsolódó	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
+kivitelezési	kivitelezési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+munkák	munka	NOUN	Case=Nom|Number=Plur	
+

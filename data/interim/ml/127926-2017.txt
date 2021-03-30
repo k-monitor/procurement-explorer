@@ -1,0 +1,11 @@
+Gép	gép	NOUN	Case=Nom|Number=Sing	
+-	-	PUNCT	_	
+,	,	PUNCT	_	
+és	és	CONJ	_	
+gépjármű	gépjármű	NOUN	Case=Nom|Number=Sing	
+kenőanyagok	kenőanyag	NOUN	Case=Nom|Number=Plur	
+beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+és	és	CONJ	_	
+szállítása	szállítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

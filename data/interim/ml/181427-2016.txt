@@ -1,0 +1,8 @@
+Cisco	Cisco	PROPN	Case=Nom|Number=Sing	
+gyártmányú	gyártmányú	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+eszközök	eszköz	NOUN	Case=Nom|Number=Plur	
+gyártói	gyártó	NOUN	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3	
+supportjának	support	NOUN	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

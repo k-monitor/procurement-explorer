@@ -1,0 +1,14 @@
+A	a	DET	Definite=Def|PronType=Art	
+Csengeri	csengeri	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+Alapszintű	alapszintű	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+Járóbeteg-szakellátó	Járóbeteg-szakellátó	PROPN	Case=Nom|Number=Sing	
+Központ	Központ	PROPN	Case=Nom|Number=Sing	
+orvosi	orvosi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+eszköz	eszköz	NOUN	Case=Nom|Number=Sing	
+beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+szállítási	szállítási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+keretén	keret	NOUN	Case=Sup|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+belül	belül	ADP	_	
+.	.	PUNCT	_	
+

@@ -1,0 +1,56 @@
+DEK-462	DEK-462	PROPN	Case=Nom|Number=Sing	
+/	/	PUNCT	_	
+2017.	2017.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+
+:	:	PUNCT	_	
+Adásvételi	adásvételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+keretszerződés	keretszerződés	NOUN	Case=Nom|Number=Sing	
+a	a	DET	Definite=Def|PronType=Art	
+Debreceni	debreceni	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+Egyetem	Egyetem	PROPN	Case=Nom|Number=Sing	
+Klinikai	klinikai	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+Központ	Központ	PROPN	Case=Nom|Number=Sing	
+tulajdonát	tulajdon	NOUN	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+képező	képező	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
+vérgáz	vérgáz	NOUN	Case=Nom|Number=Sing	
+analizátorok	analizátor	NOUN	Case=Nom|Number=Plur	
+üzemeltetéséhez	üzemeltetés	NOUN	Case=All|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+szükséges	szükséges	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+fogyóanyagok	fogyóanyag	NOUN	Case=Nom|Number=Plur	
+beszerzésére	beszerzés	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+
+Eljárási	eljárási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+részek	rész	NOUN	Case=Nom|Number=Plur	
+:	:	PUNCT	_	
+1.	1.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+rész	rész	NOUN	Case=Nom|Number=Sing	
+:	:	PUNCT	_	
+Gem	Gem	PROPN	Case=Nom|Number=Sing	
+3000-es	3000-es	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+típusú	típusú	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+vérgáz	vérgáz	NOUN	Case=Nom|Number=Sing	
+analizátorhoz	analizátor	NOUN	Case=All|Number=Sing	
+fogyóanyagok	fogyóanyag	NOUN	Case=Nom|Number=Plur	
+.	.	PUNCT	_	
+
+2.	2.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+rész	rész	NOUN	Case=Nom|Number=Sing	
+:	:	PUNCT	_	
+ABL8xx-es	ABL8xx	NOUN	Case=Nom|Number=Sing	
+típusú	típusú	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+vérgáz	vérgáz	NOUN	Case=Nom|Number=Sing	
+analizátorhoz	analizátor	NOUN	Case=All|Number=Sing	
+fogyóanyagok	fogyóanyag	NOUN	Case=Nom|Number=Plur	
+.	.	PUNCT	_	
+
+3.	3.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+rész	rész	NOUN	Case=Nom|Number=Sing	
+:	:	PUNCT	_	
+ABL9xx-es	ABL9xx	NOUN	Case=Nom|Number=Sing	
+típusú	típusú	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+vérgáz	vérgáz	NOUN	Case=Nom|Number=Sing	
+analizátorhoz	analizátor	NOUN	Case=All|Number=Sing	
+fogyóanyagok	fogyóanyag	NOUN	Case=Nom|Number=Plur	
+.	.	PUNCT	_	
+

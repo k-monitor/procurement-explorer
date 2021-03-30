@@ -1,0 +1,14 @@
+Insula	Insula	PROPN	Case=Nom|Number=Sing	
+Lutherana	lutherana	NOUN	Case=Nom|Number=Sing	
+épületegyüttes	épületegyüttes	NOUN	Case=Nom|Number=Sing	
+kivitelezési	kivitelezési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+munkáinak	munka	NOUN	Case=Gen|Number=Plur|Number[psor]=Sing|Person[psor]=3	
+elvégzése	elvégzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+egy	egy	DET	Definite=Ind|PronType=Art	
+ajánlattevővel	ajánlattevő	NOUN	Case=Ins|Number=Sing	
+megkötött	megkötött	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPast	
+keretmegállapodás	keretmegállapodás	NOUN	Case=Nom|Number=Sing	
+keretén	keret	NOUN	Case=Sup|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+belül	belül	ADP	_	
+.	.	PUNCT	_	
+

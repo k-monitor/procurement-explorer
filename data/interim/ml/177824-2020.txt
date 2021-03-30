@@ -1,0 +1,7 @@
+Ipari	Ipari	PROPN	Case=Nom|Number=Sing	
+Park	Park	PROPN	Case=Nom|Number=Sing	
+fejlesztése	fejlesztés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+-	-	PUNCT	_	
+munkagépek	munkagép	NOUN	Case=Nom|Number=Plur	
+beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+

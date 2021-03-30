@@ -1,0 +1,8 @@
+Szállítási	Szállítási	PROPN	Case=Nom|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+dobozos	dobozos	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+kishaszon	kishaszon	NOUN	Case=Nom|Number=Sing	
+gépjárművek	gépjármű	NOUN	Case=Nom|Number=Plur	
+szállítására	szállítás	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

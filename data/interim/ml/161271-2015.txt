@@ -1,0 +1,17 @@
+Adásvételi	adásvételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+-	-	PUNCT	_	
+MTVA	MTVA	PROPN	Case=Nom|Number=Sing	
+meglévő	meglévő	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
+központi	központi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+router	router	NOUN	Case=Nom|Number=Sing	
+rendszerének	rendszer	NOUN	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+bővítése	bővítés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+az	az	DET	Definite=Def|PronType=Art	
+induló	induló	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
+M4	M4	PROPN	Case=Nom|Number=Sing	
+Sportcsatorna	sportcsatorna	NOUN	Case=Nom|Number=Sing	
+kapcsán	kapcsán	ADP	_	
+tárgyában	tárgy	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

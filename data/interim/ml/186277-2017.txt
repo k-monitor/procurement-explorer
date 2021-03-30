@@ -1,0 +1,5 @@
+Microsoft	Microsoft	PROPN	Case=Nom|Number=Sing	
+licence	licenc	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

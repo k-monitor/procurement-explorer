@@ -1,0 +1,4 @@
+e-learning	e-learning	X	_	
+licencek	licenc	NOUN	Case=Nom|Number=Plur	
+beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+

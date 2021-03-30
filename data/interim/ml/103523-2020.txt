@@ -1,0 +1,7 @@
+Vízvezeték	vízvezeték	NOUN	Case=Nom|Number=Sing	
+-	-	PUNCT	_	
+,	,	PUNCT	_	
+fűtésszerelési	fűtésszerelési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+anyagok	anyag	NOUN	Case=Nom|Number=Plur	
+beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+

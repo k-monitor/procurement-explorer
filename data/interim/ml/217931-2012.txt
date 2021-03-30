@@ -1,0 +1,27 @@
+A	a	DET	Definite=Def|PronType=Art	
+„	„	PUNCT	_	
+Szabadszállás	szabadszállás	NOUN	Case=Nom|Number=Sing	
+város	város	NOUN	Case=Nom|Number=Sing	
+csatornázásának	csatornázás	NOUN	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+és	és	CONJ	_	
+szennyvíztisztításának	szennyvíztisztítás	NOUN	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+megvalósítása	megvalósítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+"	"	PUNCT	_	
+KEOP-1	KEOP-1	PROPN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+
+2.0	2.0	PROPN	Case=Nom|Number=Sing	
+/	/	PUNCT	_	
+2F	2F	NUM	Case=Nom|NumType=Card|Number=Sing	
+/	/	PUNCT	_	
+09-2010-0081	09-2010-0081	PROPN	Case=Nom|Number=Sing	
+pályázat	pályázat	NOUN	Case=Nom|Number=Sing	
+önrészének	önrész	NOUN	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+biztosításához	biztosítás	NOUN	Case=All|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+beruházási	beruházási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+hitel	hitel	NOUN	Case=Nom|Number=Sing	
+nyújtására	nyújtás	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+vonatkozó	vonatkozó	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
+hitelszerződés	hitelszerződés	NOUN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+

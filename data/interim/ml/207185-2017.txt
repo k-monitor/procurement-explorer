@@ -1,0 +1,57 @@
+1.	1.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+rész	rész	NOUN	Case=Nom|Number=Sing	
+vonatkozásában	vonatkozás	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+:	:	PUNCT	_	
+919	919	NUM	Case=Nom|NumType=Card|Number=Sing	
+db	db	NOUN	Case=Nom|Number=Sing	
+nagy	nagy	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+és	és	CONJ	_	
+876	876	NUM	Case=Nom|NumType=Card|Number=Sing	
+db	db	NOUN	Case=Nom|Number=Sing	
+közepes	közepes	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+teljesítményű	teljesítményű	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+dokumentum	dokumentum	NOUN	Case=Nom|Number=Sing	
+lapolvasó	lapolvasó	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
+eszköz	eszköz	NOUN	Case=Nom|Number=Sing	
+beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+
+2.	2.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+rész	rész	NOUN	Case=Nom|Number=Sing	
+vonatkozásában	vonatkozás	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+:	:	PUNCT	_	
+3	3	NUM	Case=Nom|NumType=Card|Number=Sing	
+590	590	NUM	Case=Nom|NumType=Card|Number=Sing	
+db	db	NOUN	Case=Nom|Number=Sing	
+vonalkód	vonalkód	NOUN	Case=Nom|Number=Sing	
+olvasó	olvasó	NOUN	Case=Nom|Number=Sing	
+készülék	készülék	NOUN	Case=Nom|Number=Sing	
+beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+
+a	a	DET	Definite=Def|PronType=Art	
+kormányhivatalok	kormányhivatal	NOUN	Case=Nom|Number=Plur	
+digitalizációs	digitalizációs	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+képességeinek	képesség	NOUN	Case=Gen|Number=Plur|Number[psor]=Sing|Person[psor]=3	
+biztosítása	biztosítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+érdekében	érdek	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+szükséges	szükséges	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+források	forrás	NOUN	Case=Nom|Number=Plur	
+biztosításáról	biztosítás	NOUN	Case=Del|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+szóló	szóló	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
+1542	1542	NUM	Case=Nom|NumType=Card|Number=Sing	
+/	/	PUNCT	_	
+2016.	2016.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+
+(	(	PUNCT	_	
+X.	X.	PROPN	Case=Nom|Number=Sing	
+13.	13.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+)	)	PUNCT	_	
+
+Korm	Korm	PROPN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+határozat	határozat	NOUN	Case=Nom|Number=Sing	
+végrehajtása	végrehajtás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+érdekében	érdek	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

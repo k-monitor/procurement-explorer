@@ -1,0 +1,6 @@
+Balesetveszélyes	balesetveszélyes	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+fák	fa	NOUN	Case=Nom|Number=Plur	
+kivágása	kivágás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+-	-	PUNCT	_	
+havária	havária	NOUN	Case=Nom|Number=Sing	
+

@@ -1,0 +1,10 @@
+Védekezési	védekezési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+telekommunikációs	telekommunikációs	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+rendszer	rendszer	NOUN	Case=Nom|Number=Sing	
+fejlesztése	fejlesztés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+és	és	CONJ	_	
+kapcsolódó	kapcsolódó	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
+kapacitás	kapacitás	NOUN	Case=Nom|Number=Sing	
+beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

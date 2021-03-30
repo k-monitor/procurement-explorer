@@ -1,0 +1,46 @@
+Személy	személy	NOUN	Case=Nom|Number=Sing	
+-	-	PUNCT	_	
+és	és	CONJ	_	
+vagyonvédelmi	vagyonvédelmi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+tevékenység	tevékenység	NOUN	Case=Nom|Number=Sing	
+végzése	végzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+vállalkozási	vállalkozási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+keretszerződés	keretszerződés	NOUN	Case=Nom|Number=Sing	
+keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+330	330	NUM	Case=Nom|NumType=Card|Number=Sing	
+000	000	NUM	Case=Nom|NumType=Card|Number=Sing	
+000	000	NUM	Case=Nom|NumType=Card|Number=Sing	
+HUF	HUF	PROPN	Case=Nom|Number=Sing	
+keretösszeg	keretösszeg	NOUN	Case=Nom|Number=Sing	
+erejéig	erő	NOUN	Case=Ter|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+
+Ajánlatkérő	ajánlatkérő	NOUN	Case=Nom|Number=Sing	
+a	a	DET	Definite=Def|PronType=Art	
+keretösszeg	keretösszeg	NOUN	Case=Nom|Number=Sing	
+60	60	NUM	Case=Nom|NumType=Card|Number=Sing	
+%	%	PUNCT	_	
+-	-	PUNCT	_	
+ig		NOUN	Case=Ter|Number=Sing	
+vállal	vállal	VERB	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	
+lehívási	lehívási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+kötelezettséget	kötelezettség	NOUN	Case=Acc|Number=Sing	
+.	.	PUNCT	_	
+
+A	a	DET	Definite=Def|PronType=Art	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+további	további	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+12	12	NUM	Case=Nom|NumType=Card|Number=Sing	
+hónappal	hónap	NOUN	Case=Ins|Number=Sing	
+további	további	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+330	330	NUM	Case=Nom|NumType=Card|Number=Sing	
+000	000	NUM	Case=Nom|NumType=Card|Number=Sing	
+000	000	NUM	Case=Nom|NumType=Card|Number=Sing	
+HUF	HUF	PROPN	Case=Nom|Number=Sing	
++	+	PUNCT	_	
+ÁFA	áfa	NOUN	Case=Nom|Number=Sing	
+keretösszeg	keretösszeg	NOUN	Case=Nom|Number=Sing	
+erejéig	erő	NOUN	Case=Ter|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+meghosszabbítható	meghosszabbítható	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
+.	.	PUNCT	_	
+

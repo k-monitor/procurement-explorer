@@ -1,0 +1,5 @@
+Hitelszerződés	hitelszerződés	NOUN	Case=Nom|Number=Sing	
+forinthitelkeret	forinthitelkeret	NOUN	Case=Nom|Number=Sing	
+nyújtására	nyújtás	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

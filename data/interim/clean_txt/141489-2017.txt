@@ -1,0 +1,29 @@
+k1
+k2
+k3 és k4 kazán utáni füstgáztisztító rendszer zsákos szűrő szűrőzsák beszerzés
+ki
+és beszerelés
+a hulladékhasznosító mű üzem feladat a főleg maradékanyag és a permetező abszorber reakciótermék álló por
+valamint a szilárd részecske leválasztás
+a szűrőzsák az fkf nonprofit zrt. hulladékhasznosító mű füstgáz szűrés
+tisztítás lát el
+ahol a tüzelőanyag kommunális hulladék
+a füstgáz mennyiség nm3
+h
+üzemi hőmérséklet a zsákos szűrő előtt oc
+a füstgáz átlagos összetétel
+h2o
+co2
+o2
+so2 mg
+nm3
+nox mg
+nm3
+hcl 5 mg
+nm3
+szűrőzsák mennyiség
+füstgáztisztítási vonal 896 db
+összesen x 896 db
+azaz db
+az ajánlattevő minimális hónap jótállás kell nyújt
+a részletes műszaki előírás a műszaki leírás tartalmaz

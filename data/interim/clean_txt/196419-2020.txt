@@ -1,0 +1,18 @@
+vállalkozási keretszerződés különjárati autóbusz karbantartás
+javítás
+asszisztencia szolgáltatás tárgy tervezett mennyiség hónap
+féléves karbantartás db éves karbantartás és vizsgáztatás
+db javítási óraszám
+munkaóra asszisztencia szolgáltatás
+alkalom vontatás
+km amely darabszám a korábbi üzemeltetési tapasztalat felhasználás kerül meghatározás
+ún. tapasztalati mennyiség
+az ajánlat megalapozott elbírálás érdek
+az ajánlati összár meghatározás kerül megadás
+a beszerzett mennyiség ezen tapasztalati adat eltér
+ajánlattevő az előző ismeret kell benyújt ajánlat
+az eljárás eredmény megkötött keretszerződés a nyertes ajánlati egységár alap rögzítés kerül a keretösszeg
+mely a következő szerint kerül meghatározás
+keretösszeg
+ajánlati egységár*tervezett mennyiség
+mennyiségi eltérés nélkül

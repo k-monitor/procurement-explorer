@@ -1,0 +1,13 @@
+Szemészeti	szemészeti	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+műlencsék	műlencse	NOUN	Case=Nom|Number=Plur	
+és	és	CONJ	_	
+egyszer	egy	ADV	_	
+használatos	használatos	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+műtéti	műtéti	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+csomagok	csomag	NOUN	Case=Nom|Number=Plur	
+beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+26	26	NUM	Case=Nom|NumType=Card|Number=Sing	
+részajánlattételi	részajánlattételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+körben	kör	NOUN	Case=Ine|Number=Sing	
+.	.	PUNCT	_	
+

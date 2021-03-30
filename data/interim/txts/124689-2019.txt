@@ -1,0 +1,1 @@
+Jelen eljárás célja, hogy az ASP Központon keresztül üzemeltetett ASP 2.0 projekt keretében résztvevő önkormányzatok számára iratkezelő szakrendszer működése biztosított legyen.

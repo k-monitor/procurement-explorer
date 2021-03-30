@@ -1,0 +1,6 @@
+Rendszertámogatásra	rendszertámogatás	NOUN	Case=Sub|Number=Sing	
+irányuló	irányuló	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
+szoftver	szoftver	NOUN	Case=Nom|Number=Sing	
+szolgáltatás	szolgáltatás	NOUN	Case=Nom|Number=Sing	
+2020	2020	NUM	Case=Nom|NumType=Card|Number=Sing	
+

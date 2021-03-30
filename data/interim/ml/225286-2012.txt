@@ -1,0 +1,23 @@
+Szállítási	Szállítási	PROPN	Case=Nom|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+
+1	1	NUM	Case=Nom|NumType=Card|Number=Sing	
+db	db	NOUN	Case=Nom|Number=Sing	
+min.	min.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+64	64	NUM	Case=Nom|NumType=Card|Number=Sing	
+szeletes	szeletes	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+CT	CT	NOUN	Case=Nom|Number=Sing	
+vizsgáló	vizsgáló	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
+berendezés	berendezés	NOUN	Case=Nom|Number=Sing	
+beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+,	,	PUNCT	_	
+telepítése	telepítés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+,	,	PUNCT	_	
+üzembe	üzem	NOUN	Case=Ill|Number=Sing	
+helyezése	helyezés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+és	és	CONJ	_	
+teljeskörű	teljeskörű	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szervizszolgáltatása	szervizszolgáltatás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

@@ -1,0 +1,6 @@
+Munkaállomás	munkaállomás	NOUN	Case=Nom|Number=Sing	
+és	és	CONJ	_	
+monitor	monitor	NOUN	Case=Nom|Number=Sing	
+beszerzés	beszerzés	NOUN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+

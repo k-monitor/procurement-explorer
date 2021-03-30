@@ -1,0 +1,7 @@
+Oracle	Oracle	PROPN	Case=Nom|Number=Sing	
+alkalmazás	alkalmazás	NOUN	Case=Nom|Number=Sing	
+support	support	NOUN	Case=Nom|Number=Sing	
+vállalkozási	vállalkozási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+

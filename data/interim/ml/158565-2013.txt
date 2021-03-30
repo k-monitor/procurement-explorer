@@ -1,0 +1,14 @@
+Megbízási	megbízási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+-	-	PUNCT	_	
+Villány	villány	NOUN	Case=Nom|Number=Sing	
+elkerülő	elkerülő	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
+út	út	NOUN	Case=Nom|Number=Sing	
+építési	építési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+munkáihoz	munka	NOUN	Case=All|Number=Plur|Number[psor]=Sing|Person[psor]=3	
+kapcsolódó	kapcsolódó	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
+mérnöki	mérnöki	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+tevékenység	tevékenység	NOUN	Case=Nom|Number=Sing	
+ellátása	ellátás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

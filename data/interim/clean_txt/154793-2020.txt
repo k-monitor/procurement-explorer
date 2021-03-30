@@ -1,0 +1,22 @@
+földgáz energia beszerzés hódmezővásárhely
+földgáz energia szállítás ak részére 2021.1.1
+cet
+2022.1.1
+cet közötti időszak vonatkozó teljes ellátás alapú keret összesen m3
+időszak
+m3
+h közötti kategória
+földgázenergia szállítás a melléklet részletezett intézmény részére
+teljes ellátás alapú földgázenergia kereskedelmi szerződés keret
+vételezés teljesítményérték
+fogyasztási helyek jegyzék a fogyasztási helyenként bemutatott gázmérő teljesítmény
+m3
+h
+m3
+h feletti eset bemutatott teljesítmény mj
+a havi földgázfogyasztás
+m3
+hó
+kielégítés
+illetve az ez tartozó éves földgázenergia felhasználás biztosítás
+energiaszolgáltatási igény folyamatos

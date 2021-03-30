@@ -1,0 +1,10 @@
+Határozatlan	határozatlan	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+időtartamra	időtartam	NOUN	Case=Sub|Number=Sing	
+szóló	szóló	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
+biztosítási	biztosítási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+életbiztosítás	életbiztosítás	NOUN	Case=Nom|Number=Sing	
+és	és	CONJ	_	
+egészségbiztosítás	egészségbiztosítás	NOUN	Case=Nom|Number=Sing	
+tárgyban	tárgy	NOUN	Case=Ine|Number=Sing	
+

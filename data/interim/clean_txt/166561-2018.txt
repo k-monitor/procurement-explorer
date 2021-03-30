@@ -1,0 +1,20 @@
+pharmatech gyógyszeripari modell-laboratórium kialakítás szükséges eszköz beszerzés összesen rész a fi _ 16-1-2016-0007 számú pályázat 1.3.0
+részprojekt kapcsolódó
+1. rész
+folyamatos üzemű áramlásos hidrogénező rendszer beszerzés
+2. rész
+alacsony hőmérsékletű áramlásos reaktor rendszer beszerzés
+3. rész
+nagy nyomású
+moduláris folyamatos üzemű reaktor rendszer beszerzés
+4. rész
+in-line és on-line mérés alkalmas fourier-transzfomációs infravörös
+ftir
+spektrofotométer beszerzés fűthető atr mérési lehetőség és termosztálható átfolyócellás kialakítás
+5. rész
+folyamatos üzemű gyógyszeripari nedves granuláló
+szárító és regranuláló integrált gépsor beszerzés valós idejű analitikai
+pat
+kontroll
+6. rész
+klímakamra beszerzés hőmérséklet és páratartalom kontroll

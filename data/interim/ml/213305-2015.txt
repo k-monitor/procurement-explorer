@@ -1,0 +1,4 @@
+CT	CT	PROPN	Case=Nom|Number=Sing	
+beszerzés	beszerzés	NOUN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+

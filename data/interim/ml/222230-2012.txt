@@ -1,0 +1,16 @@
+Szolgáltatási	szolgáltatási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+az	az	DET	Definite=Def|PronType=Art	
+SZTE	szte	PRON	Case=Nom|Number=Sing|Person=2|PronType=Prs	
+Szent-Györgyi	Szent-Györgyi	PROPN	Case=Nom|Number=Sing	
+Albert	Albert	PROPN	Case=Nom|Number=Sing	
+Klinikai	klinikai	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+Központ	Központ	PROPN	Case=Nom|Number=Sing	
+számára	számára	ADP	_	
+komplex	komplex	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+kórház-informatikai	kórház-informatikai	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+rendszer	rendszer	NOUN	Case=Nom|Number=Sing	
+szolgáltatás	szolgáltatás	NOUN	Case=Nom|Number=Sing	
+nyújtására	nyújtás	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

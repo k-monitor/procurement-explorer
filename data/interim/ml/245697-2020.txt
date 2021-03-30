@@ -1,0 +1,4 @@
+Oktatástechnológiai	oktatástechnológiai	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+eszközök	eszköz	NOUN	Case=Nom|Number=Plur	
+.	.	PUNCT	_	
+

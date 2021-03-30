@@ -1,0 +1,9 @@
+Megbízási	megbízási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+meleg	meleg	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+konyha	konyha	NOUN	Case=Nom|Number=Sing	
+és	és	CONJ	_	
+étkezde	étkezde	NOUN	Case=Nom|Number=Sing	
+üzemeltetésére	üzemeltetés	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

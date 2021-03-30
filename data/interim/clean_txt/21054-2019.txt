@@ -1,0 +1,42 @@
+bérleti vegyes határidős adásvételi szerződés keret orvosi gáz beszerzés az alábbi szerint
+1. rész
+orvosi oxigén
+m3
+altatógáz
+kg
+orvosi széndioxid
+kg
+nitrogén gáz
+m3
+lasermix gáz
+szénsav biogon c co2
+kg
+argo gáz
+kénhexafluorid sf6 3.0
+kg
+oktafluoropropa 4.0
+kg
+szintetikus levegő
+m3
+palackbérlet és orvosi oxigén eset tartálytelepítés
+2. rész
+orvosi oxigén
+m3
+orvosi széndioxid
+kg
+palackbérlet
+3. rész
+orvosi oxigén
+m3
+altatógáz
+kg
+orvosi szén-dioxid
+kg
+palackbérlet
+ajánlatkérő a fenti mennyiség
+os mérték eltér
+opció
+az
+hogy e mennyiségi eltérés eset kizárólag egész szám lesz az opció gyakorlás sor az eltérés együtt mennyiség érték
+és az eltérés mennyiség alap létrejövő érték a kerekítés általános szabály szerint kell meghatároz
+az opció nem vonatkozik a kiszerelés bérleti díj és a tartálytelepítés

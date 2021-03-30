@@ -1,0 +1,9 @@
+Pékáru	pékáru	NOUN	Case=Nom|Number=Sing	
+beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+az	az	DET	Definite=Def|PronType=Art	
+Pálhalmai	pálhalmai	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+Országos	Országos	PROPN	Case=Nom|Number=Sing	
+Büntetés-végrehajtási	Büntetés-végrehajtási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+Intézet	Intézet	PROPN	Case=Nom|Number=Sing	
+részére	részére	ADP	_	
+

@@ -1,0 +1,9 @@
+Román	Román	PROPN	Case=Nom|Number=Sing	
+határszakasz	határszakasz	NOUN	Case=Nom|Number=Sing	
+mobilitásának	mobilitás	NOUN	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+növelése	növelés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+érdekében	érdek	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+gépjármű	gépjármű	NOUN	Case=Nom|Number=Sing	
+beszerzés	beszerzés	NOUN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+

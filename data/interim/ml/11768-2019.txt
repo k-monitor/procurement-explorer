@@ -1,0 +1,6 @@
+Megbízási	megbízási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+iratkezelési	iratkezelési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szolgáltatások	szolgáltatás	NOUN	Case=Nom|Number=Plur	
+ellátására	ellátás	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+

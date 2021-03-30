@@ -1,0 +1,8 @@
+szolgáltatási szerződés bloomberg szolgáltatás beszerzés az alábbi szerint
+bloomberg bérelt vonali szolgáltatás
+darab bloomberg terminal szolgáltatás igénybevétel
+eszközbérlet nélkül
+darab bloomberg terminal szolgáltatás opciós igénybevétel a szerződés időtartam alatt
+eszközbérlet nélkül
+ezen darab bloomberg terminal szolgáltatás eszközbérlet nélküli igénybevétel a szerződés időtartam alatt a megrendelő ez vonatkozó megrendelés alap történik
+a részletes műszaki leírás az ajánlati dokumentáció tartalmaz

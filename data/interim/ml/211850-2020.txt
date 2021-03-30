@@ -1,0 +1,36 @@
+Adásvételi	adásvételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+Villamos	Villamos	PROPN	Case=Nom|Number=Sing	
+energia	energia	NOUN	Case=Nom|Number=Sing	
+beszerzésére	beszerzés	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+
+Szerződéses	szerződéses	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+időszak	időszak	NOUN	Case=Nom|Number=Sing	
+:	:	PUNCT	_	
+2021.	2021.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+január	január	NOUN	Case=Nom|Number=Sing	
+1.	1.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+
+-	-	PUNCT	_	
+2021.	2021.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+december	december	NOUN	Case=Nom|Number=Sing	
+31.	31.	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+
+Szerződött	szerződött	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPast	
+villamos	villamos	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+energia	energia	NOUN	Case=Nom|Number=Sing	
+mennyiség	mennyiség	NOUN	Case=Nom|Number=Sing	
+(	(	PUNCT	_	
+kWh	kWh	PROPN	Case=Nom|Number=Sing	
+)	)	PUNCT	_	
+:	:	PUNCT	_	
+3	3	NUM	Case=Nom|NumType=Card|Number=Sing	
+812	812	NUM	Case=Nom|NumType=Card|Number=Sing	
+844	844	NUM	Case=Nom|NumType=Card|Number=Sing	
+kWh	kWh	PROPN	Case=Nom|Number=Sing	
++	+	PUNCT	_	
+25	25	NUM	Case=Nom|NumType=Card|Number=Sing	
+%	%	PUNCT	_	
+.	.	PUNCT	_	
+

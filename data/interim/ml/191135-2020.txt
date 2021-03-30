@@ -1,0 +1,14 @@
+Nemzetpolitikai	nemzetpolitikai	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+Informatikai	Informatikai	PROPN	Case=Nom|Number=Sing	
+Rendszer	Rendszer	PROPN	Case=Nom|Number=Sing	
+(	(	PUNCT	_	
+NIR	NIR	PROPN	Case=Nom|Number=Sing	
+)	)	PUNCT	_	
+funkcionális	funkcionális	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+bővítési	bővítési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+és	és	CONJ	_	
+üzemeltetés-támogatási	üzemeltetés-támogatási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+feladatainak	feladat	NOUN	Case=Gen|Number=Plur|Number[psor]=Sing|Person[psor]=3	
+ellátása	ellátás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

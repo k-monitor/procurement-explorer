@@ -1,0 +1,20 @@
+Parkok	park	NOUN	Case=Nom|Number=Plur	
+és	és	CONJ	_	
+fasorok	fasor	NOUN	Case=Nom|Number=Plur	
+,	,	PUNCT	_	
+játszóterek	játszótér	NOUN	Case=Nom|Number=Plur	
+karbantartása	karbantartás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+,	,	PUNCT	_	
+önkormányzati	önkormányzati	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+tulajdonú	tulajdonú	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+bel		NOUN	Case=Ins|Number=Sing	
+-	-	PUNCT	_	
+és	és	CONJ	_	
+külterjes	külterjes	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+területek	terület	NOUN	Case=Nom|Number=Plur	
+kaszálása	kaszálás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+vállalkozási	vállalkozási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

@@ -1,0 +1,17 @@
+Szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+meghatározása	meghatározás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+:	:	PUNCT	_	
+Keretmegállapodás	keretmegállapodás	NOUN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+
+Tárgy	Tárgy	PROPN	Case=Nom|Number=Sing	
+:	:	PUNCT	_	
+Kondoros	Kondoros	PROPN	Case=Nom|Number=Sing	
+Nagyközség	nagyközség	NOUN	Case=Nom|Number=Sing	
+Önkormányzata	Önkormányzata	PROPN	Case=Nom|Number=Sing	
+részére	részére	ADP	_	
+mélyépítési	mélyépítési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+keretmegállapodás	keretmegállapodás	NOUN	Case=Nom|Number=Sing	
+megkötése	megkötés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

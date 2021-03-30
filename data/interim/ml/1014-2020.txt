@@ -1,0 +1,4 @@
+Földmunka	földmunka	NOUN	Case=Nom|Number=Sing	
+keretszerződés	keretszerződés	NOUN	Case=Nom|Number=Sing	
+2019	2019	NUM	Case=Nom|NumType=Card|Number=Sing	
+

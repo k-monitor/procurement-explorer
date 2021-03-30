@@ -1,0 +1,30 @@
+Ajánlatkérő	ajánlatkérő	NOUN	Case=Nom|Number=Sing	
+számára	számára	ADP	_	
+folyószámla	folyószámla	NOUN	Case=Nom|Number=Sing	
+-	-	PUNCT	_	
+hitel	hitel	NOUN	Case=Nom|Number=Sing	
+biztosítása	biztosítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+600	600	NUM	Case=Nom|NumType=Card|Number=Sing	
+000	000	NUM	Case=Nom|NumType=Card|Number=Sing	
+000	000	NUM	Case=Nom|NumType=Card|Number=Sing	
+HUF	HUF	PROPN	Case=Nom|Number=Sing	
+folyószámla-hitelkerettel	folyószámla-hitelkeret	NOUN	Case=Ins|Number=Sing	
+,	,	PUNCT	_	
+jelen	jelen	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+felhívás	felhívás	NOUN	Case=Nom|Number=Sing	
+II	II	PROPN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+
+2.1	2.1	PROPN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+
+)	)	PUNCT	_	
+pontjában	pont	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+és	és	CONJ	_	
+a	a	DET	Definite=Def|PronType=Art	
+Dokumentációban	dokumentáció	NOUN	Case=Ine|Number=Sing	
+rögzített	rögzített	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPast	
+feltételek	feltétel	NOUN	Case=Nom|Number=Plur	
+szerint	szerint	ADP	_	
+.	.	PUNCT	_	
+

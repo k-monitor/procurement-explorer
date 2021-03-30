@@ -1,0 +1,10 @@
+Licenszkövetési	Licenszkövetési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+megállapodás	megállapodás	NOUN	Case=Nom|Number=Sing	
+ESB	ESB	PROPN	Case=Nom|Number=Sing	
+licenszek	licenszek	NOUN	Case=Nom|Number=Sing	
+beszerzésére	beszerzés	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+az	az	DET	Definite=Def|PronType=Art	
+MVMI	MVMI	PROPN	Case=Nom|Number=Sing	
+Zrt.	Zrt.	PROPN	Case=Nom|Number=Sing	
+részére	részére	ADP	_	
+

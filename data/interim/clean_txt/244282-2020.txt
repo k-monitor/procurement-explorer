@@ -1,0 +1,12 @@
+keretmegállapodás
+km
+a rendészeti továbbképzési feladat ellátás szükséges tartalomfejlesztési szolgáltatás beszerzés nettó huf keretösszeg
+ajánlatkérő
+ak
+a közbeszerzés mennyiség a rendelkezés álló keretösszeg
+amely megegyezik a becsült érték
+megadás határoz meg
+a keretösszeg erő megrendelhető teljes mennyiség előre pontos nem határozható meg
+ak a várható mennyiség közöl az
+hogy ak a km alap előre vállalt beszerzési kötelezettség nincs
+kötelezettség vállalás kizárólag a km eljárás második rész lefolytatás keletkezik

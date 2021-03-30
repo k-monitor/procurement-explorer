@@ -1,0 +1,8 @@
+«	«	PUNCT	_	
+Útépítési	útépítési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+munkák	munka	NOUN	Case=Nom|Number=Plur	
+Debrecen	Debrecen	PROPN	Case=Nom|Number=Sing	
+Nyugati	nyugati	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+Városrészében	városrész	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+»	»	PUNCT	_	
+

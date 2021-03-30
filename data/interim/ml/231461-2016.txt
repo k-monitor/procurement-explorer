@@ -1,0 +1,10 @@
+Sárvár	sárvár	NOUN	Case=Nom|Number=Sing	
+Város	város	NOUN	Case=Nom|Number=Sing	
+közigazgatási	közigazgatási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+területén	terület	NOUN	Case=Sup|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+a	a	DET	Definite=Def|PronType=Art	
+közterület-fenntartási	közterület-fenntartási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+feladatok	feladat	NOUN	Case=Nom|Number=Plur	
+ellátása	ellátás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

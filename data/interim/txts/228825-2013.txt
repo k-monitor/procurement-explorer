@@ -1,0 +1,1 @@
+Vállalkozási szerződés a PTE meglévő SAP rendszerének fejlesztése, annak funkcionális bővítésével, valamint annak az SAP magyar államigazgatási megoldáscsomagja szerinti tartalommal történő funkcionális sztenderdizációjával.

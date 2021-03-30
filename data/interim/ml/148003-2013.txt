@@ -1,0 +1,10 @@
+Szállítási	Szállítási	PROPN	Case=Nom|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+-	-	PUNCT	_	
+Munkaruha	munkaruha	NOUN	Case=Nom|Number=Sing	
+és	és	CONJ	_	
+egyéni	egyéni	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+védőfelszerelés	védőfelszerelés	NOUN	Case=Nom|Number=Sing	
+szállítására	szállítás	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

@@ -1,0 +1,13 @@
+Dunavarsány	dunavarsány	NOUN	Case=Nom|Number=Sing	
+város	város	NOUN	Case=Nom|Number=Sing	
+teljes	teljes	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+közigazgatási	közigazgatási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+területén	terület	NOUN	Case=Sup|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+hulladékgazdálkodási	hulladékgazdálkodási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+közszolgáltatás	közszolgáltatás	NOUN	Case=Nom|Number=Sing	
+ellátására	ellátás	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+irányuló	irányuló	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
+hulladékgazdálkodási	hulladékgazdálkodási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+közszolgáltatási	közszolgáltatási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+

@@ -1,0 +1,15 @@
+„	„	PUNCT	_	
+Karbantartási	karbantartási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+Cyclotron	Cyclotron	PROPN	Case=Nom|Number=Sing	
+berendezés	berendezés	NOUN	Case=Nom|Number=Sing	
+teljeskörű	teljeskörű	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+karbantartására	karbantartás	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+,	,	PUNCT	_	
+folyamatos	folyamatos	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+üzemképességének	üzemképesség	NOUN	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+biztosítására	biztosítás	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+vonatkozóan	vonatkozó	ADJ	Case=Ess|Degree=Pos|Number=Sing|VerbForm=PartPres	
+.	.	PUNCT	_	
+"	"	PUNCT	_	
+

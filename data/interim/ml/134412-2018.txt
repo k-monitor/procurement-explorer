@@ -1,0 +1,13 @@
+Haemodinamika	Haemodinamika	PROPN	Case=Nom|Number=Sing	
+eszközök	eszköz	NOUN	Case=Nom|Number=Plur	
+beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+,	,	PUNCT	_	
+összesen	összesen	ADV	_	
+13	13	NUM	Case=Nom|NumType=Card|Number=Sing	
+242	242	NUM	Case=Nom|NumType=Card|Number=Sing	
+db	db	NOUN	Case=Nom|Number=Sing	
+,	,	PUNCT	_	
+57	57	NUM	Case=Nom|NumType=Card|Number=Sing	
+részben	rész	NOUN	Case=Ine|Number=Sing	
+.	.	PUNCT	_	
+

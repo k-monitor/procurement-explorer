@@ -1,0 +1,10 @@
+Adásvételi	adásvételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+szemészeti	szemészeti	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+műtétekhez	műtét	NOUN	Case=All|Number=Plur	
+szükséges	szükséges	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szemészeti	szemészeti	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+anyagok	anyag	NOUN	Case=Nom|Number=Plur	
+beszerzésére	beszerzés	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

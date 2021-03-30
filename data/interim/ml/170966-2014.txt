@@ -1,0 +1,17 @@
+Határidős	határidős	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+adásvételi	adásvételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+/	/	PUNCT	_	
+Különféle	különféle	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+gyógyszer	gyógyszer	NOUN	Case=Nom|Number=Sing	
+alapanyagok	alapanyag	NOUN	Case=Nom|Number=Plur	
+,	,	PUNCT	_	
+gyógyszertári	gyógyszertári	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+vegyszerek	vegyszer	NOUN	Case=Nom|Number=Plur	
+,	,	PUNCT	_	
+tápszerek	tápszer	NOUN	Case=Nom|Number=Plur	
+és	és	CONJ	_	
+izotópok	izotóp	NOUN	Case=Nom|Number=Plur	
+szállítására	szállítás	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

@@ -1,0 +1,13 @@
+Komplex	komplex	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+kommunikációs	kommunikációs	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+feladatok	feladat	NOUN	Case=Nom|Number=Plur	
+elvégzése	elvégzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+a	a	DET	Definite=Def|PronType=Art	
+Családbarát	családbarát	NOUN	Case=Nom|Number=Sing	
+Ország	ország	NOUN	Case=Nom|Number=Sing	
+Nonprofit	nonprofit	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+Közhasznú	Közhasznú	PROPN	Case=Nom|Number=Sing	
+Kft.	Kft.	PROPN	Case=Nom|Number=Sing	
+számára	számára	ADP	_	
+.	.	PUNCT	_	
+

@@ -1,0 +1,16 @@
+Újfehértó-Bököny	Újfehértó-bököny	NOUN	Case=Nom|Number=Sing	
+Víziközmű	víziközmű	NOUN	Case=Nom|Number=Sing	
+Beruházási	Beruházási	PROPN	Case=Nom|Number=Sing	
+Társulás	társulás	NOUN	Case=Nom|Number=Sing	
+által	által	ADP	_	
+meghirdetett	meghirdetett	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPast	
+„	„	PUNCT	_	
+Kombinált	kombinált	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPast	
+csatornamosó	csatornamosó	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+berendezés	berendezés	NOUN	Case=Nom|Number=Sing	
+telepítése	telepítés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+járóképes	járóképes	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+alvázra	alváz	NOUN	Case=Sub|Number=Sing	
+"	"	PUNCT	_	
+.	.	PUNCT	_	
+

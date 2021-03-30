@@ -1,0 +1,10 @@
+dek-462
+2017.
+adásvételi keretszerződés a debreceni egyetem klinikai központ tulajdon képező vérgáz analizátor üzemeltetés szükséges fogyóanyag beszerzés
+eljárási rész
+1. rész
+gem 3000-es típusú vérgáz analizátor fogyóanyag
+2. rész
+abl8xx típusú vérgáz analizátor fogyóanyag
+3. rész
+abl9xx típusú vérgáz analizátor fogyóanyag

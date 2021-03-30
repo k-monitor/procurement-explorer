@@ -1,0 +1,14 @@
+Határidős	határidős	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+adásvételi	adásvételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+pásztázó	pásztázó	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
+elektronmikroszkóp	elektronmikroszkóp	NOUN	Case=Nom|Number=Sing	
+és	és	CONJ	_	
+energiadiszperzív	energiadiszperzív	NOUN	Case=Nom|Number=Sing	
+röntgenspektroszkóp	röntgenspektroszkóp	NOUN	Case=Nom|Number=Sing	
++	+	PUNCT	_	
+aranyozó-szenező	aranyozó-szenező	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+készülék	készülék	NOUN	Case=Nom|Number=Sing	
+szállítására	szállítás	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

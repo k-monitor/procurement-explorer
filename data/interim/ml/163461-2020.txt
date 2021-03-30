@@ -1,0 +1,9 @@
+K2011	K2011	PROPN	Case=Nom|Number=Sing	
+Vas	Vas	PROPN	Case=Nom|Number=Sing	
+,	,	PUNCT	_	
+fém	fém	NOUN	Case=Nom|Number=Sing	
+,	,	PUNCT	_	
+színesfém	színesfém	NOUN	Case=Nom|Number=Sing	
+anyagok	anyag	NOUN	Case=Nom|Number=Plur	
+szállítása	szállítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+

@@ -1,0 +1,1 @@
+Ajánlattevő feladata a Magyar Nemzeti Bank (a továbbiakban: Ajánlatkérő) KKTA (a továbbiakban: Rendszer) üzemeltetési támogatása és szoftverfejlesztési támogatása (felmerülő új igények megvalósítása, azaz a kifejlesztett Rendszer továbbfejlesztése, módosítása vagy összekapcsolása más informatikai rendszerekkel)

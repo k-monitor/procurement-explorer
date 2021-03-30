@@ -1,0 +1,16 @@
+1.	1.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+rész	rész	NOUN	Case=Nom|Number=Sing	
+-	-	PUNCT	_	
+Android	Android	PROPN	Case=Nom|Number=Sing	
+mobiltelefonok	mobiltelefon	NOUN	Case=Nom|Number=Plur	
+beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+
+2.	2.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+rész	rész	NOUN	Case=Nom|Number=Sing	
+-	-	PUNCT	_	
+iOS	iOS	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+mobiltelefonok	mobiltelefon	NOUN	Case=Nom|Number=Plur	
+beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

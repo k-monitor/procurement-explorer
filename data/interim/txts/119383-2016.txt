@@ -1,0 +1,1 @@
+A Duna Transznacionális Program lebonyolítását támogató monitoring és információs rendszer (Danube Monitoring System DMS) fejlesztése, bevezetése és működés-támogatása.

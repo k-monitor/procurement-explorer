@@ -1,0 +1,14 @@
+Adásvételi	adásvételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+oltóanyagok	oltóanyag	NOUN	Case=Nom|Number=Plur	
+beszerzésére	beszerzés	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+az	az	DET	Definite=Def|PronType=Art	
+Országos	Országos	PROPN	Case=Nom|Number=Sing	
+Epidemiológiai	epidemiológiai	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+Központ	Központ	PROPN	Case=Nom|Number=Sing	
+(	(	PUNCT	_	
+OEK	OEK	PROPN	Case=Nom|Number=Sing	
+)	)	PUNCT	_	
+számára	számára	ADP	_	
+.	.	PUNCT	_	
+

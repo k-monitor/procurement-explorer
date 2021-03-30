@@ -1,0 +1,11 @@
+Szennyvíziszap	szennyvíziszap	NOUN	Case=Nom|Number=Sing	
+(	(	PUNCT	_	
+veszélyes	veszélyes	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+hulladék	hulladék	NOUN	Case=Nom|Number=Sing	
+)	)	PUNCT	_	
+gyűjtése	gyűjtés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+,	,	PUNCT	_	
+szállítása	szállítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+és	és	CONJ	_	
+kezelése	kezelés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+

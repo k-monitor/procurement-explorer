@@ -1,0 +1,17 @@
+Adásvételi	adásvételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+röntgen	röntgen	NOUN	Case=Nom|Number=Sing	
+és	és	CONJ	_	
+átvilágító	átvilágító	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
+készülék	készülék	NOUN	Case=Nom|Number=Sing	
+beszerzésére	beszerzés	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+a	a	DET	Definite=Def|PronType=Art	
+Semmelweis	Semmelweis	PROPN	Case=Nom|Number=Sing	
+Egyetem	Egyetem	PROPN	Case=Nom|Number=Sing	
+I.	1.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+sz.	sz.	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+Gyermekgyógyászati	gyermekgyógyászati	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+Klinika	Klinika	PROPN	Case=Nom|Number=Sing	
+részére	részére	ADP	_	
+.	.	PUNCT	_	
+

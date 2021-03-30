@@ -1,0 +1,15 @@
+Microsoft	Microsoft	PROPN	Case=Nom|Number=Sing	
+vagy	vagy	CONJ	_	
+azzal	az	PRON	Case=Ins|Number=Sing|Person=3|PronType=Dem	
+egyenértékű	egyenértékű	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+oktatási	oktatási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+licencek	licenc	NOUN	Case=Nom|Number=Plur	
+beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+,	,	PUNCT	_	
+valamint	valamint	CONJ	_	
+a	a	DET	Definite=Def|PronType=Art	
+Tisztaszoftver	tisztaszoftver	NOUN	Case=Nom|Number=Sing	
+portál	portál	NOUN	Case=Nom|Number=Sing	
+működtetése	működtetés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

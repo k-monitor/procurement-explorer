@@ -1,0 +1,23 @@
+Földgáz	földgáz	NOUN	Case=Nom|Number=Sing	
+energia	energia	NOUN	Case=Nom|Number=Sing	
+szállítása	szállítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+2013.8.1	2013.8.1	PROPN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+
+-	-	PUNCT	_	
+2014.7.1	2014.7.1	PROPN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+teljesítési	teljesítési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+időszakra	időszak	NOUN	Case=Sub|Number=Sing	
+vonatkozóan	vonatkozó	ADJ	Case=Ess|Degree=Pos|Number=Sing|VerbForm=PartPres	
+,	,	PUNCT	_	
+teljes	teljes	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+ellátás	ellátás	NOUN	Case=Nom|Number=Sing	
+alapú	alapú	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+földgáz	földgáz	NOUN	Case=Nom|Number=Sing	
+energia	energia	NOUN	Case=Nom|Number=Sing	
+szállítási	szállítási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

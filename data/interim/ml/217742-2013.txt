@@ -1,0 +1,18 @@
+Részajánlatonként	részajánlatonként	NOUN	Case=Dis|Number=Sing	
+szállítási	szállítási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+a	a	DET	Definite=Def|PronType=Art	
+II	II	PROPN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+
+2.1	2.1	PROPN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+
+)	)	PUNCT	_	
+pont	pont	NOUN	Case=Nom|Number=Sing	
+szerinti	szerinti	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+mezőgazdasági	mezőgazdasági	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+gépek	gép	NOUN	Case=Nom|Number=Plur	
+szállítására	szállítás	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

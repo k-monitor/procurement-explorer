@@ -1,0 +1,55 @@
+1. rk
+taszár
+repülőtér
+a
+és
+b
+üzemanyagtelep kármentesítés
+tervezési feladat 2. rk
+mezőkövesd
+üzemanyagbázis kárm
+tervezési feladat elkészítendő tervdok
+tényfeltárási záródik
+pld
+cd
+műszaki beavatkozási pld
+cd
+vízjogi létesítési eng
+pld
+cd
+megvalósíthatósági tanulmány
+mt
+és költség
+haszon elemzés
+cba
+pld
+cd
+tartálypark bontási pld
+cd
+vasúti lefejtő bontási pld
+cd
+amennyiben releváns
+vasúti vonalszakasz bontási pld
+cd
+amennyiben releváns
+épület bontási pld
+cd
+szükség eset
+fakivágási eng
+pld
+cd
+szükség eset
+a kárm
+kivitelező kiválasztás irányuló
+kiírás kerülő eljárás
+kiviteli terv szintű
+tenderd
+árazott és árazatlan pld
+cd
+környezetvédelmi hatósági átvételi elismervény
+az engedélykérelem benyújtás vonatkozó igazoló elismervény
+környezetvédelmi hatósági engedély
+határozat meglét
+mt és cba
+minőségbiz
+meglét

@@ -1,0 +1,1 @@
+Szolgáltatási szerződés alapján on-line bankkártyás fizetéshez (VPOS) szükséges banki szolgáltatások megrendelése.

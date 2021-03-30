@@ -1,0 +1,1 @@
+A Pénzügyminisztérium által használt WorkflowGen alapú workflow rendszerhez kapcsolódó fejlesztési feladatok ellátása, szoftverkövetés és gyártói terméktámogatás valamint felhasználói és üzemeltetői támogatás biztosítása

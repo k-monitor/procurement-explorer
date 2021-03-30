@@ -1,0 +1,20 @@
+Adásvételi	adásvételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+fittségi	fittségi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+mérési-értékelési	mérési-értékelési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+rendszerhez	rendszer	NOUN	Case=All|Number=Sing	
+szükséges	szükséges	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+mérési	mérési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+eszközcsomag	eszközcsomag	NOUN	Case=Nom|Number=Sing	
+szállítására	szállítás	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+a	a	DET	Definite=Def|PronType=Art	
+TÁMOP	TÁMOP	PROPN	Case=Nom|Number=Sing	
+3.	3.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+
+1	1	NUM	Case=Nom|NumType=Card|Number=Sing	
+.	.	PUNCT	_	
+13-12-2013-0001	13-12-2013-0001	PROPN	Case=Nom|Number=Sing	
+projekt	projekt	NOUN	Case=Nom|Number=Sing	
+keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

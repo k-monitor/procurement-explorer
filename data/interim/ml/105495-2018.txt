@@ -1,0 +1,34 @@
+Megbízási	megbízási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+az	az	DET	Definite=Def|PronType=Art	
+„	„	PUNCT	_	
+Észak-Magyarországi	észak-magyarországi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szennyvízelvezetési	szennyvízelvezetési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+és	és	CONJ	_	
+-	-	PUNCT	_	
+kezelési	kezelési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+fejlesztés	fejlesztés	NOUN	Case=Nom|Number=Sing	
+6.	6.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+
+(	(	PUNCT	_	
+ÉMO6	ÉMO6	PROPN	Case=Nom|Number=Sing	
+)	)	PUNCT	_	
+"	"	PUNCT	_	
+elnevezésű	elnevezésű	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+,	,	PUNCT	_	
+KEHOP	KEHOP	PROPN	Case=Nom|Number=Sing	
+-	-	PUNCT	_	
+2.	2.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+
+2	2	NUM	Case=Nom|NumType=Card|Number=Sing	
+.	.	PUNCT	_	
+2-15-2015-00042	2-15-2015-00042	PROPN	Case=Nom|Number=Sing	
+azonosítószámú	azonosítószámú	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+projekt	projekt	NOUN	Case=Nom|Number=Sing	
+keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+műszaki	műszaki	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+ellenőri	ellenőri	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+tevékenység	tevékenység	NOUN	Case=Nom|Number=Sing	
+ellátására	ellátás	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

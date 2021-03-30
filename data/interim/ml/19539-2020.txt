@@ -1,0 +1,5 @@
+Országos	országos	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+EDR	EDR	PROPN	Case=Nom|Number=Sing	
+rádiótechnikai	rádiótechnikai	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+hálózatmérés	hálózatmérés	NOUN	Case=Nom|Number=Sing	
+

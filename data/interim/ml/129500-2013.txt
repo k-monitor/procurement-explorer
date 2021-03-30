@@ -1,0 +1,7 @@
+Villamos	Villamos	PROPN	Case=Nom|Number=Sing	
+energiára	energia	NOUN	Case=Sub|Number=Sing	
+vonatkozó	vonatkozó	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
+szállítási	szállítási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+

@@ -1,0 +1,16 @@
+A	a	DET	Definite=Def|PronType=Art	
+Városmajori	városmajori	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+Szív	szív	NOUN	Case=Nom|Number=Sing	
+-	-	PUNCT	_	
+és	és	CONJ	_	
+Érgyógyászati	érgyógyászati	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+Klinika	Klinika	PROPN	Case=Nom|Number=Sing	
+aorta	aorta	NOUN	Case=Nom|Number=Sing	
+stentgraft	stentgraft	NOUN	Case=Nom|Number=Sing	
+beültetéseihez	beültetés	NOUN	Case=All|Number=Plur|Number[psor]=Sing|Person[psor]=3	
+szükséges	szükséges	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+speciális	speciális	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+fogyóanyagok	fogyóanyag	NOUN	Case=Nom|Number=Plur	
+szállítása	szállítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

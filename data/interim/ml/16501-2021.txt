@@ -1,0 +1,26 @@
+Különféle	különféle	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+kötszerek	kötszer	NOUN	Case=Nom|Number=Plur	
+beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+a	a	DET	Definite=Def|PronType=Art	
+részenként	rész	NOUN	Case=Dis|Number=Sing	
+meghatározottak	meghatározott	ADJ	Case=Nom|Degree=Pos|Number=Plur|VerbForm=PartPast	
+szerint	szerint	ADP	_	
+.	.	PUNCT	_	
+
+Ajánlatkérő	ajánlatkérő	NOUN	Case=Nom|Number=Sing	
+a	a	DET	Definite=Def|PronType=Art	
+részajánlat-tétel	részajánlat-tétel	NOUN	Case=Nom|Number=Sing	
+lehetőségét	lehetőség	NOUN	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+húsz	húsz	NUM	Case=Nom|NumType=Card|Number=Sing	
+részre	rész	NOUN	Case=Sub|Number=Sing	
+biztosítja	biztosít	VERB	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	
+.	.	PUNCT	_	
+
+A	a	DET	Definite=Def|PronType=Art	
+beszerzés	beszerzés	NOUN	Case=Nom|Number=Sing	
+mennyisége	mennyiség	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+részenként	rész	NOUN	Case=Dis|Number=Sing	
+kerül	kerül	VERB	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	
+meghatározásra	meghatározás	NOUN	Case=Sub|Number=Sing	
+.	.	PUNCT	_	
+

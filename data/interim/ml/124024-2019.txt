@@ -1,0 +1,13 @@
+DEK-775	DEK-775	PROPN	Case=Nom|Number=Sing	
+-	-	PUNCT	_	
+Adásvételi	adásvételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+Gázenergia	gázenergia	NOUN	Case=Nom|Number=Sing	
+beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+a	a	DET	Definite=Def|PronType=Art	
+Debreceni	debreceni	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+Egyetem	Egyetem	PROPN	Case=Nom|Number=Sing	
+egyes	egyes	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+egységei	egység	NOUN	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3	
+részére	részére	ADP	_	
+

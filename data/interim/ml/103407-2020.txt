@@ -1,0 +1,14 @@
+Budapesti	Budapesti	PROPN	Case=Nom|Number=Sing	
+Rendőr-főkapitányság	Rendőr-főkapitányság	PROPN	Case=Nom|Number=Sing	
+kezelésében	kezelés	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+lévő	lévő	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
+szolgálati	szolgálati	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+járművek	jármű	NOUN	Case=Nom|Number=Plur	
+üzemeltetéséhez	üzemeltetés	NOUN	Case=All|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+szükséges	szükséges	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+nyári	nyári	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+és	és	CONJ	_	
+téli	téli	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+gumiabroncsok	gumiabroncs	NOUN	Case=Nom|Number=Plur	
+beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+

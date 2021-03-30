@@ -1,0 +1,9 @@
+A	a	DET	Definite=Def|PronType=Art	
+Magyar	Magyar	PROPN	Case=Nom|Number=Sing	
+Zene	zene	NOUN	Case=Nom|Number=Sing	
+Háza	Háza	PROPN	Case=Nom|Number=Sing	
+mélyépítési	mélyépítési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+munkáinak	munka	NOUN	Case=Gen|Number=Plur|Number[psor]=Sing|Person[psor]=3	
+elvégzése	elvégzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

@@ -1,0 +1,13 @@
+Mór	Mór	PROPN	Case=Nom|Number=Sing	
+Városi	Városi	PROPN	Case=Nom|Number=Sing	
+Önkormányzat	Önkormányzat	PROPN	Case=Nom|Number=Sing	
+Ellátó	ellátó	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
+Központja	központ	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+részére	részére	ADP	_	
+élelmiszer	élelmiszer	NOUN	Case=Nom|Number=Sing	
+beszerzés	beszerzés	NOUN	Case=Nom|Number=Sing	
+szállítási	szállítási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+keretszerződések	keretszerződés	NOUN	Case=Nom|Number=Plur	
+keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

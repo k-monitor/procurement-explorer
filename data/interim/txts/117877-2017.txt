@@ -1,0 +1,1 @@
+Nagy számítási kapacitású (min. 14 Tflops) szerver és a hozzá kapcsolódó diszk alrendszer (storage) beszerzése.

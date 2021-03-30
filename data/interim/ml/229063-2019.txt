@@ -1,0 +1,201 @@
+Varrófonalak	varrófonál	NOUN	Case=Nom|Number=Plur	
+beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+az	az	DET	Definite=Def|PronType=Art	
+alábbi	alábbi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+részekkel	rész	NOUN	Case=Ins|Number=Plur	
+:	:	PUNCT	_	
+1.	1.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+
+Nem	nem	ADV	PronType=Neg	
+felszívódó	felszívódó	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
+,	,	PUNCT	_	
+monofil	monofil	VERB	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	
+varróanyagok	varróanyag	NOUN	Case=Nom|Number=Plur	
+(	(	PUNCT	_	
+=	=	PUNCT	_	
+va	va	ADV	VerbForm=Trans	
+)	)	PUNCT	_	
+2.	2.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+
+Polyester	Polyester	PROPN	Case=Nom|Number=Sing	
+alapanyagú	alapanyagú	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+va	va	NOUN	Case=Nom|Number=Sing	
+3.	3.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+
+Szintetikus	szintetikus	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+,	,	PUNCT	_	
+sodrott	sodrott	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+/	/	PUNCT	_	
+monofil	monofil	VERB	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	
+va	va	ADV	VerbForm=Trans	
+4.	4.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+
+Monofil	monofil	VERB	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	
+,	,	PUNCT	_	
+polydioxanone	polydioxanone	PROPN	Case=Nom|Number=Sing	
+alapanyagú	alapanyagú	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+va	va	NOUN	Case=Nom|Number=Sing	
+5.	5.	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+
+Felszívódó	felszívódó	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
+,	,	PUNCT	_	
+szintetikus	szintetikus	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+monofil	monofil	VERB	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	
+/	/	PUNCT	_	
+sodrott	sodrott	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+va	va	NOUN	Case=Nom|Number=Sing	
+6.	6.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+
+Nem	nem	ADV	PronType=Neg	
+felszívódó	felszívódó	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
+,	,	PUNCT	_	
+monofil	monofil	VERB	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	
+,	,	PUNCT	_	
+polypropylene	polypropyl	VERB	Definite=Ind|Mood=Cnd|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	
+alapanyagú	alapanyagú	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+va	va	NOUN	Case=Nom|Number=Sing	
+7.	7.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+
+Felszívódó	felszívódó	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
+,	,	PUNCT	_	
+sodrott	sodrott	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+polyglactin	polyglactin	NOUN	Case=Nom|Number=Sing	
+alapanyagú	alapanyagú	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+va	va	NOUN	Case=Nom|Number=Sing	
+8.	8.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+
+Felszívódó	felszívódó	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
+,	,	PUNCT	_	
+sodrott	sodrott	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+,	,	PUNCT	_	
+polyglactin	polyglactin	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+alapanyagú	alapanyagú	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+va	v	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+rövid	rövid	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+felszívódási	felszívódási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+idővel	idő	NOUN	Case=Ins|Number=Sing	
+9.	9.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+
+Felszívódó	felszívódó	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
+,	,	PUNCT	_	
+szintetikus	szintetikus	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+,	,	PUNCT	_	
+sodrott	sodrott	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+atraumatikus	atraumatikus	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+va	va	NOUN	Case=Nom|Number=Sing	
+10.	10.	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+
+Érsebészeti	érsebészeti	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+és	és	CONJ	_	
+laparoscopos	laparoscopos	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+műtétekhez	műtét	NOUN	Case=All|Number=Plur	
+va	va	NOUN	Case=Nom|Number=Sing	
+11.	11.	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+speciális	speciális	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+va	va	NOUN	Case=Nom|Number=Sing	
+I.	1.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+12.	12.	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+spec	spec	NOUN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+va	va	VERB	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	
+II	II	PROPN	Case=Nom|Number=Sing	
+13.	13.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+spec	spec	NOUN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+va	va	VERB	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	
+III	III	PROPN	Case=Nom|Number=Sing	
+14.	14.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+spec	spec	NOUN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+va	v	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+IV	4	NUM	Case=Nom|NumType=Card|Number=Sing	
+15.	15.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+
+Vérzéscsillapító	vérzéscsillapító	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+I	I	NOUN	Case=Nom|Number=Sing	
+16.	16.	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+
+Vérzéscsillapító	vérzéscsillapító	NOUN	Case=Nom|Number=Sing	
+II	II	PROPN	Case=Nom|Number=Sing	
+17.	17.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+
+Vérzéscsillapító	vérzéscsillapító	NOUN	Case=Nom|Number=Sing	
+III	III	PROPN	Case=Nom|Number=Sing	
+18.	18.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+spec	spec	NOUN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+va	va	VERB	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	
+V	V	PROPN	Case=Nom|Number=Sing	
+19.	19.	PROPN	Case=Nom|Number=Sing	
+spec	spec	NOUN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+va	v	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+VI	6	NUM	Case=Nom|NumType=Card|Number=Sing	
+20.	20.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+spec	spec	NOUN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+va	va	VERB	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	
+VII	VII	PROPN	Case=Nom|Number=Sing	
+21.	21.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+
+Nem	nem	ADV	PronType=Neg	
+felszívódó	felszívódó	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
+,	,	PUNCT	_	
+monofil	monofil	VERB	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	
+va	va	NOUN	Case=Nom|Number=Sing	
+22.	22.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+
+Szintetikus	szintetikus	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+,	,	PUNCT	_	
+sodrott	sodrott	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+/	/	PUNCT	_	
+monofil	monofil	VERB	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	
+va	va	NOUN	Case=Nom|Number=Sing	
+23.	23.	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+
+Monofil	monofil	VERB	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	
+,	,	PUNCT	_	
+polydioxanone	polydioxanone	PROPN	Case=Nom|Number=Sing	
+alapanyagú	alapanyagú	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+va	va	NOUN	Case=Nom|Number=Sing	
+24.	24.	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+
+Monofil	monofil	VERB	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	
+,	,	PUNCT	_	
+polydioxanone	polydioxanone	PROPN	Case=Nom|Number=Sing	
+alapanyagú	alapanyagú	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+va	va	NOUN	Case=Nom|Number=Sing	
+II	II	PROPN	Case=Nom|Number=Sing	
+25.	25.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+
+Nem	nem	ADV	PronType=Neg	
+felszívódó	felszívódó	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
+monofil	monofil	VERB	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	
+,	,	PUNCT	_	
+polypropylene	polypropylene	NOUN	Case=Nom|Number=Sing	
+26.	26.	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+
+Felszívódó	felszívódó	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
+,	,	PUNCT	_	
+sodrott	sodrott	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+,	,	PUNCT	_	
+polyglactin	polyglactin	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+alapanyagú	alapanyagú	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+va	va	NOUN	Case=Nom|Number=Sing	
+27.	27.	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+
+Érsebészeti	érsebészeti	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+és	és	CONJ	_	
+laparoscopos	laparoscopos	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+műtétekhez	műtét	NOUN	Case=All|Number=Plur	
+va	va	NOUN	Case=Nom|Number=Sing	
+28.	28.	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+spec	spec	NOUN	Case=Nom|Number=Sing	
+va	v	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+VIII	8	NUM	Case=Nom|NumType=Card|Number=Sing	
+29.	29.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+
+Vérzéscsillpaító	Vérzéscsillpaító	PROPN	Case=Nom|Number=Sing	
+IV	4	NUM	Case=Nom|NumType=Card|Number=Sing	
+

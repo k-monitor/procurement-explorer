@@ -1,0 +1,13 @@
+Vállalkozási	Vállalkozási	PROPN	Case=Nom|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+az	az	DET	Definite=Def|PronType=Art	
+OEP	OEP	PROPN	Case=Nom|Number=Sing	
+adatközpont	adatközpont	NOUN	Case=Nom|Number=Sing	
+2014.	2014.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+évi	évi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+karbantartására	karbantartás	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+és	és	CONJ	_	
+üzemeltetés	üzemeltetés	NOUN	Case=Nom|Number=Sing	
+támogatására	támogatás	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

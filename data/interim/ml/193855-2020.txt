@@ -1,0 +1,3 @@
+Konténeres	konténeres	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+hulladékszállítás	hulladékszállítás	NOUN	Case=Nom|Number=Sing	
+

@@ -1,0 +1,7 @@
+„	„	PUNCT	_	
+Mobil	Mobil	PROPN	Case=Nom|Number=Sing	
+EKG	EKG	PROPN	Case=Nom|Number=Sing	
+eszköz	eszköz	NOUN	Case=Nom|Number=Sing	
+beszerzés	beszerzés	NOUN	Case=Nom|Number=Sing	
+"	"	PUNCT	_	
+

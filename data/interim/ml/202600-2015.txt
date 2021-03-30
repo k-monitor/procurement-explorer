@@ -1,0 +1,16 @@
+Adásvételi	adásvételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+gyógyászati	gyógyászati	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+célú	célú	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+filterek	filter	NOUN	Case=Nom|Number=Plur	
+,	,	PUNCT	_	
+szerelékek	szerelék	NOUN	Case=Nom|Number=Plur	
+,	,	PUNCT	_	
+műanyag	műanyag	NOUN	Case=Nom|Number=Sing	
+katéterek	katéter	NOUN	Case=Nom|Number=Plur	
+,	,	PUNCT	_	
+szondák	szonda	NOUN	Case=Nom|Number=Plur	
+beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

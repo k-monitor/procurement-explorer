@@ -1,0 +1,7 @@
+12,094	12,094	NUM	Case=Nom|NumType=Frac|Number=Sing	
+milliárd	milliárd	NUM	Case=Nom|NumType=Card|Number=Sing	
+HUF	HUF	PROPN	Case=Nom|Number=Sing	
+keretösszegű	keretösszegű	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+hitel	hitel	NOUN	Case=Nom|Number=Sing	
+felvétele	felvétel	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+

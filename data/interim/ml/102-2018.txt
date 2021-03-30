@@ -1,0 +1,15 @@
+Szarvasmarhatelep	szarvasmarhatelep	NOUN	Case=Nom|Number=Sing	
+,	,	PUNCT	_	
+valamint	valamint	CONJ	_	
+mezőgazdasági	mezőgazdasági	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+terményfeldolgozó	terményfeldolgozó	NOUN	Case=Nom|Number=Sing	
+és	és	CONJ	_	
+tároló	tároló	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
+üzem	üzem	NOUN	Case=Nom|Number=Sing	
+kivitelezési	kivitelezési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+munkái	munkái	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+vállalkozási	vállalkozási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

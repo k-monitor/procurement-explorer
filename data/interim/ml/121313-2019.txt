@@ -1,0 +1,21 @@
+Keret-megállapodás	Keret-megállapodás	NOUN	Case=Nom|Number=Sing	
+az	az	DET	Definite=Def|PronType=Art	
+Alföldvíz	alföldvíz	NOUN	Case=Nom|Number=Sing	
+Zrt.	Zrt.	PROPN	Case=Nom|Number=Sing	
+
+-	-	PUNCT	_	
+vel	vel	NOUN	Case=Ins|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+technológiai	technológiai	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+célú	célú	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+vasvegyület	vasvegyület	NOUN	Case=Nom|Number=Sing	
+(	(	PUNCT	_	
+vas	vas	NOUN	Case=Nom|Number=Sing	
+(	(	PUNCT	_	
+III	III	PROPN	Case=Nom|Number=Sing	
+)	)	PUNCT	_	
+-	-	PUNCT	_	
+klorid	klorid	NOUN	Case=Nom|Number=Sing	
+)	)	PUNCT	_	
+adásvétele	adásvétel	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+tárgyban	tárgy	NOUN	Case=Ine|Number=Sing	
+

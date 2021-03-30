@@ -1,0 +1,14 @@
+Egyszer	egy	ADV	_	
+használatos	használatos	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+,	,	PUNCT	_	
+steril	steril	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+,	,	PUNCT	_	
+szűrő	szűrő	NOUN	Case=Nom|Number=Sing	
+nélküli	nélküli	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+4	4	NUM	Case=Nom|NumType=Card|Number=Sing	
+részes	részes	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+osztó-transzfer	osztó-transzfer	NOUN	Case=Nom|Number=Sing	
+zsákrendszer	zsákrendszer	NOUN	Case=Nom|Number=Sing	
+beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

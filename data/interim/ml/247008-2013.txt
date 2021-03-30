@@ -1,0 +1,11 @@
+Szállítási	Szállítási	PROPN	Case=Nom|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+új	új	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+légfúvó	légfúvó	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+egység	egység	NOUN	Case=Nom|Number=Sing	
+szállítása	szállítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+és	és	CONJ	_	
+telepítése	telepítés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

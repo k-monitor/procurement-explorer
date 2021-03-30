@@ -1,0 +1,15 @@
+Vállalkozási	Vállalkozási	PROPN	Case=Nom|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+,	,	PUNCT	_	
+amelynek	amely	PRON	Case=Gen|Number=Sing|Person=3|PronType=Rel	
+tárgya	tárgy	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+SAP	SAP	PROPN	Case=Nom|Number=Sing	
+gazdasági	gazdasági	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+rendszer	rendszer	NOUN	Case=Nom|Number=Sing	
+követése	követés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+,	,	PUNCT	_	
+támogatása	támogatás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+,	,	PUNCT	_	
+továbbfejlesztése	továbbfejlesztés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

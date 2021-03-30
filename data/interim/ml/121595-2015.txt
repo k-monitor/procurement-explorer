@@ -1,0 +1,9 @@
+Szállítási	Szállítási	PROPN	Case=Nom|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+halkészítmények	halkészítmény	NOUN	Case=Nom|Number=Plur	
+és	és	CONJ	_	
+tartósított	tartósított	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPast	
+halak	hal	NOUN	Case=Nom|Number=Plur	
+beszerzésére	beszerzés	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

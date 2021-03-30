@@ -1,0 +1,8 @@
+Adásvételi	adásvételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+nyomdai	nyomdai	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+papír	papír	NOUN	Case=Nom|Number=Sing	
+alapanyagok	alapanyag	NOUN	Case=Nom|Number=Plur	
+szállítására	szállítás	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

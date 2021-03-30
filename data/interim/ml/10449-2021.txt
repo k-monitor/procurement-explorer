@@ -1,0 +1,11 @@
+Debrecen	Debrecen	PROPN	Case=Nom|Number=Sing	
+,	,	PUNCT	_	
+Déli	Déli	PROPN	Case=Nom|Number=Sing	
+Gazdasági	Gazdasági	PROPN	Case=Nom|Number=Sing	
+Övezet	Övezet	PROPN	Case=Nom|Number=Sing	
+belső	belső	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+úthálózat	úthálózat	NOUN	Case=Nom|Number=Sing	
+II	II	PROPN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+ütem	ütem	NOUN	Case=Nom|Number=Sing	
+

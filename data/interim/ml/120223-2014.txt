@@ -1,0 +1,10 @@
+Keretmegállapodás	keretmegállapodás	NOUN	Case=Nom|Number=Sing	
+tételes	tételes	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+elszámolás	elszámolás	NOUN	Case=Nom|Number=Sing	
+alá	alá	ADP	_	
+eső	eső	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
+aflibercept	aflibercept	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+hatóanyag	hatóanyag	NOUN	Case=Nom|Number=Sing	
+beszerzésére	beszerzés	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

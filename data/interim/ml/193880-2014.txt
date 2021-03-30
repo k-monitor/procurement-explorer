@@ -1,0 +1,16 @@
+Szállítási	Szállítási	PROPN	Case=Nom|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+a	a	DET	Definite=Def|PronType=Art	
+Fővárosi	Fővárosi	PROPN	Case=Nom|Number=Sing	
+Közterület-fenntartó	Közterület-fenntartó	PROPN	Case=Nom|Number=Sing	
+Zrt.	Zrt.	PROPN	Case=Nom|Number=Sing	
+HHM	HHM	PROPN	Case=Nom|Number=Sing	
+kazánjaihoz	kazán	NOUN	Case=All|Number=Plur|Number[psor]=Sing|Person[psor]=3	
+kísérleti	kísérleti	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+rostélypálca	rostélypálca	NOUN	Case=Nom|Number=Sing	
+beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+és	és	CONJ	_	
+szállítása	szállítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

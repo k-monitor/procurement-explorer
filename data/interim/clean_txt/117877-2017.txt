@@ -1,0 +1,5 @@
+nagy számítási kapacitású
+min. tflops
+szerver és a ő kapcsolódó diszk alrendszer
+storage
+beszerzés

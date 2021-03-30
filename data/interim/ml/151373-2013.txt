@@ -1,0 +1,16 @@
+Szállítási	Szállítási	PROPN	Case=Nom|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+alapján	alap	NOUN	Case=Sup|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+különböző	különböző	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+bútorok	bútor	NOUN	Case=Nom|Number=Plur	
+szállítása	szállítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+két	két	NUM	Case=Nom|NumType=Card|Number=Sing	
+részben	rész	NOUN	Case=Ine|Number=Sing	
+az	az	DET	Definite=Def|PronType=Art	
+újonnan	újonnan	ADV	Degree=Pos	
+létesülő	létesülő	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
+MTA	MTA	PROPN	Case=Nom|Number=Sing	
+TTK	TTK	PROPN	Case=Nom|Number=Sing	
+bebútorozásához	bebútorozás	NOUN	Case=All|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

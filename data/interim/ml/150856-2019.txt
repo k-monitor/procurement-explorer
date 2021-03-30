@@ -1,0 +1,8 @@
+Üdítőitalok	üdítőital	NOUN	Case=Nom|Number=Plur	
+beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+fogyasztói	fogyasztói	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+forgalomban	forgalom	NOUN	Case=Ine|Number=Sing	
+történő	történő	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
+viszonteladás	viszonteladás	NOUN	Case=Nom|Number=Sing	
+céljával	cél	NOUN	Case=Ins|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+

@@ -1,0 +1,43 @@
+Villamos	Villamos	PROPN	Case=Nom|Number=Sing	
+energia	energia	NOUN	Case=Nom|Number=Sing	
+értékesítési	értékesítési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+/	/	PUNCT	_	
+villamos	villamos	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+energia	energia	NOUN	Case=Nom|Number=Sing	
+szállítása	szállítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+
+Nyertes	nyertes	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+ajánlattevő	ajánlattevő	NOUN	Case=Nom|Number=Sing	
+feladata	feladat	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+a	a	DET	Definite=Def|PronType=Art	
+közös	közös	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+ajánlatkérők	ajánlatkérő	NOUN	Case=Nom|Number=Plur	
+dokumentációban	dokumentáció	NOUN	Case=Ine|Number=Sing	
+megjelölt	megjelölt	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPast	
+csatlakozási	csatlakozási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+pontjai	pont	NOUN	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3	
+részére	részére	ADP	_	
+2014.1.1	2014.1.1	PROPN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+
+0.00	0.00	NUM	Case=Nom|NumType[sem]=Time|Number=Sing	
+órától	óra	NOUN	Case=Abl|Number=Sing	
+-	-	PUNCT	_	
+2014.12.31	2014.12.31	PROPN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+
+24.00	24.00	NUM	Case=Nom|NumType[sem]=Dot|Number=Sing	
+óráig	óra	NOUN	Case=Ter|Number=Sing	
+teljes	teljes	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+ellátás	ellátás	NOUN	Case=Nom|Number=Sing	
+alapú	alapú	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+történő	történő	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
+villamos	villamos	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+energia	energia	NOUN	Case=Nom|Number=Sing	
+biztosítása	biztosítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

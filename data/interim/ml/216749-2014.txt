@@ -1,0 +1,11 @@
+Adás-vételi	Adás-vételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+közlekedési	közlekedési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+jelzőtábla	jelzőtábla	NOUN	Case=Nom|Number=Sing	
+és	és	CONJ	_	
+jelzőbója	jelzőbója	NOUN	Case=Nom|Number=Sing	
+készlet	készlet	NOUN	Case=Nom|Number=Sing	
+beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

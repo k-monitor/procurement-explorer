@@ -1,0 +1,23 @@
+Dobó	Dobó	PROPN	Case=Nom|Number=Sing	
+tér	tér	PROPN	Case=Nom|Number=Sing	
+-	-	PUNCT	_	
+Eger	Eger	PROPN	Case=Nom|Number=Sing	
+patak	patak	NOUN	Case=Nom|Number=Sing	
+-	-	PUNCT	_	
+Belvárosi	Belvárosi	PROPN	Case=Nom|Number=Sing	
+térsor	térsor	NOUN	Case=Nom|Number=Sing	
+funkcióbővítő	funkcióbővítő	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+rehabilitációja	rehabilitáció	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+(	(	PUNCT	_	
+ÉMOP-3	ÉMOP-3	PROPN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+
+1.2	1.2	PROPN	Case=Nom|Number=Sing	
+/	/	PUNCT	_	
+C-09-2f-2011-0001	C-09-2f-2011-0001	PROPN	Case=Nom|Number=Sing	
+)	)	PUNCT	_	
+,	,	PUNCT	_	
+közterületek	közterület	NOUN	Case=Nom|Number=Plur	
+megújítása	megújítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

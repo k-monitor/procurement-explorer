@@ -1,0 +1,4 @@
+k2 alapú munkafolyamat-irányító infrastruktúra szoftverkövetés
+bővítés
+valamint a k2 infrastruktúra és workflow alkalmazás eseti támogatás
+hibajavítás és fejlesztés

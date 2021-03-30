@@ -1,0 +1,4 @@
+Szakrendszerek	szakrendszer	NOUN	Case=Nom|Number=Plur	
+alkalmazástámogatása	alkalmazástámogatás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

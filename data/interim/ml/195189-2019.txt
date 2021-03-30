@@ -1,0 +1,16 @@
+Graffiti	graffiti	PRON	Case=Nom|Number=Plur|Person=2|PronType=Prs	
+-	-	PUNCT	_	
+és	és	CONJ	_	
+vadplakát-eltávolítási	vadplakát-eltávolítási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+,	,	PUNCT	_	
+felülettisztítási	felülettisztítási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+munkák	munka	NOUN	Case=Nom|Number=Plur	
+végzése	végzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+,	,	PUNCT	_	
+valamint	valamint	CONJ	_	
+monitoring	monitoring	NOUN	Case=Nom|Number=Sing	
+-	-	PUNCT	_	
+és	és	CONJ	_	
+diszpécserszolgálat	diszpécserszolgálat	NOUN	Case=Nom|Number=Sing	
+működtetése	működtetés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+

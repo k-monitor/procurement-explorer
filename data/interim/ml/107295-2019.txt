@@ -1,0 +1,8 @@
+1	1	NUM	Case=Nom|NumType=Card|Number=Sing	
+db	db	NOUN	Case=Nom|Number=Sing	
+128	128	NUM	Case=Nom|NumType=Card|Number=Sing	
+szeletes	szeletes	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+CT	CT	NOUN	Case=Nom|Number=Sing	
+berendezés	berendezés	NOUN	Case=Nom|Number=Sing	
+beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+

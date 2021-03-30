@@ -1,0 +1,25 @@
+Rakodó	rakodó	NOUN	Case=Nom|Number=Sing	
+vágányoknál	vágány	NOUN	Case=Ade|Number=Plur	
+a	a	DET	Definite=Def|PronType=Art	
+térburkolat	térburkolat	NOUN	Case=Nom|Number=Sing	
+kialakítása	kialakítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+,	,	PUNCT	_	
+víztelenítése	víztelenítés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+
+EKR	EKR	PROPN	Case=Nom|Number=Sing	
+feladás	feladás	NOUN	Case=Nom|Number=Sing	
+miatt	miatt	ADP	_	
+Kiegészítő	kiegészítő	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
+CPV	CPV	PROPN	Case=Nom|Number=Sing	
+kódok	kód	NOUN	Case=Nom|Number=Plur	
+itt	itt	ADV	PronType=Dem	
+kerülnek	kerül	VERB	Definite=Ind|Mood=Ind|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	
+feltüntetésre	feltüntetés	NOUN	Case=Sub|Number=Sing	
+:	:	PUNCT	_	
+71245000-7	71245000-7	NUM	Case=Nom|NumType=Card|Number=Sing	
+45235111-4	45235111-4	NUM	Case=Nom|NumType=Card|Number=Sing	
+45232440-8	45232440-8	NUM	Case=Nom|NumType=Card|Number=Sing	
+45247130-0	45247130-0	NUM	Case=Nom|NumType=Card|Number=Sing	
+45231300-8	45231300-8	NUM	Case=Nom|NumType=Card|Number=Sing	
+

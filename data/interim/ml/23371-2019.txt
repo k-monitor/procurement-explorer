@@ -1,0 +1,5 @@
+Gépek	gép	NOUN	Case=Nom|Number=Plur	
+beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+mezőgazdasági	mezőgazdasági	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+célból	cél	NOUN	Case=Ela|Number=Sing	
+

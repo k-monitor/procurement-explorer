@@ -1,0 +1,13 @@
+Szállítási	Szállítási	PROPN	Case=Nom|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+Közép	közép	NOUN	Case=Nom|Number=Sing	
+-	-	PUNCT	_	
+és	és	CONJ	_	
+Belső	Belső	PROPN	Case=Nom|Number=Sing	
+fül	fül	NOUN	Case=Nom|Number=Sing	
+hallásjavító	hallásjavító	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+implantátumokra	implantátum	NOUN	Case=Sub|Number=Plur	
+és	és	CONJ	_	
+processzorokra	processzor	NOUN	Case=Sub|Number=Plur	
+.	.	PUNCT	_	
+

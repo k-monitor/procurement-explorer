@@ -1,0 +1,9 @@
+Mederkezelési	mederkezelési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+tervek	terv	NOUN	Case=Nom|Number=Plur	
+készítése	készítés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+és	és	CONJ	_	
+védelmi	védelmi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+tervek	terv	NOUN	Case=Nom|Number=Plur	
+digitalizálása	digitalizálás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

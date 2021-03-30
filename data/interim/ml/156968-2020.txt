@@ -1,0 +1,7 @@
+Bútorok	bútor	NOUN	Case=Nom|Number=Plur	
+beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+SZGYF	SZGYF	PROPN	Case=Nom|Number=Sing	
+számára	számára	ADP	_	
+adás-vétel	adás-vétel	NOUN	Case=Nom|Number=Sing	
+keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+

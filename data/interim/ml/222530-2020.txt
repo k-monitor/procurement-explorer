@@ -1,0 +1,7 @@
+Rendszerszervezői	rendszerszervezői	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+és	és	CONJ	_	
+üzleti	üzleti	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+elemzői	elemzői	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
+feladatok	feladat	NOUN	Case=Nom|Number=Plur	
+ellátása	ellátás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+

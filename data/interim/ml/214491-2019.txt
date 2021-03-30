@@ -1,0 +1,5 @@
+Keretmegállapodás	keretmegállapodás	NOUN	Case=Nom|Number=Sing	
+mélyépítési	mélyépítési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+munkákra	munka	NOUN	Case=Sub|Number=Plur	
+2019	2019	NUM	Case=Nom|NumType=Card|Number=Sing	
+

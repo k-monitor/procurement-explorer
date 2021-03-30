@@ -1,0 +1,25 @@
+Megbízási	megbízási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+,	,	PUNCT	_	
+melynek	mely	PRON	Case=Gen|Number=Sing|Person=3|PronType=Rel	
+tárgya	tárgy	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+«	«	PUNCT	_	
+Budapest	Budapest	PROPN	Case=Nom|Number=Sing	
+Főváros	főváros	NOUN	Case=Nom|Number=Sing	
+Önkormányzata	Önkormányzata	PROPN	Case=Nom|Number=Sing	
+könyvvizsgálói	könyvvizsgálói	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+Feladatainak	feladat	NOUN	Case=Gen|Number=Plur|Number[psor]=Sing|Person[psor]=3	
+ellátása	ellátás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+»	»	PUNCT	_	
+.	.	PUNCT	_	
+
+(	(	PUNCT	_	
+EKR	EKR	PROPN	Case=Nom|Number=Sing	
+rövidített	rövidített	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPast	
+név	név	NOUN	Case=Nom|Number=Sing	
+:	:	PUNCT	_	
+Könyvvizsgálói	könyvvizsgálói	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+feladatok	feladat	NOUN	Case=Nom|Number=Plur	
+ellátása	ellátás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+)	)	PUNCT	_	
+

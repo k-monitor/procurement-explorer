@@ -1,0 +1,8 @@
+az mfb magyar fejlesztési bank zártkörű működő részvénytársaság és a 2001. évi xx
+törvény felhatalmazás alap az által tulajdonolt és tulajdonosi joggyakorlás kör tartozó egyes gazdálkodó szervezet
+mint ajánlatkérő vonatkozás
+x86 platformú szerver
+ez futó microsoft operációs rendszer és alapinfrastruktúra elem
+vmware virtuális környezet
+hálózati adattároló és linux operációs rendszer üzemeltetés támogatás
+karbantartás

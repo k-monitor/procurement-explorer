@@ -1,0 +1,9 @@
+Villamosenergia	villamosenergia	NOUN	Case=Nom|Number=Sing	
+beszerzés	beszerzés	NOUN	Case=Nom|Number=Sing	
+31.	31.	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+
+12	12	NUM	Case=Nom|NumType=Card|Number=Sing	
+.	.	PUNCT	_	
+2018-ig	2018	NUM	Case=Ter|NumType=Card|Number=Sing	
+.	.	PUNCT	_	
+

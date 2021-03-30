@@ -1,0 +1,12 @@
+Bankgarancia	bankgarancia	NOUN	Case=Nom|Number=Sing	
+keret	keret	NOUN	Case=Nom|Number=Sing	
+biztosítása	biztosítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+az	az	DET	Definite=Def|PronType=Art	
+MTVA	MTVA	PROPN	Case=Nom|Number=Sing	
+részére	részére	ADP	_	
+,	,	PUNCT	_	
+bankgarancia	bankgarancia	NOUN	Case=Nom|Number=Sing	
+keretszerződés	keretszerződés	NOUN	Case=Nom|Number=Sing	
+keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

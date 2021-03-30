@@ -1,0 +1,14 @@
+Tervezési	tervezési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szolgáltatás	szolgáltatás	NOUN	Case=Nom|Number=Sing	
+budapesti	budapesti	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+útfelújítások	útfelújítás	NOUN	Case=Nom|Number=Plur	
+előkészítésére	előkészítés	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+-	-	PUNCT	_	
+III	III	PROPN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+ütem	ütem	NOUN	Case=Nom|Number=Sing	
+6	6	NUM	Case=Nom|NumType=Card|Number=Sing	
+részajánlati	részajánlati	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+körben	kör	NOUN	Case=Ine|Number=Sing	
+.	.	PUNCT	_	
+

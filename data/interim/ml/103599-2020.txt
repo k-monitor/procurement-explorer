@@ -1,0 +1,5 @@
+Irodai	irodai	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+programcsomag	programcsomag	NOUN	Case=Nom|Number=Sing	
+licencek	licenc	NOUN	Case=Nom|Number=Plur	
+biztosítása	biztosítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+

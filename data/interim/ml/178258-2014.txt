@@ -1,0 +1,5 @@
+Egyszerhasználatos	egyszerhasználatos	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+anyagok	anyag	NOUN	Case=Nom|Number=Plur	
+beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+2014.	2014.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+

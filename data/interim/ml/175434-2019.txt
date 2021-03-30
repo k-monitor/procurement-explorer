@@ -1,0 +1,3 @@
+Gyakornoki	gyakornoki	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+program	program	NOUN	Case=Nom|Number=Sing	
+

@@ -1,0 +1,1 @@
+Éves szinten legalább 3 000 000 egyedi látogató kiszolgálására alkalmas tartalom menedzser rendszer (portál) megoldás szoftver implementálása, üzembe helyezése, üzemeltetési támogatása, valamint szoftverfejlesztési támogatás.

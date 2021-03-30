@@ -1,0 +1,10 @@
+Vállalkozási	Vállalkozási	PROPN	Case=Nom|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+új	új	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+sportcsarnok	sportcsarnok	NOUN	Case=Nom|Number=Sing	
+és	és	CONJ	_	
+kapcsolódó	kapcsolódó	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
+létesítmények	létesítmény	NOUN	Case=Nom|Number=Plur	
+megvalósítására	megvalósítás	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

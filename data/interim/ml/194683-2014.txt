@@ -1,0 +1,8 @@
+Semmelweis	Semmelweis	PROPN	Case=Nom|Number=Sing	
+Egyetem	Egyetem	PROPN	Case=Nom|Number=Sing	
+területén	terület	NOUN	Case=Sup|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+vagyonvédelmi	vagyonvédelmi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+feladatok	feladat	NOUN	Case=Nom|Number=Plur	
+ellátása	ellátás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

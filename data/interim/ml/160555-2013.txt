@@ -1,0 +1,15 @@
+Vállalatirányítási	vállalatirányítási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+rendszer	rendszer	NOUN	Case=Nom|Number=Sing	
+(	(	PUNCT	_	
+VIR	VIR	PROPN	Case=Nom|Number=Sing	
+)	)	PUNCT	_	
+és	és	CONJ	_	
+kontrolling	kontrolling	NOUN	Case=Nom|Number=Sing	
+rendszer	rendszer	NOUN	Case=Nom|Number=Sing	
+üzemeltetésével	üzemeltetés	NOUN	Case=Ins|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+kapcsolatos	kapcsolatos	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szakértői	szakértői	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+támogatás	támogatás	NOUN	Case=Nom|Number=Sing	
+beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

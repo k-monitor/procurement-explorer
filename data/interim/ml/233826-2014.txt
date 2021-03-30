@@ -1,0 +1,14 @@
+Ajánlatkérő	ajánlatkérő	NOUN	Case=Nom|Number=Sing	
+Intézmény	intézmény	NOUN	Case=Nom|Number=Sing	
+részére	részére	ADP	_	
+egy	egy	NUM	Case=Nom|NumType=Card|Number=Sing	
+évre	év	NOUN	Case=Sub|Number=Sing	
+szükséges	szükséges	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+egyszer	egy	ADV	_	
+használatos	használatos	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+műtéti	műtéti	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+izolációs	izolációs	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+anyagok	anyag	NOUN	Case=Nom|Number=Plur	
+beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

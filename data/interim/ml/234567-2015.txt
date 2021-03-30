@@ -1,0 +1,17 @@
+Fővállalkozási	fővállalkozási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+/	/	PUNCT	_	
+MTA	MTA	PROPN	Case=Nom|Number=Sing	
+Bölcsészet	bölcsészet	NOUN	Case=Nom|Number=Sing	
+-	-	PUNCT	_	
+és	és	CONJ	_	
+Társadalomtudományok	társadalomtudomány	NOUN	Case=Nom|Number=Plur	
+Kutatóház	kutatóház	NOUN	Case=Nom|Number=Sing	
+beruházás	beruházás	NOUN	Case=Nom|Number=Sing	
+szerkezetkész	szerkezetkész	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+állapottól	állapot	NOUN	Case=Abl|Number=Sing	
+használatbavételi	használatbavételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+engedély	engedély	NOUN	Case=Nom|Number=Sing	
+megszerzéséig	megszerzés	NOUN	Case=Ter|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

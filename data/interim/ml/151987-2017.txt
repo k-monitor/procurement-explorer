@@ -1,0 +1,8 @@
+Iveco	Iveco	PROPN	Case=Nom|Number=Sing	
+gyártmányú	gyártmányú	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+tehergépjármű	tehergépjármű	NOUN	Case=Nom|Number=Sing	
+alváz	alváz	NOUN	Case=Nom|Number=Sing	
+alkatrészek	alkatrész	NOUN	Case=Nom|Number=Plur	
+beszállítása	beszállítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

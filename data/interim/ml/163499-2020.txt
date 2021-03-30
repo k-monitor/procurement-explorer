@@ -1,0 +1,8 @@
+"	"	PUNCT	_	
+Hulladékgyüjtő	hulladékgyüjtő	NOUN	Case=Nom|Number=Sing	
+és	és	CONJ	_	
+szállító	szállító	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
+célgépek	célgép	NOUN	Case=Nom|Number=Plur	
+beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+"	"	PUNCT	_	
+

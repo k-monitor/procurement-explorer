@@ -1,0 +1,2 @@
+db korrózióálló
+automata

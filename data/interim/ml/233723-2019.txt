@@ -1,0 +1,6 @@
+Takarmány	takarmány	NOUN	Case=Nom|Number=Sing	
+beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+a	a	DET	Definite=Def|PronType=Art	
+VKE-2018-00042	VKE-2018-00042	PROPN	Case=Nom|Number=Sing	
+projektben	projekt	NOUN	Case=Ine|Number=Sing	
+

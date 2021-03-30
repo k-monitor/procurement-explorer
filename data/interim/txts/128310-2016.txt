@@ -1,0 +1,1 @@
+Számítógépes hardver eszközök szállítása Openstack alapú felhőinfrastruktúra bővítéséhez az alábbiaknak megfelelően.

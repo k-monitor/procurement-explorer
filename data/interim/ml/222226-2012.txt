@@ -1,0 +1,4 @@
+Beruházási	Beruházási	PROPN	Case=Nom|Number=Sing	
+hitelszerződés	hitelszerződés	NOUN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+

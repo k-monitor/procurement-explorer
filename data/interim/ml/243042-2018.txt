@@ -1,0 +1,7 @@
+Termelő	termelő	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
+istálló	istálló	NOUN	Case=Nom|Number=Sing	
+,	,	PUNCT	_	
+tejház	tejház	NOUN	Case=Nom|Number=Sing	
+kivitelezése	kivitelezés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

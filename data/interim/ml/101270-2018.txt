@@ -1,0 +1,15 @@
+Vállalkozási	Vállalkozási	PROPN	Case=Nom|Number=Sing	
+szerződés	szerződés	PROPN	Case=Nom|Number=Sing	
+integrált	integrált	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPast	
+ellenőrzésdokumentálási	ellenőrzésdokumentálási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+,	,	PUNCT	_	
+beszámolási	beszámolási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+és	és	CONJ	_	
+auditmunkafolyamat-támogató	auditmunkafolyamat-támogató	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+workflowrendszer	workflowrendszer	NOUN	Case=Nom|Number=Sing	
+bevezetésére	bevezetés	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+az	az	DET	Definite=Def|PronType=Art	
+EUTAF	EUTAF	PROPN	Case=Nom|Number=Sing	
+részére	részére	ADP	_	
+.	.	PUNCT	_	
+

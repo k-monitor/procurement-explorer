@@ -1,0 +1,12 @@
+Adásvételi	adásvételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+élelmiszeriparban	élelmiszeripar	NOUN	Case=Ine|Number=Sing	
+alkalmazott	alkalmazott	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPast	
+burkolóanyagok	burkolóanyag	NOUN	Case=Nom|Number=Plur	
+kezelését	kezelés	NOUN	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+végző	végző	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
+célgépek	célgép	NOUN	Case=Nom|Number=Plur	
+beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+tárgyban	tárgy	NOUN	Case=Ine|Number=Sing	
+.	.	PUNCT	_	
+

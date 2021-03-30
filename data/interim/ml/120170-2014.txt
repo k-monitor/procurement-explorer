@@ -1,0 +1,9 @@
+Különféle	különféle	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+-	-	PUNCT	_	
+orvosi	orvosi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+felhasználásra	felhasználás	NOUN	Case=Sub|Number=Sing	
+-	-	PUNCT	_	
+varrófonalak	varrófonal	NOUN	Case=Nom|Number=Plur	
+beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

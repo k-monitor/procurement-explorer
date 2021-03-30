@@ -1,0 +1,16 @@
+Megbízási	megbízási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+a	a	DET	Definite=Def|PronType=Art	
+Somogy	Somogy	PROPN	Case=Nom|Number=Sing	
+Megyei	Megyei	PROPN	Case=Nom|Number=Sing	
+Kaposi	kaposi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+Mór	Mór	PROPN	Case=Nom|Number=Sing	
+Oktató	oktató	NOUN	Case=Nom|Number=Sing	
+Kórház	Kórház	PROPN	Case=Nom|Number=Sing	
+részére	részére	ADP	_	
+takarítási	takarítási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szolgáltatások	szolgáltatás	NOUN	Case=Nom|Number=Plur	
+ellátása	ellátás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

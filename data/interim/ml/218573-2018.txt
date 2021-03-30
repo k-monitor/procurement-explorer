@@ -1,0 +1,15 @@
+Adásvételi	adásvételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+az	az	DET	Definite=Def|PronType=Art	
+esztergomi	esztergomi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+Vaszary	vaszary	NOUN	Case=Nom|Number=Sing	
+Kolos	kolos	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+Kórház	Kórház	PROPN	Case=Nom|Number=Sing	
+részére	részére	ADP	_	
+egyszer	egy	ADV	_	
+használatos	használatos	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+műtéti	műtéti	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+izoláció	izoláció	NOUN	Case=Nom|Number=Sing	
+tárgyban	tárgy	NOUN	Case=Ine|Number=Sing	
+.	.	PUNCT	_	
+

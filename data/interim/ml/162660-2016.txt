@@ -1,0 +1,15 @@
+Adás-vételi	Adás-vételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+„	„	PUNCT	_	
+Transzparencia	Transzparencia	PROPN	Case=Nom|Number=Sing	
+program	program	NOUN	Case=Nom|Number=Sing	
+"	"	PUNCT	_	
+keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+szerver	szerver	NOUN	Case=Nom|Number=Sing	
+állomás	állomás	NOUN	Case=Nom|Number=Sing	
+kialakításához	kialakítás	NOUN	Case=All|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+szükséges	szükséges	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+eszközök	eszköz	NOUN	Case=Nom|Number=Plur	
+beszerzésére	beszerzés	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

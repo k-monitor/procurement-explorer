@@ -1,0 +1,11 @@
+Az	az	DET	Definite=Def|PronType=Art	
+Új	Új	PROPN	Case=Nom|Number=Sing	
+Néprajzi	Néprajzi	PROPN	Case=Nom|Number=Sing	
+Múzeum	Múzeum	PROPN	Case=Nom|Number=Sing	
+és	és	CONJ	_	
+Látogatóközpont	látogatóközpont	NOUN	Case=Nom|Number=Sing	
+generálkivitelezési	generálkivitelezési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+munkáinak	munka	NOUN	Case=Gen|Number=Plur|Number[psor]=Sing|Person[psor]=3	
+elvégzése	elvégzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

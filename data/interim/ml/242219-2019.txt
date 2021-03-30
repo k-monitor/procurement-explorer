@@ -1,0 +1,3 @@
+Növénytelepítés	növénytelepítés	NOUN	Case=Nom|Number=Sing	
+2019.	2019.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+

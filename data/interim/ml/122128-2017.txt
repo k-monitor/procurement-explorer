@@ -1,0 +1,176 @@
+Traumatológia	traumatológia	NOUN	Case=Nom|Number=Sing	
+Osztály	osztály	NOUN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+
+A	a	DET	Definite=Def|PronType=Art	
+teljes	teljes	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+mennyiség	mennyiség	NOUN	Case=Nom|Number=Sing	
+:	:	PUNCT	_	
+Megnevezés	megnevezés	NOUN	Case=Nom|Number=Sing	
+Mennyiség	mennyiség	NOUN	Case=Nom|Number=Sing	
+(	(	PUNCT	_	
+darab	darab	NOUN	Case=Nom|Number=Sing	
+)	)	PUNCT	_	
+.	.	PUNCT	_	
+
+I.	1.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+
+Cementes	cementes	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+csípőizületi	csípőizületi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+totál	totál	ADV	_	
+protézis	protézis	NOUN	Case=Nom|Number=Sing	
+70.	70.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+
+Csontcement	csontcement	NOUN	Case=Nom|Number=Sing	
+40	40	NUM	Case=Nom|NumType=Card|Number=Sing	
+grammos	grammos	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+210.	210.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+
+II	II	PROPN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+
+Cement	cement	NOUN	Case=Nom|Number=Sing	
+nélküli	nélküli	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+csípőízületi	csípőízületi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+totál	totál	ADV	_	
+protézis	protézis	NOUN	Case=Nom|Number=Sing	
+30.	30.	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+
+III	III	PROPN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+
+Totál	totál	ADV	_	
+felszínpótló	felszínpótló	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+és	és	CONJ	_	
+revíziós	revíziós	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+térdprotézis	térdprotézis	NOUN	Case=Nom|Number=Sing	
+80.	80.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+
+Fémtálcás	fémtálcás	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+tibiális	tibiális	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+komponenssel	komponens	NOUN	Case=Ins|Number=Sing	
+80.	80.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+
+Csontcement	csontcement	NOUN	Case=Nom|Number=Sing	
+40	40	NUM	Case=Nom|NumType=Card|Number=Sing	
+grammos	grammos	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+80.	80.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+
+Ortopédiai	ortopédiai	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+Osztály	osztály	NOUN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+
+A	a	DET	Definite=Def|PronType=Art	
+teljes	teljes	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+mennyiség	mennyiség	NOUN	Case=Nom|Number=Sing	
+:	:	PUNCT	_	
+Megnevezés	megnevezés	NOUN	Case=Nom|Number=Sing	
+Mennyiség	mennyiség	NOUN	Case=Nom|Number=Sing	
+(	(	PUNCT	_	
+darab	darab	NOUN	Case=Nom|Number=Sing	
+)	)	PUNCT	_	
+.	.	PUNCT	_	
+
+I.	1.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+
+Cementes	cementes	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+csípőizületi	csípőizületi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+totál	totál	ADV	_	
+protézis	protézis	NOUN	Case=Nom|Number=Sing	
+,	,	PUNCT	_	
+secundaer	secundaer	NOUN	Case=Nom|Number=Sing	
+coxarthrosis	coxarthrosis	NOUN	Case=Nom|Number=Sing	
+megoldására	megoldás	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+100.	100.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+
+Csontcement	csontcement	NOUN	Case=Nom|Number=Sing	
+20	20	NUM	Case=Nom|NumType=Card|Number=Sing	
+grammos	grammos	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+200.	200.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+
+Csontcement	csontcement	NOUN	Case=Nom|Number=Sing	
+40	40	NUM	Case=Nom|NumType=Card|Number=Sing	
+grammos	grammos	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+100.	100.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+
+II	II	PROPN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+
+Cementes	cementes	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+csípőízületi	csípőízületi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+totál	totál	ADV	_	
+protézis	protézis	NOUN	Case=Nom|Number=Sing	
+,	,	PUNCT	_	
+primer	primer	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+coxarthrosis	coxarthrosis	NOUN	Case=Nom|Number=Sing	
+megoldására	megoldás	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+50.	50.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+
+Csontcement	csontcement	NOUN	Case=Nom|Number=Sing	
+20	20	NUM	Case=Nom|NumType=Card|Number=Sing	
+grammos	grammos	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+50.	50.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+
+Csontcement	csontcement	NOUN	Case=Nom|Number=Sing	
+40	40	NUM	Case=Nom|NumType=Card|Number=Sing	
+grammos	grammos	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+50.	50.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+
+III	III	PROPN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+
+Cement	cement	NOUN	Case=Nom|Number=Sing	
+nélküli	nélküli	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+csípőízületi	csípőízületi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+totál	totál	ADV	_	
+protézis	protézis	NOUN	Case=Nom|Number=Sing	
+80.	80.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+
+IV	4	NUM	Case=Nom|NumType=Card|Number=Sing	
+.	.	PUNCT	_	
+
+Total	Total	PROPN	Case=Nom|Number=Sing	
+felszínpótló	felszínpótló	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+és	és	CONJ	_	
+revíziós	revíziós	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+térdprotézis	térdprotézis	NOUN	Case=Nom|Number=Sing	
+150.	150.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+
+Csontcement	csontcement	NOUN	Case=Nom|Number=Sing	
+40	40	NUM	Case=Nom|NumType=Card|Number=Sing	
+grammos	grammos	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+150.	150.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+
+Az	az	DET	Definite=Def|PronType=Art	
+ajánlattevőnek	ajánlattevő	NOUN	Case=Dat|Number=Sing	
+kihelyezett	kihelyezett	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPast	
+konszignációs	konszignációs	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+raktárt	raktár	NOUN	Case=Acc|Number=Sing	
+kell	kell	VERB	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	
+a	a	DET	Definite=Def|PronType=Art	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+ideje	idő	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+alatt	alatt	ADP	_	
+fenntartania	fenntart	VERB	Number=Sing|Person=3|Tense=Pres|VerbForm=Inf|Voice=Act	
+az	az	DET	Definite=Def|PronType=Art	
+ajánlatkérő	ajánlatkérő	NOUN	Case=Nom|Number=Sing	
+telephelyén	telephely	NOUN	Case=Sup|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+
+A	a	DET	Definite=Def|PronType=Art	
+megrendelésre	megrendelés	NOUN	Case=Sub|Number=Sing	
+kerülő	kerülő	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
+mennyiségek	mennyiség	NOUN	Case=Nom|Number=Plur	
+részajánlatonként	részajánlatonként	NOUN	Case=Dis|Number=Sing	
+a	a	DET	Definite=Def|PronType=Art	
+dokumentációban	dokumentáció	NOUN	Case=Ine|Number=Sing	
+foglaltaktól	foglalt	NOUN	Case=Abl|Number=Plur	
+40	40	NUM	Case=Nom|NumType=Card|Number=Sing	
+%	%	PUNCT	_	
+-	-	PUNCT	_	
+kal		NOUN	Case=Ins|Number=Sing	
+lefelé	lefelé	ADV	_	
+térhetnek	tér	VERB	Definite=Ind|Mood=Pot|Number=Plur|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	
+el	el	ADV	_	
+.	.	PUNCT	_	
+

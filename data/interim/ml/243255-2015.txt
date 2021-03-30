@@ -1,0 +1,15 @@
+Megbízási	megbízási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+az	az	DET	Definite=Def|PronType=Art	
+ÉSZAK	észak	NOUN	Case=Nom|Number=Sing	
+-	-	PUNCT	_	
+ALFÖLDI	alföldi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+TÉSZ	tész	NOUN	Case=Nom|Number=Sing	
+részére	részére	ADP	_	
+üzletkötői	üzletkötői	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+,	,	PUNCT	_	
+kereskedelmi	kereskedelmi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szolgáltatások	szolgáltatás	NOUN	Case=Nom|Number=Plur	
+ellátására	ellátás	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

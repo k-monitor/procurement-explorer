@@ -1,0 +1,16 @@
+Földgázvásárlási	földgázvásárlási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+a	a	DET	Definite=Def|PronType=Art	
+magyar	magyar	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+földgáz	földgáz	NOUN	Case=Nom|Number=Sing	
+hálózaton	hálózat	NOUN	Case=Sup|Number=Sing	
+folyamatosan	folyamatos	ADJ	Case=Ess|Degree=Pos|Number=Sing	
+rendelkezésre	rendelkezés	NOUN	Case=Sub|Number=Sing	
+álló	álló	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
+,	,	PUNCT	_	
+szabványos	szabványos	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+minőségű	minőségű	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+földgáz	földgáz	NOUN	Case=Nom|Number=Sing	
+beszerzésére	beszerzés	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

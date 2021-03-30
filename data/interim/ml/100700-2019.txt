@@ -1,0 +1,15 @@
+Állatállomány	állatállomány	NOUN	Case=Nom|Number=Sing	
+gondozása	gondozás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+és	és	CONJ	_	
+az	az	DET	Definite=Def|PronType=Art	
+ehhez	ez	PRON	Case=All|Number=Sing|Person=3|PronType=Dem	
+kapcsolódó	kapcsolódó	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
+üzemeltetési	üzemeltetési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+feladatok	feladat	NOUN	Case=Nom|Number=Plur	
+ellátása	ellátás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+,	,	PUNCT	_	
+valamint	valamint	CONJ	_	
+kísérletekben	kísérlet	NOUN	Case=Ine|Number=Plur	
+való	való	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
+részvétel	részvétel	NOUN	Case=Nom|Number=Sing	
+

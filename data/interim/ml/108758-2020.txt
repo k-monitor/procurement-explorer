@@ -1,0 +1,14 @@
+Könyvvizsgálói	könyvvizsgálói	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szolgáltatások	szolgáltatás	NOUN	Case=Nom|Number=Plur	
+a	a	DET	Definite=Def|PronType=Art	
+Magyar	Magyar	PROPN	Case=Nom|Number=Sing	
+Posta	Posta	PROPN	Case=Nom|Number=Sing	
+Zrt.	Zrt.	PROPN	Case=Nom|Number=Sing	
+és	és	CONJ	_	
+leányvállalatai	leányvállalat	NOUN	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3	
+részére	részére	ADP	_	
+a	a	DET	Definite=Def|PronType=Art	
+2020-2022	2020-2022	NUM	Case=Nom|NumType=Card|Number=Sing	
+évekre	év	NOUN	Case=Sub|Number=Plur	
+vonatkozóan	vonatkozó	ADJ	Case=Ess|Degree=Pos|Number=Sing|VerbForm=PartPres	
+

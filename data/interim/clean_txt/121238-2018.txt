@@ -1,0 +1,16 @@
+régészeti célú gépjármű beszerzés
+1. rész
+db régészeti célú terepjáró gépkocsi
+pick-up
+beszerzés
+ii
+rész
+db régészeti célú duplafülkés
+személy+zárt áruszállító
+gépkocsi beszerzés
+iii
+rész
+db régészeti célú személygépkocsi beszerzés
+adásvételi szerződés
+e
+keret

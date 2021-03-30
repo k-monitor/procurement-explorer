@@ -1,0 +1,7 @@
+Vállalkozási	Vállalkozási	PROPN	Case=Nom|Number=Sing	
+keretszerződés	keretszerződés	NOUN	Case=Nom|Number=Sing	
+nyugdíjasok	nyugdíjas	ADJ	Case=Nom|Degree=Pos|Number=Plur	
+toborzására	toborzás	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+és	és	CONJ	_	
+foglalkoztatására	foglalkoztatás	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+

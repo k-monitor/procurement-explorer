@@ -1,0 +1,4 @@
+Silótároló	silótároló	NOUN	Case=Nom|Number=Sing	
+kivitelezése	kivitelezés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

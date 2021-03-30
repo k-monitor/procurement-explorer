@@ -1,0 +1,1 @@
+Az EDR rendszerben alkalmazott EADS (Cassidian) TETRA terminál felhasználói konfigurációk szerviz munkáinak elvégzése.

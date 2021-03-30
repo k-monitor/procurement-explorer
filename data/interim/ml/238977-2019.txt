@@ -1,0 +1,10 @@
+Új	új	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+vízmérők	vízmérő	NOUN	Case=Nom|Number=Plur	
+szállítása	szállítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+Univerzál	Univerzál	PROPN	Case=Ade|Number=Sing	
+Beszerző	beszerző	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
+Kft	Kft	PROPN	Case=Nom|Number=Sing	
+részére	részére	ADP	_	
+5	5	NUM	Case=Nom|NumType=Card|Number=Sing	
+részben	rész	NOUN	Case=Ine|Number=Sing	
+

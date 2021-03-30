@@ -1,0 +1,17 @@
+Debrecen	Debrecen	PROPN	Case=Nom|Number=Sing	
+Megyei	Megyei	PROPN	Case=Nom|Number=Sing	
+Jogú	Jogú	PROPN	Case=Nom|Number=Sing	
+Város	Város	PROPN	Case=Nom|Number=Sing	
+közhasználatú	közhasználatú	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+zöldfelületeinek	zöldfelület	NOUN	Case=Gen|Number=Plur|Number[psor]=Sing|Person[psor]=3	
+fenntartása	fenntartás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+és	és	CONJ	_	
+növényvédelmi	növényvédelmi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+közérdekű	közérdekű	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+védekezés	védekezés	NOUN	Case=Nom|Number=Sing	
+végrehajtása	végrehajtás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+-	-	PUNCT	_	
+vállalkozási	vállalkozási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+

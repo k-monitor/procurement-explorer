@@ -1,0 +1,60 @@
+textiltermék gyártás
+szállítás a semmelweis egyetem egészségügyi intézmény részére
+1. rész
+ruházati termékek
+kabát
+mellény
+nadrág
+szerelőöltöny
+ing
+köpeny
+ápolóruha
+szoknya
+tunika zsilipnadrág
+zsiliping
+póló
+köntös
+pizsama
+pólyahuzat
+combvédő
+csecsemőing
+gyártás
+szállítás
+tervezett mennyiség összesen
+db
+opció tervezett mennyiség összesen
+db
+hónap
+2. rész
+sík textília
+abrosz
+dunnahuzat
+lepedő
+párnahuzat
+törölköző
+konyharuha
+pólyabetét
+matrac
+paplan
+mosható párna
+pléd
+borogató
+lábzsák
+haskötő
+pelenka
+gyártás
+szállítás
+tervezett mennyiség összesen
+db
+év
+opció tervezett mennyiség összesen
+db
+hónap
+a szerződés a keretösszeg kimerülés
+mely az 1. rész tekintet
+nettó huf
+év
+a 2. rész tekintet
+nettó huf
+év
+de legfeljebb év időtartam jön lét

@@ -1,0 +1,7 @@
+JET-A1	JET-A1	PROPN	Case=Nom|Number=Sing	
+gázturbinás	gázturbinás	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+légijármű	légijármű	NOUN	Case=Nom|Number=Sing	
+üzemanyag	üzemanyag	NOUN	Case=Nom|Number=Sing	
+beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

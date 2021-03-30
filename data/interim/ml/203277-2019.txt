@@ -1,0 +1,5 @@
+Villamos	Villamos	PROPN	Case=Nom|Number=Sing	
+energia	energia	NOUN	Case=Nom|Number=Sing	
+közbeszerzés	közbeszerzés	NOUN	Case=Nom|Number=Sing	
+2020	2020	NUM	Case=Nom|NumType=Card|Number=Sing	
+

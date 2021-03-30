@@ -1,0 +1,10 @@
+Keleti	Keleti	PROPN	Case=Nom|Number=Sing	
+pu.	pu.	PROPN	Case=Nom|Number=Sing	
+-Kőbánya	-Kőbánya	PROPN	Case=Nom|Number=Sing	
+felső	felső	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+3.	3.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+vágány	vágány	NOUN	Case=Nom|Number=Sing	
+műszaki	műszaki	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+ell	ell	NOUN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+

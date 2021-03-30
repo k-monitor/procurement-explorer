@@ -1,0 +1,32 @@
+Általános	általános	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+gyermek	gyermek	NOUN	Case=Nom|Number=Sing	
+-	-	PUNCT	_	
+és	és	CONJ	_	
+ifjúsági	ifjúsági	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+balesetbiztosítási	balesetbiztosítási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+megkötése	megkötés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+az	az	DET	Definite=Def|PronType=Art	
+általános	általános	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+gyermek	gyermek	NOUN	Case=Nom|Number=Sing	
+-	-	PUNCT	_	
+és	és	CONJ	_	
+ifjúsági	ifjúsági	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+baleset-biztosításról	baleset-biztosítás	NOUN	Case=Del|Number=Sing	
+szóló	szóló	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
+119	119	NUM	Case=Nom|NumType=Card|Number=Sing	
+/	/	PUNCT	_	
+2003.	2003.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+
+(	(	PUNCT	_	
+VIII	8	NUM	Case=Nom|NumType=Card|Number=Sing	
+.	.	PUNCT	_	
+
+14.	14.	NUM	Case=Nom|NumType[sem]=Time|Number=Sing	
+)	)	PUNCT	_	
+
+Kormányrendelet	kormányrendelet	NOUN	Case=Nom|Number=Sing	
+rendelkezései	rendelkezés	NOUN	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3	
+szerint	szerint	ADP	_	
+.	.	PUNCT	_	
+

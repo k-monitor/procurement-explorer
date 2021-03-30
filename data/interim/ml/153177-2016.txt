@@ -1,0 +1,33 @@
+Földgáz	földgáz	NOUN	Case=Nom|Number=Sing	
+szállítása	szállítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+az	az	DET	Definite=Def|PronType=Art	
+ajánlatkérő	ajánlatkérő	NOUN	Case=Nom|Number=Sing	
+részére	részére	ADP	_	
+1.10.2016	1.10.2016	PROPN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+
+6	6	NUM	Case=Nom|NumType=Card|Number=Sing	
+:	:	PUNCT	_	
+00	00	NUM	Case=Nom|NumType=Card|Number=Sing	
+CET-1	CET-1	PROPN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+
+10.2017	10.2017	PROPN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+
+6	6	NUM	Case=Nom|NumType=Card|Number=Sing	
+:	:	PUNCT	_	
+00	00	NUM	Case=Nom|NumType=Card|Number=Sing	
+CET	cet	NOUN	Case=Nom|Number=Sing	
+időszakra	időszak	NOUN	Case=Sub|Number=Sing	
+vonatkozóan	vonatkozó	ADJ	Case=Ess|Degree=Pos|Number=Sing|VerbForm=PartPres	
+,	,	PUNCT	_	
+teljes	teljes	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+ellátás	ellátás	NOUN	Case=Nom|Number=Sing	
+alapú	alapú	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+földgáz	földgáz	NOUN	Case=Nom|Number=Sing	
+adás-vételi	adás-vételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

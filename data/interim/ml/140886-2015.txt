@@ -1,0 +1,16 @@
+A	a	DET	Definite=Def|PronType=Art	
+Gyulai	gyulai	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+Törvényszék	Törvényszék	PROPN	Case=Nom|Number=Sing	
+részére	részére	ADP	_	
+földgáz	földgáz	NOUN	Case=Nom|Number=Sing	
+beszerzésére	beszerzés	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+vonatkozó	vonatkozó	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
+adásvételi	adásvételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+az	az	DET	Definite=Def|PronType=Art	
+Ajánlati	ajánlati	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+dokumentációban	dokumentáció	NOUN	Case=Ine|Number=Sing	
+részletezettek	részletezett	NOUN	Case=Nom|Number=Plur	
+szerint	szerint	ADP	_	
+.	.	PUNCT	_	
+

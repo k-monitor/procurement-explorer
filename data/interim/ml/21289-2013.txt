@@ -1,0 +1,15 @@
+Üzemanyag	üzemanyag	NOUN	Case=Nom|Number=Sing	
+kiszolgáló	kiszolgáló	NOUN	Case=Nom|Number=Sing	
+rendszerek	rendszer	NOUN	Case=Nom|Number=Plur	
+,	,	PUNCT	_	
+eszközök	eszköz	NOUN	Case=Nom|Number=Plur	
+karbantartása	karbantartás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+,	,	PUNCT	_	
+javítása	javítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+,	,	PUNCT	_	
+hitelesítése	hitelesítés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+2013-2015	2013-2015	NUM	Case=Nom|NumType=Card|Number=Sing	
+.	.	PUNCT	_	
+évben	év	NOUN	Case=Ine|Number=Sing	
+.	.	PUNCT	_	
+

@@ -1,0 +1,4 @@
+Diák	dia	NOUN	Case=Nom|Number=Plur	
+munkaerő	munkaerő	NOUN	Case=Nom|Number=Sing	
+foglalkoztatása	foglalkoztatás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+

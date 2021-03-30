@@ -1,0 +1,3 @@
+az egészségügyi elektronikus szolgáltatási tér
+eeszt
+megnevezésű rendszer bővítés és továbbfejlesztés az eszemélyi igazolvány felhasználói autentikáció történő alkalmazás

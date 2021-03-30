@@ -1,0 +1,16 @@
+Előleg	előleg	NOUN	Case=Nom|Number=Sing	
+és	és	CONJ	_	
+beruházási	beruházási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+hitelek	hitel	NOUN	Case=Nom|Number=Plur	
+biztosítása	biztosítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+hitelszerződések	hitelszerződés	NOUN	Case=Nom|Number=Plur	
+formájában	forma	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+,	,	PUNCT	_	
+villamos	villamos	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+mozdonyok	mozdony	NOUN	Case=Nom|Number=Plur	
+beszerzésének	beszerzés	NOUN	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+finanszírozására	finanszírozás	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+négy	négy	NUM	Case=Nom|NumType=Card|Number=Sing	
+részben	rész	NOUN	Case=Ine|Number=Sing	
+.	.	PUNCT	_	
+

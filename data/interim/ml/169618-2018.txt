@@ -1,0 +1,10 @@
+Városháza	városháza	NOUN	Case=Nom|Number=Sing	
+épületének	épület	NOUN	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+fejlesztése	fejlesztés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+,	,	PUNCT	_	
+előkészítő	előkészítő	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
+műszaki	műszaki	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+dokumentációk	dokumentáció	NOUN	Case=Nom|Number=Plur	
+készítése	készítés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

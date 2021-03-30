@@ -1,0 +1,8 @@
+Egységcsomagok	egységcsomag	NOUN	Case=Nom|Number=Plur	
+szállítása	szállítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+-	-	PUNCT	_	
+„	„	PUNCT	_	
+Ovis	ovis	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+labdaprogram	labdaprogram	NOUN	Case=Nom|Number=Sing	
+"	"	PUNCT	_	
+

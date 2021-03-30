@@ -1,0 +1,9 @@
+KLIK	KLIK	PROPN	Case=Nom|Number=Sing	
+DELL	dell	NOUN	Case=Nom|Number=Sing	
+szerverekhez	szerver	NOUN	Case=All|Number=Plur	
+gyártói	gyártói	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+garancia	garancia	NOUN	Case=Nom|Number=Sing	
+kiterjesztés	kiterjesztés	NOUN	Case=Nom|Number=Sing	
+beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

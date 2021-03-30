@@ -1,0 +1,44 @@
+Adásvételi	adásvételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+földgáz	földgáz	NOUN	Case=Nom|Number=Sing	
+beszerzésére	beszerzés	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+kulturális	kulturális	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szervezetek	szervezet	NOUN	Case=Nom|Number=Plur	
+részére	részére	ADP	_	
+ez	ez	PRON	Case=Nom|Number=Sing|Person=3|PronType=Dem	
+emberi	emberi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+erőforrások	erőforrás	NOUN	Case=Nom|Number=Plur	
+minisztere	miniszter	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+6	6	NUM	Case=Nom|NumType=Card|Number=Sing	
+/	/	PUNCT	_	
+2013.	2013.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+
+(	(	PUNCT	_	
+II	II	PROPN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+
+28.	28.	NUM	Case=Nom|NumType[sem]=Time|Number=Sing	
+)	)	PUNCT	_	
+
+EMMI	emmi	NOUN	Case=Nom|Number=Sing	
+utasítása	utasítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+alapján	alap	NOUN	Case=Sup|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+a	a	DET	Definite=Def|PronType=Art	
+1.7.2014.,	1.7.2014.,	PROPN	Case=Nom|Number=Sing	
+
+06	06	NUM	Case=Nom|NumType=Card|Number=Sing	
+:	:	PUNCT	_	
+00	00	NUM	Case=Nom|NumType=Card|Number=Sing	
+óra	óra	NOUN	Case=Nom|Number=Sing	
+és	és	CONJ	_	
+a	a	DET	Definite=Def|PronType=Art	
+30.6.2015.,	30.6.2015.,	PROPN	Case=Nom|Number=Sing	
+
+06	06	NUM	Case=Nom|NumType=Card|Number=Sing	
+:	:	PUNCT	_	
+00	00	NUM	Case=Nom|NumType=Card|Number=Sing	
+óra	óra	NOUN	Case=Nom|Number=Sing	
+közötti	közötti	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+időszakban	időszak	NOUN	Case=Ine|Number=Sing	
+.	.	PUNCT	_	
+

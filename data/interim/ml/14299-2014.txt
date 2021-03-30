@@ -1,0 +1,22 @@
+Szentesi	szentesi	NOUN	Case=Nom|Number=Sing	
+Termál	Termál	PROPN	Case=Nom|Number=Sing	
+-	-	PUNCT	_	
+,	,	PUNCT	_	
+Strandfürdő	strandfürdő	NOUN	Case=Nom|Number=Sing	
+Fejlesztése	fejlesztés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+II	II	PROPN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+
+Ütem	ütem	NOUN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+
+„	„	PUNCT	_	
+Szentes	szentes	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+Termálstrandfürdő	termálstrandfürdő	NOUN	Case=Nom|Number=Sing	
+wellness	wellness	NOUN	Case=Nom|Number=Sing	
+és	és	CONJ	_	
+élményfürdő	élményfürdő	NOUN	Case=Nom|Number=Sing	
+építés	építés	NOUN	Case=Nom|Number=Sing	
+"	"	PUNCT	_	
+.	.	PUNCT	_	
+

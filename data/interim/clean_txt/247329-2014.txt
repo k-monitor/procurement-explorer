@@ -1,0 +1,4 @@
+adásvételi szerződés db ffs
+mozgató mechanizmus ellátott szimulátor és db ftd
+mozgató mechanizmus még nem ellátott
+de ffs szint fejleszthető szimulátor beszerzés

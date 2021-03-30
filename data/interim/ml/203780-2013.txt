@@ -1,0 +1,22 @@
+Szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+meghatározása	meghatározás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+:	:	PUNCT	_	
+Szolgáltatási	szolgáltatási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+
+Szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+tárgya	tárgy	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+:	:	PUNCT	_	
+Mobil	Mobil	PROPN	Case=Nom|Number=Sing	
+telekommunikációs	telekommunikációs	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szolgáltatások	szolgáltatás	NOUN	Case=Nom|Number=Plur	
+,	,	PUNCT	_	
+illetőleg	illetőleg	CONJ	_	
+eszközök	eszköz	NOUN	Case=Nom|Number=Plur	
+szállítása	szállítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+szolgáltatási	szolgáltatási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

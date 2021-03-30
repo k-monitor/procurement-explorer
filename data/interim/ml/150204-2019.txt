@@ -1,0 +1,27 @@
+VEKOP-5	VEKOP-5	PROPN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+
+3	3	NUM	Case=Nom|NumType=Card|Number=Sing	
+.	.	PUNCT	_	
+3.-17-2017-00008	3.-17-2017-00008	PROPN	Case=Nom|Number=Sing	
+kódszámú	kódszámú	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+,	,	PUNCT	_	
+„	„	PUNCT	_	
+Érd	ér	VERB	Definite=Def|Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	
+két	két	NUM	Case=Nom|NumType=Card|Number=Sing	
+pontján	pont	NOUN	Case=Sup|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+(	(	PUNCT	_	
+Daróczi	daróczi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+utca	utca	NOUN	Case=Nom|Number=Sing	
+,	,	PUNCT	_	
+Gárdonyi	Gárdonyi	PROPN	Case=Nom|Number=Sing	
+utca	utca	PROPN	Case=Nom|Number=Sing	
+)	)	PUNCT	_	
+forgalomirányított	forgalomirányított	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+csomópont	csomópont	NOUN	Case=Nom|Number=Sing	
+kiépítése	kiépítés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+"	"	PUNCT	_	
+tárgyú	tárgyú	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+projekt	projekt	NOUN	Case=Nom|Number=Sing	
+kivitelezése	kivitelezés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+

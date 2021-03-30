@@ -1,0 +1,15 @@
+Adásvételi	adásvételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+melynek	mely	PRON	Case=Gen|Number=Sing|Person=3|PronType=Rel	
+tárgya	tárgy	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+:	:	PUNCT	_	
+„	„	PUNCT	_	
+Irodaszerek	irodaszer	NOUN	Case=Nom|Number=Plur	
+megrendelése	megrendelés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+Budapest	Budapest	PROPN	Case=Nom|Number=Sing	
+Főváros	főváros	NOUN	Case=Nom|Number=Sing	
+Kormányhivatala	kormányhivatal	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+részére	részére	ADP	_	
+"	"	PUNCT	_	
+.	.	PUNCT	_	
+

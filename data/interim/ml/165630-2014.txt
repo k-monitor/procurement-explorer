@@ -1,0 +1,9 @@
+Vállalkozási	Vállalkozási	PROPN	Case=Nom|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+új	új	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+egyetemi	egyetemi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+oktatási	oktatási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+épület	épület	NOUN	Case=Nom|Number=Sing	
+megvalósítására	megvalósítás	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

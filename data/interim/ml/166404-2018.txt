@@ -1,0 +1,12 @@
+Magyarországi	magyarországi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+fekvőbeteg	fekvőbeteg	NOUN	Case=Nom|Number=Sing	
+ellátó	ellátó	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
+intézmények	intézmény	NOUN	Case=Nom|Number=Plur	
+gyógyszerellátásának	gyógyszerellátás	NOUN	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+biztosítása-GYO-018	biztosítása-GYO-018	PROPN	Case=Nom|Number=Sing	
+/	/	PUNCT	_	
+2018	2018	NUM	Case=Nom|NumType=Card|Number=Sing	
+/	/	PUNCT	_	
+KM	km	NOUN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+

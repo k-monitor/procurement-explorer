@@ -1,0 +1,28 @@
+TOP-6	TOP-6	PROPN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+
+3.3	3.3	PROPN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+
+-	-	PUNCT	_	
+16-SG1-2018-00001	16-SG1-2018-00001	PROPN	Case=Nom|Number=Sing	
+projekt	projekt	NOUN	Case=Nom|Number=Sing	
+keretein	keret	NOUN	Case=Sup|Number=Plur|Number[psor]=Sing|Person[psor]=3	
+belül	belül	ADP	_	
+Szeged	Szeged	PROPN	Case=Nom|Number=Sing	
+,	,	PUNCT	_	
+belterületi	belterületi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+csapadékvíz	csapadékvíz	NOUN	Case=Nom|Number=Sing	
+elvezetés	elvezetés	NOUN	Case=Nom|Number=Sing	
+III	III	PROPN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+és	és	CONJ	_	
+IV	4	NUM	Case=Nom|NumType=Card|Number=Sing	
+.	.	PUNCT	_	
+ütem	ütem	NOUN	Case=Nom|Number=Sing	
+kivitelezési	kivitelezési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+munkái	munka	NOUN	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3	
+3	3	NUM	Case=Nom|NumType=Card|Number=Sing	
+részajánlati	részajánlati	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+körben	kör	NOUN	Case=Ine|Number=Sing	
+

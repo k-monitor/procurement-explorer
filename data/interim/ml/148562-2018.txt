@@ -1,0 +1,14 @@
+Traumatológiai	traumatológiai	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+implantátumok	implantátum	NOUN	Case=Nom|Number=Plur	
+beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+az	az	DET	Definite=Def|PronType=Art	
+SZSZBMK	SZSZBMK	NOUN	Case=Nom|Number=Plur	
+részére	részére	ADP	_	
+34	34	NUM	Case=Nom|NumType=Card|Number=Sing	
+részben	rész	NOUN	Case=Ine|Number=Sing	
+határidős	határidős	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+adásvételi	adásvételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

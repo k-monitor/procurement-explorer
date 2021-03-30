@@ -1,0 +1,9 @@
+A	a	DET	Definite=Def|PronType=Art	
+Károli	károli	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+Gáspár	Gáspár	PROPN	Case=Nom|Number=Sing	
+Református	Református	PROPN	Case=Nom|Number=Sing	
+Egyetem	Egyetem	PROPN	Case=Nom|Number=Sing	
+épületeinek	épület	NOUN	Case=Gen|Number=Plur|Number[psor]=Sing|Person[psor]=3	
+takarítása	takarítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

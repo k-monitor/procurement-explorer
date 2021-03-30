@@ -1,0 +1,29 @@
+a fertődi esterházy-kastély turisztikai célú fejlesztés
+c
+projekt kapcsolódó generál kivitelezési feladat ellátás
+projekt azonosító
+ginop-7
+1-15-2016-00027
+a projekt helyszín
+fertőd
+joseph haydn út 2.
+hrsz. 141. a kivitelezési terület
+esterházy-kastély középrizal
+múzeumi tömb
+épület műemléki törzsszám
+projekt összefoglaló leírás
+a kivitelezési terület a kastély főépület
+múzeumi tömb
+pince
+földszint
+1. emelet
+ii
+emelet keleti oldal egyes helyiség
+óra szint és belvedere szint
+keleti összekötőszárny pince
+földszint
+valamint a keleti szárny déli vég helyreállítandó lépcső és a csatlakozó 1. emeleti közlekedő terület
+a jelenlegi felújítás csak az épület belső tér és a díszudvar felőli előlépcső restaurálás érint
+karakterkorlát miatt folyatás a ii
+2.4
+pont

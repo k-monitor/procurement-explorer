@@ -1,0 +1,53 @@
+Villamos	Villamos	PROPN	Case=Nom|Number=Sing	
+energia	energia	NOUN	Case=Nom|Number=Sing	
+vásárlásra	vásárlás	NOUN	Case=Sub|Number=Sing	
+árubeszerzés	árubeszerzés	NOUN	Case=Nom|Number=Sing	
+2020.	2020.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+évben	év	NOUN	Case=Ine|Number=Sing	
+1.1.2020	1.1.2020	NUM	Case=Nom|NumType[sem]=Dot|Number=Sing	
+.	.	PUNCT	_	
+
+00	00	NUM	Case=Nom|NumType=Card|Number=Sing	
+:	:	PUNCT	_	
+00	00	NUM	Case=Nom|NumType=Card|Number=Sing	
+CET	cet	NOUN	Case=Nom|Number=Sing	
+-	-	PUNCT	_	
+31.12.2020	31.12.2020	PROPN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+
+24	24	NUM	Case=Nom|NumType=Card|Number=Sing	
+:	:	PUNCT	_	
+00	00	NUM	Case=Nom|NumType=Card|Number=Sing	
+CET	cet	NOUN	Case=Nom|Number=Sing	
+közötti	közötti	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+időszakban	időszak	NOUN	Case=Ine|Number=Sing	
+.	.	PUNCT	_	
+
+Beszerzés	beszerzés	NOUN	Case=Nom|Number=Sing	
+mennyisége	mennyiség	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+összesen	összesen	ADV	_	
+:	:	PUNCT	_	
+9	9	NUM	Case=Nom|NumType=Card|Number=Sing	
+902	902	NUM	Case=Nom|NumType=Card|Number=Sing	
+577	577	NUM	Case=Nom|NumType=Card|Number=Sing	
+kWh	kWh	PROPN	Case=Nom|Number=Sing	
+mennyiségben	mennyiség	NOUN	Case=Ine|Number=Sing	
+.	.	PUNCT	_	
+
+Az	az	DET	Definite=Def|PronType=Art	
+ajánlatkérő	ajánlatkérő	NOUN	Case=Nom|Number=Sing	
+a	a	DET	Definite=Def|PronType=Art	
+megadott	megadott	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPast	
+beszerzési	beszerzési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+mennyiségtől	mennyiség	NOUN	Case=Abl|Number=Sing	
+pozitív	pozitív	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+irányba	irány	NOUN	Case=Ill|Number=Sing	
+opcionálisan	opcionálisan	ADJ	Case=Ess|Degree=Pos|Number=Sing	
+30	30	NUM	Case=Nom|NumType=Card|Number=Sing	
+%	%	PUNCT	_	
+-	-	PUNCT	_	
+kal	kal	NOUN	Case=Ins|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+pótdíjmentesen	pótdíjmentesen	ADJ	Case=Ess|Degree=Pos|Number=Sing	
+eltérhet	eltér	VERB	Definite=Ind|Mood=Pot|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	
+.	.	PUNCT	_	
+

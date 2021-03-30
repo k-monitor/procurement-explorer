@@ -1,0 +1,11 @@
+meglévő szerver csere és bővítés
+1. rész
+üvp
+üzemeltetői virtualizált platform
+rendszer bővítés
+2. rész
+elöregedik hvr naplógyűjtő szerver kiváltás
+3. rész
+elöregedik hyper-v szerver kiváltás
+4. rész
+meglévő blade szerver memória bővítés

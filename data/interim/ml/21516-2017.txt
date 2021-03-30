@@ -1,0 +1,9 @@
+Növénytelepítés	növénytelepítés	NOUN	Case=Nom|Number=Sing	
+és	és	CONJ	_	
+ápolás	ápolás	NOUN	Case=Nom|Number=Sing	
+2016	2016	NUM	Case=Nom|NumType=Card|Number=Sing	
+vállalkozási	vállalkozási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

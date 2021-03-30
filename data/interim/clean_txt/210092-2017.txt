@@ -1,0 +1,14 @@
+vállalkozási szerződés keret elemzési szolgáltatás modul fejlesztés és bevezetés a köfop-1
+0.0
+vekop-15-2016-00028 projekt keret a fejlesztés cél a rendőrség feladat ellátás sor keletkezett adat intelligens feldolgozás és biztonságos publikálás a lakosság felé
+az elemzési szolgáltatás modul fő célkitűzés a következő
+az állampolgári elégedettség növelés a rendőrség birtok lévő információ megfelelő feldolgozás
+bejelentés gyors
+könnyű kezelés
+így rövidítve az eljárás idő
+állampolgár számára felhasználható statisztikai információ kinyerés
+vezetői döntés előkészítés
+bűnmegelőzés segítés
+információ forrás biztosítás a többi projekt elem részére
+baleset megelőzés
+közlekedésbiztonság támogatás

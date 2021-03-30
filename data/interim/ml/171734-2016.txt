@@ -1,0 +1,10 @@
+Megbízási	megbízási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+irattári	irattári	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+bértárolási	bértárolási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+és	és	CONJ	_	
+iratkezelési-irattározási-irattárosi	iratkezelési-irattározási-irattárosi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szolgáltatások	szolgáltatás	NOUN	Case=Nom|Number=Plur	
+megrendelésére	megrendelés	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

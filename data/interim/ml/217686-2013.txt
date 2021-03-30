@@ -1,0 +1,12 @@
+Földgázbeszerzés	földgázbeszerzés	NOUN	Case=Nom|Number=Sing	
+2013-2014-es	2013-2014-es	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+gázévre	gázév	NOUN	Case=Sub|Number=Sing	
+a	a	DET	Definite=Def|PronType=Art	
+Mezőberény	mezőberény	NOUN	Case=Nom|Number=Sing	
+Város	Város	PROPN	Case=Nom|Number=Sing	
+Önkormányzata	Önkormányzata	PROPN	Case=Nom|Number=Sing	
+és	és	CONJ	_	
+Intézményei	intézmény	NOUN	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3	
+részére	részére	ADP	_	
+.	.	PUNCT	_	
+

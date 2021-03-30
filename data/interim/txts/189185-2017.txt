@@ -1,0 +1,1 @@
+Az Egészségügyi Elektronikus Szolgáltatási Tér (EESZT) megnevezésű rendszer bővítése és továbbfejlesztése az eSzemélyi igazolvány felhasználói autentikációra történő alkalmazásához.

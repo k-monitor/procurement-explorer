@@ -1,0 +1,21 @@
+EFOP-2	EFOP-2	PROPN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+
+2.1	2.1	PROPN	Case=Nom|Number=Sing	
+-	-	PUNCT	_	
+VEKOP-16-2016-00001	VEKOP-16-2016-00001	PROPN	Case=Nom|Number=Sing	
+projekt	projekt	NOUN	Case=Nom|Number=Sing	
+megvalósítása	megvalósítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+során	sor	NOUN	Case=Sup|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+szükséges	szükséges	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+orvosi	orvosi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+eszközök	eszköz	NOUN	Case=Nom|Number=Plur	
+beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+a	a	DET	Definite=Def|PronType=Art	
+Petz	petz	NOUN	Case=Nom|Number=Sing	
+Aladár	Aladár	PROPN	Case=Nom|Number=Sing	
+Megyei	Megyei	PROPN	Case=Nom|Number=Sing	
+Oktató	oktató	NOUN	Case=Nom|Number=Sing	
+Kórház	Kórház	PROPN	Case=Nom|Number=Sing	
+részére	részére	ADP	_	
+

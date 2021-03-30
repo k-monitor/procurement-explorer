@@ -1,0 +1,27 @@
+„	„	PUNCT	_	
+Egészségügyi	Egészségügyi	PROPN	Case=Nom|Number=Sing	
+szakellátók	szakellátó	ADJ	Case=Nom|Degree=Pos|Number=Plur	
+szállóinak	szálló	NOUN	Case=Gen|Number=Plur|Number[psor]=Sing|Person[psor]=3	
+fejlesztése	fejlesztés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+"	"	PUNCT	_	
+című	című	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+,	,	PUNCT	_	
+EFOP-2	EFOP-2	PROPN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+
+2	2	NUM	Case=Nom|NumType=Card|Number=Sing	
+.	.	PUNCT	_	
+0-16-2016-00001	0-16-2016-00001	PROPN	Case=Nom|Number=Sing	
+azonosítószámú	azonosítószámú	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+projekt	projekt	NOUN	Case=Nom|Number=Sing	
+megvalósítása	megvalósítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+során	sor	NOUN	Case=Sup|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+szükséges	szükséges	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+műszaki	műszaki	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+ellenőri	ellenőri	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szolgáltatás	szolgáltatás	NOUN	Case=Nom|Number=Sing	
+beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+7	7	NUM	Case=Nom|NumType=Card|Number=Sing	
+részben	rész	NOUN	Case=Ine|Number=Sing	
+"	"	PUNCT	_	
+

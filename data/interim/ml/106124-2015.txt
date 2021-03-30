@@ -1,0 +1,37 @@
+Földgáz	földgáz	NOUN	Case=Nom|Number=Sing	
+energia	energia	NOUN	Case=Nom|Number=Sing	
+szállítása	szállítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+Budapest	Budapest	PROPN	Case=Nom|Number=Sing	
+Főváros	főváros	NOUN	Case=Nom|Number=Sing	
+XVII	17	NUM	Case=Nom|NumType=Card|Number=Sing	
+.	.	PUNCT	_	
+kerület	kerület	NOUN	Case=Nom|Number=Sing	
+Rákosmente	rákosmente	NOUN	Case=Nom|Number=Sing	
+Önkormányzata	Önkormányzata	PROPN	Case=Nom|Number=Sing	
+részére	részére	ADP	_	
+30.6.2015	30.6.2015	PROPN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+
+6	6	NUM	Case=Nom|NumType=Card|Number=Sing	
+:	:	PUNCT	_	
+00	00	NUM	Case=Nom|NumType=Card|Number=Sing	
+-	-	PUNCT	_	
+1.7.2016	1.7.2016	PROPN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+
+6	6	NUM	Case=Nom|NumType=Card|Number=Sing	
+:	:	PUNCT	_	
+00	00	NUM	Case=Nom|NumType=Card|Number=Sing	
+időszakra	időszak	NOUN	Case=Sub|Number=Sing	
+vonatkozóan	vonatkozó	ADJ	Case=Ess|Degree=Pos|Number=Sing|VerbForm=PartPres	
+,	,	PUNCT	_	
+teljes	teljes	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+ellátás	ellátás	NOUN	Case=Nom|Number=Sing	
+alapú	alapú	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+földgáz	földgáz	NOUN	Case=Nom|Number=Sing	
+energia	energia	NOUN	Case=Nom|Number=Sing	
+kereskedelmi	kereskedelmi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

@@ -1,0 +1,16 @@
+Határidős	határidős	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+adásvételi	adásvételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+automatikus	automatikus	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+termikus	termikus	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+deszorber	deszorber	NOUN	Case=Nom|Number=Sing	
+,	,	PUNCT	_	
+valamint	valamint	CONJ	_	
+gáz	gáz	NOUN	Case=Nom|Number=Sing	
+-	-	PUNCT	_	
+és	és	CONJ	_	
+folyadékkromatográf-tömegspektrométer	folyadékkromatográf-tömegspektrométer	NOUN	Case=Nom|Number=Sing	
+rendszerek	rendszer	NOUN	Case=Nom|Number=Plur	
+beszerzésére	beszerzés	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

@@ -1,0 +1,2 @@
+db nagyteljesítményű genetikai analizátor készülék
+hozzákapcsolódó db laboratóriumi robotikus munkaállomás és kiértékelő valamint adatbázis szoftver beszerzés

@@ -1,0 +1,30 @@
+adásvételi keretszerződés aneszteziológiai munkaállomás beszerzés
+iii
+2.2
+a szerződés teljesítés kapcsolatos feltétel folytatás
+szerződés biztosíték
+késedelmi kötbér
+mérték
+minden késedelmes nap után a késedelmes teljesítés érintett
+szerződés szerinti nettó ellenszolgáltatás
+a
+késedelmes naptári nap
+a késedelemi kötbér maximális mérték
+hibás teljesítési kötbér
+mérték
+minden hibás teljesítés érintett
+szerződés szerinti nettó ellen szolgáltatás
+a
+késedelmes naptári nap
+a hibás teljesítési kötbér maximális mérték
+szavatossági
+jótállási kötelezettség eredménytelenség eset esedékes
+meghiúsulási kötbér
+mérték
+ezen pont foglalt megfelelő elállás vagy felmondás eset a meghiúsulási kötbér a meghiúsulás érintett nettó ellenszolgáltatás
+a megfelelő összeg
+a szerződés biztosíték az az eset érvényesíthető
+amennyiben a szerződés
+olyan ok
+amely ajánlattevő felelős
+nem szerződésszerű

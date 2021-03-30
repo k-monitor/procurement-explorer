@@ -1,0 +1,11 @@
+A	a	DET	Definite=Def|PronType=Art	
+könyvtári	könyvtári	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+intézményrendszer	intézményrendszer	NOUN	Case=Nom|Number=Sing	
+tanulást	tanulás	NOUN	Case=Acc|Number=Sing	
+segítő	segítő	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
+infrastrukturális	infrastrukturális	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+fejlesztései	fejlesztés	NOUN	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3	
+pályázathoz	pályázat	NOUN	Case=All|Number=Sing	
+eszközök	eszköz	NOUN	Case=Nom|Number=Plur	
+beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+

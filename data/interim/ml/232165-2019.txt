@@ -1,0 +1,3 @@
+Munkaerőpiaci	munkaerőpiaci	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+felmérés	felmérés	NOUN	Case=Nom|Number=Sing	
+

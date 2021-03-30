@@ -1,0 +1,16 @@
+Szállítási	Szállítási	PROPN	Case=Nom|Number=Sing	
+keretszerződés	keretszerződés	NOUN	Case=Nom|Number=Sing	
+„	„	PUNCT	_	
+Tehergépjármű	tehergépjármű	NOUN	Case=Nom|Number=Sing	
+,	,	PUNCT	_	
+tartály	tartály	NOUN	Case=Nom|Number=Sing	
+és	és	CONJ	_	
+felépítmény	felépítmény	NOUN	Case=Nom|Number=Sing	
+javításához	javítás	NOUN	Case=All|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+szükséges	szükséges	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+alkatrészek	alkatrész	NOUN	Case=Nom|Number=Plur	
+beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+"	"	PUNCT	_	
+tárgyban	tárgy	NOUN	Case=Ine|Number=Sing	
+.	.	PUNCT	_	
+

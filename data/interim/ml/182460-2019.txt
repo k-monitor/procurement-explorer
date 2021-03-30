@@ -1,0 +1,19 @@
+DEK-600M	DEK-600M	PROPN	Case=Nom|Number=Sing	
+DE	de	CONJ	_	
+FOK	fok	NOUN	Case=Nom|Number=Sing	
+alagsori	alagsori	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+bővítésének	bővítés	NOUN	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+és	és	CONJ	_	
+korszerűsítésének	korszerűsítés	NOUN	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+munkái	munka	NOUN	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3	
+az	az	DET	Definite=Def|PronType=Art	
+EFOP-4	EFOP-4	PROPN	Case=Nom|Number=Sing	
+.	.	PUNCT	_	
+
+2	2	NUM	Case=Nom|NumType=Card|Number=Sing	
+.	.	PUNCT	_	
+1-16-2017-00015	1-16-2017-00015	PROPN	Case=Nom|Number=Sing	
+számú	számú	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+pályázat	pályázat	NOUN	Case=Nom|Number=Sing	
+keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+

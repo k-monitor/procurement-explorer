@@ -1,0 +1,1 @@
+A beszerzés tárgya a Magyar Nemzeti Bank (Ajánlatkérő) KAR ITER (azaz Közös Adatgyűjtő és Integrált Előfeldolgozó Rendszer, a továbbiakban: Rendszer) üzemeltetési támogatása és szoftverfejlesztési támogatása (felmerülő új igények megvalósítása, azaz a kifejlesztett Rendszer továbbfejlesztése, módosítása vagy összekapcsolása más informatikai rendszerekkel).

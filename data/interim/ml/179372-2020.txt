@@ -1,0 +1,13 @@
+Pásztázó	pásztázó	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
+elektronmikroszkóp	elektronmikroszkóp	NOUN	Case=Nom|Number=Sing	
+(	(	PUNCT	_	
+FE-SEM	FE	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=1	
+)	)	PUNCT	_	
+integrált	integrált	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPast	
+energiadiszperzív	energiadiszperzív	NOUN	Case=Nom|Number=Sing	
+röntgen	röntgen	NOUN	Case=Nom|Number=Sing	
+mikroszondával	mikroszonda	NOUN	Case=Ins|Number=Sing	
+(	(	PUNCT	_	
+EDS	EDS	PROPN	Case=Nom|Number=Sing	
+)	)	PUNCT	_	
+

@@ -1,0 +1,6 @@
+Mohács	Mohács	PROPN	Case=Nom|Number=Sing	
+térségi	térségi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+általános	általános	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+iskola	iskola	NOUN	Case=Nom|Number=Sing	
+bővítése	bővítés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+

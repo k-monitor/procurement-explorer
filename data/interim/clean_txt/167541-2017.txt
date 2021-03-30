@@ -1,0 +1,3 @@
+db x-sávú fourier transzformációs epr spektrométer beszerzés
+beállítás
+beüzemelés és betanítás

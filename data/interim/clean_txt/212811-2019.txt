@@ -1,0 +1,65 @@
+adásvételi szerződés vezetékes földgáz beszerzés
+az ajánlati felhívás használt rövidítés
+gazdasági szereplő
+gsz
+alkalmasság igazolás résztvevő szervezet
+airsz
+ajánlattevő
+at
+ajánlatkérő
+ak
+2015. évi törvény
+kbt.
+2015.
+10. 30.
+korm
+rendelet
+r.
+2017.
+korm
+rendelet
+ekrr
+2013. évi 5. törvény
+ptk.
+2008. évi
+törvény
+fg tv
+ajánlati felhívás
+af
+közbeszerzési dokumentum
+kd
+egységes európai közbeszerzési dokumentum
+eekd
+elektronikus közbeszerzési rendszer
+ekr
+magyar energetikai és közmű-szabályozási hivatal
+mekh
+gázdíj
+gd
+pfix
+huf
+gj
+rendszerhasználati forgalmi díj
+b
+huf
+gj
+rendszerhasználati kapacitás díj
+k
+az éves kapacitásdíj fix rész egység
+a szerződéskötés időpont
+huf
+mj
+h
+év
+a fogyasztási hely szerződéses időszak lekötött nagy órai teljesítmény
+vagy a gázmérő
+k
+névleges összteljesítmény
+kl
+mj
+h
+éves kapacitásdíj
+kd
+kl*k
+huf
+év

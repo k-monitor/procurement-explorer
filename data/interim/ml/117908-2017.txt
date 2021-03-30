@@ -1,0 +1,35 @@
+Adásvételi	adásvételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+alapján	alap	NOUN	Case=Sup|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+a	a	DET	Definite=Def|PronType=Art	
+14	14	NUM	Case=Nom|NumType=Card|Number=Sing	
+/	/	PUNCT	_	
+2012.	2012.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+
+(	(	PUNCT	_	
+VI	6	NUM	Case=Nom|NumType=Card|Number=Sing	
+.	.	PUNCT	_	
+
+8.	8.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+)	)	PUNCT	_	
+
+NFM	NFM	PROPN	Case=Nom|Number=Sing	
+utasítás	utasítás	NOUN	Case=Nom|Number=Sing	
+7.	7.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+kategóriájának	kategória	NOUN	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+megfelelő	megfelelő	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
+8	8	NUM	Case=Nom|NumType=Card|Number=Sing	
+darab	darab	NOUN	Case=Nom|Number=Sing	
+Felső-közép	Felső-közép	NOUN	Case=Nom|Number=Sing	
+kategóriás	kategóriás	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+személygépjárművek	személygépjármű	NOUN	Case=Nom|Number=Plur	
+beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+a	a	DET	Definite=Def|PronType=Art	
+Nemzeti	Nemzeti	PROPN	Case=Nom|Number=Sing	
+Szakértői	Szakértői	PROPN	Case=Nom|Number=Sing	
+és	és	CONJ	_	
+Kutató	Kutató	PROPN	Case=Nom|Number=Sing	
+Központ	Központ	PROPN	Case=Nom|Number=Sing	
+részére	részére	ADP	_	
+.	.	PUNCT	_	
+

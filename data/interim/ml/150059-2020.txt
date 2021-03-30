@@ -1,0 +1,9 @@
+Győr	Győr	PROPN	Case=Nom|Number=Sing	
+Kossuth	Kossuth	PROPN	Case=Nom|Number=Sing	
+L.	L.	PROPN	Case=Nom|Number=Sing	
+u.	u.	PROPN	Case=Nom|Number=Sing	
+36.	36.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
+sz.	sz.	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+épület	épület	NOUN	Case=Nom|Number=Sing	
+felújítása	felújítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+

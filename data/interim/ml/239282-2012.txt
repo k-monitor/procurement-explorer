@@ -1,0 +1,11 @@
+Hulladéktömörítő	hulladéktömörítő	NOUN	Case=Nom|Number=Sing	
+és	és	CONJ	_	
+-	-	PUNCT	_	
+szállító	szállító	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
+gépjárművek	gépjármű	NOUN	Case=Nom|Number=Plur	
+beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+szállítási	szállítási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

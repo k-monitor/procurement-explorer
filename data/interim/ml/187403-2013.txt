@@ -1,0 +1,16 @@
+„	„	PUNCT	_	
+Debreceni	debreceni	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+Járásbíróság	járásbíróság	NOUN	Case=Nom|Number=Sing	
+új	új	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+épületének	épület	NOUN	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+megvalósítása	megvalósítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+"	"	PUNCT	_	
+megnevezésű	megnevezésű	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+beruházás	beruházás	NOUN	Case=Nom|Number=Sing	
+kivitelezési	kivitelezési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+munkái	munkái	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+vállalkozási	vállalkozási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
+szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
+keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
+.	.	PUNCT	_	
+

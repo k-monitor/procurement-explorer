@@ -1,0 +1,4 @@
+Törökbálint	törökbálint	NOUN	Case=Nom|Number=Sing	
+-	-	PUNCT	_	
+Hulladékszállítás	hulladékszállítás	NOUN	Case=Nom|Number=Sing	
+

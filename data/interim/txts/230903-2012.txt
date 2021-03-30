@@ -1,0 +1,1 @@
+Tisza-völgyi árvízvédelmi rendszer üzemirányításának kidolgozása” tárgyú projekt keretében üzemirányítási rendszer elkészítése.

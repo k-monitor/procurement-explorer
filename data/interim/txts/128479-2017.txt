@@ -1,0 +1,1 @@
+MFB Zrt-nél működő SAP rendszer AFI és kapcsolódó analitikus modulok (CML, FI, TRM, SL, CB) továbbfejlesztési koncepciójának kidolgozása, megvalósítása, éles indításának és üzemeltetésének támogatása.

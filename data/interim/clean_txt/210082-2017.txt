@@ -1,0 +1,15 @@
+vállalkozási szerződés keret elektronikus fizetési szolgáltatás továbbfejlesztés a köfop-1
+0.0
+vekop-15-2016-00028 projekt keret
+ezen továbbfejlesztés középpont az
+elektronikus fizetési és elszámolási rendszer
+efer
+szabályoz elektronikus ügyintézési szolgáltatás
+szeüsz
+által nyújtott szolgáltatás igénybevétel interfészkapcsolat útján történő teljes körű megvalósítás
+a rendőrségi hatósági ügyfeldolgozás biztosító informatikai szakrendszer történő implementálás áll
+a fenti funkció megvalósítás érdek jelen közbeszerzés tárgy képező szoftverfejlesztés által elektronikus fizetési megoldás kerül megvalósítás
+amely integrálás kerül a rendőrség ügyviteli
+valamint a követelésállomány nyilvántartás és a hatósági ügyfeldolgozás támogató pénzügyi szakrendszer
+a projekt keret bevezetés kerülő rendszer az állampolgár számára biztosít a bírság helyszíni
+bankkártya történő befizetés a lehetőség
