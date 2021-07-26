@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .error {
+        color: red;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-lite@4.8.1"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-embed@6"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"continuousWidth": 400, "continuousHeight": 300}}, "data": {"name": "data-8f0948df9e56df7714c93b4a2914263c"}, "mark": "bar", "encoding": {"x": {"type": "nominal", "field": "CPV L1 name"}, "y": {"type": "quantitative", "field": "Counts"}}, "$schema": "https://vega.github.io/schema/vega-lite/v4.8.1.json", "datasets": {"data-8f0948df9e56df7714c93b4a2914263c": [{"CPV L1 name": "Agricultural machinery", "Counts": 157}, {"CPV L1 name": "Construction work", "Counts": 8599}, {"CPV L1 name": "Software package and information systems", "Counts": 278}, {"CPV L1 name": "Architectural, construction, engineering and inspection services", "Counts": 871}, {"CPV L1 name": "Petroleum products, fuel, electricity and other sources of energy", "Counts": 775}, {"CPV L1 name": "Transport equipment and auxiliary products to transportation", "Counts": 650}, {"CPV L1 name": "Machinery for mining, quarrying, construction equipment", "Counts": 84}, {"CPV L1 name": "Industrial machinery", "Counts": 505}, {"CPV L1 name": "Office and computing machinery, equipment and supplies except furniture and software packages", "Counts": 299}, {"CPV L1 name": "Business services: law, marketing, consulting, recruitment, printing and security", "Counts": 764}, {"CPV L1 name": "Chemical products", "Counts": 68}, {"CPV L1 name": "Medical equipments, pharmaceuticals and personal care products", "Counts": 643}, {"CPV L1 name": "IT services: consulting, software development, Internet and support", "Counts": 516}, {"CPV L1 name": "Transport services (excl. Waste transport)", "Counts": 108}, {"CPV L1 name": "Sewage, refuse, cleaning and environmental services", "Counts": 423}, {"CPV L1 name": "Agricultural, forestry, horticultural, aquacultural and apicultural services", "Counts": 209}, {"CPV L1 name": "Education and training services", "Counts": 219}, {"CPV L1 name": "Construction structures and materials; auxiliary products to construction (except electric apparatus)", "Counts": 189}, {"CPV L1 name": "Food, beverages, tobacco and related products", "Counts": 60}, {"CPV L1 name": "Health and social work services", "Counts": 222}, {"CPV L1 name": "Agricultural, farming, fishing, forestry and related products", "Counts": 58}, {"CPV L1 name": "Clothing, footwear, luggage articles and accessories", "Counts": 36}, {"CPV L1 name": "Electrical machinery, apparatus, equipment and consumables; lighting", "Counts": 123}, {"CPV L1 name": "Printed matter and related products", "Counts": 120}, {"CPV L1 name": "Hotel, restaurant and retail trade services", "Counts": 79}, {"CPV L1 name": "Laboratory, optical and precision equipments (excl. glasses)", "Counts": 316}, {"CPV L1 name": "Recreational, cultural and sporting services", "Counts": 66}, {"CPV L1 name": "Financial and insurance services", "Counts": 110}, {"CPV L1 name": "Repair and maintenance services", "Counts": 517}, {"CPV L1 name": "Other community, social and personal services", "Counts": 83}, {"CPV L1 name": "Furniture (incl. office furniture), furnishings, domestic appliances (excl. lighting) and cleaning products", "Counts": 361}, {"CPV L1 name": "Security, fire-fighting, police and defence equipment", "Counts": 77}, {"CPV L1 name": "Mining, basic metals and related products", "Counts": 16}, {"CPV L1 name": "Musical instruments, sport goods, games, toys, handicraft, art materials and accessories", "Counts": 79}, {"CPV L1 name": "Public utilities", "Counts": 19}, {"CPV L1 name": "Radio, television, communication, telecommunication and related equipment", "Counts": 133}, {"CPV L1 name": "Leather and textile fabrics, plastic and rubber materials", "Counts": 17}, {"CPV L1 name": "Research and development services and related consultancy services", "Counts": 16}, {"CPV L1 name": "Postal and telecommunications services", "Counts": 44}, {"CPV L1 name": "Services related to the oil and gas industry", "Counts": 23}, {"CPV L1 name": "Supporting and auxiliary transport services; travel agencies services", "Counts": 40}, {"CPV L1 name": "Real estate services", "Counts": 4}, {"CPV L1 name": "Installation services (except software)", "Counts": 39}, {"CPV L1 name": "Collected and purified water", "Counts": 1}, {"CPV L1 name": "Administration, defence and social security services", "Counts": 2}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div class="error" style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>

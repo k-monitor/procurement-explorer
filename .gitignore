@@ -152,3 +152,6 @@ fabric.properties
 
 *.json
 
+# project specific files
+*.txt
+etc/

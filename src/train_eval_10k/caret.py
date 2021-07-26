@@ -26,9 +26,9 @@ etc = create_model("et")
 
 tuned_etc = tune_model(etc)
 
-plot_model(tuned_etc, plot = 'auc')
-plot_model(tuned_etc, plot = 'pr')
-plot_model(tuned_etc, plot = 'confusion_matrix')
+plot_model(tuned_etc, plot="auc")
+plot_model(tuned_etc, plot="pr")
+plot_model(tuned_etc, plot="confusion_matrix")
 
 predictions = predict_model(tuned_etc)
 
@@ -37,6 +37,8 @@ print(classification_report(predictions["Category"], predictions["Label"]))
 final_et = finalize_model(tuned_etc)
 unseen_predictions = predict_model(final_et, data=data_unseen)
 
-print(classification_report(unseen_predictions["Category"], unseen_predictions["Label"]))
+print(
+    classification_report(unseen_predictions["Category"], unseen_predictions["Label"])
+)
 
-save_model(final_et,'models/et_2020_03_02')
+save_model(final_et, "models/et_2020_03_02")

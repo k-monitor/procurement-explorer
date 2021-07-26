@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <style>
+    .error {
+        color: red;
+    }
+  </style>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega@5"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-lite@4.8.1"></script>
+  <script type="text/javascript" src="https://cdn.jsdelivr.net/npm//vega-embed@6"></script>
+</head>
+<body>
+  <div id="vis"></div>
+  <script>
+    (function(vegaEmbed) {
+      var spec = {"config": {"view": {"continuousWidth": 400, "continuousHeight": 300}}, "data": {"name": "data-49b36202af4a5e846862fee59fca9940"}, "mark": "bar", "encoding": {"x": {"type": "nominal", "field": "Procurement types"}, "y": {"type": "quantitative", "field": "Counts"}}, "$schema": "https://vega.github.io/schema/vega-lite/v4.8.1.json", "datasets": {"data-49b36202af4a5e846862fee59fca9940": [{"Procurement types": "Ny\u00edlt elj\u00e1r\u00e1s", "Counts": 5214}, {"Procurement types": "Kbt. 112. \u00a7 (1) bekezd\u00e9s b) pont Ny\u00edlt elj\u00e1r\u00e1s (hirdetm\u00e9nnyel indul\u00f3)", "Counts": 2491}, {"Procurement types": "Kbt. 113. \u00a7 T\u00e1rgyal\u00e1sos elj\u00e1r\u00e1s", "Counts": 96}, {"Procurement types": "Kbt. 115. \u00a7 Ny\u00edlt elj\u00e1r\u00e1s", "Counts": 7152}, {"Procurement types": "Kbt. 113. \u00a7 Ny\u00edlt elj\u00e1r\u00e1s", "Counts": 4095}, {"Procurement types": "Kbt. 117. \u00a7 Saj\u00e1t beszerz\u00e9si szab\u00e1lyok alkalmaz\u00e1sa r\u00e9szv\u00e9teli szakasz n\u00e9lk\u00fcl", "Counts": 1018}, {"Procurement types": "Hirdetm\u00e9nnyel indul\u00f3 t\u00e1rgyal\u00e1sos elj\u00e1r\u00e1s", "Counts": 304}, {"Procurement types": "Hirdetm\u00e9ny k\u00f6zz\u00e9t\u00e9tele n\u00e9lk\u00fcli t\u00e1rgyal\u00e1sos elj\u00e1r\u00e1s", "Counts": 324}, {"Procurement types": "Megh\u00edv\u00e1sos elj\u00e1r\u00e1s", "Counts": 12}, {"Procurement types": "Kbt. 112. \u00a7 (1) bekezd\u00e9s b) pont Hirdetm\u00e9ny k\u00f6zz\u00e9t\u00e9tele n\u00e9lk\u00fcli t\u00e1rgyal\u00e1sos elj\u00e1r\u00e1s", "Counts": 122}, {"Procurement types": "Kbt. 112. \u00a7 (1) bekezd\u00e9s b) pont Hirdetm\u00e9nnyel indul\u00f3 t\u00e1rgyal\u00e1sos elj\u00e1r\u00e1s", "Counts": 53}, {"Procurement types": "Kbt. 115. \u00a7 Hirdetm\u00e9ny n\u00e9lk\u00fcli t\u00e1rgyal\u00e1sos elj\u00e1r\u00e1s", "Counts": 238}, {"Procurement types": "Kbt. 113. \u00a7 Megh\u00edv\u00e1sos elj\u00e1r\u00e1s", "Counts": 3}, {"Procurement types": "Keretmeg\u00e1llapod\u00e1s alapj\u00e1n verseny \u00fajranyit\u00e1s", "Counts": 92}, {"Procurement types": "Kbt. 117. \u00a7 Saj\u00e1t beszerz\u00e9si szab\u00e1lyok alkalmaz\u00e1sa", "Counts": 2}, {"Procurement types": "Keretmeg\u00e1llapod\u00e1s alapj\u00e1n \u00edr\u00e1sbeli konzult\u00e1ci\u00f3", "Counts": 38}, {"Procurement types": "Keretmeg\u00e1llapod\u00e1s alapj\u00e1n k\u00f6zvetlen megrendel\u00e9s", "Counts": 2}, {"Procurement types": "Dinamikus beszerz\u00e9si rendszerben t\u00f6rt\u00e9n\u0151 beszerz\u00e9s lebonyol\u00edt\u00e1sa", "Counts": 1}, {"Procurement types": "Kbt. 112. \u00a7 (1) bekezd\u00e9s b) pont Megh\u00edv\u00e1sos elj\u00e1r\u00e1s (hirdetm\u00e9nnyel indul\u00f3)", "Counts": 1}]}};
+      var embedOpt = {"mode": "vega-lite"};
+
+      function showError(el, error){
+          el.innerHTML = ('<div class="error" style="color:red;">'
+                          + '<p>JavaScript Error: ' + error.message + '</p>'
+                          + "<p>This usually means there's a typo in your chart specification. "
+                          + "See the javascript console for the full traceback.</p>"
+                          + '</div>');
+          throw error;
+      }
+      const el = document.getElementById('vis');
+      vegaEmbed("#vis", spec, embedOpt)
+        .catch(error => showError(el, error));
+    })(vegaEmbed);
+
+  </script>
+</body>
+</html>
