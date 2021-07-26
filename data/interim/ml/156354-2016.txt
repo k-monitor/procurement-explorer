@@ -1,22 +1,3 @@
-Vállalkozási	Vállalkozási	PROPN	Case=Nom|Number=Sing	
-keretszerződés	keretszerződés	NOUN	Case=Nom|Number=Sing	
--	-	PUNCT	_	
-Nyomdaipari	nyomdaipari	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-tevékenység	tevékenység	NOUN	Case=Nom|Number=Sing	
-ellátása	ellátás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-,	,	PUNCT	_	
-nyomdai	nyomdai	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-termékek	termék	NOUN	Case=Nom|Number=Plur	
-előállítása	előállítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-és	és	CONJ	_	
-kapcsolódó	kapcsolódó	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-szolgáltatás	szolgáltatás	NOUN	Case=Nom|Number=Sing	
-nyújtása	nyújtás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-tárgyában	tárgy	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-a	a	DET	Definite=Def|PronType=Art	
-közbeszerzési	közbeszerzési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-dokumentumokban	dokumentum	NOUN	Case=Ine|Number=Plur	
-részletezettek	részletezett	NOUN	Case=Nom|Number=Plur	
-szerint	szerint	ADP	_	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:d7caa5aa1a1c1da5458bc949f6169c3f7f81a903b77cf0872e2d915f24a736f5
+size 1097

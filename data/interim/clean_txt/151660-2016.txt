@@ -1,9 +1,3 @@
-adásvételi szerződés a veleszületett vérzékenység kezelés szolgáló nagy von willebrand faktor tartalmú nagytisztaságú
-plazma eredetű
-faktor koncentrátum
-amely mérsékelt súlyosságú von willebrand betegség
-haemophilia a
-immuntolerancia indukciós kezelés alkalmas
-atc kód
-b02bd06
-készítmény 2016. évi beszerzés tárgy
+version https://git-lfs.github.com/spec/v1
+oid sha256:502b8aa080fbebb24b74965d65b9408509caba9519de77cf159c071003ca1e3c
+size 344

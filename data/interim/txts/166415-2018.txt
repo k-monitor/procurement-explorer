@@ -1,1 +1,3 @@
-Nagy tudású video-endoszkópos torony beszerzése. — Központi egység: fényforrás, videó-processzor, — Videó-processzor rész, — Medikai LCD Monitor, színes, — Video-gasztroszkóp, — Video-kolonoszkóp, — Szívó készülék, — Nagyfrekvenciás vágó készülék. A részletes műszaki leírást a közbeszerzési dokumentumok tartalmazzák.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e5498dd029072ff17d950badbdc3e1f87af5d722b72de9141ef82dd02f468e63
+size 364

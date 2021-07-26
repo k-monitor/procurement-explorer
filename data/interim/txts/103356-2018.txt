@@ -1,1 +1,3 @@
-Megbízási szerződés a „Kaposvár megyei jogú város szennyvíztisztító telepének fejlesztése (NYDDU 5)” elnevezésű, KEHOP-2.2.2-15-2016-00099 projekt keretében műszaki ellenőri tevékenység ellátására.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1f29d6dbb68b415927edcaa3c39653151eb05dc220d179696bab4c56f8e71441
+size 223

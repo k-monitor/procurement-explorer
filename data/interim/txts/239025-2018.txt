@@ -1,1 +1,3 @@
-Szállítási szerződés egészségügyi implantátumok, térdprotézis beszerzésére, kihelyezett áruraktár biztosításával a Szent Lázár Megyei Kórházban 24 hónapos időtartamra.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3d8a11e7da42fe99a3edc24fe12e0535d83e05ceae0c912f733c264f88866635
+size 191

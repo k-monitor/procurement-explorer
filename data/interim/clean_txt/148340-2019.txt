@@ -1,1 +1,3 @@
-területi vízellátás fejlesztés
+version https://git-lfs.github.com/spec/v1
+oid sha256:a2ed963068ba0a7365a98c83e8d65e55dbb672cd9c8ea950c3f85398afa08886
+size 35

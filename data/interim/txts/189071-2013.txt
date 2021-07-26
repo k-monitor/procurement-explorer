@@ -1,1 +1,3 @@
-Vállalkozási szerződés a 62. sz. főút 11,5t burkolat-megerősítés kivitelezése M8 (új Duna-híd) Székesfehérvár között tárgyában.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a5b554ec46710467a2c1b7efe4d6f6c0521d3c9949910fd41f446fc92d6393e1
+size 146

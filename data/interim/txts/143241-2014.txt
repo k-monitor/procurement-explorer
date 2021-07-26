@@ -1,1 +1,3 @@
-Tervezési szerződés az „M44 autóút Kecskemét (M8 autópálya) – Tiszakürt (csatlakozással az M44 követő szakaszához) közötti szakasz és kapcsolódó építmények engedélyezési terveinek elkészítése” tárgyában.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d47c3517b14fc3e24d606ed0f2e3075807f4157f600fbf7e7c3bf8398486c941
+size 237

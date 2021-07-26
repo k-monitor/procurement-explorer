@@ -1,6 +1,3 @@
-szállítási szerződés keret smjvö helyi központosított közbeszerzés tartozó intézmény élelmiszernyersanyagigény ellátás
-ak a teljes mennyiség valamennyi rész tekintet
-összesség
- eltér
-a teljes mennyiség vonatkozó részletes információ
-rész
+version https://git-lfs.github.com/spec/v1
+oid sha256:10c86db9b1864172f2f483635555fcbd90259051288249d861959221f068f464
+size 265

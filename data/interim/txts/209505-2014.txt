@@ -1,1 +1,3 @@
-Adás-vételi szerződés 2 db röntgen berendezés beszerzésére a hozzájuk tartozó PACS rendszerrel együtt a TIOP-2.2.6-12/1B-2013-0026 azonosítójú „Új Járóbeteg Szakellátó Rendelő építése Tatán” című projekt megvalósítása keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f77b68628d5b5fee9cee4f00240c1f890e3ed383148f333d2aba50dee1df133e
+size 262

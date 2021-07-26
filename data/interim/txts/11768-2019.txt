@@ -1,1 +1,3 @@
-Megbízási szerződés iratkezelési szolgáltatások ellátására
+version https://git-lfs.github.com/spec/v1
+oid sha256:5c2c4293a700c84bea20c2ddc5833f43967b888fc5140fff78819e2f3ddde911
+size 68

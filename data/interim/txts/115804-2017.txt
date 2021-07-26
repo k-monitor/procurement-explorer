@@ -1,1 +1,3 @@
-A 6/1990.(IV.12.) KöHÉM rendeletben a járművekre vonatkozó műszaki előírásoknak megfelelő, legalább Euro 6-os kategóriába sorolt diesel motorral szerelt úttisztító és hulladékgyűjtő célgépek szállítása figyelmeztető jelzéssel, forgalmi rendszámmal az: I. rész: 2 db kéttengelyes téli csere felépítménnyel is ellátott önfelszedő célgép; II. rész: 2 db keskenynyomtávú összkerék meghajtású kisteljesítményű, préselve tömörítő hulladékgyűjtő célgép.
+version https://git-lfs.github.com/spec/v1
+oid sha256:67223d2676a41531552bc3c36ee2086a9cdc0fe025750572de433d394951e7b0
+size 505

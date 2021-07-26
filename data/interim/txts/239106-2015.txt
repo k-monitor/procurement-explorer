@@ -1,1 +1,3 @@
-Egészségügyi eszközök energia- megtakarítást célzó beszerzésének támogatása c. pályázat keretében eszközbeszerzés, adásvételi szerződés keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0d4568f82fc2fde7fb678f062c8bcabb8c96cc9e6e036b3ba544ff547f4e9eac
+size 169

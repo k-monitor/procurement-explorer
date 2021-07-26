@@ -1,1 +1,3 @@
-Hulladéktömörítő és -szállító gépjárművek beszerzése szállítási szerződés keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cfa9f239819487ed8d17ef782442715971be2747effadb0421963fdc53dd7aca
+size 103

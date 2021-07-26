@@ -1,1 +1,3 @@
-Étkeztetés biztosítása - konyhabérlés és nyersanyagbeszerzés útján - Fót Város intézményei részére határozott időre.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d45e375dab38cb4b3188509b553bcffd485e04c88aa09e3977696be9d47eab2d
+size 134

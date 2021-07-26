@@ -1,1 +1,3 @@
-Kórházi gyógyszerkiszerelő automatika beszerzése a PTE részére adásvételi szerződés keretében, a közbeszerzési dokumentációban meghatározott paraméterekkel.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b88a467604f1351b261718caac56518158d4e5c75cd89c95aba41f57ba92f820
+size 174

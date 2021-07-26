@@ -1,18 +1,3 @@
-Szállítási	Szállítási	PROPN	Case=Nom|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-a	a	DET	Definite=Def|PronType=Art	
-II	II	PROPN	Case=Nom|Number=Sing	
-.	.	PUNCT	_	
-
-2.1	2.1	PROPN	Case=Nom|Number=Sing	
-.	.	PUNCT	_	
-pont	pont	NOUN	Case=Nom|Number=Sing	
-szerinti	szerinti	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-mennyiségű	mennyiségű	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-különféle	különféle	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-élelmiszerek	élelmiszer	NOUN	Case=Nom|Number=Plur	
-beszerzésére	beszerzés	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-és	és	CONJ	_	
-szállítására	szállítás	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:ae9081919deda23fc329514e53afb568883dc8012bc6f807ba58bb8a63d91e4a
+size 716

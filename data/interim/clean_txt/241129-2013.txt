@@ -1,1 +1,3 @@
-szállítási szerződés dobozos kishaszon gépjármű szállítás
+version https://git-lfs.github.com/spec/v1
+oid sha256:378b041faa941dda4ac8eaf0377d40b4cc577d8be92321e972d03d725f2e958b
+size 68

@@ -1,16 +1,3 @@
-vállalkozási szerződés őrzés-védelmi szolgáltatás és recepciós szolgáltatás ellátás a budapesti gazdasági egyetem budapest
-buzogány u.
-szám alatti épület és a budapesti gazdasági egyetem pszk kollégium budapest
-bagolyvár u.
-alatti épület terület az intézmény össz
-alapterület
-m²
-az intézmény oktatási feladat lát el
-az intézmény a
-toldalék
-b
-c
-d
-e
-és kollégiumi épület áll
-a karakterkorlátozás miatt a közbeszerzési műszaki leírás teljes szövegű kifejtés a közbeszerzési dokumentum található
+version https://git-lfs.github.com/spec/v1
+oid sha256:f8f03b8b3b83e0b3328d92e23d2c2b41abd7ac08a9b30fc48b80b56173f50b47
+size 549

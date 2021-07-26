@@ -1,1 +1,3 @@
-Adásvételi szerződés szívó felépítménnyel rendelkező célgép beszerzésére.
+version https://git-lfs.github.com/spec/v1
+oid sha256:88b7c01bc70415b734de127265029e44081b10e079cbfabd5e9bba1d1f1cd378
+size 87

@@ -1,1 +1,3 @@
-cnc-menetmarógép beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:9ad02b16fd42c9d06862a07cb00401073f08214d3c58ccd80badaa69de185fc3
+size 29

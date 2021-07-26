@@ -1,4 +1,3 @@
-irodabútor beszerzés
-db irodai íróasztal
-db irodai kárpitozott szék
-db irodai fiókos konténer
+version https://git-lfs.github.com/spec/v1
+oid sha256:bbf65161e9961824d84d7c4e76fb37a31e03c13044a82d02c4e2b60cf7bd1337
+size 101

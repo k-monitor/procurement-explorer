@@ -1,2 +1,3 @@
-vállalkozási szerződés a budapest főváros
-kerületi önkormányzat prevenciós központ és családi bölcsődei hálózat telephely részére ételkészítési és szállítási szolgáltatás biztosítás
+version https://git-lfs.github.com/spec/v1
+oid sha256:9fdaf0922b8f792309deaf158f36b5ec6233a99f33235804f93fe3acbfbe467a
+size 212

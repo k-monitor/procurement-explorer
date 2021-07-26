@@ -1,35 +1,3 @@
-Szállítási	Szállítási	PROPN	Case=Nom|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-konszignációs	konszignációs	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-raktár	raktár	NOUN	Case=Nom|Number=Sing	
-létesítésével	létesítés	NOUN	Case=Ins|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-oxigenátor	oxigenátor	NOUN	Case=Nom|Number=Sing	
-és	és	CONJ	_	
-csőkészlet	csőkészlet	NOUN	Case=Nom|Number=Sing	
-beszerzéséhez	beszerzés	NOUN	Case=All|Number=Sing|Number[psor]=Sing|Person[psor]=3	
--	-	PUNCT	_	
-azzal	az	PRON	Case=Ins|Number=Sing|Person=3|PronType=Dem	
-,	,	PUNCT	_	
-hogy	hogy	SCONJ	_	
-az	az	DET	Definite=Def|PronType=Art	
-előírt	előírt	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPast	
-mennyiségektől	mennyiség	NOUN	Case=Abl|Number=Plur	
--	-	PUNCT	_	
-az	az	DET	Definite=Def|PronType=Art	
-egységár	egységár	NOUN	Case=Nom|Number=Sing	
-vagy	vagy	CONJ	_	
-más	más	PRON	Case=Nom|Number=Sing|Person=3|PronType=Ind	
-szerződéses	szerződéses	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-feltételek	feltétel	NOUN	Case=Nom|Number=Plur	
-módosítása	módosítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-nélkül	nélkül	ADP	_	
--	-	PUNCT	_	
-Ajánlatkérő	ajánlatkérő	NOUN	Case=Nom|Number=Sing	
-mínusz	mínusz	NOUN	Case=Nom|Number=Sing	
-30	30	NUM	Case=Nom|NumType=Card|Number=Sing	
-%	%	PUNCT	_	
--	-	PUNCT	_	
-kal		NOUN	Case=Ins|Number=Sing	
-eltérhet	eltér	VERB	Definite=Ind|Mood=Pot|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:060abc011083f6bae74355ce9c5d40d885a18031977c79d3acc0b9983afefe5b
+size 1517

@@ -1,1 +1,3 @@
-Bűnügyi technikai szakanyagok – DNS rögzítő eszközök és egységcsomagok – beszerzése keretmegállapodás keretében 3 részben. 1. rész: Mintabiztosító eszköz biológiai anyagokhoz, anyagmaradványokhoz beszerzése keretmegállapodás keretében. 2. rész: Nem nyilvántartás köteles személytől történő DNS-mintavételhez szükséges egységcsomag beszerzése keretmegállapodás keretében. 3. rész: Terhelt személytől történő mintabiztosításhoz szükséges DNS-mintavételi egységcsomag beszerzése keretmegállapodás keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b02451af907ac9d3fac6e7d72ff54f25a2a611709ffa4ecf26e36fac0d1434e3
+size 565

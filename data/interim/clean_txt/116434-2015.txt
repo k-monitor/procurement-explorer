@@ -1,1 +1,3 @@
-vállalkozási szerződés a 2007-2013-as programozási időszak végrehajtási szempontú elemzési feladat ellátás tárgy
+version https://git-lfs.github.com/spec/v1
+oid sha256:b6923981a3493102e1d685d0ecf62149bfd35704fc338713cab0878cecade614
+size 125

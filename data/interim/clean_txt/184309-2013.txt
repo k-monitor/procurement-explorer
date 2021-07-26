@@ -1,4 +1,3 @@
-szállítási keretszerződés
-különféle gyógyszerkészítmény beszerzés
-misszió
-szállítás tárgy
+version https://git-lfs.github.com/spec/v1
+oid sha256:f007f01354c7148b26e927625ce4d657ed8decc552672b4f09a823272a876220
+size 107

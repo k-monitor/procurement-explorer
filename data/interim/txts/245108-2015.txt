@@ -1,1 +1,3 @@
-Sport eszközök beszerzése, installálása a Magyar Asztalitenisz Szövetség részére.
+version https://git-lfs.github.com/spec/v1
+oid sha256:945c186b4a5a968e3a25d9148e173548d94a45106496a2b2ae9548f2a948201b
+size 90

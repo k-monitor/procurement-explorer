@@ -1,1 +1,3 @@
-Adás-vételi szerződés KEOP-5.6.0/E/15 Egészségügyi eszközök energia-megtakarítást célzó beszerzésének támogatása című pályázati konstrukcióból képalkotó diagnosztikai eszközök beszerzése – feltételes közbeszerzési eljárásban röntgen berendezések beszerzése, valamint a fenntartási időszak végéig tartó jótállás és a napi működéshez szükséges tervszerű, megelőző karbantartási feladatok ellátása.
+version https://git-lfs.github.com/spec/v1
+oid sha256:721fffe0e2c6308fce6cd40afe78ab82521799320e5e6beafc26051647996236
+size 453

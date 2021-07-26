@@ -1,15 +1,3 @@
-a közúti központi információs rendszer
-a további
-kökir
-és kapcsolódó szakrendszer üzemeltetés
-alkalmazás-üzemeltetés
-support
-továbbá egyes fejlesztési feladat
-értékelési szempont a kbt. 76. §
-bekezdés c
-pont
-az értékelés sor adható pontszám alsó és felső határ
-módszer
-1. fordított arányosítás
-pontozás
-a módszer részletes ismertetés a közbeszerzési dokumentum kerül kifejtés
+version https://git-lfs.github.com/spec/v1
+oid sha256:5055dc11da62b43fa9dd67c1fe73c8434675408c2b3664fa71d0cd58f43175e6
+size 420

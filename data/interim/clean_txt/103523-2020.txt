@@ -1,1 +1,3 @@
-vízvezeték
+version https://git-lfs.github.com/spec/v1
+oid sha256:0244676b3a30995680564c3b49fe301d6e7b315ae86a2b163df89dd0c9a26fce
+size 12

@@ -1,1 +1,3 @@
-Új kommunális haszongépjárművek beszerzése zárt végű pénzügyi lízing keretén belül” 1. rész: — 1 db új 10 (5/5) m3-es tartályosztású kombinált csatornatisztító célgép szállítása az ajánlatkérési dokumentáció műszaki leírásában foglaltak szerint, és forgalomba helyezéssel történő átadása lízingszerződés keretében. 2. rész: — 1 db új 5 m3-es tartályú szippantó célgép szállítása az ajánlatkérési dokumentáció műszaki leírásában foglaltak szerint, és forgalomba helyezéssel történő átadása lízingszerződés keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2babbee6fedecd6e44482a49f9423c710dd516587d40636467de0369ec361273
+size 598

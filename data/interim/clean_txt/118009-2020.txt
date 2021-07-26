@@ -1,3 +1,3 @@
-adás-vételi szerződés keret ajánlatkérő az intézmény részére hónap szükséges
-a saját tulajdon lévő készülék szükséges apheresis szerelék kíván megvásárol db apheresis készülék használat adás együtt
-új vagy legfeljebb éves készülék helyezhető ki
+version https://git-lfs.github.com/spec/v1
+oid sha256:e7dc2fa0c6c1afec94f76ee4987ccabd2d87ae74965c061208999036e6f8dc7c
+size 283

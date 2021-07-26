@@ -1,2 +1,3 @@
-vállalkozási keretszerződés az 1. sz. sebészeti klinika épület teljes körű takarítás
-vállalkozási keretszerződés a ii
+version https://git-lfs.github.com/spec/v1
+oid sha256:bbfd228fe012911f26bec1aecc2fb072453968609f223251da504cd494676d8a
+size 132

@@ -1,1 +1,3 @@
-A Diákhitel Központ Zrt. finanszírozási biztonságához szükséges készenléti hitel megállapodás 10.3.2014. napjától 9.3.2015. napjáig: — 1. rész tekintetében: 6 000 000 000 HUF, azaz hatmilliárd forint keretösszegű, újrafeltöltődő jellegű, készenléti hitel nyújtása, állami készfizető kezességvállalással, hitelszerződés keretében. — 2. rész tekintetében: 4 000 000 000 HUF, azaz négymilliárd forint keretösszegű, újrafeltöltődő jellegű, készenléti hitel nyújtása, állami készfizető kezességvállalással, hitelszerződés keretében. — 3. rész tekintetében: 2 500 000 000 HUF, azaz kettőmilliárd-ötszázmillió forint keretösszegű, újrafeltöltődő jellegű, készenléti hitel nyújtása, állami készfizető kezességvállalással, hitelszerződés keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cb912c99e9c1f3f5ff33ea82840dab7cbc7acf5d81dcc6a4dba216aae9ac98b9
+size 834

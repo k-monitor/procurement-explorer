@@ -1,2 +1,3 @@
-mátrai gyógyintézet
-gyógyszer beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:2327d87b268908ec247c4b351e148657bd9febb4ccf549fc1dc62360c57bf983
+size 44

@@ -1,13 +1,3 @@
-adásvételi szerződés
-efop-2
-járóbeteg szakellátó szolgáltatás fejlesztés pályázat keret orvosi berendezés
-eszköz leszállítás
-üzem helyezés és jótállás biztosítás
-a szigetvári kórház az efop-2
-járóbeteg szakellátó szolgáltatás fejlesztés pályázat keret adásvételi szerződés kíván köt különböző kórházi eszköz
-berendezés beszerzés
-mely közvetlen kapcsolódó szolgáltatás is teljesít kell
-a beszerzés rész áll
-1. diagnosztikai röntgen sugárzás alapelvű eszköz ii
-egyéb diagnosztikai és kiegészítő eszköz lát
-rész
+version https://git-lfs.github.com/spec/v1
+oid sha256:31af740c63618fcaf7625d71fdeed76751621ece5b3afb47b27c0648bc351fd5
+size 584

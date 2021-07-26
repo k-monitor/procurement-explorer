@@ -1,1 +1,3 @@
-Szállítási keretszerződés alapján képalkotó diagnosztikai eszközök beszerzése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dca71a8fbca6a1e2342e211e949be47813dc4bfe492b4b87f79fb5886bf40f2f
+size 89

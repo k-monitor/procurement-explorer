@@ -1,15 +1,3 @@
-budapest v. kálmán imre utca 20. szám alatti ingatlan oktatási intézmény szerinti funkció kialakítás ii
-ütem kapcsolódó műszaki ellenőrzési feladat ellátás
-részajánlattétel kizárás indokolás
-a szolgáltatás lényeg
-hogy a szakcég műszaki ellenőr a jogszabály és a megrendelői igény megfelelő elvégez a műszaki ellenőrzési tevékenység
-biztosít a folyamat összhang
-a szolgáltatás természet nem tesz lehető az rész bontás
-részajánlattételi lehetőség biztosítás
-ajánlati biztosíték befizetés hely
-pénzügyi intézmény vagy pénzforgalmi intézmény
-ajánlatkérő számlaszám
-10300002-10620737-49020012
-mkb bank
-a befizetés igazolási mód
-a befizetés igazoló okirat benyújtás
+version https://git-lfs.github.com/spec/v1
+oid sha256:a9be94679f0170f44c44b0e425914fdfdbf8d02f22d981abfab90148a9245ca5
+size 737

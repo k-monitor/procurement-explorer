@@ -1,27 +1,3 @@
-Általános	általános	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-felhasználású	felhasználású	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-villamos	villamos	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-energia	energia	NOUN	Case=Nom|Number=Sing	
-értékesítése	értékesítés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-a	a	DET	Definite=Def|PronType=Art	
-1.1.2020	1.1.2020	PROPN	Case=Nom|Number=Sing	
-00	00	NUM	Case=Nom|NumType=Card|Number=Sing	
-:	:	PUNCT	_	
-00	00	NUM	Case=Nom|NumType=Card|Number=Sing	
-CET	cet	NOUN	Case=Nom|Number=Sing	
--	-	PUNCT	_	
-31.12.2020	31.12.2020	NUM	Case=Nom|NumType[sem]=Dot|Number=Sing	
-24	24	NUM	Case=Nom|NumType=Card|Number=Sing	
-:	:	PUNCT	_	
-00	00	NUM	Case=Nom|NumType=Card|Number=Sing	
-CET	cet	NOUN	Case=Nom|Number=Sing	
-közötti	közötti	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-időszakban	időszak	NOUN	Case=Ine|Number=Sing	
-teljes	teljes	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-ellátás	ellátás	NOUN	Case=Nom|Number=Sing	
-alapú	alapú	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-villamosenergia-kereskedelmi	villamosenergia-kereskedelmi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:d0ab2528aa3de578ff5f62d307681859be131cb0b3895c73ed9331c1f0edb76b
+size 1249

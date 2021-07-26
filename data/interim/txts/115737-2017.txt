@@ -1,1 +1,3 @@
-Vállalkozási szerződés szemészeti műlencse és műtéti csomagok szállítására.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ba7d8c6883146884cb01a81669bd74b57528f4632d39fdc12f1d3e6bc3d0167e
+size 88

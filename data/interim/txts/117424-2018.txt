@@ -1,1 +1,3 @@
-A Debreceni Nemzetközi Repülőtér technikai fejlesztése projekt tervezési feladatainak ellátása.
+version https://git-lfs.github.com/spec/v1
+oid sha256:163cf34e779d2046774665844744540629befdf4c732414fd2a098dc18b4f984
+size 103

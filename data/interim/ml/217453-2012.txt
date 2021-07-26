@@ -1,23 +1,3 @@
-Építési	építési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-,	,	PUNCT	_	
-melynek	mely	PRON	Case=Gen|Number=Sing|Person=3|PronType=Rel	
-tárgya	tárgy	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-"	"	PUNCT	_	
-Fővárosi	Fővárosi	PROPN	Case=Nom|Number=Sing	
-Önkormányzat	Önkormányzat	PROPN	Case=Nom|Number=Sing	
-Városligeti	városligeti	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-Műjégpálya	műjégpálya	NOUN	Case=Nom|Number=Sing	
-pálya	pálya	NOUN	Case=Nom|Number=Sing	
--	-	PUNCT	_	
-és	és	CONJ	_	
-épületegyüttes	épületegyüttes	NOUN	Case=Nom|Number=Sing	
-rekonstrukció	rekonstrukció	NOUN	Case=Nom|Number=Sing	
-kivitelezése	kivitelezés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
--	-	PUNCT	_	
-befejező	befejező	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-építési	építési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-munkák	munka	NOUN	Case=Nom|Number=Plur	
-"	"	PUNCT	_	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:942b433b335e30bf80992e9cba784926967541eab9ec1a7df543a52be5e1a2c1
+size 991

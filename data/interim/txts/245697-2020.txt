@@ -1,1 +1,3 @@
-Oktatástechnológiai eszközök.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ed14ea1c3a6e836c2d2dc50984e4f632db9c2acd790a26bab0a0cc11467e788a
+size 33

@@ -1,2 +1,3 @@
-dek-568 adásvételi keretszerződés debreceni egyetem részére cseppfolyós oxigén
-és palackos gáz beszerzés mindösszesen rész
+version https://git-lfs.github.com/spec/v1
+oid sha256:77e1f66f6bccb1fa4ea8383e68e218fc42321d3d10b16790f31def5465532cbb
+size 135

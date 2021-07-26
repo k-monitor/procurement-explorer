@@ -1,1 +1,3 @@
-Balesetveszélyes fák kivágása - havária
+version https://git-lfs.github.com/spec/v1
+oid sha256:d9204e6efe1fe61dae836c75f015535cdf8539a26d218386c234d08faa2f5a58
+size 44

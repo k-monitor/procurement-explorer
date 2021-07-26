@@ -1,1 +1,3 @@
-Dózsa György úti óvoda energetikai és infrastrukturális korszerűsítése a TOP-6.5.1-16-MI1-2017-00013 és TOP-6.2.1-16-MI1-2017-00009 pályázat keretében és a Kassai úti óvoda energetikai és infrastrukturális korszerűsítése TOP-6.5.1-16-MI1-2017-00014 és TOP-6.2.1-16-MI1-2017-00005 pályázat keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f67e91e805f456e9e76b204be859706bd72192ba07e643c019f5d5ee801881d8
+size 324

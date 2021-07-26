@@ -1,1 +1,3 @@
-Poroszló – Tiszafüred közötti kerékpárút megvalósítása. A tárgyban meghatározott építési beruházás oszthatatlan szolgáltatásnak minősül.
+version https://git-lfs.github.com/spec/v1
+oid sha256:24b9922f6ab600b6c8581906cf2ce158a0c6833ca685cfad6bfbc36459ff3b25
+size 159

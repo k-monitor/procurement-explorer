@@ -1,1 +1,3 @@
-Vállalkozási szerződés keretében Heves közigazgatási területén lévő közintézmények részére közétkeztetési szolgáltatás nyújtása a mindenkor hatályos, vonatkozó jogszabályi előírások alapján, az ellátásához szükséges gépek, berendezések és eszközök biztosításával (uniós értékhatárt elérő értékű Kbt. 3. melléklete szerinti szolgáltatás)
+version https://git-lfs.github.com/spec/v1
+oid sha256:3db0bbcd75504a529320e8f1adfa949eb299d75e15d15311d0acc95aedaa4c6f
+size 391

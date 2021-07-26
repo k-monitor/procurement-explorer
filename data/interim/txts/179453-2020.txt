@@ -1,1 +1,3 @@
-C-ROADS elektromos berendezések beszerzése és telepítése
+version https://git-lfs.github.com/spec/v1
+oid sha256:b0d5edf72e5609c44c2bbb238f065c54b8fc5cf1f4c91cb148e183ba2b09d753
+size 61

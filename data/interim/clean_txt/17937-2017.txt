@@ -1,14 +1,3 @@
-a beszerzés tárgy
-szolgáltatási szerződés alap on-line bankkártyás fizetés
-vpos
-szükséges banki szolgáltatás megrendelés
-a részletes követelmény a közbeszerzési műszaki leírás tartalmaz
-a beszerzés mennyiség
-on-line bankkártyás fizetés
-vpos
-szükséges banki szolgáltatás megrendelés
-minősített banki fizető oldal biztosítás
-kiemelt támogatás nyújtás a szolgáltatás tesztelés és bevezetés sor
-helpdesk szolgáltatás
-konzultációs lehetőség biztosítás
-becsült tranzakció szám a szerződés tervezett időtartam alatt
+version https://git-lfs.github.com/spec/v1
+oid sha256:2defb3285d22b5facd2c5a90d4fce51836fcb1ace1cc19ddf635d1215ee6d55e
+size 568

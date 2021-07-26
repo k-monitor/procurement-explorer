@@ -1,1 +1,3 @@
-SCIENCE múzeum részére szállítási szerződés keretében színpadtechnikai emelőberendezés és nézőtéri pódium.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d2df90a6abcaa90ca19ed2ec172bb4078bb7cbde8b686692d0559b638ecf0e8b
+size 123

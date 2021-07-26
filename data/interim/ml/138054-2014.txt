@@ -1,18 +1,3 @@
-Keretmegállapodás	keretmegállapodás	NOUN	Case=Nom|Number=Sing	
-megkötése	megkötés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-a	a	DET	Definite=Def|PronType=Art	
-Semmelweis	Semmelweis	PROPN	Case=Nom|Number=Sing	
-Egyetem	Egyetem	PROPN	Case=Nom|Number=Sing	
-vagyonkezelésében	vagyonkezelés	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-lévő	lévő	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-ingatlanokon	ingatlan	NOUN	Case=Sup|Number=Plur	
-építési	építési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-jellegű	jellegű	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-eseti	eseti	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-és	és	CONJ	_	
-ütemezett	ütemezett	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPast	
-karbantartási	karbantartási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-tevékenység	tevékenység	NOUN	Case=Nom|Number=Sing	
-végzésére	végzés	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:b7894e0f236f00166373df4a6c4b9a82e3d8d693d7305b85f5e71752287114f3
+size 966

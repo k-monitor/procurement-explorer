@@ -1,1 +1,3 @@
-tonna feletti köztisztasági feladat ellátó célgép szállítás
+version https://git-lfs.github.com/spec/v1
+oid sha256:598199f6921bb5cf7e4884bd5ba1d110e0f81a8a3f9287ee390c03898376fdef
+size 68

@@ -1,8 +1,3 @@
-vállalkozási szerződés terápiás készülék javítás
-szervizelés tárgy
-az ajánlatkérő
-full
-szerződés kér ajánlat
-az ajánlattevő a szerződés keret folyamatos el kell végez és dokumentál az
-egészségügyi eszköz
-jogszabály által előírt biztonsági felülvizsgálat
+version https://git-lfs.github.com/spec/v1
+oid sha256:aaa2f21d1595b1477589ef4a385d9672488d631fd05e8b7e50a5a16a41d9000d
+size 291

@@ -1,1 +1,3 @@
-Szolgáltatási szerződés a Nemzeti Adó- és Vámhivatal tulajdonában lévő Oracle licencek frissítése, megújítása (reinstatement), műszaki támogatása és karbantartása (support) tárgyú szolgáltatás nyújtására a dokumentációban részletezettek szerint.
+version https://git-lfs.github.com/spec/v1
+oid sha256:16b462669d31f2db92524f72047614a10d48f86d2d539f141d9399f271500035
+size 275

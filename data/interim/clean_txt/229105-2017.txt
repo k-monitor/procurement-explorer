@@ -1,9 +1,3 @@
-adásvételi keretszerződés keret msz en
-szabvány 4.3
-táblázat 1. típus
-és ugyanazon szabvány 4.4 táblázat 1. típus megfelelő
-os vas
-iii
-klorid oldat szállítás összesen kg mennyiség
-mely mennyiség felül kg mennyiség lehívás opcionális
-a részletes műszaki feltétel a közbeszerzési dokumentum tartalmaz
+version https://git-lfs.github.com/spec/v1
+oid sha256:9f02945c23c2bceaf3baff192bd5b4aa49fdb1a33b60fc3d97bb867f6a34fbbe
+size 328

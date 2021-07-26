@@ -1,1 +1,3 @@
-2016. évi Mikrocenzus, és 2016. decemberi mezőgazdasági összeírások elvégzéséhez összeírói gépek szállítása adásvételi szerződés keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0c30ed8e08e0afe61e45585e37bdbc4e1f0a598cb818a54ce35665eb68bd1159
+size 161

@@ -1,2 +1,3 @@
-keretmegállapodás megkötés derecske város önkormányzata részére mérnöki
-műszaki tanácsadói szolgáltatás megbízási szerződés keret történő elvégzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:76c1c6078b44c9801ce558ecf2ab889f127bb99c48178dab2ed47599723f8f5d
+size 171

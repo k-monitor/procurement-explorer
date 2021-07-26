@@ -1,6 +1,3 @@
-vállalkozási szerződés a
-elte épület energetikai fejlesztés
-című
-kehop-5
-2.2
-16-2017-00112 azonosító számú projekt keret az elte gyertyánffy 1. gyakorló ál
+version https://git-lfs.github.com/spec/v1
+oid sha256:7a72fddff8791dc446d3a9758ef58a1174f4f5aba990c9c158c7e868185bc98e
+size 171

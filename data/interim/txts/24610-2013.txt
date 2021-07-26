@@ -1,1 +1,3 @@
-Szállítási keretszerződés az ajánlatkérési dokumentáció részét képező ártáblázatban meghatározott vagy műszakilag azzal egyenértékű tisztítószerek, tisztító eszközök, munkavédelmi szerek és tisztasági papíráru beszerzésére az alábbiak szerint: 1. sz. rész: Tisztítószerek, tisztítóeszközök, 2. sz. rész: Munkavédelmi célú termékek, 3. sz. rész: Papíráruk.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ddc12428520d3fc2506ac13841570cf94580933b7f3b509dae1d3c57e252d46d
+size 406

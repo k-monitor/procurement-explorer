@@ -1,1 +1,3 @@
-földgáz adásvételi szerződés ajánlatkérő fogyasztási hely ellátás a 2014-2015-ös gázév
+version https://git-lfs.github.com/spec/v1
+oid sha256:2c05b2955f71585d2ed80350928fe9a2a5b69dcdd63be5b7d0f764ec70603c21
+size 101

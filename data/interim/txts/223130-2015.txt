@@ -1,1 +1,3 @@
-Megbízási szerződés a Magyar Művészeti Akadémia Irodaházának teljeskörű tervezési és tervezői művezetési feladatainak ellátására.
+version https://git-lfs.github.com/spec/v1
+oid sha256:af3d9be3bffe02a6704601ae3b3c27c6e6b37941b1b3cef9cb68aa5ee0f20715
+size 148

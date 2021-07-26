@@ -1,1 +1,3 @@
-Gazdálkodó szervezetekkel kapcsolatos települési szilárd hulladékkezelési részfeladatok (gyűjtés, szállítás) ellátása I.
+version https://git-lfs.github.com/spec/v1
+oid sha256:49da088795ad86369e709351d9388b37517b9a5c1925297651994ce5fd05419a
+size 135

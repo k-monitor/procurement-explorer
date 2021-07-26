@@ -1,1 +1,3 @@
-„Debreceni Járásbíróság új épületének megvalósítása” megnevezésű beruházás kivitelezési munkái vállalkozási szerződés keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7c694f0be4d50f6c87ba60ddd81c4fcef712fcfbe9cbf4144c1f091bfbbc0c26
+size 155

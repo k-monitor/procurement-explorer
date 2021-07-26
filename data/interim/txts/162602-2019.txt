@@ -1,1 +1,3 @@
-Vagyon- és felelősségbiztosítás; utas-és balesetbiztosítás; gépjármű felelősségbiztosítás valamint CASCO biztosítás megrendelése a Szegedi Tudományegyetem részére 5 részajánlati körben, jelen felhívásban és a közbeszerzési dokumentumokban részletezettek szerint.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a675b7907b8519e88feac06faafd3e21e4adbd8c77e799f3759b862f231a4e52
+size 292

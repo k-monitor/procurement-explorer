@@ -1,1 +1,3 @@
-a bábolna nemzeti ménesbirt részére villamos energia beszerzés 2018. július 1. 2019. június 30. terjedő időszak
+version https://git-lfs.github.com/spec/v1
+oid sha256:ed8d8a72384c0062d798100431d18e24f15be3e6bd1adedd34ca2052190ae72f
+size 120

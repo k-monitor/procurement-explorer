@@ -1,1 +1,3 @@
-Közétkeztetés ellátása Dombóvár Városában vállalkozási szerződés keretén belül infrastrukturális beruházások elvégzésével.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4924bffc939b86d6c65cd8b4be9a34f255c1bfd87808346578af904050c0e6ef
+size 143

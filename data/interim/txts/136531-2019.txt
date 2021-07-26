@@ -1,1 +1,3 @@
-Keretmegállapodás alapján út, csapadékvíz elvezetés, csatorna és egyéb tervezési feladatok ellátása Budapest XXI. Kerület Csepel Önkormányzata részére
+version https://git-lfs.github.com/spec/v1
+oid sha256:334ef9524b97bb5405ea5a8df4f6e32a51a54b357e9087bfb64fba8f9a57f7ca
+size 167

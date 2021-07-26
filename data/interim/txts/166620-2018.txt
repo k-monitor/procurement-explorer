@@ -1,1 +1,3 @@
-Adásvételi szerződés pótkocsik beszerzésére. 1. rész: Adásvételi keretszerződés 35 db Pótkocsi I. beszerzésére 2. rész: Adásvételi keretszerződés 21 db Pótkocsi II. beszerzésére 3. rész: Adásvételi keretszerződés 6 db Tandem pótkocsi beszerzésére
+version https://git-lfs.github.com/spec/v1
+oid sha256:988da2fcba781a1305f17216ab44c34cb90d736d9b8e6e90726b5091618196a3
+size 277

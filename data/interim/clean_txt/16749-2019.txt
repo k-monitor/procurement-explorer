@@ -1,1 +1,3 @@
-balesetveszélyes fa kivágás
+version https://git-lfs.github.com/spec/v1
+oid sha256:65393bace7ecc58ff916dc608311334e4f01c60c5360b100586e67c2501dec5a
+size 30

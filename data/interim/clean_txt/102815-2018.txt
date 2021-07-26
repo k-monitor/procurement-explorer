@@ -1,5 +1,3 @@
-betegleolvasó
-mobil
-betegérzékelő karszalag és betegazonosító rendszer szállítás
-illesztés
-és bevezetés a keszthelyi kórház részére
+version https://git-lfs.github.com/spec/v1
+oid sha256:52c4c265de83da7d751245612a204ff778f9380c43980ceaf33c5db91fe8eb49
+size 148

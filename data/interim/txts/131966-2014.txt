@@ -1,1 +1,3 @@
-1. rész: Vállalkozási keretszerződés a recski vízkezelő üzem víztisztítási technológiájában keletkező nehézfémekkel erősen szennyezett EWC 191305* besorolású, részlegesen víztelenített (szárazanyag-tartalom 30-40 m/m%) iszap elszállítása, előkezelése és veszélyes hulladék lerakóba történő szállítása a vonatkozó jogszabályoknak megfelelően. 2. rész: Vállalkozási keretszerződés ipari szennyvíztisztító telepen keletkező szennyvíziszap átvételére, elszállítására és ártalmatlanítására, vagy hasznosítással történő kezelésére a vonatkozó jogszabályoknak megfelelően.
+version https://git-lfs.github.com/spec/v1
+oid sha256:45ef48dd74a81f1a330c5a2418dafbe089eca6c95720808a2d90d845fc72182d
+size 639

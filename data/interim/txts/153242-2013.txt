@@ -1,1 +1,3 @@
-Szolgáltatási keretszerződés - Generátor karbantartása.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8bc896984a5bef6395c70a45917b8713a0d890bf12d943799df89962d6441330
+size 61

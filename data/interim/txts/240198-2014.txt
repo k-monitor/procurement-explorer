@@ -1,1 +1,3 @@
-Szállítási szerződés 1 db új pásztázó elektronmikroszkóp és tartozékai beszerzésére. A beszerzés tárgya 1 db téremissziós kiépítésű, alacsony vákuumú üzemmódban is működni képes pásztázó elektronmikroszkóp. A mikroszkópnak a hagyományos nagyvákuumos üzemmódban legalább 2 nm-es, az alacsony vákuumú üzemmódban legalább 5 nm-es felbontással kell tudni képet alkotni a vizsgált felület topológiájáról.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e30f5325852d80166230d00a44edac6394a95938187c91cda49de243ac67e434
+size 451

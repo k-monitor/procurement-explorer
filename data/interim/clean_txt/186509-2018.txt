@@ -1,7 +1,3 @@
-nyertes ajánlattevő feladat
-az 1. rész darab n1 vagy m1 kategóriájú
-minimum fő szállítás alkalmas gépjármű szállítás
-a 2. rész darab m1 kategóriájú
-fő szállítás alkalmas áruszállító
-egyterű vagy kisbusz jellegű gépjármű szállítás
-a közbeszerzési műszaki leírás foglalt szerint
+version https://git-lfs.github.com/spec/v1
+oid sha256:b397c1d903aad09e0087a5268d23969b3bb6f0281bc2419e62e86ed39f0f0134
+size 317

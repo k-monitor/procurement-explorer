@@ -1,1 +1,3 @@
-esztergom város önkormányzat tulajdon lévő ingatlan őrzési tevékenység ellátás szolgáltatási szerződés keret a szerződés aláírás számított hónap időtartam
+version https://git-lfs.github.com/spec/v1
+oid sha256:d307ea555d8110d103813ff77c80b857b8c5df85553431ea358ad1edcdd327fe
+size 178

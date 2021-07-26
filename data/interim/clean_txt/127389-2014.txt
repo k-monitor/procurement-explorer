@@ -1,5 +1,3 @@
-a kef üzemeltetési tevékenység alá tartozó intézmény részére év szállítási szerződés tekintet az alábbi rész szerint
-1. rész
-irodai papíripari termék
-2. rész
-irodaszer
+version https://git-lfs.github.com/spec/v1
+oid sha256:e3c92718b0854a7754c6c5f61060ca4c8c45715ed78ff82b46c2e08ec5ce3660
+size 189

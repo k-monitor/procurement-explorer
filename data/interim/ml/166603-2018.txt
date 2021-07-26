@@ -1,12 +1,3 @@
-Ajánlatkérő	ajánlatkérő	NOUN	Case=Nom|Number=Sing	
-részére	részére	ADP	_	
-kórházi	kórházi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-ágyak	ágy	NOUN	Case=Nom|Number=Plur	
-és	és	CONJ	_	
-kúraszékek	kúraszék	NOUN	Case=Nom|Number=Plur	
-beszerzésére	beszerzés	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-vonatkozó	vonatkozó	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-adásvételi	adásvételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:f8bbe36843d6f2590801b5c1a50277dcb36a807947848a9b595d4361feed28e7
+size 538

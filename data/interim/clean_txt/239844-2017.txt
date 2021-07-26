@@ -1,2 +1,3 @@
-a hír-közmű 1.0 e-terv rendszer és az autocad map3d tervezői segédprogram kifejlesztés
-üzem helyezés és alkalmazás-támogatás vállalkozási szerződés keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:aa582726f819b20c905477f6f14c00f637ef78f8d2d7de8eaccfcc7b0edde095
+size 170

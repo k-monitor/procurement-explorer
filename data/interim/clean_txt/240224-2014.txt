@@ -1,1 +1,3 @@
-adásvételi szerződés a gépjármű beszerzés tárgy
+version https://git-lfs.github.com/spec/v1
+oid sha256:bcc734613cc0486662e5de15e8c0badabcdb52cb0d87267b6b94cb486ca39254
+size 56

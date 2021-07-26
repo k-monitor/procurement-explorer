@@ -1,1 +1,3 @@
-Határozott időtartamra szóló vállalkozási keretszerződés keretében a 2013-as felsőoktatási felvételi eljárás hivatalos és tájékoztató kiadványainak, valamint jelentkezési lapjainak nyomdai kivitelezése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0326e654a6bea1f6a936e1b48180011c0c35b13c9a00571d524b3af7ecc4c60e
+size 223

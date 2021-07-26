@@ -1,1 +1,3 @@
-Adásvételi szerződés hús és húskészítmények élelmiszer alapanyag beszerzésére.
+version https://git-lfs.github.com/spec/v1
+oid sha256:aec547d5af626ec0c3e505151ecd152189d2b038a01eacbbbf8255942af6aa95
+size 91

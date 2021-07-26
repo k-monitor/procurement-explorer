@@ -1,19 +1,3 @@
-DEK-567	DEK-567	PROPN	Case=Nom|Number=Sing	
-_	_	X	_	
-Adásvételi	adásvételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-1	1	NUM	Case=Nom|NumType=Card|Number=Sing	
-db	db	NOUN	Case=Nom|Number=Sing	
-ultrahang	ultrahang	NOUN	Case=Nom|Number=Sing	
-készülék	készülék	NOUN	Case=Nom|Number=Sing	
-beszerzésére	beszerzés	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-a	a	DET	Definite=Def|PronType=Art	
-Debreceni	debreceni	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-Egyetem	Egyetem	PROPN	Case=Nom|Number=Sing	
-Klinikai	klinikai	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-Központ	Központ	PROPN	Case=Nom|Number=Sing	
-Sürgősségi	sürgősségi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-Klinika	Klinika	PROPN	Case=Nom|Number=Sing	
-részére	részére	ADP	_	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:067faadad7cd28ad2d614d30b567b59b7a51abae505410df6bc03484bdbf9d57
+size 814

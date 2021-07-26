@@ -1,24 +1,3 @@
-a városmajori szív
-és érgyógyászati klinika részére embolektómiás katéter
-érprotézis
-carotis shunt és pericardium folt beszerzés
-beszerzés mennyiség
-összesen db
-1. rész
-embolektómiás katéter 2. rész
-drót felvezethető embolektómiás katéter 3. rész
-dacron alapanyagú műér 4. rész
-polytetrafluoretilén
-ptfe
-alapanyagú
-külső erősítésű
-vékony falú műér 5. rész
-polytetrafluoretilén
-ptfe
-alapanyagú
-külső erősítésű
-vékony falú műér
-hepari bevonat 6. rész
-dacron alapanyagú antimikrobiális ezüst impregnált protézis 7. rész
-carotis műtét használatos shunt 8. rész
-pericardium készült folt érfal zárás
+version https://git-lfs.github.com/spec/v1
+oid sha256:41c5d86cc075a6120ba9e626593596b1ff5d00e37d9025f91ce1545c4ec14783
+size 667

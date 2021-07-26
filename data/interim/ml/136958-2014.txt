@@ -1,5 +1,3 @@
-Hulladékok	hulladék	NOUN	Case=Nom|Number=Plur	
-hasznosítása	hasznosítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-mechanikai	mechanikai	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-kezeléssel	kezelés	NOUN	Case=Ins|Number=Sing	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:a2b8c43bd141940d20c64a41bbd77bb7b8458b1e7d0d8b4c109069d99015e333
+size 246

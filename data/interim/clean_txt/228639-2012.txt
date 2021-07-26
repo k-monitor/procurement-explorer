@@ -1,2 +1,3 @@
-túlsúlyos jármű kiszűrés támogató rendszer kiépítés az eu belső határ megszűnés miatt
-m7 zalakomár iker-mérőállomás létesítés
+version https://git-lfs.github.com/spec/v1
+oid sha256:38538a6dd2a85523076a9a4e274fe30d6bba30dd35aa00ee186e394dcf6e607b
+size 148

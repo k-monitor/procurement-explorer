@@ -1,1 +1,3 @@
-nemzetközi együttműködési program második szintű projektellenőrzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:866e80d21d26e986d81cdc051939bbc246f684b7b3692b2c92f21d0e421f9d4f
+size 75

@@ -1,4 +1,3 @@
-a magyar export-import bank zrt. részére új
-azonos típusú és felszereltségű személygépkocsi beszerzés adásvétel keret
-további
-személygépkocsi beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:f249951cd4156f0d2ae0b773c1a5effce3f11689665ca9932a0fff96a5b17824
+size 168

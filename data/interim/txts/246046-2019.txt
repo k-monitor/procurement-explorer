@@ -1,1 +1,3 @@
-Kivitelezési közbeszerzés eljárás lefolytatása az ÁEEK Projektirányítási Igazgatóság által megvalósítandó kelet-magyarországi_1 kivitelezési eljárások tekintetében - 6 részben VI.4.3) folyt. 25. Ajánlatkérő a Kbt. 104. § (7) bek. alapján felhívja a figyelmet, hogy tárgyi beszerzés vonatkozásában korábban keretmegállapodást kötött. Ajánlatkérőnek az új eljárást megindító felhívásban utalnia kell arra a körülményre, hogy ugyanazon tárgyban már egy keretmegállapodás is megkötésre került, amelynek Ajánlatkérő ezúton tesz eleget, valamint hatályos keretmegállapodás esetén, az újonnan induló eljárás hirdetményének közzétételéről az ajánlatkérőnek haladéktalanul értesítenie kell a keretmegállapodást kötött ajánlattevőket, amely előírásnak Ajánlatkérő szintén eleget tesz.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a11d20c2aacd92994ab5b0be2a26781340bcb47bdc8f3946a783f9f903646f56
+size 869

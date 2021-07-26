@@ -1,1 +1,3 @@
-Orvosi kesztyűk beszerzése magyarországi fekvőbeteg ellátó intézmények részére - OT-002/2018/KM.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a84838fe8ead07edab830e3651ff763253487c6fd4f108d00b4524abf2d817d2
+size 106

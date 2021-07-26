@@ -1,12 +1,3 @@
-Licencek	licenc	NOUN	Case=Nom|Number=Plur	
-és	és	CONJ	_	
-üzemeltetéstámogató	üzemeltetéstámogató	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-eszközök	eszköz	NOUN	Case=Nom|Number=Plur	
-beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-adásvételi	adásvételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-3	3	NUM	Case=Nom|NumType=Card|Number=Sing	
-részben	rész	NOUN	Case=Ine|Number=Sing	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:66d3ca5c814e13b86bcf4c49824ec3298868029282a3410cd1105d3af7e1e49c
+size 563

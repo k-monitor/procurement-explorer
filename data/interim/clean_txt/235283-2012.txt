@@ -1,9 +1,3 @@
-fővállalkozási szerződés
-mta természettudományi kutatóközpont beruházás belső építészeti
-komfort gépészeti
-technológiai gépészeti
-erős és gyengeáram ellátási
-külsőközmű
-kert
-tereprendezési
-útépítési és térvilágítási kivitelezési munka
+version https://git-lfs.github.com/spec/v1
+oid sha256:8e29630b35ba54c4845900db071a97c396187ecd8c67d05b38c710407fd8e092
+size 274

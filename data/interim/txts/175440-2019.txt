@@ -1,1 +1,3 @@
-Gépjármű karbantartási keretszerződés
+version https://git-lfs.github.com/spec/v1
+oid sha256:bf031ed1239e7b5861656e04575aa7d9e49c46b9156bbb941ba7149f889caa92
+size 43

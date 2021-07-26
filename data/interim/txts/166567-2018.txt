@@ -1,1 +1,3 @@
-Adásvételi keretszerződés rövidtávú mechanikus keringéstámogató eszközök beszerzésére a Városmajori Szív- és Érgyógyászati Klinika részére: Az ajánlattétel tárgyát a keringéstámogató eszköz pumpafej modulja, illetve az ehhez tartozó csőkészlet és egyszer használatos implantációs segédeszközök jelentik. Teljes mennyiség a szerződés időtartamára: 32 db, ebből 4 db konszignációs raktárban. A keretszerződés időtartama 24 hónap 6 hónapos hosszabbítási lehetőséggel.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8dff7fee2900d367def8fcb10d7d223c1e5c802ab5f0d8ef65ae54b7dd86eed6
+size 522

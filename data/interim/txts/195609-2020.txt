@@ -1,1 +1,3 @@
-1 db busz beszerzése a „Rátgéber Kosárlabda Akadémia” Alapítvány részére a Közbeszerzési Dokumentumokban meghatározottak szerint.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f4533b97ff6b741cb7656e1f3a2df206960766ab8262c6ffb544283af6d0419c
+size 145

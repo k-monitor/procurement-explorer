@@ -1,24 +1,3 @@
-Az	az	DET	Definite=Def|PronType=Art	
-ajánlatkérő	ajánlatkérő	NOUN	Case=Nom|Number=Sing	
-tulajdonában	tulajdon	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-lévő	lévő	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-Tango	tango	NOUN	Case=Nom|Number=Sing	
-Optimo	Optimo	PROPN	Case=Nom|Number=Sing	
-vércsoportszerológiai	vércsoportszerológiai	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-automatákkal	automata	NOUN	Case=Ins|Number=Plur	
-(	(	PUNCT	_	
-gyártó	gyártó	NOUN	Case=Nom|Number=Sing	
-:	:	PUNCT	_	
-Bio-Rad	Bio-rad	NOUN	Case=Nom|Number=Sing	
-Laboratories	Laboratories	PROPN	Case=Nom|Number=Sing	
-,	,	PUNCT	_	
-Inc.	Inc.	PROPN	Case=Nom|Number=Sing	
-)	)	PUNCT	_	
-kompatibilis	kompatibilis	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-és	és	CONJ	_	
-validált	validált	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPast	
-reagens	reagens	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-készletek	készlet	NOUN	Case=Nom|Number=Plur	
-beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:3708b9def0263bc6da428ef77c07b2b61851e533e560e09b24529ef2037fdf74
+size 1045

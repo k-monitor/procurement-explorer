@@ -1,21 +1,3 @@
-Biztosítási	Biztosítási	PROPN	Case=Nom|Number=Sing	
-szerződések	szerződés	NOUN	Case=Nom|Number=Plur	
-a	a	DET	Definite=Def|PronType=Art	
-GYSEV	GYSEV	PROPN	Case=Nom|Number=Sing	
-cégcsoport	cégcsoport	NOUN	Case=Nom|Number=Sing	
-(	(	PUNCT	_	
-GYSEV	GYSEV	PROPN	Case=Nom|Number=Sing	
-Zrt	Zrt	PROPN	Case=Nom|Number=Sing	
-.	.	PUNCT	_	
-,	,	PUNCT	_	
-
-GYSEV	GYSEV	PROPN	Case=Nom|Number=Sing	
-Cargo	cargo	NOUN	Case=Nom|Number=Sing	
-Zrt.	Zrt.	PROPN	Case=Nom|Number=Sing	
-és	és	CONJ	_	
-FHÉV	FHÉV	PROPN	Case=Nom|Number=Sing	
-Zrt.	Zrt.	PROPN	Case=Nom|Number=Sing	
-)	)	PUNCT	_	
-részére	rész	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:275c4c3f171967121ede3560ccc1f9e8376c78e00dace6f0ec433362d395ba88
+size 665

@@ -1,33 +1,3 @@
-Keretmegállapodás	keretmegállapodás	NOUN	Case=Nom|Number=Sing	
-kötése	kötés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-a	a	DET	Definite=Def|PronType=Art	
-168	168	NUM	Case=Nom|NumType=Card|Number=Sing	
-/	/	PUNCT	_	
-2004.	2004.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
-
-(	(	PUNCT	_	
-V.	V.	PROPN	Case=Nom|Number=Sing	
-25.	25.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
-)	)	PUNCT	_	
-
-Korm	Korm	PROPN	Case=Nom|Number=Sing	
-.	.	PUNCT	_	
-rendelet	rendelet	NOUN	Case=Nom|Number=Sing	
-hatálya	hatály	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-alá	alá	ADP	_	
-tartozó	tartozó	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-,	,	PUNCT	_	
-illetve	illetve	CONJ	_	
-a	a	DET	Definite=Def|PronType=Art	
-központosított	központosított	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPast	
-közbeszerzési	közbeszerzési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-eljáráshoz	eljárás	NOUN	Case=All|Number=Sing	
-önként	önként	ADV	_	
-csatlakozó	csatlakozó	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-intézmények	intézmény	NOUN	Case=Nom|Number=Plur	
-részére	részére	ADP	_	
-mobiltelefonok	mobiltelefon	NOUN	Case=Nom|Number=Plur	
-beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-tárgyban	tárgy	NOUN	Case=Ine|Number=Sing	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:f4d0b6be49451a3407e6fdfd436d64594bb86c9d22db5e288d29d5269cf29f9e
+size 1320

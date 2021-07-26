@@ -1,1 +1,3 @@
-BKV Vasúti Járműjavító Kft. részére 49 féle fényezési segédanyag beszerzése a közbeszerzési dokumentumban részletesen meghatározott műszaki leírás szerint.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7cbc364452dfd2b1b231bd74d09576c733e54b82f1900d21a5c3fd79405afe80
+size 174

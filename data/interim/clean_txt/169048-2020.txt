@@ -1,9 +1,3 @@
-gazdálkodó szervezet kapcsolatos m3 és a ii
-pont meghatározott m3 opciós érték települési szilárd hulladékgazdálkodási részfeladat
-gyűjtés
-szállítás
-ellátás
-mely szolgáltató az által biztosított célgép
-eszköz
-műszaki leírás szerinti hulladékgyűjtő edényzettel
-kell végeznie
+version https://git-lfs.github.com/spec/v1
+oid sha256:248381107ed478e0d6698b36cdb1744a21250c4dd4ad01071598f1e7a3ca256c
+size 309

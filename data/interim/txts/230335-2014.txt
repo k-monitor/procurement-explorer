@@ -1,1 +1,3 @@
-Adás-vételi szerződés útszóró só beszerzésére
+version https://git-lfs.github.com/spec/v1
+oid sha256:ec540112e0deeb7cc115f0bbee15abe7826b03473eac3efdbd7f9d28cce640b5
+size 55

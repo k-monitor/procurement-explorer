@@ -1,9 +1,3 @@
-villamos energia értékesítési szerződés
-villamos energia szállítás
-nyertes ajánlattevő feladat a közös ajánlatkérő dokumentáció megjelölt csatlakozási pont részére 2013. január 01.
-óra 2013. december 31.
-óra teljes ellátás alapú szerződés keret történő villamos energia biztosítás
-az
-hogy a magyar közút nonprofit zrt. tekintet a villamos energia teljes ellátás alapú szerződés keret 2013. május 01.
-óra 2013. december 31.
-óra kell biztosít
+version https://git-lfs.github.com/spec/v1
+oid sha256:526962cc1f8ab13276b27e1ecb4dfa878bb162bdc94c51c5b525f3e6693fc37c
+size 486

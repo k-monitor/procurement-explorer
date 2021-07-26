@@ -1,15 +1,3 @@
-Megbízási	megbízási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-Zalaegerszeg	zalaegerszeg	NOUN	Case=Nom|Number=Sing	
-Megyei	Megyei	PROPN	Case=Nom|Number=Sing	
-Jogú	Jogú	PROPN	Case=Nom|Number=Sing	
-Város	Város	PROPN	Case=Nom|Number=Sing	
-Önkormányzata	Önkormányzata	PROPN	Case=Nom|Number=Sing	
-és	és	CONJ	_	
-intézményei	intézmény	NOUN	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3	
-részére	részére	ADP	_	
-számlavezetési	számlavezetési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szolgáltatás	szolgáltatás	NOUN	Case=Nom|Number=Sing	
-nyújtására	nyújtás	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:92a624ccc0238386e65b5e065e6c372f29a9611e32481ef71be2c7330be66da5
+size 704

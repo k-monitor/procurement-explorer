@@ -1,1 +1,3 @@
-Kijelölt Szervezet (DEBO) feladatok ellátása
+version https://git-lfs.github.com/spec/v1
+oid sha256:edee304001f578845c2014a74c74afc5db802a6e9176ebd8fb78bb905c8e3d15
+size 47

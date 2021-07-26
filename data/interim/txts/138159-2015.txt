@@ -1,1 +1,3 @@
-Szerződés megnevezése: Hitelszerződés Szerződés tárgya: „Éven túli futamidejű, 2 500 000 000 HUF összegű hitel nyújtása hitelszerződés keretében a TLA Kft. részére, építőipari kivitelezési tevékenység elvégeztetésével értéknövelő beruházások végrehajtásához szükséges forrás biztosítása érdekében”.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e2652e7771bc689f887d1de9004ba4d0d0f980a8744eecbbf60641c67a63003d
+size 347

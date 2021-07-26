@@ -1,4 +1,3 @@
-struktúraváltás támogató fejlesztés a gróf esterházy kórház
-elnevezésű tiop 2.2.6
-b-2013-0020 azonosítószámú projekt kapcsolódó radiológiai berendezés adásvétel és üzem helyezés
-valamint kezelés jegyzőkönyvezik oktatás
+version https://git-lfs.github.com/spec/v1
+oid sha256:6ea35eb6a4b84492c3cad5ee11b3a1f1a20edd29c6671071d21a3e4aee0aaf23
+size 247

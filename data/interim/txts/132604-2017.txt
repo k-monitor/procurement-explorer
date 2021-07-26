@@ -1,1 +1,3 @@
-Vállalkozási szerződés „Hirdetési és médiaszolgáltatások megrendelése, valamint médiatervezési és -vásárlási feladatok ellátása a Liszt Ferenc Zeneművészeti Egyetem részére” tárgyban.
+version https://git-lfs.github.com/spec/v1
+oid sha256:48210eb1c24aa9dcc239eb429adfcba2fb387f084a70d692d6d3dc265aa226cd
+size 210

@@ -1,1 +1,3 @@
-Öt évre szóló vállalkozási szerződés a „Debreceni Közterület Felügyelet által üzemeltetett, Debrecen közigazgatási területén lévő piacok, a hozzájuk tartozó kiszolgáló helyiségek folyamatos takarítása, hóeltakarítása, síkosságmentesítése, konténeres hulladékszállítás, az egyes piacokon lévő illemhelyek üzemeltetése és egyéb eseti jelleggel végzendő feladatok elvégzése”.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0e64e89709a5884581d9fcc273445400f71990c3f3a7a81498b2357ea28eff0e
+size 424

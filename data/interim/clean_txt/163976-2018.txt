@@ -1,15 +1,3 @@
-kutatási eszköz beszerzés a pécsi tudományegyetem részére a ginop-2
-2-15-2016-00039 pályázat keret
-a közbeszerzési dokumentáció meghatározott paraméter
-az alábbi szerint
-darab hűthető centrifuga
-darab géldokumentációs rendszer
-darab cserélhető blokkos pcr készülék
-darab cserélhető blokkos grádiens pcr készülék
-darab mintahelyes termoblokk
-darab mintahelyes termoblokk
-darab pcr fülke
-darab mikroliter többcsatornás pipetta
-darab mikroliter többcsatornás pipetta
-darab mikroliter többcsatornás pipetta
-ajánlattevő köteles elvégez az eszköz átadás-átvétel sor az ajánlatkérő által kijelölt személy felhasználói szintű oktatás is
+version https://git-lfs.github.com/spec/v1
+oid sha256:87ce4d132d33f7a16ae1f9f7385066a8c0174d2b43996148173490a5629ad76d
+size 686

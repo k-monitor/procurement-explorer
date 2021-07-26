@@ -1,12 +1,3 @@
-bácsalmás város szennyvízcsatornázás és szennyvíztisztítás
-című projekt
-keop 1.2.0
-09-11-2011-0021
-keret a mérnök
-fidic
-feladat ellátás és műszaki ellenőrzés biztosítás a
-2009.
-15.
-korm
-rendelet megfelelő
-a fidic piros és sárga könyv hivatalos magyar nyelvű fordítás szerint
+version https://git-lfs.github.com/spec/v1
+oid sha256:de70ff57e1b2c02fbe697acfe24146a33c771b9dbe6c79221bc260470057937c
+size 303

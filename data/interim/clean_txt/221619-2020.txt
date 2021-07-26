@@ -1,17 +1,3 @@
-dek-890 gerincimplantátum beszerzés konszignációs raktár üzemeltetés a debreceni egyetem klinikai központ idegsebészeti klinika és ortopédiai klinika részére 1. rész
-implantátum rendszer egyszerű scoliosis műtét 2. rész
-implantátum rendszer kiterjed nagy rotáció járó scoliosis műtét 3. rész
-hátsó rudas csavaros gerincimplantátum rendszer amely alkalmas gerinc tumor sebészeti kezelés
-4. rész
-elülső nyaki csigolyatest közti távtartó cage 5. rész
-early onset kezelés scoliosis gyermekkori műtéti megoldás alkalmas fúzió nélküli
-növekedő
-implantátumrendszer 6. rész
-hátsó craniocervicalis átmenet rögzítő rudas-csavaros rendszer 7. rész
-elülső nyaki gerincrögzítő lemezes rendszer 8. rész
-elülső nyaki csigolyatest pótló protézis 9. rész
-nyaki porckorong pótló 10. rész
-minimal invasive lumbalis xlif spacer 11. rész
-minimal invasive lumbar spacer folytatás a
-4.3
-pont
+version https://git-lfs.github.com/spec/v1
+oid sha256:0273614ff9d03d4f62ce0fc8fa189d3a0fdbebd2e033f102a4870183887fd35f
+size 943

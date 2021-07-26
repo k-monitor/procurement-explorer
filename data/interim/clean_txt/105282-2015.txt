@@ -1,4 +1,3 @@
-vállalkozási szerződés megkötés
-megvalósíthatósági tanulmány készítés és tervezési feladat elvégzés
-a honvédelmi minisztérium védelemgazdasági hivatal keop 7.9.0
-a konstrukció támogatás nyer pályázat keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:2f8955faed43a65c1ca67e03a487ea745a3a80ba2208ec601f2735cf6b399faa
+size 232

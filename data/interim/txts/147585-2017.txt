@@ -1,1 +1,3 @@
-Dialízis állomás működtetése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b23cc503b2ef711409d75eda6fe45e1b0363822f9abdc7dfb650acea17cde9f2
+size 35

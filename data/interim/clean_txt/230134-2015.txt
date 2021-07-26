@@ -1,16 +1,3 @@
-adásvételi szerződés a
-struktúraváltás támogatás a járó
-és fekvőbeteg-ellátás fejlesztés
-elnevezésű tiop 2.2.6
-1b-2013-0041 azonosítójú
-a kanizsai dorottya kórház járóbeteg ellátás fejlesztés
-című pályázati konstrukció kapcsolódó
-különféle orvostechnikai eszköz
-egyéb eszköz
-medikai bútorzat beszerzés
-üzem helyezési és betanítási kötelezettség
-rövid hivatkozás
-adásvételi szerződés különféle orvostechnikai eszköz
-egyéb eszköz
-medikai bútorzat beszerzés
-üzem helyezési és betanítási kötelezettség
+version https://git-lfs.github.com/spec/v1
+oid sha256:068321c7bf43e02e3b4ed30ea6bf6d92f77b0b122c45f8b2ba2eb19142a2f998
+size 568

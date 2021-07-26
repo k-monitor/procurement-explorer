@@ -1,5 +1,3 @@
-Villamos	Villamos	PROPN	Case=Nom|Number=Sing	
-energia	energia	NOUN	Case=Nom|Number=Sing	
-közbeszerzés	közbeszerzés	NOUN	Case=Nom|Number=Sing	
-2020	2020	NUM	Case=Nom|NumType=Card|Number=Sing	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:79d88f087d8761c91869ec1a9e69f35503dd150a94a8ba140edc616103ce40b4
+size 196

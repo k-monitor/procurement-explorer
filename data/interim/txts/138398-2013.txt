@@ -1,1 +1,3 @@
-A „Budapesti villamos és trolibusz járműfejlesztés I. ütem” keretében az akadálymentes közlekedést biztosító infrastruktúrának és a szükséges kocsiszínek fejlesztések megtervezése, egyesített engedélyezési és kiviteli tervek készítése, tervek engedélyeztetése, kivitelezési tenderdokumentáció elkészítése, és kivitelezés alatt tervezői művezetés ellátása vállalkozási szerződés keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:104051806df730a128ebd99ff4bdbbe134ce4c361d3344ace1cc8a40cf182ab3
+size 438

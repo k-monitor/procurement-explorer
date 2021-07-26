@@ -1,1 +1,3 @@
-A magyar hallgatói hitelrendszer forrásainak biztosítása, a diákhitelezési rendszer finanszírozásából, működtetéséből eredő fizetési kötelezettségek teljesítése céljából éven túli kölcsön nyújtása kölcsönszerződés keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9ea853060fd6f2a2b1c84d72434f6a265862bbfa9f19ed127fb9228d78aae05f
+size 259

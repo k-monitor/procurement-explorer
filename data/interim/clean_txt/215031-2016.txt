@@ -1,5 +1,3 @@
-meglévő symantec végpontvédelmi és titkosító licenc érvényesség meghosszabbítás 31.
-1. rész
-meglévő symantec végpontvédelmi licenc hosszabbítás
-2. rész
-meglévő symantec titkosító szoftverlicenc hosszabbítás
+version https://git-lfs.github.com/spec/v1
+oid sha256:50fba01c6a906f0af1c072a52c40be090d9c3ef6f04f33eda52926040f2f9b0f
+size 232

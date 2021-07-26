@@ -1,1 +1,3 @@
-Villamos energia beszerzése az ORFK és szervezeti egységei, intézményei részére.
+version https://git-lfs.github.com/spec/v1
+oid sha256:12bd92394455bcbeeb47976c3de0d8bdcad9c4b270d56a002d002797dc158f3c
+size 87

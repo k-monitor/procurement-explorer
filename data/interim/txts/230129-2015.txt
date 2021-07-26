@@ -1,1 +1,3 @@
-Szivattyúk szállítása („Állami tulajdonú árvízvédelmi konstrukció KEOP-2.1.1/B/15 számú, A vizek kártételeinek elhárítását szolgáló létesítmények fenntartását és az azokon történő védekezések végrehajtását szolgáló eszköz, gép és műszer beszerzés”) egyedi adásvételi szerződés keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8777db0ac680744c48afbcf03d9a69d7508fa89cc5b9d422537adb3a89780a16
+size 337

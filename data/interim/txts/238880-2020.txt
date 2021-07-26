@@ -1,1 +1,3 @@
-OKF 4 épület energetikai felújítása Részek száma: 4 rész 1 - OKF 4 épület energetikai felújítása - Győr 2 - OKF 4 épület energetikai felújítása - Szekszárd 3 - OKF 4 épület energetikai felújítása - Cegléd 4 - OKF 4 épület energetikai felújítása - Budapest X.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a0fd6a3fffc3fa80217042df20ec313a51b5fae3e1addaa3e5a99dc2d861125f
+size 289

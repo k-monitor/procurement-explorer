@@ -1,6 +1,3 @@
-vállalkozási szerződés keret a főváros terület lévő közcsatorna építési jellegű hibaelhárítási
-karbantartási munka elvégzés
-a keret-megállapodás meghatározott feltétel szerint a keret-megállapodás szerinti megrendelő általi közvetlen megrendelés útján
-kbt. 110. §
-bekezdés a
-pont
+version https://git-lfs.github.com/spec/v1
+oid sha256:63e76186a9124e953cfddc61b59000fd405b7df01a3a5ab900fff666eeef90f6
+size 313

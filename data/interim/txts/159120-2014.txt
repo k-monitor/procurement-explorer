@@ -1,1 +1,3 @@
-A Ptk. 6:231. § szerinti adásvételi szerződés orvostechnikai eszközök szállítására, üzembe helyezésére és javítására a jótállási időn belül az „Aktív ellátás centralizációja a Soproni Erzsébet Oktató Kórházban” című TIOP-2.2.4-09/1-2010-0012 azonosító számú projekt keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4999636ab4d4c0592dada7d606325fb9148dedc5e75c940ee73d280960837494
+size 319

@@ -1,8 +1,3 @@
-szállítási szerződés
-tárgy
-orosháza város önkormányzata és intézmény
-fogyasztási hely
-földgáz történő ellátás 2013.
-1-i gáznap kezdet a 2014.
-30-i gáznap vég
-teljes ellátásalapú szerződés keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:487cebf913835dbc12f7621d5cbf7c91975219e23a9cae62c47a2851c572e63f
+size 222

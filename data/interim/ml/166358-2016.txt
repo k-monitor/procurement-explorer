@@ -1,12 +1,3 @@
-Szálláshely	szálláshely	NOUN	Case=Nom|Number=Sing	
-szolgáltatás	szolgáltatás	NOUN	Case=Nom|Number=Sing	
-egyetemi	egyetemi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-hallgatók	hallgató	NOUN	Case=Nom|Number=Plur	
-részére	részére	ADP	_	
-,	,	PUNCT	_	
-maximum	maximum	ADV	_	
-3	3	NUM	Case=Nom|NumType=Card|Number=Sing	
-ágyas	ágyas	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szobákban	szoba	NOUN	Case=Ine|Number=Plur	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:8c336939f9bf380786ad5bcd7bd93e0ab551a6d9897b8e641de71a664e9f1b1c
+size 430

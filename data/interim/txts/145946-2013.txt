@@ -1,1 +1,3 @@
-4x2-es kerékképletű, legalább 15 t megengedett össztömegű, legalább 210 kW motorteljesítményű, RAL-3000 piros színű, duplafülkés kivitelű, a HEROS AQUADUX-X felépítmény méreteihez illeszkedő kivitelű, új járóképes alvázak beszerzése és a kapcsolódó szolgáltatások nyújtása szállítási szerződés keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cb71327feb081d66c52639d3d212a50ae6b4ba95569ebe631357d30b9c1c80d9
+size 345

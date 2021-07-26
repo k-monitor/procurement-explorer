@@ -1,2 +1,3 @@
-a 2017. évi asztanai szakvilágkiállítás való magyar megjelenés komplex tervezés
-előkészítés kapcsolatos feladat ellátás vállalkozási szerződés alap
+version https://git-lfs.github.com/spec/v1
+oid sha256:ecd69b2fb1629d02e17212465dc55f588dd8e610e319d2a92830210835bd752a
+size 165

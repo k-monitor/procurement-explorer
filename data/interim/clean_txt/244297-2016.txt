@@ -1,1 +1,3 @@
-db szalagos adathordozó eszköz beszerzés a műszaki leírás foglalt szerint
+version https://git-lfs.github.com/spec/v1
+oid sha256:3f46f05288bccd2cf0356988c857f4785a85a8db616e2fe8ac05ab5afc658344
+size 79

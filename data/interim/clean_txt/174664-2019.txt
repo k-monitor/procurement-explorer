@@ -1,12 +1,3 @@
-távmeghallgatás és kép-és hangrögzítés alkalmas videokommunikációs rendszer beszerzés és implementálás az országos bírósági hivatal részére
-védett személy meghallgatás is alkalmas
-olyan komplex videokommunikációs végpont kialakítás
-mely az ip alapú nemzeti távközlési gerinchálózat kapcsolódva képes lesz a bírósági folyamat támogató videó kommunikáció
-a vállalkozó feladat az általános elvárás és a műszaki leírás előírt meg+felelő az eszköz szállítás
-szerelés
-beüzemelés
-közreműködés a videokommunikációs konfiguráció kompatibilitási teszt elvégzés
-a műszaki leírás meghatározott dokumentálási feladat elvégzés
-részvétel az átadási-átvételi teszt
-jótállás
-terméktámogatás nyújtás és felhasználói oktatás megtartás
+version https://git-lfs.github.com/spec/v1
+oid sha256:edac1203c713c1538e9c432418deee4200dea31c59c922fae7be41eea47728c9
+size 817

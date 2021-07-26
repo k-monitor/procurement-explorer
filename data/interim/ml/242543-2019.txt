@@ -1,12 +1,3 @@
-Ajánlatkérő	ajánlatkérő	NOUN	Case=Nom|Number=Sing	
-székhelyén	székhely	NOUN	Case=Sup|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-takarítási	takarítási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-munkák	munka	NOUN	Case=Nom|Number=Plur	
-elvégzése	elvégzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-a	a	DET	Definite=Def|PronType=Art	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-teljes	teljes	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-időtartama	időtartam	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-alatt	alatt	ADP	_	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:4978429efaa4200326e1f9179eac3cc538f014e598929914cd2695bb137041d2
+size 580

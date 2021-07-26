@@ -1,7 +1,3 @@
-ortopédiai és traumatológiai implantátum beszerzés konszignációs raktárkészlet biztosítás rész
-jelen hirdetmény rész megjelölt mennyiség hónapos időszak vonatkozik
-amennyiben a jelen közbeszerzési eljárás eredmény megkötött szerződés további hónap meghosszabbítás kerül
-úgy ezen mennyiség a szerződés teljes időbeli hatály alatt dupla értendő
-a nyertes ajánlattevő szerződő fél feladat képező a megkötés kerülő szerződés alap a leszállítás kerülő termék tekintet az használat vonatkozó szakmai tanácsadás
-valamint a felhasználó személyzet számára történő betanítás
-a beszerzendő termék kapcsolatos részletes leírás és a konszignációs raktárkészlet kihelyezendő mennyiség a közbeszerzési dokumentum tartalmaz valamennyi rész tekintet
+version https://git-lfs.github.com/spec/v1
+oid sha256:0181efe289a86184bf019c8944cf5ff9c9a318a20b2dcf4828cb51dbd8bdd6c6
+size 820

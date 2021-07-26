@@ -1,22 +1,3 @@
-Ingó	ingó	NOUN	Case=Nom|Number=Sing	
-adásvételi	adásvételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-alapján	alap	NOUN	Case=Sup|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-a	a	DET	Definite=Def|PronType=Art	
-TIOP-3	TIOP-3	PROPN	Case=Nom|Number=Sing	
-.	.	PUNCT	_	
-
-2	2	NUM	Case=Nom|NumType=Card|Number=Sing	
-.	.	PUNCT	_	
-3-12	3-12	NUM	Case=Nom|NumType=Card|Number=Sing	
-/	/	PUNCT	_	
-1-2013-0001	1-2013-0001	PROPN	Case=Nom|Number=Sing	
-projektben	projekt	NOUN	Case=Ine|Number=Sing	
-bútorok	bútor	NOUN	Case=Nom|Number=Plur	
-beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-,	,	PUNCT	_	
-szállítása	szállítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-és	és	CONJ	_	
-összeszerelése	összeszerelés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:9d3783d777f185be1bdc2c547bfc551a2d53bac741ddc1531c7d6f97c6c6deb7
+size 883

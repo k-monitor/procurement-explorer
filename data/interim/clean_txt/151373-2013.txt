@@ -1,1 +1,3 @@
-szállítási szerződés alap különböző bútor szállítás rész az újonnan létesülő mta ttk bebútorozás
+version https://git-lfs.github.com/spec/v1
+oid sha256:569f0acc3951deb281727b68b53dc10c63fc4c054af5aed36df625379054d0d1
+size 116

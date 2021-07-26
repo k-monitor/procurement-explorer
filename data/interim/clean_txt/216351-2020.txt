@@ -1,12 +1,3 @@
-földgáz energia beszerzés a t-szol tatabányai szolgáltató zártkörű működő részvénytársaság
-valamint tagvállalat
-a cseri strand és élményfürdkő szolgáltató kft.
-valamint az agora nonprofit kft.
-rész hónapos időtartam a dokumentáció meghatározott fogyasztási hely és mennyiség
-a szállítandó földgáz minőség meg kell
-hogy felel az msz
-számú szabvány előírás a jelű gázcsoport vonatkozó
-a földgáz fűtőérték mj
-gnm3
-a fűtőérték napi ingadozás nem lesz a fűtőérték
-os sáv
+version https://git-lfs.github.com/spec/v1
+oid sha256:7673311bf06cdb27652d1bb0130a69381e93d2cd8875f6e1e8cf91f2ec235501
+size 530

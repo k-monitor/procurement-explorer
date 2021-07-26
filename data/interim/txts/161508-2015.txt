@@ -1,1 +1,3 @@
-A Dombóvári Szent Lukács Kórház infrastruktúra fejlesztése” elnevezésű, TIOP-2.2.6-12/1B-2013-0017 azonosítóval ellátott projekthez kapcsolódó Dombóvári Szent Lukács Kórház és Pincehelyi Részlegének fejlesztése során orvos-technológiai eszközök beszerzése adásvételi szerződés keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:87044693e07c342f80d8367cbbebf9e0907bbb4e99457c4fea5a56ba5efce275
+size 322

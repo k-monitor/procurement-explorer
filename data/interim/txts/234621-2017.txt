@@ -1,1 +1,3 @@
-Az Art Water Kft. vállalkozási szerződéssel vegyes adásvételi szerződés megkötésével, a „GINOP-1.2.1-15 – GINOP – Mikro, kis-és középvállalkozások termelési kapacitásainak bővítése, Hibrid gyártósor fejlesztés az Art Water Kft.-nél” című támogatott projekthez kapcsolódó árubeszerzés keretében komplett ásványvíz és üdítőital gyártó technológiát kíván beszerezni. A komplett technológia eredményeképp széndioxiddal dúsított ásványvíz és szénsavmentes ásványvíz, szénsavas és szénsavmentes üdítőital palackozható.
+version https://git-lfs.github.com/spec/v1
+oid sha256:eb6204baa45e6c849b4dce04af3985f4c3ec5f2eeb681ef56b43ec94e4371a9f
+size 587

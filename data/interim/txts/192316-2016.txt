@@ -1,1 +1,3 @@
-Szállítási szerződés rászorultsági alapon pályázat alapján kiosztásra kerülő tabletek és kapcsolódó szoftverek szállítására, illetve szolgáltatások teljesítésére a DNFP Nyíregyházi település-központú kísérleti alprogram c. projekt keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9dcb36ec7688ae8809e4ddcec781672cd6ca4bb26cc7c3772e010e45da8b9cc2
+size 275

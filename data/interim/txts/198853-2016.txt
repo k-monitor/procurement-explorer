@@ -1,1 +1,3 @@
-Adásvételi szerződés – az MTVA részére meglévő Studer Vista rendszer bővítése és egyéb kiegészítő eszközök berendezések beszerzése tárgyában.
+version https://git-lfs.github.com/spec/v1
+oid sha256:08d94080ec77dcbcd999e22901c94c9e27202ec641251e2d1f293a3be4e3f684
+size 165

@@ -1,1 +1,3 @@
-1 db újszerű (mentésben még nem használt, nem régebbi a forgalomba helyezése 1 évnél, valamint a futásteljesítménye nem haladja meg az 5000 km-t) NEONATÁLIS "C" típusú neonatológiai mentőgépjármű beszerzése a dokumentációban meghatározott felszereléssel, eszközökkel.
+version https://git-lfs.github.com/spec/v1
+oid sha256:30c177ac3a6a4287a4b2fa9009c77f30fbf21c82c268a81067aaeab9c59c123a
+size 294

@@ -1,1 +1,3 @@
-„Aszfaltmaró, aszfaltfinisher bérlése” tárgyú keretszerződés, szerződéskötéstől számított 36 hónap időtartamban.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9eeeb488d859ec266736952b9c0cdd24ccdc6af2e87c5f41523a7d78bfca9cb1
+size 132

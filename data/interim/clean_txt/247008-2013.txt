@@ -1,1 +1,3 @@
-szállítási szerződés keret új légfúvó egység szállítás és telepítés
+version https://git-lfs.github.com/spec/v1
+oid sha256:930cb6c7b8df425528a1bd52b01cff43456fdd13cbd60db69f1b7a24a3417782
+size 83

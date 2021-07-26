@@ -1,1 +1,3 @@
-JET–A1 gázturbinás légijármű üzemanyag beszerzése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:19b142fd1419ea5356fff48ad92a71218a1e011ac77c042e12729031050d3c0e
+size 59

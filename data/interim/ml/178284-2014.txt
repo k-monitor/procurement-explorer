@@ -1,14 +1,3 @@
-Szállítási	Szállítási	PROPN	Case=Nom|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-12	12	NUM	Case=Nom|NumType=Card|Number=Sing	
-havi	havi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-eh	eh	INTJ	_	
-.	.	PUNCT	_	
-orvosi	orvosi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-vizsgáló	vizsgáló	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-és	és	CONJ	_	
-sebészeti	sebészeti	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-kesztyűk	kesztyű	NOUN	Case=Nom|Number=Plur	
-beszerzésére	beszerzés	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:9f1dae73b01620b14a49b103f4d95f233062b6e9474f62a45b2662c82da0753f
+size 575

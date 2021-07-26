@@ -1,2 +1,3 @@
-gyógyszer és infúzió beszerzés
-részben az ajánlatkérő számára hónap határozott időtartam
+version https://git-lfs.github.com/spec/v1
+oid sha256:cc414f123847b34758d4be12896ad1407955203d4acf5e7de3b75cd68df48f63
+size 102

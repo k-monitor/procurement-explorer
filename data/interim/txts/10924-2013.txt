@@ -1,1 +1,3 @@
-Általános gyermek- és ifjúsági balesetbiztosítási szerződés megkötése az általános gyermek- és ifjúsági baleset-biztosításról szóló 119/2003. (VIII.14.) Kormányrendelet rendelkezései szerint.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e15b7d642bb56ac2cc6afbd0ec5c46c0004a2833270372f3890c14d359fb2173
+size 214

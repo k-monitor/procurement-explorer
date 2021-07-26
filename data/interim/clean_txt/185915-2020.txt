@@ -1,4 +1,3 @@
-a debreceni egyetem európai uniós forrás származó különböző pályázat számára nyomtató berendezés beszerzés kíván lebonyolít
-a pályázat keret beszerzendő egyéb eszköz között az alábbi beszerzés vállalkozik
-1. rész
-a3-as eszköz 2. rész
+version https://git-lfs.github.com/spec/v1
+oid sha256:565981660b1bb1725ec8eeeeaafabdd5d65d7c08398d17bb73d9cecf34428d4b
+size 265

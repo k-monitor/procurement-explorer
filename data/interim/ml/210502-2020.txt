@@ -1,7 +1,3 @@
-ELTE	ELTE	PROPN	Case=Nom|Number=Sing	
-Üzemeltetés	üzemeltetés	NOUN	Case=Nom|Number=Sing	
-,	,	PUNCT	_	
-karbantartás	karbantartás	NOUN	Case=Nom|Number=Sing	
-és	és	CONJ	_	
-hibajavítás	hibajavítás	NOUN	Case=Nom|Number=Sing	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:693bd53a23e8c46850ecbb28e1db28fec0a77f7be779f392dc0eb90575db355a
+size 233

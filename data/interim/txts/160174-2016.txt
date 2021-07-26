@@ -1,1 +1,3 @@
-Vállalkozási keretszerződés Budapest közigazgatási területén belül a Főkert Nonprofit Zrt. által fenntartott kiemelt közcélú zöldterületek, közparkok és fasorok területén lévő fák koronáinak gallyazási, fa visszavágási, száraz fák kivágási munkái és faültetési munkák, a műszaki leírásban meghatározott követelmények szerint.
+version https://git-lfs.github.com/spec/v1
+oid sha256:eb6b546eca1be735292f2ad614648164ccd7cfd7d79df35bdd174f30455e8e25
+size 367

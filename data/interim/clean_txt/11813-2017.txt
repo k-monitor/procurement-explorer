@@ -1,2 +1,3 @@
-a magyar államkincstár felvonó és emelő berendezés üzemeltetés
-karbantartás és javítás év a dokumentáció részletezett szerint
+version https://git-lfs.github.com/spec/v1
+oid sha256:01a21138b8408b30d0dbe4efe6cae77d6c94c66e26a7ec4a8f3d170939875c9a
+size 141

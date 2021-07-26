@@ -1,1 +1,3 @@
-Bérleti szerződés keretében a Magyar Honvédség Egészségügyi Központ Dializáló Részlegének folyamatos működéséhez szükséges, a jelen felhívás II.2.1). pontja szerinti készülékek, eszközök bérbeadása, a kezelésekhez szükséges fogyóanyagok biztosításával és kapcsolódó szolgáltatások nyújtásával.
+version https://git-lfs.github.com/spec/v1
+oid sha256:19084da1ad3ccb537bd4c7d3892b2911d59197504f33167b2c2aea601d324d16
+size 337

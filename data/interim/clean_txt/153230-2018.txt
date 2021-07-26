@@ -1,24 +1,3 @@
-vállalkozási szerződés a lágymányosi campus takarítási feladat ellátás
-részajánlattétel kizárás
-ak nem tesz lehető a részaj
-mivel a szolg
-ésszerű keret között nem osztható meg
-a nyertes at által telik
-feladat természetes egység képez
-a takarítási szolg
-keret ellátandó feladat
-nyújt szolg
-jelleg fogva egymás szoros összefüggő
-egymás épülő tev
-amely szétválasztás mind szakmai
-mind jogi
-mind pedig gazdaságossági-ésszerűségi szempont csak számottevő nehézség ár lesz kivitelezhető
-és amely szétválasztás jelentős mérték veszélyeztet a feladat rend
-álló határidő és költségkeret belül tör
-elvégzés
-az egyetem épület egységes működtetés
-az ugyanazon tartalmú szolg von
-szerződés szám racionalizálás
-vmint az egyetem gazdálkodási feladat egyszerűsítés érdek sem műszaki
-sem gaz
-szempont szerint sem észszerű a rész bontás
+version https://git-lfs.github.com/spec/v1
+oid sha256:2e8113f83a38e7d39d582e1de4267a85cab2cccf5d746dbb5b52b396d89485d8
+size 913

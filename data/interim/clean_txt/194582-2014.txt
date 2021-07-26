@@ -1,8 +1,3 @@
-szolgáltatási szerződés a szelektív hulladék gyűjtés
-ház gyűjtött lakossági szelektív hulladék
-gyűjtősziget és gyűjtőudvar származó hulladék
-és a települési szilárd hulladék termikus hasznosítás sor melléktermék keletkező
-kivéve bufa terület képződő
-hasznosítható hulladék előkezelés
-hasznosíttatás és
-vagy hasznosítás érdek
+version https://git-lfs.github.com/spec/v1
+oid sha256:4faae1586efd2d20e644dd6d005d1947b8593856679f2bf6767c85dec4e308b7
+size 372

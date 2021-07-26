@@ -1,1 +1,3 @@
-Ajánlatkérő és további 14 Ajánlatkérő által igényelt, mindösszesen 12 577 910 m3 + 60 % mennyiségű, a magyar földgázhálózaton folyamatosan rendelkezésre álló, a hatályos magyar szabvány szerinti (MSZ 1648:2016) 2/H minőségű földgáz energia szállítása 2020.10.1. 06:00 óra és 2021.10.1. 06:00 óra közötti időszakban, teljes ellátás alapú földgáz-kereskedelmi szerződés keretében. A megadott legalacsonyabb mennyiség + 60 %-a opcionálisan igénybe vehető.
+version https://git-lfs.github.com/spec/v1
+oid sha256:851d87ad444ab3d73397cc756596e642431b2413ac361999c3da6684d6850561
+size 500

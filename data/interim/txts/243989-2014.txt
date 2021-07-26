@@ -1,1 +1,3 @@
-Meghatározása: szállítási szerződés. Tárgya: Ajánlatkérő részére 16 hónap időtartamban az iskola, óvoda és a balatonakali diáktábor konyhában szükséges élelmiszer alapanyagok beszerzése a „B” melléklet szerinti bontásban, 5 rész tekintetében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:95cad793d7ff9f22299ffd467db87ae31df4c85e6b10a41215e734f539fb8eba
+size 274

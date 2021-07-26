@@ -1,2 +1,3 @@
-solymár nagyközség közigazgatási terület keletkező települési kevert és szelektív gyűjtött szilárd hulladék gyűjtés
-elszállítás és kezelés közszolgáltatási szerződés keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:d2c76cdcb705f08c4ba3e9a6e3fffd1d50f441c5861e5097d24e15a44b7c419e
+size 198

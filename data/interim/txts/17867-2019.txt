@@ -1,1 +1,3 @@
-Új, az MSZ 24203-2 szerinti ‘C típusú’ tornacsarnok és a vele összekapcsolt vívócsarnok létesítése a szükséges infrastruktúra figyelembe vételével, az előírt eszköz és sporttechnológia Beszerzésekkel, környezetrendezéssel komplexen.
+version https://git-lfs.github.com/spec/v1
+oid sha256:737607647cf1f732d8c5342367623b4b8f06edbbe71ba9fddb8d193a0bbc978f
+size 259

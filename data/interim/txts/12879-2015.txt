@@ -1,1 +1,3 @@
-Vállalkozási keretszerződés keretében hulladékgazdálkodási tevékenység során keletkező csurgalékvíz átvétele, elszállítása, ártalmatlanítása. A részletes műszaki leírást a dokumentáció tartalmazza.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0688bc56ca62c1b1b86c426ef9efbf8eab7066db76c38a88b1032db087c372e9
+size 225

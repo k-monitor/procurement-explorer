@@ -1,20 +1,3 @@
-Szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-meghatározása	meghatározás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-:	:	PUNCT	_	
-Vállalkozási	Vállalkozási	PROPN	Case=Nom|Number=Sing	
-keretszerződés	keretszerződés	NOUN	Case=Nom|Number=Sing	
-Tárgya	tárgya	PROPN	Case=Nom|Number=Sing	
-:	:	PUNCT	_	
-„	„	PUNCT	_	
-Rendezvényszervezési	rendezvényszervezési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-és	és	CONJ	_	
-kapcsolódó	kapcsolódó	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-feladatok	feladat	NOUN	Case=Nom|Number=Plur	
-ellátása	ellátás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-a	a	DET	Definite=Def|PronType=Art	
-HungaroControl	hungarocontrol	NOUN	Case=Nom|Number=Sing	
-Zrt.	Zrt.	PROPN	Case=Nom|Number=Sing	
-számára	számára	ADP	_	
-"	"	PUNCT	_	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:cc74adcc75aa73a747b636a730bc02e799abe0de02baacc048445cd519edbf3c
+size 838

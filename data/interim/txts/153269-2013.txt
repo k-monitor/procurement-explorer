@@ -1,1 +1,3 @@
-A Közigazgatási és Igazságügyi Minisztérium, valamint a Közigazgatási és Igazságügyi Hivatal 2013-2014. évi kommunikációs feladatainak (kreatív tervezési gyártási, médiater-vezési és médiavásárlási, rendezvényszervezési és BTL rendezvényszervezési, valamint BTL feladatainak) elvégzése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cbd9d0280193d2a11a832791fe35ebeb354d797ba25aac08c80e53998c4cd0ea
+size 318

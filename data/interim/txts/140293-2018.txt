@@ -1,1 +1,3 @@
-A VEKOP-5.3.1-15-2016-00009 azonosítószámú „Dél-Budapesti kerékpárosbarát fejlesztések” megnevezésű projekt megvalósításához szükséges komplett engedélyezési és kiviteli tervdokumentáció elkészítése és a megvalósításhoz szükséges valamennyi jogerős engedély beszerzése, a kivitelező kiválasztására irányuló közbeszerzési eljárás alatti rendelkezésre állás, ajánlatkérő részére nyújtandó tanácsadás, valamint a tervezői művezetési feladatok ellátása 3 részben.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f81f572a2b0f334b1bfd53b6360cfeca4bf8d3a672028e413e12c1de8a24eddd
+size 525

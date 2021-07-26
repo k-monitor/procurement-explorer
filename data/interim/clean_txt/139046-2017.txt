@@ -1,26 +1,3 @@
-adásvételi szerz az
-integrált nagyműszeres infrastruktúra molekulatudományi és molekuláris gyógyászati kutatás
-c
-ginop-2
-3-15-2016-00004sz
-proj keret nagyműszer beszerzés
-1. rész
-nagyteljesítményűnmr-spektrométer rendszer
-2. rész
-elektroporlasztásos ionizációs kvadrupól és repülési idő analizátor ellátott tömegspektrométer
-esi-qtof ms
-cemodul
-3. rész
-egykristály röntgen diffraktométer
-sc xrd
-a beszerzés eredmény olyan integrált
-szerkezetvizsgáló nagyműszerpark létrehozás és működtetés valósul meg a debreceni egyetem
-ami a jelenlegi kutatási potenciál továbbfejlesztés lehető tesz eredményesebb részvétel nemzetközi kutatási program és hálózat történő csatlakozás
-a beszerzés kerülő nagyműszer új
-világszínvonalú
-csúcskategóriás készülék
-segítség világszínvonalú multidiszciplináris kutatás végezhető a szerkezeti kémia
-a szerkezeti biológia
-a gyógyszer
-élelmiszer
-és környezettudomány terület
+version https://git-lfs.github.com/spec/v1
+oid sha256:67f1b56ea83f71f9f28f27390b275dbbe9d160df0244f5da68bee43e3a7bdb71
+size 994

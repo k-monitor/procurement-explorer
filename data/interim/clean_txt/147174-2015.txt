@@ -1,2 +1,3 @@
-adásvételi szerződés fittségi mérési-értékelési rendszer szükséges mérési eszközcsomag szállítás a támop 3.
-13-12-2013-0001 projekt keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:4d20b2fc5574f2cc140bf340c3421aa2b78f8df6a49a5858d90846a1056a55f3
+size 156

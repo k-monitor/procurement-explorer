@@ -1,1 +1,3 @@
-Szállítási szerződés menetrendszerinti tömegközlekedés lebonyolítására szolgáló autóbuszok beszerzése tárgyában.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e480213fc8dec4a6cd7e1a145f8bb30ff11698edad71158cc91405ea104bd72f
+size 129

@@ -1,1 +1,3 @@
-Tatabánya Megyei Jogú Város részére intermodális csomópont és kapcsolódó közösségi közlekedési fejlesztések Részletes Megvalósíthatósági Tanulmányának kidolgozására és megalapozó tevékenységek végzésére vonatkozó tervezési szerződés, "Tatabánya intermodális közösségi közlekedési csomópont létesítése" című, KÖZOP-5.5.0-09-2010-0008 azonosítószámú projekt keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b92ee49d938c90314d3e724c9b6ee401d5ea5b70056db3f6c1ec48337f06bfd1
+size 421

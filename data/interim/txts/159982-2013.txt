@@ -1,1 +1,3 @@
-Vállalkozási szerződés Dánszentmiklós-Nyáregyháza Szennyvízelvezetés és tisztítás II. ütem tárgyú, KEOP-1.2.0/09-11-2012-0004 azonosító számú projekthez kapcsolódó kivitelezési munkák elvégzésére FIDIC Piros Könyv szerint.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f013766d55022b60b4c80edcaf9bf744c69a739de51e68530bb911efd702e3e5
+size 250

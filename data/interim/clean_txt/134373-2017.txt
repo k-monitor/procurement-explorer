@@ -1,31 +1,3 @@
-a beszerzendő aszfaltmennyiség
-ac-4 kopó aszfalt
-alapmennyiség
-tonna
-opciós mennyiség
-ac-8 kopó aszfalt
-alapmennyiség
-tonna
-opciós mennyiség
-ac-11
-f kopó aszfalt
-alapmennyiség
-tonna
-opciós mennyiség
-ac-16
-f kopó aszfalt
-alapmennyiség
-tonna
-opciós mennyiség
-ac-22 kötő aszfalt
-alapmennyiség
-tonna
-opciós mennyiség
-bitumen emulzió c60b1 literes kiszerelés
-alapmennyiség
-tonna
-opciós mennyiség
-a termék részletes leírás a közbeszerzési dokumentum tartalmaz
-az ajánlatkérő tárgyi eljárás nem biztosít részajánlattételi lehetőség
-tekintet az
-hogy a közbeszerzés rész bontása gazdasági ésszerűség követelmény nem összeegyeztethető
+version https://git-lfs.github.com/spec/v1
+oid sha256:34f73fa5fdc2a6e32c0d0222b07ded4fd38014c215f1c23bfcc20b85b9a6df1e
+size 682

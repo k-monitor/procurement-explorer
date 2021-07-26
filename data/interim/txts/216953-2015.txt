@@ -1,1 +1,3 @@
-Adásvételi szerződés – a KEOP – 5.6.0/E/15 „Egészségügyi eszközök energia megtakarítást célzó beszerzésének támogatása” című pályázathoz kapcsolódóan, digitális röntgen berendezések (röntgen felvételező, röntgen felvételező-átvilágító, kórtermi mobil röntgen, sebészeti átvilágító, mammográf) szállítása, felszerelése, üzembehelyezése, a kezelőszemélyzet betanításával, valamint szállítói mérés elvégzése a felhívásban foglalt energia-felhasználás csökkenésének alátámasztására, a fenntartási időszak (5 év) végéig tartó szállítói jótállás, ehhez kapcsolódóan a napi működtetéshez szükséges tervszerű, megelőző karbantartás elvégzése, valamint az évenkénti fenntartási jelentések alátámasztására szolgáló további mérések és adatszolgáltatások nyújtása.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8d1b8c5aff1ee56953d1dedef764b461fb33b86eceb9364ad17ae26cde9d03ff
+size 876

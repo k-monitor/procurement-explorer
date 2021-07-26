@@ -1,1 +1,3 @@
-Határozatlan idejű egészségügyi szolgáltatási szerződés ajánlatkérő betegeinek testen kívüli elektromágneses úton előállított lökéshullámokkal (eswl) végzett vese-, és epekőzúzásra vonatkozó egészségügyi szolgáltatás nyújtása a szükséges berendezéssel, anyagokkal, kezelő és kiszolgáló személyzettel együtt, hetente 2 alkalommal az ajánlatkérő székhelyén.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9e218d7e700c8dd30fc2dc0df2b2ac52f638be2351733ee411f6a02d2304b1ad
+size 404

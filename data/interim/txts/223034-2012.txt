@@ -1,1 +1,3 @@
-Új tömb kialakítása a Békés Megyei Képviselő-testület Pándy Kálmán Kórházában című TIOP-2.2.4-09/1-2010-0026 azonosító jelű projekt vonatkozásában a kivitelezési és ezzel összefüggő bontási, költöztetési-felújítási munkák elvégzése - vállalkozási szerződés.
+version https://git-lfs.github.com/spec/v1
+oid sha256:821d0eaed82250f9e95a62f89eb7f3f4f5a2b89913db753b70c1aebbc36e5a0e
+size 298

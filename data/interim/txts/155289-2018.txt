@@ -1,1 +1,3 @@
-Vállalkozási keretszerződés keretében tűzszerészeti, vegyvédelmi és környezetvédelmi mentesítés tárgyában megindított eljáráshoz. 1. Tűzszerészeti átvizsgálás és robbanószerkezet-mentesítés 2. Vegyivédelmi (vegyi harci anyagoktól való) mentesítés 3. Környezetvédelmi tényfeltárás készítése 4. A felszínen talált szennyezőanyagok hulladékok és a környezetvédelmi szempontból veszélyes anyagok eltávolítása, hulladéklerakóban való elhelyezése. 5. A teljes terület robbanószerkezet mentesítését követően tanúsítvány kiállítása
+version https://git-lfs.github.com/spec/v1
+oid sha256:9870539957df8a8abfbafc187cc5aa7d1ab13b2b5b219946a175d5c8136b3404
+size 592

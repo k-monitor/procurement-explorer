@@ -1,1 +1,3 @@
-Az ELTE 1071 Budapest, Damjanich utca 41–43. alatti épületegyüttes teljeskörű felújításával és átépítésével járó tervezési feladatok ellátása (ELTE Bárczi Gusztáv Gyakorló Általános Iskola, ELTE Gyakorló Óvoda és Egységes Gyógypedagógiai Intézmény, ELTE Országos Pedagógiai Szakszolgálat, valamint a kollégium) tervezési szerződés keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4645b955ab74ff9b6f99b139dfaaa36245362a76c7dbadaadb7275e16ad92048
+size 384

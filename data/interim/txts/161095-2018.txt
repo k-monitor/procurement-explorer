@@ -1,1 +1,3 @@
-TOP-6.1.1-16-PC1-2017-00003 - „Ipari parkok, iparterületek fejlesztése” program keretében üzemcsarnok építés a Pécsi Déli Ipari Parkban.
+version https://git-lfs.github.com/spec/v1
+oid sha256:49b7368495e86a77c45038e895cdc20809059f24f0224f210b4bd54de071b2dc
+size 149

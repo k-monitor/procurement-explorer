@@ -1,3 +1,3 @@
-adásvételi szerződés
-amely tárgy
-biotechnológiai eszköz beszerzés az elte részére
+version https://git-lfs.github.com/spec/v1
+oid sha256:d3580948d3c0c17c618630e44144d674bdd96a49f5d546cdd2db7d937977572c
+size 91

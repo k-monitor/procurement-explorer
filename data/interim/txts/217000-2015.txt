@@ -1,1 +1,3 @@
-Adásvételi szerződés 2 db direkt digitális röntgen berendezés beszerzése érdekében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:281bd448301766d606120de157d40d4a8717a58a7634142f548cbb46ccc684b3
+size 93

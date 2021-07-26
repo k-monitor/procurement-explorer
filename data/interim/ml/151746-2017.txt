@@ -1,26 +1,3 @@
-Kivitelezési	kivitelezési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-építési	építési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-beruházásra	beruházás	NOUN	Case=Sub|Number=Sing	
-„	„	PUNCT	_	
-A	a	DET	Definite=Def|PronType=Art	
-Békásmegyeri	békásmegyeri	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-piac	piac	NOUN	Case=Nom|Number=Sing	
-és	és	CONJ	_	
-közösségi	közösségi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-tér	tér	NOUN	Case=Nom|Number=Sing	
-megvalósítása	megvalósítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-,	,	PUNCT	_	
-valamint	valamint	CONJ	_	
-a	a	DET	Definite=Def|PronType=Art	
-Heltai	heltai	NOUN	Case=Nom|Number=Sing	
-Jenő	Jenő	PROPN	Case=Nom|Number=Sing	
-tér	tér	NOUN	Case=Nom|Number=Sing	
-megújítása	megújítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-"	"	PUNCT	_	
-tárgyú	tárgyú	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-közbeszerzési	közbeszerzési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-eljárás	eljárás	NOUN	Case=Nom|Number=Sing	
-vonatkozásában	vonatkozás	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:d77760e2f11db9c9d05c4a85562f0c35ded5c373e421b2de0db8674011477dcf
+size 1159

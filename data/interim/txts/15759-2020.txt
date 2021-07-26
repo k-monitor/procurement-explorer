@@ -1,1 +1,3 @@
-Elnevezés: Adásvételi keretszerződés szemészeti műlencsék beszerzésére Tárgy: Összesen 2 220 db – a műszaki leírásban specifikált – szemészeti műlencse beszerzés 9 részben. Valamennyi rész tekintetében irányadó: Ajánlatkérő felhívja ajánlattevők figyelmét, hogy kizárhatja az eljárásból azt az ajánlattevőt, aki ajánlatában olyan származású árut ajánl, amely számára nem kell nemzeti elbánást nyújtani.
+version https://git-lfs.github.com/spec/v1
+oid sha256:78f0a3460fe66e375d4ad2a69905261cc03e6a1935170e984beebeda3aab90da
+size 455

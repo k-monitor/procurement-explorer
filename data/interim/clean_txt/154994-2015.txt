@@ -1,1 +1,3 @@
-földgáz beszerzés göd város önkormányzata és intézmény részére
+version https://git-lfs.github.com/spec/v1
+oid sha256:1cc626773ea52077f770ac25693c1db0e7d6f88fc50afe4ef183367bbd5b2ea9
+size 74

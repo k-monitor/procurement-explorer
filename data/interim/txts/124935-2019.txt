@@ -1,1 +1,3 @@
-A nyíregyházi multifunkcionális autó-motorsport aréna megvalósítására vonatkozó részletes megvalósíthatósági tanulmány készítése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:048de535a3fad878bf88beb1fef5231f495fe47775166173b6e470f751770deb
+size 148

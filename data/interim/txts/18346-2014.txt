@@ -1,1 +1,3 @@
-A Nemzeti Adó- és Vámhivatal Szakértői Intézete részére mérőműszerek beszerzése 2 részben.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4ab1cb7b61bdf21b59ab9f092584a3ce3f6568ebc963be769d8ea475084788cc
+size 103

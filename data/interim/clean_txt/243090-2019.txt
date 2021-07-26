@@ -1,1 +1,3 @@
-élőerős őrzés-védési szolgáltatás és portaszolgálat ellátás a pécs megyei jogú város önkormányzata épület
+version https://git-lfs.github.com/spec/v1
+oid sha256:69d32012e4de76a49ffdedaafe2b0415b265da46273091dd5e64bd0888ff67e9
+size 125

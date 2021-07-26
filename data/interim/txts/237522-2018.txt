@@ -1,1 +1,3 @@
-Szolgáltatási szerződés a Szent Lázár Megyei Kórház Siemens egészségügyi berendezések folyamatos üzemképességének a biztosítására. Megrendelő 3100 Salgótarján, Füleki út 54 - 56. szám alatti telephelyén üzemelő, siemens gyártmányú egészségügyi berendezések folyamatos üzemképességének a biztosítására berendezések karbantartása, hibajavítása és alkatrészellátása.
+version https://git-lfs.github.com/spec/v1
+oid sha256:426941909aea5a9b1c9a5ef4745d7fd157bc5cb340e8496a512aee2b49942f71
+size 413

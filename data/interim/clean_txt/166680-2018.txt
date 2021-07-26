@@ -1,1 +1,3 @@
-mezőgazdasági célú vegyipari termék beszerzés adásvételi szerződés keret a nemzeti ménesbirt és tangazdaság zártkörű működő részvénytársaság részére
+version https://git-lfs.github.com/spec/v1
+oid sha256:5decda8c3dcd1ab945279db2974b2472dfb3fad6e1a3a01be346bd5dfa375573
+size 173

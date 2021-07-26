@@ -1,1 +1,3 @@
-Vállalkozási keretszerződés „A KIFÜ részére az „Oktatási Intézmények és IKT vállalkozások közötti együttműködés ösztönzése és támogatása” elnevezésű projekt komplex kommunikációs feladatainak ellátása”
+version https://git-lfs.github.com/spec/v1
+oid sha256:fa49a9b8cc78e19aa13fcc888945d2f7be97039d0ab3e9811750c6ed5d59c5b1
+size 240

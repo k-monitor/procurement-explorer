@@ -1,1 +1,3 @@
-Teljes ellátás alapú vezetékes földgáz adásvételi szerződés az intézmények (ajánlatkérők) részére 2 részben a hatályos magyar szabvány szerinti Összmennyiség: 1 203 732 037,38 kWh+25 % opció/ 24 hónap
+version https://git-lfs.github.com/spec/v1
+oid sha256:764f86daa967182efe55c5dab7ac66200a331731b4b3c7805d8fc7db1357a70f
+size 224

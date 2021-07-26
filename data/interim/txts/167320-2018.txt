@@ -1,1 +1,3 @@
-Ajánlatkérő üzemeltetésében lévő ZF típusú váltószerkezet javítása.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e6524d988679235c65963619a4e70d7b0425c0cc706fdb99a09230f2c2c57115
+size 81

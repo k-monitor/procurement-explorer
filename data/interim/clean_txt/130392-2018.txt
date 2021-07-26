@@ -1,5 +1,3 @@
-szerződés meghatározás
-keretmegállapodás
-az eljárás második rész megbízási szerződés
-szerződés tárgy
-mnv zrt. kivitelezési munka kapcsolódó műszaki ellenőri feladat ellátás
+version https://git-lfs.github.com/spec/v1
+oid sha256:a52aaaf89671904f4f467d412e8fd4d9de255e0093ed936a6b75d1fbdbf5838f
+size 196

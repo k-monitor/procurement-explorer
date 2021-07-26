@@ -1,1 +1,3 @@
-Villamos energia - köz- és térvilágítás, 2020
+version https://git-lfs.github.com/spec/v1
+oid sha256:afdcbbe3173bd4400b562695dbcea1c60ac0e3c4968aa3d8dc0290afac50b8da
+size 51

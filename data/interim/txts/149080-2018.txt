@@ -1,1 +1,3 @@
-Projektvezetés támogatás nyújtása „A Tábor összeköt – Erzsébet Táborok” tárgyú EFOP-1.2.12-17. projekthez.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4fdeae396a23cdb6ada4eba24033073bce1ae4fda3426691200793d03e5444a5
+size 124

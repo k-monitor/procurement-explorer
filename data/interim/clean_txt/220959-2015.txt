@@ -1,1 +1,3 @@
-biztosítási szerződés egészségbiztosítási szolgáltatás az szte külföldi hallgató és külföldi kutató rész
+version https://git-lfs.github.com/spec/v1
+oid sha256:fe507f0711452dc76944ae727761b39235a096e74ac2f7539b87db86c5231600
+size 122

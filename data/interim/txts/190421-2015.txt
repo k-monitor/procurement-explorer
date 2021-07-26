@@ -1,1 +1,3 @@
-Adásvételi szerződés orvostechnikai készülékek 2 részajánlatban történő, beszerzésére, szállítására, szerelésére, üzembe helyezésére, próbaüzem lefolytatására, kezelőszemélyzet betanítása, teljes körű installációja, valamint a szállított készülék jótállási időn belüli javítására, karbantartására.
+version https://git-lfs.github.com/spec/v1
+oid sha256:807dfa21b00dff71f69fc324d07c4beee48e42c12fffcc05e1a770cdbaac7e72
+size 347

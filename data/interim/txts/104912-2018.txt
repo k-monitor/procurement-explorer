@@ -1,1 +1,3 @@
-Adagoló és keverő berendezés beszerzése a GINOP-2.1.1-15-2015-00576 számú pályázati konstrukcióban.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a3b484ff3836aa5461d6b5e3989a6854d41c65d0e3f06228a45686fe51df9494
+size 109

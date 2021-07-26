@@ -1,1 +1,3 @@
-Állatállomány gondozása és az ehhez kapcsolódó üzemeltetési feladatok ellátása, valamint kísérletekben való részvétel
+version https://git-lfs.github.com/spec/v1
+oid sha256:66678ee6f485e2c812e7f15c998c3f91d351c6128a8effa093eddd2eb51a22b6
+size 133

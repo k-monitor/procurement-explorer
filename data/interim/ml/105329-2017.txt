@@ -1,8 +1,3 @@
-Mátrai	Mátrai	PROPN	Case=Nom|Number=Sing	
-Gyógyintézet	gyógyintézet	NOUN	Case=Nom|Number=Sing	
--	-	PUNCT	_	
-gyógyszerek	gyógyszer	NOUN	Case=Nom|Number=Plur	
-beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
--	-	PUNCT	_	
-2017.	2017.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:8e764d17c14fc12b330eaf79c176dfbc19b675b08fa5bd865a5545eb73545346
+size 312

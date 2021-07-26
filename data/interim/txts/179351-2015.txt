@@ -1,1 +1,3 @@
-Adásvételi szerződés / A KEOP - 5.6.0/E/15 „Egészségügyi eszközök energia megtakarítást célzó beszerzésének támogatása” című konstrukcióhoz kapcsolódóan, meglévő röntgen berendezések cseréje új röntgen berendezések szállításával, telepítésével, üzembe helyezésével, a régi berendezések selejtezésében való szakmai közreműködés, a régi berendezések leszerelése, elszállítása és az előzőek végrehajtásához elengedhetetlenül szükséges járulékos munkák elvégzése a jelen felhívásban és a dokumentációban részletezettek szerint.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0ffaada085c66970deae0cffd079fd9c8e36de9ae5311bfc5b6ad48ca4a5377f
+size 602

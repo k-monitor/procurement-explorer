@@ -1,4 +1,3 @@
-szerződés meghatározás
-adásvételi szerződés
-önjáró útburkolatfestő berendezés beszerzés
-a dokumentáció leírt meg+felelő
+version https://git-lfs.github.com/spec/v1
+oid sha256:f9e1468fa355c312f36bec2e5727bfb343da894506f17a4e7e9cd3ecb7b0036d
+size 138

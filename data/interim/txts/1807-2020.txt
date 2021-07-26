@@ -1,1 +1,3 @@
-Kerékpárforgalmi létesítmények tervezése az alábbiak szerint: 1. rész: A Balatoni Bringakör Balatonakarattya településre eső szakaszon (PST: B004.10) kb. 0,44 km hosszon engedélyezési és kiviteli terv elkészítése; 2. rész: Az EuroVelo 6 kerékpáros útvonal Érd-Százhalombatta közötti kb. 4,016 km szakaszra (PST: B001.03) vonatkozó engedélyezési és kiviteli tervek készítése; 3. rész: A Budapest-Balaton kerékpáros útvonal Székesfehérvár - Polgárdi között (PST: B005.04), Polgárdi előtti ~2,3 km szakaszon engedélyezési terv elkészítése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e922bfb830f2f295b19e107ed7a57f93bb403d8c63b1c44122e3163fb83ea247
+size 586

@@ -1,5 +1,3 @@
-Hitelszerződés	hitelszerződés	NOUN	Case=Nom|Number=Sing	
-forinthitelkeret	forinthitelkeret	NOUN	Case=Nom|Number=Sing	
-nyújtására	nyújtás	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:2266cc01493bf32cf8eba163d936b8aa07af941f3f832c4610501ee14ae75574
+size 220

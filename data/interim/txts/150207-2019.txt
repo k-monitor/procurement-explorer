@@ -1,1 +1,3 @@
-VEKOP-5.3.3.-17-2017-00003 kódszámú, „Érd, Budai út-Diósdi út közvetlen kapcsolatának átépítése
+version https://git-lfs.github.com/spec/v1
+oid sha256:84d06926bd8d79021eab1ae09e201c727a74b71e8ab8c44efd1b9fefdb1c53df
+size 110

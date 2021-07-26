@@ -1,9 +1,3 @@
-dwdm berendezés bővítés a
-közigazgatás informatikai infrastruktúra konszolidálás a költség csökkentés érdek
-című
-köfop-1
-0-vekop-15-2015-00005
-projekt keret
-az ajánlatkérő hálózat jelenleg is üzemelő csatornás alcatel-lucent pss dwdm berendezés bővítés csatornás a műszaki leírás részletezett dwdm eszköz
-transponder kártya
-az az illeszthető interfész modul valamint szükséges licenc
+version https://git-lfs.github.com/spec/v1
+oid sha256:9e0e93c102d34498ae153c75d1ce8297e115296df88363c3e9ce2b540a94b078
+size 423

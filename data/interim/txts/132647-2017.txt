@@ -1,1 +1,3 @@
-Megbízási szerződés a Kecskeméti CAMPUS beruházás I. ütemének műszaki ellenőri és lebonyolítói feladatainak ellátására.
+version https://git-lfs.github.com/spec/v1
+oid sha256:347f386c6d96bf942a12cc19dcc47c87e392925a51fdff83a6f4ddefcd65dfcc
+size 136

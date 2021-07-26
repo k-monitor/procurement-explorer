@@ -1,1 +1,3 @@
-Szálláshely szolgáltatás egyetemi hallgatók részére, maximum 3 ágyas szobákban.
+version https://git-lfs.github.com/spec/v1
+oid sha256:76a16669f0b54d312b6c202c80bdb360d0865eaa3fb99c177553bbc51d7ce17c
+size 88

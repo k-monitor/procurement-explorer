@@ -1,1 +1,3 @@
-Hitelszerződés Eger MJV Önkormányzata önkormányzati 2014. évi fejlesztési célok megvalósítását szolgáló beruházások finanszírozásához
+version https://git-lfs.github.com/spec/v1
+oid sha256:0bad35b4c2bfe8fb6d9e5c82ff4de81981d7241fb1c620b12a6ab2f7f07d280c
+size 153

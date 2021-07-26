@@ -1,1 +1,3 @@
-EFOP-1.9.6-16-2017-00001, „Elektronikus egészségügyi ágazati fejlesztések” c. kiemelt projekt információbiztonsági munkacsomagjában szereplő eszközök, szolgáltatások és licencek beszerzése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8fe197b2e66d6d2c3f57590dfcc224d41863b4fb2741a659866dbd546a8c2b30
+size 209

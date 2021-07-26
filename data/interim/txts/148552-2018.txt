@@ -1,1 +1,3 @@
-DEK-534 Perkután aortabillentyűk beszerzése Debreceni Egyetem Klinikai Központ Kardiológiai és Szívsebészeti Klinika részére. 1. rész Perkután aortabillentyű, általános használatra 17 db 2. rész: Perkután aortabillentyű, nehéz anatómiához (horizontális állású aorta ascendens, súlyos kiáramlási pálya meszesedés) 10 db 3. rész: Perkután aortabillentyű, speciális esetekben (súlyos cerebrovaszkuláris megbetegedés, alacsony bal kamra funkció, jelentős billentyűmeszesedés) 8 db A részleteket a műszaki leírás tartalmazza.
+version https://git-lfs.github.com/spec/v1
+oid sha256:81c78e08d52fa8e75a4e525c3e323a41b2b3c9c16fcf369a476a85649c9103aa
+size 566

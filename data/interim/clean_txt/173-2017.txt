@@ -1,21 +1,3 @@
-villamos energia adás-vételi szerződés pápa város önkormányzata
-valamint pápa város önkormányzat városgondnokság részére
-a magyar villamos energia átviteli hálózat folyamatos rendelkezés álló
-a felhasználási hely csatlakozási jellemző megfelelő minőségű
-általános
-intézményi
-1. rész
-és közvilágítási célú
-2. rész
-felhasználású villamos energia beszerzés
-kereskedelmi jogviszony való megvásárlás
-1.3.2017
-31.12.2018
-közötti időszak vonatkozó
-menetrend adási kötelezettség nélküli teljes ellátásalapú villamos energia adás-vételi szerződés keret
-amely maga foglal a rendszerhasználati díj elszámolás
-a kbt. 61. §
-bek. szerinti rész vonatkozó vizsgálat alap ajánlatkérő a részajánlattétel biztosít
-ajánlatkérő gazdálkodó szervezet alapítás kizár
-egyéb jogszabály
-közbeszerzési dokumentum műszaki leírás
+version https://git-lfs.github.com/spec/v1
+oid sha256:9d74c8a26d366d913b8fc19c15aea77b05439d971bbffd6984ad50ef7cc26bb7
+size 896

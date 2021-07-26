@@ -1,10 +1,3 @@
-Adásvételi	adásvételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-«	«	PUNCT	_	
-Partfürdő	partfürdő	NOUN	Case=Nom|Number=Sing	
-fejlesztése	fejlesztés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-Felépítményes	felépítményes	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-úszómű	úszómű	NOUN	Case=Nom|Number=Sing	
-beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-»	»	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:56df16b11ef6d5fdf3abf743be95ea97374bb5ea5256d6d394cf567b600d0247
+size 482

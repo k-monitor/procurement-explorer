@@ -1,1 +1,3 @@
-Fővállalkozási szerződés keretében a Hunyadi téri vásárcsarnok műemlék épületének (műemléki törzsszám: 16244.) átfogó-, állagmegóvó felújítási és restaurátori munkáinak megvalósítása és a felújításhoz szükséges kiviteli tervek elkészítése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ec622c386961772b2d182581b189567cdc3f2a98ba9a08c5a3681ae5fb389d6a
+size 280

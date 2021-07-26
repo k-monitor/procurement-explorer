@@ -1,1 +1,3 @@
-vállalkozási szerződés takarítási és higiéniai feladat ellátás a nagykőrösi szolgáltató központ részére
+version https://git-lfs.github.com/spec/v1
+oid sha256:8ac1dd1ccea2aa6a4a23404a677ef278de8346126885dd130f9ce8eeef8a2fb1
+size 120

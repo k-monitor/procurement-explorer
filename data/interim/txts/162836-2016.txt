@@ -1,1 +1,3 @@
-Vállalkozási keretszerződés „Géptermek üzemeltetés támogatási és karbantartási szolgáltatásainak ellátása” tárgyában. A szolgáltatás pontos leírását az ajánlattételi dokumentáció tartalmazza.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bac00f712081313c6dc5bf749884a380ebaac0f586b85009b2efb52de6db3288
+size 221

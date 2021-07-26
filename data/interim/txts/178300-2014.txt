@@ -1,1 +1,3 @@
-Adásvételi szerződés kombinált célgép beszerzésére.
+version https://git-lfs.github.com/spec/v1
+oid sha256:853b9b938472e9fa938afc80f33bc7032ffb7356a43e1819f3381e0e8a781c32
+size 60

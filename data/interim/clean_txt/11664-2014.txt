@@ -1,2 +1,3 @@
-x huf érték folyószámlahitel biztosítás hitelszerződés forma
-részajánlatonként huf érték
+version https://git-lfs.github.com/spec/v1
+oid sha256:3edee4e3803fd4172f930b3db8cbca2858bc9c752a66e33f7362697c3267eca0
+size 101

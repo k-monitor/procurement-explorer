@@ -1,1 +1,3 @@
-Adásvételi szerződés – Orvosi és ipari gázok beszerzése a Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház részére.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f645a2c27229b96fe20f6d03fb0bd6f8827a238f40e7aed5a478d327d8e692bc
+size 155

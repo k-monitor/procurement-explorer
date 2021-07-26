@@ -1,1 +1,3 @@
-szabolcs-szatmár-bereg megyei kórház és egyetemi oktatókórház részére traumatológiai és ortopédiai implantátum beszerzés szállítási szerződés keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:5ab9169790f76c7c2c216b004d872051b39580875b1b784f63b9d5f0cde24230
+size 166

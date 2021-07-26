@@ -1,11 +1,3 @@
-földgáz adásvételi szerződés keret a székesfehérvár megyei jogú város önkormányzat intézmény részére a magyar földgáz hálózat folyamatos rendelkezés álló
-szabványos minőségű földgáz energia versenypiaci beszerzés a szerződéses időszak
-1.
-2015-30.9.2016
-gáznap vég
-vonatkozó
-teljes ellátásalapú földgáz-kereskedelmi szerződés keret
-mely maga foglal a rendszerhasználati díj és a földgázvásárlás kapcsolódó állami előírt
-az ajánlatkérő teher eső költség
-díj
-adó és más járulék teljeskörű elszámolás is
+version https://git-lfs.github.com/spec/v1
+oid sha256:826fe2e0d75a72dfc60ea6d0bdd280a52be21b630cb3d13e957c7b314bcd30c4
+size 572

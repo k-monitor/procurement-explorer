@@ -1,4 +1,3 @@
-közúti gépjármű kapcsolódó anyagbeszerzés nettó huf
-mely a teljesítés sor
- eltér
-érték az ajánlati dokumentáció 5. számú melléklet szerint
+version https://git-lfs.github.com/spec/v1
+oid sha256:8da2ee25babef91975bd8f80967a7a0d8ee5c5671bf3dbfabe197e3baa224875
+size 158

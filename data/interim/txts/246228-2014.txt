@@ -1,1 +1,3 @@
-Tervezési szerződés. Egyesített engedélyezési és kiviteli tervdokumentáció készítése és jogerős építési engedély megszerzése a TEN-T közúti hálózat elemein a zajszennyezés csökkentését célzó, a zajárnyékoló létesítmények fejlesztési beruházásaihoz a Megrendelő kezelésében lévő útszakaszokon, 4 rész vonatkozásában, tervezési szerződés alapján. Az elvégzendő feladatok részletes kifejtését az Ajánlati dokumentáció III. Fejezete (Közbeszerzési műszaki leírás) tartalmazza.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9444f3276dc09dbe03f81c972954145fcdd4ca9040a2843fa0bbef65ba6da8bc
+size 536

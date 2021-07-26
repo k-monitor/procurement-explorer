@@ -1,13 +1,3 @@
-keretmegállapodás kötés a központosított közbeszerzési rendszer
-valamint a központi beszerző szervezet feladat
-és hatáskör szóló
-2004.
-v. 25.
-korm
-rendelet hatály alá tartozó
-illetve a központosított közbeszerzési eljárás önként csatlakozó intézmény részére a költségvetési gazdálkodási rendszer
-kgr
-alrendszer képező intézményi könyvelési modul
-ikm
-szoftverelem támogatási
-jogszabály követési és fejlesztési feladat ellátás
+version https://git-lfs.github.com/spec/v1
+oid sha256:fe55b73d4c52c279d4cb062328cdf13621bd98fdbbc2f5648c04d0093165580e
+size 475

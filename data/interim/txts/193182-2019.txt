@@ -1,1 +1,3 @@
-2020. évre villamos energia beszerzése Feltételes elj.: A rendelkezésre álló fedezet alacsonyabb mértékű, Ajánlatkérő a fedezet biztosítása érdekében pótfedezetre vonatkozó igényt kíván benyújtani. Amennyiben Ajánlatkérő a pótfedezetet nem vagy az igényeltnél kisebb összegben kapja meg, azt olyan körülménynek kell tekinteni, amely miatt az eljárást eredménytelenné nyilváníthatja [Kbt. 53.§ (5) bekezdés]. Ajánlatkérő az előzőek mellett a pótfedezet folyósítását a közbeszerzési eljárás eredményeként megkötendő szerződés hatályba lépését felfüggesztő feltételként is kiköti. [Kbt.135.§ (12) bekezdés.]
+version https://git-lfs.github.com/spec/v1
+oid sha256:d611f248bd0eff5d0e00cecb962171757a8a6f857272b2b341c860d5ebbd2ddd
+size 675

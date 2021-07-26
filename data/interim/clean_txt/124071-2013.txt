@@ -1,6 +1,3 @@
-1. rész
-vállalkozási szerződés az európai bizottság benyújtandó
-magyarország és szlovákia határon átnyúló jogosult terület érintő 2014-2020-as időszak vonatkozó operatív program ex-ante értékelés és stratégiai környezeti vizsgálat
-2. rész
-vállalkozási szerződés a 2014-2020-as időszak vonatkozó operatív program kidolgozás a jogosult programozási terület kihívás
-szükséglet és lehetőség valamint a stratégiai iránymutatás vonatkozó elemzés alap
+version https://git-lfs.github.com/spec/v1
+oid sha256:705896dd260d952a53b083b4aa4bb991c3ea3c02651052e8148e0e14916788c0
+size 496

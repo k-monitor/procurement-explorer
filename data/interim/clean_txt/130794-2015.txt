@@ -1,3 +1,3 @@
-keretmegállapodás eredmény kötött keretszerződés a kulturális örökség védelem szóló 2001. évi
-törvény 7. § 27. pont szerinti
-régészeti bontómunka és a kapcsolódó szakmai kisegítő tevékenység megrendelés
+version https://git-lfs.github.com/spec/v1
+oid sha256:763935b80b3ea9630aa320a8ad4b7d0c94db05387b4263b436415193670cdb36
+size 231

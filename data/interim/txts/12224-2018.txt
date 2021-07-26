@@ -1,1 +1,3 @@
-Vállalkozási keretszerződés keretében élőerős őrzési és vagyonvédelmi szolgáltatás ellátása az Állami Egészségügyi Ellátó Központ feladatellátását biztosító, részben nemzeti létfontosságú rendszerelemnek minősülő ingatlanok, valamint a vagyongazdálkodásába tartozó egyes ingatlanok vonatkozásában a közbeszerzési dokumentáció részét képező műszaki leírás szerint, a szerződés a hatálybalépés napjától a beszerezni kívánt összmennyiség kimerüléséig, de legkésőbb 48 hónapig tartó időtartamra.
+version https://git-lfs.github.com/spec/v1
+oid sha256:128819b936d55cc4c18be521457f91ee7e1163bf566035541f6d5ee088ec8ae9
+size 562

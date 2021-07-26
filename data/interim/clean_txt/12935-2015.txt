@@ -1,4 +1,3 @@
-vállalkozási szerződés szekszárd megyei jogú város fenntartás működő oktatási
-kulturális
-sport
-szociális és egészségügyi intézmény takarítási munka elvégzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:94968768d23279806824d93f306534301fa01a4e2663b83d2aeca233760b5870
+size 180

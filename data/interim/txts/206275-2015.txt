@@ -1,1 +1,3 @@
-Különféle járművek fajta és mennyiség szerint meghatározott határidős adásvétele a „Tápió Menti Régió szennyvíz elvezetése és szennyvíz tisztítása (KEOP-1.2.0/2F/09-2009-0021)” elnevezésű projekt keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f921f6352156aa52e6f30668c8aa8640c8d2fd6d802e3de1d0cb25f58f7206b1
+size 235

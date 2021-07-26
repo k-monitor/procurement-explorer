@@ -1,1 +1,3 @@
-Szállítási szerződés 770 l-es új műanyag hulladékgyűjtő tartályok beszerzésére.
+version https://git-lfs.github.com/spec/v1
+oid sha256:29c66ce35ed81ecb04e335fa940dbe6928a43ebf3d1c64090a6be72b7190267b
+size 92

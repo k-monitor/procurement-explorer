@@ -1,1 +1,3 @@
-Vállalkozási szerződés az alábbi tárgyban: A Kaposvári Egyetem Egészségügyi Centrum orvostechnológiai berendezéseinek, valamint az orvostechnológiai berendezésekhez kapcsolódó épületgépészeti, és egyéb műszaki berendezéseinek műszaki üzemfenntartása, karbantartása és szervizelése
+version https://git-lfs.github.com/spec/v1
+oid sha256:9d68ab205cd029dc8afac2d0a9241ad695ec4e0eda579b8bc249f42c195af1d8
+size 310

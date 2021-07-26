@@ -1,7 +1,3 @@
-megbízási szerződés
-mely tárgy
-az elővárosi vasútvonal megállóhely megközelítés fejlesztés
-a ráhordás feltétel javítás
-p+r és b+r parkoló
-buszforduló építés kapcsolódó lebonyolító mérnöki tevékenység ellátás
-valamint a kivitelezés vonatkozó közbeszerzési eljárás előkészítés és lefolytatás való szakértői közreműködés
+version https://git-lfs.github.com/spec/v1
+oid sha256:b268d7a88200805860cb6432b60ae57edc373f317acf801805ab5e7c327d1a42
+size 371

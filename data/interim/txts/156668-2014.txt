@@ -1,1 +1,3 @@
-Földgáz vásárlása a Miskolci Egyetem részére a dokumentációban leírtak szerint.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d3dca44ecdcbe1b41c2b02dacd56df13771e1e4b3b923d2cce188168a4bc84bd
+size 89

@@ -1,19 +1,3 @@
-földgáz energia szállítás az ajánlatkérő részére 1.10.2016
-cet-1
-10.2017
-cet időszak vonatkozó
-teljes ellátás alapú földgáz energia kereskedelmi szerződés keret
-nyertes ajánlattevő a szerződés az ajánlatkérő érintett intézmény külön-külön köt
-ezáltal a szerződés kötő fél önálló számlafizetés kötelezett lesz
-értékelési szempont
-ajánlatkérő a kbt. 76. §
-bek. a
-pont szerinti értékel az ajánlat
-illetve választ ki a számára gazdasági előnyösebb ajánlat
-hivatkozva a kbt. 76.
-bekezdés
-az ajánlatkérő igény a beszerzés tárgy konkrét meghatározott minőségi és műszaki követelmény megfelelő áru felel meg
-ez felül a gazdasági előnyösebb ajánlat kiválasztás csak a alacsony ár értékelés szolgál
-tekintve
-hogy az áru jogszabály meghatározott és körülhatárolható szabványtermék
-és minőségi szempont szerint nem differenciálható
+version https://git-lfs.github.com/spec/v1
+oid sha256:4b88b2a35aaa6ed2ec34925eadfd9474b323e35d1de13e3f57a7560b4e270dd4
+size 926

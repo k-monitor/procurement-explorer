@@ -1,12 +1,3 @@
-adásvételi szerződés keret berettyóújfalu létesítendő új büntetés-végrehajtási intézet alap és szakellátó rendelő és fekvőbeteg ellátó osztály kialakítás és felszerelés orvostechnikai eszköz beszerzés
-mely tartalmaz a készülék helyszín szállítás
-felszerelés
-amennyiben az szükség van
-az összes segédszerkezet biztosítás
-s a szükséges installálás
-üzem helyezés
-napos próbaüzem
-a kezelőszemélyzet betanítás
-a készülék installálás közvetlen szükséges és az szoros összefüggő tevékenység
-pl. adott eset a számítástechnikai illesztés
-is az eladó köteles elvégez további részlet a közbeszerzési dokumentum
+version https://git-lfs.github.com/spec/v1
+oid sha256:056f69b1ab8dda9b25f0af0ac5a0f73b5edfd657e8de61cce1376a37109e7e54
+size 680

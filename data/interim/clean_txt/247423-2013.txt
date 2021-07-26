@@ -1,2 +1,3 @@
-ajánlatkérő feladat teljesítés szükséges hulladékgyűjtő és hulladékszállító jármű valamint az ez tartozó berendezés javítás
-karbantartás illetőleg szerviz munka elvégzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:0a8f242b8a8772e1229f215edddd32ae56c1bc0c9292cc78652b3e1ef17a4806
+size 194

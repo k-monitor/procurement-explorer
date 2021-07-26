@@ -1,2 +1,3 @@
-intézményi és szünidő gyermekétkeztetés biztosítás debrecen megyei jogú város közigazgatási terület működő nevelési és közoktatási intézmény
-vállalkozási szerződés
+version https://git-lfs.github.com/spec/v1
+oid sha256:7f9c769438da98f173c8fae9898fa23c3a22d04864fcaa2136c50c77357d076c
+size 190

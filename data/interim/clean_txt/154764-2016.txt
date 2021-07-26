@@ -1,2 +1,3 @@
-baranya megyei kormányhivatal vagyonkezelés
-illetve használat álló épület napi rendszeresség történő és eseti takarítási szolgáltatás ellátás
+version https://git-lfs.github.com/spec/v1
+oid sha256:05965171331d4fb9a8fa846f5dd40d30a11230cc8676d16e135000826696d476
+size 159

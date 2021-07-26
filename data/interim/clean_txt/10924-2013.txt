@@ -1,5 +1,3 @@
-általános gyermek
-és ifjúsági balesetbiztosítási szerződés megkötés az általános gyermek
-és ifjúsági baleset-biztosítás szóló
-2003.
-kormányrendelet rendelkezés szerint
+version https://git-lfs.github.com/spec/v1
+oid sha256:1ffcd1705b7f22c9c3fc2a65daf7747ec64d2095ff19db6e214a4cc98144237c
+size 189

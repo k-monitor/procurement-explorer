@@ -1,4 +1,3 @@
-tervezési szerződés az m0 autóút északi szektor 11. sz. főút
-sz. főút közötti szakasz és csomóponti elem engedélyezési és az kapcsolódó egyéb szakági terv készítés
-építési engedély megszerzés
-ajánlati terv készítés tárgy
+version https://git-lfs.github.com/spec/v1
+oid sha256:4a0c4c5658d6f9c4243ff1bed5819124e5703f741ad0794c57c5b693961eabb3
+size 254

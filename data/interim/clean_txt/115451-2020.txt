@@ -1,2 +1,3 @@
-ajánlatkérő adásvételi szerződés keret konjugált pneumococcus elleni vakcina szerez be
-és hónapos kor esedékes védőoltás
+version https://git-lfs.github.com/spec/v1
+oid sha256:540966337f9609b6fe0feb7983b581831787b11df67505e80a69559015289a85
+size 134

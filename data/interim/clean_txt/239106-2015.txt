@@ -1,4 +1,3 @@
-egészségügyi eszközök energia
-megtakarítás célzó beszerzés támogatás c
-pályázat keret eszközbeszerzés
-adásvételi szerződés keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:fb0e5a6b1341563c367138864ebc6b432b28d6609cc696f02ccb6c101c40e219
+size 148

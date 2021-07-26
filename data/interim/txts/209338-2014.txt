@@ -1,1 +1,3 @@
-Szállítási szerződés – Sterilizáló berendezések beszerzése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:69b942876f577c0aaa20d992ba69d45c7e3ddf01abea68ee4ad0e8046b7652a0
+size 70

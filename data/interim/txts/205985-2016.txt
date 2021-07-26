@@ -1,1 +1,3 @@
-Központi Nyomozó Főügyészség öt irodaépületének élőerős őrzés-védelmi és portaszolgálati tevékenységének ellátása.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f978ddbfb6347fbbae5c64f3b5c309fe544981c56479967758ab959362a9a5e3
+size 137

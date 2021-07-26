@@ -1,1 +1,3 @@
-1. rész: 700 000 db 0,5 literes, eldobható műanyag palackos kiszerelésű „teljesen szénsav-mentesített” vagy „részben szénsav-mentesített” természetes ásványvíz. 2. rész: 300 000 db 0,5 literes eldobható műanyag palackos kiszerelésű „szén-dioxiddal dúsított természetes ásványvíz” vagy „természetes szénsavat tartalmazó természetes ásványvíz” vagy „természetes ásványvíz a forrásból származó szén-dioxiddal dúsítva”. A teljes műszaki specifikációt az ajánlati dokumentáció V. fejezete tartalmazza.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1b7b28b7e60c5b42697a5e6ea280986cf1b2ffc641182849f539850fbf8ae84c
+size 566

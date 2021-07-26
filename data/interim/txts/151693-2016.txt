@@ -1,1 +1,3 @@
-Adásvételi szerződés – Gépjármű beszerzés a KEF részére.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4ebd1e4bb56ea6d01d43624daddfcfb1e9d49880d454599d746bd96efcb59d16
+size 68

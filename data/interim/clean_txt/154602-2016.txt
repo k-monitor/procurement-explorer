@@ -1,4 +1,3 @@
-szerződés meghatározás
-vállalkozási szerződés
-szerződés tárgy
-csikós udvar a főőrség épület és a stöckl-lépcső újraépítés eredeti hely
+version https://git-lfs.github.com/spec/v1
+oid sha256:3a0993db8e28d39e6460e812eddc1045e9da9b68ffcc02e7e31c3822974c92ad
+size 159

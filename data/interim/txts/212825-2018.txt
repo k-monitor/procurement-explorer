@@ -1,1 +1,3 @@
-A Szeplast Zrt. Gazdaságfejlesztési és Innovációs Operatív Program keretében támogatásban részesült és termelési eszközöket, berendezéseket kíván beszerezni adásvételi szerződés keretében. 1.rész: bemérő és adagoló rendszer beszerzése 2.rész: 2 db extruder beszerzése 3.rész: 2 db meleg/hideg keverő kombináció beszerzése A nyertes pályázat azonosító száma: GINOP-1.2.1-16-2017-00368.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d5406d494583764c253040669bf4defb3ccc12f3bfa70b65d6a78a3409355900
+size 425

@@ -1,7 +1,3 @@
-terv
-szerz
-az m76 autóút fenékpusztai csomópont terv átdolgozás
-keszthely 2x2 sávos főúti bekötés
-és kiegészítő létesítmény megtervezés
-engedélyezési és kiviteli terv elkészítés
-valamint a szükséges engedély megszerzés való közreműködés tárgy
+version https://git-lfs.github.com/spec/v1
+oid sha256:0109399d888c4986966c3a4967f880707ce8499b9cf892d7c19d8e2eeec31b7e
+size 277

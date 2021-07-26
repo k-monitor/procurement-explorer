@@ -1,1 +1,3 @@
-A diákhitelezési rendszer finanszírozási biztonságának javításához, 2012. szeptember 15. napjától 2013. szeptember 14. napjáig: — 1. rész tekintetében: 2 500 000 000 HUF, azaz Kettőmilliárd-ötszázmillió forint keretösszegű, újrafeltöltődő jellegű, készenléti hitel nyújtása, állami készfizető kezességvállalással, hitelszerződés keretében, — 2. rész tekintetében: 5 000 000 000 HUF, azaz Ötmilliárd forint keretösszegű, újrafeltöltődő jellegű, készenléti hitel nyújtása, állami készfizető kezességvállalással, hitelszerződés keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a336e2fdcf4875daa4e12b87c3d56e50c210f9e1afb665c06e244bab510ece4b
+size 602

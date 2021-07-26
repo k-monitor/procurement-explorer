@@ -1,2 +1,3 @@
-kötszer beszerzés rész
-ajánlattevő köteles jótállási kötelezettség vállal az áru leszállítás számított hónap időtartam
+version https://git-lfs.github.com/spec/v1
+oid sha256:78485e126b573029505d69cf108ce2a6234c4f11e3e79e31c139e87fc6e44065
+size 138

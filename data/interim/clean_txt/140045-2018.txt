@@ -1,31 +1,3 @@
-mkb7
-kg mo
-közigazgatási terület keletkező termék tovább nem használható kombinált gyűjtésű elektronikai berendezés hulladék gyűjtés
-tárgyévi előkezelés és további kezelés történő átadás szolgáltatás-megrendelési szerződés keret a környezetvédelmi termékdíj szóló
-2011. évi
-törvény 22. §
-bekezdés alap
-rész
-1. rész
-kg
-amely kg 2. rész
-kg
-amely kg 3. rész
-kg
-amely kg 4. rész
-kg
-amely kg 5. rész
-kg
-amely kg 6. rész
-kg
-amely kg 7. rész
-kg
-amely kg 8. rész
-kg
-amely kg 9. rész
-kg
-amely kg 10. rész
-kg
-amely kg 11. rész
-kg
-amely kg termék tovább nem használható mobiltelefon hulladék kell teljesít
+version https://git-lfs.github.com/spec/v1
+oid sha256:601a9869e81f29a6abf33201703388ca2da76dfebb0c98b38b02548d92e45331
+size 656

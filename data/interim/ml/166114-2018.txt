@@ -1,10 +1,3 @@
-Kerepesi	Kerepesi	PROPN	Case=Nom|Number=Sing	
-úti	úti	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-sportpark	sportpark	NOUN	Case=Nom|Number=Sing	
-fejlesztése	fejlesztés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-megvalósításához	megvalósítás	NOUN	Case=All|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-szükséges	szükséges	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-létesítmények	létesítmény	NOUN	Case=Nom|Number=Plur	
-kivitelezése	kivitelezés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:72836c650cd810c2989563ea35d19bc188692e3f266fb0b5941b1ea6b49d55f4
+size 543

@@ -1,1 +1,3 @@
-„IP telefonok beszerzése a Központosított Kormányzati Informatikai Rendszer bővítése (KKIR3) elnevezésű, KÖFOP-1.0.0-VEKOP-15-2016-00020 azonosítószámú projekt keretein belül” az alábbiak szerint: 1. rész: alapszintű készülékek beszerzése; 2. rész: emeltszintű készülékek beszerzése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:352d43d24b99900d376858a04af6ddc4ff41e3b2bfe3056bec5101cd3b068196
+size 315

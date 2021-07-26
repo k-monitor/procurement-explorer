@@ -1,1 +1,3 @@
-Budapest XVIII. kerület Pestszentimre-Pestszentlőrinc Önkormányzata fenntartása alatt álló intézmények részére ételkiszállítással történő közétkeztetés biztosítása 2016. Az ajánlatok részszempontok szerinti tartalmi elemeinek értékelése során adható pontszám alsó és felső határa: 1–10 pont. A részszempontok értékelése az 1–4. értékelési részszempontok (adagárak) esetében az értékarányosítás módszerével történik. Az 5. értékelési részszempont (étlapok) értékelése a pontozás módszerével történik.
+version https://git-lfs.github.com/spec/v1
+oid sha256:85b6aecf546a260751ab6e161bdcf0eef8af3317a0b12b31ec5e905b10385b23
+size 570

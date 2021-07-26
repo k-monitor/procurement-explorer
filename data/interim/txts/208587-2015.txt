@@ -1,1 +1,3 @@
-„A Miniszterelnökség tevékenységét segítő, ügyvédi tevékenységgel kiegészített, hivatalos közbeszerzési tanácsadói és lebonyolítói szolgáltatás beszerzése” – megbízási szerződés keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b0ecee51bb1c8d133bfb7f99b5aaa0e38344a9edb696d00f6db58e3325748b84
+size 222

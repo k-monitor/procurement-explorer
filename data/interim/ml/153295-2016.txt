@@ -1,31 +1,3 @@
-Keretmegállapodás	keretmegállapodás	NOUN	Case=Nom|Number=Sing	
-a	a	DET	Definite=Def|PronType=Art	
-Kormányzati	kormányzati	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-Informatikai	Informatikai	PROPN	Case=Nom|Number=Sing	
-Fejlesztési	Fejlesztési	PROPN	Case=Nom|Number=Sing	
-Ügynökség	Ügynökség	PROPN	Case=Nom|Number=Sing	
-Európai	Európai	PROPN	Case=Nom|Number=Sing	
-Uniós	uniós	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-támogatásból	támogatás	NOUN	Case=Ela|Number=Sing	
-,	,	PUNCT	_	
-valamint	valamint	CONJ	_	
-hazai	hazai	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-forrásból	forrás	NOUN	Case=Ela|Number=Sing	
-megvalósuló	megvalósuló	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-projektjeihez	projekt	NOUN	Case=All|Number=Plur|Number[psor]=Sing|Person[psor]=3	
-kapcsolódó	kapcsolódó	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-informatikai	informatikai	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-fejlesztések	fejlesztés	NOUN	Case=Nom|Number=Plur	
-és	és	CONJ	_	
-szolgáltatások	szolgáltatás	NOUN	Case=Nom|Number=Plur	
-megvalósítására	megvalósítás	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-az	az	DET	Definite=Def|PronType=Art	
-ajánlattételi	ajánlattételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szakaszhoz	szakasz	NOUN	Case=All|Number=Sing	
-tartozó	tartozó	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-közbeszerzési	közbeszerzési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-dokumentumban	dokumentum	NOUN	Case=Ine|Number=Sing	
-részletezettek	részletezett	NOUN	Case=Nom|Number=Plur	
-szerint	szerint	ADP	_	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:eabadb230acb7443069b7ee2ec29f517b91b000a9850abafd23f7196a317dd71
+size 1587

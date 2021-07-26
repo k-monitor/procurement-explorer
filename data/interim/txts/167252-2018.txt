@@ -1,1 +1,3 @@
-A Modern Városok Program keretében a „Geotermikus hőhasznosítás Békéscsabán” tárgyú projekthez (Iktatószám: GF/SZKF/1118/11/2017.) kapcsolódó tervezési feladatok (tanulmányterv, engedélyezési és kiviteli tervdokumentáció készítése) elvégzése tervezési szerződés keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:242c238e16813c46d4918b161cefb8ff5732a10f78c18305b7b0ba85f60c9018
+size 306

@@ -1,2 +1,3 @@
-új bölcsőde létesítés a postakert városrész
-tárgyú projekt tervezési feladat ellátás
+version https://git-lfs.github.com/spec/v1
+oid sha256:dd428f89d9e70009181e4c9bfb55e342302b0e0396fafeeb8e3014b81beb44a9
+size 97

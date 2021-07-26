@@ -1,1 +1,3 @@
-A „VKSZ” Zrt. valamint a VHK Nonprofit Kft. gép-és járműparkjának garanciális időn túli szerelési, illetve javítási feladatainak ellátása meghatározott bérleményben a szolgáltatásra vonatkozó vállalkozási szerződésben foglalt feltételekkel.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2df213081f0ab91a90b1531eb62d6067d4c5b39e828c45be2bc6c1f0ba333b1a
+size 268

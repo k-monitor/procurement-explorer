@@ -1,5 +1,3 @@
-adásvételi szerződés
-kistérségi járóbeteg szakellátó központ kialakítás heves város
-eszközbeszerzés az émop-4
-1.1
-b-09-2 0002. számú projekt keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:5839121a1717344ae11a31444335c934baadec64d5f186d565ee07e73f81a5ef
+size 165

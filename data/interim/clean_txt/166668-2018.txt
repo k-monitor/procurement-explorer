@@ -1,1 +1,3 @@
-gépjármű tartós bérlet keret történő beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:35c33f62a683143e1b9954ee35dbff00a416c520cc216648f919deae78f06005
+size 55

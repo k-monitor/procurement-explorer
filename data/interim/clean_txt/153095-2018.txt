@@ -1,13 +1,3 @@
-takarítási feladat ellátás a pécsi tudományegyetem telephely ajánlati rész
-1. ajánlati rész
-pécsi tudományegyetem északi klinikai terület
-pécs 2. ajánlati rész
-pécsi tudományegyetem déli klinikai terület
-pécs 3. ajánlati rész
-pécsi tudományegyetem keleti oktatási terület
-pécs 4. ajánlati rész
-pécsi tudományegyetem nyugati oktatási terület
-pécs 5. ajánlati rész
-pécsi tudományegyetem ilyés gyula gyakorlóiskola
-alapfokú művészeti iskola és gyakorló óvoda
-szekszárd szolgáltatási keretszerződés a közbeszerzési dokumentum meghatározott szerint
+version https://git-lfs.github.com/spec/v1
+oid sha256:e77db374fe7e0722aeb225f8affee9e73d2dc470bf960d302a684378289148c3
+size 599

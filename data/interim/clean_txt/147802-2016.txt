@@ -1,5 +1,3 @@
-szerződés meghatározás
-vállalkozási elem vegyes ingó adásvételi szerződés
-szerződés tárgy
-budavári palota egykori szent istván terem rekonstrukció szükséges falkárpi
-függöny és bútorkárpit rekonstrukció
+version https://git-lfs.github.com/spec/v1
+oid sha256:fae4890d1a685501c5c5bd79da36e6b6887dcaa622c784704867df4fb3fc49e6
+size 228

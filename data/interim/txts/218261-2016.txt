@@ -1,1 +1,3 @@
-Gyógyszerek és infúziók beszerzése 1-198.részben az ajánlatkérő számára 12 hónap határozott időtartamra.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bbd5c4fe7442f5c7331656eaf78554aef6de01356a8376a51d25f472eacbb659
+size 118

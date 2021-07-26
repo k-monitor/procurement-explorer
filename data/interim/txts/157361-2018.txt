@@ -1,1 +1,3 @@
-Tervezési szerződés a „Balaton funkcionális térségének komplex közlekedésfejlesztési koncepciója” elkészítése tárgyban.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e0e6331e03cf0292ca2f45443a876c7c4bd8b17da027286987bd6e30aac75342
+size 138

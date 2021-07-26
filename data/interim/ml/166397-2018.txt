@@ -1,12 +1,3 @@
-Magyarországi	magyarországi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-fekvőbeteg	fekvőbeteg	NOUN	Case=Nom|Number=Sing	
-ellátó	ellátó	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-intézmények	intézmény	NOUN	Case=Nom|Number=Plur	
-gyógyszerellátásának	gyógyszerellátás	NOUN	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-biztosítása-GYO-019	biztosítása-GYO-019	PROPN	Case=Nom|Number=Sing	
-/	/	PUNCT	_	
-2018	2018	NUM	Case=Nom|NumType=Card|Number=Sing	
-/	/	PUNCT	_	
-KM	km	NOUN	Case=Nom|Number=Sing	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:8c209d625154746bc570e1e4fdaa9e32c01ccab9fa8fa26bc50ed0d3f3e28813
+size 543

@@ -1,1 +1,3 @@
-Jelen eljárás célja, hogy az ASP Központon keresztül üzemeltetett ASP 2.0 projekt keretében résztvevő önkormányzatok számára iratkezelő szakrendszer működése biztosított legyen.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a61ab704df602a71e996171d2b1e358e6f65b96591f8d91732d4ed65bc94fd85
+size 195

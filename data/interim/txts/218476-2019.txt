@@ -1,1 +1,3 @@
-Szabályozható hőmérsékletű hűtőrendszer beszerzése a VEKOP 2.3.3-15-2017-00015 pályázat keretén belül, valamint szupravezető mágnes beszerzése FK123894 pályázat keretén belül
+version https://git-lfs.github.com/spec/v1
+oid sha256:7f1196414a1349d397550f10254cb1486eb404d734b6b65920488e4a0c95aa22
+size 194

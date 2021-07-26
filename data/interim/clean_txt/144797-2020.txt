@@ -1,5 +1,3 @@
-vállalkozási szerződés a
-elte épület energetikai fejlesztés
-című
-kehop-5
-2.2
+version https://git-lfs.github.com/spec/v1
+oid sha256:092824fe929203de196035217457b07d74d6d085828e2a43bd80818306dabd61
+size 85

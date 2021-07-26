@@ -1,1 +1,3 @@
-TOP-6.1.5-16-VP1-2017-00001 azonosítójú, „Északi iparterület közlekedésfejlesztése” 1-2. részfeladatban foglaltak kivitelezése. A közbeszerzési eljárás feltételes közbeszerzési eljárás a Kbt. 53. § (6) bekezdése alapján.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6fa46dec27871e98db12c68cb30292a34126e4cd437a7e1bc7f0d171efdb5940
+size 246

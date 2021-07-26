@@ -1,8 +1,3 @@
-vállalkozási
-szolgáltatási
-szerződés felügyelt
-digitális hálózat elérési szolgáltatás biztosítás
-valamint a szolgáltatás működőképesség folyamatos biztosítás hálózatfelügyeleti rendszer és elektronikus hibajegykezelő rendszer alkalmazás a dokumentáció megadott
-jelenleg összesen db végpont számára
-rész
-a megadott szolgáltatási követelmény meg+felelő
+version https://git-lfs.github.com/spec/v1
+oid sha256:11916062e0f3b9d770373d37f557fdcd9a61c21e4b18cc2f4fabb36bc6d69375
+size 393

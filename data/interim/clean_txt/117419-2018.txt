@@ -1,2 +1,3 @@
-megbízási szerződés
-a bkk zrt. és a bkv zrt. valamint a konszolidáció teljes körű bevont gazdasági társaság állandó könyvvizsgálói szolgáltatás beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:f8107ed40908b94fd6deecc62025ab531f47b6deb3ce186142c8232879d445de
+size 173

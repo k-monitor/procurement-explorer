@@ -1,12 +1,3 @@
-Földgáz	földgáz	NOUN	Case=Nom|Number=Sing	
-adásvételi	adásvételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-ajánlatkérők	ajánlatkérő	NOUN	Case=Nom|Number=Plur	
-fogyasztási	fogyasztási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-helyeinek	hely	NOUN	Case=Gen|Number=Plur|Number[psor]=Sing|Person[psor]=3	
-ellátására	ellátás	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-a	a	DET	Definite=Def|PronType=Art	
-2014-2015-ös	2014-2015-ös	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-gázévre	gázév	NOUN	Case=Sub|Number=Sing	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:1834635aeb4f47455feab3117ff4f3dbbf8cf1a3101eecc1413d05920fbc19a5
+size 600

@@ -1,2 +1,3 @@
-egységcsomag biztosítás tárgyú beszerzés az efop-1
-12-17-2017-00006 azonosító számú projekt keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:aa66965a717cc7479befc1302559ce9e43cf1a338bf8ca83191b9277ab5b406e
+size 107

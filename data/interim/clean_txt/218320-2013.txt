@@ -1,1 +1,3 @@
-megbízási szerződés a 88. számú főút t burkolat erősítés 3+172-10+046 km sz. közötti km hosszú szakasz
+version https://git-lfs.github.com/spec/v1
+oid sha256:f9f1e647aa5c1ee19088bffe20bc09e1414cabec4d12eeefb5b7f0f300bf6a62
+size 116

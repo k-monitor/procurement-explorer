@@ -1,1 +1,3 @@
-A Debreceni Egyetem európai uniós forrásból származó különböző pályázatai számára informatikai beszerzéseket kíván lebonyolítani. A pályázat keretében beszerzendő egyéb eszközök között az alábbiak beszerzésére vállalkoztunk: 1. rész: Alkatrészek 2. rész: Szerverhez kapcsolódó eszközök, adattárolók 3. rész: Laptopok, tabletek
+version https://git-lfs.github.com/spec/v1
+oid sha256:ef6391527ca46faea039785b3b484cdf43fb6b7fec81cf00e46f5d5b8c1c7558
+size 367

@@ -1,1 +1,3 @@
-EM-628 DE részére sztereotaxiára alkalmas lineáris gyorsító beszerzésére irányuló adásvételi szerződés - eszköz leszállítása, üzembe helyezése, oktatás tartása.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dc54051e7e7585273d935b2e695cfc4e04639de6e6fa6e9bad2936f8ad93ef8a
+size 182

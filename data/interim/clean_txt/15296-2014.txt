@@ -1,1 +1,3 @@
-vállalkozási szerződés az oep adatközpont 2014. évi karbantartás és üzemeltetés támogatás
+version https://git-lfs.github.com/spec/v1
+oid sha256:1f570e2fc66ea5e8a08d70e1e26e1313fcca26471d623d82b54b40bf364c1672
+size 101

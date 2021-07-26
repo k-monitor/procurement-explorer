@@ -1,1 +1,3 @@
-DEK-420 Hagyományos egészségügyi textília beszerzése a DEKK részére. I. rész Védőruhák beszerzése. II. rész Ellátotti és anyagjellegű textíliák. III. rész Egyéb textíliák beszerzése. Vevő keretmennyiséget határoz meg, mely 24 hónap alatt 70 200 db áru mennyiséget jelent. Vevő a keretmennyiség 70 %-ára megrendelési kötelezettséget vállal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6a2c4f98af82a0d3c943579d3ab3f324c38d7cba7d98c927321dd4516080a5c7
+size 376

@@ -1,1 +1,3 @@
-Szolgáltatási keretszerződés keretében a HHM-ben található 5 db (BHS SAP 28 ATOMIZER típusú) mésztej befecskendezésű abszorber egység szervizelése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:91094aa8efc303e00e5db755f3bb4eec762315a49840e652b8024908f2bb411c
+size 161

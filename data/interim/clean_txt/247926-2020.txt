@@ -1,14 +1,3 @@
-családbarát szülészet fejlesztés
-eszközbeszerzés rész
-összesen db
-határozott idejű adásvételi szerződés keret között
-1. rész
-szülés kapcsolatos orvostechnikai eszköz összesen db
-2. rész
-szülés kapcsolatos egyéb eszköz összesen db
-3. rész
-egyéb kiegészítő anyaszoba összesen db
-részletes a közbeszerzési dokumentum szereplő műszaki leírás meghatározott szerint
-a beszerzés az emberi erőforrás minisztériuma által biztosított vissza nem térítendő támogatás valósul meg
-a támogatói okirat szám
-áeek
+version https://git-lfs.github.com/spec/v1
+oid sha256:345493e0ddbd792b821e69abd84538e1d9100ce008acd1b07cdc16aad0f8c400
+size 553

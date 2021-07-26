@@ -1,1 +1,3 @@
-PR és szakmai kiadványok nyomdai munkáinak elvégzése és kiadói gondozása két részben a NAV részére 2 évre – 1. részben legfeljebb nettó 25 M HUF keretösszeg, a 2. részben legfeljebb nettó 65 M HUF keretösszeg teljesüléséig, a szerződéskötés időpontjától számítva 2 éves időtartamra.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0705d74f0b02b3eaae3a9ac0a453ada66228256594ae2e2144a5ac04ee1c5d8a
+size 317

@@ -1,7 +1,3 @@
-Gyógyszerek	gyógyszer	NOUN	Case=Nom|Number=Plur	
-adásvételére	adásvétel	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-vonatkozó	vonatkozó	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-szállítási	szállítási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:80574d623098c81c0adc99f17df9f7af6185bb31aded01744d8039e2b9ceedc7
+size 346

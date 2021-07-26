@@ -1,23 +1,3 @@
-Vállalkozási	Vállalkozási	PROPN	Case=Nom|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-Szekszárd	szekszárd	NOUN	Case=Nom|Number=Sing	
-Megyei	Megyei	PROPN	Case=Nom|Number=Sing	
-Jogú	Jogú	PROPN	Case=Nom|Number=Sing	
-Város	Város	PROPN	Case=Nom|Number=Sing	
-fenntartásában	fenntartás	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-működő	működő	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-oktatási	oktatási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-,	,	PUNCT	_	
-kulturális	kulturális	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-,	,	PUNCT	_	
-sport	sport	NOUN	Case=Nom|Number=Sing	
-,	,	PUNCT	_	
-szociális	szociális	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-és	és	CONJ	_	
-egészségügyi	egészségügyi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-intézmények	intézmény	NOUN	Case=Nom|Number=Plur	
-takarítási	takarítási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-munkáinak	munka	NOUN	Case=Gen|Number=Plur|Number[psor]=Sing|Person[psor]=3	
-elvégzésére	elvégzés	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:6c976ae8665a58c23b6f2d9f1d233543a857a510727866dfa8d26666da0dad8d
+size 1079

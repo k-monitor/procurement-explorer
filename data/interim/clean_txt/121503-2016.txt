@@ -1,26 +1,3 @@
-vállalkozási szerződés keret budapest
-kerület csicsergő óvoda
-a kerekerdő óvoda számára és a liliom óvoda számára közétkeztetés biztosítás
-nyertes ajánlattevő az óvodás korú gyermek részére nevelési nap napi egyszeri főétkezés
-ebéd
-és kétszeri kis étkezés
-tízórai
-uzsonna
-biztosít
-nyertes ajánlattevő a szolgáltatás nyújtás hétfő péntek
-illetve egyéb nevelési nap köteles
-a szolgáltatás érintett nevelési nap szám az elmúlt év adat alap
-nap
-év
-tízórai biztosítás óvodás gyermek részére
-adag
-nap
-ebéd biztosítás óvodás gyermek részére
-adag
-nap
-uzsonna biztosítás óvodás gyermek részére
-adag
-nap
-alkalmazott részére ebéd
-adag
-nap
+version https://git-lfs.github.com/spec/v1
+oid sha256:d36fac4d22a3c2e2ad17dbf3fa74f08fb3e7d59636df9a3636699c80844bed3b
+size 710

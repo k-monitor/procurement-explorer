@@ -1,2 +1,3 @@
-videotechnikai és biztonságtechnikai eszköz
-továbbá a működés szükséges számítástechnikai eszköz beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:e27d71b71d1769859170539aabdaaec564edb4ee83e640355d7ed7e495a10e6f
+size 121

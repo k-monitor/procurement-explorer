@@ -1,10 +1,3 @@
-„	„	PUNCT	_	
-Fertőtlenítőszerek	fertőtlenítőszer	NOUN	Case=Nom|Number=Plur	
-beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-magyarországi	magyarországi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-fekvőbeteg	fekvőbeteg	NOUN	Case=Nom|Number=Sing	
-ellátó	ellátó	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-intézmények	intézmény	NOUN	Case=Nom|Number=Plur	
-részére	részére	ADP	_	
-"	"	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:5ace620d9e53659b33617e542b9f7125273fcea8b33cfc293bbd47357a1d8cc6
+size 454

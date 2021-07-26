@@ -1,8 +1,3 @@
-adásvételi szerződés a szent lázár megyei kórház
-székhely
-salgótarján
-füleki út
-rész
-hónap szükséges kötszer beszerzés
-az eljárás rész tehető ajánlat összesen csomag kötszer
-opcionális mennyiség csomag
+version https://git-lfs.github.com/spec/v1
+oid sha256:b1cba50bf6a22f2b1b1a215c200a303da64cb69d7269035fc534a3584fdc267d
+size 229

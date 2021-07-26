@@ -1,1 +1,3 @@
-Adásvételi szerződés.
+version https://git-lfs.github.com/spec/v1
+oid sha256:607b0c707713d19bffd00145843693fa92d6b35e483f09f5c167cba270cd8e63
+size 25

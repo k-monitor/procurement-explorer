@@ -1,1 +1,3 @@
-Társasági folyamatok vizsgálata - VIR előkészítés beszerzése és folyamatszervezés, átvilágítás (BPR) A beszerzési eljárás célja az Ajánlatkérőnél kialakított társasági folyamatok vizsgálata, az adminisztratív túlterhelések, a hatékonysági tartalékok kimutatása, a kockázatok, duplikációk beazonosítása és jelzése. A cél egy optimális adminisztrációs és ügykezelési jövőkép kialakítása, a követendő fejlesztési terv és menetrend meghatározásával, különös tekintettel a folyamatokhoz kapcsolódó informatikai rendszerek jövőbeni továbbfejlesztési lehetőségeinek vizsgálatára.
+version https://git-lfs.github.com/spec/v1
+oid sha256:44197917e2e648bb416d360eeef9d360c0962f24a1f42557afe9607a8206dde5
+size 644

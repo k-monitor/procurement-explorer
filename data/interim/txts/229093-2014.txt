@@ -1,1 +1,3 @@
-Szolgáltatási szerződés Bloomberg szolgáltatások beszerzésére az alábbiak szerint: — Bloomberg bérelt vonali szolgáltatás, — 3 darab Bloomberg terminal szolgáltatás igénybevétele, eszközbérlet nélkül, — 3 darab Bloomberg terminal szolgáltatás opciós igénybevétele a szerződés időtartama alatt, eszközbérlet nélkül. Ezen 3 darab Bloomberg terminal szolgáltatás eszközbérlet nélküli igénybevétele a szerződés időtartama alatt a Megrendelő erre vonatkozó megrendelése alapján történik. A részletes műszaki leírást az ajánlati dokumentáció tartalmazza.
+version https://git-lfs.github.com/spec/v1
+oid sha256:399f9eb638c658014bd85029ffffdd95c6a2a0376bd63f6e1ce7005842b0d098
+size 610

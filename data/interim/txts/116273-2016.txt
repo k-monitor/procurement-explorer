@@ -1,1 +1,3 @@
-Adásvételi keretmegállapodás különböző betontípusok beszerzése tárgyában.
+version https://git-lfs.github.com/spec/v1
+oid sha256:532f0d8b9e91ebb667e706da752e7cd3bad408a67c30ca6e676167b1b6eb2e50
+size 85

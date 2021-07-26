@@ -1,8 +1,3 @@
-Kereskedelmi	kereskedelmi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-villamos	villamos	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-energia	energia	NOUN	Case=Nom|Number=Sing	
-beszerzésére	beszerzés	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-2014-ben	2014	NUM	Case=Ine|NumType=Card|Number=Sing	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:b3fb15d62ec8e147c64f002a015adee7aa5f84e3cd09a79385e40d61a44a5118
+size 365

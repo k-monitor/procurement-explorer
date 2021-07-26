@@ -1,31 +1,3 @@
-Közúti	közúti	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-gépjárművekhez	gépjármű	NOUN	Case=All|Number=Plur	
-kapcsolódó	kapcsolódó	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-anyagbeszerzés	anyagbeszerzés	NOUN	Case=Nom|Number=Sing	
-nettó	nettó	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-7	7	NUM	Case=Nom|NumType=Card|Number=Sing	
-000	000	NUM	Case=Nom|NumType=Card|Number=Sing	
-000	000	NUM	Case=Nom|NumType=Card|Number=Sing	
-HUF	HUF	PROPN	Case=Nom|Number=Sing	
-(	(	PUNCT	_	
-mely	mely	PRON	Case=Nom|Number=Sing|Person=3|PronType=Rel	
-a	a	DET	Definite=Def|PronType=Art	
-teljesítés	teljesítés	NOUN	Case=Nom|Number=Sing	
-során	sor	NOUN	Case=Sup|Number=Sing|Number[psor]=Sing|Person[psor]=3	
--	-	PUNCT	_	
-30	30	NUM	Case=Nom|NumType=Card|Number=Sing	
-%	%	PUNCT	_	
--	-	PUNCT	_	
-kal		NOUN	Case=Ins|Number=Sing	
-eltérhet	eltér	VERB	Definite=Ind|Mood=Pot|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	
-)	)	PUNCT	_	
-értékben	érték	NOUN	Case=Ine|Number=Sing	
-az	az	DET	Definite=Def|PronType=Art	
-ajánlati	ajánlati	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-dokumentáció	dokumentáció	NOUN	Case=Nom|Number=Sing	
-5.	5.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
-számú	számú	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-melléklete	melléklet	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-szerint	szerint	ADP	_	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:f82d0b5f8868193f00c9ee13e1fbfc472513e31fd5eda2092ab477801594ef79
+size 1350

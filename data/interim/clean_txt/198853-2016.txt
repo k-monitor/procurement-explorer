@@ -1,2 +1,3 @@
-adásvételi szerződés
-az mtva részére meglévő studer vista rendszer bővítés és egyéb kiegészítő eszköz berendezés beszerzés tárgy
+version https://git-lfs.github.com/spec/v1
+oid sha256:afe5b61fbddbeef4b0b4bbe8d9a85472a04bf1965603f66fb3ecf636c496be4e
+size 148

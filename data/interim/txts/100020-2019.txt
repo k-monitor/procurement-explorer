@@ -1,1 +1,3 @@
-Adásvételi szerződés 1 darab elektronmikroszkóp és 1 darab ionkromatográf rendszer beszerzésére a GINOP-2.3.2-15-2016-00013 sz projekt keretében. Az eszközök beszerzése esetében az üzembe helyezés is Ajánlattevő feladata. Az üzembe helyezés magában foglalja: a rendszer leszállítását, beszerelését; rendeltetésszerű használatra alkalmas módon történő üzembe helyezését, az ehhez szükséges anyagok, berendezések biztosításával; az érvényes forgalomba hozatali engedély bemutatását; az üzembe helyezési jegyzőkönyv felvételét; a kezelőszemélyzet betanítását (maximum 4 fő részére maximum 2 munkanap időtartamban) rögzítő jegyzőkönyv felvételét.
+version https://git-lfs.github.com/spec/v1
+oid sha256:84d3c7bc25ea312232dc84832a12cd3138832a1fffed8b5eed0c7599346f132c
+size 712

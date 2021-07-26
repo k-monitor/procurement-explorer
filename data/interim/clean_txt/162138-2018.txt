@@ -1,16 +1,3 @@
-szerződés meghatározás
-tervezési szerződés
-tárgy
-a piliscsabai iosephinum a
-makovecz imre bástya
-nagyprojekt belül
-az oszk archivális raktárépület teljes körű tervezés
-valamint a kapcsolódó infrastruktúra
-külső közmű
-út
-karsztkút
-tűzivízhálózat
-tározó
-optikai van-hálózat
-felszíni vízelvezetés
-teljes körű tervezői feladat ellátás tervezési szerződés keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:149cca4409796f6485af2495cabe42f94b830d5b68488d2b46795b296039bb84
+size 401

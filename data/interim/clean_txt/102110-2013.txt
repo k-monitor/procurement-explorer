@@ -1,4 +1,3 @@
-vállalkozási szerződés keret új szennyvízcsatorna hálózat építés és a meglevő szennyvízcsatorna hálózat rekonstrukció a fidic piros könyv szerződéses feltétel alkalmazás
-keop-1
-2.0
-09-2010-0029
+version https://git-lfs.github.com/spec/v1
+oid sha256:8be702f7ab83f9cc19209de8abada58db0181a6f94c98c2ff970ed4ede590212
+size 215

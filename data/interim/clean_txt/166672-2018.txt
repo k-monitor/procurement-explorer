@@ -1,11 +1,3 @@
-könnyűteher gépjármű bérlés határozott idő szóló flottakezelési szerződés keret
-az alábbi megoszlás szerint
-db művezetői gépjármű 1.
-db művezetői gépjármű ii
-db művezetői gépjármű iii
-db művezetői gépjármű
-db duplafülkés
-platós gépjármű 1.
-db duplafülkés
-platós
-ponyvás gépjármű ii
+version https://git-lfs.github.com/spec/v1
+oid sha256:9bafc9a4bab214141883692cc18191fb2b262a18c6778b4b2e330effdc776e86
+size 330

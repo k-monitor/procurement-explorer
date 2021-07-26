@@ -1,23 +1,3 @@
-A	a	DET	Definite=Def|PronType=Art	
-Duna	Duna	PROPN	Case=Nom|Number=Sing	
-Transznacionális	Transznacionális	PROPN	Case=Nom|Number=Sing	
-Program	Program	PROPN	Case=Nom|Number=Sing	
-lebonyolítását	lebonyolítás	NOUN	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-támogató	támogató	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-monitoring	monitoring	NOUN	Case=Nom|Number=Sing	
-és	és	CONJ	_	
-információs	információs	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-rendszer	rendszer	NOUN	Case=Nom|Number=Sing	
-(	(	PUNCT	_	
-Danube	danube	NOUN	Case=Nom|Number=Sing	
-Monitoring	monitoring	NOUN	Case=Nom|Number=Sing	
-System	System	X	_	
-DMS	DMS	PROPN	Case=Nom|Number=Sing	
-)	)	PUNCT	_	
-fejlesztése	fejlesztés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-,	,	PUNCT	_	
-bevezetése	bevezetés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-és	és	CONJ	_	
-működés-támogatása	működés-támogatás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:65123208413403dc14a34199a7fa0fc4be79af012987205b068590e2975d5ac2
+size 1015

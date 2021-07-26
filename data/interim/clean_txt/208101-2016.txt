@@ -1,7 +1,3 @@
-m³
-mennyiségű kommunális és építési hulladék
-azonosító kód
-és
-vagy
-összegyűjtés
-elszállítás és kezelés
+version https://git-lfs.github.com/spec/v1
+oid sha256:53b4062694e95c7fb4784055ff2b6a76d57173db4134736f5136d180b3f20f15
+size 123

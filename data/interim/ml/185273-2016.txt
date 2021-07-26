@@ -1,24 +1,3 @@
-A	a	DET	Definite=Def|PronType=Art	
-Semmelweis	Semmelweis	PROPN	Case=Nom|Number=Sing	
-Egyetemen	Egyetem	PROPN	Case=Sup|Number=Sing	
-keletkező	keletkező	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-különleges	különleges	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-kezelést	kezelés	NOUN	Case=Acc|Number=Sing	
-igénylő	igénylő	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-egészségügyi	egészségügyi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-(	(	PUNCT	_	
-fertőző	fertőző	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-)	)	PUNCT	_	
-veszélyes	veszélyes	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-hulladék	hulladék	NOUN	Case=Nom|Number=Sing	
-gyűjtéséhez	gyűjtés	NOUN	Case=All|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-szükséges	szükséges	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-egyszer	egy	ADV	_	
-használatos	használatos	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-(	(	PUNCT	_	
-elsődleges	elsődleges	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-)	)	PUNCT	_	
-gyűjtőeszközök	gyűjtőeszköz	NOUN	Case=Nom|Number=Plur	
-beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:9222cbe542479bb4bdc71a3a0fc03d59f6a32f5741cc529d306beaef02b97aec
+size 1124

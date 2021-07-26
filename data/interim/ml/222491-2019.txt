@@ -1,8 +1,3 @@
-Debreceni	debreceni	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-Nemzetközi	Nemzetközi	PROPN	Case=Nom|Number=Sing	
-Repülőtér	repülőtér	PROPN	Case=Nom|Number=Sing	
-tűzoltó	tűzoltó	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-laktanya	laktanya	NOUN	Case=Nom|Number=Sing	
-tervezési	tervezési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-feladatai	feladat	NOUN	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:d2e146ebfbccaacc4e2abbce72ca0a36917198eaea5d79089d39ce603426e994
+size 421

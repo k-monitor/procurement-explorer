@@ -1,1 +1,3 @@
-Adásvételi szerződés keretében Ajánlatkérő az Intézmény részére 12 hónapban szükséges különféle vágó, záró és szeparáló sebészeti eszközöket kívánja megvásárolni.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e29fc406fbae363e480726bfc276301aa41c3ade70a7d328ee9d8757e65df446
+size 194

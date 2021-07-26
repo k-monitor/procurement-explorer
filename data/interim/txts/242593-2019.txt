@@ -1,1 +1,3 @@
-Táblaszintű adatgyűjtés a 2018/2019. és 2019/2020. gazdasági évekre két részben
+version https://git-lfs.github.com/spec/v1
+oid sha256:423d13e515153a8a18bc36dd321b9957e2c5e5bfeb5612ece834b0f62eba29e5
+size 88

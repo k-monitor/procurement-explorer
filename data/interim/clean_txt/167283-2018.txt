@@ -1,12 +1,3 @@
-efop-1
-1-vekop-15-2016-00001 azonosítószámú
-társ projekt
-szociális intézményi férőhely kiváltási szakmai koordinációs műhely kialakítás
-című kiemelt projekt keret intézményi férőhely kiváltási folyamat nyom követő értékelés
-kutatás
-mérés-értékelés
-hatékonyság
-és hatásvizsgálat az alábbi részajánlati kör
-1. rész
-vállalkozási szerződés a kitagolás kapcsolatos társadalmi attitűd és az változás mérés tárgy 2. rész
-vállalkozási szerződés a lakó életminőség változás
+version https://git-lfs.github.com/spec/v1
+oid sha256:4c917e8004a998231aaeaeacf56e81030325fcc5b057a496413d0f3ca255c8e5
+size 534

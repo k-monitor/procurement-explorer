@@ -1,1 +1,3 @@
-Ajánlatkérő az Intézmény részére 36 hónapban szükséges különféle laboratóriumi diagnosztikumokat kívánja megvásárolni, egyrészt a saját tulajdonában lévő laboratóriumi készülékek működtetéséhez, másrészt másrészt pedig a II. V. és VI. részek esetében gyárilag új különféle laboratóriumi készülékek kihelyezésével együtt, továbbá a használatba adásra kerülő készülékek on-line csatlakozásának biztosítása Ajánlatkérő mindenkori informatikai rendszeréhez. Jelenleg Ajánlatkérőnél Promed Labor informatikai rendszer és Windows XP operációs rendszer működik.
+version https://git-lfs.github.com/spec/v1
+oid sha256:01d45e8a73d004952d1f1484e8e71a3b106c238383a54d560ff0251e723149cb
+size 630

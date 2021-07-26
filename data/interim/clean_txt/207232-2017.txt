@@ -1,6 +1,3 @@
-keretmegállapodás az rsztop-1
-1-16-2016-00002 azonosítószámú
-rászoruló személy számára természetbeni juttatás biztosítás az rsztop-1
-felhívás 2. szakasz keret
-elnevezésű kiemelt projekt megvalósítás sor szegény gyermekes család számára élelmiszer csomag beszerzés
-című program vonatkozás
+version https://git-lfs.github.com/spec/v1
+oid sha256:151fab598efe6b0179de00563450b7e8211a5c48e92771a3364b3e5004c2fab5
+size 318

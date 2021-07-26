@@ -1,1 +1,3 @@
-Folyószámla hitelkeret biztosítása összesen 8 800 000 000 HUF, azaz nyolcmilliárd-nyolcszázmillió forint értékben, hitelszerződés formájában.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7dd4cb89209bb63b03d69e577ec9cb02859c3cffc345f5d232667ba38908cbda
+size 155

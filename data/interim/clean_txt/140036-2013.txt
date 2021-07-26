@@ -1,21 +1,3 @@
-1. rész
-híd fővizsgálati feladat elvégzés
-m3
-vállalkozási keretszerződés alap
-ii
-rész
-híd fővizsgálati feladat elvégzés
-m1
-m3
-m9
-m30
-vállalkozási keretszerződés alap
-iii
-rész
-híd célvizsgálat
-m2
-vállalkozási keretszerződés alap
-rész
-híd célvizsgálat
-m1
-vállalkozási keretszerződés alap
+version https://git-lfs.github.com/spec/v1
+oid sha256:81fa0bc09c5497a7da33fc35cc30e6427ea1dbb2e9e0d439b42c3538bff8a849
+size 321

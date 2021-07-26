@@ -1,1 +1,3 @@
-Adásvételi szerződés alapján a „Sopron és Térsége Hulladékgazdálkodási Rendszer” elnevezésű KEOP-1.1.1./2F/09-2011-0002 számú projekt megvalósulásához szükséges hulladékgyűjtő konténerek beszerzése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:17d96069f0fa124b53b94ab41310b187892d384a432436202caeff0b4ad9737c
+size 227

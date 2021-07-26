@@ -1,1 +1,3 @@
-ajánlatkérő élelmiszer áru és alapanyag szükséglet biztosítás szállítás útján a vételár kifizetés ellenében
+version https://git-lfs.github.com/spec/v1
+oid sha256:2046a6c723a253949bd5cbcd251547e10432f389db92ca463ea02c01b838918e
+size 126

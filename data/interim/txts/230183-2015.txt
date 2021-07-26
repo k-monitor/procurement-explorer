@@ -1,1 +1,3 @@
-Adás-vételi szerződés TIOP 2.2.8/14 Társadalmi Infrastruktúra Operatív Program Infrastrukturális fejlesztések megvalósítása című Kiemelt Projekt pályázati konstrukcióból feltételes közbeszerzési eljárásban komplett haemodinamikai vizsgáló berendezés beszerzésére.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a782f79642c38de5b5ea4f843c312e831a2793544031389c1f71b9e8564d4427
+size 291

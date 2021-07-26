@@ -1,1 +1,3 @@
-Bútorok beszerzése SZGYF számára adás-vétel keretében
+version https://git-lfs.github.com/spec/v1
+oid sha256:438e552345d872c489f98a56e45e82053eda1eaea0242fcb005836b06115faa4
+size 60

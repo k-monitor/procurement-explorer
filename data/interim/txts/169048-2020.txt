@@ -1,1 +1,3 @@
-Gazdálkodó szervezetekkel kapcsolatos 292 500 m3 és a II.2.11) pontban meghatározott 81 250 m3 opciós értékben települési szilárd hulladékgazdálkodási részfeladatok (gyűjtés, szállítás) ellátása, melyet Szolgáltatónak az általa biztosított célgépeivel, eszközeivel (műszaki leírás szerinti hulladékgyűjtő edényzettel) kell végeznie.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7682a17a5b3dccd9c577d973cb1bd148a7f46b977c503382331c932c38874045
+size 368

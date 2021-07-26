@@ -1,3 +1,3 @@
-évszakos kulturális és rendezvényhelyszín fejlesztés balatonfüred a meglévő kulturális kínálat erősítés
-tervezési szerződés keret projekt azonosítószám
-ginop-7
+version https://git-lfs.github.com/spec/v1
+oid sha256:5f7940d2eb84a479351368a2688b96b9fbd74248f4a80bee68aa2a8268f1bcac
+size 180

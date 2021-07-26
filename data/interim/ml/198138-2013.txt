@@ -1,33 +1,3 @@
-Megbízási	megbízási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-a	a	DET	Definite=Def|PronType=Art	
-KEOP-1	KEOP-1	PROPN	Case=Nom|Number=Sing	
-.	.	PUNCT	_	
-
-1.1	1.1	PROPN	Case=Nom|Number=Sing	
-/	/	PUNCT	_	
-2F	2F	NUM	Case=Nom|NumType=Card|Number=Sing	
-/	/	PUNCT	_	
-09-11-2011-0001	09-11-2011-0001	PROPN	Case=Nom|Number=Sing	
-azonosítószámú	azonosítószámú	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-,	,	PUNCT	_	
-a	a	DET	Definite=Def|PronType=Art	
-„	„	PUNCT	_	
-Közép-Duna	Közép-duna	NOUN	Case=Nom|Number=Sing	
-Vidéke	vidék	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-Hulladékgazdálkodási	hulladékgazdálkodási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-Rendszer	rendszer	NOUN	Case=Nom|Number=Sing	
-fejlesztése	fejlesztés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-"	"	PUNCT	_	
-című	című	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-pályázati	pályázati	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-program	program	NOUN	Case=Nom|Number=Sing	
-megvalósításához	megvalósítás	NOUN	Case=All|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-szükséges	szükséges	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-PR	PR	NOUN	Case=Nom|Number=Sing	
-és	és	CONJ	_	
-Szemléletformálási	szemléletformálási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-feladatok	feladat	NOUN	Case=Nom|Number=Plur	
-ellátására	ellátás	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:1d265ad7ff2d8e5418ac861d07dd44a6b4a9403c03e20a7a562450c3e4032144
+size 1452

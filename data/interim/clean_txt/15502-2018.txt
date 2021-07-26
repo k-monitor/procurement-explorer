@@ -1,2 +1,3 @@
-adásvételi keretszerződés alap
-t5c5 típusú vasúti jármű ajtó beszerzés a bkv vasúti járműjavító kft. részére
+version https://git-lfs.github.com/spec/v1
+oid sha256:28e3620f2b645980fd456842762c830a3b9908547af99b3e269a59360a154726
+size 126

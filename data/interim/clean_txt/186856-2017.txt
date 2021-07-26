@@ -1,17 +1,3 @@
-az országos rendőr-főkapitányság által vásárolt gépjármű garanciális idő belüli kárjavítás és garanciális idő túli karbantartás
-javítás
-gyártóműi előírás és technológia alkalmazás
-gyári új alkatrész beépítés
-valamint műszaki vizsgáztatás 3. rész
-1. rész
-opel gyártmányú gépjármű karbantartás
-javítás
-db keretmennyiség
-2. rész
-skoda és volkswagen gyártmányú gépjármű karbantartás
-javítás
-db keretmennyiség
-3. rész
-mercedes-benz gyártmányú gépjármű karbantartás
-javítás
-db keretmennyiség
+version https://git-lfs.github.com/spec/v1
+oid sha256:fb6b1cde65022487a4291b6a8c9c0484ba8bfa720e33f75710c7dc29e8b6c1b4
+size 562

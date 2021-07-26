@@ -1,1 +1,3 @@
-Modern igazságügyi toxikológiai vizsgáló műszerek és laboratóriumi eszközök beszerzése 1. rész: 1 darab automata mintaelőkészítési robotrendszer 2. rész: 1 darab UHPLC MS/MS 3. rész: 1 darab UHPLC HRMS
+version https://git-lfs.github.com/spec/v1
+oid sha256:dbd0876d56d70f231566bd935c1257a66103be077f5c858c521c84cab747d5d4
+size 219

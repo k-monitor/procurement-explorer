@@ -1,2 +1,3 @@
-megbízási szerződés
-m60 gyorsforgalmi út 58. sz.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6345c65f292a8476f47b1681209298f2ae9ba16491cf356a4d735df87a9bf4c1
+size 53

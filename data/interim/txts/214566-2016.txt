@@ -1,1 +1,3 @@
-Adásvételi keretszerződés cseppfolyós egészségügyi gázok beszerzésére.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5286307b9347d04a121849fbbd0d382359671b6e6bccdccad95f244f211765d9
+size 81

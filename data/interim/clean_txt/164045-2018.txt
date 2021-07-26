@@ -1,2 +1,3 @@
-különféle laboratóriumi reagens beszerzés i
-részben
+version https://git-lfs.github.com/spec/v1
+oid sha256:5c5e8e9eb760a24c950cf21ad1c4a5707a298a2888fa98aa877986a10baa1442
+size 57

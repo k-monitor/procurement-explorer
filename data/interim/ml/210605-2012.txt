@@ -1,10 +1,3 @@
-Személygépjárművek	személygépjármű	NOUN	Case=Nom|Number=Plur	
-beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-a	a	DET	Definite=Def|PronType=Art	
-NAV	NAV	PROPN	Case=Nom|Number=Sing	
-részére	részére	ADP	_	
-8	8	NUM	Case=Nom|NumType=Card|Number=Sing	
-rész	rész	NOUN	Case=Nom|Number=Sing	
-keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:be46e302eac1dd7289623c4029ee4a84b4d01cd077a54e0677ecba8032329ecc
+size 424

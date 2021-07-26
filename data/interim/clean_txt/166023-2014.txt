@@ -1,2 +1,3 @@
-adásvételi szerződés mely tárgy
-irodaszer megrendelés budapest főváros kormányhivatal részére
+version https://git-lfs.github.com/spec/v1
+oid sha256:6a1d6571665e8eb484d1ae4a25313ef68f9979aed01cabbab6acbaaf3b16e882
+size 104

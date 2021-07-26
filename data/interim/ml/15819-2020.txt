@@ -1,4 +1,3 @@
-e-learning	e-learning	X	_	
-licencek	licenc	NOUN	Case=Nom|Number=Plur	
-beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:788e788f0952bfbe020e912148311474b6717ed958e10535bfd8e411b534be99
+size 154

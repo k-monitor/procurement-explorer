@@ -1,13 +1,3 @@
-villamosenergia áruszállítási kereskedelmi szerződés a magyar átviteli hálózat folyamatos rendelkezés álló
-szabványos minőségű villamos energia versenypiaci beszerzés teljes ellátásalapú szerződés keret
-menetrendadási kötelezettség nélkül az alábbi szerint
-1. rész
-2012. október 1.
-2013. szeptember 30. közötti időszak szeged megyei jogú város önkormányzata fenntartás alatt álló intézmény
-egyes
-os tulajdon levő gazdasági társaság
-kontakt szervezetek
-részére a dokumentáció részletezett felhasználási hely vonatkozás
-2. rész
-2012. október 1.
-2013. szeptember 30. közötti időszak a szegedi tudományegyetem és az mta biológiai kutató központ dokumentáció részletezett felhasználási helyei részére
+version https://git-lfs.github.com/spec/v1
+oid sha256:102b3ba65b5f173386bbca65036da9b80ce43203868ca657e1b32e13177ea108
+size 766

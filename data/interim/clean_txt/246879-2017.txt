@@ -1,1 +1,3 @@
-kiskunfélegyháza város önkormányzata és intézmény részére földgáz beszerzés hónapos időtartam
+version https://git-lfs.github.com/spec/v1
+oid sha256:d3d4ed637d2eb3c383c1c973b60d63c388895ca0195ef038c15bc62f6d8a0cb9
+size 108

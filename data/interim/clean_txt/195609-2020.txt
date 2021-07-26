@@ -1,3 +1,3 @@
-db busz beszerzés a
-rátgéber kosárlabda akadémia
-alapítvány részére a közbeszerzési dokumentum meghatározott szerint
+version https://git-lfs.github.com/spec/v1
+oid sha256:4fe4c3a9844fb40f8e3936ff9569a8c26ff3de031d09bce970606fa643906bb4
+size 128

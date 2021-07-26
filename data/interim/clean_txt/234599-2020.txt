@@ -1,17 +1,3 @@
-takarítási feladat ellátás rész az alábbi szerint
-1. rész
-az újpesti szakorvosi rendelőintézet takarítási feladat ellátás 2. rész
-újpesti egészségügyi intézmény
-védőnői szolgálati helyiség
-fogászati rendelő és mentálhigiéniás gondozói helyiség
-takarítási feladat ellátás 3. rész
-újpesti önkormányzati intézmény
-régi és új városháza
-takarítási feladat ellátás 4. rész
-újpesti önkormányzati intézmény
-kerületi hivatal gyámügyi és igazságügyi osztály
-újpesti közterület-felügyelet
-közrendvédelmi szálló
-káposztásmegyeri ügyfélszolgálat
-takarítási feladat ellátás 5. rész
-az újpesti vásárcsarnok
+version https://git-lfs.github.com/spec/v1
+oid sha256:50245f5cb37a8831d6d9193141544350d46eff5b93c720c1e2b5c2a5bf54c394
+size 678

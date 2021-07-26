@@ -1,2 +1,3 @@
-tengelysúly mérleg beszerzés a magyar közút nonprofit zrt. részére adás-vételi szerződés keret a gop-2
-3-12-2012-0021 projekt kapcsolódó
+version https://git-lfs.github.com/spec/v1
+oid sha256:2ff811b2e851607c24b02a448ff93a5e8310bddbfd7f870a35d7d30d47f982dc
+size 149

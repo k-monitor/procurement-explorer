@@ -1,5 +1,3 @@
-a kisvárdai uefa 3-as
-mlsz c kategóriájú labdarúgó
-sportlétesítmény
-stadion
-kivitelezés vállalkozási szerződés keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:06b2b5af638656c67c1d310382083a0edeb5084647760e06646848fdbf77e527
+size 130

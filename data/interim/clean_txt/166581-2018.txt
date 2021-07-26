@@ -1,4 +1,3 @@
-az
-2016.
-korm
-határozat szerinti infrastruktúrafejlesztés megvalósítás mobília beszerzés a testnevelési egyetem részére adásvételi szerződés keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:75c286198037fc8d236cce9dc59f15723178f396b0dfbc89a58f0405a6dc3568
+size 161

@@ -1,8 +1,3 @@
-Élelmiszerek	élelmiszer	NOUN	Case=Nom|Number=Plur	
-beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-2020	2020	NUM	Case=Nom|NumType=Card|Number=Sing	
-(	(	PUNCT	_	
-32	32	NUM	Case=Nom|NumType=Card|Number=Sing	
-rész	rész	NOUN	Case=Nom|Number=Sing	
-)	)	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:4ae858d572ee0bf8c67f2a95ab6d47eeeff7498c263cae245bffc0ab0a770018
+size 296

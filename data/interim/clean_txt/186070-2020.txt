@@ -1,2 +1,3 @@
-rochus
-care for health in satu mare and szabolcs-szatmár-bereg counties című pályázat keret képalkotó berendezés és tartozék beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:45239776c06a509aa9ad4742c2ca9be30abd8100eee5a2a172dea8f689a3eded
+size 145

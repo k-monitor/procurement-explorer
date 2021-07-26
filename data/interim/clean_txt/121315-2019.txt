@@ -1,1 +1,3 @@
-gépjármű beszerzés ii
+version https://git-lfs.github.com/spec/v1
+oid sha256:89b0beffafd6ab95dc769e9cc985a2b5b16745661faca1214b649c776668d959
+size 25

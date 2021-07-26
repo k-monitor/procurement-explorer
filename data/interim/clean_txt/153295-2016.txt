@@ -1,2 +1,3 @@
-keretmegállapodás a kormányzati informatikai fejlesztési ügynökség európai uniós támogatás
-valamint hazai forrás megvalósuló projekt kapcsolódó informatikai fejlesztés és szolgáltatás megvalósítás az ajánlattételi szakasz tartozó közbeszerzési dokumentum részletezett szerint
+version https://git-lfs.github.com/spec/v1
+oid sha256:dd8f5771ddd3ea168be19231ee9293349e6071895efc6520ddb455267e0cfd14
+size 304

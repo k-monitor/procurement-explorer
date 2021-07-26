@@ -1,1 +1,3 @@
-általános felhasználású villamos energia értékesítés teljes ellátás alapú villamos energia kereskedelmi szerződés keret a hírös sport nonprofit kft. részére
+version https://git-lfs.github.com/spec/v1
+oid sha256:8e4b7a0f2dbdbd6ced26e790032621214396912817fa1a28907fb5ab9e8f8f49
+size 174

@@ -1,1 +1,3 @@
-Informatikai hardverek (laptopok, surface-k, egerek, szerver, külső merevlemezek, dokumentum kamerák, 3D nyomtatók, kábelek, modulok, surface ceruzák, elosztósorok, tisztítók, izzók, UPS szünetmentes, projektor konzollal, motoros vetítővászon) és szoftverek (veeam, gfi, team wiever, windows, windows 10 pro, windows server) beszerzése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1438b0af9470915adb3213f4cc3276a642ce3376ef71e0d63fcd4732bf58ae1a
+size 352

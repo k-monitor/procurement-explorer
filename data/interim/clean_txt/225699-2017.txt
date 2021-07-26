@@ -1,3 +1,3 @@
-ajánlatkérő által használt hpe termék licenc frissítés
-upgrade
-és ela gyártói támogatás
+version https://git-lfs.github.com/spec/v1
+oid sha256:b1772164b58a2f5ef17dbb6d820c7233b047b2e5515b0146c81bbed83db87469
+size 100

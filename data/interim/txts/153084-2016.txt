@@ -1,1 +1,3 @@
-Keret-megállapodás keretében vállalkozási szerződés a Dunakeszi Város Önkormányzata tulajdonában, fenntartásában, illetve kezelésében lévő különféle építmények építési, illetve építési jellegű felújítási és fenntartási munkáinak ellátására.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9b8f8da035bb16732b01f6e9259ad9e22cff302c1bb2794b88e7e986edeff2c3
+size 279

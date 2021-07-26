@@ -1,1 +1,3 @@
-villamos energia vonatkozó szállítási szerződés
+version https://git-lfs.github.com/spec/v1
+oid sha256:24893fb2874a79617f3f9a21778e065a5e8d289c2e38a2c04ac5375b71c2d04e
+size 53

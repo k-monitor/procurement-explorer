@@ -1,1 +1,3 @@
-fejér megyei integrált szociális intézmény és a fejér megyei gesztenyés egyesít szociális intézmény részére élelmiszer alapanyag beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:7d6a9a8b466bdef4e88af89693a69d8d8196bcdf275c9205f6221a465d517182
+size 154

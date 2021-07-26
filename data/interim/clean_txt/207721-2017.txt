@@ -1,6 +1,3 @@
-határozott időtartam szóló vállalkozási keretszerződés kreatív és tartalomfejlesztési
-médiaügynökségi
-pr és online szolgáltatási feladat ellátás tárgy európai uniós
-ginop-1
-5-15-2015-00001
-forrás
+version https://git-lfs.github.com/spec/v1
+oid sha256:2ac88781571aca8dd965f4ab1c8262fbd6df17d581df5af5fe3c18bba6477ef8
+size 219

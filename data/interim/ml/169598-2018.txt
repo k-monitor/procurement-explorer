@@ -1,21 +1,3 @@
-Életpályatervezés	életpályatervezés	NOUN	Case=Nom|Number=Sing	
-gemifikálása	gemifikálás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-az	az	DET	Definite=Def|PronType=Art	
-EFOP-1	EFOP-1	PROPN	Case=Nom|Number=Sing	
-.	.	PUNCT	_	
-
-2	2	NUM	Case=Nom|NumType=Card|Number=Sing	
-.	.	PUNCT	_	
-3-VEKOP-15-2015-00001	3-VEKOP-15-2015-00001	PROPN	Case=Nom|Number=Sing	
-Komplex	komplex	PROPN	Case=Nom|Number=Sing	
-ifjúsági	ifjúsági	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-fejlesztések	fejlesztés	NOUN	Case=Nom|Number=Plur	
--	-	PUNCT	_	
-Új	új	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-Nemzedék	nemzedék	NOUN	Case=Nom|Number=Sing	
-Újratöltve	újratöltve	ADV	VerbForm=Trans	
-című	című	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-projekt	projekt	NOUN	Case=Nom|Number=Sing	
-keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:064569a9f2a69cd75b42b6fe2da80057e95eb50369e9393755f51c4eca043b8c
+size 871

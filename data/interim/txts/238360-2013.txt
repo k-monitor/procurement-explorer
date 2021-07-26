@@ -1,1 +1,3 @@
-Számlavezetés, folyószámla-hitelkeret és Beruházási hitelkeret biztosítása (Folyószámla és Hitel szerződés keretében).
+version https://git-lfs.github.com/spec/v1
+oid sha256:4595d54de6567b8d1078175d898634eded6e24528694c51cba60e3eea215a859
+size 133

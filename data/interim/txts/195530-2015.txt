@@ -1,1 +1,3 @@
-Adásvételi szerződés keretében kötszerek beszerzése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6b09f5a3d0153435a54095c6b89df9073b740a8c58624557b3edc4521734a52b
+size 59

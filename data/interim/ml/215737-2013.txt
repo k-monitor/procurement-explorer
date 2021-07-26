@@ -1,11 +1,3 @@
-Háztartás-vegyipari	háztartás-vegyipari	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-és	és	CONJ	_	
-kiegészítő	kiegészítő	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-termékek	termék	NOUN	Case=Nom|Number=Plur	
-beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-keretjellegű	keretjellegű	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-letéti	letéti	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-raktárszerződés	raktárszerződés	NOUN	Case=Nom|Number=Sing	
-keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:59f4a8d21fb8de62c465d4ad94e8229e1834612117b024c947b0893324456c5c
+size 582

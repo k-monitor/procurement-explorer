@@ -1,8 +1,3 @@
-vállalkozási szerződés a támop-5
-a1 azonosító számú
-megváltozik munkaképességű személy munkaerő-piaci helyzet elősegítés érdek történő rendszerszintű képzési és szolgáltatásfejlesztési modellprogram
-című projekt keret
-képzési és rehabilitációs menedzsment szoftver
-kér szoftver
-fejlesztés
-és az ez kapcsolódó szolgáltatás nyújtás tárgy
+version https://git-lfs.github.com/spec/v1
+oid sha256:3dc6ba6d0a344663eaf4db8a28c3c7c4ac8dd3373247b8449c0b9b78b5bbe14b
+size 381

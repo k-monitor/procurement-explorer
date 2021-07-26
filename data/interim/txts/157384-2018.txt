@@ -1,1 +1,3 @@
-Vállalkozási szerződés – Budapesti Corvinus Egyetem pesti oktatási létesítményeiben takarítási feladatok és egyéb gondnoksági tevékenységek ellátása.
+version https://git-lfs.github.com/spec/v1
+oid sha256:905e88113861030291d3009d1bcfdcd7f55f5e3ec437555af816408a9bbda057
+size 168

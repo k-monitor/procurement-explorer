@@ -1,1 +1,3 @@
-A Semmelweis Egyetemen keletkező különleges kezelést igénylő egészségügyi (fertőző) veszélyes hulladék gyűjtéséhez szükséges egyszer használatos (elsődleges) gyűjtőeszközök beszerzése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7a3738ea92136eb0457163c19703f9fcc4ed29ab9b9f17c158aa09abadd453fe
+size 209

@@ -1,1 +1,3 @@
-SC-203 AH típusú TSCD steril csőhegesztő berendezések (gyártó: TERUMO BCT Europe N.V.) jótállási időn túli karbantartása és eseti javítása.
+version https://git-lfs.github.com/spec/v1
+oid sha256:21992a34ae538c0ba81cd43ebad84bae0481064da3a6cc26495745f2d1484f15
+size 155

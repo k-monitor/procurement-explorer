@@ -1,1 +1,3 @@
-Tetra rádió beszerzése 2014.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2b1afe0df29bb0853cd9cf9ca79763d6d528893d839bccb53fb18b9ae30c53ea
+size 31

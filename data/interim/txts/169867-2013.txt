@@ -1,1 +1,3 @@
-Megbízási szerződés alapján élőerős őrzés-védelem ellátása.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9ae6b7c4d9175872e2331b5c91ea8ccb94dc0a08f9bca6aa845968d9797c4608
+size 72

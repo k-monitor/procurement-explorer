@@ -1,1 +1,3 @@
-Szállítási szerződés, Gyümölcslé készítő gépsor beszerzése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f97693fb9caffd3fdc7e44256b992ca4365afac04c6ce70e35d1314f5592ff36
+size 72

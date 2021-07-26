@@ -1,1 +1,3 @@
-Vállalkozási szerződés keretében a Betegápoló Irgalmas Rend tulajdonát képező Budai Irgalmasrendi Kórház (1027 Budapest, Frankel Leó út 17-19., hrsz 13465.) komplex fejlesztése (bővítés, átalakítás, korszerűsítés, felújítás).
+version https://git-lfs.github.com/spec/v1
+oid sha256:48a14402937655082d18fed79c73b53dc98bf807de20192816f86ff26af8b3e4
+size 252

@@ -1,1 +1,3 @@
-A közbeszerzés célja az MFB Magyar Fejlesztési Bank Zártkörűen Működő Részvénytársaság európai uniós és hazai forrású pénzügyi eszközeinek/termékeinek kommunikációjához kapcsolódó szolgáltatások beszerzése. Ajánlattevő feladata az Ajánlatkérő marketingkommunikációs tevékenységéhez kapcsolódóan a következő feladatok határidőre és szakszerűen történő ellátása: átfogó kreatív koncepció kidolgozása, kreatív és online kampányok tervezése, lebonyolítása, kreatív anyagok gyártása, média felületek foglalása és vásárlása, piac- és közvélemény kutatási, nyomda, grafikai tervezés és egyéb produkciós feladatok ellátása.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7bd4596aa6de4a5ca988f7b1fc93dd6855a699d12e41292720d0d7d3c5f14fd9
+size 701

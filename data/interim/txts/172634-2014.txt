@@ -1,1 +1,3 @@
-Adásvételi szerződés STORM mikroszkóp fejlesztéséhez alkalmas mikroszkóp frame konfokális kialakítással beszerzésére. A megajánlatott eszköznek kompatibilisnek kell lennie a meglévő optikai elemekkel: Nikon Apo TIRF, 1.49NA, Nikon LU Plan ELWD 50x/0.55 WD10.1 Inf/0, Nikon Plan Fluor ELWD 20x/0.45 WD7.4 Inf/0-2 Ezzel egyenértékű megoldásként elfogadható, ha a fentieknek megfelelő optikai elemeket biztosítja az ajánlattevő az eszköz ajánlati árában. Ebben az esetben az egyenértékűség megállapításához az ajánlatban be kell mutatni, hogy a fentiek szerinti mely optikai elem helyett milyen elemet ajánl az ajánlattevő. Az eljárásban csak új eszköz ajánlható.
+version https://git-lfs.github.com/spec/v1
+oid sha256:069ffc984ebbd3155f1aa7ee3f241ca5cab7054c4d0157550f73ca9fa6855a08
+size 709

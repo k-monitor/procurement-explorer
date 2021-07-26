@@ -1,1 +1,3 @@
-Villamosenergia-vásárlási szerződés villamos energia versenypiaci beszerzésére, továbbá a villamos energiáról szóló 2007. évi LXXXVI. törvény (a továbbiakban: Vet.) 63. §-ának (1) bekezdése alapján az ajánlatkérő hálózati csatlakozási, hálózathasználati és villamosenergia-vásárlási szerződéseinek összevont kezelésére (ideértve a hálózathasználathoz szükséges szerződéseknek az Országgyűlés Hivatala javára történő megkötését is). A szerződés megkötésére a Vet., a villamos energiáról szóló 2007. évi LXXXVI. törvény egyes rendelkezéseinek végrehajtásáról szóló 273/2007. (X. 19.) Korm. rendelet és a vonatkozó jogszabályok figyelembevételével kerül sor.
+version https://git-lfs.github.com/spec/v1
+oid sha256:27c6f86bde6ba04a2ec0c6f1cd874713804da4333765db0687e1538cb674ab2b
+size 737

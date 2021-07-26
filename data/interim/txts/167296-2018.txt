@@ -1,1 +1,3 @@
-Internet-előfizetés biztosítása az Idősügyi Infokommunikációs Modellprogram kiterjesztéséhez (WIFI szolgáltatás) - 3.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e51c15ee25cfdade171ccad91c4c1da52ea2656bd0394d09c4b4df9454376acd
+size 129

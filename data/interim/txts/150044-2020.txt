@@ -1,1 +1,3 @@
-„A fertődi Esterházy-kastély turisztikai célú fejlesztése” c. projekthez kapcsolódó generál kivitelezési feladatok ellátásához (projekt azonosító: GINOP-7.1.1-15-2016-00027) A projekt helyszíne: 9431 Fertőd, Joseph Haydn út 2., hrsz. 141. A kivitelezési terület: Esterházy-kastély középrizalit („Múzeumi tömb”) Épület műemléki törzsszáma: 3596 Projekt összefoglaló leírása: A kivitelezési terület a kastély főépület („múzeumi tömb”) pince, földszint, I. emelet, II. emelet keleti oldalának egyes helyiségei, óra szint és belvedere szint. Keleti összekötőszárny pince, földszint, valamint a keleti szárny déli végében helyreállítandó lépcső és a csatlakozó I. emeleti közlekedő terület. A jelenlegi felújítás csak az épület belső tereit és a díszudvar felőli előlépcső restaurálását érinti. Karakterkorlát miatt folyatás a II.2.4) pontban.
+version https://git-lfs.github.com/spec/v1
+oid sha256:601a311be2214b1e60b75e79a2aa43fb0004c794e970c7e0dad6417a9e3df753
+size 936

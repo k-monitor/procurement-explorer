@@ -1,1 +1,3 @@
-Megbízási szerződés az M86 gyf. út Szeleste - Csorna szakasz I. ütem: Szeleste - Hegyfalu szakasz (84. sz. főúti csomópontig) kivitelezéséhez kapcsolódó mérnöki feladatok ellátására.
+version https://git-lfs.github.com/spec/v1
+oid sha256:73af426235b006e2c83b01ac50db5f555e3ee3b2fbcb836807fa744a6d3536de
+size 200

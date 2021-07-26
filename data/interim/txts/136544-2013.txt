@@ -1,1 +1,3 @@
-Megbízási szerződés a Belügyminisztérium Országos Katasztrófavédelmi Főigazgatóság egyes létesítményeinek őrzés-védelmére.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9ed8404843f90dde9600a6873fd06e3c997c4083fa818f77cf6cbd58a3ac70b4
+size 141

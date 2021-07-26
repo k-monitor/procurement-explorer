@@ -1,4 +1,3 @@
-park és fasor
-játszótér karbantartás
-önkormányzati tulajdonú 
-és külterjes terület kaszálás vállalkozási szerződés keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:92b7c7ae261a3a3e0a354107fefb363faa7bb150be8ce98c9c29ee9cce6f151c
+size 137

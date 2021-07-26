@@ -1,1 +1,3 @@
-Vállalkozási szerződés TÁMOP-6.1.2.A-14/1-2014-0001 azonosítószámú „Komplex intézményi mozgásprogramok és kapcsolódó egészségfejlesztési alprogramok megvalósítása az általános iskolákban, többcélú intézményekben valamint szabadidős közösségi mozgásprogramok és kapcsolódó egészségfejlesztési alprogramok megvalósítása az iskolán kívüli szereplők bevonásával” kiemelt projektje keretében iskolai egészséges életmód kutatás és felmérés elvégzésére intézményekben valamint szabadidős közösségi mozgásprogramok és kapcsolódó egészségfejlesztési alprogramok megvalósítása az iskolán kívüli szereplők bevonásával” kiemelt projektje keretében iskolai egészséges életmód kutatás és felmérés elvégzésére.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cfb3a35183d2d2b388307de65be84b71ba93348d40f9465a3e6f5640797ea8ce
+size 796

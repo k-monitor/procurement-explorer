@@ -1,1 +1,3 @@
-Kötszerek beszerzése
+version https://git-lfs.github.com/spec/v1
+oid sha256:b240dcea92504e5f5aea9d2185161171891812e89ae165499c213e9875d17ff9
+size 22

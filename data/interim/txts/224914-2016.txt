@@ -1,1 +1,3 @@
-Összességében nettó 330 000 000 HUF – 30 % keretösszeg erejéig szállítási keretszerződés keretében hulladékgyűjtő felépítményekhez és beürítő szerkezetekhez gyári új alkatrészek beszerzése és szállítása.
+version https://git-lfs.github.com/spec/v1
+oid sha256:536c17aed1c63495a3bfb46775219e6bb7125794385b60bde6f5ba8e4e87fab7
+size 235

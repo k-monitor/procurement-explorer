@@ -1,9 +1,3 @@
-általános felhasználású
-1. rész
-és általános felhasználású
-lehel csarnok
-2. rész
-villamos energia értékesítés a 2018.01.01
-cet
-2019.12.31
-cet közötti időszak teljes ellátás alapú villamos energia kereskedelmi szerződés keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:2e3d77e6968198b3caf5fde9e0fe603f29fc8a46e653d9fe4c9d477fe7463404
+size 249

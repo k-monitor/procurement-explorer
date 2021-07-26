@@ -1,20 +1,3 @@
-vállalkozási szerződés
-pe fólia gyártás és szállítás
-tárgy az ajánlatkérési dokumentáció részletezett feltétel szerint összesen rész vonatkozás az alábbi szerint
-1. rész
-nyomatlan
-víztiszta síkfólia
-2. rész
-kézi stretch fólia
-3. rész
-gépi stretch fólia
-4. rész
-fehér sávos videojet fólia
-5. rész
-fedett fehér fólia
-6. rész
-átlátszatlan
-fedett fólia
-7. rész
-nyomatlan
-víztiszta féltömlő fólia
+version https://git-lfs.github.com/spec/v1
+oid sha256:3069d1d007941e94ba5a2bf4469f483950b1b78abb2484e6a4dd9e6404428239
+size 441

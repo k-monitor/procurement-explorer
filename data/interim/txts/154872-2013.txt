@@ -1,1 +1,3 @@
-Általános felhasználású, teljes ellátás alapú villamos energia szállítása a 2013.7.1. 00:00 CET - 2014.7.1. 24:00 CET közötti adásvételi szerződés keretében a Soproni Erzsébet Oktató Kórház és Rehabilitációs Intézet részére.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b69f09c1e351096b8ac859b21fdaa0ed88a25df37cd8aa7dda4947a31004fd19
+size 252

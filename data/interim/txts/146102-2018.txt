@@ -1,1 +1,3 @@
-Az NMI Művelődési Intézet Nonprofit Közhasznú Kft. székhelyének építése a 6065 Lakitelek, Felsőalpár 3. alatti ingatlanon (1. és 2. ütem).
+version https://git-lfs.github.com/spec/v1
+oid sha256:5b242d5c918cbe7f3342b172a990914d57b895a53027634e81bffd8bd1569b62
+size 153

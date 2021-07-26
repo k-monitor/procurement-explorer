@@ -1,1 +1,3 @@
-Adásvételi szerződés gyógyszerek beszerzésére.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9ba9f407e2be342615a8afa53fd552179a0315ffaa3cadfed494cf9c5dff98fa
+size 53

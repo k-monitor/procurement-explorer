@@ -1,1 +1,3 @@
-Adásvételi keretszerződés 80 darab útellenőr gépjármű beszerzésére.
+version https://git-lfs.github.com/spec/v1
+oid sha256:967c83c7bd4515ec63467de4d3373147a2c6b28ab9141f773dd4a3240836c803
+size 78

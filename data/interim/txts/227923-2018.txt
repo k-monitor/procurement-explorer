@@ -1,1 +1,3 @@
-Különböző betontípusok beszerzése útépítési betonalapok, valamint bazaltbeton burkolatú buszmegállók kivitelezési munkáinak végrehajtásához, a nagyfelületű útburkolat-helyreállítási munkák kivitelezéséhez, illetve a közszolgáltató szerződésen belüli fenntartási, karbantartási és felújítási munkák elvégzéséhez.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8addf12490c274b19e0268e62a290519d647e924c112b1d2c96c5977c3116cc1
+size 354

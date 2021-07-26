@@ -1,1 +1,3 @@
-Komplex kommunikációs ügynökségi feladatok ellátása.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fba9d7ca2929c043f9b25eda4d686739fda68811bd5d208e4d11074ca0207091
+size 59

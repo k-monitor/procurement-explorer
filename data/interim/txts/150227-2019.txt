@@ -1,1 +1,3 @@
-«Útépítési munkák Debrecen Nyugati Városrészében»
+version https://git-lfs.github.com/spec/v1
+oid sha256:af203cb06ad84a071cd398bc90185e11780b322980f65b90c8d10649dce46c32
+size 59

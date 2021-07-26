@@ -1,18 +1,3 @@
-Lajosmizse	lajosmizse	NOUN	Case=Nom|Number=Sing	
-Város	Város	PROPN	Case=Nom|Number=Sing	
-Önkormányzata	Önkormányzata	PROPN	Case=Nom|Number=Sing	
-Intézményeinek	intézmény	NOUN	Case=Gen|Number=Plur|Number[psor]=Sing|Person[psor]=3	
-Gazdasági	Gazdasági	PROPN	Case=Nom|Number=Sing	
-Szervezete	Szervezete	PROPN	Case=Nom|Number=Sing	
-részére	részére	ADP	_	
-hideg	hideg	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-élelmiszer	élelmiszer	NOUN	Case=Nom|Number=Sing	
-és	és	CONJ	_	
-főzési	főzési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-alapanyag	alapanyag	NOUN	Case=Nom|Number=Sing	
-beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-adásvételi	adásvételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:0a839a23665fe7880bdd785e8b60acae504058ae638e6ad45ff8b7bbbc1702ca
+size 873

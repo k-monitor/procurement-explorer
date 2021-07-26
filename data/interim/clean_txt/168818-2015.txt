@@ -1,2 +1,3 @@
-adásvételi szerződés keret orvosi eszköz beszerzés a tiop-2
-1a-2013-0005 azonosító számú projekt megvalósítás érdek
+version https://git-lfs.github.com/spec/v1
+oid sha256:3c084761e660d318d42cd73e44c11f63e624e77df53d90719d1d68f7e87927a3
+size 129

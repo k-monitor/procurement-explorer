@@ -1,5 +1,3 @@
-földgáz energia szállítás az ajánlatkérő részére 2012.
-cet
-2013.
-cet időszak vonatkozó
-teljes ellátás alapú földgáz energia kereskedelmi szerződés keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:981c3ba06f92c555db64688d5af54b57135a0529917dde8886bb3f999dfa50ae
+size 171

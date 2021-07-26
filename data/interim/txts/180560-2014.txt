@@ -1,1 +1,3 @@
-A Központ és a Megyei igazgatóságok részére író-, irodaszer beszerzése a műszaki leírásban részletezettek alapján.
+version https://git-lfs.github.com/spec/v1
+oid sha256:120649a911f96359e56d937b206b45bde65d25f21a48230b4a94913029dd834f
+size 128

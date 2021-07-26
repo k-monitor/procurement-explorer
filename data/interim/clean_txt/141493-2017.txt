@@ -1,15 +1,3 @@
-tandetro laboratórium bővítés kutatási eszköz vásárlás
-tárgy indult közbeszerzési eljárás az ajánlatkérő telephely már üzem helyezett tandetro részecskegyorsító alkalmazási kör bővítés szükséges a jelen eljárás keret beszerzés
-megvásárlás kerülő alábbi eszköz
-mely rész lesz pályázik
-rész külön
-ugyanakkor pályázó rész is pályázik
-1. rész
-ionforrás és nagyenergiás kiegészítő gyártás
-szállítás
-2. rész
-analítikai nyalábvég gyártás
-szállítás
-3. rész
-röntgendetektor klaszter gyártás
-szállítás
+version https://git-lfs.github.com/spec/v1
+oid sha256:df93f4dcbd20c6e0edc2bb1485bfce81de81c63f2f3de58ebae720713ac986b0
+size 570

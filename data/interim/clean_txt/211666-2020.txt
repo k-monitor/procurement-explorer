@@ -1,6 +1,3 @@
-adásvételi keretszerződés hosszútávú
-intraperikardiális
-centrifugális elv működő
-teljes implantálható
-mechanikus keringéstámogató eszköz beszerzés a városmajori szív
-és érgyógyászati klinika részére a beszerzés keretmennyiség
+version https://git-lfs.github.com/spec/v1
+oid sha256:fc390a74ace08b91c1352dcb0af199a005349487f2ea877fc65531c6802eadcb
+size 254

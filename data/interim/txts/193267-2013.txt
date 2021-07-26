@@ -1,1 +1,3 @@
-Megbízási szerződés a Mosonszolnok-Csorna-Porpác vasútvonal villamosításához kapcsolódóan mérnöki feladatok ellátására.
+version https://git-lfs.github.com/spec/v1
+oid sha256:38cbba279929ec6e4599c244fe1d1e97cf4eab8579c4a8018da1c459f719e148
+size 135

@@ -1,2 +1,3 @@
-vállalkozási szerződés integrált ellenőrzésdokumentálási
-beszámolási és auditmunkafolyamat-támogató workflowrendszer bevezetés az eutaf részére
+version https://git-lfs.github.com/spec/v1
+oid sha256:2d6736a3368bece42906a224e57883b675575fc3b0fe3425c20e3e9b5fd5643f
+size 160

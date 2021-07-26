@@ -1,17 +1,3 @@
-Adásvételi	adásvételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
--	-	PUNCT	_	
-Szemészeti	szemészeti	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-műlencsék	műlencse	NOUN	Case=Nom|Number=Plur	
-beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-a	a	DET	Definite=Def|PronType=Art	
-Borsod-Abaúj-Zemplén	Borsod-Abaúj-Zemplén	PROPN	Case=Nom|Number=Sing	
-Megyei	Megyei	PROPN	Case=Nom|Number=Sing	
-Kórház	Kórház	PROPN	Case=Nom|Number=Sing	
-és	és	CONJ	_	
-Egyetemi	egyetemi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-Oktató	oktató	NOUN	Case=Nom|Number=Sing	
-Kórház	Kórház	PROPN	Case=Nom|Number=Sing	
-részére	részére	ADP	_	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:f1794e52acd9bcb8b6aedbd7c64d04bac5e6177104e7c8b09921ecc7a1bfbaf6
+size 718

@@ -1,1 +1,3 @@
-Élelmiszer és főzési alapanyag beszerzése adásvételi szerződések keretében Lajosmizse Város Önkormányzata Intézményeinek Gazdasági Szervezete részére (1–9. rész)
+version https://git-lfs.github.com/spec/v1
+oid sha256:d228831d6e9452657d853579700fcc1275ac6baffd04dcdb6c83547b13748352
+size 182

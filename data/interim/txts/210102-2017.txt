@@ -1,1 +1,3 @@
-Energia monitoring szolgáltatás igénybevétele.
+version https://git-lfs.github.com/spec/v1
+oid sha256:571df7476062a8050afa4598474eab8265bad625210e24fdea72db6f9ba571ca
+size 50

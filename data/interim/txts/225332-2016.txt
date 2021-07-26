@@ -1,1 +1,3 @@
-Szoftver karbantartási szerződés OEP Oracle licence 2016. évi karbantartása tárgyában.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b141b294cc239ce6d81a82de93f620bc50ca185804fd4f5ef322581e3e3468a0
+size 93

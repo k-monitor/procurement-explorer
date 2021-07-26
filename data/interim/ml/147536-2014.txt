@@ -1,9 +1,3 @@
-Szállítási	Szállítási	PROPN	Case=Nom|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-szívsebészeti	szívsebészeti	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-és	és	CONJ	_	
-aneszteziológiai	aneszteziológiai	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-anyagok	anyag	NOUN	Case=Nom|Number=Plur	
-beszerzésére	beszerzés	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:266b0020dbec2f1b213a743f3fc1cc9fa337d4191f94eae305761ad559cd3380
+size 406

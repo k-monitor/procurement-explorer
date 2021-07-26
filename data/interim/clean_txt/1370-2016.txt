@@ -1,15 +1,3 @@
-nemzeti sportközpont bútorbeszerzés
-rész
-adásvételi szerződés keret
-1. rész
-a lágymányosi versenyuszoda bútor beszerzés
-2. rész
-budapesti olimpiai központ gerevich aladár nemzeti sportcsarnok bútor beszerzés
-3. rész
-nemzeti sportközpont bútor beszerzés
-4. rész
-budapesti olimpiai központ központi sport és ifjúsági egyesület
-bok ksi
-ökölvívó terem bútor beszerzés
-5. rész
-nemzeti lőtér bútor beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:cb09f3535acb25a69c32b78c61e70619224d515bc7ae6ea1d1703e1de9054227
+size 441

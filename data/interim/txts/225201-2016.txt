@@ -1,1 +1,3 @@
-Vállalkozási szerződés a Bevándorlási és Állampolgársági Hivatal központi hivatala, a budapesti regionális igazgatóságainak, illetve a budapesti regionális igazgatóság kirendeltségének, valamint a Hivatal 19 városában működő regionális igazgatóságainak és kirendeltségeinek, illetve ügyfélszolgálati irodájának általános és időszaki takarítására.
+version https://git-lfs.github.com/spec/v1
+oid sha256:63a60e2cee69bea5ce487d78b17ef7b98dbec637f0069d8bd85b058058e2e270
+size 387

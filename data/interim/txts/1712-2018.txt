@@ -1,1 +1,3 @@
-Nyomdai szolgáltatás biztosítása a KÖFOP-2.1.2-VEKOP-15-2016-00001 azonosítószámú projekt keretében, szolgáltatási keretszerződés alapján.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7f8017e4efc840b4e5b56ea77e46547f95c3fe91758db9d4b80f30b7ec1e1d56
+size 153

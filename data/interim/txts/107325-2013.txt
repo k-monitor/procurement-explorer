@@ -1,1 +1,3 @@
-Szállítási szerződés kéttengelyes nyerges vontatóból és három tengelyes hátra billenő félpótkocsiból álló járműszerelvények szállítására.
+version https://git-lfs.github.com/spec/v1
+oid sha256:abe00af0bb240a34d061cf7077c1d9d93acda8af9814e164ff3ad4614dbba5c4
+size 161

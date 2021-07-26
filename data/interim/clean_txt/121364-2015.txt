@@ -1,16 +1,3 @@
-vállalkozási szerződés az alábbi építési
-kivitelezési munka
-debreceni református oktatási
-nevelési rendszer infrastrukturális fejlesztés című projekt iii
-ütem a rész
-debreceni református hittudományi egyetem
-a
-jelű épület homlokzati nyílászáró szerkezet és homlokzat és belső falépcső felújítás
-b. rész
-a debreceni református kollégium gimnázium középiskolai fiú
-leánykollégium
-internátus
-kialakítás
-a vállalkozási szerződés egyösszegű
-átalányáras
-típusú
+version https://git-lfs.github.com/spec/v1
+oid sha256:f7cd4ccf0282b842dfd3e6fce2ed56f0da0bc304bd768ef3aa91c11a6ea32526
+size 512

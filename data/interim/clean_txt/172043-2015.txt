@@ -1,6 +1,3 @@
-adásvételi szerződés keret
-a súlyponti kaposi mór oktató kórház komplex infrastruktúra fejlesztés az integrált somogy megyei
-balatoni egészségügyi ellátórendszer érdek
-tárgyú
-tiop-2
-2-2009-0001 azonosító jelű projekt orvosi mobília beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:31ec79123ff4fa20953a47cbab5cd8c4214b090ebed4cfd2ced90ed495a9ec3c
+size 266

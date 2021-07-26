@@ -1,9 +1,3 @@
-okf épület energetikai felújítás rész szám
-rész
-okf épület energetikai felújítás
-győr 2
-okf épület energetikai felújítás
-szekszárd
-okf épület energetikai felújítás
-cegléd
-okf épület energetikai felújítás
+version https://git-lfs.github.com/spec/v1
+oid sha256:3d799616c3c2701076ce21e2e6203f24dfce07e102295d358e33c901727f45f9
+size 234

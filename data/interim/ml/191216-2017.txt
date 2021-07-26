@@ -1,32 +1,3 @@
-Földgáz	földgáz	NOUN	Case=Nom|Number=Sing	
-ellátás	ellátás	NOUN	Case=Nom|Number=Sing	
-biztosítása	biztosítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-Ajánlatkérő	ajánlatkérő	NOUN	Case=Nom|Number=Sing	
-részére	részére	ADP	_	
-1.10.2017	1.10.2017	NUM	Case=Nom|NumType[sem]=Dot|Number=Sing	
-.	.	PUNCT	_	
-
-6	6	NUM	Case=Nom|NumType=Card|Number=Sing	
-:	:	PUNCT	_	
-00	00	NUM	Case=Nom|NumType=Card|Number=Sing	
-CET	cet	NOUN	Case=Nom|Number=Sing	
--	-	PUNCT	_	
-1.10.2018	1.10.2018	PROPN	Case=Nom|Number=Sing	
-.	.	PUNCT	_	
-
-6	6	NUM	Case=Nom|NumType=Card|Number=Sing	
-:	:	PUNCT	_	
-00	00	NUM	Case=Nom|NumType=Card|Number=Sing	
-CET	cet	NOUN	Case=Nom|Number=Sing	
-időszakra	időszak	NOUN	Case=Sub|Number=Sing	
-vonatkozóan	vonatkozó	ADJ	Case=Ess|Degree=Pos|Number=Sing|VerbForm=PartPres	
-,	,	PUNCT	_	
-teljes	teljes	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-ellátás	ellátás	NOUN	Case=Nom|Number=Sing	
-alapú	alapú	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-földgáz	földgáz	NOUN	Case=Nom|Number=Sing	
-kereskedelmi	kereskedelmi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:0424057ec6cd8012eeb13799647f10cf7dbb95a210a7e235701edcd724d59755
+size 1229

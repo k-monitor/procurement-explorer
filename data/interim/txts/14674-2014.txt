@@ -1,1 +1,3 @@
-Évi 200 000 (kettőszázezer) liter gázolaj szállítása a Jászberényi Vagyonkezelő és Városüzemeltető Nonprofit Zrt. részére.
+version https://git-lfs.github.com/spec/v1
+oid sha256:923e7292296e0153026bfe425ce84311b9fa8efdf3201c64163576a17a5474b2
+size 138

@@ -1,2 +1,3 @@
-adás-vételi szerződés havi hús
-húskészítmény beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:72ce3119406f0935248f542b160bae1a44bcd3946878b53b125730db1d512d03
+size 64

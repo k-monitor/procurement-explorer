@@ -1,1 +1,3 @@
-Adásvételi szerződés élelmiszer nyersanyagok beszerzésére.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0be10fd1c8bfc2692a0bf801e888410bf3bc311a53ddc5daaba2b70b8bd5453e
+size 65

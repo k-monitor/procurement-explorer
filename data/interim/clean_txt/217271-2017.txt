@@ -1,5 +1,3 @@
-vállalkozási szerződés az ajánlatkérő országos onkológiai intézet budapest
-ráth györgy u.
-szám alatti székhely üzemelő db mr készülék és segédberendezés teljes körű karbantartás
-eseti hibaelhárítás
-hónapos határozott időtartam
+version https://git-lfs.github.com/spec/v1
+oid sha256:692d938ed3e7ba46baa1e9286ea767793ce675453ee8f264879c74e44800e223
+size 257

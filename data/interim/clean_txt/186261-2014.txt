@@ -1,4 +1,3 @@
-adásvételi keretszerződés keret nyári úttisztító felépítmény
-téli síkosság mentesítő felépítmény adapter gyári
-új vagy egyenértékű után gyártott
-új alkatrész szállítás
+version https://git-lfs.github.com/spec/v1
+oid sha256:ee5ad2f099f0a98d08c7082299f32938a124d8bc1adc70b468273d1cc06dd5cf
+size 198

@@ -1,1 +1,3 @@
-Adásvételi szerződés az Autóipari Próbapálya Zala Kft. részére 1.7.2019 – 31.12.2021 közötti időszakra vonatkozó villamos energia beszerzésére
+version https://git-lfs.github.com/spec/v1
+oid sha256:ceddc3648cca0754c075e4a24179d0c2b0a65e7ea400bdff36290a5658728aee
+size 159

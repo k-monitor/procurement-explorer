@@ -1,1 +1,3 @@
-Adás-vételi szerződés keretében Ajánlatkérő az Intézmény részére 24 hónapra sebészeti varrófonalakat konszignációs raktár üzemeltetésével kívánja megvásárolni.
+version https://git-lfs.github.com/spec/v1
+oid sha256:84adadb8c6430d99d45fd46e020d9999ab7eef7dde70c4c976bc13f8cbbd31dc
+size 184

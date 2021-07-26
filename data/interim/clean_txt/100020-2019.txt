@@ -1,14 +1,3 @@
-adásvételi szerződés darab elektronmikroszkóp és darab ionkromatográf rendszer beszerzés a ginop-2
-2-15-2016-00013 sz projekt keret
-az eszköz beszerzés eset az üzem helyezés is ajánlattevő feladat
-az üzem helyezés maga foglal
-a rendszer leszállítás
-beszerelés
-rendeltetésszerű használat alkalmas mód történő üzem helyezés
-az ez szükséges anyag
-berendezés biztosítás
-az érvényes forgalom hozatali engedély bemutatás
-az üzem helyezési jegyzőkönyv felvétel
-a kezelőszemélyzet betanítás
-maximum fő részére maximum munkanap időtartam
-rögzítő jegyzőkönyv felvétel
+version https://git-lfs.github.com/spec/v1
+oid sha256:9b64ad54d960b985a62e3d275a44df4409190f8759a7a2a04f75fb2d8215a6fd
+size 614

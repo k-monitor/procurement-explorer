@@ -1,4 +1,3 @@
-képalkotó berendezés adásvétel és a meglévő elavult berendezés csere a szent rókus kórház részére a keop-5
-6.0
-e
-számú pályázati konstrukció keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:d25965b46b658e7c3d19d356c5f3f6071d812c290a8290b792848b2431e6b56d
+size 165

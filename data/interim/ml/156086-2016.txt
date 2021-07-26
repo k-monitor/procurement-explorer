@@ -1,13 +1,3 @@
-Földgázkereskedő	földgázkereskedő	NOUN	Case=Nom|Number=Sing	
-kiválasztása	kiválasztás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-a	a	DET	Definite=Def|PronType=Art	
-1.	1.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
-
-10	10	NUM	Case=Nom|NumType=Card|Number=Sing	
-.	.	PUNCT	_	
-2016-30.9.2017	2016-30.9.2017	PROPN	Case=Nom|Number=Sing	
-.	.	PUNCT	_	
-közötti	közötti	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-időszakra	időszak	NOUN	Case=Sub|Number=Sing	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:0dae12c8ac000ffb63fdf8ad3554bab542a4617a4cd818406720d201bdbac1b1
+size 483

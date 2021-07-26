@@ -1,34 +1,3 @@
-Szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-meghatározása	meghatározás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-:	:	PUNCT	_	
-Hitelszerződés	hitelszerződés	NOUN	Case=Nom|Number=Sing	
-.	.	PUNCT	_	
-
-Szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-tárgya	tárgy	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-:	:	PUNCT	_	
-Fejlesztési	Fejlesztési	PROPN	Case=Nom|Number=Sing	
-célú	célú	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-hitel	hitel	NOUN	Case=Nom|Number=Sing	
-nyújtása	nyújtás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-Pécs	Pécs	PROPN	Case=Nom|Number=Sing	
-Megyei	Megyei	PROPN	Case=Nom|Number=Sing	
-Jogú	Jogú	PROPN	Case=Nom|Number=Sing	
-Város	Város	PROPN	Case=Nom|Number=Sing	
-Önkormányzata	Önkormányzata	PROPN	Case=Nom|Number=Sing	
-által	által	ADP	_	
-már	már	ADV	_	
-folyamatban	folyamat	NOUN	Case=Ine|Number=Sing	
-lévő	lévő	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-és	és	CONJ	_	
-elnyert	elnyert	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPast	
-pályázatok	pályázat	NOUN	Case=Nom|Number=Plur	
-,	,	PUNCT	_	
-valamint	valamint	CONJ	_	
-gazdaságfejlesztő	gazdaságfejlesztő	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-és	és	CONJ	_	
-munkahelyteremtő	munkahelyteremtő	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-projektek	projekt	NOUN	Case=Nom|Number=Plur	
-önerejének	önerő	NOUN	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-biztosítására	biztosítás	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:8214619dc19e6b1a54f5fa2147cc1d6e85de57ff4e92f92aa7b89d02a5853901
+size 1551

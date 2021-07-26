@@ -1,3 +1,3 @@
-vállalkozási keretszerződés az európai mezőgazdasági vidékfejlesztési alap vonatkozás ellátandó médiavásárlási
-nyomdai
-rendezvényszervezési és stratégiai kommunikációs feladat
+version https://git-lfs.github.com/spec/v1
+oid sha256:a5e72a67eef52e8d73c77c1bc48c2fcf94afaa26176b794de56d39788c2e7b6a
+size 197

@@ -1,2 +1,3 @@
-modern város program keret megvalósuló debreceni nemzetközi iskola
-tárgyú projekt műszaki ellenőri és műszaki lebonyolító feladat
+version https://git-lfs.github.com/spec/v1
+oid sha256:3d37104d6561a46456ab89d3ecb3457476bba485e3b63f0ad7f04e85fe3e0473
+size 141

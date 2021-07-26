@@ -1,6 +1,3 @@
-vállalkozási szerződés keret megvalósuló az nfsz
-munka.hu felület teljes körű megújítás
-a munkaügyi szervezet ügyfél
-álláskereső
-munkáltató
-célzott online tartalom új honlap történő elérhető tétel
+version https://git-lfs.github.com/spec/v1
+oid sha256:ee50e44db8c36ee9d29f100ae10affa906f01ecc91a742f243cc7c4b29b9602e
+size 224

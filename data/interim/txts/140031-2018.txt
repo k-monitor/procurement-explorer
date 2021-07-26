@@ -1,1 +1,3 @@
-MKB6/2018 - 9 000 000 kg Magyarország közigazgatási területén keletkező termékként tovább nem használható képmegjelenítő berendezések gyűjtése, tárgyévi előkezelése és további kezelésre történő átadása szolgáltatás-megrendelési szerződés keretében a környezetvédelmi termékdíjról szóló, 2011. évi LXXXV. törvény 22. § (1) bekezdés alapján: 1. rész: 2 000 000 kg 2. rész: 2 000 000 kg 3. rész: 2 000 000 kg 4. rész: 1 000 000 kg 5. rész: 1 000 000 kg 6. rész: 1 000 000 kg
+version https://git-lfs.github.com/spec/v1
+oid sha256:b60958be6bf1c2b79023f6070110ab75afe26975303c5fac7eceaf5f4f8e6d00
+size 525

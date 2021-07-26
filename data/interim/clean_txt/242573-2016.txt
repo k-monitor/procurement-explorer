@@ -1,3 +1,3 @@
-pilis város önkormányzata részére
-közszolgáltatási szerződés keret pilis város közigazgatási terület keletkező települési szilárd hulladék rendszeres begyűjtés
-elszállítás és ártalmatlanítás
+version https://git-lfs.github.com/spec/v1
+oid sha256:7e4863b9a19547183b3a44cd8e1469c64070ebde028225f076b94dacb4b0378c
+size 218

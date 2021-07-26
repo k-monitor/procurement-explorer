@@ -1,26 +1,3 @@
-Szállítási	Szállítási	PROPN	Case=Nom|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
--	-	PUNCT	_	
-EKOP-2	EKOP-2	PROPN	Case=Nom|Number=Sing	
-.	.	PUNCT	_	
-
-1.13	1.13	NUM	Case=Nom|NumType[sem]=Time|Number=Sing	
-.	.	PUNCT	_	
-kiemelt	kiemelt	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPast	
-projekt	projekt	NOUN	Case=Nom|Number=Sing	
-keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-,	,	PUNCT	_	
-ügyfélszolgálati	ügyfélszolgálati	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-irodák	iroda	NOUN	Case=Nom|Number=Plur	
-korszerűsítéséhez	korszerűsítés	NOUN	Case=All|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-szükséges	szükséges	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-multifunkciós	multifunkciós	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-nyomtatók	nyomtató	NOUN	Case=Nom|Number=Plur	
-beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-festékanyaggal	festékanyag	NOUN	Case=Ins|Number=Sing	
-a	a	DET	Definite=Def|PronType=Art	
-dokumentációban	dokumentáció	NOUN	Case=Ine|Number=Sing	
-részletezettek	részletezett	NOUN	Case=Nom|Number=Plur	
-szerint	szerint	ADP	_	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:37b8cb2fe97602f4cfda94408cf2510b870f37bc27fe0442ad33a6f097738acb
+size 1168

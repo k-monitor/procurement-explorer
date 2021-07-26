@@ -1,8 +1,3 @@
-a szerződés meghatározás
-megbízási szerződés
-tárgy
-a puskás ferenc stadion rekonstrukció
-további
-projekt
-kapcsolódó tervellenőri feladat ellátás az ajánlati dokumentáció meghatározott tervellenőrzési követelmény és a vonatkozó jogszabály alap
-továbbá költségszakértői és tanácsadói feladat ellátás
+version https://git-lfs.github.com/spec/v1
+oid sha256:b18eca8595b5fbd90caac0f3160fa7fb0d91c83f442779aa3f6219c03332591d
+size 336

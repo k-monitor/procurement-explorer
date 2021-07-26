@@ -1,1 +1,3 @@
-A 2020 – 2024 évekhez kapcsolódóan, országos közúthálózaton történő fejlesztési és felújítási munkák tervezési feladatainak ellátására keretmegállapodások megkötése 3 részben.
+version https://git-lfs.github.com/spec/v1
+oid sha256:84af7d588e98dddafc1a525bc651fecc76beeb1a90168db9cfb13e7894527765
+size 203

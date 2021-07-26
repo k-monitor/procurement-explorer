@@ -1,7 +1,3 @@
-települési szilárd
-szelektív gyűjt
-zöldhulladék begyűjtés
-elszállítás
-ártalmatlanítás
-illetve lomtalanítás tököl település
-ügyfélszolgálat működtetés
+version https://git-lfs.github.com/spec/v1
+oid sha256:a53b57ca3b652d187cbcc26e0bf4efc2556f6f477eb2e8276eeea5764f1ab997
+size 176

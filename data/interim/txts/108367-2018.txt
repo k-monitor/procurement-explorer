@@ -1,1 +1,3 @@
-„Tervezési szerződés kiserőmű létesítésére vonatkozó engedélyezési tervdokumentáció elkészítésére”. A tervezési feladat rövid ismertetése: A NHKV Zrt. telephelyére telepítendő 0,5 - 3 MWe névleges villamos, és 0,5 - 3 MWt névleges termikus teljesítményű pirolízis alapú kapcsolt energiatermelő egységek és segédrendszereik, mint sajátos energetikai létesítmények létesítési engedélyezési tervezése, az engedélyek megszerzése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b9fa9c12926fbb3423a80fb2781562c6db9d464011921f58bfb2ad87a53ce402
+size 477

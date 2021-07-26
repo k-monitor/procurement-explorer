@@ -1,1 +1,3 @@
-Vállalkozási keretszerződés – Nyomdaipari tevékenység ellátása, nyomdai termékek előállítása és kapcsolódó szolgáltatás nyújtása tárgyában a közbeszerzési dokumentumokban részletezettek szerint.
+version https://git-lfs.github.com/spec/v1
+oid sha256:65e5befc8201071d06c2cca90c42f756a3a774c6d189434517e05fcb6c3be5e8
+size 221

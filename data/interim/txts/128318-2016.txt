@@ -1,1 +1,3 @@
-Vas, fém, színesfém áruk szállítása.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b05eb12db9e00d8e159ab1221db8b6752c63f8346239df889811989e263309ce
+size 43

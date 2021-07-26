@@ -1,1 +1,3 @@
-Az Ajánlatkérő üzemeltetésében lévő autópálya szakaszok mentén elhelyezkedő mindenkori autópálya mérnökségein meglévő és a jövőben üzembe helyezendő töltőállomásai részére üzemanyag (gázolaj) biztosítása szállítási keretszerződés keretében, földalatti üzemanyagtartályok időszakos, igény szerinti feltöltésével. Nyertes ajánlattevőnek kell végeznie az üzemanyagnak az autópálya mérnökségekre történő kiszállítását, valamint lefejtését.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b1657e6dc667269f0c305571e153351f98c35325e41610c75b2f2cd8bd61b052
+size 501

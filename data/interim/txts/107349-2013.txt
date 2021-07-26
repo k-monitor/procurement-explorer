@@ -1,1 +1,3 @@
-Általános felhasználású villamos energia szállítása a 2013.7.1 00:00 CET - 2014.12.31. 24:00 CET közötti időszakban teljes ellátás alapú villamos energia kereskedelmi szerződés keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5472dc90bd13cbecd1a969429a08ffd7319c42a36e752a93d3d6354984c570e8
+size 204

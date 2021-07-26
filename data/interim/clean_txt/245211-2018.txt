@@ -1,5 +1,3 @@
-fővállalkozási szerződés keret a hunyadi téri vásárcsarnok műemlék épület
-műemléki törzsszám
-16244.
-átfogó
-állagmegóvó felújítási és restaurátori munka megvalósítás és a felújítás szükséges kiviteli terv elkészítés
+version https://git-lfs.github.com/spec/v1
+oid sha256:231b8f3f92e6bccdba739aa7d04acc8c68cf75aeac64f26ed36618c4c28e998d
+size 252

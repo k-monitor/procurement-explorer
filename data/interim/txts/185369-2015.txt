@@ -1,1 +1,3 @@
-TIOP-2.2.1-11/1-2012-0001 azonosító számú, „Sürgősségi ellátás fejlesztése – mentés” tárgyú projekthez kapcsolódóan respirátor, infúziós pumpa beszerzése – Adásvételi szerződés.
+version https://git-lfs.github.com/spec/v1
+oid sha256:557c65f9a3cdf212430fd01e7e47f79746e5c4823d5d2a5dc798f382ad50e07b
+size 208

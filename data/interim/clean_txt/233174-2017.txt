@@ -1,25 +1,3 @@
-fejlesztési gépbeszerzés és automatizálás
-1. a vps 2000 automatizálás
-2. cementsiló min. m3
-max cementcsiga
-kiegészítő
-3. mbt-750v
-betongyár
-mi
-m3
-h
-max m3
-h
-legalább frakciós
-4. szállítószalag mbt750v
-és vps2000 közé
-magbeton
-5. pp-20 összeszedő lift
-fésűs tároló rak
-6. sp-20 kitárazó lift
-7. conveyor pálya vps-2000 és pp-20 közé
-8. conveyor pálya az sp-20 és rakatképző közé
-9. raklapkészítő és kötegelő állomás
-a fentebb felsorolt eszköz és automatizálás vonatkozás a közbeszerzés mennyiség minden eset db értendő
-továbbá ezen eszköz üzem helyezés
-mely kör beletartozik az a műszaki leírás megjelölt gyártó berendezés való technológiai kompatibilitás biztosítás is
+version https://git-lfs.github.com/spec/v1
+oid sha256:7e66319e10b15d90183dac218caa6206afd01d016016f29dd7b9eaaed4440f4f
+size 744

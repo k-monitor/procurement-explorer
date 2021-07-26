@@ -1,27 +1,3 @@
-Szilárd	Szilárd	PROPN	Case=Nom|Number=Sing	
-kommunális	kommunális	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-hulladék	hulladék	NOUN	Case=Nom|Number=Sing	
-,	,	PUNCT	_	
-zöldhulladék	zöldhulladék	NOUN	Case=Nom|Number=Sing	
-,	,	PUNCT	_	
-szelektíven	szelektív	ADJ	Case=Ess|Degree=Pos|Number=Sing	
-gyűjtött	gyűjtött	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPast	
-hulladék	hulladék	NOUN	Case=Nom|Number=Sing	
-,	,	PUNCT	_	
-lomtalanítási	lomtalanítási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-hulladék	hulladék	NOUN	Case=Nom|Number=Sing	
-gyűjtése	gyűjtés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-,	,	PUNCT	_	
-szállítása	szállítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-Gyömrő	gyömrő	NOUN	Case=Nom|Number=Sing	
-város	város	NOUN	Case=Nom|Number=Sing	
-közigazgatási	közigazgatási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-területén	terület	NOUN	Case=Sup|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-és	és	CONJ	_	
-ennek	ez	PRON	Case=Gen|Number=Sing|Person=3|PronType=Dem	
-ártalmatlanítása	ártalmatlanítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-közszolgáltatási	közszolgáltatási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:69e80b28ca6e22d43402896eb7e3d8f691b5e7417aebcee3a8f18dcd7d810baf
+size 1360

@@ -1,1 +1,3 @@
-Szolgáltatással egybekötött adásvételi szerződés keretében az MTVA 3-as televízióstúdió video- és audio eszközeinek fejlesztése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1ec3d757824b28f879744158bce1d83d9e245c7c5e49efa17b7f58f5166d4379
+size 144

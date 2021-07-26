@@ -1,2 +1,3 @@
-táblaszintű adatgyűjtés a
-2019. és
+version https://git-lfs.github.com/spec/v1
+oid sha256:aca431be01fa7353a400e69b49eb2c763fda5f91a69767c74b1650b38295f56d
+size 39

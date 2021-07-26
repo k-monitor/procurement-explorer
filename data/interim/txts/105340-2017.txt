@@ -1,1 +1,3 @@
-HPV védőoltáshoz oltóanyag beszerzése adásvételi szerződés keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9c129f7c7259e53e4504878fc4e703ac0bd27fb6fb5401789fa9afb57c39d0ea
+size 79

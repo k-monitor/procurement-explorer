@@ -1,1 +1,3 @@
-Takarítási tevékenység ellátása, töltelékáru biztosításával.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b5f9ff303f62bbc749be891bbdd3b70251c934b78f58911ee9a2f8ccd19e3b84
+size 72

@@ -1,1 +1,3 @@
-„Közepes és nagy felbontású ultrahang készülék beszerzése a VEKOP -2.3.3-15-2016-00006 azonosítószámú pályázat alapján”.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a0c8382f1eac44cdcebc9158a9363886f44807c16c9e2f3cb4a8342795a50869
+size 139

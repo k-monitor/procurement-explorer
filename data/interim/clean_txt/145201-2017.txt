@@ -1,2 +1,3 @@
-összesen db közúti híd fő
-és célvizsgálat rész-ajánlattételi terület részletes feladatleírás tekintet lát az ajánlati dokumentáció rész képező műszaki dokumentáció
+version https://git-lfs.github.com/spec/v1
+oid sha256:be8e97c4ccc47e3d4b698b1e5503a576a76a3bf23692f331eece2d92f120fab4
+size 188

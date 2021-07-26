@@ -1,6 +1,3 @@
-a ptk.
-231. § szerinti adásvételi szerződés orvostechnikai eszköz szállítás
-üzem helyezés és javítás a jótállási idő belül az
-aktív ellátás centralizáció a soproni erzsébet oktató kórház
-című tiop-2
-1-2010-0012 azonosító számú projekt keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:4e4de80cf81f364e2a4d9b3cecb3bbaf89cac5e17d8551301b92cd88cbf415fd
+size 274

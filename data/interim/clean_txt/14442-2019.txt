@@ -1,7 +1,3 @@
-rapid nexpose
-vagy az egyenértékű
-it sérülékenység menedzsment rendszer beszerzés kbf
-nexpose annual subscription licenc használat
-bevezetés kapcsolódó tanácsadási feladat
-nexpose dedicate perimeter security engine szolgáltatás
-integrátori támogatás
+version https://git-lfs.github.com/spec/v1
+oid sha256:8d5a623c4abd4826e83b20f5ac0992f8bd7fc32d547b7820ed4bb09b39afd403
+size 268

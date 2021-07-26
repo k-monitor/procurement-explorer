@@ -1,1 +1,3 @@
-traumatológiai implantátum beszerzés az szszbmk részére rész határidős adásvételi szerződés keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:7ffc242dcffaa9e3f2d1207cbaed71c74002c216a30f3cddb4013f4048d2ef02
+size 109

@@ -1,1 +1,3 @@
-2 db grafikus tintasugaras jelöléstechnikai eszköz szállítása, amely alkalmas porózus anyagú, ill. tasakba csomagolt mozgó termékek változó tartalmú feliratozására, logók, grafikák, vonalkódok nyomtatására, borítékok címzésére. Az adásvételi szerződés tárgyát képezi továbbá a termék tesztelése, üzembe helyezése, valamint oktatási feladat ellátása.
+version https://git-lfs.github.com/spec/v1
+oid sha256:793f979e9657ca4a58d0e12066d85de5340e73b4fd96df31c059546ac46154d4
+size 390

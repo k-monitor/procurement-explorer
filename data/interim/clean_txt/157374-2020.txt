@@ -1,5 +1,3 @@
-digitális légifényképezés tervezés
-engedélyeztetés
-végrehajtás
-az elkészült felvétel légiháromszögelés
-domborzatmodell kiegészítés és digitális ortofotó előállítás
+version https://git-lfs.github.com/spec/v1
+oid sha256:b3e72e4cd387db23c7ce63c6904352a60b3de2f7f380641c9ae7154406d794da
+size 190

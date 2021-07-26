@@ -1,1 +1,3 @@
-adásvételi szerződés élelmiszer beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:ea30b924944e9c0137c4bc91bfc17801c14b781e1bceefd149afc65e22c21806
+size 47

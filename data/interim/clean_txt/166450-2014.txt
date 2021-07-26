@@ -1,10 +1,3 @@
-vállalkozási keretszerződés
-ajánlatkérő által üzemeltetett országos közút melletti terület
-az ajánlatkérő által megadott méretű és mennyiségű ültetési anyag telepítés
-majd év keresztül
-évi alkalom szakszerű ápolás
-szükség eset pótlás az ajánlati felhívás ii
-2.1
-pont megjelölt rész
-a rész megjelölt nettó keretösszeg erő
-az ültetendő fa és cserje az ajánlattevő biztosít
+version https://git-lfs.github.com/spec/v1
+oid sha256:2f2464d619f4dd45da2fdd6a18443fe66c1139116af0b50f5311974931f5e523
+size 422

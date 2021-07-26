@@ -1,1 +1,3 @@
-szállítási szerződés alap villamos energia beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:e0fd35c0728b9b9a29bdd904ed560f96ae0142bf8777ba515688636a2539c24a
+size 58

@@ -1,4 +1,3 @@
-felújítási és kivitelezési munkálat elvégzés az áeek vonatkozás az efop-2
-0-16-2016-00007
-diagnosztikai és orvosi laboratóriumi hálózat infrastrukturális feltétel javítás
-elnevezésű projekt keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:78078fa12a7edb82d093cd6563c57af38a626b5f45701275d0b9bfa61170cf65
+size 215

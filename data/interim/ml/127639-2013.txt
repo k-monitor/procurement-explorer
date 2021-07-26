@@ -1,10 +1,3 @@
-Forgalmi	forgalmi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-Tanulmány	Tanulmány	PROPN	Case=Nom|Number=Sing	
-készítése	készítése	PROPN	Case=Nom|Number=Sing	
-az	az	DET	Definite=Def|PronType=Art	
-ETCS	ETCS	NOUN	Case=Nom|Number=Sing	
-2-vel	2	NUM	Case=Ins|NumType=Card|Number=Sing	
-való	való	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-üzemelésről	üzemelés	NOUN	Case=Del|Number=Sing	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:2afb1ade1e59fa029749d18b4eaa0ff67fd715c209df4b1bf608d44abb70d3e9
+size 414

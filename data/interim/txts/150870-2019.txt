@@ -1,1 +1,3 @@
-DEK-774_Adásvételi szerződés villamos energia beszerzésére a Debreceni Egyetem részére
+version https://git-lfs.github.com/spec/v1
+oid sha256:7fef259eca285c13acc139d474b2d3dc217f4942d825816c9617eb2c98191a85
+size 94

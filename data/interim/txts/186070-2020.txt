@@ -1,1 +1,3 @@
-ROcHUs – Care for health in Satu Mare and Szabolcs-Szatmár-Bereg counties című pályázat keretében képalkotó berendezések és tartozékaik beszerzése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ed2ba56bcea7a7420e03a3698723e89628b0bc1f8d108f47c3595424feb0fccf
+size 161

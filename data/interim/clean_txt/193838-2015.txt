@@ -1,7 +1,3 @@
-szállítási szerződés keret a
-felső-bácskai hulladékgazdálkodási rendszer fejlesztés eszközbeszerzés
-című keop-1
-1.1
-c
-13-2013-0032 számú projekt megvalósítás szükséges eszköz beszerzés
-edényzet beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:a05fc582b1596e9096d95fb57f3711f38b2468c080229d4e23376e80c283562f
+size 229

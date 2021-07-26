@@ -1,10 +1,3 @@
-földgáz adás-vételi szerződés közbeszerzési eljárás keret a fogyasztói csatlakozási pont történő átvétel a magyar földgázhálózat folyamatos rendelkezés álló
-a hatályos magyar szabvány szerinti
-msz
-h minőségű földgáz energia beszerzés
-szabadpiaci feltétel szerint
-1.9.2014.,
-óra 1.7.2015.,
-óra terjedő időszak
-teljes ellátás alapú földgáz kereskedelmi szerződés keret
-mely tartalmaz a rendszerhasználati költség elszámolás is
+version https://git-lfs.github.com/spec/v1
+oid sha256:667688a5b4045ecb401931430a51495c62f5088e41280bcf252b66b567847835
+size 473

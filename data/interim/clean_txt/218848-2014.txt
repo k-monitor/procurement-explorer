@@ -1,6 +1,3 @@
-szállítási szerződés
-fajta és mennyiség szerint meghatározott dolog határidős adásvétel vonatkozó szerződés
-sürgősségi ellátás fejlesztés a karolina kórház-rendelőintézet
-című
-tiop-2
-1b-2013-0029 számú projekt megvalósítás kapcsolódó orvosi gép és műszer beszerzés tárgy
+version https://git-lfs.github.com/spec/v1
+oid sha256:8b5b203bf8e5c060b7a8ae914c89fc8428540f1afdbb9cfb7ca0b491a4748404
+size 309

@@ -1,1 +1,3 @@
-Az országos közúthálózaton végzett közútkezelői tevékenység 2018-2019. évi ellenőrzése egyes részei (I. rész - Észak-Magyarország régió, II. rész - Észak-Alföld régió, III. rész - Dél-Alföld régió, IV. rész - Közép-Magyarország régió, V. rész - Közép-Dunántúl régió, VI. rész - Nyugat-Dunántúl régió, VII. rész - Dél-Dunántúl régió) megbízási szerződés(ek) keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:32c478b80f2e731f0344c67f0b080fe4c712679aa010c0fa729e623ba224aa60
+size 426

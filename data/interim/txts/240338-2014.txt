@@ -1,1 +1,3 @@
-Irodabútor beszerzése az EUTAF számára.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8f25e45b89d4bbd9163199e49b826147951042fbf201f3168ee3213ccfad715d
+size 43

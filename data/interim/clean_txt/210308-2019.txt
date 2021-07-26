@@ -1,8 +1,3 @@
-villamos energia vásárlás árubeszerzés 2020. év
-cet
-31.12.2020
-cet közötti időszak
-beszerzés mennyiség összesen
-kwh mennyiség
-az ajánlatkérő a megadott beszerzési mennyiség pozitív irány opcionálisan
-kal pótdíjmentesen eltér
+version https://git-lfs.github.com/spec/v1
+oid sha256:02542ca675e5d332eba8b4df331404583e64e18208c4924e46437ecb982996f5
+size 248

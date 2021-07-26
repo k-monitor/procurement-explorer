@@ -1,1 +1,3 @@
-Turisztikai kerékpárút fejlesztése a Biczó István-kert (Sikló utca) és a Panoráma út között. A tervezett kerékpáros létesítmény hossza: 2700,65 méter. A kerékpárút burkolatára hulló csapadékvizek elvezetése a meglévő árokrendszer felhasználásával, rendezésével, jó karba helyezésével kerül megvalósításra. — A II.1.5) pont kizárólag azért került kitöltésre, hogy a hirdetmény továbbítható legyen a Kiadóhivatalnak, — A felhívás IV.2.6) pontja tekintetében ajánlatkérő rögzíteni kívánja, hogy az ajánlati kötöttség időtartama 60 nap az ajánlattételi határidő lejártától számítva, — Az eljárás során a felelős akkreditált közbeszerzési szaktanácsadó: Dr. Paróczai Bernadett, Lajstromszáma: 00176.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ea1addcaf85e55ca64c1ff9c2a2b0232c3c28998fd50be93f72fc2c70b545e8c
+size 786

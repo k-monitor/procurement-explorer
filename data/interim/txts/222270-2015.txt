@@ -1,1 +1,3 @@
-Parkolójegy kiadó automaták és tartozékai beszerzése, azok leszállításával, helyszíni telepítésével és üzembe helyezésével Veszprém város közigazgatási területére, a parkolójegy kiadó automaták használati jogának megszerzésével – vételi jog kikötésével – bérleti szerződés keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:efbb80fe65fb7059fbb486f6539a918e10960fcefe934c263fa1d8a92c01bc4e
+size 326

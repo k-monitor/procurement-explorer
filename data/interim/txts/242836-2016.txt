@@ -1,1 +1,3 @@
-Vállalkozási szerződés Dunaharaszti Város Önkormányzata közigazgatási területén működő nevelési és oktatási intézmények közétkeztetési szolgáltatásának ellátására vonatkozóan, mely magában foglalja az alábbiakat: — az iskolákban működő tálaló konyhák üzemeltetését, — címkézett, zárt, egyszer használatos, mikrohullámú sütőben melegíthető, egyadagos kiszerelésben diétás étkezés és ellátás biztosítását. Ajánlattevő kötelessége az Ajánlatkérő Dunaharaszti Egry József u. 6. szám alatt található Szivárvány Óvoda 500 adagos főzőkonyhájának üzemeltetése. Az ezt meghaladó adagszámot ajánlattevő saját vagy bérelt konyhájáról, kiszállítással köteles biztosítani.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1100fcadb96b3c1efca19025be204bfba25f389fd046f82d2e928a414704b3dc
+size 759

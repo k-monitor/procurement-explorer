@@ -1,3 +1,3 @@
-hepatitis kezelés szolgáló glecaprevir-pibrentasvir és sofosbuvir
-velpatasvir
-voxilaprevir hatóanyagú készítmény 2020. évi beszerzés keretmegállapodás megkötés irányuló hirdetmény közzététel induló gyorsított tárgyalásos eljárás keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:0b81527c6c4f3f7de613f8d84fed0f7f2d46ecb59861010321eb08122b8a9dec
+size 261

@@ -1,1 +1,3 @@
-Villamos energia szállítása 10 dunántúli gazdasági társaság részére 2019. január 1. – 2019. december 31. időszakra vonatkozóan, teljes ellátás alapú, fogyasztói menetrend adás nélküli villamos energia adásvételi szerződés keretében, amely legfeljebb 2 évben évenként 1-1 évre vonatkozóan meghosszabbítható.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a5288b036d68ab6ab715a4976e9caf98cd5c0c51b14cfcb4e85a1c4831944160
+size 340

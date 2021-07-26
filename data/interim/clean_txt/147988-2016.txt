@@ -1,2 +1,3 @@
-a fővárosi közterület-fenntartó zártkörű működő nonprofit részvénytársaság hulladékhasznosító mű-ben üzemelő db hulladéktüzelésű kazán fűtőfelület és az összekötő füstgáz csatorna a hatásfokjavító és munkavédelmi tisztítás
-alpin technika
+version https://git-lfs.github.com/spec/v1
+oid sha256:e47a6303dd3ded9259da106ad551da4ad7e58eca6a41fbcf51377482fe238f3b
+size 279

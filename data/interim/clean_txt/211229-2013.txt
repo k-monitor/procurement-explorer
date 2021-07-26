@@ -1,1 +1,3 @@
-vállalkozási keretszerződés a nemzeti fejlesztési ügynökség 2013. és 2014. év vonatkozó belső ellenőrzési terv végrehajtás sor külső szakértői kapacitás bevonás
+version https://git-lfs.github.com/spec/v1
+oid sha256:ea0a871a9c8d009b932620ed74d83fbad59068ea624f8672bdbdcd6ab452f8d3
+size 182

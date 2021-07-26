@@ -1,7 +1,3 @@
-megbízási szerződés a
-települési szilárdhulladék-lerakó rekultiváció a délkelet-alföld regionális hulladékgazdálkodási rendszer létrehozás célzó önkormányzati társulás terület
-ii
-ütem
-című keop-2
-3.0
-09-11-2011-0004 azonosító számú projekt kapcsolódó fidic mérnöki és műszaki ellenőri feladat ellátás
+version https://git-lfs.github.com/spec/v1
+oid sha256:62fe55eb2797a5c9d395da272bd1a3992dbf6df006e317b6ea42df0e223a2abc
+size 342

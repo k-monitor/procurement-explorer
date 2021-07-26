@@ -1,16 +1,3 @@
-Vonalas	vonalas	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-létesítmények	létesítmény	NOUN	Case=Nom|Number=Plur	
-terület	terület	NOUN	Case=Nom|Number=Sing	
-előkészítéséhez	előkészítés	NOUN	Case=All|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-szükséges	szükséges	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-régészeti	régészeti	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-feltárások	feltárás	NOUN	Case=Nom|Number=Plur	
-gépi	gépi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-és	és	CONJ	_	
-kézi	kézi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-földmunkáinak	földmunka	NOUN	Case=Gen|Number=Plur|Number[psor]=Sing|Person[psor]=3	
-elvégzésére	elvégzés	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-vállalkozási	vállalkozási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-keretszerződés	keretszerződés	NOUN	Case=Nom|Number=Sing	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:cbceb28ab3841f16fea271db4458b80fa3528a2e2105081e87f417f6c2983039
+size 856

@@ -1,1 +1,3 @@
-Egyszer használatos steril nem szőtt műtéti textíliák megrendelése fajta és mennyiség szerint meghatározott dolog határidős adásvétele adás-vételi szerződés keretében a Büntetés-végrehajtás Országos Parancsnoksága által a Bács-Kiskun Megyei Kórház számára 12 hónapra, 43 részben meghatározott termékekre és 2 telephelyen. Az ajánlatkérő a szerződés teljesítése érdekében nem teszi lehetővé gazdálkodó szervezet létrehozását (projekttársaság) sem a közös sem az egyéni nyertes ajánlattevők esetében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2f4880e2fac2642151c930b86f282f7c9fe22d404999b90ce2bf1757cdb82fc7
+size 558

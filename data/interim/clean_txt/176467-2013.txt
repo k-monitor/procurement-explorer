@@ -1,7 +1,3 @@
-szolgáltatási keretszerződés megkötés az alábbi tárgy
-a máv zrt. nagyértékű ingatlan
-létesítmény
-őrzés
-mely egyes hely maga foglal a beléptető rendszer kezelés
-kaszálási és síkosság-mentesítési feladat is
-budapest régió
+version https://git-lfs.github.com/spec/v1
+oid sha256:236c13da5539a473a6cc725a3de27d899fb77f0b5ad47cbc1d2b4d28bc8fbd43
+size 248

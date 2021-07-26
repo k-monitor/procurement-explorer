@@ -1,12 +1,3 @@
-Adásvételi	adásvételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-12	12	NUM	Case=Nom|NumType=Card|Number=Sing	
-havi	havi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-kenyér	kenyér	NOUN	Case=Nom|Number=Sing	
--	-	PUNCT	_	
-pékáru	pékáru	NOUN	Case=Nom|Number=Sing	
-,	,	PUNCT	_	
-tésztafélék	tésztaféle	NOUN	Case=Nom|Number=Plur	
-beszerzésére	beszerzés	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:5ca8354ba541e39e6772f1c64d14bc6795ef4151b0ce2b32ea5aa51d53fa24f8
+size 475

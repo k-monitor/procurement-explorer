@@ -1,7 +1,3 @@
-vállalkozási szerződés keret
-támop-2
-2.7
-a-13
-1-2013-0001
-út a szakmaválasztás
-megnevezésű projekt kapcsolódó pályaorientációs szolgáltatás megrendelés
+version https://git-lfs.github.com/spec/v1
+oid sha256:18d23c8881e766633d390a01d0cd72cbd9f16e1aa97597d0f3159b15b437d4b5
+size 169

@@ -1,29 +1,3 @@
-1.	1.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
-rész	rész	NOUN	Case=Nom|Number=Sing	
-:	:	PUNCT	_	
-Szoftverkövetési	szoftverkövetési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-(	(	PUNCT	_	
-licencfrissítés	licencfrissítés	NOUN	Case=Nom|Number=Sing	
-)	)	PUNCT	_	
-már	már	ADV	_	
-rendelkezésre	rendelkezés	NOUN	Case=Sub|Number=Sing	
-álló	álló	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-Symantec	Symantec	PROPN	Case=Nom|Number=Sing	
-licencekre	licenc	NOUN	Case=Sub|Number=Plur	
-vonatkozóan	vonatkozó	ADJ	Case=Ess|Degree=Pos|Number=Sing|VerbForm=PartPres	
-.	.	PUNCT	_	
-
-2.	2.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
-rész	rész	NOUN	Case=Nom|Number=Sing	
-:	:	PUNCT	_	
-Szoftvertámogatási	szoftvertámogatási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-már	már	ADV	_	
-rendelkezésre	rendelkezés	NOUN	Case=Sub|Number=Sing	
-álló	álló	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-Symantec	Symantec	PROPN	Case=Nom|Number=Sing	
-licencekre	licenc	NOUN	Case=Sub|Number=Plur	
-vonatkozóan	vonatkozó	ADJ	Case=Ess|Degree=Pos|Number=Sing|VerbForm=PartPres	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:f41a438a72b088cfe270b49205470401e8db014a0caee319d9c91f28c7255541
+size 1187

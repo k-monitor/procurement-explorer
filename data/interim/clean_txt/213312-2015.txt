@@ -1,1 +1,3 @@
-földgáz energia szabadpiaci beszerzés a kef által üzemeltetett épület ellátás
+version https://git-lfs.github.com/spec/v1
+oid sha256:9aceb0d2e1032fd7d1eb47aaa43dbf4a68f6d2cdaf515eba37686f4c8544606f
+size 86

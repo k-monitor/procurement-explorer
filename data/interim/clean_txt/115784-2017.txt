@@ -1,2 +1,3 @@
-mátrai gyógyintézet
-fűtőolaj beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:6a6e3245524c0b0b3ac7fb8146402aeaf7c8b574ab5975d33d502508dede1ef0
+size 44

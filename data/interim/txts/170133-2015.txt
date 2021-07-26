@@ -1,1 +1,3 @@
-Keretmegállapodás megkötése Derecske Város Önkormányzata részére mérnöki, műszaki tanácsadói szolgáltatások megbízási szerződések keretében történő elvégzésére.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cd8c79ff24df80e18c200c428a94d8d194a0cd488f2b67ed414dea14d983abc0
+size 187

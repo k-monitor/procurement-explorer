@@ -1,25 +1,3 @@
-üzemanyag töltőállomás
-központi feltöltő rendszer karbantartás
-javítás
-db kútoszlop
-db tartály
-db konténerkút
-db olajfogó
-valamint db üzemanyag raktár technológiai rendszer karbantartás
-hitelesítés
-javítás 1. részajánlati kör
-az mh telephely üzemelő üzemanyag töltőállomás
-üzemanyag konténeres töltőállomás
-tárolótartály és az az kapcsolódó technológiai rendszer
-üzemanyag kiadó berendezés rendszeres karbantartás
-javítás 2. részajánlati kör
-az mh arb bázisparancsnokság
-hetényegyháza
-katonai szervezet lévő üzemanyag ellátó raktár üzemanyag technológiai rendszer
-üzemanyag kiadó berendezés rendszeres javító karbantartás
-az átfolyásmérő hitelesítés
-a hajtóanyag tárolótartály felülvizsgálat
-mérésügyi hitelesítés
-javítás a részletes műszaki követelmény a kiegészítő közbeszerzési dokumentum
-kkd
-tartalmaz
+version https://git-lfs.github.com/spec/v1
+oid sha256:f0c230e8a602cff8e5b523949bde1b898fb7c1297ff56991ca527e2e2d785830
+size 907

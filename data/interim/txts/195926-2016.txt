@@ -1,1 +1,3 @@
-Központi nagyteljesítményű szünetmentes áramforrások (UPS) karbantartása és javítása (hibaelhárítása) a Pécsi Tudományegyetem részére szolgáltatási keretszerződés keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:546311dc853e1bdb3a9a689438c64f48e6ad2055f231af5eaa8884dd5ea16c2e
+size 196

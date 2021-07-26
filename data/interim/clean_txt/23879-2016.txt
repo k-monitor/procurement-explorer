@@ -1,2 +1,3 @@
-autóbuszbeszerzés
-adásvételi szerződés kapcsolódó szolgáltatás
+version https://git-lfs.github.com/spec/v1
+oid sha256:82aacdd98122d8ffee48829380bc8dcbb82c0915cae519176fb043309a5b8520
+size 72

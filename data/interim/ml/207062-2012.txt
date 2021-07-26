@@ -1,34 +1,3 @@
-I.	1.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
-műszercsomag	műszercsomag	NOUN	Case=Nom|Number=Sing	
-:	:	PUNCT	_	
-Szállítási	Szállítási	PROPN	Case=Nom|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-műtői	műtői	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-és	és	CONJ	_	
-technológiai	technológiai	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-berendezések	berendezés	NOUN	Case=Nom|Number=Plur	
-beszerzésére	beszerzés	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-,	,	PUNCT	_	
-üzembe	üzem	NOUN	Case=Ill|Number=Sing	
-helyezéssel	helyezés	NOUN	Case=Ins|Number=Sing	
-együtt	együtt	ADP	_	
-;	;	PUNCT	_	
-II	II	PROPN	Case=Nom|Number=Sing	
-.	.	PUNCT	_	
-műszercsomag	műszercsomag	NOUN	Case=Nom|Number=Sing	
-:	:	PUNCT	_	
-Szállítási	Szállítási	PROPN	Case=Nom|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-intenzív	intenzív	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-terápiás	terápiás	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-és	és	CONJ	_	
-medikai	medikai	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-elektronikai	elektronikai	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-berendezések	berendezés	NOUN	Case=Nom|Number=Plur	
-beszerzésére	beszerzés	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-,	,	PUNCT	_	
-üzembe	üzem	NOUN	Case=Ill|Number=Sing	
-helyezéssel	helyezés	NOUN	Case=Ins|Number=Sing	
-együtt	együtt	ADP	_	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:13f91b37723d01f593cbcc738a354e2fa108be6e06d5120c40d4f0570f5579da
+size 1382

@@ -1,1 +1,3 @@
-adás-vételi szerződés orvosdiagnosztikai és rehabilitációs központ megvalósítás kapcsolódó eszköz beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:181d748ec2bcde3872d469ec23cc6b67301f07a6823f531bad7be6ed268b200e
+size 122

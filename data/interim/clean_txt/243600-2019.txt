@@ -1,14 +1,3 @@
-városi közszolgáltatási telephely kialakítás kr. 46.§
-3
-bek. alap a közbeszerzés tárgy egyértelmű és közérthető meghatározás érdek az ak a meghatározott gyártmányú
-eredetű
-típusú dolog
-eljárás
-tevékenység
-személy
-illetőleg szabadalom vagy védjegy hivatkozik
-minden ilyen eset a megnevezés csak a tárgy jelleg egyértelmű meghatározás érdek történik
-ajánlat az előírt
-vagy az az egyenértékű termék lesz tesz
-ak az egyenértékűség az által a műszaki leírás és
-vagy részletes árajánlat meghatározott paraméter tekintet vizsgál
+version https://git-lfs.github.com/spec/v1
+oid sha256:eb5007b42fc7b96f25162c007766b5d2ffbfb10a449ab1f49ec12080814978e9
+size 585

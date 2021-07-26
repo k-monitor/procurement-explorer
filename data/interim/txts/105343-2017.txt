@@ -1,1 +1,3 @@
-Csapágyak és szimeringek beszerzésére adásvételi keretszerződésben.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5b14fe8d62fc36a59aedf67bd8939081b3765b66dc421f0414701d82ddff286f
+size 75

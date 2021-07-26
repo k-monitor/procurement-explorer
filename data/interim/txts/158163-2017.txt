@@ -1,1 +1,3 @@
-Adásvételi szerződés Bőrcsomósodáskór (lumpy skin disease LSD) elleni vakcina beszerzésére.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a738fa256b08fe987876dd0e806e35ebe977fa4e1bd93eafac1582c8c6c21f82
+size 101

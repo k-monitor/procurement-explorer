@@ -1,9 +1,3 @@
-műszaki eszköz beszerzés folytatás a pécsi tudományegyetem efop-3
-1-16-2016-00004 pályázat keret belül a közbeszerzési dokumentum meghatározott szerint az alábbi bontás
-ajánlati rész
-energetikai monitoring adatgyűjtés szükséges rendszer bővítés
-berendezés
-szenzor
-ajánlati rész
-autonóm jármű rendszer
-ajánlati rész
+version https://git-lfs.github.com/spec/v1
+oid sha256:bcaa253300e9dbcfbd8c2d1b0278144be23e9f4dc73ac53e4ea280abd5c2228b
+size 345

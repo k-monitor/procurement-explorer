@@ -1,7 +1,3 @@
-Szállítási	Szállítási	PROPN	Case=Nom|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-laboratóriumi	laboratóriumi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-vegyszerek	vegyszer	NOUN	Case=Nom|Number=Plur	
-beszerzésére	beszerzés	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:14d0bf47f157ebbc089120691c170b7acb9f28945fc65ab0a39c2b5686fa6354
+size 321

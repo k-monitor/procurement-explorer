@@ -1,1 +1,3 @@
-Megbízási szerződés az „Észak-Magyarországi szennyvízelvezetési és -kezelési fejlesztés 13. (ÉMO 13)” elnevezésű, KEHOP-2.2.2 azonosítószámú projekt keretében műszaki ellenőri tevékenység ellátására.
+version https://git-lfs.github.com/spec/v1
+oid sha256:55460588818e9485ceb9f49e9689988bca4fa27257e1ef32115c74d1765897ac
+size 229

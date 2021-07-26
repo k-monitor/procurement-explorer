@@ -1,1 +1,3 @@
-Vállalkozási szerződés, amelynek tárgya SAP gazdasági rendszer követése, támogatása, továbbfejlesztése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e88895a4fe49dd42591d389eaec733ebc3ebb6639f570786a101389ac30f34fa
+size 115

@@ -1,7 +1,3 @@
-UHPLC-ESI-Quadrupole	UHPLC-ESI-Quadrupole	PROPN	Case=Nom|Number=Sing	
-Time-of-Flight	Time-of-fligh	NOUN	Case=Acc|Number=Sing	
-tömegspektrométer	tömegspektrométer	NOUN	Case=Nom|Number=Sing	
-rendszer	rendszer	NOUN	Case=Nom|Number=Sing	
-beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:ad2497df881d059de992deea934640769a6fe562e8304007db6000b5013075b8
+size 335

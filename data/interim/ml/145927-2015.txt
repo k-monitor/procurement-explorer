@@ -1,8 +1,3 @@
-Nemzetközi	nemzetközi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-együttműködési	együttműködési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-programok	program	NOUN	Case=Nom|Number=Plur	
-második	második	ADJ	Case=Nom|NumType=Ord|Number=Sing	
-szintű	szintű	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-projektellenőrzése	projektellenőrzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:e98e6d3ae61fbe14b954b9e6955157bc12b2a636b2d8aa638961c6de37e414f5
+size 405

@@ -1,9 +1,3 @@
-ajánlatkérő székhely található ingatlan helyiség
-m²
-és ablak
-m² ablakfelület
-takarítás
-részben saját tisztítószer és eszköz
-valamint higiéniai töltőanyag és adagoló utántöltés
-kezelés
-vállalkozási szerződés keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:786d4ceba8c55791082cb2a669c7a319e5933a4c7f41c0cf87eadd987d10c08f
+size 244

@@ -1,1 +1,3 @@
-Vas, fém és színesfém anyagok beszerzése
+version https://git-lfs.github.com/spec/v1
+oid sha256:200eed3af275cadc18f9e2c14cfe53ed7ab915c5c2a9293f81de992ac0492609
+size 45

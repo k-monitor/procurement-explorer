@@ -1,12 +1,3 @@
-Modern	Modern	PROPN	Case=Nom|Number=Sing	
-Városok	város	NOUN	Case=Nom|Number=Plur	
-Program	Program	PROPN	Case=Nom|Number=Sing	
-keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-"	"	PUNCT	_	
-Békéscsaba	Békéscsaba	PROPN	Case=Nom|Number=Sing	
--	-	PUNCT	_	
-Versenyuszoda	versenyuszoda	NOUN	Case=Nom|Number=Sing	
-tervezése	tervezés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-"	"	PUNCT	_	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:dba12d3f07defc937e3bb32df70f329f6c00ed182ab0daaf3e06e93cd491d81e
+size 449

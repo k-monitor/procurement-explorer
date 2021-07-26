@@ -1,17 +1,3 @@
-adásvételi szerződés megkötés a szociális és gyermekvédelmi főigazgatóság gépjárműpark bővítés
-korszerűsítés érdek rész
-1. rész
-a
-2012.
-8.
-nfm utasítás 6. függelék szerinti egyterű személygépjármű 5. kategória tartozó új személygépjármű beszerzés rámpa nélküli
-db
-2. rész
-a
-2012.
-8.
-nfm utasítás 6. függelék szerinti egyterű személygépjármű 5. kategória tartozó új személygépjármű beszerzés rámpa ellátva
-db
-3. rész
-személyes személygépjármű
-db
+version https://git-lfs.github.com/spec/v1
+oid sha256:cbf7eeb15dec1060c8f7eff3f4d92205cbd3aada8d3490593d2713af46226c84
+size 514

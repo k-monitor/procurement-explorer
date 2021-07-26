@@ -1,1 +1,3 @@
-Szemészeti műlencsék és egyszer használatos műtéti csomagok beszerzése 26 részajánlattételi körben.
+version https://git-lfs.github.com/spec/v1
+oid sha256:66dbbff1d5498b91133f4c665cda312b946a5250b4b34dba299f6ee4b2b97e1d
+size 111

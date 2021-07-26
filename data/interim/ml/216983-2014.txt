@@ -1,8 +1,3 @@
-Villamosenergia-vásárlási	Villamosenergia-vásárlási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-villamos	villamos	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-energia	energia	NOUN	Case=Nom|Number=Sing	
-versenypiaci	versenypiaci	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-beszerzésére	beszerzés	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:73ad4aff11407ab07be7219bc0503ddb4820b5cc6e657e368307fd3cba790f63
+size 407

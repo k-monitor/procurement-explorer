@@ -1,5 +1,3 @@
-vállalkozási szerződés az 55. sz. főút 4+475
-18+202 km szelvény
-sz. főút szeged nyugati elkerülő
-tervezett mórahalom elkerülő
-közötti szakasz kn tengelyterhelés történő burkolat megerősítés és a főút párhuzamos kerékpárút kivitelezési munka elvégzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:6a5267ac351cd981828ce6c26df2edfb17c615dfca11f5e4e8fe41fe4a3a1dad
+size 282

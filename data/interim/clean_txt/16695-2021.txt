@@ -1,18 +1,3 @@
-adásvételi szerződés terepjáró teherautó
-pick up
-beszerzés life17 és life18 projekt keret belül
-rész
-ajánlatkérő összesen db terepjáró teherautó
-pick up
-kíván beszerez db ajánlati rész life17 és life18 pályázat teher az alábbi bontás szerint
-zár
-tolóablakos rakodóterű terepjáró teherautó
-pick up
-db
-zárt rakodóterű terepjáró teherautó
-pick up
-db
-zár rakodóterű
-vonóhorog ellátott terepjáró teherautó
-pick up
-db részletes műszaki leírás és teljesítési feltétel a közbeszerzési dokumentáció
+version https://git-lfs.github.com/spec/v1
+oid sha256:a6cc4d4df67c10779331fd7b699919ea57fb0f9f7aefe70eaeb300dcdb8e77fc
+size 549

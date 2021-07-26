@@ -1,1 +1,3 @@
-RSA-EMC logelemző rendszer gyártói támogatása és mérnökóra alapú üzemeltetési és fejlesztési támogatása 2018. 1.rész - RSA-EMC logelemző rendszer gyártói támogatása 2019.8.31-ig 2. rész - RSA-EMC logelemző rendszer mérnökóra alapú üzemeltetési és fejlesztési támogatása 2019.8.31-ig
+version https://git-lfs.github.com/spec/v1
+oid sha256:9c74c7175ed5261e80a4ca6d4ef27259b016b92f4eefc27c7dbe5b547e451e3c
+size 316

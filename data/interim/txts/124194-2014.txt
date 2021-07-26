@@ -1,1 +1,3 @@
-Solymár nagyközség közigazgatási területén keletkező települési kevert és szelektíven gyűjtött szilárd hulladék gyűjtése, elszállítása és kezelése közszolgáltatási szerződés keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8c6be6e8ebfa26ef499aa847c313f481f2740b225915897a3a61a4340407050c
+size 213

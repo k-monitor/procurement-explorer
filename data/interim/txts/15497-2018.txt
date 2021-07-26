@@ -1,1 +1,3 @@
-Adásvételi keretszerződés alapján „Különleges gumitermékek beszerzése a BKV Vasúti Járműjavító Kft. részére". 1. részfeladat: KCSV-7 járműhöz különleges gumialkatrész beszerzése 2. részfeladat: TW6000 járműhöz különleges gumialkatrész beszerzése
+version https://git-lfs.github.com/spec/v1
+oid sha256:93b5658a67b5c217fe0c8cece322865f951666ac3beb14d1a22f086b1cac8906
+size 279

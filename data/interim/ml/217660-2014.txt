@@ -1,25 +1,3 @@
-Tervezési	tervezési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-:	:	PUNCT	_	
-az	az	DET	Definite=Def|PronType=Art	
-„	„	PUNCT	_	
-M8-M5	M8-M5	PROPN	Case=Nom|Number=Sing	
-autópálya	autópálya	PROPN	Case=Nom|Number=Sing	
-csomópont	csomópont	NOUN	Case=Nom|Number=Sing	
-(	(	PUNCT	_	
-Nagykőrös-M5	Nagykőrös-M5	PROPN	Case=Nom|Number=Sing	
-közötti	közötti	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szakasz	szakasz	NOUN	Case=Nom|Number=Sing	
-)	)	PUNCT	_	
-engedélyezési	engedélyezési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-terv	terv	NOUN	Case=Nom|Number=Sing	
-módosítása	módosítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-és	és	CONJ	_	
-új	új	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-engedélyezési	engedélyezési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-terv	terv	NOUN	Case=Nom|Number=Sing	
-készítése	készítés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-"	"	PUNCT	_	
-tárgyában	tárgy	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:877d73cc6b4f0d1b63b79060716235f477793d22105a3580853721dfe4be3b06
+size 1053

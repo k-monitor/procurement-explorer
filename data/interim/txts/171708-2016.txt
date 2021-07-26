@@ -1,1 +1,3 @@
-Összességében nettó 47 000 000 HUF - 30 % keretösszeg erejéig vállalkozási keretszerződés keretében az FKF Nonprofit Zrt. tulajdonában lévő különféle járművek kis- és nagy fődarabjainak felújítása.
+version https://git-lfs.github.com/spec/v1
+oid sha256:87b540be2d5b41e7e3d5338f09ab88380c91029e78f08b3c35f47816a8b15430
+size 221

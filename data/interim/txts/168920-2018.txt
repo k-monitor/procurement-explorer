@@ -1,1 +1,3 @@
-„Adásvételi szerződés - EFOP-2.2.19-17 Járóbeteg szakellátó szolgáltatások fejlesztése pályázat keretében orvosi berendezések, eszközök leszállítása, üzembe helyezése és jótállás biztosítása”. A Szigetvári Kórház az EFOP-2.2.19-17 Járóbeteg szakellátó szolgáltatások fejlesztése pályázat keretében adásvételi szerződést kíván kötni különböző kórházi eszközök, berendezések beszerzésére, melyhez közvetlenül kapcsolódó szolgáltatásokat is teljesíteni kell. A beszerzés két részből áll. I. Diagnosztikai röntgen sugárzás alapelvű eszközök II. Egyéb diagnosztikai és kiegészítő eszközök Lásd: részeknél.
+version https://git-lfs.github.com/spec/v1
+oid sha256:01410c69e500a44c6f536d88ecc01676192b32024ba2a0cf9e7f3df3f582f5ac
+size 691

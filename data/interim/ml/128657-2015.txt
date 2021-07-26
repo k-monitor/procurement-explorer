@@ -1,31 +1,3 @@
-Villamos	Villamos	PROPN	Case=Nom|Number=Sing	
-energia	energia	NOUN	Case=Nom|Number=Sing	
-szállítása	szállítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-az	az	DET	Definite=Def|PronType=Art	
-ajánlatkérő	ajánlatkérő	NOUN	Case=Nom|Number=Sing	
-részére	részére	ADP	_	
-1.7.2015	1.7.2015	PROPN	Case=Nom|Number=Sing	
-.	.	PUNCT	_	
-
-00	00	NUM	Case=Nom|NumType=Card|Number=Sing	
-:	:	PUNCT	_	
-00	00	NUM	Case=Nom|NumType=Card|Number=Sing	
-órától	óra	NOUN	Case=Abl|Number=Sing	
-30.6.2016	30.6.2016	PROPN	Case=Nom|Number=Sing	
-.	.	PUNCT	_	
-
-24	24	NUM	Case=Nom|NumType=Card|Number=Sing	
-:	:	PUNCT	_	
-00	00	NUM	Case=Nom|NumType=Card|Number=Sing	
-óráig	óra	NOUN	Case=Ter|Number=Sing	
-,	,	PUNCT	_	
-teljes	teljes	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-ellátás	ellátás	NOUN	Case=Nom|Number=Sing	
-alapú	alapú	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-villamos	villamos	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-energia	energia	NOUN	Case=Nom|Number=Sing	
-kereskedelmi	kereskedelmi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:59db290f8d9fb9a637f96dd56f5a5f4db2d73ca63570f19a2d9617a13cdfd010
+size 1172

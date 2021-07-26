@@ -1,1 +1,3 @@
-Magyar Közút Nonprofit Zrt. magyarországi mérnökségeinél a gépjárműmosókban keletkező veszélyes hulladék elszállítása és kezelése, a gépjárműmosók tisztítása.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3112c9d20997fe8673b5476ba88d2dccc1851dbb23c6b7854048cc3e61a1f5be
+size 183

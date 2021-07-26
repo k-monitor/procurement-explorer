@@ -1,1 +1,3 @@
-Haemodinamikai anyagok beszerzése határidős adásvételi szerződés keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5db59859cab1aec2480cf554a7f372e4269f2da31c42349ac395fb9dedfa6fb7
+size 83

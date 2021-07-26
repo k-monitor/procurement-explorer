@@ -1,1 +1,3 @@
-forgalmi tanulmány készítése az etcs való üzemelés
+version https://git-lfs.github.com/spec/v1
+oid sha256:0b485884d8269865f306ba49bedbabb24f2d318158c1055b5289f16b6469d274
+size 57

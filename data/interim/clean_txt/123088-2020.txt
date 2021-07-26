@@ -1,28 +1,3 @@
-csípő
-és térdprotézis
-csontcement beszerzés konszignációs raktár biztosítás az egri markhot ferenc oktatókórház és rendelőintézet részére mennyiség
-rész
-készlet készlet opció
-rész
-készlet készlet opció
-rész
-készlet készlet opció
-rész
-készlet készlet opció
-rész
-készlet készlet opció
-rész
-készlet opció
-rész
-készlet
-rész
-db db opció valamennyi rész tekintet ajánlatkérő az alapmennyiség vállal lehívási kötelezettség
-valamennyi rész tekintet
-elvárás a szerződés fél általi aláírás nap számított munkanap belül konszignációs raktár létrehozás a szállított termék mindegyik
-a konszignációs raktár vonatkozó a felhasznált termék nyertes at köteles visszapótol a konszignációs lejelentés megjelölt határidő
-de későn az kézhezvétel számított munkanap belül
-2015.
-10. 30.
-korm
-rendelet 46. §
-bekezdés irányadó
+version https://git-lfs.github.com/spec/v1
+oid sha256:05c5d3e0316cdfb0e8b2d9d1a20c88b4ae23d3bcaccb297929eda6f25146f852
+size 905

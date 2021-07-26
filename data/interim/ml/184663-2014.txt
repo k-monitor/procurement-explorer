@@ -1,26 +1,3 @@
-Egyszer	egy	ADV	_	
-használatos	használatos	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-,	,	PUNCT	_	
-steril	steril	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-,	,	PUNCT	_	
-trombocita	trombocita	NOUN	Case=Nom|Number=Sing	
-készítmény	készítmény	NOUN	Case=Nom|Number=Sing	
-tárolására	tárolás	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-alkalmas	alkalmas	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-transzferzsák	transzferzsák	NOUN	Case=Nom|Number=Sing	
-,	,	PUNCT	_	
-granulocita	granulocita	NOUN	Case=Nom|Number=Sing	
-készítmény	készítmény	NOUN	Case=Nom|Number=Sing	
-tárolására	tárolás	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-alkalmas	alkalmas	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-transzferzsák	transzferzsák	NOUN	Case=Nom|Number=Sing	
-,	,	PUNCT	_	
-továbbá	továbbá	ADV	_	
-plazma	plazma	NOUN	Case=Nom|Number=Sing	
-készítmény	készítmény	NOUN	Case=Nom|Number=Sing	
-tárolására	tárolás	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-alkalmas	alkalmas	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-transzferzsák	transzferzsák	NOUN	Case=Nom|Number=Sing	
-beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:de8ff444b6946335b88a88420d8388fffbd3a1f0d6f24e2d0d9aafa877325ac4
+size 1203

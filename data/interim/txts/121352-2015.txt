@@ -1,1 +1,3 @@
-Vállalkozási szerződés: „Mezőtúr-Szarvas és Gyoma-Dévaványa becsatlakozó vonalakon ellenmenet kizáráshoz távközlési átviteli út kiépítése, optikai lég- és - alépítményi - földkábel vezetése és a kapcsolódó munkálatok elvégzése”.
+version https://git-lfs.github.com/spec/v1
+oid sha256:86fa57abe8b3c98d4e5b904780e2a08c4861a648ab889c5aa1b2be28c0fca035
+size 266

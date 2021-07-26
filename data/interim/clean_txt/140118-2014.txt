@@ -1,6 +1,3 @@
-tervezési szerződés békéscsaba
-kiz
-lőkösháza
-oh
-országos közforgalmú vasútvonalszakasz meglévő engedélyezési terv felülvizsgálat és új engedélyezési terv elkészítés
-továbbá kiviteli terv és tenderdokumentáció elkészítés
+version https://git-lfs.github.com/spec/v1
+oid sha256:ec90d4c629abcf932d3f3047a26e49fbde11f1685c9b5fa7aeaa69efb2f92c19
+size 252

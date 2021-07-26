@@ -1,5 +1,3 @@
-összesen db
-vízszállító gépjármű gyártás szükséges járóképes alváz
-6x6
-euro
-beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:d77d5135198f4077af60900cf1c83f38d47a55f3fa3f2d1a7189e082bc820a91
+size 102

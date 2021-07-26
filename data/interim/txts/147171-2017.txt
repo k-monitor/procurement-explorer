@@ -1,1 +1,3 @@
-Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház központi telephely takarítási feladatainak ellátása az ajánlati dokumentációban részletezettek szerint. A takarítással érintett alapterület: 72 174 m². A szerződés időtartama alatt a takarítandó terület változtatásának jogát a kórház fenntartja + 30 %-os mértékben.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d67f7a1ee2b694a5cfbc895a42a251d2a1ecf4c327c83853117bdeed94903c24
+size 371

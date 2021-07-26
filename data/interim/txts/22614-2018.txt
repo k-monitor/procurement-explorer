@@ -1,1 +1,3 @@
-Fajta és mennyiség szerint meghatározott dolgok határidős adásvétele: keretszerződés a Fővárosi Állat- és Növénykert részére az állatok etetéséhez szükséges takarmány (különféle zöldségek) beszerzése nettó 54 300 000 HUF keretösszegben, a közbeszerzési dokumentumokban részletezettek szerint, 12 hónapra.
+version https://git-lfs.github.com/spec/v1
+oid sha256:50f2a255e281d1910a2935967b0257bcd255770f4a09c11c6bfb12b4bdd09a31
+size 339

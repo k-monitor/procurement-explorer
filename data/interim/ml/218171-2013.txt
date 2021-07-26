@@ -1,32 +1,3 @@
-1.	1.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
-rész	rész	NOUN	Case=Nom|Number=Sing	
-vállalkozási	vállalkozási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-kormányablak	kormányablak	NOUN	Case=Nom|Number=Sing	
-kialakításának	kialakítás	NOUN	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-tervezése	tervezés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-felvételi	felvételi	NOUN	Case=Nom|Number=Sing	
-műemléki	műemléki	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-épületben	épület	NOUN	Case=Ine|Number=Sing	
-(	(	PUNCT	_	
-Bp.	Bp.	PROPN	Case=Nom|Number=Sing	
-Keleti	Keleti	PROPN	Case=Nom|Number=Sing	
-pu.	pu.	PROPN	Case=Nom|Number=Sing	
-)	)	PUNCT	_	
-;	;	PUNCT	_	
-2.	2.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
-rész	rész	NOUN	Case=Nom|Number=Sing	
-vállalkozási	vállalkozási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-kormányablak	kormányablak	NOUN	Case=Nom|Number=Sing	
-kialakításának	kialakítás	NOUN	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-tervezése	tervezés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-felvételi	felvételi	NOUN	Case=Nom|Number=Sing	
-műemléki	műemléki	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-épületben	épület	NOUN	Case=Ine|Number=Sing	
-(	(	PUNCT	_	
-Bp.	Bp.	PROPN	Case=Nom|Number=Sing	
-Nyugati	nyugati	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-pu.	pu.	NOUN	Case=Nom|Number=Sing	
-)	)	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:b40e674da056caf7b21abed99a80e44cc5a5ce9493ddb0738f91adbda69691e9
+size 1472

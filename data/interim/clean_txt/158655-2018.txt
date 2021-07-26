@@ -1,23 +1,3 @@
-vállalkozási szerződés
-a szerződés
-beszerzés
-tárgy
-top-6
-5-15-ny1-2016-00002 gazdaságfejlesztés és munkaerő mobilitás ösztönzés szolgáló közlekedésfejlesztés nyíregyháza délkeleti és délnyugati terület
-c
-projekt tartozó kivitelezési és egyéb munka rész
-ak felhív az at figyelem az
-hogy ak a jelen felhívás az európai uniós hivatalos lap kiadóhivatal által bevezetett terjedelmi korlát miatt rövidítés használ
-az egész felhívás érvényes általános fogalom rövidítés
-ajánlatkérő
-ak
-ajánlattevő
-at
-felhívás
-felh
-szakember
-hiszen
-referenciamunka
-rm
-a további használt rövidítés az egyes kifejezés
-fogalom után ad meg
+version https://git-lfs.github.com/spec/v1
+oid sha256:061a87a4ce827f9c02834650f74dff49df6c14a6541309f53b1a3960660db094
+size 679

@@ -1,2 +1,3 @@
-az országos onkológiai intézet részére különféle orvosi felszerelés
-orvosi fogyóeszköz beszerzés adás-vételi szerződés keret hónapos határozott időtartam
+version https://git-lfs.github.com/spec/v1
+oid sha256:9c5d95d101f2fbce14d0c88e6a1ad78b36d08e5687399acd20ac3fa1e96d930a
+size 172

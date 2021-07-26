@@ -1,1 +1,3 @@
-Vállalkozási (szolgáltatási) szerződés felügyelt, digitális hálózat elérési szolgáltatás biztosítására, valamint a szolgáltatás működőképességének folyamatos biztosítására hálózatfelügyeleti rendszer és elektronikus hibajegykezelő rendszer alkalmazása a dokumentációban megadott, jelenleg összesen 428 db végpont számára, 9 részben, a megadott szolgáltatási követelményeknek megfelelően.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9f8822967b77aa685df3e702f7ffce2f295b25ccc962688a54abb9c7f965b113
+size 433

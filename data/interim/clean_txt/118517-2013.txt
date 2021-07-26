@@ -1,6 +1,3 @@
-debrecen város út
-egyes járda gépi
-kézi úttisztítás
-az téli síktalanítási és hóeltakarítási munka
-valamint az illegális szemétlerakó elhelyezett hulladék szeméttelep való szállítási munka
-vállalkozási szerződés
+version https://git-lfs.github.com/spec/v1
+oid sha256:4fd7d0f44972fa233ad2e1bbaebc172758a392bfa70d7c512ebd3b43b4c77c1e
+size 239

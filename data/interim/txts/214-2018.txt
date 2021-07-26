@@ -1,1 +1,3 @@
-Határozott idejű adásvételi szerződés keretében magas tudású lélegeztető gépek beszerzése (intenzív osztályra) beszerzése ÁEEK_NEAK_EMMI-2017/1. pályázat keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:88b4a28a65ccafbd9b7e90af56ec9e47859ad926783d794ca7f9804b0da5b4f4
+size 184

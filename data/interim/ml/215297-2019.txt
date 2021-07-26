@@ -1,18 +1,3 @@
-Mikroreaktor	mikroreaktor	NOUN	Case=Nom|Number=Sing	
-rendszer	rendszer	NOUN	Case=Nom|Number=Sing	
-beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-a	a	DET	Definite=Def|PronType=Art	
-Pannon	Pannon	PROPN	Case=Nom|Number=Sing	
-Egyetem	Egyetem	PROPN	Case=Nom|Number=Sing	
-részére	részére	ADP	_	
-a	a	DET	Definite=Def|PronType=Art	
-GINOP-2	GINOP-2	PROPN	Case=Nom|Number=Sing	
-.	.	PUNCT	_	
-
-3	3	NUM	Case=Nom|NumType=Card|Number=Sing	
-.	.	PUNCT	_	
-3-15-2016-00036	3-15-2016-00036	PROPN	Case=Nom|Number=Sing	
-azonosítószámú	azonosítószámú	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-projekt	projekt	NOUN	Case=Nom|Number=Sing	
-keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:ee367940eea595f10c8c1e0d5ebe5b36c78fd3b33ed1586e1e4647bb6bca43cb
+size 734

@@ -1,1 +1,3 @@
-Földgáz beszerzés Göd Város Önkormányzata és intézményei részére 2016/17. és 2017/18. gázévre.
+version https://git-lfs.github.com/spec/v1
+oid sha256:36956a700b4665c4363d9c77186b8a2f3ae2aff8430851d528e2b2400f725496
+size 109

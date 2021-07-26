@@ -1,1 +1,3 @@
-az új néprajzi múzeum és látogatóközpont generálkivitelezési munka elvégzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:9c1c67f6dcae4b652313cce73b92528b1a91a4235c17de5c0d6521a75d29a24b
+size 86

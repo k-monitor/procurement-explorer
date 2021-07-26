@@ -1,1 +1,3 @@
-Határidős adás-vételi szerződés alapján Gasztroenterológia konszignációs raktár - endoszkópos tartozékok és öntáguló fém stentek, valamint bronchológiai anyagok beszerzése
+version https://git-lfs.github.com/spec/v1
+oid sha256:fb627282af2f14c64c9eb20599b7c4cd4f823cd555768053ba2422992dfe2f3a
+size 191

@@ -1,25 +1,3 @@
-informatikai hardver
-laptop
-surface
-egér
-szerver
-külső merevlemez
-dokumentum kamera
-3d nyomtató
-kábel
-modul
-surface ceruza
-elosztósor
-tisztító
-izzó
-ups szünetmentes
-projektor konzol
-motoros vetítővászon
-és szoftver
-veeam
-gfi
-team wiever
-windows
-windows pro
-windows server
-beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:4207616e9bf4fe51c59674bcc59f12d2eea953177c395e4f44aad92e9cea1bbe
+size 296

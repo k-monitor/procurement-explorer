@@ -1,1 +1,3 @@
-Új vízmérők szállítása Univerzál Beszerző Kft részére 5 részben
+version https://git-lfs.github.com/spec/v1
+oid sha256:677583314b7c6e1f6c9b99081288e72798a38f24e96dc8156c20f7a84f42226b
+size 75

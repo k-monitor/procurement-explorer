@@ -1,1 +1,3 @@
-Vállalkozási szerződés a Székesfehérvár vasúti csomópont vasúti pálya és kapcsolódó létesítmények korszerűsítésére.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9acf867ce12f8768c29092688c1e81d804c53875a3c6936209a1b907ade4b0d2
+size 136

@@ -1,5 +1,3 @@
-Országos	országos	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-EDR	EDR	PROPN	Case=Nom|Number=Sing	
-rádiótechnikai	rádiótechnikai	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-hálózatmérés	hálózatmérés	NOUN	Case=Nom|Number=Sing	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:d33810b085bc8e1d26beeba8c196b25c78688c373f117e0cf3678cba8b069e2f
+size 226

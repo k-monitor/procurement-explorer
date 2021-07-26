@@ -1,1 +1,3 @@
-Szolgáltatási szerződés az SZTE Szent-Györgyi Albert Klinikai Központ számára komplex kórház-informatikai rendszer szolgáltatás nyújtására.
+version https://git-lfs.github.com/spec/v1
+oid sha256:be092f9cb79bdfa1ebe46f9ef532d60f24bdb9b993f1f35a81bb153b50af5f0d
+size 154

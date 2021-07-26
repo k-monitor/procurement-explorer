@@ -1,1 +1,3 @@
-vállalkozási szerződés új egyetemi oktatási épület megvalósítás
+version https://git-lfs.github.com/spec/v1
+oid sha256:75df69fea887c330a22476b33772aa02cac14d235918b237b44eaccf11832005
+size 74

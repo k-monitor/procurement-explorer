@@ -1,1 +1,3 @@
-Mátrai Gyógyintézet- EFOP-2.2.18-17- árubeszerzés- 2018.
+version https://git-lfs.github.com/spec/v1
+oid sha256:646c1f955399489159c7386e7a758010e2665aa4168fcc4c01b73b6b22c1898f
+size 61

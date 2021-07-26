@@ -1,6 +1,3 @@
-adásvételi szerződés árvízvédelmi mű védképesség helyreállítás cél szükséges szádlemez beszerzés az ativizig terület elvégzendő feladat ellátás a keop-2
-1.1
-09-11-2013-0001 azonosítószámú
-állami árvízvédelmi mű állékonyság
-védképesség helyreállítás a 2013. évi őszi felülvizsgálat eredmény meghatározott szerint
-elnevezésű projekt keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:90e964996447707b3cf5a11dff1dd60c66f9aeea28ae1a923170165afa429dd0
+size 386

@@ -1,1 +1,3 @@
-A Hortobágyi Nemzeti Park - a Puszta világörökségi helyszínre és védőövezetére vonatkozó világörökségi kezelési terv szakmai előkészítésére szolgáló megalapozó dokumentáció és világörökségi kezelési terv elkészítése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f560c9dcc2312b7213f5bc4b44b7221bee8abe425006de83630b8c27847d3846
+size 252

@@ -1,7 +1,3 @@
-vállalkozási szerződés m8 autóút körmend-rábafüzes országhatár közötti szakasz 2x1 sávos építési munka
-1. rész
-vállalkozási szerződés m8 autóút körmend-rábafüzes országhatár közötti szakasz 2x1 sávos építési munka a 161+200
-180+650 km szelvény között
-2. rész
-m8 autóút körmend-rábafüzes országhatár közötti szakasz 2x1 sávos építési a 180+650
-190+114,7 km szelvény között
+version https://git-lfs.github.com/spec/v1
+oid sha256:6666d80ca234cee86efd6cd03aaeaae97f2f28a9a2c54ea1c47b8247ce30bc01
+size 426

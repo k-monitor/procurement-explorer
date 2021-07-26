@@ -1,12 +1,3 @@
-a semmelweis egyetem hallgatói jogviszony álló külföldi hallgató szolgáltatásfinanszírozó egészségbiztosítás
-tervezett induló létszám
-fő
-igényelt szolgáltatás
-az akut egészségi állapotromlás miatt szükséges váló egészségügyi ellátás költség megtérítés az alábbi szolgáltatás keret
-háziorvosi alapellátás
-járóbeteg-szakellátás
-fekvőbeteg ellátás
-sürgős szükség eredő ellátás
-betegszállítás
-órás angol nyelvű egészségügyi call center
-gyógyszerköltség és gyógyászati segédeszköz költség megtérítés
+version https://git-lfs.github.com/spec/v1
+oid sha256:70f300f462a8df6083d77bdafe7131d2aaabdb73adc6508e0c647fa15d6039d3
+size 575

@@ -1,1 +1,3 @@
-Vállalkozási szerződés keretében a Fővárosi Törvényszék kettő épületének külső rendszeres, továbbá belső rendszeres- és éves nagytakarítási munkáinak elvégzése 36 hónap időtartamra, tervezetten 2018. október 1. napjától 2021. szeptember 30. napjáig a közbeszerzési dokumentumokban részletezett műszaki leírás szerint az alábbi kettő részfeladatra bontva: 1. részfeladat: A Pesti Központi Kerületi Bíróság (1055 Budapest, Markó u. 25.) épületének takarítási munkái 2. részfeladat: A Budapesti IV. és XV. Kerületi Bíróság (1043 Budapest, Tavasz u. 21.) épületének takarítási munkái
+version https://git-lfs.github.com/spec/v1
+oid sha256:453eb8d57495ffe44ef4371ecab1155bd2ba22d216c6c93903dddee2456c9c38
+size 645

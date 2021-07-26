@@ -1,6 +1,3 @@
-filter
-szerelék
-katéter beszerzés
-összesen db
-doboz mennyiség
-rész
+version https://git-lfs.github.com/spec/v1
+oid sha256:205f3c4f209abce7c728961496867ba428f227fcb888ea7955e4ad1f884d2352
+size 72

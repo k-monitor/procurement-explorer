@@ -1,2 +1,3 @@
-takarítási tevékenység ellátás
-töltelékáru biztosítás
+version https://git-lfs.github.com/spec/v1
+oid sha256:0b188722270fbbe663d754ee8faf7ed22b4445c2c828154dfd06fb79905186f4
+size 64

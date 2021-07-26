@@ -1,1 +1,3 @@
-Magyarországi fekvőbeteg ellátó intézmények 12 havi gyógyszerellátásának biztosítása 16 különböző hatóanyag, hatóanyagcsoport tekintetében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9ea3b28edd52f8239f56b8a844c0d6a72408edbd6911124f2d8f9ea362517ad6
+size 158

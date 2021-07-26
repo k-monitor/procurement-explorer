@@ -1,1 +1,3 @@
-Vállalkozási szerződés az SZTE klíma- és szellőző berendezések karbantartása, javítása, üzemeltetése szolgáltatás megrendelése kezelése tárgyában.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e0f7e76dbcc4813d6ec3df0a795d9b551586a42e93d91774e7a07a9ce2cd97cd
+size 166

@@ -1,1 +1,3 @@
-A Budapest Bozsik Stadion labdarúgó sportlétesítmény kivitelezése átalánydíjas vállalkozási szerződés alapján.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a2927ac09db95892e83da68d499825db6b583b9ceffc21d0349ce8d72715a6dc
+size 124

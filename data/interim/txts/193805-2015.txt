@@ -1,1 +1,3 @@
-Szállítási szerződés keretében a „Sajó-Bódva Völgye és Környéke Hulladékgazdálkodási Rendszer fejlesztése eszközbeszerzésekkel” elnevezésű KEOP-1.1.1/C/13-2013-0002 számú projekt megvalósításához szükséges eszközök beszerzése – Gyűjtőjárművek, valamint gépek beszerzése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1cde8694061a44b53a434d0c7b384097b351e95f2dcc0f142ba086dbd54f30a9
+size 313

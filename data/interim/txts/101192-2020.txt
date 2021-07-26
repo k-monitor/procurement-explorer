@@ -1,1 +1,3 @@
-Új vagy újszerű, alacsony belépésű, 2 tengelyes szóló (M3/II. osztályú) autóbuszok beszerzése zárt végű pénzügyi lízingszerződés keretében. Mennyiség: 40 db Az újszerű definíció alatt Ajánlatkérő az alábbit érti: az egyes autóbuszok 1. forgalomba helyezésének ideje nem lehet korábbi mint, 3.2019, illetve az ajánlati felhívás feladásának pillanatában a futásteljesítmény (km telítettség) nem lehet több, mint 150 000 km, egyik autóbusz esetében sem. A műszaki követelmények alapján megajánlott autóbuszok mindegyikének azonos gyártmányúnak és kivitelűnek (egyformának) kell lennie. Folytatás: II.2.4) pontban.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cb1f3060ed68da0553ff83778b79518a9bdf3d49709b578d71dc2156ca8a779b
+size 673

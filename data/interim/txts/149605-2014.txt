@@ -1,1 +1,3 @@
-Szállítási szerződés „Intézményfejlesztés a pásztói Margit Kórházban című TIOP-2.2.6-12/1B-2013-0022 azonosítószámú pályázatának keretében eszközszállítás - telepítéssel, üzembe helyezéssel, a kezelőszemélyzet betanításával, próbaüzem lefolytatásával, jótállási kötelezettségvállalással” tárgyban.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f0c51efe789f1cfaaa4cc3e9e727abd4a30c7336029593aebd03dcd2ecd267da
+size 348

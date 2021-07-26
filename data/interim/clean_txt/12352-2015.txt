@@ -1,1 +1,3 @@
-adásvételi szerződés labordiagnosztikai reagens beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:ba065272a76d13c92e98e372eb55d4e514662c5df898338ecc0df34e6d53111e
+size 62

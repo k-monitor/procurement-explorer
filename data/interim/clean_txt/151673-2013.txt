@@ -1,6 +1,3 @@
-tervezési szerződés
-a 76. sz. főút megvalósuló fejlesztés erfa pályázati dokumentáció elkészítés
-megvalósíthatósági tanulmány összeállítás
-egyéb kapcsolódó kiegészítő anyag
-a pályázat befogadás szükséges kiegészítés
-egyeztetés tárgy
+version https://git-lfs.github.com/spec/v1
+oid sha256:6e7833c0d2f86520b24f80d554821914f6af97bf0c779bedd29fb84479b17154
+size 272

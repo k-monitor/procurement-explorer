@@ -1,1 +1,3 @@
-Adásvételi szerződés a Modern Városok Program keretében 5 db (+ 3 db opciós) hosszú, 100 %-ban alacsonypadlós egységes kialakítású, új, személyszállító, akkumulátoros, önjáró, csuklós trolibuszok gyártása, helyszínre leszállítása, helyszíni próbaüzemének lebonyolítása, az előírt engedélyek beszerzése (típusengedélyeztetések, forgalomba helyezési engedélyeztetés), a kezelőszemélyzet betanítása és kapcsolódó szolgáltatások nyújtása tárgyban.
+version https://git-lfs.github.com/spec/v1
+oid sha256:09dfd99652c908fb6341db5310137de0b37c27aab39079bd9530b3d4ceb421f2
+size 500

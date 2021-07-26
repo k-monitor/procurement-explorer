@@ -1,4 +1,3 @@
-vállalkozási szerződés a montág-pusztai telep állatállomány gondozás
-ellátás
-őrzés
-felügyelet
+version https://git-lfs.github.com/spec/v1
+oid sha256:77686f44ffbc3896b9f34aef73c5501263bffd0e9f14c9a442ed251bfda568da
+size 107

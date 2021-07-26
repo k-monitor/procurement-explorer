@@ -1,1 +1,3 @@
-Oktatási célú laboratóriumi berendezések és kísérleti segédanyagok beszerzése természettudományi tantárgyak laboratóriumi oktatásához, a szállított áruk betanításával.
+version https://git-lfs.github.com/spec/v1
+oid sha256:983be7573ff3cdec55fd29e5a31a21dcc1165e4edfd042db60194bbae35e3165
+size 189

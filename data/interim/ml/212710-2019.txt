@@ -1,14 +1,3 @@
-2020-2021	2020-2021	NUM	Case=Nom|NumType=Card|Number=Sing	
-évekre	év	NOUN	Case=Sub|Number=Plur	
-villamos	villamos	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-energia	energia	NOUN	Case=Nom|Number=Sing	
-beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-,	,	PUNCT	_	
-és	és	CONJ	_	
-szennyvíziszap-gázból	szennyvíziszap-gáz	NOUN	Case=Ela|Number=Sing	
-termelt	termelt	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPast	
-villamos	villamos	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-energia	energia	NOUN	Case=Nom|Number=Sing	
-átadása	átadás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-beszámítással	beszámítás	NOUN	Case=Ins|Number=Sing	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:2261cfa3552c006d99fdb55af2ea75906b6922a14772e8e71f95528e74a6f651
+size 688

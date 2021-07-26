@@ -1,1 +1,3 @@
-„Az Almási Balogh Pál Kórház infrastrukturafejlesztése szolgáltatási feltételeinek racionalizálása érdekében” (azonosító szám: TIOP-2.2.4-09/1-2010-0008) projekt és „A rehabilitációs ellátórendszer fejlesztése az Észak-magyarországi régióban” (azonosító szám: ÉMOP-4.1.2/A-11-2012-0001) c. projekt megvalósításához kapcsolódó Reumatológiai osztály és kezelő felszerelése (I. részajánlati kör A/feladat), Intenzív osztály felszerelése (II. részajánlati kör) és Rehabilitációs osztály felszerelése (I. részajánlati kör B/feladat) szállítási szerződés keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4206f98e7d7627b33513bc8a944a291fe102cb1ea43e96f8b2d82e08b9fe5fc4
+size 630

@@ -1,1 +1,3 @@
-Szállítási szerződés laboratóriumi vegyszerek beszerzésére.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e5f56158b6729be05ef416e1d8a5cf288304efa219b138164b685532ecb5f534
+size 67

@@ -1,1 +1,3 @@
-1. rész Adásvételi keretszerződés „Speciális informatikai eszközök beszerzése” tárgyában. 2. rész Adásvételi keretszerződés „Általános informatikai eszközök beszerzése” tárgyában.
+version https://git-lfs.github.com/spec/v1
+oid sha256:42ba0ce1284f370064590ec5799b15496546f354f453966bef91a7f280c25826
+size 210

@@ -1,1 +1,3 @@
-Endoszkópos centrum felszereléséhez szükséges eszközök beszerzése (szállítása, telepítése, üzembe helyezése, technikai és orvosszakmai próbaüzem elvégzése, a kezelőszemélyzet betanítása), a Semmelweis Egyetem I. sz. Belgyógyászati Klinikája és I. sz. Sebészeti Klinikája részére. 1. rész – Modern endoszkópos rendszerek felső és alsó diagnosztikus és terápiás ellátásra beleértve endoszkópos UH készüléket lineáris elektronikus ultrahangos videogasztroszkóppal a Semmelweis Egyetem I. sz. Sebészeti Klinika operatív endoszkópos centruma részére. 2. rész – Nagyfrekvenciás vágó-koagulátor endoszkópos felhasználásra. 3. rész – 1 db komplett video endoszkópos torony. 4. rész – Endoszkópmosó automata (3db).
+version https://git-lfs.github.com/spec/v1
+oid sha256:29ce9ea66c6b5f725ce282efbf10bded6a20cd680b51bdc5fbd4ae6e90f3459e
+size 780

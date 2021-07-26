@@ -1,5 +1,3 @@
-Keretmegállapodás	keretmegállapodás	NOUN	Case=Nom|Number=Sing	
-személygépjárművek	személygépjármű	NOUN	Case=Nom|Number=Plur	
-beszerzésére	beszerzés	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:1fb9343c689b5e5a48f605611338fd10e27559f57c38f811b9445743afff39c8
+size 237

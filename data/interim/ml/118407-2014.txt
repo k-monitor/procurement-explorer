@@ -1,7 +1,3 @@
-Adásvételi	adásvételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-földgáz-beszerzés	földgáz-beszerzés	NOUN	Case=Nom|Number=Sing	
-tárgyában	tárgy	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-Szentendrén	Szentendre	PROPN	Case=Sup|Number=Sing	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:4c0237b5f19f30f94122eaa1ae00da8de936af38a5fa1273b4e76a0a9ff4a219
+size 328

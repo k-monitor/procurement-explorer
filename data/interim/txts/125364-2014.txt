@@ -1,1 +1,3 @@
-Szállítási szerződés keretében vízi járművek szállítása és kapcsolódó szolgáltatások teljesítése 3 részben: 1. rész: Felfújható merevaljú kisgéphajók szállítása; 2. rész: Közepes-méretű kisgéphajók szállítása; 3. rész: Járőrhajók szállítása.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e169f48ace8f68dc1f665f574ccf119eb886ddb3f5569e60c1766183e4daaad7
+size 286

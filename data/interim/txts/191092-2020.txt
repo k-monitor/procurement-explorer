@@ -1,1 +1,3 @@
-A BinexFlow rendszer üzemeltetése, támogatása, jogszabálykövetése és fejlesztése_vállalkozási szerződés
+version https://git-lfs.github.com/spec/v1
+oid sha256:e6d5f9cf2593d831995fca290b6816ac507a61086022587ae3376044f812456d
+size 116

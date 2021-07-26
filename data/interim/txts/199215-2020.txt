@@ -1,1 +1,3 @@
-Keretszerződés ”A Dunántúli-középhegységi karsztvízszint emelkedés okozta jelenségek állapotrögzítése, a várható emelkedés modellezése” című, KEHOP-1.1.0-15-2017-00010 azonosító számú projekthez kapcsolódó monitoring kutak felülvizsgálatára
+version https://git-lfs.github.com/spec/v1
+oid sha256:b8d456d3071681e78bcfa98d6fa699a1335756730688193a407cdc79124f89ce
+size 273

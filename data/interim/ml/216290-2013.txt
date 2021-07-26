@@ -1,25 +1,3 @@
-Tervezési	tervezési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-„	„	PUNCT	_	
-M30	M30	PROPN	Case=Nom|Number=Sing	
-gyorsforgalmi	gyorsforgalmi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-út	út	NOUN	Case=Nom|Number=Sing	
-Tornyosnémeti-országhatár	Tornyosnémeti-országhatár	NOUN	Case=Nom|Number=Sing	
-közötti	közötti	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szakasz	szakasz	NOUN	Case=Nom|Number=Sing	
-és	és	CONJ	_	
-kapcsolódó	kapcsolódó	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-létesítményei	létesítmény	NOUN	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3	
-kiviteli	kiviteli	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-(	(	PUNCT	_	
-építési	építési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-)	)	PUNCT	_	
-terveinek	terv	NOUN	Case=Gen|Number=Plur|Number[psor]=Sing|Person[psor]=3	
-és	és	CONJ	_	
-kapcsolódó	kapcsolódó	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-dokumentációinak	dokumentáció	NOUN	Case=Gen|Number=Plur|Number[psor]=Sing|Person[psor]=3	
-elkészítése	elkészítés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-"	"	PUNCT	_	
-tárgyában	tárgy	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:b550420420ec10db14541b1bf4fd9ee857a8ac2539060c86b498def85f356812
+size 1238

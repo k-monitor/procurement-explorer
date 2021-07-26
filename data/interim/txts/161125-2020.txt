@@ -1,1 +1,3 @@
-Misszióvezetői, szolgáltató és szolgálati gépjárművek beszerzése 2 részben 1. rész Külképviseleti szolgálati gépjárművek beszerzése az Európai Unió országaiba, valamint az Európai Unióval szoros gazdasági kereskedelmi megállapodásokkal rendelkező európai államokba 2. rész Külképviseleti szolgálati gépjárművek beszerzése az Európai Unió államain kívüli európai országokba, valamint Európán kívüli országokba
+version https://git-lfs.github.com/spec/v1
+oid sha256:0614b95b5406838a201b3a6dd862dc1e1c379af6d5b8700e8dda4dfe8d4d8ce8
+size 458

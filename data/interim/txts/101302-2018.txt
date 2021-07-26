@@ -1,1 +1,3 @@
-Megbízási szerződés a „Battonya város szennyvízelvezetésének és -tisztításának bővítése, korszerűsítése” elnevezésű, KEHOP-2.2.2-15-2015-00008 projekt keretében műszaki ellenőri tevékenység ellátására.
+version https://git-lfs.github.com/spec/v1
+oid sha256:48382fffa8571a12b836dc0dcbf373c7db26a8b874530c8e228cffb0304d1b2b
+size 233

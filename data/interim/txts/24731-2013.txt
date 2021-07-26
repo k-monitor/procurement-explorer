@@ -1,1 +1,3 @@
-Vállalkozási keretszerződés. Nyertes Ajánlattevő feladata Ajánlatkérő mindenkori tulajdonában, használatában lévő Agria, 5900 Taifun 18, Agria Clenbaby, Antonio Carraro HR 6500 és VANDAELE 160 típusú egy- és kéttengelyes kaszáló-, és seprőgépeinek, illetve adaptereinek az Ajánlatkérő által kibocsátott eseti megrendelések alapján - karbantartása, javítása, valamint a teljes körű alkatrészellátás.
+version https://git-lfs.github.com/spec/v1
+oid sha256:85adc8b51ba4869500daea095b8267c122811c4dc590a581d715faf51a79a08d
+size 437

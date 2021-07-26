@@ -1,1 +1,3 @@
-Tömegspektrométerek szállítása.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bcff9f29097c95828e50f0ba2b4ec67fb5d8c9093a5b80d56fa517bf3c892d5a
+size 36

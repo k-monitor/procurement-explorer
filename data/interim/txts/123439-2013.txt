@@ -1,1 +1,3 @@
-Vállalkozási szerződés a 33. sz. főút Heves és Jász - Nagykun - Szolnok megyei szakasz 11,5 tonna burkolaterősítés (0+000-37+780 km. sz. között) kivitelezési munkáinak elvégzése tárgyában.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5729d4b0101d767bbf3b860ba27871ee519b509a81189a4b7889f12d39379382
+size 207

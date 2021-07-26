@@ -1,1 +1,3 @@
-Teljes körű bérszámfejtési, humánpolitikai és személyügyi nyilvántartási szoftver, és az ahhoz kapcsolódó bevezetési és támogató szolgáltatások beszerzése, a meglévő aktív és archív adatok átvitele a bevezetendő rendszerbe. A beszerzendő, bevezetésre váró rendszernek kommunikálnia kell a már meglévő pénzügyi, illetve műszaki rendszereinkkel. Egyidejű felhasználó >150 Kezelt dolgozói létszám: 3 500 fő.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a5c879a5e74461fc97da49433c20739e519dda4142fc60b260a94b2d0adaac10
+size 450

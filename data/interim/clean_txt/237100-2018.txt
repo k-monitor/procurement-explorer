@@ -1,2 +1,3 @@
-adásvételi szerződés
-amely tárgy szemészeti eszköz szállítás
+version https://git-lfs.github.com/spec/v1
+oid sha256:b97084adf2fdc652c20c92944453c99406fccea18e98077dabb8f3d17671a3b6
+size 70

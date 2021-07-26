@@ -1,4 +1,3 @@
-megvalósíthatósági tanulmány készítés miskolc megyei jogú város önkormányzata részére vállalkozási szerződés keret a közop-5
-0-09-2010-0026 kódszámú
-városi és elővárosi kötöttpályás közösségi közlekedési rendszer fejlesztés miskolc és térség
-című projekt keret belül
+version https://git-lfs.github.com/spec/v1
+oid sha256:b3e9491464427c9d0e377a25363473f183c477c4a3f5000daea76997d6c4f531
+size 308

@@ -1,8 +1,3 @@
-vállalkozási szerződés diagnosztikai készülék javítás
-szervizelés tárgy
-az ajánlatkérő
-full
-szerződés kér ajánlat
-az ajánlattevő a szerződés keret folyamatos el kell végez és dokumentál az
-egészségügyi eszköz
-jogszabály által előírt biztonsági felülvizsgálat
+version https://git-lfs.github.com/spec/v1
+oid sha256:ff3227cc380311064f3410470c275b342d5485569e8c2369da019490bb236d65
+size 294

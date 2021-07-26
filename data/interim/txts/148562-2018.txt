@@ -1,1 +1,3 @@
-Traumatológiai implantátumok beszerzése az SZSZBMK részére 34 részben határidős adásvételi szerződés keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7b42c8046552984dd676a2216384a33a09c4b1c542c7b3a6e599c716c4a18519
+size 124

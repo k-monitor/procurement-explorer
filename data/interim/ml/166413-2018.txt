@@ -1,8 +1,3 @@
-Stabil	stabil	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-hőkamera	hőkamera	NOUN	Case=Nom|Number=Sing	
-rendszer	rendszer	NOUN	Case=Nom|Number=Sing	
-rekonstrukciója	rekonstrukció	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
--	-	PUNCT	_	
-keretmegállapodás	keretmegállapodás	NOUN	Case=Nom|Number=Sing	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:a7f4940f8a45d902b2575919f2d94bd088da0b9211f661cec5a75a930d5158d9
+size 329

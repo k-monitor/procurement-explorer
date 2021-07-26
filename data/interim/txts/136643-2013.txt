@@ -1,1 +1,3 @@
-Szolgáltatási szerződés a Nemzeti Adó- és Vámhivatal számára 18 kommentár jellegű szakmai kiadvány nyomdai előállítása és kiadói gondozása.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d3ba52a8f25593e7e2f2b521642264445f7befca2ed8d4b26a27d115f2de2253
+size 158

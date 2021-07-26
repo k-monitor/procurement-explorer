@@ -1,4 +1,3 @@
-szállítási szerződés
-ekop-2
-kiemelt projekt keret
-ügyfélszolgálati iroda korszerűsítés szükséges multifunkciós nyomtató beszerzés festékanyag a dokumentáció részletezett szerint
+version https://git-lfs.github.com/spec/v1
+oid sha256:aaf6e378bb9dd94df76f0e7cc9b5acc4d101fd39794ad6185bbecbd5b24e0a8b
+size 197

@@ -1,1 +1,3 @@
-Magyar Közút Nonprofit Zrt. által üzemeltetett közúthálózat egyes pihenőhelyi illemhelyein, illetve egyes telephelyein keletkezett szennyvíz begyűjtése, ártalmatlanítás céljából történő elszállítása vállalkozási keretszerződés keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:378de0f35a78f7175c3f877a4a403b29cd733f3c0d00ce85e6a7413d6932101f
+size 266

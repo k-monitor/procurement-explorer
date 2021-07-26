@@ -1,1 +1,3 @@
-Pápa város közigazgatási területén a nem közművel összegyűjtött háztartási szennyvíz begyűjtésére vonatkozó helyi közszolgáltatás ellátása közszolgáltatási szerződés keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:82570529fb083d8ee0a2a904b112a99bf5b74cc2385f096371f21574cb78ceb3
+size 205

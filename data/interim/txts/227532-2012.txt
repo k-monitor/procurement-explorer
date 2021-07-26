@@ -1,1 +1,3 @@
-Működési hitel biztosítása 400 000 000 HUF értékben Mezőtúr Város Önkormányzata részére 2012. november 30-tól 5 éves futamidőre.
+version https://git-lfs.github.com/spec/v1
+oid sha256:42cf3227810a8a62d60a8e17ac8ca08c978df62ef4f836caebd202965c5c4a11
+size 145

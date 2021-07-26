@@ -1,13 +1,3 @@
-SIMON	simo	NOUN	Case=Sup|Number=Sing	
-monitoring	monitoring	NOUN	Case=Nom|Number=Sing	
-rendszer	rendszer	NOUN	Case=Nom|Number=Sing	
-CRFS	CRFS	PROPN	Case=Nom|Number=Sing	
-,	,	PUNCT	_	
-CommsAudit	CommsAudit	PROPN	Case=Nom|Number=Sing	
-és	és	CONJ	_	
-IZT	IZT	PROPN	Case=Nom|Number=Sing	
-gyártmányú	gyártmányú	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-műszereinek	műszer	NOUN	Case=Gen|Number=Plur|Number[psor]=Sing|Person[psor]=3	
-fejlesztése	fejlesztés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:975bb2934cf982441be66fbdc2f70dd0489528c6a6f03c3b28a7476c0f13dc13
+size 530

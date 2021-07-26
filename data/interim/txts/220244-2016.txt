@@ -1,1 +1,3 @@
-Megbízási keretszerződés keretében a Vidékfejlesztési Program és a Magyar Halgazdálkodási Operatív Program keretében az Európai Mezőgazdasági Vidékfejlesztési Alap valamint az Európai Tengerügyi és Halászati Alap forrásaiból származó pénzeszközök felhasználásával történő közbeszerzési eljárások, illetve szerződések felügyeletét ellátó szerv tevékenységét segítő, a mindenkor hatályos jogszabályok alapján fennálló feladataihoz kapcsolódó közbeszerzési és jogi szakértői tanácsadás.
+version https://git-lfs.github.com/spec/v1
+oid sha256:57d680826eaf5798845ad8ca81cc6b317814e00a5c287e783a8f22b338dc01f1
+size 546

@@ -1,6 +1,3 @@
-Mohács	Mohács	PROPN	Case=Nom|Number=Sing	
-térségi	térségi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-általános	általános	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-iskola	iskola	NOUN	Case=Nom|Number=Sing	
-bővítése	bővítés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:9067e4915cf393f3fa728932ae77577ee37497011541e3a27ce87a5997e1c91a
+size 287

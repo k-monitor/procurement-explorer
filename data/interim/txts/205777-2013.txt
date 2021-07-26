@@ -1,1 +1,3 @@
-Megbízási szerződés: 8. sz. főút Márkó-Herend (63+778-69+055 km sz.) közötti szakasz 115 kN-os burkolat-megerősítési, korszerűsítési, valamint kapcsolódó létesítményeinek kivitelezési munkáin Mérnök feladatok ellátása.
+version https://git-lfs.github.com/spec/v1
+oid sha256:af36181296085e75498f03a08b293e37a88972b53c44303edb5727eb9bad6479
+size 245

@@ -1,1 +1,3 @@
-Közszolgáltatási szerződés alapján a közszolgáltató feladata Mezőkovácsháza város közigazgatási területén keletkező hulladékgazdálkodási közszolgáltatás körébe tartozó hulladék rendszeres begyűjtése, átvétele, és a műszaki leírásban megjelölt valamelyik ártalmatlanító helyre történő szállítása.
+version https://git-lfs.github.com/spec/v1
+oid sha256:daf0af77e3e990acde9902c82290986e59d3636ec5fe3617715927304af8279c
+size 341

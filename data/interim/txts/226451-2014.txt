@@ -1,1 +1,3 @@
-A Miskolctapolcai Strandfürdő részére fitnesz gépek - futópadok, terem kerékpárok, has-és hátizom gépek - szállítása
+version https://git-lfs.github.com/spec/v1
+oid sha256:93cca3cc06e59e5aace4b7755c15c38ddeda73431dfc089bba66697acd52fdfb
+size 130

@@ -1,1 +1,3 @@
-Keretmegállapodás irodai papírok szállítására.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9c7b1ead2195127c34fbf3467630d11e3768eb0fb1f32ac0a6678b7354fafd1d
+size 53

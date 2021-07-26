@@ -1,1 +1,3 @@
-adásvételi keretszerződés textiltermék gyártás
+version https://git-lfs.github.com/spec/v1
+oid sha256:56698ec456169659b2bc3b030643d9e37abb16a919d618c1c63d753ecc808c5d
+size 53

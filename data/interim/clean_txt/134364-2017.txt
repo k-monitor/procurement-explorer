@@ -1,5 +1,3 @@
-korszerű műtéti és diagnosztikai eszköz beszerzés a pte részére 2. a közbeszerzési dokumentáció meghatározott paraméter
-az alábbi szerint
-darab műtőasztal cserélhető feklap
-tartozék
-ajánlattevő köteles elvégez az eszköz átadás-átvétel sor az ajánlatkérő által kijelölt személy felhasználói szintű oktatás is
+version https://git-lfs.github.com/spec/v1
+oid sha256:3d767559fe725d2679882dc7408d92d5066ec027edd8de600538941ab9fcf052
+size 346

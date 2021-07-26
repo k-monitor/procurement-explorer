@@ -1,1 +1,3 @@
-Vállalkozási szerződés a Belváros Új Főutcája kiépítése, II. ütem projekt kommunikációs és soft feladatainak ellátása tárgyában.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dae5942d6c0dc28cdf0f5e20dc908f3539689e37d93ce13cbb0252392bccde70
+size 147

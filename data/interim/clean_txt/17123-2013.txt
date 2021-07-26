@@ -1,4 +1,3 @@
-szállítási szerződés a médiaszolgáltatás-támogató és vagyonkezelő alap meglévő stúdió hangtechnikai
-utasító és videotechnikai eszköz kompatibilis
-a 2-es stúdió megépítés szükséges hangtechnikai eszköz
-utasító eszköz és videotechnikai eszköz szállítás tárgy
+version https://git-lfs.github.com/spec/v1
+oid sha256:dc4f2acc36c050f0ff5911e64613904ed725276aa58037783212f3bea1612a6f
+size 293

@@ -1,26 +1,3 @@
-havi szemlencse szükséglet beszerzés rész
-minden rész eset konszignációs raktár kihelyezés és működtetés
-1. rész összehajtható
-hidrofil akril
-intraokuláris műlencs
-mennyiség
-db
-ii
-rész összehajtható
-hidrofil
-akril
-intaokuláris
-aszférikus műlencs
-mennyiség
-db
-iii
-rész összehajtható
-egytestű
-hidrofil-hidrofób kopolimer akrilát műlencs
-mennyiség
-db
-rész összehajtható
-háromtestű
-hidrofób akrilát műlencs
-mennyiség
-db
+version https://git-lfs.github.com/spec/v1
+oid sha256:b3195b18815a4878039d07ae67e64f3eef933b40f4913124ee8cff985ef28df2
+size 458

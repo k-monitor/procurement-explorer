@@ -1,2 +1,3 @@
-egy sd és egy lsm
-egymás kompatibilis fénymikroszkóp-rendszer beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:2cf6ef9a1704a7a3f41120190c5e022304de429c03f179541a41a6bed0b2e0d4
+size 76

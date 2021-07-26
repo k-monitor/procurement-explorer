@@ -1,1 +1,3 @@
-klik dell szerver gyártói garancia kiterjesztés beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:8f044e37067404606a5697aff72d9073149cc2692677b6eba7ad4f1ff682677f
+size 61

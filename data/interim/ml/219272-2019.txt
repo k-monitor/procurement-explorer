@@ -1,4 +1,3 @@
-Gördülőállományfejlesztés	gördülőállományfejlesztés	NOUN	Case=Nom|Number=Sing	
-felújítási	felújítási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-munkái	munka	NOUN	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:e3b7f97175c0ae416918ab78b4d08d62731404a8becddf3b281f6d54de981549
+size 231

@@ -1,1 +1,3 @@
-Könyvtár épületéhez kapcsolódó kivitelezési munkák
+version https://git-lfs.github.com/spec/v1
+oid sha256:4c273fdda2b3f9f863f25d9ac1b30a287b30512fe5c1957fa82363b5da8ae2ae
+size 59

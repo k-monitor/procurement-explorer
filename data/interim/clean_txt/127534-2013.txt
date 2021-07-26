@@ -1,1 +1,3 @@
-hulladékszállító tehergépjármű bérlés
+version https://git-lfs.github.com/spec/v1
+oid sha256:f41d7bef697e1014cc6f45bc1016707185fae287ee2a442900b7a527bdd2dfba
+size 46

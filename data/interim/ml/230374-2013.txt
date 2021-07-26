@@ -1,29 +1,3 @@
-Folyószámlahitel	folyószámlahitel	NOUN	Case=Nom|Number=Sing	
-biztosítása	biztosítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-hitelszerződések	hitelszerződés	NOUN	Case=Nom|Number=Plur	
-formájában	forma	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-,	,	PUNCT	_	
-2	2	NUM	Case=Nom|NumType=Card|Number=Sing	
-részajánlatban	részajánlat	NOUN	Case=Ine|Number=Sing	
-:	:	PUNCT	_	
-I.	1.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
-rész	rész	NOUN	Case=Nom|Number=Sing	
-tekintetében	tekintet	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-1	1	NUM	Case=Nom|NumType=Card|Number=Sing	
-000	000	NUM	Case=Nom|NumType=Card|Number=Sing	
-000	000	NUM	Case=Nom|NumType=Card|Number=Sing	
-000	000	NUM	Case=Nom|NumType=Card|Number=Sing	
-HUF	HUF	PROPN	Case=Nom|Number=Sing	
-értékben	érték	NOUN	Case=Ine|Number=Sing	
-,	,	PUNCT	_	
-II	II	PROPN	Case=Nom|Number=Sing	
-.	.	PUNCT	_	
-rész	rész	NOUN	Case=Nom|Number=Sing	
-tekintetében	tekintet	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-800	800	NUM	Case=Nom|NumType=Card|Number=Sing	
-000	000	NUM	Case=Nom|NumType=Card|Number=Sing	
-000	000	NUM	Case=Nom|NumType=Card|Number=Sing	
-HUF	HUF	PROPN	Case=Nom|Number=Sing	
-értékben	érték	NOUN	Case=Ine|Number=Sing	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:086aa87835dda6f41f302e47536e3fa58a8802c885c222d4477ebf45cfe7810b
+size 1272

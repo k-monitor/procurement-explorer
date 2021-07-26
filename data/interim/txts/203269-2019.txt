@@ -1,1 +1,3 @@
-Adásvételi szerződés keretében «Élelmiszer beszerzés a «URBS PRO PATIENTE» Közhasznú Nonprofit Kft. részére 2018 III» Nettó 30 000 000 HUF keretösszegben fűszer és nehézáru szállítása, illetve adásvétele
+version https://git-lfs.github.com/spec/v1
+oid sha256:e24c34cb00e25da5a91137d6defc18f3af80bdb19626d032cccd7f92aec0403f
+size 229

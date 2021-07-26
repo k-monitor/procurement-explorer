@@ -1,30 +1,3 @@
-Szállítási	Szállítási	PROPN	Case=Nom|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-villamos	villamos	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-energia	energia	NOUN	Case=Nom|Number=Sing	
-beszerzésére	beszerzés	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-2013-2015	2013-2015	NUM	Case=Nom|NumType=Card|Number=Sing	
-.	.	PUNCT	_	
-évre	év	NOUN	Case=Sub|Number=Sing	
-,	,	PUNCT	_	
-a	a	DET	Definite=Def|PronType=Art	
-Szegedi	Szegedi	PROPN	Case=Nom|Number=Sing	
-Tudományegyetem	Tudományegyetem	PROPN	Case=Nom|Number=Sing	
-(	(	PUNCT	_	
-SZTE	szte	PRON	Case=Nom|Number=Sing|Person=2|PronType=Prs	
-)	)	PUNCT	_	
-,	,	PUNCT	_	
-és	és	CONJ	_	
-az	az	DET	Definite=Def|PronType=Art	
-MTA	MTA	PROPN	Case=Nom|Number=Sing	
-Szegedi	Szegedi	PROPN	Case=Nom|Number=Sing	
-Biológiai	biológiai	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-Kutatóközpont	Kutatóközpont	PROPN	Case=Nom|Number=Sing	
-(	(	PUNCT	_	
-MTA	MTA	PROPN	Case=Nom|Number=Sing	
-SZBK	SZBK	PROPN	Case=Nom|Number=Sing	
-)	)	PUNCT	_	
-telephelyei	telephely	NOUN	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3	
-számára	számára	ADP	_	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:3e1a74174e24c1ecc95b5b7abeabe0d2d8a724088523c1b3d23f8887e3f20633
+size 1127

@@ -1,1 +1,3 @@
-A közbeszerzésekről szóló 2015. évi CXLIII. törvény 105. § (1) bekezdés a) pontja szerinti keretmegállapodás megkötésére irányuló, tárgyalásos közbeszerzési eljárás a tételes elszámolás alá eső nelarabin, plerixafor és palivizumab hatóanyagot tartalmazó gyógyszerek 31.10.2017--ig terjedő aktív időszakra szóló többletmennyiség beszerzésére.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ef566df99eb8a793bc714e10ec70260bdd85083b22706081661109b007c930c9
+size 382

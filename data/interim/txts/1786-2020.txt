@@ -1,1 +1,3 @@
-Jelen közbeszerzés tárgya olyan átfogó tanulmány készítése, amely felméri a rendelkezésre álló hazai és külföldi szabad szakképzett munkaerő mennyiségét, illetve azon nagyobb hazai és külföldi beruházásokat, amelyek elszívó hatást jelenthetnek a Paks II. beruházás tekintetében, továbbá az európai atomerőmű-építésben alkalmazott, a munkaerő közvetítés és toborzás vonatkozásában „jó gyakorlat” eljárások feltérképezése és átemelése a szakképzett humánerőforrás megfelelő mennyiségű és minőségű biztosításához.
+version https://git-lfs.github.com/spec/v1
+oid sha256:eb1fd8d3a0e28a3c5673fcec8a8bb7f3f7838940aa5d417cce5c2f7e8676602f
+size 584

@@ -1,1 +1,3 @@
-Eszközbeszerzés a „Civilizásciós zavarok idegtudományi, pszichológiai és örökletes háttere: diagnózistól a problémakezelésig” elnevezésű projekt keretében
+version https://git-lfs.github.com/spec/v1
+oid sha256:f57ea8d2733aa692a8b03ce0b39f2430e78256ffbec1c9033def0a03d77e5719
+size 175

@@ -1,2 +1,3 @@
-adásvételi szerződés
-partfürdő fejlesztés felépítményes úszómű beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:7adfdcbddfd19926c8deda26e2695e45ac75dc2c89a0b00398b6231a5aea3490
+size 86

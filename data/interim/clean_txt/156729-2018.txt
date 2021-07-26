@@ -1,15 +1,3 @@
-adásvételi szerződés a modern város program keret db
-db opciós
-hosszú
- alacsonypadlós egységes kialakítású
-új
-személyszállító
-akkumulátoros
-önjáró
-csuklós trolibusz gyártás
-helyszín leszállítás
-helyszíni próbaüzem lebonyolítás
-az előírt engedély beszerzés
-típusengedélyeztetés
-forgalom helyezési engedélyeztetés
-a kezelőszemélyzet betanítás és kapcsolódó szolgáltatás nyújtás tárgy
+version https://git-lfs.github.com/spec/v1
+oid sha256:140cd91cf0e03af5b117409b8462a7666b817043d2ea6b22add8d78e83105c0b
+size 436

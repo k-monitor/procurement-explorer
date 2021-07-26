@@ -1,1 +1,3 @@
-Hemodinamikai DSA berendezés beszerzése és karbantartása a Városmajori Szív- és Érgyógyászati Klinika részére 12 hónap jótállás 48 hónap szerviz szolgáltatás
+version https://git-lfs.github.com/spec/v1
+oid sha256:9227d64149d1a96f9982083a529d2c8f3786c68d78d0a6d493c3666452ce79dc
+size 176

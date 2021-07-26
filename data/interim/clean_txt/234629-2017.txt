@@ -1,1 +1,3 @@
-oracle licenc beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:a08e0fed98a3248c79f10601a1585c75af125f1158ad3e3f5b305878c2a3a621
+size 24

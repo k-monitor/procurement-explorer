@@ -1,2 +1,3 @@
-a budapesti szent ferenc kórház meglévő épület felújítás
-korszerűsítés 2. rész vállalkozási szerződés keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:1c85a768c87d0b8ec5c64e0854276c6ec74e75a5c0a7abf44c78e2adcf0288f1
+size 124

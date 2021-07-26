@@ -1,1 +1,3 @@
-központi nyomozó főügyészség irodaépület élőerős őrzés-védelmi és portaszolgálati tevékenység ellátás
+version https://git-lfs.github.com/spec/v1
+oid sha256:b22cdd5b5da355cbc7601d3635c61f6c93d69d86cac5a7f2ca912b191f635b77
+size 121

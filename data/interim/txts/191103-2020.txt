@@ -1,1 +1,3 @@
-A Nemzeti Ménesbirtok és Tangazdaság Zrt, a tevékenységi körében végzett Hibridkukorica vetőmag előállításhoz szükséges kézi munkaerő igény kielégítése céljából munkaerő biztosítása szolgáltatási szerződés keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8d26d5dd0b8b7682823c317c7bba62b7063e19ffe5cecf1157868738e9bfb74d
+size 248

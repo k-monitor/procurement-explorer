@@ -1,1 +1,3 @@
-Megbízási szerződés az országos közúthálózaton végzett közútkezelői tevékenység 2013. évi ellenőrzésére.
+version https://git-lfs.github.com/spec/v1
+oid sha256:738452a2ea4c81a80bdcf7e62b46543ca79e1bad6bb05b01ce0de2950558046f
+size 123

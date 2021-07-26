@@ -1,6 +1,3 @@
-a pápai gróf esterházy kórház és rendelőintézeti szakrendelő járóbeteg-szakellátó szolgáltatás fejlesztés új eszköz beszerzés keresztül című efop-2
-19-17-2017-00051 pályázati konstrukció beszerzendő eszköz
-1. rész
-diagnosztikai berendezés 2. rész
-fizikoterápiás berendezés 3. rész
-mobíliák 4. rész
+version https://git-lfs.github.com/spec/v1
+oid sha256:0aadb5283d0e6bb49e25f416822df0c3ae947877a6a81ddac08955324ab5720b
+size 334

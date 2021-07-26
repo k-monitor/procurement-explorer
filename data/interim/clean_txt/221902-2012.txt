@@ -1,6 +1,3 @@
-vállalkozási szerződés hónap a bevándorlási és állampolgársági hivatal budapesti
-debreceni és szegedi regionális igazgatóság illetve kirendeltség
-valamint az ez tartozó udvar általános és időszaki takarítás tárgy részajánlati kör
-beleértve az eseti takarítási feladat is
-valamint a járdafelület
-udvar síkosság mentesítés is
+version https://git-lfs.github.com/spec/v1
+oid sha256:3ec0f21238e8412bebb760c05d25e307693d03266e728fe9a5ffd2aa6c336e17
+size 359

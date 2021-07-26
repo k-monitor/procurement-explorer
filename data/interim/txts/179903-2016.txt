@@ -1,1 +1,3 @@
-„Híd fő- és célvizsgálat 2016.” – Vállalkozási szerződés. Összesen 201 db közúti híd fő- és célvizsgálata 34 rész-ajánlattételi területen. Részletes feladatleírás tekintetében lásd az Ajánlati Dokumentáció részét képező műszaki dokumentációt.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6ce16ad7c4591686adb763b431f8abb81e749bfd193772c39a5e1bf110035bad
+size 284

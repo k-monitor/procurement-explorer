@@ -1,26 +1,3 @@
-Karbantartási	karbantartási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-PET	PET	NOUN	Case=Nom|Number=Sing	
-/	/	PUNCT	_	
-CT	CT	NOUN	Case=Nom|Number=Sing	
-berendezés	berendezés	NOUN	Case=Nom|Number=Sing	
-teljes	teljes	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-körű	körű	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-karbantartására	karbantartás	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-,	,	PUNCT	_	
-PET	PET	PROPN	Case=Nom|Number=Sing	
-/	/	PUNCT	_	
-MR	MR	PROPN	Case=Nom|Number=Sing	
-berendezés	berendezés	NOUN	Case=Nom|Number=Sing	
-karbantartására	karbantartás	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-és	és	CONJ	_	
-hibajavítására	hibajavítás	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-,	,	PUNCT	_	
-a	a	DET	Definite=Def|PronType=Art	
-berendezések	berendezés	NOUN	Case=Nom|Number=Plur	
-folyamatos	folyamatos	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-üzemképességének	üzemképesség	NOUN	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-biztosítására	biztosítás	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-vonatkozóan	vonatkozó	ADJ	Case=Ess|Degree=Pos|Number=Sing|VerbForm=PartPres	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:d222d127b34b2c226e3b1f90713ace9d942bca8a1c30e6fe5e720252fa895284
+size 1231

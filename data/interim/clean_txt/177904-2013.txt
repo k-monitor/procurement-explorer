@@ -1,1 +1,3 @@
-science múzeum részére szállítási szerződés keret színpadtechnikai emelőberendezés és nézőtéri pódium
+version https://git-lfs.github.com/spec/v1
+oid sha256:77c3cb0066185a5a0eea75f1c623fc52dfddb67e309deea31f87debf6fd89cac
+size 117

@@ -1,1 +1,3 @@
-szemészeti implantátum szállítás ajánlatkérő részére
+version https://git-lfs.github.com/spec/v1
+oid sha256:3bee6b9ff5897dc1785cee0f56ac8e22693958e6c360255dbd2a0951625f4088
+size 62

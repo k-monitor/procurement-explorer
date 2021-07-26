@@ -1,8 +1,3 @@
-adásvételi szerződés kihelyezett áruraktár létesítés coronaria sten és nyomásmérő vezetődrót
-occluder valamint mitraclip valv repair rendszer beszerzés tárgy
-a rész előírt mennyiség
-az egységár vagy más szerződéses feltétel módosítás nélkül
-ajánlatkérő a ii
-pont jelzett szerint
-opcionális rész
-eltér
+version https://git-lfs.github.com/spec/v1
+oid sha256:587fbd726ffdca07daf30b72804d7f252be2f86407d2ce5e5d3a3f1a674b11a5
+size 338

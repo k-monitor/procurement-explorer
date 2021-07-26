@@ -1,1 +1,3 @@
-Vállalkozási szerződés keretében a Hatvani multifunkcionális sport-és rendezvénycsarnok, valamint a hozzá kapcsolódó telken belüli utak, parkolók, közművek (víz-, gáz- és elektromos áramellátás, szennyvíz- és csapadékvíz elvezetés), továbbá a kert- és parképítési munkák megvalósítása.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ce202f0ee6451b486fa41484bbb330a11f0ce183afdf2e6ec633a0ddd8c1c3b9
+size 321

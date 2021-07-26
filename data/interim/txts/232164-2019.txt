@@ -1,1 +1,3 @@
-Keretszerződés folyóiratok, tankönyvek és egyéb kiadványok nyomdai kivitelezésére 3 részben
+version https://git-lfs.github.com/spec/v1
+oid sha256:b506cf4f6216e4a7668d755caffa690fccd702b4fe3ad1d904cf5179d202d757
+size 101

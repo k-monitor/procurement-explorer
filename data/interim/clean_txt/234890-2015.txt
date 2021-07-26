@@ -1,11 +1,3 @@
-a keop
-5.6.0
-e
-egészségügyi eszközök energia megtakarítás célzó beszerzés támogatás
-című konstrukció kapcsolódó
-meglévő röntgen berendezés csere új röntgen berendezés szállítás
-telepítés
-üzem helyezés
-a régi berendezés selejtezés való szakmai közreműködés
-a régi berendezés leszerelés
-elszállítás és az előző végrehajtás elengedhetetlen szükséges járulékos munka elvégzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:f932fe00ddcc0ab7863835e9252490979d05742904475e04f9eda027f862e1d7
+size 427

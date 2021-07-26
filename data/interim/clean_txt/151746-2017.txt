@@ -1,4 +1,3 @@
-kivitelezési szerződés építési beruházás
-a békásmegyeri piac és közösségi tér megvalósítás
-valamint a heltai jenő tér megújítás
-tárgyú közbeszerzési eljárás vonatkozás
+version https://git-lfs.github.com/spec/v1
+oid sha256:2bdb335d0ece61735b4a8eadbf04ea5b7e6434b4dff08b719194a5928b83c28c
+size 197

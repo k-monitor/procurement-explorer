@@ -1,1 +1,3 @@
-Megbízási szerződés az M0 autóút déli szektorán a 0+115-2+840 km sz. között 2x3 sávra történő bővítéséhez bal pálya építése során lebonyolító műszaki ellenőri feladatok ellátása, a kivitelezésre vonatkozó közbeszerzési eljárás előkészítésében, ajánlati dokumentációjának elkészítésében és lefolytatásában való szakértői közreműködés. (A000.32)
+version https://git-lfs.github.com/spec/v1
+oid sha256:daf478b4a124df3416ae04d22fe4fdd436eb2ea7b2c954e686c52d1cd46f74fb
+size 401

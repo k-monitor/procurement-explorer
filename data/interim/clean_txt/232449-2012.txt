@@ -1,3 +1,3 @@
-szállítási szerződés téli síkosság-mentesítő anyag
-útszóró só
-szállítás
+version https://git-lfs.github.com/spec/v1
+oid sha256:8a8973288200d5bb7057960ab4eb9131052ec2fb06129353a9067a980c58e44e
+size 88

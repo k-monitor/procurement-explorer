@@ -1,1 +1,3 @@
-„Megbízási szerződés a „Jászladány Nagyközség szennyvízkezelése” KEOP-1.2.0/09-11-2013-0018 azonosítószámú projekthez kapcsolódó FIDIC mérnöki és műszaki ellenőri feladatok ellátására”.
+version https://git-lfs.github.com/spec/v1
+oid sha256:812b94b68e19aa5c88ff16da9fa15745698f15dd944941fa5328bacdc63519af
+size 217

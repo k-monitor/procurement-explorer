@@ -1,6 +1,3 @@
-szolgáltatási keretszerződés a fővárosi közterület-fenntartó zrt. hulladékhasznosító mű elco típusú épületfelügyeleti
-gépészeti rendszer éves karbantartás
-javítás
-valamint meghibásodás eset javítás
-hibás egység
-berendezés csere tárgy
+version https://git-lfs.github.com/spec/v1
+oid sha256:a768093be8f40921ebeac6d481ce5f09d73a2a0be85f193b02885f202cced38a
+size 265

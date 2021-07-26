@@ -1,1 +1,3 @@
-keretmegállapodás keret különböző takarmány beszerzés a kaposvári egyetem részére
+version https://git-lfs.github.com/spec/v1
+oid sha256:1de1fb5c4153b2cda08585208aa0dbb7caf547c050ba1351c9cda9bd18748f37
+size 92

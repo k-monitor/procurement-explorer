@@ -1,1 +1,3 @@
-Ferencvárosi Intézmény Üzemeltetési Központ által üzemeltetett intézmények részére földgáz beszerzés 1.7.2016 nap 6:00 – 1.10.2017 nap 6:00 közötti időszakra.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9c47b85ee0ad51e9d5d891e2a17e93b3b070cad1c9c6d6a54e9042a0353bedb8
+size 178

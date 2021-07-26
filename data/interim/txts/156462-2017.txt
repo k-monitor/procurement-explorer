@@ -1,1 +1,3 @@
-Az Országos pénzügyi fogyasztóvédelmi hálózat kialakítása és működtetése a jelenlegi irodák mellett további 7 megyeszékhelyen kialakított és működtetett irodán keresztül valósul meg. Ajánlatkérő az alábbi részek szerinti részajánlattételt biztosítja: 1. Nógrád megye, Salgótarján, 2. Somogy megye, Kaposvár, 3. Tolna megye, Szekszárd, 4. Vas megye, Szombathely, 5. Veszprém megye, Veszprém 6. Fejér Megye, Székesfehérvár, 7. Bács-Kiskun megye, Kecskemét.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bb593e3750a077fd308919c359e0876563a8b6edc14833d9bf5b17961d607cfb
+size 500

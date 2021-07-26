@@ -1,1 +1,3 @@
-Építési szerződés, melynek tárgya "Fővárosi Önkormányzat Városligeti Műjégpálya pálya- és épületegyüttes rekonstrukció kivitelezése - befejező építési munkák".
+version https://git-lfs.github.com/spec/v1
+oid sha256:3c4d2c59fb3f4386e636d827dcd7889af17cae9276057aed961cf2de64000c10
+size 185

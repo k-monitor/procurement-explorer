@@ -1,16 +1,3 @@
-Élelmezési	élelmezési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szolgáltatás	szolgáltatás	NOUN	Case=Nom|Number=Sing	
-a	a	DET	Definite=Def|PronType=Art	
-központ	központ	NOUN	Case=Nom|Number=Sing	
-4033	4033	NUM	Case=Nom|NumType=Card|Number=Sing	
-Debrecen	Debrecen	PROPN	Case=Nom|Number=Sing	
-,	,	PUNCT	_	
-Sámsoni	sámsoni	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-út	út	NOUN	Case=Nom|Number=Sing	
-149.	149.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
-szám	szám	NOUN	Case=Nom|Number=Sing	
-alatti	alatti	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-telephelye	telephely	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-számára	számára	ADP	_	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:2312ccdf9fa9b6455f017da96d089d42e43fe8f447321dec8a3e6dddebbd27f1
+size 658

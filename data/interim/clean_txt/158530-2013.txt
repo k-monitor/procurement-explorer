@@ -1,25 +1,3 @@
-szállítási szerződés diagnosztikum beszerzés az alábbi szerint
-1. rész
-szarvasmarha enzootiás leukózis vírus
-blv
-elleni ellenanyag szarvasmarha és más állatfaj vérminta és szarvasmarha tejminta történő kimutatás alkalmas elisa teszt
-2. rész
-sertés brucellózis okozó baktérium
-brucella suis
-elleni ellenanyag sertés és vaddisznó vérminta történő kimutatás alkalmas elisa teszt
-3. rész
-juh brucellózis okozó baktérium
-brucella melitensis
-elleni ellenanyag vérminta történő kimutatás alkalmas elisa teszt
-mely azonos hígítás használható a juh és a kecske vérminta
-4. rész
-aujeszky-betegség okozó vírus
-phv-1
-elleni teljes
-gb ellenanyag sertés és vaddisznó vérminta történő kimutatás alkalmas elisa teszt
-5. rész
-szarvasmarha vírusos hasmenés okozó vírus
-bvdv
-kimutatás alkalmas elisa teszt
-mely vérsavó képes kimutat a bvd vírus antigén
-tehát nem kell alvadás gátolt vér fehérvérsejt izolál
+version https://git-lfs.github.com/spec/v1
+oid sha256:ffb2fff29a2d5586b265df56a3650b85935eecd4ace38a16d7162aae2d3c2944
+size 966

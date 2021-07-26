@@ -1,17 +1,3 @@
-«	«	PUNCT	_	
-Villamos	Villamos	PROPN	Case=Nom|Number=Sing	
-energia	energia	NOUN	Case=Nom|Number=Sing	
-beszerzés	beszerzés	NOUN	Case=Nom|Number=Sing	
-a	a	DET	Definite=Def|PronType=Art	
-Belváros-Lipótváros	Belváros-lipótváros	NOUN	Case=Nom|Number=Sing	
-Budapest	Budapest	PROPN	Case=Nom|Number=Sing	
-Főváros	főváros	NOUN	Case=Nom|Number=Sing	
-V.	5.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
-kerületi	kerületi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-Önkormányzat	Önkormányzat	PROPN	Case=Nom|Number=Sing	
-részére	részére	ADP	_	
-2019-2020	2019-2020	NUM	Case=Nom|NumType=Card|Number=Sing	
-.	.	PUNCT	_	
-
-»	»	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:58b26ee7bc9f97c63722df0a380a7f1e81879b34d83f36a1fa413e09e7804056
+size 629

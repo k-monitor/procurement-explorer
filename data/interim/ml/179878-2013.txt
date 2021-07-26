@@ -1,14 +1,3 @@
-Szállítási	Szállítási	PROPN	Case=Nom|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
--	-	PUNCT	_	
-DE	de	CONJ	_	
-OEC	OEC	PROPN	Case=Nom|Number=Sing	
-részére	részére	ADP	_	
-24	24	NUM	Case=Nom|NumType=Card|Number=Sing	
-hónapra	hónap	NOUN	Case=Sub|Number=Sing	
-vonatkozó	vonatkozó	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-nem	nem	ADV	PronType=Neg	
-steril	steril	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-kötszerek	kötszer	NOUN	Case=Nom|Number=Plur	
-beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:a5618e163d575e9346e7b050db5eb37c0c09ac53a42bc4b5655f66b585df90ee
+size 570

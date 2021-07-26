@@ -1,1 +1,3 @@
-A BKV Vasúti Járműjavító Kft. részére Szintetikus vasúti aljak (21 féle) beszerzése a Közbeszerzési dokumentumban részletesen meghatározott műszaki leírás szerint. A műszaki leírásban esetlegesen előforduló, nevesített típus név, márkanév stb. a termék jellegének egyértelmű meghatározása érdekében történt, a 321/2015. Korm. rendelet 46. § (3) bekezdés alapján az azzal egyenértékű minőségű terméket ajánlatkérő elfogadja.
+version https://git-lfs.github.com/spec/v1
+oid sha256:da6479aabd8e11acb8b5a04e50db6fe2b7744a4a2c50cda7e4035d96f6c78fc7
+size 473

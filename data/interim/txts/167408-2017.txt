@@ -1,1 +1,3 @@
-Különféle fertőtlenítőszerek és steril takarítóanyagok beszerzése 40 részben a Somogy Megyei Kaposi Mór Oktató Kórház részére határidős adásvételi szerződés keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b6aa446849c1a2d29900687e91ddf5719762eff7e100bc75fbd4ef59bf1bb728
+size 191

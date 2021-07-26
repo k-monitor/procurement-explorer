@@ -1,7 +1,3 @@
-megbízási szerződés a
-battonya város szennyvízelvezetés és
-tisztítás bővítés
-korszerűsítés
-elnevezésű
-kehop-2
-2-15-2015-00008 projekt keret műszaki ellenőri tevékenység ellátás
+version https://git-lfs.github.com/spec/v1
+oid sha256:20e2bdb5201d3b7a4a78b8ab09b98ff359b9e751a81222fce53537c68a9bb4d0
+size 200

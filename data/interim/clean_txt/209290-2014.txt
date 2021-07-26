@@ -1,9 +1,3 @@
-szerződés meghatározás
-adásvételi szerződés tárgya
-a
-budapest villamos és trolibusz járműfejlesztés 1. ütem
-keret a műszaki leírás megfelelő
-alacsonypadlós
-azonos típuscsalád tartozó
-új
-min. km folyamatos felsővezeték nélküli utasforgalmi üzem alkalmas személyszállító csuklós és szóló trolibusz beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:0612c033eeab94e162e51a2538c257e7e9cf5ecbf8503c1e51311af82b99faa5
+size 342

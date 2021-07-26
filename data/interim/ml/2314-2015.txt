@@ -1,22 +1,3 @@
-Megbízási	megbízási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-keretén	keret	NOUN	Case=Sup|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-belül	belül	ADP	_	
-a	a	DET	Definite=Def|PronType=Art	
-Győr-Gönyű	Győr-gönyű	NOUN	Case=Nom|Number=Sing	
-Országos	Országos	PROPN	Case=Nom|Number=Sing	
-Közforgalmú	közforgalmú	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-Kikötő	kikötő	NOUN	Case=Nom|Number=Sing	
-infrastrukturális	infrastrukturális	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-továbbfejlesztése	továbbfejlesztés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-kivitelezési	kivitelezési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-munkáihoz	munka	NOUN	Case=All|Number=Plur|Number[psor]=Sing|Person[psor]=3	
-kapcsolódó	kapcsolódó	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-mérnöki	mérnöki	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-és	és	CONJ	_	
-műszaki	műszaki	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-ellenőri	ellenőri	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-feladatok	feladat	NOUN	Case=Nom|Number=Plur	
-ellátása	ellátás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:d82892c16703b1cc13ade66aa1bbc883eea4f104ced02a1842767210a4f53e47
+size 1178

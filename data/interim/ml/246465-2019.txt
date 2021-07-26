@@ -1,15 +1,3 @@
-Adás-vételi	Adás-vételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-Ajánlatkérő	ajánlatkérő	NOUN	Case=Nom|Number=Sing	
-az	az	DET	Definite=Def|PronType=Art	
-Intézmény	intézmény	NOUN	Case=Nom|Number=Sing	
-részére	részére	ADP	_	
-12	12	NUM	Case=Nom|NumType=Card|Number=Sing	
-hónapban	hónap	NOUN	Case=Ine|Number=Sing	
-szükséges	szükséges	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-gyógyszereket	gyógyszer	NOUN	Case=Acc|Number=Plur	
-kívánja	kíván	VERB	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	
-megvásárolni	megvásárol	VERB	VerbForm=Inf|Voice=Act	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:bd6c676e5dd32333e44b4b49afd35ecd3a3b498df0cf5b80751736b4af00abb3
+size 740

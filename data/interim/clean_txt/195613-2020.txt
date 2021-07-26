@@ -1,1 +1,3 @@
-adásvételi keretmegállapodás genotipizáló kite beszerzés rész
+version https://git-lfs.github.com/spec/v1
+oid sha256:75ad014c8134506f60195b52d3ce08c052c0628f3589bf177e9abd32150d234f
+size 69

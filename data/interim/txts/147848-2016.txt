@@ -1,1 +1,3 @@
-Kereskedelmi (szállítási) szerződés: Budapest Főváros XII. kerület Hegyvidéki Önkormányzat és egyes intézményeinek földgáz-energia versenypiaci beszerzésére.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fb5db1bb76487c350d17cbbf07dbe3cfa26d515668fd8b4ee5a33e0add79176c
+size 175

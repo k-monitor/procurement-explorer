@@ -1,1 +1,3 @@
-Szállítási szerződés útszóró só beszerzésére.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ee609089bd378cebe1b986737004c671d0ae3309342cbd7185ff0c532d72d2b2
+size 56

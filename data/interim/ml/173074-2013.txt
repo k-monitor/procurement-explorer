@@ -1,26 +1,3 @@
-A	a	DET	Definite=Def|PronType=Art	
-magyar	magyar	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-hallgatói	hallgatói	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-hitelrendszer	hitelrendszer	NOUN	Case=Nom|Number=Sing	
-forrásainak	forrás	NOUN	Case=Gen|Number=Plur|Number[psor]=Sing|Person[psor]=3	
-biztosítása	biztosítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-,	,	PUNCT	_	
-a	a	DET	Definite=Def|PronType=Art	
-diákhitelezési	diákhitelezési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-rendszer	rendszer	NOUN	Case=Nom|Number=Sing	
-finanszírozásából	finanszírozás	NOUN	Case=Ela|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-,	,	PUNCT	_	
-működtetéséből	működtetés	NOUN	Case=Ela|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-eredő	eredő	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-fizetési	fizetési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-kötelezettségek	kötelezettség	NOUN	Case=Nom|Number=Plur	
-teljesítése	teljesítés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-céljából	cél	NOUN	Case=Ela|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-éven	év	NOUN	Case=Sup|Number=Sing	
-túli	túli	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-kölcsön	kölcsön	NOUN	Case=Nom|Number=Sing	
-nyújtása	nyújtás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-kölcsönszerződés	kölcsönszerződés	NOUN	Case=Nom|Number=Sing	
-keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:0691cda7fc68fb90500327b98d16bbca245ece0756664d847aff0cc1df070b14
+size 1462

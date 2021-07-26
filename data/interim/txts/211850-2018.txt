@@ -1,1 +1,3 @@
-Vállalkozási szerződés Bp. Főv. XIII. Ker. Önk. Gondozóház részére ételkészítési és szállítási szolgáltatás biztosítása, 12 + 24 hónapos határozott időtartamra.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7cc69447ea5aeed0eada573e026a66fc78c731b31a32151133ac722dc3174f67
+size 185

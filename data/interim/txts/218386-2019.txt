@@ -1,1 +1,3 @@
-„Nagy felbontású micro-CT készülék beszerzése a VEKOP-2.3.3­15­2016­00006 azonosító számú „Kisállatok in vivo folyamatainak 3D képalkotó vizsgálatához szükséges műszeregyüttes beszerzése” című projekt keretében az Élettani Intézet részére”
+version https://git-lfs.github.com/spec/v1
+oid sha256:28f2c59d592066ab9d914ae59ca8aac0a9a6d0cbbaeab73099fff8a5c52212e7
+size 277

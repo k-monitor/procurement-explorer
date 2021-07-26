@@ -1,7 +1,3 @@
-vállalkozási keretszerződés keret az fkf nonprofit zrt. hulladékhasznosító mű-ben üzemelő víz-gőz rendszer elzáró szelep
-szerelvény
-armatúra
-rendszeres
-évente alkalom
-történő javítás
-és meghibásodás eset történő javítás
+version https://git-lfs.github.com/spec/v1
+oid sha256:4997bc32230255dea785ad1c212fadc3c090ad7d83f8e1bc2f46ef57f96c348e
+size 249

@@ -1,1 +1,3 @@
-Egészségügyi veszélyes hulladék elszállítása, ártalmatlanítása a Csolnoky Ferenc Kórház részére. 128 200 kg/év, illetve 8 m3/év mennyiségű, egészségügyi fekvőbeteg intézményben keletkező veszélyes egészségügyi hulladék elszállítása, ártalmatlanítása, a hulladékok gyűjtéséhez konténer biztosításával.
+version https://git-lfs.github.com/spec/v1
+oid sha256:69fd8a4a6f28143e42e71c76a672c0a36355359cc9415bc6eb1ad06ec337134e
+size 345

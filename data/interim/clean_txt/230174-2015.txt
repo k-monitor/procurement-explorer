@@ -1,10 +1,3 @@
-úszó munkagép
-nyílik vízi csatornatisztító
-szállítás
-állami tulajdonú árvízvédelmi konstrukció keop-2
-1.1
-b
-számú
-a víz kártétel elhárítás szolgáló létesítmény fenntartás és az az történő védekezés végrehajtás szolgáló eszköz
-gép és műszer beszerzés
-egyedi adásvételi szerződés keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:077e665eb8dc980884c2a3eb2123c5c9409c682269445077ac2b733d1a1fcc3f
+size 332

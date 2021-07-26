@@ -1,34 +1,3 @@
-közétkeztetési
-élelmezési
-szolgáltatás biztosítás a veszprémi intézményi szolgáltató szervezet által ellátott egyes intézmény számára
-folyik
-pont
-2.2
-vállalja-e ajánlattevő
-hogy a teljesítés sor az által szállított ebéd tartalmaz legalább élelmezési nap minimum alkalom hal csak panírozott forma
-kisétkezés pedig halpástétom forma
-a
-2014.
-emmi rendelet előírás figyelembevétel
-2.3
-vállalja-e ajánlattevő
-hogy a főzelék és mártás elé tartalmas
-tészta és
-vagy burgonya és
-vagy hús tartalmazó
-leves szállít
-2.4
-vállalja-e az ajánlattevő
-hogy a benyújtott 2x10 napos étrend változatossági mutató az ebéd vonatkozás
-mint
-opció
-megrendelő fenntart maga a jog
-hogy
-éves szint
-az első illetve a mindenkori adott tanév
-a megállapított adagszám
-létszám
-illetve szállítási nap a teljesítés sor legfeljebb
- eltér
-akár intézményenként külön-külön
-részl
+version https://git-lfs.github.com/spec/v1
+oid sha256:1510de0bc30df54fef0415705e0cf35d7f14a74ca14468650baae30483b8d458
+size 931

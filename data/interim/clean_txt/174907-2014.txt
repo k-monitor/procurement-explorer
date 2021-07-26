@@ -1,2 +1,3 @@
-garantált megtakarítás-alapú hőenergia-szolgáltatási
-karbantartási és hibaelhárítási szerződés
+version https://git-lfs.github.com/spec/v1
+oid sha256:cc01350d33ebfdef30e89c2ced7f78933206051c827f1df769950c61b39cda70
+size 108

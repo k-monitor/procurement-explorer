@@ -1,9 +1,3 @@
-Készenléti	készenléti	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-Rendőrség	rendőrség	NOUN	Case=Nom|Number=Sing	
-papír	papír	NOUN	Case=Nom|Number=Sing	
--	-	PUNCT	_	
-és	és	CONJ	_	
-irodaszer	irodaszer	NOUN	Case=Nom|Number=Sing	
-beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:dc198c71973d4d0f030737921e2edafeae00cb4503ab74dbebd1886864e83998
+size 328

@@ -1,1 +1,3 @@
-Vállalkozási szerződés keretében a NAV Központi Hivatala, Közép-magyarországi Regionális Vám- és Pénzügyőri Főigazgatósága és Szakértői Intézete egyes ingatlanjainak takarítása 3 részben.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5732057c0df72270426043ff82fe1030be2247ef8774f7f9b04adec74796c6ad
+size 212

@@ -1,8 +1,3 @@
-szállítási szerződés ömlesztett útszóró só beszerzés
-1. sz. rész közép-magyarországi régió
-2. sz. rész közép-dunántúli régió
-3. sz. rész nyugat-dunántúli régió
-4. sz. rész dél-dunántúli régió
-5. sz. rész dél-alföldi régió
-6. sz. rész észak-alföldi régió
-7. sz. rész észak-magyarországi régió
+version https://git-lfs.github.com/spec/v1
+oid sha256:0e7ea3c25cee38248fe27914b2983a245191def1a4f7fe2a10b87405629c3e46
+size 341

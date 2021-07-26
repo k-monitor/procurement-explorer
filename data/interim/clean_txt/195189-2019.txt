@@ -1,4 +1,3 @@
-graffiti
-és vadplakát-eltávolítási
-felülettisztítási munka végzés
-valamint monitoring
+version https://git-lfs.github.com/spec/v1
+oid sha256:57d158f9c494e2bca76c6f137b1fd4eb34688a310965698a55ae8aa6a0fc1373
+size 95

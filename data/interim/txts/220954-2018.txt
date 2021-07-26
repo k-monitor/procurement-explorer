@@ -1,1 +1,3 @@
-Adásvételi szerződés a Modern Városok Program keretében 3 db hosszú, új, alacsonypadlós villamos jármű gyártása, szállítása engedélyeztetése, a szükséges betanítás elvégzése és a szerződésben meghatározott egyéb szolgáltatások teljesítése tárgyban.
+version https://git-lfs.github.com/spec/v1
+oid sha256:110eaeb5c7a40ad7bcdc6f4f022619495db3bce051ac8e19090244ee0f104c7d
+size 282

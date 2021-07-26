@@ -1,33 +1,3 @@
-szociális rászoruló személy részére étkeztetés biztosítás
-az 1. 3. pont folytatás
-a közbeszerzési eljárás való részvétel feltétel
-hogy ajánlattevő
-vagy közös ajánlattevő egyik
-az 1. 3. pont lévő link található dokumentáció
-közbeszerzési dokumentum
-letölt és az 1. 3. pont lévő link található regisztrációs adatlap az office@publicconsulting
-hu e-mail cím
-cégszerű
-ha ajánlattevő nem egyéni vállalkozó
-aláírva
-*
-pdf formátum megküld
-vagy a
-fax szám
-cégszerű
-ha ajánlattevő nem egyéni vállalkozó
-aláírva megküld
-vagy
-cégszerű
-ha ajánlattevő nem egyéni vállalkozó
-aláírva postai út megküld a budapest
-báthory utca 9. ii
-em.
-a. cím
-vagy ugyanitt
-cégszerű
-ha ajánlattevő nem egyéni vállalkozó
-aláírva személyes lead
-a regisztrációs adatlap elektronikus megküldés kapcsolatos az ajánlatkérő felhív az ajánlattevő figyelem a kbt. 41. §
-jelszó
-palos2017
+version https://git-lfs.github.com/spec/v1
+oid sha256:a836b61d4613b85041f599581680bf0e7aa54dd28711895c86cc188c4df7d351
+size 944

@@ -1,1 +1,3 @@
-magyarországi fekvőbeteg ellátó intézmény havi gyógyszerellátás biztosítás rész
+version https://git-lfs.github.com/spec/v1
+oid sha256:0df532205f32b4f8198e99634dd2a4838fd887609c743a81ca592e8fe3d190d9
+size 91

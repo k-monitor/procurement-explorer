@@ -1,32 +1,3 @@
-budapest főváros kormányhivatal mindenkori vagyonkezelés
-ill. üzemeltetési kör lévő ingatlan személy és vagyonvédelmi
-valamint portaszolgálati feladat ellátás nettó
-ft keretösszeg erő
-portaszolgálati feladat várható mennyiség
-óra
-opció
-személy
-és vagyonvédelmi feladat várható mennyiség
-óra
-opció
-ak keretmegállapodás a fent megjelölt keretösszeg erő köt
-így nem vállal kötelezettség sem a várható mennyiség
-sem pedig az opció keret megjelölt óraszám lehívás
-ha keretösszeg nem merül ki a szerződéskötés számított hónap belül
-úgy az automatikus meghosszabbodik az kimerülés
-figyelem a kbt. 141. §
-bekezdés a
-pont foglalt
-ajánlattevő
-at
-ajánlatkérő
-ak
-közbeszerzés tárgy
-kt. 2015. évi
-törvény
-kbt.
-2015.
-10.
-korm
-rendelet
-kr
+version https://git-lfs.github.com/spec/v1
+oid sha256:2bd1fc0e75d107df091f0101f7e2309df29c31f0d24b4db8fd403c457f13e6d2
+size 800

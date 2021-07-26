@@ -1,1 +1,3 @@
-„A Tócóskert és a Tócóvölgy gazdaságélénkítő környezeti megújítása” tárgyú projektek tervezési feladatainak ellátása.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a7987a156b249343008e361f68281c19e331c09ec9171f32e1fc1389efee52db
+size 141

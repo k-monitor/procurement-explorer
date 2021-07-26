@@ -1,8 +1,3 @@
-magyarország közigazgatási terület keletkező termék tovább nem használható háztartási nagygép
-vegyes begyűjtésű hulladék
-ewc
-ewc
-2012. évi begyűjtés
-szállítás és előkezelés az országos gyűjtési és hasznosítási terv
-ogyht
-által meghatározott célérték elérés érdek
+version https://git-lfs.github.com/spec/v1
+oid sha256:e96f1e1a8245ec5cec7e35f5a51a153e136e1bfdf93cec2760f882411ab0d10b
+size 301

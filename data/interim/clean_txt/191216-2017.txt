@@ -1,5 +1,3 @@
-földgáz ellátás biztosítás ajánlatkérő részére
-cet
-1.10.2018
-cet időszak vonatkozó
-teljes ellátás alapú földgáz kereskedelmi szerződés keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:a8577e0e09c8611b4d9b5304adba6d6c6ae354df66ca81bd30aaa01487c06e6b
+size 160

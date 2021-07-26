@@ -1,1 +1,3 @@
-Budapesti Corvinus Egyetem pesti oktatási létesítményeiben őrzés-védelmi és portaszolgálati feladatok ellátása.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3452f5291cd97fc01dee077aaedff0dc95c93f856a2bf0f98789c517890bd3c9
+size 122

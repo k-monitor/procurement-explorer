@@ -1,1 +1,3 @@
-Vállalkozási szerződés Országos Onkológiai Intézet székhelyén üzemelő Siemens gyártmányú sugárterápiás és radiológiai készülékek teljes körű karbantartására, eseti hibaelhárítására, 48 hónapos határozott időtartamra.
+version https://git-lfs.github.com/spec/v1
+oid sha256:eea337aba5a7ff118ae0fba62b6b8ae72a765aebc663abd4a85a9de34e6ad58d
+size 249

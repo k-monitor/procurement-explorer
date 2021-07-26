@@ -1,1 +1,3 @@
-szállítási szerződés élelmiszer alapanyag beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:e196e8af8b6597ed6f3ec6806b189fc1a14fb3566a7b12aaead2f514326f06f6
+size 58

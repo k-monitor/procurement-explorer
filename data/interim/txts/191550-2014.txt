@@ -1,1 +1,3 @@
-Ajánlatkérő az Intézmény részére 48 hónapban szükséges különféle laboratóriumi diagnosztikumokat kívánja megvásárolni, egyrészt a saját tulajdonában lévő laboratóriumi készülékek működtetéséhez, másrészt pedig a I. és III. részek esetében különféle laboratóriumi készülékek kihelyezésével együtt, továbbá a használatba adásra kerülő készülékek on-line csatlakozásának biztosításával Ajánlatkérő mindenkori informatikai rendszeréhez. A kihelyezésre kerülő készülékek esetében, Ajánlatkérő gyárilag új, vagy legfeljebb 3 évesnél nem régebbi demo készülékek megajánlását fogadja el.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1b3dba7156797c165626574d0a4f10fd5a9fa5dcfdaf6b4449375140e55365a6
+size 664

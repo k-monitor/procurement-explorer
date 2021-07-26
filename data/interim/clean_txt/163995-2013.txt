@@ -1,4 +1,3 @@
-tervezési szerződés
-m4 autópálya fegyvernek-püspökladány közötti szakasz közúti biztonsági hatásvizsgálat
-környezeti hatástanulmány és engedélyezési terv elkészítés
-tárgy
+version https://git-lfs.github.com/spec/v1
+oid sha256:153dc9f03de21582380103c9e39270a3495a5d1b0f3e38b919a087250a9f54f6
+size 195

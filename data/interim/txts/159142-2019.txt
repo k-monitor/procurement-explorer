@@ -1,1 +1,3 @@
-Egyszerhasználatos tűk, fecskendők, infúziós és transzfúziós szerelékek és intravénás kanülök beszerzése a Markusovszky Egyetemi Oktatókórház részére
+version https://git-lfs.github.com/spec/v1
+oid sha256:522b0ad74fbd5e2564ba644c9b6a6a457bf575367c4fb2e4896decc487a12506
+size 169

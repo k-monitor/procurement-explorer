@@ -1,28 +1,3 @@
-„	„	PUNCT	_	
-2013.	2013.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
-
--	-	PUNCT	_	
-2015.02.28	2015.02.28	PROPN	Case=Nom|Number=Sing	
-.	.	PUNCT	_	
-időszakra	időszak	NOUN	Case=Sub|Number=Sing	
-vonatkozóan	vonatkozó	ADJ	Case=Ess|Degree=Pos|Number=Sing|VerbForm=PartPres	
-takarítási	takarítási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
--	-	PUNCT	_	
-,	,	PUNCT	_	
-valamint	valamint	CONJ	_	
-ipari	ipari	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-alpin	alpin	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-technikával	technika	NOUN	Case=Ins|Number=Sing	
-végzett	végzett	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPast	
-külső	külső	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-épülettakarítási	épülettakarítási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szolgáltatás	szolgáltatás	NOUN	Case=Nom|Number=Sing	
-megrendelése	megrendelés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-a	a	DET	Definite=Def|PronType=Art	
-Győr-Moson-Sopron	Győr-Moson-Sopron	PROPN	Case=Nom|Number=Sing	
-Megyei	Megyei	PROPN	Case=Nom|Number=Sing	
-Kormányhivatal	kormányhivatal	NOUN	Case=Nom|Number=Sing	
-részére	részére	ADP	_	
-"	"	PUNCT	_	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:4a08505fe812bbe710453b0508828f510686ce5292abccbe3a7b3cf7ef76ab63
+size 1137

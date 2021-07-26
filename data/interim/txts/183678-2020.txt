@@ -1,1 +1,3 @@
-Protézisek beszerzése konszignációs raktárkészletet biztosításával.Az egyes részajánlati körök, azaz a különféle protézisek részletes műszaki leírását a közbeszerzési dokumentumok részét képező szakmai követelmények tartalmazzák. Valamennyi rész esetében ajánlatkérői követelmények a protézis rendszerhez: a protézis minimál invazív műszerkészlettel is beültethető legyen; a revíziós műszerkészlet a primer műszerkészletre épüljön a műtét közbeni szabad átjárhatóság érdekében; konszignációs raktárkészlet kihelyezése méretenként minimum 2;revíziós műszerkészlet biztosítása utazó készlet formájában;a protézisek beültetéséhez szükséges műszerkészlet kihelyezése;implantátumok pótlása a jelentést követően 24-48 órán belül történjen meg.
+version https://git-lfs.github.com/spec/v1
+oid sha256:44a29026ca875d54c3ab1933cc063e8103a1b356422928ab854805421cca1c4b
+size 838

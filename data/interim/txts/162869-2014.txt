@@ -1,1 +1,3 @@
-Adásvételi keretszerződés öntött és hengerelt aszfalt beszerzése tárgyában.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6672b764e4b7b69db249e6131226a87a880034c1022a9ed97ab403e6fd51d103
+size 85

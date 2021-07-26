@@ -1,9 +1,3 @@
-adásvételi szerződés
-mely tárgy
-a fővárosi hulladékgazdálkodási rendszer környezetbarát technológia bővítés
-a hulladékfeldolgozás és újrahasznosítás arány növelés
-című keop-1
-1.1
-b
-10-11-2013-0002 azonosítószámú
-európai uniós támogatás megvalósuló projekt rész létesítmény szükséges konténer beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:6e6a008666c7d0b2a4bb7d494b29bdb8261f3e14ca9181ee3562934d249af3a2
+size 346

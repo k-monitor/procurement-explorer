@@ -1,26 +1,3 @@
-Szállítási	Szállítási	PROPN	Case=Nom|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
--	-	PUNCT	_	
-Földgáz	földgáz	NOUN	Case=Nom|Number=Sing	
-beszerzés	beszerzés	NOUN	Case=Nom|Number=Sing	
-az	az	DET	Definite=Def|PronType=Art	
-NMHH	NMHH	PROPN	Case=Nom|Number=Sing	
-budapesti	budapesti	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-és	és	CONJ	_	
-vidéki	vidéki	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-telephelyeire	telephely	NOUN	Case=Sub|Number=Plur|Number[psor]=Sing|Person[psor]=3	
-2013.7.1	2013.7.1	PROPN	Case=Nom|Number=Sing	
-.	.	PUNCT	_	
-
-06.00	06.00	NUM	Case=Nom|NumType[sem]=Time|Number=Sing	
-CET	cet	NOUN	Case=Nom|Number=Sing	
--	-	PUNCT	_	
-2015.7.1	2015.7.1	PROPN	Case=Nom|Number=Sing	
-.	.	PUNCT	_	
-
-06.00	06.00	NUM	Case=Nom|NumType[sem]=Time|Number=Sing	
-CET	cet	NOUN	Case=Nom|Number=Sing	
-időszakra	időszak	NOUN	Case=Sub|Number=Sing	
-vonatkozóan	vonatkozó	ADJ	Case=Ess|Degree=Pos|Number=Sing|VerbForm=PartPres	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:a7e53b8062dfef38bebc2664542341a11ad24dea5fd7438bb22f27cbcb8fa2aa
+size 956

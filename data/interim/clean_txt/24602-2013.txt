@@ -1,5 +1,3 @@
-szállítási szerződés a
-kecskeméti gyógyintézeti központ
-hatékony egészségügyi rendszer bács-kiskun megyei modell
-című tiop-2
-2-2009-0004 azonosító jelű projekt keret belül egészségügyi gép-műszer szállítás vonatkozó
+version https://git-lfs.github.com/spec/v1
+oid sha256:ea10c29facc7c844e02df28483295f1496bcc3234f9f183a4cf8680099c4e128
+size 244

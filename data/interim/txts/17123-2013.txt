@@ -1,1 +1,3 @@
-Szállítási szerződés a Médiaszolgáltatás-támogató és Vagyonkezelő Alap meglévő stúdióinak hangtechnikai, utasító és videotechnikai eszközeivel kompatibilis, a 2-es stúdió megépítéséhez szükséges hangtechnikai eszközök, utasító eszközei és videotechnikai eszközök szállítása tárgyában.
+version https://git-lfs.github.com/spec/v1
+oid sha256:81bcdc3381e7ea7dfdd6676eeb40a513287bacd5bbe2d7801a5195a486dcafa4
+size 325

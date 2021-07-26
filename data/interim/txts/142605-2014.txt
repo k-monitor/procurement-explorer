@@ -1,1 +1,3 @@
-Az Intézet occluder igényének biztosítása, kihelyezett áruraktár üzemeltetésével, fajta és mennyiség szerint meghatározott dolog határidős adásvételi (a továbbiakban: adásvételi) szerződés keretében. Ajánlatkérő a teljesítés során a dokumentációban előírt mennyiségektől (az egységár vagy más szerződéses feltételek módosítása nélkül) -30 %-kal eltérhet. (Konszignációs raktár feltételei: Ajánlatkérő a rendszer üzemeltetéséért díjat nem számol fel ajánlattevő részére,. Ajánlattevők az ajánlatban nyilatkozni kötelesek a konszignációs raktár létesítése feltételeinek elfogadásáról, ennek hiányában ajánlata érvénytelen, valamint arról, hogy az adásvételi és raktározási szerződés egymás elválaszthatatlan részei.)
+version https://git-lfs.github.com/spec/v1
+oid sha256:0410f07d1c6ab7d81a462546e54421125e7b99a367dde5cfa4c148ad1ae9abe8
+size 808

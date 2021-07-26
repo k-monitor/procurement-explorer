@@ -1,5 +1,3 @@
-építési szerződés keret
-struktúraváltoztatás támogató infrastruktúrafejlesztés és kapcsolódó eszközbeszerzés a fejér megyei szent györgy kórház
-című
-tiop-2
-1-2010-0002 azonosítószámú projekt kivitelezői feladat ellátás
+version https://git-lfs.github.com/spec/v1
+oid sha256:9d0900ca3aa2967a3241903ec19529e50901b35090ddfa603f822adff93147ba
+size 248

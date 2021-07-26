@@ -1,1 +1,3 @@
-1. rész vonatkozásában: 919 db nagy és 876 db közepes teljesítményű dokumentum lapolvasó eszköz beszerzése. 2. rész vonatkozásában: 3 590 db vonalkód olvasó készülék beszerzése. a kormányhivatalok digitalizációs képességeinek biztosítása érdekében szükséges források biztosításáról szóló 1542/2016. (X. 13.) Korm. határozat végrehajtása érdekében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a6ff5ae44f243508addc0aade23805269d6ca23897cb46468904b5b81162662c
+size 390

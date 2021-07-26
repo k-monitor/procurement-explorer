@@ -1,1 +1,3 @@
-Karbantartási szolgáltatások 36 hónap időtartamra a Soproni Erzsébet Oktató Kórház és Rehabilitációs Intézet részére 1. rész: Siemens karbantartás 2. rész: Dräger karbantartás 3. rész: Patológiai osztályon található mikrotómok karbantartása 4. rész: Digitális patológiai rendszer meghatározott időközönkénti ellenőrzése, karbantartása és eseti javítása. 5. rész: Toshiba Ultimax - I típusú DSA berendezés karbantartása 6. rész: Toshiba gyártmányú röntgen és ultrahang berendezések karbantartása 7. rész: Különböző gyártmányú laboratóriumi mikroszkópok éves karbantartása 8. rész: Sterilizáló berendezések karbantartása, javítása 9. rész: Egyéb röntgen és átvilágító berendezések karbantartása 10. rész: Különböző orvostechnikai eszközök karbantartása A részletes leírás a közbeszerzési dokumentumokban található.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ec5762e9a245c4584655cce8a6ee35fe0b55be77b65f27a32f5aca6a6765b3e5
+size 910

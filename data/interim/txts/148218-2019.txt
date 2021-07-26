@@ -1,1 +1,3 @@
-VEKOP-5.3.3.-17-2017-00009 kódszámú, «Ercsi út Szabadság tér (Ilona utca) – M6 autópálya (körforgalmú csomópont) közötti szakaszának felújítása»
+version https://git-lfs.github.com/spec/v1
+oid sha256:6cacee6ceaf490f3b28173e7fa20545f78a3a569f483db6e1cce906eac3980c3
+size 165

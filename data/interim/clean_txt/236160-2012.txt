@@ -1,2 +1,3 @@
-határozott
-éves időtartam szóló folyószámla hitelkeret szerződés huf érték folyószámla vezetés
+version https://git-lfs.github.com/spec/v1
+oid sha256:2a2950f4fd2e9b6c7013671620bb82eb7ea72f38025d40f28bc6c81ec02df8da
+size 108

@@ -1,1 +1,3 @@
-Adásvételi szerződés fogtechnikai munkaállomás beszerzése érdekében az EFOP-4.2.1-16-2017-00014 pályázat keretében az alábbiak szerint: A nyertes ajánlattevő feladata összesen 15 db Mobil páciens szimulátor, 2 db Kompresszor, 1 db Mandibula mozgásainak 3 dimenziós digitális vizsgálatához szükséges eszköz, 1 db Artikulátor split-cast talprendszerrel. Projektazonosító: 16/Ny/2019/SZTE
+version https://git-lfs.github.com/spec/v1
+oid sha256:5a3f7f39681ffdd9f58f0f6197c593c6b6d304ff54aed3ff9e6892b5b6a9a74e
+size 414

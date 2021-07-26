@@ -1,20 +1,3 @@
-A	a	DET	Definite=Def|PronType=Art	
-Semmelweis	Semmelweis	PROPN	Case=Nom|Number=Sing	
-Egyetem	Egyetem	PROPN	Case=Nom|Number=Sing	
-szervezeti	szervezeti	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-egységeiben	egység	NOUN	Case=Ine|Number=Plur|Number[psor]=Sing|Person[psor]=3	
-üzemben	üzem	NOUN	Case=Ine|Number=Sing	
-tartott	tartott	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPast	
-beépített	beépített	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPast	
-tűzjelző	tűzjelző	NOUN	Case=Nom|Number=Sing	
-rendszerek	rendszer	NOUN	Case=Nom|Number=Plur	
-jogszabály	jogszabály	NOUN	Case=Nom|Number=Sing	
-alapján	alap	NOUN	Case=Sup|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-történő	történő	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-felülvizsgálata	felülvizsgálat	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-,	,	PUNCT	_	
-karbantartása	karbantartás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-és	és	CONJ	_	
-hibaelhárítása	hibaelhárítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:9d54d88a7903811fe5d2970039de3cac4a16c6ceb8cb8b5389ebd2e3c7caf283
+size 1081

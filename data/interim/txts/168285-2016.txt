@@ -1,1 +1,3 @@
-Vezetékes földgáz beszerzése teljes ellátás alapú földgáz adás-vételi szerződés keretében 1.7.2016 6:00 – 1.7.2018 6:00 közötti időszakra.
+version https://git-lfs.github.com/spec/v1
+oid sha256:afbf4f13feb6479446b9f7cf8130d7aae02b9927b77db9a0dc89a9c65fb1a825
+size 157

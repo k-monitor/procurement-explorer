@@ -1,4 +1,3 @@
-tervezési szerződés a liget budapest beruházás kapcsolódó
-magyar műszaki és közlekedési múzeum
-mmkm
-megvalósítás szükséges teljeskörű tervdokumentáció elkészítés
+version https://git-lfs.github.com/spec/v1
+oid sha256:4aa49524044118fcc8a2e2483389dd43305bd4ff50f47c2021f9dfaf365f4c68
+size 185

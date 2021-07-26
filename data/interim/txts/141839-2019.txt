@@ -1,1 +1,3 @@
-Megbízási keretszerződés irodai kisegítő tevékenység (iratkezelési feladatok) végzésére történő munkaerő közvetítésére — 1. rész diákmunka, 2. rész nyugdíjas munka
+version https://git-lfs.github.com/spec/v1
+oid sha256:faffb86796af32d09b7ddfdd3befa7c1862a16bb7b2df985b99ba2cc12d09903
+size 189

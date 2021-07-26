@@ -1,23 +1,3 @@
-Adás-vételi	Adás-vételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-,	,	PUNCT	_	
-főzési	főzési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-alapanyagok	alapanyag	NOUN	Case=Nom|Number=Plur	
-beszerzésére	beszerzés	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-7	7	NUM	Case=Nom|NumType=Card|Number=Sing	
-„	„	PUNCT	_	
-rész	rész	NOUN	Case=Nom|Number=Sing	
-"	"	PUNCT	_	
--	-	PUNCT	_	
-ben	ben	NOUN	Case=Nom|Number=Sing	
-gyermekélelmezés	gyermekélelmezés	NOUN	Case=Nom|Number=Sing	
-,	,	PUNCT	_	
-egészségügyi	egészségügyi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-,	,	PUNCT	_	
-és	és	CONJ	_	
-szociális	szociális	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-intézményi	intézményi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-élelmezés	élelmezés	NOUN	Case=Nom|Number=Sing	
-céljából	cél	NOUN	Case=Ela|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:0253b83425fe14d0d933fcc2737c0f84072b180aa583e5618637acaf3e2cba4f
+size 919

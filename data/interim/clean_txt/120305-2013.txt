@@ -1,5 +1,3 @@
-vállalkozási keretszerződés
-pénzügyi tanácsadás
-projekt pénzügyi ellenőrzés
-szabályzat aktualizálás
-tárgy
+version https://git-lfs.github.com/spec/v1
+oid sha256:8e23425cd2549e1bb91fbe4aeaf9c37c1d0dbb3644ecb8f657741e2fbc29f8a8
+size 121

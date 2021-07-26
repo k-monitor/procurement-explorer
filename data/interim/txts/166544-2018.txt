@@ -1,1 +1,3 @@
-Adásvételi keretszerződés alapján "Kábelszerelési anyagok beszerzése a BKV Vasúti Járműjavító Kft. részére II". 1. részfeladat: Különféle járművekhez kábelszerelési anyagok beszerzése I. (tömszelencék, saruk, érvég hüvelyek, szigetelőszalagok, zsugorcsövek, gégecsövek) 2. részfeladat: Különféle járművekhez kábelszerelési anyagok beszerzése II. (sorkapcsok, kapocslécelemek) 3. részfeladat: Különféle járművekhez kábelszerelési anyagok beszerzése III. (tartósinek, végzárók, átkötések, kapocsléc elemek)
+version https://git-lfs.github.com/spec/v1
+oid sha256:dcd7db2df34160779755503894c75f4a95a4ca8e58313a322ae722277520cbc0
+size 564

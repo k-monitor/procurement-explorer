@@ -1,2 +1,3 @@
-tisza-völgyi árvízvédelmi rendszer üzemirányítás kidolgozás
-tárgyú projekt keret üzemirányítási rendszer elkészítés
+version https://git-lfs.github.com/spec/v1
+oid sha256:ffeae407e880e525a505db13db66bc175be71063050c7ae14c0eb317e9f490c7
+size 133

@@ -1,10 +1,3 @@
-bűnügyi technikai szakanyag
-dns rögzítő eszköz és egységcsomag
-beszerzés keretmegállapodás keret rész
-1. rész
-mintabiztosító eszköz biológiai anyag
-anyagmaradvány beszerzés keretmegállapodás keret
-2. rész
-nem nyilvántartás köteles személy történő dns-mintavételhez szükséges egységcsomag beszerzés keretmegállapodás keret
-3. rész
-terhelt személy történő mintabiztosítás szükséges dns-mintavételi egységcsomag beszerzés keretmegállapodás keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:148091280742522db20cbbe852cb90cfbda7250fa919f16cabed71c185872b0d
+size 492

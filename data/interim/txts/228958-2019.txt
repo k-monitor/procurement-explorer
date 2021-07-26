@@ -1,1 +1,3 @@
-Az e-ÚT 05. 02. 11: 2018 Útügyi Műszaki Előírásnak megfelelő AC 11 kopó (N) 50/70 és AC 11 kopó (F) 50/70 típusú melegaszfalt termékek adásvétele keretszerződés alapján, annak hatályba lépésétől az egyes ajánlati részek szerinti keretmennyiség kimerüléséig, de legkésőbb 31.5.2021. napjáig tartó — adott esetben további 12 hónappal megnövelt — határozott időtartam lejártáig.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9ded44e31100305ba58497bbd3659b4a37a6fef5dcc364e57b1139e0b2f40d9a
+size 420

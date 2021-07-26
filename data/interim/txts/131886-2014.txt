@@ -1,1 +1,3 @@
-Rulírozó hitelfelvétel az MVK Miskolc Városi Közlekedési Zrt. projektjeivel kapcsolatos ÁFA és támogatási összeg előfinanszírozására.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8b1516330a08d4611a6d6221746203781997ec2d589d2c66b92b28ad032df7ed
+size 148

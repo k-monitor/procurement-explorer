@@ -1,1 +1,3 @@
-DEK-738 A Debreceni Egyetem felsőoktatási infrastruktúra fejlesztése a gyakorlati és szakmai képzés megújítása az EFOP-4.2.1-16-2017-00015 projekt keretében-3
+version https://git-lfs.github.com/spec/v1
+oid sha256:30d6e2b46d53d2c2dcdb25354b9e15ca4093ea7776846a57404d3fc86c888a0d
+size 169

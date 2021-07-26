@@ -1,9 +1,3 @@
-Adásvételi	adásvételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-csípő	csípő	NOUN	Case=Nom|Number=Sing	
--	-	PUNCT	_	
-és	és	CONJ	_	
-térdprotézisek	térdprotézis	NOUN	Case=Nom|Number=Plur	
-beszerzésére	beszerzés	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:74ef613394ee20b96581dcbb6bac50a5dada13e44a3965fe2e184473cffdb5c9
+size 345

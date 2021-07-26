@@ -1,1 +1,3 @@
-A szerződés meghatározása: Megbízási szerződés. Tárgya: A Puskás Ferenc Stadion rekonstrukciójához - továbbiakban: Projekt - kapcsolódóan tervellenőri feladatok ellátása az ajánlati dokumentációban meghatározott tervellenőrzési követelmények és a vonatkozó jogszabályok alapján, továbbá költségszakértői és tanácsadói feladatok ellátása.
+version https://git-lfs.github.com/spec/v1
+oid sha256:39f6e97cbaa3305956f047450fdd63a5cbf2be83fb2525afc7c26170bf4c9597
+size 378

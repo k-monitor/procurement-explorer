@@ -1,1 +1,3 @@
-Megbízási elemekkel vegyes vállalkozási szerződés EFOP-1.9.1-VEKOP-15-2016-00001 kódszámú „TÁRS projekt – Szociális intézményi férőhely kiváltási szakmai koordinációs műhely kialakítása” című kiemelt projekthez kapcsolódóan a Komplex kiváltási szükségletfelmérés módszertanának és eszközrendszerének kifejlesztése és alkalmazásának szakmai támogatása, felkészítés az eszköz használatára tárgyában.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f9b53494c46dfe31aa7f3c81cf50c19a658af6a00ca45e089458e8020e291752
+size 454

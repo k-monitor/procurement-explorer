@@ -1,29 +1,3 @@
-A	a	DET	Definite=Def|PronType=Art	
-projekt	projekt	NOUN	Case=Nom|Number=Sing	
-a	a	DET	Definite=Def|PronType=Art	
-Fejér	Fejér	PROPN	Case=Nom|Number=Sing	
-megyei	megyei	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-oktatási	oktatási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-intézmények	intézmény	NOUN	Case=Nom|Number=Plur	
-,	,	PUNCT	_	
-HRSZ	HRSZ	VERB	Definite=Ind|Mood=Ind|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	
-.	.	PUNCT	_	
-
-:	:	PUNCT	_	
-212	212	NUM	Case=Nom|NumType=Card|Number=Sing	
-/	/	PUNCT	_	
-27	27	NUM	Case=Nom|NumType=Card|Number=Sing	
-,	,	PUNCT	_	
-Kápolnásnyék	kápolnásnyék	NOUN	Case=Nom|Number=Sing	
-,	,	PUNCT	_	
-Gárdonyi	gárdonyi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-utca	utca	NOUN	Case=Nom|Number=Sing	
-29	29	NUM	Case=Nom|NumType=Card|Number=Sing	
-épülete	épület	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-(	(	PUNCT	_	
-i	i	PROPN	Case=Nom|Number=Sing	
-)	)	PUNCT	_	
-t	t	NOUN	Case=Acc|Number=Sing	
-érinti	érint	VERB	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:e25528cc13ffa1a7d242c18dda3d80664cba12f8c3b22d453ee08da21757e680
+size 1058

@@ -1,2 +1,3 @@
-vállalkozási szerződés az mnv zrt. rábízott vagyoni kör tartozó ingatlan helyreállítási munka elvégzés az ajánlati dokumentáció
-illetve a keretmegállapodásos eljárás második rész meghatározott műszaki leírás szerint
+version https://git-lfs.github.com/spec/v1
+oid sha256:bb1cd8002024048f95221be9dd46e646ed4a3637943628812c776b7ba8405110
+size 241

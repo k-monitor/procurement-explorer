@@ -1,16 +1,3 @@
-Egyedi	egyedi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-,	,	PUNCT	_	
-rögzített	rögzített	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPast	
-díjtételű	díjtételű	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-vagyonbiztosítás	vagyonbiztosítás	NOUN	Case=Nom|Number=Sing	
-,	,	PUNCT	_	
-kiegészítő	kiegészítő	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-kockázatokra	kockázat	NOUN	Case=Sub|Number=Plur	
-szóló	szóló	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-fedezetekkel	fedezet	NOUN	Case=Ins|Number=Plur	
-és	és	CONJ	_	
-kombinált	kombinált	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPast	
-felelősségbiztosítási	felelősségbiztosítási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:97d1728692842a4d7e7d91b4e2626acb06f292111f61d25164d13f6b98f481ee
+size 784

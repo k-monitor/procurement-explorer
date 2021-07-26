@@ -1,5 +1,3 @@
-adásvételi szerződés villamos energia beszerzés a szegedi tudományegyetem
-szte
-és az mta szegedi biológiai kutatóközpont
-mta szbk
-telephely számára
+version https://git-lfs.github.com/spec/v1
+oid sha256:ad48c435142fbc56c27b10951b4b4cb8c2fb485691ab97b30b7888ad3fd1e1d7
+size 159

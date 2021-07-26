@@ -1,1 +1,3 @@
-Különféle szemlencsék beszerzése, a beültetéshez szükséges eszközök biztosításával a Soproni Erzsébet Oktató Kórház és Rehabilitációs Intézet részére adásvételi szerződés keretében I. rész Hidrofil egytestű akrilát alapanyagú (optika és haptika) műlencse 1 640 db/ 24 hó. II. rész Háromtestű hidrofób akril, sulcus fixációra is alkalmas szemlencse 80 db/ 24 hó. III. rész Egytestű hidrofób akrilát alapanyagú (optika és haptika) műlencse 240 db/24 hó. IV. rész Aberráció mentes, egytestű hidrofil micro-incíziós akril lencse 120 db /24 hó. A fenti mennyiségektől az Ajánlatkérő -30 %-al eltérhet.
+version https://git-lfs.github.com/spec/v1
+oid sha256:44c220dc07e4e5fdd3a3ae31e918941cebb54af341f62232d71ec8e0f8c94fbd
+size 660

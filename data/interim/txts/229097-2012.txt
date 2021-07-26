@@ -1,1 +1,3 @@
-Vállalkozási szerződés keretében a Körözési Információs Rendszer (HERMON) továbbfejlesztése, központi SIS II és N-SIS II fejlesztéshez igazítása.
+version https://git-lfs.github.com/spec/v1
+oid sha256:08b113e6364138afddb250afda3287c1183f102a61c1bd9ac62175aa8c6e4926
+size 162

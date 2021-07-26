@@ -1,1 +1,3 @@
-Ajánlatkérő az Intézményében és a II. Rákóczi Ferenc Kórházi Telephelyen működő lakossági gyógyszerellátást végző vényforgalmú gyógyszertárak részére 12 hónapban szükséges különféle gyógyszereket és egyéb készítményeket (beleértve a magisztrális készítményeket és alapanyagokat is) kívánja megvásárolni a Kbt. 104. § (3) bekezdés alapján több ajánlattevővel megkötött keretmegállapodás alapján. A Kbt. 105. § (2) bekezdés a) pontja alapján, az esetenkénti megrendelés, a 104. § (3) bekezdés szerinti keretmegállapodásban meghatározott feltételek szerint, az ajánlatkérő által közvetlen megrendelés útján a 105. § (2) bekezdés a) pontja szerint kiválasztott ajánlattevőtől történik.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a1ea27212f292f344aa21d0bc527215c91aff018feca921a06a5d2bcaf2508f7
+size 767

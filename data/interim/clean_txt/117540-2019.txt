@@ -1,1 +1,3 @@
-magyar születési kohorszvizsgálat adatfelvétel komplex adatgyűjtési feladat ellátás az efop 1.
+version https://git-lfs.github.com/spec/v1
+oid sha256:96e4af7f36fe770fb4f495fb72e44ce59468e6a29987eaef97dc7d840c716fde
+size 102

@@ -1,2 +1,3 @@
-bkv vasúti járműjavító kft. részére t5c5
-t5c5 k2 jármű forgácsolt kerékpár alkatrész beszerzés a közbeszerzési dokumentum részletes meghatározott műszaki leírás szerint
+version https://git-lfs.github.com/spec/v1
+oid sha256:adfdef3364a3b863a17128b39d3586b17a31bdd0e82ef7fc254977014e833ced
+size 189

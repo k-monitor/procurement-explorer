@@ -1,4 +1,3 @@
-db homlokrakodógép
-db dózer
-db teleszkópos rakodógép beszerzés
-a részletes műszaki előírás a műszaki leírás tartalmaz
+version https://git-lfs.github.com/spec/v1
+oid sha256:26e7563cc0578bad5ca0c240eb539890add437f2a441de94924222385ebf0078
+size 132

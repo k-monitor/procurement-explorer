@@ -1,1 +1,3 @@
-Irodabútorok beszerzése (3 250 db irodai íróasztal, 3 250 db irodai kárpitozott szék, 100 db irodai fiókos konténer).
+version https://git-lfs.github.com/spec/v1
+oid sha256:8b33a4af5e9fc08411c8757f85808c89e1d7af0c87eb3e81802de8d9745809bf
+size 125

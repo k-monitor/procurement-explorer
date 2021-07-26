@@ -1,1 +1,3 @@
-Szállítási szerződés - Földgáz beszerzés az NMHH budapesti és vidéki telephelyeire 2013.7.1. 06.00 CET - 2015.7.1. 06.00 CET időszakra vonatkozóan.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b4a82e7045187b39d419af1ae720c698bf333e2c3e03f6ad9199d4035e9a2c39
+size 159

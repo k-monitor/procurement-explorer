@@ -1,1 +1,3 @@
-Szállítási szerződés Tárgya: Motor-, hajtómű- és hidraulika olajok, kenőzsírok, egyéb olajok és a belső égésű motorokkal működtetett gépek, járművek üzemeltetéséhez szükséges fagyálló hűtőfolyadék, fékfolyadék, szélvédőmosó folyadék (kiegészítő anyagok) szállítása a szerződés aláírását követően folyamatosan a szerződés időtartama alatt. /A Magyar Közút Nonprofit Zrt. telephelyeire, az általa kért mennyiségi ütemezésben, az egyedi lehívásoknak(megrendeléseknek) megfelelő telephelyre, a meghatározott mennyiségben és kiszerelésben kell szállítani./
+version https://git-lfs.github.com/spec/v1
+oid sha256:b954a85e571685b276e1d9d883682a92ef6b8df32927b15d8a396700f865dbbb
+size 624

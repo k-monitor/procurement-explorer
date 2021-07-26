@@ -1,3 +1,3 @@
-fővárosi vízmű zrt. által iratkezelés használt elo professional rendszer
-az opentext livelink rendszer karbantartás és üzemeltetés
-továbbfejlesztés
+version https://git-lfs.github.com/spec/v1
+oid sha256:a99b3b6c7c99461423c9638725d26707bc82f18438cbf47ec3abffda3b4352b8
+size 160

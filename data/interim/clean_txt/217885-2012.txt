@@ -1,10 +1,3 @@
-megbízási szerződés a bvk holding budapesti városüzemeltetési központ zártkörű működő részvénytársaság
-a bgyh zrt.
-a btl zrt. és a btl nemeskő kft.
-az fkf zrt.
-a főkétüsz kft.
-a főtáv zrt. a dhk zrt.
-a főtáv-komfort kft.
-a főkert zrt. a virág és a tahi faiskola
-az ftszv kft. és a bkszt kft. számára végzett könyvvizsgálati tevékenység ellátás vonatkozó
-ajánlatkérő teljesítés kapcsolatos elvárás az ajánlattételi szakasz kiadott ajánlattételi dokumentáció tartalmaz majd
+version https://git-lfs.github.com/spec/v1
+oid sha256:85bcd93e4bdb0085285b59c50a42b8ea4683ff98c1226301b83a62b7850fde86
+size 525

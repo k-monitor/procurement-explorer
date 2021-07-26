@@ -1,1 +1,3 @@
-szállítási szerződés keret röntgengép beszerzés a parádfürdői állami kórház részére
+version https://git-lfs.github.com/spec/v1
+oid sha256:9c82315e6d52a4a625e7d37af0629dc9f4b8f3c2b22135c04cc6bf47ee114aea
+size 99

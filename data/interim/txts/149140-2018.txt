@@ -1,1 +1,3 @@
-Vállalkozási szerződés az MTA Székház és Könyvtár épületegyüttes restaurátori kutatások, szakértői diagnosztikai vizsgálatok elvégzése és restaurálási terv elkészítése tárgyában.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1c08e7ff569362318759280f2773a545e8e42db88d4a945aad19231705dbd8f7
+size 205

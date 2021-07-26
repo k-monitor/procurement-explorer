@@ -1,1 +1,3 @@
-Adásvételi szerződés laboratóriumi műszerek szállítására és üzembe helyezésére.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b013c078269a85d13e3566c91967afc97678f659dec23668985fba4e4d650d65
+size 93

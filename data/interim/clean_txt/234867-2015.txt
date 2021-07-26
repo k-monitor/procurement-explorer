@@ -1,1 +1,3 @@
-adásvételi keretszerződés sebészeti varróanyag beszerzés a semmelweis egyetem szervezeti egység részére
+version https://git-lfs.github.com/spec/v1
+oid sha256:1b6704a252fbda93d5a87b1f1413c6fcf4aad51e700b092dd6cc755bb21c52d6
+size 113

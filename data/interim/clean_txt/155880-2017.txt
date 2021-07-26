@@ -1,2 +1,3 @@
-győr megyei jogú város egyes intézmény
-továbbá a győr megyei jogú város önkormányzata és polgármesteri hivatala részére villamos energia beszerzés határozott időtartam szóló adásvételi szerződés keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:cf4995c4f558bb19a5cebec9575ead1e09addc092903052cba50b94f7d77333b
+size 225

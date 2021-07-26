@@ -1,1 +1,3 @@
-Tápturbina rekonstrukciója (javítása, karbantartása).
+version https://git-lfs.github.com/spec/v1
+oid sha256:02c1fcc7c7595865ca64e86ad12905d84247cefff383f8f138f90b59f7f8f26e
+size 58

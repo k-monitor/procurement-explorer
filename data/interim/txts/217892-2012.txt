@@ -1,1 +1,3 @@
-Felújítási, fejlesztési célú, Kormány engedélyhez kötött hitel felvétele 235 826 000 HUF értékben.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5f1f788d7729182c8f9b2b5261a9f5e436c5e550bf55e78900628c8e5bf155cb
+size 111

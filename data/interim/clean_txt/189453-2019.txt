@@ -1,3 +1,3 @@
-étkeztetés biztosítás
-konyhabérlés és nyersanyagbeszerzés útján
-fót város intézmény részére határozott idő
+version https://git-lfs.github.com/spec/v1
+oid sha256:23fa0c108c035ab3f672d762211360a32a5b9209bd6c5d8ecf06785407e60f8f
+size 124

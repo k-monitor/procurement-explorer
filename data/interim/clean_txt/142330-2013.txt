@@ -1,2 +1,3 @@
-vállalkozási szerződés szent lázár megyei kórház étkeztetés biztosítás
-ellátott és alkalmazott étkeztetés
+version https://git-lfs.github.com/spec/v1
+oid sha256:5d90092bba8c2b9d4ba9f0d47094e3343439ace1bb78f9358addbeb5b2248663
+size 121

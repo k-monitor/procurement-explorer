@@ -1,5 +1,3 @@
-adás-vételi szerződés
-az efop-2
-18-17-2017-00052
-betegbiztonság növelés célzó komplex infrastrukturális fejlesztés az egészségügyi ellátórendszer
-című pályázat keret db automatizált betegszíntű gyógyszerelő automata berendezés beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:7c2e0c6cfde99a776b7d945dec375213db294d0d5ae2809a7b384597e278a3d6
+size 263

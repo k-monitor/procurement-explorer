@@ -1,15 +1,3 @@
-megbízási keretszerződés
-nyertes ajánlattevő feladat az autópálya
-autóút és főút használat díj szóló
-2007.
-iii
-26.
-gkm rendelet 1. §
-a szerinti díjfizetés elmulasztás eset fizetendő pótdíj beszedés
-követeléskezelés
-az ajánlatkérő által havonta kibocsátott eseti megrendelés átadott ügy
-eseti megrendelésenként legalább
-os beszedési sikeresség elérés mellett
-a megbízási keretszerződés teljesítés sor elvárt szolgáltatás pontos leírás a közbeszerzési eljárás ajánlattételi szakasz kiadás kerülő ajánlattételi felhívás valamint az ajánlattételi dokumentáció
-közbeszerzési műszaki leírás és szerződéstervezet
-együttes fog tartalmaz
+version https://git-lfs.github.com/spec/v1
+oid sha256:fedad57f1b41f6502be1dd436a5ca2528a402133edb1141ae355076c15bc1b79
+size 708

@@ -1,1 +1,3 @@
-Központi szúnyoggyérítési feladatok ellátása (kiegészítő szolgáltatások 2016.), vállalkozási szerződés keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d441f96d950be01cba6ed0939d253ef7d4cab04e3428dadb40c7fc350a39f180
+size 130

@@ -1,1 +1,3 @@
-Adásvételi szerződés 4 db C-íves képerősítő beszerzésére a Debreceni Egyetem Klinikai Központ egyes egységei részére.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0ead551ab50454f15c3d85cedd4911a5904316c2739b234c3915acdd9c119d3b
+size 132

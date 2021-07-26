@@ -1,1 +1,3 @@
-Vezetékes földgáz szállítása.
+version https://git-lfs.github.com/spec/v1
+oid sha256:02edd3174f7cf4393f06ffe6af00884b5869f013006e7abdfc071e35445085ec
+size 35

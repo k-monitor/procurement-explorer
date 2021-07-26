@@ -1,4 +1,3 @@
-adásvételi szerződés keret oktatási cél is alkalmazható alábbi eszköz beszerzés
-1. dinamikus mechanikus elemző műszer 2. pofás törő aprítógép 3. bolygóműves-golyós malom 4. tárcsás malom 5. membránszeparációs egység
-membránszűrő eszköz
-membrán gázelválasztó eszköz és fluidizációs és pneumatikus szállító eszköz
+version https://git-lfs.github.com/spec/v1
+oid sha256:b27afe3f9f31744e23cd0baf8c407fa93b708543ac15c12ad12600fa59feed79
+size 355

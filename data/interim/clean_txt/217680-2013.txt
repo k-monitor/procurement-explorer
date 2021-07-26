@@ -1,6 +1,3 @@
-villamos energia értékesítési szerződés
-villamos energia szállítás
-nyertes ajánlattevő feladat a közös ajánlatkérő dokumentáció megjelölt csatlakozási pont részére 2014.1.1
-óra
-2014.12.31
-óra teljes ellátás alapú szerződés keret történő villamos energia biztosítás
+version https://git-lfs.github.com/spec/v1
+oid sha256:94f844509259b77a559a2d51624bfbe0d0f1f507d3f81ac072b0590087eff376
+size 298

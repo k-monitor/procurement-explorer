@@ -1,2 +1,3 @@
-vállalkozási szerződés közúti híd fő
-és célvizsgálat
+version https://git-lfs.github.com/spec/v1
+oid sha256:e6c6ac8f0d964f9868740bbd8a83494d53f5292567a223e8414055a74b1b788b
+size 63

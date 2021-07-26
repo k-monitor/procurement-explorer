@@ -1,7 +1,3 @@
-MTA	MTA	PROPN	Case=Nom|Number=Sing	
-/	/	PUNCT	_	
-HTA	HTA	PROPN	Case=Nom|Number=Sing	
-berendezések	berendezés	NOUN	Case=Nom|Number=Plur	
-informatikai	informatikai	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-eszközei	eszköz	NOUN	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:3e4d2a4ad72cfc93eb794a678f005b9e788b3e89e006cb39aa9dc0f8eeeed348
+size 280

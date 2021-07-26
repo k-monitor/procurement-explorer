@@ -1,1 +1,3 @@
-Kökönyösi Általános Iskola fejlesztése
+version https://git-lfs.github.com/spec/v1
+oid sha256:59d536c6f11d16b9bb8554b43ee62093e30c1067442e0b41a253e015d2787aa5
+size 44

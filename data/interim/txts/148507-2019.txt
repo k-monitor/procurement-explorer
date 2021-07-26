@@ -1,1 +1,3 @@
-Kötszerek beszerzése 29 részben, Ajánlattevő köteles jótállási kötelezettséget vállalni az áru leszállításától számított 12 hónap időtartamra.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9e4d416212c3d0c5515ff3fe4148dafc23c5fbe88beddcef4642e318ca17fc47
+size 164

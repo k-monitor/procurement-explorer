@@ -1,14 +1,3 @@
-vállalkozási keretszerződés kommunikációs tevékenység ellátás
-rész
-az alábbi részajánlat-tételi lehetőség
-1. rész
-pr és kreatív feladat
-médiavásárlás
-közvélemény
-és piackutatás
-2. rész
-rendezvényszervezési feladat ellátás
-3. rész
-nyomdai feladat
-grafikai tervezés
-dtp és egyéb produkciós feladat ellátás
+version https://git-lfs.github.com/spec/v1
+oid sha256:8eda91ca308be736618addc0a29da2ed9c0316d591c531d05cc7ddc5c8266c45
+size 344

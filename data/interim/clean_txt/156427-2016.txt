@@ -1,1 +1,3 @@
-dsa berendezés szervízszolgáltatás
+version https://git-lfs.github.com/spec/v1
+oid sha256:a2e7b72692f2a8a9852ac428c2f0a438ed546a4070255278776a9e511d8d716a
+size 38

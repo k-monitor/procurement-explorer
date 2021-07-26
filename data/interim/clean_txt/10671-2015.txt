@@ -1,4 +1,3 @@
-adásvételi szerződés a szegedi tudományegyetem tiop-2
-2-2009-0008 kódszámú pályázat keret a szent-györgyi albert klinikai központ részére orvostechnológiai gép-műszer és felszerelés beszerzés
-leszállítás
-üzem helyezés tárgy
+version https://git-lfs.github.com/spec/v1
+oid sha256:f89ae2cd245bb49116647f30eac3ffde4d8d70ec71a264923eb55e5e76cc24af
+size 249

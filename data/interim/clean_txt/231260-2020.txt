@@ -1,7 +1,3 @@
-adás-vételi szerződés keret az intézmény részére hónap szükséges különféle laboratóriumi diagnosztikum leszállítás
-egyrészt a saját tulajdon lévő laboratóriumi készülék működtetés
-másrészt pedig a 9., 10.
-és 11. rész eset laboratóriumi készülék kihelyezés együtt
-továbbá a használat adás kerülő készülék on-line csatlakozás biztosítás ajánlatkérő mindenkori informatikai rendszer
-ajánlatkérő jelenleg medworks informatikai rendszer működik
-a 9., 10. és 11. rész tekintet a kihelyezés kerülő készülék eset a bérleti díj maga kell foglal a kihelyezés kerülő készülék kötelező gyári előírt karbantartás és felmerülő szervizelés költség is
+version https://git-lfs.github.com/spec/v1
+oid sha256:d149ebd79805aaec7db4f6d4835cff562383e225e886f0fb114f4acde8db2d41
+size 722

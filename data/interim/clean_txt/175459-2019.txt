@@ -1,6 +1,3 @@
-meglévő net oss rendszer szoftver
-netvisor pvsr
-netvisor sla suite
-netvisor netinv és netvisor ip explorer
-gyártói licenckövetés és gyártói terméktámogatás
-valamint a net oss rendszer szoftver és integráció szállítói terméktámogatás továbbá a net oss rendszer üzemeltetési és fejlesztési szakértői támogatás biztosítás
+version https://git-lfs.github.com/spec/v1
+oid sha256:ea8ab5305633fcdffe4caa85997ab2b81b3b2e657c877d29103b244814000b21
+size 352

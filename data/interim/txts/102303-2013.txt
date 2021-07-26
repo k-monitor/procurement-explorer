@@ -1,1 +1,3 @@
-Forgalomba hozatalra engedélyezett gyári gyógyszerkészítmények beszerzése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b9f8ca9373b63b8a3f0712a5dc6529ada04f397da36fe0c812fdee4c9c27dd79
+size 81

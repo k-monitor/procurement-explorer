@@ -1,6 +1,3 @@
-vállalkozási szerződés a
-nyit hálózat a társadalmi befogadás
-pályázati program
-támop-5
-1-2012-0001
-keret marketing és szakmai kommunikációs feladat ellátás
+version https://git-lfs.github.com/spec/v1
+oid sha256:ce9d10870c3da1fb816e2e03d31c4ec9eed44ac01e9f29bfbc9853ac5fcd8a5f
+size 171

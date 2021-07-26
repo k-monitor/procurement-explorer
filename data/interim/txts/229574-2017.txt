@@ -1,1 +1,3 @@
-DEK-463_Vállalkozási szerződés lineáris gyorsítók szerviz tevékenységének (javítás, karbantartás) ellátására, alkatrész-biztosítással együtt.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4f5c368e722c08181a7920bae509433acfb4e6f04974f29613300098c558252c
+size 161

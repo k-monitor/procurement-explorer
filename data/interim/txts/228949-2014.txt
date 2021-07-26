@@ -1,1 +1,3 @@
-Vállalkozási szerződés invazív növények elleni növényvédőszeres és mechanikus irtási munkák ellátására az „Özönnövények elleni egységes védelem homoki és ártéri élőhelyeken” elnevezésű, HUSK/1101/2.2.1/0052 azonosító számon nyilvántartott projekt keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:40bfc71415f1b2fb28a21bfc538137cdc8e55cc5434ef0cdbbcf5466e52bb12e
+size 296

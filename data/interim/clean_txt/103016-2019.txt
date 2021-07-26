@@ -1,2 +1,3 @@
-1. dunakorzó átalakítás és felújítás szükséges tervezési és engedélyeztetési feladat ellátás vállalkozási szerződés keret
-2. templomdomb felújítás szükséges tervezési és engedélyeztetési feladat ellátás vállalkozási szerződés keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:1023c8b42fae898505ba90fc64c4e77a4a41f5d2f1a281002f2744379b5ef521
+size 266

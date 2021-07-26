@@ -1,1 +1,3 @@
-2017. évi oltóanyagok beszerzése adásvételi szerződés keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5d0a5e6966b97762402c46fbcaa7fbabf0b5fccff48a67b89539ba3e6cff10e7
+size 72

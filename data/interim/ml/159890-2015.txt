@@ -1,10 +1,3 @@
-Adás-vételi	Adás-vételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-12	12	NUM	Case=Nom|NumType=Card|Number=Sing	
-havi	havi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-hús	hús	NOUN	Case=Nom|Number=Sing	
-,	,	PUNCT	_	
-húskészítmények	húskészítmény	NOUN	Case=Nom|Number=Plur	
-beszerzésére	beszerzés	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:f8729d489def5c258c3ebfb254279bbc3b3f1904782092d42755ee1294072960
+size 423

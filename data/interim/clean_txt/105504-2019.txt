@@ -1,12 +1,3 @@
-társasági folyamat vizsgálat
-vir előkészítés beszerzés és folyamatszervezés
-átvilágítás
-bpr
-a beszerzési eljárás cél az ajánlatkérő kialakított társasági folyamat vizsgálat
-az adminisztratív túlterhelés
-a hatékonysági tartalék kimutatás
-a kockázat
-duplikáció beazonosítás és jelzés
-a cél egy optimális adminisztrációs és ügykezelési jövőkép kialakítás
-a követendő fejlesztési terv és menetrend meghatározás
-különös tekintet a folyamat kapcsolódó informatikai rendszer jövőbeni továbbfejlesztési lehetőség vizsgálat
+version https://git-lfs.github.com/spec/v1
+oid sha256:32fe2a99cef4fa0dfd3fd05f90e9bd3552ee27909db036254127474139583a2e
+size 583

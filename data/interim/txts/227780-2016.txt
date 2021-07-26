@@ -1,1 +1,3 @@
-EWC 17. főcsoportba tartozó építési és bontási hulladék telephelyek közötti szállítása.
+version https://git-lfs.github.com/spec/v1
+oid sha256:90cf42ff1c380d53893749453c18d175873010dadf34b29758690f7101c86c2d
+size 100

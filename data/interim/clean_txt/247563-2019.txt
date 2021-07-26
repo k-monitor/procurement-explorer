@@ -1,4 +1,3 @@
-tervezési keretmegállapodás a nemzeti ménesbirt és tangazdaság zrt. részére rész történő ajánlattétel kizárás
-a beszerzés tárgy jelleg nem tesz lehető a részajánlattétel lehetőség
-figyelem az
-hogy ajánlatkérő különösen fontos érdek fűződik az egységes feladatellátás és az irányítási rendszer egység valamennyi szolgáltatási terület
+version https://git-lfs.github.com/spec/v1
+oid sha256:b97ec58c4251e276eaa0d08f7c1f8bb1b7e0ecabdd12a5a30dcfd90d038e7f23
+size 376

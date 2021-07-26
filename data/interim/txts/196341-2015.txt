@@ -1,1 +1,3 @@
-Vállalkozási szerződés keretében a Magyar Nemzeti Bank SAP ECC (használt standard modulok: BC, MM, FI, CO, SD, HR, AM, SL, TM, PP), NetWeaver, ( BW/SEM, SRM), Portál (ESS, MDM), SAP Solution Manager, SAP WEBDispatcher rend-szerei üzemeltetésének támogatása, fejlesztési és módosítási tevékenységek végrehajtása.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1d593540fd7b881bfef7f9996cc8ecd736c129b5d4ea4e94e59205a72126b642
+size 332

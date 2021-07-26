@@ -1,7 +1,3 @@
-C-ROADS	C-ROADS	PROPN	Case=Nom|Number=Sing	
-elektromos	elektromos	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-berendezések	berendezés	NOUN	Case=Nom|Number=Plur	
-beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-és	és	CONJ	_	
-telepítése	telepítés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:c5014f15b3959c59d3ab1046ce796adf4d2cf3914058d3630a0f9386e8eda7fa
+size 341

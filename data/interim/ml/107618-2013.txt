@@ -1,4 +1,3 @@
-Szakrendszerek	szakrendszer	NOUN	Case=Nom|Number=Plur	
-alkalmazástámogatása	alkalmazástámogatás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:8ce5c4c42fc5c57e55294588bd84dc187dfa41e0c81d2cc0d6affce632cba1c2
+size 176

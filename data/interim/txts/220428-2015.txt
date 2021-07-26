@@ -1,1 +1,3 @@
-Szerződés meghatározása: Adásvételi szerződés a KEOP-5.6.0/E/15 számú pályázathoz kapcsolódó digitális (flat panel technológiájú) mobil/ágymelletti röntgenfelvételi berendezésleszállítása, és üzembe helyezése, továbbá a jótállási időn belüli karbantartási és szerviz tevékenység ellátása.
+version https://git-lfs.github.com/spec/v1
+oid sha256:94eda9bb9648d651f27f96951bf97c47ee1981a93eafd6a46999b01d0f6f3a92
+size 329

@@ -1,1 +1,3 @@
-1. rész: Debreceni Református Kollégium Gimnáziuma és Általános Iskola kialakítása a Debrecen, Péterfia u. 1-7. sz. alatti épületben; 2. rész: Kölcsey Ferenc Református Gyakorló Általános Iskola tornaterem bővítés. épületeinek kivitelezési munkái vállalkozási szerződés keretében. A szerződés egyösszegű (átalányáras) típusú.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ecb2366af2090c8058096647af5c30e8d2f1c0023ace9c6d740043f4c7da1212
+size 364

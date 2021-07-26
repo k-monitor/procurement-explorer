@@ -1,11 +1,3 @@
-A	a	DET	Definite=Def|PronType=Art	
-Magyar	Magyar	PROPN	Case=Nom|Number=Sing	
-Közút	közút	NOUN	Case=Nom|Number=Sing	
-Nonprofit	nonprofit	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-Zrt.	Zrt.	PROPN	Case=Nom|Number=Sing	
-2018.	2018.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
-évi	évi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-villamosenergia	villamosenergia	NOUN	Case=Nom|Number=Sing	
-beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:801474f879e6d62f3314a277de90a4b6e820bd50574dd86bc35735a7857ba9aa
+size 468

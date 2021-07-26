@@ -1,2 +1,3 @@
-a nav vagyonkezelés lévő tonna össztömeg meg nem haladó suzuki gyártmányú gépjármű kisjavítás
-karbantartás és műszaki vizsgáztatás hónap időtartam vagy a szerződéses keretösszeg kimerülés
+version https://git-lfs.github.com/spec/v1
+oid sha256:a5609407e5bc2c2ecd56dfc8fce57673708f8431bb4b3851077aa679de1c4050
+size 213

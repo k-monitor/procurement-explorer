@@ -1,1 +1,3 @@
-Forgalmi Tanulmány készítése az ETCS 2-vel való üzemelésről.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5ef861cc621d1598e8c3861de2cde450f3fc585ffef4c4a92c301f1abcac43dc
+size 68

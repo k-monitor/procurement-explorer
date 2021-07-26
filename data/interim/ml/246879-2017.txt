@@ -1,13 +1,3 @@
-Kiskunfélegyháza	Kiskunfélegyháza	PROPN	Case=Nom|Number=Sing	
-Város	Város	PROPN	Case=Nom|Number=Sing	
-Önkormányzata	Önkormányzata	PROPN	Case=Nom|Number=Sing	
-és	és	CONJ	_	
-Intézményei	intézmény	NOUN	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3	
-részére	részére	ADP	_	
-földgáz	földgáz	NOUN	Case=Nom|Number=Sing	
-beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-12	12	NUM	Case=Nom|NumType=Card|Number=Sing	
-hónapos	hónapos	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-időtartamra	időtartam	NOUN	Case=Sub|Number=Sing	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:e253127ef1ab1fdba89b850725f946100d1f1da2db16ca738e313eccc27c73b8
+size 592

@@ -1,1 +1,3 @@
-pápa város közigazgatási terület a nem közmű összegyűjtött háztartási szennyvíz begyűjtés vonatkozó helyi közszolgáltatás ellátás közszolgáltatási szerződés keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:0b44ef7f40102715f713cfa56cdef1a4e183a5b97eb2c4b3f4680a3ae8385cf7
+size 188

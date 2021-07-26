@@ -1,1 +1,3 @@
-1. Dunakorzó átalakításához és felújításához szükséges tervezési és engedélyeztetési feladatok ellátása vállalkozási szerződés keretében. 2. Templomdomb felújításához szükséges tervezési és engedélyeztetési feladatok ellátása vállalkozási szerződés keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:085923ecd800b7482a385c0861291dce066016b31965effde094f859bb01850a
+size 299

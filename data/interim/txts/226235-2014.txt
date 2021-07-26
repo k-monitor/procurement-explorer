@@ -1,1 +1,3 @@
-Szállítási szerződés aneszteziológiai eszközök beszerzésére.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f1e63beabe1729310e658dcfe229883850e0a739db82e219bd6530da46ba921b
+size 70

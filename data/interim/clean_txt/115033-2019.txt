@@ -1,2 +1,3 @@
-használat kívüli bányászati célú mélyfúrás biztonság helyezés
-elzárás
+version https://git-lfs.github.com/spec/v1
+oid sha256:7c7e2e0d695ea4a60c24ae1dcfe5306824c3bd379124df500a4955d09ba3e25f
+size 83

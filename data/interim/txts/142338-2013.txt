@@ -1,1 +1,3 @@
-I. rész vonatkozásában: Megbízási szerződés alapján a "Révfülöpi agglomeráció szennyvíztelepének bővítése, fejlesztése" elnevezésű projekthez [„Elektromos és gépészeti létesítményekhez valamint vállalkozó által tervezett építési és mérnöki létesítményekhez” (2011. évi kiadás) (FIDIC Sárga Könyv)] kapcsolódó FIDIC mérnöki és műszaki ellenőri szolgáltatás elvégzése II. rész vonatkozásában: Megbízási szerződés alapján a "Keszthelyi szennyvíztisztító telep korszerűsítése, kapacitásbővítése és kapcsolódó iszapkezelő létesítmények építése; " elnevezésű projekthez kapcsolódó FIDIC mérnöki és műszaki ellenőri szolgáltatás [„Az építési munkák szerződéses feltételei Megbízó által tervezett magas- és mélyépítési munkákhoz” (1999. évi kiadás, 2005. évi magyar nyelvű fordítás) (FIDIC Piros Könyv)] elvégzése
+version https://git-lfs.github.com/spec/v1
+oid sha256:757cddd6c82f0d83ac9e1dbcd020af73c255c5b6ea3f6f9aa11ae7945ee0aee9
+size 931

@@ -1,1 +1,3 @@
-Az Országos Vérellátó Szolgálat preparatív és klinikai transzfuziológiai feladatainak (vérkészítmények azonosító és minősítő címkézése, vérvételi zsákrendszerek, vérvételi mintacsövek és véradó bizonylatok azonosító címkézése) ellátásához szükséges különféle öntapadó nyomatlan címkék, öntapadó nyomatlan címkekészletek és termal transfer festékszalagok beszerzése
+version https://git-lfs.github.com/spec/v1
+oid sha256:794acefbed506febb1f5d1498a4073609b5bedece47af89963a6448a4fb85a5d
+size 418

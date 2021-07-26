@@ -1,16 +1,3 @@
-A	a	DET	Definite=Def|PronType=Art	
-Magyar	Magyar	PROPN	Case=Nom|Number=Sing	
-Nemzeti	Nemzeti	PROPN	Case=Nom|Number=Sing	
-Bank	Bank	PROPN	Case=Nom|Number=Sing	
-(	(	PUNCT	_	
-MNB	MNB	PROPN	Case=Nom|Number=Sing	
-)	)	PUNCT	_	
-integrált	integrált	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPast	
-statisztikai	statisztikai	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-(	(	PUNCT	_	
-ISTAT	istat	NOUN	Case=Nom|Number=Sing	
-)	)	PUNCT	_	
-rendszerének	rendszer	NOUN	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-továbbfejlesztése	továbbfejlesztés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:cd021dd769b0ec01edf857d661c498c5f26aadbd80aacf7ff9812e483d943469
+size 622

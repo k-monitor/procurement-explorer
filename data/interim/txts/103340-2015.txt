@@ -1,1 +1,3 @@
-Szerződés meghatározása: Adásvételi szerződés. Pótkocsik beszerzése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a9b71069dde35601fa47726c16c76effd93ada523d755121e285e1eb4d424afe
+size 78

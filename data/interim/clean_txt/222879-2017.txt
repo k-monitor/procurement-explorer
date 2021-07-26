@@ -1,23 +1,3 @@
-kultúra
-ajándék
-és iskolakezdési elektronikus utalvány cafeteri kártya keresztül történő beszerzés határozott idő
-31.
-a főtáv zrt
-főtáv-komfort kft
-dhk zrt
-főtáv-kiserőmű zrt
-immodus zrt. részére
-az ajánlattevő feladat a meghatározott specifikációjú bér kívüli juttatás kör választható
-különböző névértékű kultúra
-ajándék
-és iskolakezdési elektronikus utalvány külön-külön alszámla
-kártya keresztül történő rendelkezés bocsátás
-továbbá az ez szükséges plasztik kártya leszállítás
-az utalvány névérték 31.
-huf
-a ii
-2.
-pont megjelölt
-tervezett igénybevétel alap
-tervezett cafeteria kártya igénylés darabszám
-keretmennyiség
+version https://git-lfs.github.com/spec/v1
+oid sha256:dcfdeac75fbbb90980c26c1400ee735aa14a4e34de51893b171a9a8d12cbbc58
+size 704

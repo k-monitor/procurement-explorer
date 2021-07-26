@@ -1,1 +1,3 @@
-Nyári védőitalok - természetes ásványvíz - adásvétele értékalapú keretszerződés keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:329f5bf5757b375ed9ac44efbad0acad6a7a4da310b090e2496b13ca2749aa30
+size 105

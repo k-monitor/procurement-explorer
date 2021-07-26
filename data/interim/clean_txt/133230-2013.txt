@@ -1,2 +1,3 @@
-vállalkozási szerződés alap az
-oktatásmenedzsment feladat támogató asp rendszer és kiegészítő modul fejlesztés
+version https://git-lfs.github.com/spec/v1
+oid sha256:d8e971758d397d87b80a55677aaad3d6b593f677d7ddf16fad0d3be3d78a7a2c
+size 122

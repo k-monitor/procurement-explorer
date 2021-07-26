@@ -1,1 +1,3 @@
-Adásvételi szerződés keretében – CE-routerek licencbővítésének beszerzése a „Területi államigazgatás egységes működését támogató rendszerfejlesztések” című, KÖFOP-1.0.0-VEKOP-15-2016-00045 azonosítószámú kiemelt projekt keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ac68bf1bea9d39ce1dd9d059bedb0aa4a913923bd9e654b1d80257aa130a698f
+size 265

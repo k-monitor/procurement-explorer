@@ -1,12 +1,3 @@
-Adásvételi	adásvételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-alapján	alap	NOUN	Case=Sup|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-különféle	különféle	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-élelmiszer	élelmiszer	NOUN	Case=Nom|Number=Sing	
-alapanyagok	alapanyag	NOUN	Case=Nom|Number=Plur	
-beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-6	6	NUM	Case=Nom|NumType=Card|Number=Sing	
-részajánlattételi	részajánlattételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-körben	kör	NOUN	Case=Ine|Number=Sing	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:daae497e20d563348322d1253080867dd1400961c88011988e705b5220610d42
+size 610

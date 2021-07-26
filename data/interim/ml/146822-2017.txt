@@ -1,9 +1,3 @@
-Az	az	DET	Definite=Def|PronType=Art	
-MTVA	MTVA	PROPN	Case=Nom|Number=Sing	
-3-as	3-as	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-stúdiójába	stúdió	NOUN	Case=Ill|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-új	új	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-hangasztal	hangasztal	NOUN	Case=Nom|Number=Sing	
-beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:87c5428f6b8f06af2f44a507e3fd36212793ac5c6106d3161c1627265dedc77b
+size 396

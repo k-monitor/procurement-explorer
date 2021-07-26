@@ -1,1 +1,3 @@
-Bérleti szerződéssel vegyes vállalkozási szerződés, melynek tárgya: — a Perkátai Általános Művelődési Központ főzőkonyhájának és a hozzá tartozó étteremnek 10 éves időtartamra történő bérbeadása ajánlatkérő részéről, — a bérbe adott főzőkonyhában előállított élelmiszerekkel (tízórai/ebéd/uzsonna) Perkáta Nagyközség Önkormányzatának - a jelen felhívás II.2.1 pontjában meghatározott - közintézményeiben étkeztetési szolgáltatások ellátása, továbbá a szociális igazgatásról és szociális ellátásról szóló 1993. évi III. törvény 62. §-a szerinti szociális étkeztetéshez szükséges HACCP szerinti (fogyasztásra kész) élelmiszer (ebéd) előállítása és kiszállítása.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7da00c7579f30040b215cb9f928cb0462d4986ee33d03bf9627830aff5c4a96f
+size 762

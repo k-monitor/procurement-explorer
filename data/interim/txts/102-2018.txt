@@ -1,1 +1,3 @@
-Szarvasmarhatelep, valamint mezőgazdasági terményfeldolgozó és tároló üzem kivitelezési munkái vállalkozási szerződés keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a6d8b4924210a714f17e2c214208a8f7a63e1b359bf2754840c72c6854abc8fd
+size 143

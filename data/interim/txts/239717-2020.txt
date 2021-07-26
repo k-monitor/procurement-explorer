@@ -1,1 +1,3 @@
-Újszülöttkori szűrésre szánt tömegspektrométer-rendszer (IVD) ultranagy hatékonyságú folyadékkromatográffal (IVD) rendszer adásvétele, nitrogén generátorral, gázkromatográf-tömegspektrométerrel, immunanalitikai automata készülékkel, automata lyukasztó készülékkel, mintabeszárítóval, plate centrifugával, szünetmentes tápegységgel, beüzemeléssel, betanítással.
+version https://git-lfs.github.com/spec/v1
+oid sha256:70ba3cf2ac755a3841bd0891e78717cf6819c133991817d7224cb0a4fd49382c
+size 399

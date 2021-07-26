@@ -1,1 +1,3 @@
-Megbízási szerződés a „Szennyvíz tisztítótelep és csatornahálózat bővítés Kunszentmiklóson KEOP-1.2.0/09-11-2011-0010” tárgyú beruházáshoz kapcsolódó FIDIC mérnöki és műszaki ellenőri feladatok ellátására FIDIC sárga és piros könyv szerint.
+version https://git-lfs.github.com/spec/v1
+oid sha256:61ec2f4b9012f7ede2a018cdbc3312a9c0b9c17b0fcb62fa8710a4b485640600
+size 275

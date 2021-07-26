@@ -1,1 +1,3 @@
-Keretszerződés távközlési és internet szolgáltatások biztosítására a Kecskemét Megyei Jogú Város helyben központosított közbeszerzési rendszerének hatálya alá tartozó, valamint ahhoz önként csatlakozott felhasználók számára.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0353a4a0accf372d888ed2ab6cd40e89657a4fce8bc287d9f6474a1034eaa8ac
+size 252

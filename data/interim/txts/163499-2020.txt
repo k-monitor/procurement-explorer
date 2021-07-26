@@ -1,1 +1,3 @@
-“Hulladékgyüjtő és szállító célgépek beszerzése”
+version https://git-lfs.github.com/spec/v1
+oid sha256:aaaae6739620e89b6792cdac734100ccc695f7d0f213ac5075f36c538190fa34
+size 62

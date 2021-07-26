@@ -1,11 +1,3 @@
-vállalkozási keretszerződés az országos katasztrófavédelmi főigazgatóság vagyonkezelés
-üzemeltetés
-lévő teher és egyéb
-személygépjármű kivétel
-jármű
-a jármű gyártmány szerinti összetétel
-rész
-a dokumentáció műszaki leírás tartalmaz
-garancia
-és szavatossági idő túli javítás
-karbantartás és műszaki megvizsgálási feladat elvégzés a rész megadott keretösszeg erő
+version https://git-lfs.github.com/spec/v1
+oid sha256:f2e916e9aa3d246b17dfd5b4828160480b86068aaf92bb4586adb2aedc8b2128
+size 412

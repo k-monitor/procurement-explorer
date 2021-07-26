@@ -1,1 +1,3 @@
-Keretmegállapodás a Második generációs digitális tachográf-kártya gyártása, megszemélyesítése és a digitális tachográf kártyákhoz kapcsolódó egyéb feladatok ellátása tárgyában a 2019–2021. évek vonatkozásában.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e8cb83573c5dff27b0929c4cfd26b8db92896b114653a73517d6a396a5e16fcf
+size 239

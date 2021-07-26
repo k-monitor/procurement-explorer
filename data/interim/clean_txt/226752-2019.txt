@@ -1,5 +1,3 @@
-földgáz energia beszerzés a t-szol tatabányai szolgáltató zártkörű működő részvénytársaság
-valamint tagvállalat
-agora nonprofit kft
-cseri kft.
-rész hónapos időtartam a dokumentáció meghatározott fogyasztási hely
+version https://git-lfs.github.com/spec/v1
+oid sha256:97de8082b45435e28cfefdfb056bb7392309773b4e45cd70f4418b38315ba708
+size 235

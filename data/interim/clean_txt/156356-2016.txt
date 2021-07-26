@@ -1,4 +1,3 @@
-magyar ifjúság kutatás
-illetőleg önkéntességkutatás teljes körű lebonyolítás és szakmai összefoglalás az efop-1
-3-vekop-15-2015-00001 azonosítószámú kiemelt projekt keret belül az ajánlattételi dokumentáció részletezett szerint
-vállalkozási szerződés keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:cb2516869da53db554ad5453ea2dd1ade5c9b6ed8f03814f9995ac12b15737cc
+size 285

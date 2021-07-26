@@ -1,2 +1,3 @@
-szállítási szerződés
-nadrágpelenka beszerzés a borsod-abaúj-zemplén megyei központi kórház és egyetemi oktatókórház részére
+version https://git-lfs.github.com/spec/v1
+oid sha256:153aa885078ec3fef17ac14c8f493d160cfcb8033bc392139c8d73e37c841862
+size 141

@@ -1,3 +1,3 @@
-vagyonbiztosítási keretszerződés a máv-start zrt. jegykiadó automata
-az lopás
-vandalizmus okozta vagyoni kockázat kezelés
+version https://git-lfs.github.com/spec/v1
+oid sha256:7d9881bc421bb088ab6f8e24df75223fe5258b5fa3cc573d362a76d59c7ecf59
+size 130

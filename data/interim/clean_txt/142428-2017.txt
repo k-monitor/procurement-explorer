@@ -1,5 +1,3 @@
-vállalkozási szerződés
-a köfop-1
-0-vekop-15-2016-00024 azonosítószám ellátott projekt keret
-a nyugdíjágazat irattár lévő irat feldolgozás
-elektronikus másolat készítés a nyugdíjfolyósítási szolgáltatás decentralizált mód történő hozzáférés és ügyintézés támogatás érdek
+version https://git-lfs.github.com/spec/v1
+oid sha256:850854132dadcf7eeee6a982bb66db4ba029dcb6e31b6f212b4415bcbc16cfad
+size 309

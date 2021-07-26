@@ -1,6 +1,3 @@
-Keretmegállapodás	keretmegállapodás	NOUN	Case=Nom|Number=Sing	
-tervellenőrzési	tervellenőrzési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-feladatok	feladat	NOUN	Case=Nom|Number=Plur	
-ellátására	ellátás	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:51e850fceaecc892e607046b888550dd574992d6dfa44f5c41dbbfaf92662645
+size 283

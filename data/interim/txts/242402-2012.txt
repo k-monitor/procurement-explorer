@@ -1,1 +1,3 @@
-Földgáz energia áruszállítása Esztergom Város Önkormányzata és fenntartása alatt álló intézményei (összesen 12 kontakt szervezethez tartozó) felhasználás helyei részére 2012.09. hó 24. nap (6.00)-2015.09. hó 24. nap (6.00) időszakra vonatkozóan teljes ellátás alapú földgáz áruszállítási szerződés keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:72e924aaa0ca0cb0b9627b1832d4023d57c0450c7bcce54a1403c7884e59d5b3
+size 345

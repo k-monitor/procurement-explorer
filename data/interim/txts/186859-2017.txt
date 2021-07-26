@@ -1,1 +1,3 @@
-Szilárd kommunális hulladék, zöldhulladék, szelektíven gyűjtött hulladék, lomtalanítási hulladék gyűjtése, szállítása Gyömrő város közigazgatási területén és ennek ártalmatlanítása közszolgáltatási szerződés keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bc0427b249f3ffd4ba903d3b21d0cff9deca7f429b87d0ddb11691316b37fbef
+size 252

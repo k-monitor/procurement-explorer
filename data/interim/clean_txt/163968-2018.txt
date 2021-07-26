@@ -1,27 +1,3 @@
-tételes finanszírozott egy használatos szívsebészeti eszköz beszerzés a városmajori szív
-és érgyógyászati klinika részére
-1. rész
-egy használatos vákuumos szívstabilizátor
-összesen db
-adásvétel történő beszerzés
-2. rész
-kis membránfelületű
-m²
-egy használatos oxigenátor
-összesen db
-adásvétel történő beszerzés
-3. rész
-nagy membránfelületű
-m²
-egy használatos oxigenátor
-összesen db
-adásvétel történő beszerzés
-4. rész
-egy használatos membrán oxigenátor hosszú távú test kívüli oxigenizáció biztosítás
-összesen db
-adásvétel történő beszerzés
-5. rész
-egy használatos oxigenátor-csőkészlet
-összesen
-db
-adásvétel történő beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:e15565ce044db89950470daf1ec61616b4cd47be62bc1ca7893eee48b944cb84
+size 712

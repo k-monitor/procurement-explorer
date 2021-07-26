@@ -1,8 +1,3 @@
-adásvételi szerződés
-a magyar honvédség katasztrófavédelem összefüggő beavatkozási képesség fejlesztés
-nehézgépszállító nyerges szerelvény
-kszte
-beszerzés
-kehop 1.6.0
-tárgy
-készlet nehézgépszállító nyerges szerelvény
+version https://git-lfs.github.com/spec/v1
+oid sha256:c97fd150cd0fbfffc9a1c775a3099ca8894b47e7c147ed2fc31dc52faa152b9f
+size 246

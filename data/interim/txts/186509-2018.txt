@@ -1,1 +1,3 @@
-Nyertes ajánlattevő feladata. — az 1. részben tizenöt darab N1 vagy M1 kategóriájú, minimum két fő szállítására alkalmas gépjármű szállítása, — a 2. részben egy darab M1 kategóriájú - öt fő szállítására alkalmas áruszállító - egyterű vagy kisbusz jellegű gépjármű szállítása. A közbeszerzési műszaki leírásban foglaltak szerint.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7649b9f91b0323e9dcd62cc00eb37c3531ae10da0c98357082dda6310532577d
+size 378

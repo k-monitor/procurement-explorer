@@ -1,6 +1,3 @@
-szolgáltatási szerződés a szent lázár megyei kórház siemens egészségügyi berendezés folyamatos üzemképesség a biztosítás
-megrendelő salgótarján
-füleki út
-56. szám alatti telephely üzemelő
-siemens gyártmányú egészségügyi berendezés folyamatos üzemképesség a biztosítás berendezés karbantartás
-hibajavítás és alkatrészellátás
+version https://git-lfs.github.com/spec/v1
+oid sha256:3883e1036129c4d3b037e09c6ec03634c526364fe6f2d2bd54715b1cd2a38c5d
+size 368

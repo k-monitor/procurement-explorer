@@ -1,1 +1,3 @@
-csákvár város közigazgatási terület lévő közintézmény részére közétkeztetési szolgáltatás nyújtás vállalkozási szerződés keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:08b7cf7aec6ed4b4c4a3bae1c14b90a43cbef009d8ec5d182f7804388d6bf862
+size 150

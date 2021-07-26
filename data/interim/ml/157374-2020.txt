@@ -1,29 +1,3 @@
-Digitális	digitális	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-légifényképezés	légifényképezés	NOUN	Case=Nom|Number=Sing	
-tervezése	tervezés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-,	,	PUNCT	_	
-engedélyeztetése	engedélyeztetés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-,	,	PUNCT	_	
-végrehajtása	végrehajtás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-,	,	PUNCT	_	
-az	az	DET	Definite=Def|PronType=Art	
-elkészült	elkészült	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPast	
-felvételek	felvétel	NOUN	Case=Nom|Number=Plur	
-légiháromszögelése	légiháromszögelés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-,	,	PUNCT	_	
-domborzatmodell	domborzatmodell	NOUN	Case=Nom|Number=Sing	
-kiegészítések	kiegészítés	NOUN	Case=Nom|Number=Plur	
-és	és	CONJ	_	
-digitális	digitális	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-ortofotó	ortofotó	NOUN	Case=Nom|Number=Sing	
-előállítása	előállítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-,	,	PUNCT	_	
-fotogrammetriai	fotogrammetriai	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-feladatok	feladat	NOUN	Case=Nom|Number=Plur	
-ellátása	ellátás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-Magyarország	Magyarország	PROPN	Case=Nom|Number=Sing	
-30	30	NUM	Case=Nom|NumType=Card|Number=Sing	
-898	898	NUM	Case=Nom|NumType=Card|Number=Sing	
-km2	km2	NOUN	Case=Nom|Number=Sing	
-területére	terület	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:6a65060cdc9c99f26d94350253e3469024188542f15ad5d9a3750e8d71bdb05c
+size 1520

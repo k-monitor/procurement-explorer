@@ -1,1 +1,3 @@
-Megbízási szerződés keretében közbeszerzési tanácsadás és felelős akkreditált közbeszerzési szaktanácsadói feladatok ellátása.
+version https://git-lfs.github.com/spec/v1
+oid sha256:37811835968b6f18f58499405abd29b3202150d99e843ba67a2f20e3fccac2bc
+size 144

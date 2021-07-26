@@ -1,29 +1,3 @@
-új
-elővárosi kivitelű
-alacsonypadlós
-háromtengelyes csuklós
-m3
-ii
-osztályú
-autóbusz beszerzés mennyiség
-db opció
-db m3 osztályú autóbusz alatt ajánlatkérő a
-1990.
-12.
-köhém rendelet alap mint megengedett nagy össztömegű autóbusz és trolibusz ért
-a járműkategória alábontás alatt
-m3
-ii
-a
-ek i. sz. melléklet rögzített szerint
-ii
-osztály
-a főként ülő utas szállítás kialakított gépjármű
-amely álló utas is szállítható a közlekedőfolyosó
-illetve egy akkora terület
-amely nem halad meg a dupla ülés által elfoglalt hely
-folytatás
-ii
-2.4
-a közbeszerzés ismertetés
-pont
+version https://git-lfs.github.com/spec/v1
+oid sha256:a06cae9135158c56755b1d2ff3ff54543f2bd47b9dd9c7efa83366ba48d71010
+size 626

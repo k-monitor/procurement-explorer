@@ -1,1 +1,3 @@
-„A Tócóvölgy gazdaságélénkítő környezeti megújítása” című projekt keretében megvalósuló Skatepark tervdokumentációjának elkészítése
+version https://git-lfs.github.com/spec/v1
+oid sha256:cad5cb7f59c2eb891ede909bf64dbdb439c307206a0ed36999225b84cce68ecd
+size 158

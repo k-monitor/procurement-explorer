@@ -1,1 +1,3 @@
-Vállalkozási szerződés a „Központi műtő és diagnosztikai blokk kialakítása a Szent Pantaleon Kórházban” című, TIOP-2.2.4-09/1-2010-0024 azonosítószámú projekt kivitelezési munkálatainak elvégzésére.
+version https://git-lfs.github.com/spec/v1
+oid sha256:52f0bfdc5393a9d3d1670442ffe38f17973a9372c7ec5cad3fcd563ecf0159d2
+size 225

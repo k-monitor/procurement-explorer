@@ -1,4 +1,3 @@
-szállítási keretszerződés az országos katasztrófavédelmi főigazgatóság vagyonkezelés
-üzemeltetés
-lévő mercedes benz gyártmányú gépjármű karbantartás
-felújítás és javítás szükséges gyári első beépítésű vagy az az egyenértékű alkatrész beszerzés és szállítás érdek
+version https://git-lfs.github.com/spec/v1
+oid sha256:53f3241c011d7a11a925133a13df655a18adeb58bdbd3b4221f8a267c6ea7a13
+size 309

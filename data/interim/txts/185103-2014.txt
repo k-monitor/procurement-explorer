@@ -1,1 +1,3 @@
-Diákhitel Központ Zrt. kommunikációjához kapcsolódó médiatervezési és médiavásárlási, valamint az ehhez szükséges ügynökségi szolgáltatások ellátása.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4ebb379631b0623b590319de9b6adfd6e71cf017930f3cf4967a0fdf4cb58bcf
+size 172

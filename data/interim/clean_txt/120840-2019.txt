@@ -1,6 +1,3 @@
-top-6
-5-16-vp1-2017-00001 azonosítójú
-északi iparterület közlekedésfejlesztés
-részfeladat foglalt kivitelezés
-a közbeszerzési eljárás feltételes közbeszerzési eljárás a kbt. 53. §
-bekezdés alap
+version https://git-lfs.github.com/spec/v1
+oid sha256:be680d277011d3cc67413ac248674ce60bdc86fbba9c66e2460036ddf1002d4c
+size 214

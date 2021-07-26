@@ -1,1 +1,3 @@
-Átalányáras vállalkozási szerződés keretében "A Zöld város kialakítása Belső-Tarján akcióterületen című TOP-6.3.2-16-SG1-2017-00002 azonosítószámú projekt zöldfelületi rekonstrukció építési munkáinak generál kivitelezése".
+version https://git-lfs.github.com/spec/v1
+oid sha256:0e37daa22dcacb61cdf110b98978a58da665894c04627a0c7d42ccbed086f0e0
+size 253

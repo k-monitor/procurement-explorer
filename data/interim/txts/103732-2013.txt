@@ -1,1 +1,3 @@
-Szállítási keretszerződés alapján élelmiszer alapanyagok beszerzése. A Zala Megyei Intézményfenntartó Központ által fenntartott intézmények részére az élelmiszer-ellátáshoz szükséges I. osztályú minőségi követelményeknek megfelelő élelmiszerek szállítása.
+version https://git-lfs.github.com/spec/v1
+oid sha256:98689b17670b1d68af0104c25868d696dc42cf82ff6ee02811b0b428d44c3836
+size 288

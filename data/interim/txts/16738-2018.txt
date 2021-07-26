@@ -1,1 +1,3 @@
-Vállalkozási szerződés őrzés-védelmi szolgáltatás és portaszolgálatellátására a Budapesti Gazdasági Egyetem Kereskedelmi Vendéglátóipari és Idegenforgalmi Kara (KVIK) és Külkereskedelmi Kara (KKK) tekintetében. Az intézmények össz. alapterülete: 54 134 m2 (I. rész: KVIK: 20 477 m2, II. rész: KKK: 33 657 m2,). Az intézmény oktatási, kollégiumi és ügyviteli funkciókat tölt be. A karakterkorlátozás miatt a közbeszerzési műszaki leírás teljes szövegű kifejtése a közbeszerzési dokumentumokban található.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cd5e80d6b9a44fc55ea1dd9a462b70ce63e3b980174e70cabc8e500fb98bcb88
+size 553

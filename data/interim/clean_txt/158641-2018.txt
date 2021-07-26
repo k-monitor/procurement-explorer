@@ -1,3 +1,3 @@
-átalányáras vállalkozási szerződés keret
-a zöld város kialakítás belső-tar akcióterület című top-6
-2-16-sg1-2017-00002 azonosítószámú projekt zöldfelületi rekonstrukció építési munka generál kivitelezés
+version https://git-lfs.github.com/spec/v1
+oid sha256:43c6edef5b7be42fab8b018e637b527ee537ac5941d4a266bf9020192d343345
+size 230

@@ -1,1 +1,3 @@
-Keretmegállapodás a Turisztikai Marketingkommunikációs Ügynökség Nonprofit Zrt. részére médiaügynökségi és kutatási feladatok ellátására.
+version https://git-lfs.github.com/spec/v1
+oid sha256:77377bf7c0af73324f8256b2047d54eff99ca6a7b17f6d3925ee84cef56f1c4a
+size 155

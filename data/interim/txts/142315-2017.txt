@@ -1,1 +1,3 @@
-Megbízási keretszerződés keretében a 2014-2020 programozási időszakban az EFOP támogatási forrásaiból származó pénzeszközök felhasználásával, a kedvezményezettek által megvalósított közbeszerzési eljárások, illetve szerződésmódosítások ellenőrzését, felügyeletét ellátó irányító hatóság – a mindenkor hatályos jogszabályok alapján fennálló – feladataihoz kapcsolódó és a tevékenységét segítő közbeszerzési jogi minőségbiztosítási szolgáltatások és szakértői tanácsadás.
+version https://git-lfs.github.com/spec/v1
+oid sha256:478f046d869334225f8de8e37cc08c3febf2e4e179b27026a8978cd091472cc9
+size 543

@@ -1,4 +1,3 @@
-a szerződés cél
-az országos onkológiai intézet tűz
-munka
-és vagyonvédelmi tevékenység teljeskörű biztosítás vállalkozási szerződés keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:1e1c71ffe48b3c164735faa6337e692a9a4a6b735151609fb9e4b02b8816354e
+size 155

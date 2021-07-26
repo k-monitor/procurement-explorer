@@ -1,1 +1,3 @@
-Szelektíven gyűjtött csomagolási hulladékok válogatása vállalkozási szerződés keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6aff1d52f3df3c850d6ce7ba7f6d6f553d22284bbdabe7aac7250df446192685
+size 100

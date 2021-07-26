@@ -1,1 +1,3 @@
-Adásvételi szerződés 1 db egysejt tömeg citométer beszerzése, beállítása, beüzemelése és 5 fő kezelőszemélyzet betanítása tárgyban.
+version https://git-lfs.github.com/spec/v1
+oid sha256:44911304b92f73166683f55a903c55e9ee8dd4506bf25bc92a17c0f74025ad7d
+size 150

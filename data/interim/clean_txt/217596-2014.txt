@@ -1,3 +1,3 @@
-vállalkozási szerződés
-mosonmagyaróvár oktatási intézmény és óvoda részére takarítási és portaszolgálati tevékenység ellátás
-hónap időtartam
+version https://git-lfs.github.com/spec/v1
+oid sha256:e3a6b7d354b70407db0482c97af30e254dd8498178d7ed88ee264bdde7f7ecbe
+size 163

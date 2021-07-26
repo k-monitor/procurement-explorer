@@ -1,2 +1,3 @@
-eszközbeszerzés konszolidációs támogatás keret a pécsi tudományegyetem részére
-ajánlati rész a közbeszerzési dokumentum meghatározott szerint
+version https://git-lfs.github.com/spec/v1
+oid sha256:6ca5579e9f302edc7ba11d34ea575bb169fbcad31f258a68ad62f3ca3838b137
+size 156

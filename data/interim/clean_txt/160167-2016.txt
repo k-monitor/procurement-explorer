@@ -1,6 +1,3 @@
-magyar honvédség
-a további
-mh
-nagykonyha keletkező ételhulladék elszállítás és ártalmatlanítás
-2017. év nettó huf keretösszeg
-2018. év nettó huf keretösszeg
+version https://git-lfs.github.com/spec/v1
+oid sha256:bdf573d4f995e11f36db5289f18f9aa82883e5cf07ff6b9dbab1aa0beb09bf0b
+size 175

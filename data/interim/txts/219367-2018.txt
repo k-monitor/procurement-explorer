@@ -1,1 +1,3 @@
-„Hulladékgyűjtéshez és szállításhoz használt járművek valamint személygépkocsik javítása és szerviz szolgáltatás biztosítása a Zöld Híd B.I.G.G. Nkft. részére 12 hónapos időtartamban". 1. rész: Hulladékszállító járművek alvázainak, valamint billenőplatós, dobozos autók szervizelése és javítása, műszaki vizsgáztatása 2. rész: Tömörítős hulladékszállító járművek felépítményeinek javítása 3. rész: Hulladékszállító járművek hidraulikus rendszerének és konténeres (multiliftes és láncos) hulladékszállító járművek felépítményeinek javítása 4. rész: Személyautók szervizelése és javítása, hatósági vizsgáztatása
+version https://git-lfs.github.com/spec/v1
+oid sha256:0ed16ff1c808372283b65651ef6d2bb1c3234e305608556ff96c4c65c6746cdc
+size 704

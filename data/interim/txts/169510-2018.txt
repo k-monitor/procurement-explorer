@@ -1,1 +1,3 @@
-Vállalkozási keretszerződés keretében „Pedagógiai szükséglet szerinti fejlesztéshez szakértői és ahhoz kapcsolódó szolgáltatások beszerzése az Oktatási Hivatal EFOP-3.1.3-16-2016-00001 azonosítószámú kiemelt projektje keretében - 2 részben.
+version https://git-lfs.github.com/spec/v1
+oid sha256:24a760183a4896a3e474186e4354e22c8d432f96135142310b5b673c24d801d7
+size 266

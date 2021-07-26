@@ -1,1 +1,3 @@
-TOP-6.1.5-16-VP1-2017-00001 azonosító számú, „Északi iparterület közlekedésfejlesztése” elnevezésű projekt keretében a „Kelet-nyugati közlekedési főtengely – I. szakasz (Pápai út – Kistó utca közötti szakasz) kialakítása”, kivitelezési munkái.
+version https://git-lfs.github.com/spec/v1
+oid sha256:034ca21cdfb009222d9cf707500e070d626e60158f5f9100ea04ab85a7befdfa
+size 279

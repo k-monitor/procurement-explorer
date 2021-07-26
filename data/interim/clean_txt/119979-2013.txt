@@ -1,10 +1,3 @@
-aferezis szerelék beszerzés a semmelweis egyetem i. sz. belgyógyászati klinika részére
-1. rész
-aferezis szerelék
-szett
-beszerzés com
-tec típusú aferezis készülék
-2. rész
-aferezis szerelék
-szett
-beszerzés spectra típusú aferezis készülék
+version https://git-lfs.github.com/spec/v1
+oid sha256:019177e4095c4f3fe965bf14b13de24302b0898418546ccb6045ded69d203f45
+size 258

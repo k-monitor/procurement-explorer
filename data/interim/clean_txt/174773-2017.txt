@@ -1,4 +1,3 @@
-mórahalom város közigazgatási terület közszolgáltatási szerződés keret a települési szilárd hulladék rendszeres begyűjtés
-elszállítás
-kezelés
-közszolgáltatási feladat ellátás kapcsolódó létesítmény üzemeltetés
+version https://git-lfs.github.com/spec/v1
+oid sha256:84d75e27ebddb35d293370e834e76e2ecc62a7f167991e1798aabbeb5623f5eb
+size 241

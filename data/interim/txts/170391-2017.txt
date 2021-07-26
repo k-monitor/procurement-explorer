@@ -1,1 +1,3 @@
-A Budapesti Corvinus Egyetem budapesti 2db oktatási létesítményeiben őrzés-védelmi és portaszolgálati feladatok ellátása a dokumentáció III. Műszaki leírás fejezetében foglaltak szerint. Terület: 36 792 m². Ajánlattevő=AT. Ajánlatkérő=AK. Közbesz. tárgya (őrzés-védelmi és portaszolg-i feladatok ellátása)=Kt. 2015. évi CXLIII. törvény= Kbt. 321/2015.(X.30.)Korm.rendelet=KR.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9466a67be9dfab288e3aeeab7a12bdeeceae95989938c6367ab608ee6554ab52
+size 410

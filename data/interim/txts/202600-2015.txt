@@ -1,1 +1,3 @@
-Adásvételi szerződés keretében gyógyászati célú filterek, szerelékek, műanyag katéterek, szondák beszerzése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b589b0825c3c947eba7c9d052d7ec3808f39e077af912690aa90fb1e7c63673a
+size 122

@@ -1,6 +1,3 @@
-Számlavezetés	számlavezetés	NOUN	Case=Nom|Number=Sing	
-és	és	CONJ	_	
-folyószámlahitel	folyószámlahitel	NOUN	Case=Nom|Number=Sing	
-biztosítása	biztosítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:ad516efb9ccae1cd72ed8b18d0f903192a18ba8cf3df4ee1029403fd25da63fe
+size 241

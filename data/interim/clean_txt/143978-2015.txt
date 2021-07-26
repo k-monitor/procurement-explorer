@@ -1,6 +1,3 @@
-keretmegállapodás a
-2014.
-x. 1.
-korm
-rendelet hatály alá tartozó szervezet számára kommunikációs feladat kapcsolódó szolgáltatás ellátás központosított közbeszerzés keret a huf keretösszeg kimerülés
-de későn a keretmegállapodás aláírás számított hónapos határozott időtartam
+version https://git-lfs.github.com/spec/v1
+oid sha256:501ad02f53534f8dca42d5f19ded4cdd6fdae8755c4e843f07e72e69fa251506
+size 308

@@ -1,7 +1,3 @@
-neurointervenciós digitális subtrakciós angiográfiás
-neurodsa
-rendszer beszerzés
-amely maga foglal az eszköz szállítás
-üzem helyezés a helyiség az eszköz beszerelés és működés helyezés szükséges kialakítás
-az oiti-ben jelenleg használt informatikai rendszer való illesztés és a rendszer használat betanítás max
-fő részére a kapcsolódó valamennyi járulékos munka elvégzés szállítási szerződés keret között
+version https://git-lfs.github.com/spec/v1
+oid sha256:2cb2eaba1852b66272bdbdfc24fc3a2b33f73e3f25b826bb3a14976b022b2540
+size 451

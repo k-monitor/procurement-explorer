@@ -1,5 +1,3 @@
-tervezési szerződés
-471. sz. főút hajdúsámson
-nyíradony közötti szakasz tervezett burkolaterősítés megvalósítás szükséges tervezői feladat elvégzés
-k471
-tárgy
+version https://git-lfs.github.com/spec/v1
+oid sha256:8c2535f9fa4377c23ef1593c24be0e35ce793234b8cb928d5ef90363865730c7
+size 180

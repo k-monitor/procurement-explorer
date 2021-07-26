@@ -1,10 +1,3 @@
-Adásvételi	adásvételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-hús	hús	NOUN	Case=Nom|Number=Sing	
-és	és	CONJ	_	
-húskészítmények	húskészítmény	NOUN	Case=Nom|Number=Plur	
-élelmiszer	élelmiszer	NOUN	Case=Nom|Number=Sing	
-alapanyag	alapanyag	NOUN	Case=Nom|Number=Sing	
-beszerzésére	beszerzés	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:33079597a8883ce2ae47cbce1d7c859cdbd51050e8cc1ba719aeda5a0e3bb238
+size 430

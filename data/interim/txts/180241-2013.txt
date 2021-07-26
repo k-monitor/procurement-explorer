@@ -1,1 +1,3 @@
-Vállalkozási szerződés az MNB automata értéktári rendszer elemeinek teljes körű műszaki karbantartási feladataira és műszaki segítségnyújtási munkálatainak ellátására, valamint teljes körű javítási feladataira és alkatrész biztosítására.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3032eb810112f1edb31e6623f91570191805fc657d6bfe1254d30fcd1084b4a7
+size 267

@@ -1,1 +1,3 @@
-keretmegállapodás tételes elszámolás alá eső aflibercept hatóanyag beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:a6fa3949a9991560d9de5c338b5c2a5b4e897ab88543e8deb12142805068a1fc
+size 85

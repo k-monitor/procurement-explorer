@@ -1,1 +1,3 @@
-Vállalkozási keretszerződés rendezvényszervezési szolgáltatások (hallgatói rendezvények) beszerzésére a Budapesti Gazdasági Főiskola részére.
+version https://git-lfs.github.com/spec/v1
+oid sha256:45c338cdca9c3960302a521d7ababf9b6e566be081ba1677505e04202f272ca4
+size 157

@@ -1,4 +1,3 @@
-eszközbeszerzés a
-civilizásciós zavar idegtudományi
-pszichológiai és örökletes háttér
-diagnózis a problémakezelés
+version https://git-lfs.github.com/spec/v1
+oid sha256:06159efc21a57864496b288fda5d1e2845c9152e5893949ee8c2edccd94304e2
+size 127

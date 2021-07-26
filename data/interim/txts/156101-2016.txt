@@ -1,1 +1,3 @@
-Földgáz vásárlási szerződés 5 fogyasztási helyen, legfeljebb 1 500 000 gnm³ földgáz fűtési célú felhasználásra történő beszerzésére az Országgyűlés Hivatala részére. Ajánlatkérő a meghatározott legmagasabb értéktől való eltérést az időjárás és a rendezvények kiszámíthatatlanságára tekintettel – 50 %-ban írja elő. A földgáz vásárlási szerződés a földgázellátásról szóló 2008. évi XL. törvényben, végrehajtási rendeleteiben és az egyéb vonatkozó jogszabályokban foglaltak figyelembevételével kerül megkötésre.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8a651dff1208444346ccd578cc71264a7425479270afc7230ff4f307afef8aea
+size 587

@@ -1,1 +1,3 @@
-EFOP-1.9.1-VEKOP-15-2016-00001 azonosítószámú „TÁRS PROJEKT - Szociális intézményi férőhely kiváltási szakmai koordinációs műhely kialakítása” című kiemelt projekt keretében intézményi férőhely kiváltási folyamat nyomon követő értékelése, kutatás, mérés-értékelés, hatékonyság- és hatásvizsgálat az alábbi részajánlati körben: 1. rész: Vállalkozási szerződés a kitagolással kapcsolatos társadalmi attitűdök és azok változásának mérése tárgyában 2. rész: Vállalkozási szerződés a lakók életminőségének változása - kontrollcsoportos mérések tárgyában
+version https://git-lfs.github.com/spec/v1
+oid sha256:e98c3da01005044357b0c8cdc70fa3e6f88c86515b8ae38720060e9f1890e165
+size 631

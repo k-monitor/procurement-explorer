@@ -1,4 +1,3 @@
-általános felhasználású villamos energia beszerzés a 2019.01.01
-cet
-2020.12.31
-cet közötti időszak teljes ellátás alapú villamosenergia-kereskedelmi szerződés keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:53a62cf503730da8fd74b8b0f0e9092e5e83e0499b8915a2c2d7723b28dd48db
+size 178

@@ -1,1 +1,3 @@
-Három évi határozott időtartamra kötött vállalkozási keretszerződés alapján, a Magyar Közút Nonprofit Zrt. bicskei, lébényi, gödöllői, káli, emődi, hajdúnánási, hajdúböszörményi, makói, balatonvilágosi, fonyódi és eszteregnyei mérnökségei által üzemeltetett egyes pihenőhelyek, ill. egyes mérnökségi telephelyek szennyvízének elszállítása, a bicskei, lébényi mérnökség által üzemeltetett egyes pihenőhelyek szennyvízcsatornáinak tisztítása, dugulás elhárítása.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a9abaa7732ec2c3f2a4220bb8e527a9fc80e80eddf939d95801fb4a683a63556
+size 521

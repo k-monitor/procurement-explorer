@@ -1,22 +1,3 @@
-az mnb statisztikai és felügyeleti adatszolgáltatás befogadás biztosító rendszer
-stefi
-üzemeltetetési
-és szoftverfejlesztési támogatás
-1. üzemeltetés támogatás
-hibakeresés-hibajavítás
-teljesítményoptimalizálás
-archiválás támogatás
-mentés-visszatöltés támogatás
-a nyertes ajánlattevő havi rendelkezés állás
-és ez rész havi embernap szakértői támogatás biztosít
-ez meghaladó a fejlesztői keret teher hívható le opcionális erőforrás
-2. szoftverfejlesztési támogatás
-nyertes ajánlattevő fejlesztői erőforrás biztosít a rendszer összefüggő szoftver és architektúra tervezési
-szoftverfejlesztési és szoftvertesztelési feladat elvégzés
-végrehajtás
-ajánlattevő felelősségi kör tartozik minden informatikai szakmai feladat ellátás a felmérés
-a tervezés
-fejlesztés át az üzem helyezés és migráció helyszíni támogatás is beleértve
-mennyiség embernap keret
-mely felhasználás opcionálisan
-eseti lehívás alap történik
+version https://git-lfs.github.com/spec/v1
+oid sha256:b8a2b4fcd5c0adc9b33dab1f5135a168ec3251c8994e7e9908d18a3472519c69
+size 1006

@@ -1,1 +1,3 @@
-Vállalkozási szerződés a NAV Budapest és Pest megye területén lévő gépjárműveinek javítása és karbantartása tárgyában
+version https://git-lfs.github.com/spec/v1
+oid sha256:6fa9681247b88a301feca9f9c005fe63e0e5cbfe426d53748db2f0af685b68d2
+size 135

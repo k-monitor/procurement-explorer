@@ -1,1 +1,3 @@
-Takarítási feladatok ellátása az OBH részére, két épületben.
+version https://git-lfs.github.com/spec/v1
+oid sha256:90d72b4700756ff5f86fdda19b3ecd229f6def5b3f27d5ee4cb6cde185e6576f
+size 69

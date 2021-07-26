@@ -1,7 +1,3 @@
-ii
-1.5
-a szerződés vagy a beszerzés
-e
-rövid meghatározás
-emc vnx tároló fejlesztés és tároló kapacitás bővítés
-db tároló rendszer fejlesztés és kapacitás bővítés a műszaki leírás foglalt szerint
+version https://git-lfs.github.com/spec/v1
+oid sha256:371d884ca9b29d6386fdaa688495ef2656426a62047871bdc3c67a5732852fc3
+size 221

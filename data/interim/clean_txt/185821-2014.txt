@@ -1,10 +1,3 @@
-kivitelezési szerződés
-építési beruházás
-fidic piros könyv
-struktúraváltás a éves tapolcai deák jenő kórház
-a tiop-2
-1b-2013-0018 kódszámú úszt pályázat keret a deák jenő kórház terület
-meglévő kórház épület mai igény
-szakmai elvárás megfelelő fejlesztés
-átalakítás és bővítés
-energetikai korszerűsítés
+version https://git-lfs.github.com/spec/v1
+oid sha256:40ca3d37f865512697c00907ff1769f4b1ce2ced2aac09000bb4b12f14456137
+size 351

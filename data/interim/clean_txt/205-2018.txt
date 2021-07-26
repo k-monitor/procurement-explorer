@@ -1,7 +1,3 @@
-adásvételi szerződés keret ajánlatkérő az intézmény részére füsz áru
-szárazáru
-konzerv
-fűszer
-kényelmi termék
-mirelittermék hónap kecskemét
-kiskunfélegyháza és kalocsa telephely kíván megvásárol
+version https://git-lfs.github.com/spec/v1
+oid sha256:7d614623946118da463dc0e8d42b71e506644b4ed298d260430c1a333012d7a4
+size 222

@@ -1,1 +1,3 @@
-Vezetékes földgáz beszerzése teljes ellátás alapú földgáz adás-vételi szerződés keretében 1.7.2016. CET 6:00–1.10.2017. CET 6:00 közötti időszakra.
+version https://git-lfs.github.com/spec/v1
+oid sha256:59a05adc6dc7238af5afa4f13ccb0176e43835b139a81c1cc75ca5ccb2692768
+size 166

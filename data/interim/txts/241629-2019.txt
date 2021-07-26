@@ -1,1 +1,3 @@
-Adásvételi szerződés a KEHOP-4.2.0-15-2016-00006 azonosító jelű pályázati felhívás alapján a területi jelenlét és természetvédelmi őrzés hatékonyságának javítása a Hortobágyi Nemzeti Park igazgatóság természetvédelmi őrszolgálatának komplex fejlesztésével kapcsolatosan áruszállító terepjáró haszongépjárművek, illetve személyszállító könnyű terepgépjárművek beszerzésére
+version https://git-lfs.github.com/spec/v1
+oid sha256:f7643449fbc323f6a1a2f3fe1f6c65414fd8c64a12ed1d26e186f46210bc994a
+size 425

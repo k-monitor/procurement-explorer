@@ -1,25 +1,3 @@
-magyarország közigazgatási terület keletkező ipari-kereskedelmi fa csomagolási hul-lad gyűjtés és anyag történő hasznosítás
-kezelési kód
-r3
-kivéve
-r12 és r13 kód
-szolgáltatás-megrendelési szerződés keret a ii
-2.4
-pont és közbeszerzési dokumentum
-kd
-foglalt szerint
-a környezetvédelmi termékdíj szóló 2011. évi
-törvény 22. §
-bekezdés alap
-az alábbi részajánlattételi kör
-rész
-fa csomagolási hulladék gyűjtés és anyag történő hasznosítás
-ré-sz
-tonna mennyiség
-rész
-fa csomagolási hulladék gyűjtés és anyag történő hasznosítás
-ré-sz
-tonna mennyiség
-rész
-fa csomagolási hulladék gyűjtés és anyag történő hasznosítás
-rész
+version https://git-lfs.github.com/spec/v1
+oid sha256:9735d10c43f6f52b037d0cfbce764d4fde5306b8a8b32a083ac1e1ec91999faa
+size 697

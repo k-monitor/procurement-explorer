@@ -1,2 +1,3 @@
-sport eszköz beszerzés
-installálás a magyar asztalitenisz szövetség részére
+version https://git-lfs.github.com/spec/v1
+oid sha256:398d81d1ce47040e8d54cfec824595627264f8dc822781b60e19bf7465c9414a
+size 83

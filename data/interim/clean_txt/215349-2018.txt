@@ -1,5 +1,3 @@
-navigált transzkraniális mágneses agyi stimulációs rendszer
-ntms
-idegsebészeti navigáció beszerzés a pécsi tudományegyetem részére az efop-3
-2-16-2017-00008 jelű pályázat keret belül
-a közbeszerzési dokumentáció részletezett szerint
+version https://git-lfs.github.com/spec/v1
+oid sha256:cb50293b511d11ffe823ac2fd0325d4315c557568f383f26dffe4bcdcb709c4d
+size 254

@@ -1,1 +1,3 @@
-A „Szabadszállás város csatornázásának és szennyvíztisztításának megvalósítása” KEOP-1.2.0/2F/09-2010-0081 pályázat önrészének biztosításához beruházási hitel nyújtására vonatkozó hitelszerződés.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1de77e6215a7ea822cbf9d4bf6ab5fbef8f2c6f0c5e2e8c84ab33ad6556f59c3
+size 229

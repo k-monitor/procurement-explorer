@@ -1,1 +1,3 @@
-„A Magyar Nemzeti Levéltár Somogy Megyei Levéltár költöztetése (II. ütem), kapcsolódó feladatok ellátása, valamint tömör raktár kialakításához mobil-gördíthető polc rendszer beszerzése és beépítése” a közbeszerzési dokumentumban részletezett specifikáció alapján, két részajánlatra bontva: I. rész: Magyar Nemzeti Levéltár Somogy Megyei Levéltár C épületbe tömör raktár kialakításához mobil-gördíthető polcrendszer beszerzése és beépítése; II. rész: Magyar Nemzeti Levéltár Somogy Megyei Levéltár költöztetése (II. ütem), kapcsolódó feladatok ellátása.
+version https://git-lfs.github.com/spec/v1
+oid sha256:48c8f8c1560f0a13855c98f9cf3778b370e1d3c36d566260b48d15df6aae304e
+size 625

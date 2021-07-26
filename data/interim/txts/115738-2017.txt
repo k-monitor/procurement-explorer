@@ -1,1 +1,3 @@
-Adásvételi szerződés / ABV felderítő és azonosító műszer – HAPSITE ER hordozható vegyi azonosító műszer beszerzése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5543bc02d56e335cc5671ed225a7941b00e0f8f87384b5a783829a16dd003b17
+size 132

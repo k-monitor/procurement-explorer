@@ -1,1 +1,3 @@
-„Nemzeti Kézilabda Akadémia – Szállás és kiszolgáló épületek átalakítása, felújítása és új portaépület építése” vállalkozási szerződés keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:854f6282c40ec2342f0165701168f7d22579d0042c1973ad2bf5a212a09f8180
+size 178

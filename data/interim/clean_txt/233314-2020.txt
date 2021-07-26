@@ -1,12 +1,3 @@
-földgáz adásvételi szerződés keret az ajánlatkérő részére a magyar földgáz hálózat folyamatos rendelkezés álló
-szabványos minőségű földgáz energia versenypiaci beszerzés a szerződéses időszak
-2020.10.1
-óra
-2021.10.1
-óra
-vonatkozó összesen kwh mennyiség
-mely opciós mennyiség növekedik
-kwh
-az 1. 1. pont meghatározott ajánlatkérő külön-külön köt szerződés
-az egyes ajánlatkérő a saját mennyiség vonatkozás köt szerződés
-az ajánlatkérőnként megbontott mennyiség a közbeszerzési dokumentum melléklet képező szerződéstervezet tartalmaz
+version https://git-lfs.github.com/spec/v1
+oid sha256:fa617087209e29f2850c798fcede670a73dfc5526f7c467dc335abea63828853
+size 599

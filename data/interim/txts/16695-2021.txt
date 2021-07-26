@@ -1,1 +1,3 @@
-Adásvételi szerződés terepjáró teherautók (pick up) beszerzésére LIFE17 és LIFE18 projektek keretein belül (1-2. rész) Ajánlatkérő összesen 4 db terepjáró teherautót (pick up) kíván beszerezni 2 db ajánlati részben LIFE17 és LIFE18 pályázatok terhére az alábbi bontás szerint: — zárt, tolóablakos rakodóterű terepjáró teherautó (pick up): 1 db — zárt rakodóterű terepjáró teherautó (pick up): 1 db — zárt rakodóterű, vonóhoroggal ellátott terepjáró teherautó (pick up): 2 db Részletes műszaki leírás és teljesítési feltételek a közbeszerzési dokumentációban.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7bc46fe355494d6946a8e4ebab52d320a4f22ced52a5af5222545133f6e2be8d
+size 626

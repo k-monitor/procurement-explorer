@@ -1,21 +1,3 @@
-villamosenergia beszerzés a
-2022. év a közép-budai tankerületi központ által fenntartott intézmény részére
-az eljárás tárgy a magyar villamos energia rendszer keresztül folyamatos rendelkezés álló
-a felhasználási hely csatlakozási jellemző megfelelő
-az msz szerinti minőségű villamos energia beszerzés
-kereskedelmi jogviszony való megvásárlás
-2020.7.1
-cet
-2022.12.31
-cet
-közötti időszak vonatkozó
-menetrend adási kötelezettség nélküli teljes ellátásalapú villamos energia adás-vételi beszerzés keret
-ajánlatkérő 2020.7.1
-cet
-2022.12.31
-cet
-közötti időszak vonatkozó villamos-energia szükséglet biztosító villamos-energia beszerzés összesen kwh
-minimális villamos energia mennyiség
-kwh
-opció mennyiség
-a közbeszerzés tárgy vonatkozó pontos követelmény az ajánlati dokumentáció műszaki leírás tartalmaz
+version https://git-lfs.github.com/spec/v1
+oid sha256:bfca6226c11eefd68ad7522c0936db4a00dda6467092273fa67df5dc30366d0a
+size 875

@@ -1,1 +1,3 @@
-Fővállalkozási szerződés/ MTA Természettudományi Kutatóközpont beruházás belső építészeti, komfort gépészeti, technológiai gépészeti, erős és gyengeáram ellátási, külsőközmű, kert, tereprendezési, útépítési és térvilágítási kivitelezési munkái.
+version https://git-lfs.github.com/spec/v1
+oid sha256:123779d2c1dbf1ef5da446f39e9b941224d3d9f2481c10de7072c8119a9006fb
+size 285

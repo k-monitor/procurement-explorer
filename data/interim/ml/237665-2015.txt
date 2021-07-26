@@ -1,18 +1,3 @@
-Határozott	határozott	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-idejű	idejű	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-folyószámlahitel	folyószámlahitel	NOUN	Case=Nom|Number=Sing	
--	-	PUNCT	_	
-és	és	CONJ	_	
-bankszámlaszerződés	bankszámlaszerződés	NOUN	Case=Nom|Number=Sing	
-,	,	PUNCT	_	
-Folyószámla-hitelkeret	Folyószámla-hitelkeret	NOUN	Case=Nom|Number=Sing	
-és	és	CONJ	_	
-számlavezetés	számlavezetés	NOUN	Case=Nom|Number=Sing	
-biztosítása	biztosítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-a	a	DET	Definite=Def|PronType=Art	
-DMRV	DMRV	PROPN	Case=Nom|Number=Sing	
-Zrt.	Zrt.	PROPN	Case=Nom|Number=Sing	
-részére	részére	ADP	_	
-tárgyban	tárgy	NOUN	Case=Ine|Number=Sing	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:0c0e46e3ecb316bbbf99d68b4adc66ad733d1729a2ebefc22c16558018e938bf
+size 727

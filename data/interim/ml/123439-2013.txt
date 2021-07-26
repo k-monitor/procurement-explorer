@@ -1,31 +1,3 @@
-Vállalkozási	Vállalkozási	PROPN	Case=Nom|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-a	a	DET	Definite=Def|PronType=Art	
-33.	33.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
-sz.	sz.	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-főút	főút	NOUN	Case=Nom|Number=Sing	
-Heves	Heves	PROPN	Case=Nom|Number=Sing	
-és	és	CONJ	_	
-Jász	jász	NOUN	Case=Nom|Number=Sing	
--	-	PUNCT	_	
-Nagykun	nagykun	NOUN	Case=Nom|Number=Sing	
--	-	PUNCT	_	
-Szolnok	Szolnok	PROPN	Case=Nom|Number=Sing	
-megyei	megyei	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szakasz	szakasz	NOUN	Case=Nom|Number=Sing	
-11,5	11,5	NUM	Case=Nom|NumType=Frac|Number=Sing	
-tonna	tonna	NOUN	Case=Nom|Number=Sing	
-burkolaterősítés	burkolaterősítés	NOUN	Case=Nom|Number=Sing	
-(	(	PUNCT	_	
-0+000-37+780	0+000-37+780	PROPN	Case=Nom|Number=Sing	
-km	km	NOUN	Case=Nom|Number=Sing	
-.	.	PUNCT	_	
-sz.	sz.	NOUN	Case=Nom|Number=Sing	
-között	között	ADP	_	
-)	)	PUNCT	_	
-kivitelezési	kivitelezési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-munkáinak	munka	NOUN	Case=Gen|Number=Plur|Number[psor]=Sing|Person[psor]=3	
-elvégzése	elvégzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-tárgyában	tárgy	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:7fd152f49b1107c5dc95026f4495f5cb4fd793bb216cac3c5295c4162e7350da
+size 1237

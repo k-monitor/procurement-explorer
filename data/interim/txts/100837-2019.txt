@@ -1,1 +1,3 @@
-A Ferencvárosi Torna Club életmód magazinjának a Zöld és Fehér Magazin kiadói, szerkesztő feladatai, grafikai és nyomdai munkálatai, valamint az elkészült lapszámok terjesztői feladatainak (csomagolás, szállítás) ellátása.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5ff40062fb48f517035d40c697a3c36ad541dc48be8844a09deeb127e8f05c7b
+size 243

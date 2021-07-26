@@ -1,9 +1,3 @@
-egységes tulajdoni nyilvántartás és üzemeltetés támogató szoftver fejlesztés
-illetve hónapos szoftverkarbantartás és support biztosítás a támop-6
-5-b-13
-1-2014-0001 azonosító számú
-szervezeti hatékonyság fejlesztés az egészségügyi ellátórendszer
-területi együttműködés kialakítás
-c
-kiemelt projekt keret
-vállalkozási szerződés
+version https://git-lfs.github.com/spec/v1
+oid sha256:1a6da4a8d85a6b40294f6dadf4d915ac95e4c94a1c584ef4d075d896e6039da1
+size 364

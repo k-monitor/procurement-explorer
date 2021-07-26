@@ -1,5 +1,3 @@
-karbantartási szerződés pet
-ct berendezés teljes körű karbantartás
-pet
-mr berendezés karbantartás és hibajavítás
-a berendezés folyamatos üzemképesség biztosítás vonatkozó
+version https://git-lfs.github.com/spec/v1
+oid sha256:4e564f57adae0a1aa90903d2f46a61459033d3ba68fa9573e3f3db9dc3ffb336
+size 189

@@ -1,1 +1,3 @@
-Magyarország közigazgatási területén keletkező termékként tovább nem használható kombinált gyűjtésű elektronikai berendezések hulladékainak (EWC 200136, EWC 160214, EWC 200135*, EWC 160213*, EWC 160216) gyűjtése, szállítása, előkezelése és 2014. évi további kezelésre történő átadása (I.).
+version https://git-lfs.github.com/spec/v1
+oid sha256:c961362ec1fc95660857b1a4be6f175febac43deeb46282378a2bd51e0ad4f17
+size 322

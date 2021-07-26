@@ -1,1 +1,3 @@
-„Városi Szociális Szolgálat Süveg utcai telephelyének infrastrukturális fejlesztéséhez kapcsolódó tervezési feladatok ellátása”.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8c6097cceb7cf20cc98f70c17c8f7986f54eb8d161734992d561b075ebde9d25
+size 145

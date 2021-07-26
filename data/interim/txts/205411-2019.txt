@@ -1,1 +1,3 @@
-Szállítási szerződés keretében fertőtlenítőszerek beszerzése az alábbi részajánlatok szerint: I. rész: Tisztító hatású tárgy és felületfertőtlenítő I. II. rész: Tisztító hatású tárgy és felületfertőtlenítő II. III rész: Tisztító hatású tárgy és felületfertőtlenítő erős zsíroldó hatással IV rész: Speciális fertőtlenítőszer V rész: Na-hipoklorit VI rész: Gépi endoszkóp fertőtlenítőszer, fertőtlenítőszer aktivátor és tisztítószer VII rész: Gépi endoszkóp fertőtlenítőszer és tisztítószer 1. VIII rész: Gépi endoszkóp fertőtlenítőszer és tisztítószer 2. IX. Gépi eszköz tisztítószer és öblítőszer X. Manuális műszer-eszközfertőtlenítő tisztítószer (nem folyékony) XI. Folyékony manuális műszer-eszközfertőtlenítő tisztítószer
+version https://git-lfs.github.com/spec/v1
+oid sha256:e676ee22fd91a24a183bce2bc33bc955995a48d89c6af949f88d091fd5d11408
+size 838

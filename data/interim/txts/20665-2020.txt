@@ -1,1 +1,3 @@
-A Budapesti Szent Ferenc Kórház meglévő épületének felújítása, korszerűsítése 2. rész vállalkozási szerződés keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d7ff37ac7ecee1b89a36fb2e04fca908ff873327eec2a702a7e89c5ca3ebb1c1
+size 138

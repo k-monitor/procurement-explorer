@@ -1,1 +1,3 @@
-Vállalkozási szerződés - Közreműködő Szervezet által kezelt pályázatok szakmai értékelésének minőségbiztosítása tárgyában.
+version https://git-lfs.github.com/spec/v1
+oid sha256:eed3c3bd5590d7ae89663eab45030c54258bb3710c719d5ed108cce67945aa1b
+size 143

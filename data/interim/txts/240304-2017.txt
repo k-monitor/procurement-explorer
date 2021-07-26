@@ -1,1 +1,3 @@
-Tervezési szerződés Esztergom – M1 autópálya közúti kapcsolat fejlesztése – megvalósíthatósági tanulmány, KHT, valamint engedélyezési és kiviteli terv elkészítése (K001.09) tárgyában.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0c6bc7672af2996bb91ffd7ca1d15c1737af9ae26895d859df326d111ea54bc4
+size 208

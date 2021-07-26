@@ -1,16 +1,3 @@
-„	„	PUNCT	_	
-Gázenergia-beszerzés	Gázenergia-beszerzés	NOUN	Case=Nom|Number=Sing	
-a	a	DET	Definite=Def|PronType=Art	
-Belváros-Lipótváros	Belváros-lipótváros	NOUN	Case=Nom|Number=Sing	
-Budapest	Budapest	PROPN	Case=Nom|Number=Sing	
-Főváros	főváros	NOUN	Case=Nom|Number=Sing	
-V.	5.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
-kerületi	kerületi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-Önkormányzat	Önkormányzat	PROPN	Case=Nom|Number=Sing	
-részére	részére	ADP	_	
-2018-2019	2018-2019	NUM	Case=Nom|NumType=Card|Number=Sing	
-.	.	PUNCT	_	
-
-"	"	PUNCT	_	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:78da141dcf12801eb0948ee919ab88c9879b0408fdad7168323e1dac9a2be8b6
+size 577

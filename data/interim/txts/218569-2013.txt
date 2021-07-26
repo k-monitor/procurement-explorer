@@ -1,1 +1,3 @@
-Megbízási szerződés az 55. sz. főút Mórahalom elkerülő szakasz kivitelezéséhez kapcsolódó lebonyolító mérnöki munkák elvégzése tárgyában (K055.09)
+version https://git-lfs.github.com/spec/v1
+oid sha256:b1d909fdce6170ccfae2b2dd502787a05606db43e373b995cd3f7ebe63b8215f
+size 168

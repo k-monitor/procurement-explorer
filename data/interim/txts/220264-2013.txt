@@ -1,1 +1,3 @@
-Felszín alatti víz, illetve földtani közeg szennyezettségének tényfeltárásáról, környezetvédelmi felülvizsgálat végzéséről, valamint vízjogi engedélyezési tervdokumentációk készítéséről szóló vállalkozási keretszerződés az ajánlatkérő által kijelölt három részterületen, soron kívül elrendelt vagy szükségessé váló környezetvédelmi, vízügyi és vízvédelmi részfeladatok teljesítésére.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2ab1ed2920b2b759b8b626bad09713d91d0a72566958c2eba883131ae2aa31a5
+size 444

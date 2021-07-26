@@ -1,5 +1,3 @@
-különböző betontípus beszerzés útépítési betonalap
-valamint bazaltbeton burkolatú buszmegálló kivitelezési munka végrehajtás
-a nagyfelületű útburkolat-helyreállítási munka kivitelezés
-illetve a közszolgáltató szerződés belüli fenntartási
-karbantartási és felújítási munka elvégzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:8b75eee07637f5781be0dfe02e3fa2c08d7945893b15e885bb81c578590d6a04
+size 317

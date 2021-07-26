@@ -1,1 +1,3 @@
-Tervezési szerződés a KÖZOP-5.5.0-09-11-2014-0003 azonosító számú „Intermodális közösségi közlekedési csomópont kialakítása Győrött – tervezés, engedélyeztetés” tárgyú projekthez kapcsolódó építési engedélyes- és kiviteli tervdokumentáció elkészítésére vonatkozóan.
+version https://git-lfs.github.com/spec/v1
+oid sha256:156a703afa7bed4b2ad8a6546c5778c7974bced48a3235a5d8568b84d7fef0b8
+size 309

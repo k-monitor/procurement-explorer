@@ -1,22 +1,3 @@
-Vállalkozási	Vállalkozási	PROPN	Case=Nom|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-a	a	DET	Definite=Def|PronType=Art	
-Körözési	körözési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-Információs	információs	PROPN	Case=Nom|Number=Sing	
-Rendszer	Rendszer	PROPN	Case=Nom|Number=Sing	
-(	(	PUNCT	_	
-HERMON	herm	NOUN	Case=Sup|Number=Sing	
-)	)	PUNCT	_	
-továbbfejlesztése	továbbfejlesztés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-,	,	PUNCT	_	
-központi	központi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-SIS	SIS	PROPN	Case=Nom|Number=Sing	
-II	II	PROPN	Case=Nom|Number=Sing	
-és	és	CONJ	_	
-N-SIS	N-SIS	PROPN	Case=Nom|Number=Sing	
-II	II	PROPN	Case=Nom|Number=Sing	
-fejlesztéshez	fejlesztés	NOUN	Case=All|Number=Sing	
-igazítása	igazítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:3a888f7172a5f83990afbcef1983553dfc9b1db05f8eb2e2a86f98dc3fcf5bbb
+size 929

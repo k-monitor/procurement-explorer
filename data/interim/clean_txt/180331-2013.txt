@@ -1,4 +1,3 @@
-vállalkozási szerződés az alábbi tárgy
-a kaposvári egyetem egészségügyi centrum orvostechnológiai berendezés
-valamint az orvostechnológiai berendezés kapcsolódó épületgépészeti
-és egyéb műszaki berendezés műszaki üzemfenntartás
+version https://git-lfs.github.com/spec/v1
+oid sha256:6e647f0674e300eff0a4e0690fe42378417207e07039eaf35a91bbb0b4140dcc
+size 254

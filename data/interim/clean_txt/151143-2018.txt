@@ -1,1 +1,3 @@
-dek-519 _ vállalkozási szerződés a debreceni egyetem klinikai központ kardiológiai és szívsebészeti klinika részére db innova igs típusú berendezés szerviz szolgáltatás
+version https://git-lfs.github.com/spec/v1
+oid sha256:723f8e7e1fe889ee1426f28f3b8a44498552b50ff6c145b67d56f9a69d1af274
+size 184

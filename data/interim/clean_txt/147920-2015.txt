@@ -1,1 +1,3 @@
-határozatlan idő szóló vállalkozási szerződés keret közétkeztetés biztosítás velence
+version https://git-lfs.github.com/spec/v1
+oid sha256:9df1b6ed65bcfd5e132f0a2c01cf61d42c19f33ba207e6ded00587966ba3c472
+size 97

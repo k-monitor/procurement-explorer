@@ -1,11 +1,3 @@
-keretmegállapodás megkötés a szociális és gyermekvédelmi főigazgatóság gépjármű park bővítés érdek az alábbi szerint
-1. rész
-személygépjármű alsó-közép
-3. kategória tartozó új személygépjármű beszerzés 2. rész
-egyterű személygépjármű 5. kategória tartozó új személygépjármű beszerzés 3. rész
-egyterű személygépjármű 5. kategória tartozó
-rámpa ellátott új személygépjármű beszerzés 4. rész
-fős kisbusz beszerzés ajánlatkérő a kbt. 105. §
-bekezdés a
-pont alap folytat le a közbeszerzési eljárás
-részlet a közbeszerzési dokumentum
+version https://git-lfs.github.com/spec/v1
+oid sha256:907fd43fc444b98e68535b01cc3ed1437ca8edfbe3aa9f70e2a07727c2992b9c
+size 606

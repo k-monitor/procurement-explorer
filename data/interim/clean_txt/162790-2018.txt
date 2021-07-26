@@ -1,22 +1,3 @@
-megbízási szerződés keret őrzés-védelmi tevékenység ellátás
-ajánlatkérő megvizsgál a részajánlattétel lehetőség és az nem tart gazdasági ésszerű
-és összeegyeztethető
-a szolgáltatás nem osztható oly mód
-hogy az a közpénz hatékony felhasználás eredményez
-értékelési szempont
-1. ajánlati ár
-nettó huf
-hónap
-súlyszáj
-minőségi szempontok
-2. a szerződés keret a személy-és vagyonőr ellenőrzés alkalmaz kívánt módszer
-műszaki megoldás kidolgozottság
-a kidolgozottság mérték és szakmai megfelelőség
-súlyszáj
-az értékelési módszer a közbeszerzési dokumentum tartalmaz
-ajánlatkérő szerződéskötési feltétel alkalmaz
-amely részlet a közbeszerzési dokumentum tartalmaz
-a szolgáltatás munkáltatói jogutódlás érintett mátészalka
-nagykálló főbejárat porta-telefonközpont kezelő teljesítési helyszín
-a szerződés megerősítő kötelem részletes feltétel a szerződéstervezet tartalmaz
-a közbeszerzés nem ismétlődő
+version https://git-lfs.github.com/spec/v1
+oid sha256:854b0a922ca257e4a3564f329ce240ac35bcff4f6addaf65595418a523c7f9f2
+size 1010

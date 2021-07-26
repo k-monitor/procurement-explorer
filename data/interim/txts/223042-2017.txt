@@ -1,1 +1,3 @@
-1 (egy) darab, új, kísérleti vákuumporlasztó beszerzése és üzembe helyezése az MTA Energiatudományi Kutatóközpont Mikrotechnológiai Laboratóriuma részére. Ajánlattevő feladatát képezi a berendezés helyszínre szállítása, helyszíni üzembe helyezése, használatának helyszíni betanítása ajánlatkérő alkalmazottai részére, a szükséges próbaüzem(ek) lefolytatása, illetve a közreműködés az átvételi eljárásban.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e7334c64d29288584229cd7ee1603f8aac96be871765431b8c344af86653c551
+size 455

@@ -1,1 +1,3 @@
-Határozatlan időre szóló vállalkozási szerződés keretében közétkeztetés biztosítása Velencén.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e31b579e2325d726f26ddcbcf8601382755e9e05c4d7436c5972b02bad28b37c
+size 108

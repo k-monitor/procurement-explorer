@@ -1,7 +1,3 @@
-vállalkozási keretszerződés a kti közlekedéstudományi intézet nonprofit kft. által megvalósítás kerülő 2017. évi közúti közlekedésbiztonsági feladat megvalósítás kapcsolódó kommunikációs feladat ellátás vonatkozó
-3. rész
-1. rész
-médiavásárlás 2. rész
-kreatív tervezés és gyártás
-3. rész
-pr ügynökségi feladat és rendezvényszervezési feladat
+version https://git-lfs.github.com/spec/v1
+oid sha256:8adf069c0fb09e65e2b668644c09ed6105c4b112437c8bc06ae32bc9ed51ca6d
+size 389

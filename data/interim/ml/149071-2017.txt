@@ -1,19 +1,3 @@
-A	a	DET	Definite=Def|PronType=Art	
-Fővárosi	Fővárosi	PROPN	Case=Nom|Number=Sing	
-Közterület-fenntartó	Közterület-fenntartó	PROPN	Case=Nom|Number=Sing	
-Zártkörűen	zártkörű	ADJ	Case=Ess|Degree=Pos|Number=Sing	
-Működő	működő	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-Nonprofit	nonprofit	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-Részvénytársaság	részvénytársaság	NOUN	Case=Nom|Number=Sing	
-Hulladékhasznosító	hulladékhasznosító	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-Mű	mű	PROPN	Case=Nom|Number=Sing	
-Üzemben	üzem	NOUN	Case=Ine|Number=Sing	
-üzemelő	üzemelő	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-K1-K4	K1-K4	PROPN	Case=Nom|Number=Sing	
-jelű	jelű	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-kazánok	kazán	NOUN	Case=Nom|Number=Plur	
-tűzálló	tűzálló	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-falazatának	falazat	NOUN	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-javítása	javítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:9159bf61bc35858c2cb54d87953f78ea21e3773b98c7fcb0c4941886d0c83a94
+size 1044

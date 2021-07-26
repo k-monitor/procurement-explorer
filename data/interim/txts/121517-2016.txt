@@ -1,1 +1,3 @@
-Vállalkozási szerződés keretében Budapest IX. Kerület Leövey Klára Gimnázium és a Telepy Károly Testnevelés Szakosított Általános Iskola és Gimnáziumban közétkeztetés biztosítása. Nyertes Ajánlattevő a tanulók részére tanítási napokon napi egyszeri főétkezést (ebéd) és kétszeri kis étkezést (tízórai, uzsonna), a középiskolás korú gyermekeknek tanítási napokon egyszeri főétkezést (ebéd) biztosít. Vállalkozó a szolgáltatás nyújtására hétfőtől péntekig, illetve egyéb tanítási napokon köteles. A szolgáltatással érintett tanítási napok száma az elmúlt év adatai alapján: 181 nap/év, tízórai biztosítása tanulók részére: 180 adag/nap, ebéd biztosítása tanulók részére: 352 adag/nap, uzsonna biztosítása tanulók részére: 180 adag/nap, ebéd biztosítása alkalmazottak részére: 21 adag/nap.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d7cf9b2c9187157817f720e2e7e67f9fee5c2297ec4df1a3de4c4a902464ef95
+size 884

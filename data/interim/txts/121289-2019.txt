@@ -1,1 +1,3 @@
-A könyvtári intézményrendszer tanulást segítő infrastrukturális fejlesztései pályázathoz eszközök beszerzése
+version https://git-lfs.github.com/spec/v1
+oid sha256:7ba6ece17b1a1e244c51a9feb82bdc6cf4e9fca15de5523c0f50de621681ca60
+size 122

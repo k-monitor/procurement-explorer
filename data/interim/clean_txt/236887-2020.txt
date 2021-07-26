@@ -1,11 +1,3 @@
-különféle élelmiszer beszerzés a somogy megyei kaposi mór oktató kórház részére
-rész
-1. rész füszértáru
-2. rész mirelit áru
-3. rész
-instant áru
-4. rész vizit kávézó
-édesség és
-vagy nassol való
-5. rész vizit kávézó
-fagyasztott pékáru
+version https://git-lfs.github.com/spec/v1
+oid sha256:096581411f3614de3420fec31e1308aea595b10243b62ba4e3e862be7d5a3904
+size 266

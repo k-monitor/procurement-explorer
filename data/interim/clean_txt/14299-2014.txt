@@ -1,4 +1,3 @@
-szentesi termál
-strandfürdő fejlesztés ii
-ütem
-szentes termálstrandfürdő wellness és élményfürdő építés
+version https://git-lfs.github.com/spec/v1
+oid sha256:546f16f43ab4b4cefde8be70eaf478a0020da3a17fb0d04b71fb1162f8dbcb59
+size 119

@@ -1,1 +1,3 @@
-Keretszerződés a sürgősségi betegellátáshoz rendszeresített egyszerhasználatos anyagok, valamint orvostechnikai eszközök beszerzésére és az ellátási területekre történő szállítására 2019–2020 évekre 20 részajánlati körben.. Ajánlatkérő (AK) által közzétett közbeszerzési dokumentumban részletezett műszaki követelményeknek megfeleltethető termékek részajánlati kör biztosításával történő beszerzése. Bármely rész: Az ajánlatban csak új termék ajánlható meg (nem lehet használt/gyárilag felújított/demókészülék). Ajánlatkérő felhívja Ajánlattevők figyelmét, hogy az Ajánlatkérő által kiadott árazatlan kereskedelmi ártáblában megadott tételek reprezentatív mennyiségek, amelyek kizárólag az ajánlatok összehasonlíthatóságát szolgálják.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0c36c78efaff7cee5746d77c6a7d919e914ec8860b736181f39272da8d1d612d
+size 831

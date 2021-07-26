@@ -1,1 +1,3 @@
-A Magyar Nemzeti Bank részére villamos energia szállítása teljes ellátás alapú, fogyasztói menetrend adásnélküli villamos energia szállítási szerződés keretében 2015.01.01. - 2015.12.31 közötti időszakra vonatkozóan.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dce778e8a4c6fcb2490f119b95383580682202507b3a78c73ed85618f2c42e6f
+size 238

@@ -1,1 +1,3 @@
-Magyar Honvédség Egészségügyi Központ sztentek beszerzése adásvételi keretmegállapodás keretében 24 hónapra:2 részajánlati körben.
+version https://git-lfs.github.com/spec/v1
+oid sha256:93aec06d47b70afc274197aa375717a143dbb178199321cb665d21b455568504
+size 146

@@ -1,6 +1,3 @@
-új
-az msz szerinti
-c típusú
-tornacsarnok és a vele összekapcsolt vívócsarnok létesítés a szükséges infrastruktúra figyelem vétel
-az előírt eszköz és sporttechnológia beszerzés
-környezetrendezés komplexen
+version https://git-lfs.github.com/spec/v1
+oid sha256:e4ea1e069cf68b5e55f50586f310b8ccbf9a50ecd7b30b78ee31e3b9e759b2f8
+size 225

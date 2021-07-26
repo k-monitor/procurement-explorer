@@ -1,1 +1,3 @@
-17 db adásvételi keretszerződés elektrofiziológiai eszközök beszerzésére 36 hónapra. A beszerzés tervezett mennyisége a 17 rész vonatkozásában 8991 db/36 hó. A szerződések a keretösszeg kimerüléséig (a 17 rész vonatkozásában együttesen nettó 2 338 236 000 Ft/36 hó), de legfeljebb 36 hó időtartamra jönnek létre. A teljes mennyiséget ennek megfelelően a keretösszeg mértéke képezi.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7fdfe57093f1cba30178e26e781b5ec19912852337420f2c40a4a32be52767c7
+size 419

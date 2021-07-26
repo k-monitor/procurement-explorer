@@ -1,2 +1,3 @@
-a kisvárda
-2. helyrajzi számú ingatlan megvalósítás kerülő idős és rászoruló elhelyezés biztosító speciális központ kialakítás kapcsolódó kivitelezési munka elvégzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:8fe11ab3912f616c7e377559f091a955231eaaed697505893acc5ca8a79d005f
+size 189

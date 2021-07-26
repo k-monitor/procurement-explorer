@@ -1,1 +1,3 @@
-Tervezési szerződés az M1 autópálya, M1-M7 elválási csomópont és Tatabánya Újváros csomópont közötti szakasz 2x3 + leálló sávra történő bővítésének engedélyezési terv készítése, valamint közúti biztonsági hatásvizsgálata és auditja tárgyában. 1. rész: Tervezési szerződés az M1 autópálya, M1-M7 elválási csomópont és Tatabánya Újváros csomópont közötti szakasz 2x3 + leálló sávra történő bővítésének engedélyezési terv készítése. tárgyában (A001.04.). 2. rész: Tervezési szerződés az M1 autópálya, M1-M7 elválási csomópont és Tatabánya Újváros csomópont közötti szakasz 2x3 + leálló sávra történő bővítésének közúti biztonsági hatásvizsgálata és auditja tárgyában (A001.04).
+version https://git-lfs.github.com/spec/v1
+oid sha256:b9284ca8634ffbbae43df8142d4e3ac39e2fa1e7b1652625e4f660144bc2a61e
+size 779

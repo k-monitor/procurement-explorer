@@ -1,1 +1,3 @@
-Tervezési szerződés „M4 autópálya Fegyvernek-Püspökladány közötti szakasz közúti biztonsági hatásvizsgálatának, környezeti hatástanulmányának és engedélyezési tervének elkészítése” tárgyában.
+version https://git-lfs.github.com/spec/v1
+oid sha256:34ccfdf02c534e289cef000953802c56aad2220d0341d7cb6bbe2c78250895e5
+size 224

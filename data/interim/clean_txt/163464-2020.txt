@@ -1,32 +1,3 @@
-ajánlatkérő a kbt. 105. §
-bekezdés a
-pont szerint összesen legfeljebb bála réti széna és bála lucernaszéna
-vmint tonna szemes kukorica beszerzés érdek kíván keretmegállapodás köt az alábbi rész
-1. rész
-fülöpszállás-kígyóshát
-réti széna
-bála 2. rész
-fülöpszállás-kígyóshát
-lucerna széna
-bála 3. rész
-izsák-100-as telep
-réti széna
-bála
-4. rész
-izsák-100-as telep
-lucerna széna
-bála
-rész
-izsák-100-as telep
-kukorica
-a megvásárolandó réti széna és lucerna széna átvétel ajánlatkérő választás szerint
-mely az egyedi megrendelés rögzítés kerül
-vagy a nyertes ajánlattevő
-eladó
-által megjelölt helyszín
-telephely
-történik
-mely eset az áru ajánlatkérő állattartó telep való szállítás az ajánlatkérő feladat
-vagy az eladó kell az az ajánlatkérő állattartó telep beszállít
-a szemes kukorica ajánlatkérő állattartó telep történő szállítás az eladó feladat
-folyt:iii
+version https://git-lfs.github.com/spec/v1
+oid sha256:2160e1d19d97accb6c9175c1e398f90726702af18b0be0fadd8ec8076dcbb66d
+size 967

@@ -1,30 +1,3 @@
-A	a	DET	Definite=Def|PronType=Art	
-Magyar	Magyar	PROPN	Case=Nom|Number=Sing	
-Nemzeti	Nemzeti	PROPN	Case=Nom|Number=Sing	
-Bank	Bank	PROPN	Case=Nom|Number=Sing	
-részére	részére	ADP	_	
-villamos	villamos	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-energia	energia	NOUN	Case=Nom|Number=Sing	
-szállítása	szállítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-teljes	teljes	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-ellátás	ellátás	NOUN	Case=Nom|Number=Sing	
-alapú	alapú	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-,	,	PUNCT	_	
-fogyasztói	fogyasztói	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-menetrend	menetrend	NOUN	Case=Nom|Number=Sing	
-adásnélküli	adásnélkül	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-villamos	villamos	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-energia	energia	NOUN	Case=Nom|Number=Sing	
-szállítási	szállítási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-2015.01.01	2015.01.01	PROPN	Case=Nom|Number=Sing	
-.	.	PUNCT	_	
-
--	-	PUNCT	_	
-2015.12.31	2015.12.31	PROPN	Case=Nom|Number=Sing	
-közötti	közötti	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-időszakra	időszak	NOUN	Case=Sub|Number=Sing	
-vonatkozóan	vonatkozó	ADJ	Case=Ess|Degree=Pos|Number=Sing|VerbForm=PartPres	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:dd82770a6a4f3f9a8c30d597b63537bcb2ba8272842610f9009e9c11bc1df604
+size 1322

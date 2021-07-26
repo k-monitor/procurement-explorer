@@ -1,1 +1,3 @@
-FKF Nonprofit Zrt. Hulladékhasznosító Művében keletkező pernye (Azonosító kód: 19 01 13) és füstgáztisztítási maradékanyag (Azonosító kód: 19 01 07) elszállítása ártalmatlanítása és hasznosítása.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f17e4b0d0e8e5baf4b395a9bd6c8720066d3527b44c44cad8f75bbac9e4372ae
+size 222

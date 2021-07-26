@@ -1,1 +1,3 @@
-Szállítási szerződés különféle élelmiszerek beszerzésére, 12 részajánlattételi körben.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ae27482360aded941261f663999137d1e61e268e6aff86710d3029b055aa3061
+size 101

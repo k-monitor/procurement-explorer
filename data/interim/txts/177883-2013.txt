@@ -1,1 +1,3 @@
-Szállítási szerződés járművek és munkagépek tüzelőanyag fogyasztását érzékelő szenzorok szállítására: 1. rész-ajánlattételi terület: tüzelőanyag átfolyásmérők szállítása, beszerelése 2. rész-ajánlattételi terület: tüzelőanyag-szint távadók szállítása, beszerelése
+version https://git-lfs.github.com/spec/v1
+oid sha256:fd074760e906d91b0c7e9ad81e675409e88c901eacf8b3d71200325b614ea071
+size 309

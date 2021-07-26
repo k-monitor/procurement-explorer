@@ -1,1 +1,3 @@
-Vállalkozási szerződés az ÉAOP-5.1.2/D3-09-2f-2010-0001 azonosító számú „Vásárhelyi Terv továbbfejlesztéséhez kapcsolódó bel- és csapadékvíz rendezés Jász-Nagykun-Szolnok Megyében I. ütem” tárgyú projekt FIDIC szerződéses feltételek szerinti kivitelezési feladatainak ellátására.
+version https://git-lfs.github.com/spec/v1
+oid sha256:81c2870e21ee6c4d1cdb98a8688e9d24dca5eebe23b327d2eac46b378bf613eb
+size 315

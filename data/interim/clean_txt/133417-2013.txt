@@ -1,9 +1,3 @@
-vállalkozási szerződés
-magyarország különböző földterület
-az összes megye kiterjedő
-részben kézi
-részben gépi kaszálás
-vagy vegyszer történő parlagfű irtási valamint ez kapcsolódó járulékos
-részleges bozót irtási és belterület eset a keletkezett növényi hulladék elszállítási
-munka végzés ütem
-a szerződés teher kibocsátandó megrendelés alap
+version https://git-lfs.github.com/spec/v1
+oid sha256:ca30a10c489d4081acd2186cfd8bcb26858c6c3843735f6059dd40f9f02299b6
+size 388

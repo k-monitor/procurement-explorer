@@ -1,1 +1,3 @@
-Megbízási szerződés az „Észak- és Közép-Dunántúli szennyvízelvezetési és -kezelési fejlesztés 3. (ÉKDU 3)” elnevezésű, KEHOP-2.2.2-15-2015-00034 azonosítószámú projekt keretében műszaki ellenőri tevékenység ellátására.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ffd6ff7e38003888527825d7eb3988825636264327045a0ae2094858dcf19853
+size 252

@@ -1,5 +1,3 @@
-adásvételi szerződés a modern város program keret db hosszú
-új
-alacsonypadlós villamos jármű gyártás
-szállítás engedélyeztetés
-a szükséges betanítás elvégzés és a szerződés meghatározott egyéb szolgáltatás teljesítés tárgy
+version https://git-lfs.github.com/spec/v1
+oid sha256:7dbb6492d947af8f16ae62757422d354de564b90fad8d9315aff5acf45aa1a2d
+size 255

@@ -1,18 +1,3 @@
-a közbeszerzési eljárás tárgy
-műszaki tanácsadói tevékenység ellátás a közop
-ikop és cef támogatott vasútépítési
-illetőleg közútépítési megvalósul és megvalósuló projekt kapcsolódó
-megbízási keretszerződés keret
-a beszerzés általános cél
-műszaki tanácsadói és szakértői tevékenység igénybevétel a közop
-ikop és cef támogatott és megvalósuló valamint megvalósult beruházás nyom követés
-a közpénz felhasználás szabályszerűség biztosítás
-a külső tanácsadó által feltárt hiányosság korrigálás a rendszerbeli hiba kijavítás érdek
-a beszerzés konkrét cél
-a közop hát irányítás
-koordinálás és felelősség megtartás
-közop
-ikop és cef támogatott projekt közbenső
-projektzáró és az utánkövetéses
-fenntartási időszak alatti
-továbbá a fenntartási időszak lezáró műszaki helyszíni ellenőrzés kapcsolódó műszaki tanácsadói és szakértői tevékenység igénybevétel
+version https://git-lfs.github.com/spec/v1
+oid sha256:1e33c55ada63823aa2d26eb2ae346de3651dc43c7bb34517380d7869c31f9830
+size 976

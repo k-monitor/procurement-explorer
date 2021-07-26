@@ -1,1 +1,3 @@
-Országos EDR rádiótechnikai hálózatmérés
+version https://git-lfs.github.com/spec/v1
+oid sha256:08d3fd1a3608133fde1b7647ee614bae4ab87e7798793ea53fca48f460c080bc
+size 47

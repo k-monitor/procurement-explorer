@@ -1,1 +1,3 @@
-földgáz vásárlás a miskolci egyetem részére a dokumentáció leírt szerint
+version https://git-lfs.github.com/spec/v1
+oid sha256:bdecfc36c1cb9ea97963f7eed2c728a20c09a035290ab59fb7256c67a6ace483
+size 82

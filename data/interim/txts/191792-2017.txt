@@ -1,1 +1,3 @@
-Műszaki vizsgálati és elemzési szolgáltatás. Vállalkozási szerződés keretében az ajánlatkérő részére a műszaki dokumentációban pontosan meghatározott paraméterek szerinti mérési feladatok elvégzése. A mérési feladatok ellátására vonatkozó részletes műszaki elvárásokat a Közbeszerzési Dokumentumok mellékletét képző Műszaki leírás tartalmazza.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a396202b174fdfafa568282ada1454fa61241eada441cdb6d0d5903c8812e9f3
+size 387

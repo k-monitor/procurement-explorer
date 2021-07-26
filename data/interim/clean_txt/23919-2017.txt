@@ -1,6 +1,3 @@
-megbízási elem vegyes vállalkozási szerződés efop-1
-1-vekop-15-2016-00001 kódszámú
-társ projekt
-szociális intézményi férőhely kiváltási szakmai koordinációs műhely kialakítás
-című kiemelt projekt kapcsolódó a komplex kiváltási szükségletfelmérés módszertan és eszközrendszer kifejlesztés és alkalmazás szakmai támogatás
-felkészítés az eszköz használat tárgy
+version https://git-lfs.github.com/spec/v1
+oid sha256:007abd5d33775c355ddd32f654d6d385c6d0e5a8c342101aaf124afe46352078
+size 403

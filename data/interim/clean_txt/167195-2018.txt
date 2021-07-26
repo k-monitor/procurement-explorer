@@ -1,9 +1,3 @@
-se tűzgátló ajtó
-hő és füst elleni védelem megoldás
-pánikzár
-vészkijárat
-automata működésű ajtó felülvizsgálat
-karbantartás
-hibaelhárítás
-javítás és felújítási tevékenység elvégzés
-rész eset összesen
+version https://git-lfs.github.com/spec/v1
+oid sha256:1973fe2f9e7fd0e1e35d0eb68719214a0972f36c85e2d9e636f26a4768ae4604
+size 235

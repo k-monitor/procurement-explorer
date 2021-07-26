@@ -1,1 +1,3 @@
-MKB12/2018 – 27 000 000 kg Magyarország közigazgatási területén keletkező ipari és kereskedelmi fa csomagolási hulladék gyűjtése és anyagában történő hasznosítása (kezelési kód: R3, kivéve: R12 és R13) szolgáltatásmegrendelési szerződés keretében, a környezetvédelmi termékdíjról szóló 2011. évi LXXXV. törvény 22. § (1) bekezdés alapján. 1. rész: 3 185 000 kg 2. rész: 3 185 000 kg 3. rész: 3 185 000 kg 4. rész: 3 185 000 kg 5. rész: 2 315 000 kg 6. rész: 2 315 000 kg 7. rész: 2 315 000 kg 8. rész: 2 315 000 kg 9. rész: 1 000 000 kg 10. rész: 1 000 000 kg 11. rész: 1 000 000 kg 12. rész: 1 000 000 kg 13. rész: 1 000 000 kg
+version https://git-lfs.github.com/spec/v1
+oid sha256:b71c1f4d2a11089592eca1397cb4edcd08bfb65db2adfa456df90956a38880e3
+size 684

@@ -1,5 +1,3 @@
-vállalkozási szerződés a részarány földkiadás sor keletkezett osztatlan közös tulajdon megszüntetés részletes szabály szóló
-2012.
-korm
-rendelet foglalt földmérési munka elvégzés a vas megyei kormányhivatal vasvári járási hivatal járási földhivatal
-celldömölki járási hivatal járási földhivatal és a szombathelyi járási hivatal járási földhivatal illetékességi terület
+version https://git-lfs.github.com/spec/v1
+oid sha256:18366673c24cf405ae623f73d7343ed94e613b6a31a2d36754bb176ff3e4b245
+size 411

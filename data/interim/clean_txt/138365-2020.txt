@@ -1,1 +1,3 @@
-bkv vasúti járműjavító kft. részére féle fényezési segédanyag beszerzés a közbeszerzési dokumentum részletes meghatározott műszaki leírás szerint
+version https://git-lfs.github.com/spec/v1
+oid sha256:cb3b566a15b7b5eb573744f74d98adc42e826b96dc804b02b5d8eaee49ee3ffb
+size 164

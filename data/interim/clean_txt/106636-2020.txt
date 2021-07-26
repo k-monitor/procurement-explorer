@@ -1,9 +1,3 @@
-1. rész
-összkozkázatú
-all risks
-vagyonbiztosítási és felelősségbiztosítási szolgáltatás 2. rész
-vezető tisztségviselő felelősségbiztosítási szolgáltatás ii
-1.1
-pont karakterkorlátozás miatt rövidítés kerül az eljárás elnevezés
-eredeti elnevezés
-biztosítási szolgáltatás beszerzés a budapesti corvinus egyetem részére
+version https://git-lfs.github.com/spec/v1
+oid sha256:46691f555ef468c25caa4706a9e0abfa834bcc8797e9b91b011bc05f37c6f3d2
+size 356

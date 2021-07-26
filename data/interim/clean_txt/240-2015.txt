@@ -1,10 +1,3 @@
-adásvételi szerződés dobozos szoftver beszerzés az alábbi rész szerint
-1. rész
-trimble szoftver
-2. rész
-ultramap
-3. rész
-socet gxp
-4. rész
-summit evolution 5. rész
-bingo
+version https://git-lfs.github.com/spec/v1
+oid sha256:3433e0dedee3314c8f36bf751bfa45709ac368023ee28c34b1ca518da8aa9ea8
+size 181

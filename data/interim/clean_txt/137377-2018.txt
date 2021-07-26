@@ -1,10 +1,3 @@
-siemens definition edge ct berendezés
-gyári szám
-mely szerves tartozék
-szünetmentes tápegység
-vezérlő-működtető számítógép
-és a ő kapcsolódó syngo
-via szerver
-szoftver gyári szám
-kapcsolódó full-service szolgáltatás mely maga foglal a berendezés karbantartás
-valamint a berendezés kapcsolódó hibaelhárítási szolgáltatás és alkatrészellátás
+version https://git-lfs.github.com/spec/v1
+oid sha256:09c15b8bb43d2e58a838b4060edf27e0eb40a454c9bff8e02c63396d6fa757c6
+size 379

@@ -1,4 +1,3 @@
-a ginop-5
-1-14-2015-00001 azonosítószámú ifjúsági garancia elnevezésű kiemelt projekt keret megvalósítandó mentori szolgáltatás és munkaerőpiaci humán szolgáltatás biztosítás jász-nagykun-szolnok megye az alábbi szolgáltatás vonatkozó
-1. rész
-mentori szolgáltatás nyújtás 2. rész
+version https://git-lfs.github.com/spec/v1
+oid sha256:3a5e53b94c747969a6f0967481ba295a58c3df7343d15526bd1cf8c3706d765d
+size 310

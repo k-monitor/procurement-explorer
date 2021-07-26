@@ -1,1 +1,3 @@
-Az Országos Rendőr-főkapitányság által vásárolt gépjárművek garanciális időn belüli kárjavítása és garanciális időn túli karbantartása, javítása, gyártóműi előírások és technológia alkalmazásával, gyári új alkatrészek beépítésével, valamint műszaki vizsgáztatása 3. részben: 1. rész: Opel gyártmányú gépjárművek karbantartása, javítása (1 250 db-os keretmennyiség). 2. rész: Skoda és Volkswagen gyártmányú gépjárművek karbantartása, javítása (1 255 db-os keretmennyiség). 3. rész: Mercedes-Benz gyártmányú gépjárművek karbantartása, javítása (164 db-os keretmennyiség).
+version https://git-lfs.github.com/spec/v1
+oid sha256:4d0643cf921e06809360278f62689e1ba0d3754bbdc05988d4d290f3dced0422
+size 648

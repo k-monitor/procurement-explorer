@@ -1,7 +1,3 @@
-dek-511 nemzetközi területi vízgazdálkodási és klíma adaptációs műszerközpont létrehozás a ginop-2
-3.-15-2016-00028 sz. projekt keret
-1. rész
-kísérleti és demonstrációs eszköz 2. rész
-talajkutató eszköz 3. rész
-vízkutató eszköz 4. rész
-időjárás és növényi vízháztartás kutató eszköz beszerzés 5. rész
+version https://git-lfs.github.com/spec/v1
+oid sha256:77b9ae02ebc69669c44e9f96d44b9d35b8af12404f1d5a03b8f9f17b73d6f533
+size 341

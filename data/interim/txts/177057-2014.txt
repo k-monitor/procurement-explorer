@@ -1,1 +1,3 @@
-Zalaegerszeg közigazgatási területén keletkező települési szilárd hulladék gyűjtése, szállítása, kezelése és a hozzá kapcsolódó egyes feladatok ellátása vállalkozási szerződés keretében az ajánlatkérő Ht. 41. § (3) bekezdés szerinti alvállalkozójaként.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b53e1fc5245bff9c7cc929e80494c3be43e44bc3fde749a0e976d5c7c4eed935
+size 286

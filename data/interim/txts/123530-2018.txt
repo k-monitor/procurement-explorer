@@ -1,1 +1,3 @@
-Szállítási keretmegállapodás keretében acetonos ezüst-jodid-oldat beszerzése a JÉGER projektben.
+version https://git-lfs.github.com/spec/v1
+oid sha256:205ebf7c1a21b39847e0a7bc72d95a491a2e4852e0167f58b15a2650886f6c63
+size 105

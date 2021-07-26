@@ -1,22 +1,3 @@
-Tervezési	tervezési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-„	„	PUNCT	_	
-M4	M4	PROPN	Case=Nom|Number=Sing	
-autópálya	autópálya	PROPN	Case=Nom|Number=Sing	
-Fegyvernek-Püspökladány	Fegyvernek-püspökladány	NOUN	Case=Nom|Number=Sing	
-közötti	közötti	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szakasz	szakasz	NOUN	Case=Nom|Number=Sing	
-közúti	közúti	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-biztonsági	biztonsági	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-hatásvizsgálatának	hatásvizsgálat	NOUN	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-,	,	PUNCT	_	
-környezeti	környezeti	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-hatástanulmányának	hatástanulmány	NOUN	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-és	és	CONJ	_	
-engedélyezési	engedélyezési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-tervének	terv	NOUN	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-elkészítése	elkészítés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-"	"	PUNCT	_	
-tárgyában	tárgy	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:00c435be1a7bed4883b873f26ee65bdcfa5a51d2c955c619ce7070191cb27e61
+size 1137

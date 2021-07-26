@@ -1,1 +1,3 @@
-Mobil munkaeszköz beszerzése négy részben: 1. rész Notebook „kicsi” 2. rész Notebook „közepes” 3. rész Tablet „nagy” 4. rész Tablet „közepes”
+version https://git-lfs.github.com/spec/v1
+oid sha256:86034c0564d4153bbbfc1f905df33091bd41163653232d004c0d698b27b219f7
+size 167

@@ -1,13 +1,3 @@
-vagyon
-felelősségbiztosítás
-d&o
-vezető tisztségviselő felelősségbiztosítás
-és csoportos személybiztosítási szolgáltatás beszerzés részfeladat
-1. részfeladat
-d&o felelősségbiztosítás
-2. részfeladat
-csoportos élet
-és balesetbiztosítás
-3. részfeladat
-vagyon
-és kombinált felelősségbiztosítás
+version https://git-lfs.github.com/spec/v1
+oid sha256:3abf80990beb773d309b0216941e17a54ec1de22df6cc00e1d8a7f82ce7d6d9b
+size 324

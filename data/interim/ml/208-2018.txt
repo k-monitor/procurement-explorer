@@ -1,20 +1,3 @@
-Adásvételi	adásvételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-Ajánlatkérő	ajánlatkérő	NOUN	Case=Nom|Number=Sing	
-az	az	DET	Definite=Def|PronType=Art	
-Intézmény	intézmény	NOUN	Case=Nom|Number=Sing	
-részére	részére	ADP	_	
-Kenyér	kenyér	NOUN	Case=Nom|Number=Sing	
-és	és	CONJ	_	
-péksütemények	péksütemény	NOUN	Case=Nom|Number=Plur	
-,	,	PUNCT	_	
-cukászsütemények	cukászsütemény	NOUN	Case=Nom|Number=Plur	
-,	,	PUNCT	_	
-tésztaféléket	tésztaféle	NOUN	Case=Acc|Number=Plur	
-12	12	NUM	Case=Nom|NumType=Card|Number=Sing	
-hónapra	hónap	NOUN	Case=Sub|Number=Sing	
-kívánja	kíván	VERB	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	
-megvásárolni	megvásárol	VERB	VerbForm=Inf|Voice=Act	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:74df0e5a49b096079d155c9e9f6c0635b75e6593cc16f7068e03c1f2ea7b5c67
+size 889

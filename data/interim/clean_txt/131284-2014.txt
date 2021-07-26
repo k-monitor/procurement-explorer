@@ -1,1 +1,3 @@
-metanol szállítás a fővárosi csatornázási mű zrt. részére
+version https://git-lfs.github.com/spec/v1
+oid sha256:f25baf72bc1b26542b88fb9175a770c64f3833445e9e2857a5b85562c08ac217
+size 67

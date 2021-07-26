@@ -1,1 +1,3 @@
-II.1.4) Rövid meghatározás: Korszerű műtéti és diagnosztikai eszközök beszerzése a PTE részére a közbeszerzési dokumentációban meghatározott paraméterekkel, az alábbiak szerint: 1. részajánlat: Anesztéziai munkaállomás; 2. részajánlat: Diagnosztikai eszközök; 3. részajánlat: Műtőasztal; 4. részajánlat: Műtőlámpa; 5. részajánlat: Fóliahegesztő berendezés és Gőzsterilizáló autokláv 6 STE; 6. részajánlat: Gőz- formalinsterilizáló autokláv 4 STE; 7. részajánlat: Lamináris boksz; 8. részajánlat: Multifunkciós magas tudásszintű betegőrző monitor + TcPO2 „B”.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9daa18aba36db8c6fd3ddf99e08d9af2077961dc89fc0842e68125e3a1cb3fbd
+size 625

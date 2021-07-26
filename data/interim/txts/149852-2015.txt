@@ -1,1 +1,3 @@
-Szolgáltatási szerződés szakértői, fejlesztői támogatás biztosítására Oracle EBS alapú humán erőforrás-gazdálkodási informatikai rendszerhez.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8fd3d08673796e0a56a4302f5f85dfa9098a82d2b6c76790324d5f08f8cef3a2
+size 159

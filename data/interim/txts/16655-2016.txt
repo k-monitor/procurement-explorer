@@ -1,1 +1,3 @@
-Teljes ellátás alapú villamos energia szállítása villamosenergia-kereskedelmi szerződés keretében az alábbi részajánlati körben: 1. rész: VÜZ Nonprofit Kft. profilos és idősoros fogyasztási helyeinek villamosenergia-beszerzése; 2. rész: VÜZ Nonprofit Kft. közvilágítási célú fogyasztási helyeinek villamosenergia-beszerzése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:df8fc54a912c9d57585e7222d14ddf93a8346dce9d8815992fe4bbfc29371f74
+size 353

@@ -1,8 +1,3 @@
-legalább db
-a dokumentáció meghatározott mód felszerelt összkerék meghajtású mentőorvosi gépkocsi
-mok
-beszerzés
-a dokumentáció meghatározott felszerelés
-eszköz
-tárgyú adásvételi szerződés az országos mentőszolgálat részére tiop-2
-1-2012-0001 azonosító számú projekt keret belül
+version https://git-lfs.github.com/spec/v1
+oid sha256:fdc74d135edf7e8dee1efd675f112c6362bed3413a565fb2c0200fa22540e753
+size 310

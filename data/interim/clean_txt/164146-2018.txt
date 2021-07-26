@@ -1,3 +1,3 @@
-orvosi kesztyű beszerzés magyarországi fekvőbeteg ellátó intézmény részére
-ot-002
-km
+version https://git-lfs.github.com/spec/v1
+oid sha256:a89f775d2d856c3c70d4db26eee8f5f0da3bb574806617396430cadbb701139f
+size 94

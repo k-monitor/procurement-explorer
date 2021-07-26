@@ -1,1 +1,3 @@
-„Nagykovácsi Nagyközség települési szilárd kommunális hulladékának begyűjtése, valamint a szilárd kommunális hulladék kezelőtelepre történő szállítása”.
+version https://git-lfs.github.com/spec/v1
+oid sha256:032b837ec94230a435db29d79c84934e23241e77ff1768190a60c4088dd78e2d
+size 177

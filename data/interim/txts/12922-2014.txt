@@ -1,1 +1,3 @@
-Szállítási szerződés alapján Villamos energia beszerzés a közös ajánlatkérők Dokumentációban megjelölt csatlakozási pontjai részére.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5a0188fff537701fe84540180bbdfd709f7d2ff5225854f2d5dadf8b1f379148
+size 150

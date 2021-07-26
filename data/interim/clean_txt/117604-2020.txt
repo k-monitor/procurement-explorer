@@ -1,13 +1,3 @@
-vállalkozási szerződés mely a fertő
-tavi vízitelep komplex fejlesztés sor vízjogi létesítési engedélyes munka keret kotrási és tereprendezési munka
-partfal kialakítás
-rákos patak érintett szakasz átalakítás
-úszóműves vitorlás kikötő
-csónakkikötő kialakítás
-járathajó kikötőrész kialakítás
-fertő-tó nyílt víz felöl terület kialakítás
-nyugati csatorna kialakítás
-víziközmű építési munka elvégzés a feladat
-a közbeszerzési dokumentum foglalt
-valamint a közbeszerzési dokumentum rész kiadott vízjogi létesítési engedély
-valamint a bontási és kiviteli tervdokumentáció szerint
+version https://git-lfs.github.com/spec/v1
+oid sha256:75cd8fff7146a47b6483dc9d39cd0ad3976b94976df71b7b0d82506811b6e5e4
+size 643

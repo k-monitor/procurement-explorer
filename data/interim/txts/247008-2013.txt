@@ -1,1 +1,3 @@
-Szállítási szerződés keretében új légfúvó egység szállítása és telepítése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:761d7d00c71f96497df2a6c415d133d78ee0d46c5adbe5077355f626cfb7b295
+size 91

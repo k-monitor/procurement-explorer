@@ -1,13 +1,3 @@
-A	a	DET	Definite=Def|PronType=Art	
-Budapest	Budapest	PROPN	Case=Nom|Number=Sing	
-Bozsik	Bozsik	PROPN	Case=Nom|Number=Sing	
-Stadion	stadion	NOUN	Case=Nom|Number=Sing	
-labdarúgó	labdarúgó	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-sportlétesítmény	sportlétesítmény	NOUN	Case=Nom|Number=Sing	
-kivitelezése	kivitelezés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-átalánydíjas	átalánydíjas	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-vállalkozási	vállalkozási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-alapján	alap	NOUN	Case=Sup|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:077f1833f97e19cdc88120585c6d653c3eb064dfb5402959d2e348d08ce9a052
+size 674

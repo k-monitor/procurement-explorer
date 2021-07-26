@@ -1,1 +1,3 @@
-Adásvételi szerződés alapján IT és egyéb eszközök beszerzése és kapcsolódó szolgáltatások ellátása az ALBACOMP RI Kft. GOP-1.2.1-12/B-2012-0017 számú projektjében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8db65cb1ed82b1b5f18d9075cccad7c7ffd7ae78f757ce5cce854f8a35dd6fe6
+size 183

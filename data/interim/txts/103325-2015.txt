@@ -1,1 +1,3 @@
-Szerződés meghatározása: Adásvételi szerződés. Önjáró útburkolatfestő berendezés beszerzése, a dokumentációban leírtaknak megfelelően.
+version https://git-lfs.github.com/spec/v1
+oid sha256:84e30f68bc9f985e84be0010fcee416c41638ad1529ae58f1377545f568106c7
+size 153

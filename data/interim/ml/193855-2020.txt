@@ -1,3 +1,3 @@
-Konténeres	konténeres	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-hulladékszállítás	hulladékszállítás	NOUN	Case=Nom|Number=Sing	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:0c3790758b4b06e8c1d7df3bb7521f309a6d3c16bae75917b80733788ed0d774
+size 133

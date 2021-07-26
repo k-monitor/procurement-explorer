@@ -1,5 +1,3 @@
-szállítási szerződés keret elektrosebészeti eszköz tartozék beszerzés konszignációs raktár üzemeltetés az alábbi részajánlat szerint
-1. rész
-olympus thunderbeat típusú nf vágó tartozék ii
-rész
-medtronic forcetriad típusú nf vágó tartozék iii rész
+version https://git-lfs.github.com/spec/v1
+oid sha256:0595fba1ea94dffe01a8e1d510669581a4c9f6753a4dcb189c6be69e7b7b9b2a
+size 276

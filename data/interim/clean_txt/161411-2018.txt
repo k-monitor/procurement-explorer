@@ -1,3 +1,3 @@
-az msz en
-és az msz
-2002 szabvány előírás megfelelő villamos energia beszerzés a közbeszerzési dokumentum részletezett szerint
+version https://git-lfs.github.com/spec/v1
+oid sha256:857e2760edd87750a6f851d8389a7a40afbe5f11cad5a87b1e9be6c4bd15dfb8
+size 136

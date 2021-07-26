@@ -1,12 +1,3 @@
-K2050	K2050	PROPN	Case=Nom|Number=Sing	
-Kazán	kazán	NOUN	Case=Nom|Number=Sing	
-tűzálló	tűzálló	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-falazati	falazati	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-anyagainak	anyag	NOUN	Case=Gen|Number=Plur|Number[psor]=Sing|Person[psor]=3	
-és	és	CONJ	_	
-beépítési	beépítési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-segédanyagainak	segédanyag	NOUN	Case=Gen|Number=Plur|Number[psor]=Sing|Person[psor]=3	
-beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-és	és	CONJ	_	
-szállítása	szállítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:215ee01ea82ff82a3a4bad847a8ebf6475ae7ad989051cc2dc59e88fff9269ee
+size 627

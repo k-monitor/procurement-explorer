@@ -1,1 +1,3 @@
-ESR-112 Hívásfogadó Rendszer üzemeltetése és egyes üzemeltetés-támogatási feladatok ellátása.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b11309fe318cc413abb3d410c02d9486e6b3b31a66d15795194451e8924a9c79
+size 105

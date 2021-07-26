@@ -1,1 +1,3 @@
-Vállalkozási szerződés, amelynek tárgya a Csepeli Városgazda Közhasznú Nonprofit Zrt. székhelyéről és telephelyeiről, illetőleg alkalomszerűen Csepel közigazgatási területéről biológiailag lebomló hulladék (HAK kód: 200201) elszállítása, valamint lomhulladék (HAK kód: 200307) szállítási munkák elvégzése, a hulladék hivatalos hulladék-ártalmatlanító helyen történő elhelyezése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cf0878fde69a76448dffaaa6dc0d04f92d718d13b5e7091d0cbb57af15fcf336
+size 422

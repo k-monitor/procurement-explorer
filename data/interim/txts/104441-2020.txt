@@ -1,1 +1,3 @@
-Nagyfelbontású 3D reflexiós szeizmikus mérések kivitelezése a Nyugat-Mecsekben Cserdi-Bükkösd-Boda térségében 49 km2 területen, a forráspontok száma 15 660, 65 % vibrátoros és 35 % robbantásos jeladással, kísérleti mérésekkel és kiegészítő sekély refrakciós méréssel, terepi minőségellenőrzés (QC), adatfeldolgozás és összegző dokumentáció készítése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ef920aadbf49b27491d59f236da27f4240a4197b484e55c3be24102b717ee0e3
+size 393

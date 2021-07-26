@@ -1,26 +1,3 @@
-adásvételi szerződés keret kórházi berendezés
-és gép beszerzés a jászberényi szent erzsébet kórház részére
-1. rész
-defibrillátor
-db
-intenzív ágy
-db
-2. rész
-ágytálmosó berendezés
-db
-3. rész
-arthroscopos torony és tartozék
-db
-4. rész
-sterilizáló eszköz
-fóliahegesztő
-db
-gőzsterilizáló készülék
-db
-5. rész
-nőgyógyászati vizsgálógép
-hysteroscope
-db
-6. rész
-traumatológiai és ortopédiai fúrómotor és feltét
-db
+version https://git-lfs.github.com/spec/v1
+oid sha256:7474474b7aaadedb8df90b1bca0ebb17c3dac6cace33fb57efffa35efbebe505
+size 460

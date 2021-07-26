@@ -1,1 +1,3 @@
-Adásvételi szerződés/Vezetékes földgáz beszerzése Budapest XVI. kerületi Önkormányzat és intézményei részére 24 hónapos időtartamra
+version https://git-lfs.github.com/spec/v1
+oid sha256:639681d3232e60d7df712196d4c4e47b6604df7b644194d676612ceb2c9001b9
+size 149

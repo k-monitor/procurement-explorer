@@ -1,15 +1,3 @@
-Microsoft	Microsoft	PROPN	Case=Nom|Number=Sing	
-vagy	vagy	CONJ	_	
-azzal	az	PRON	Case=Ins|Number=Sing|Person=3|PronType=Dem	
-egyenértékű	egyenértékű	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-oktatási	oktatási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-licencek	licenc	NOUN	Case=Nom|Number=Plur	
-beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-,	,	PUNCT	_	
-valamint	valamint	CONJ	_	
-a	a	DET	Definite=Def|PronType=Art	
-Tisztaszoftver	tisztaszoftver	NOUN	Case=Nom|Number=Sing	
-portál	portál	NOUN	Case=Nom|Number=Sing	
-működtetése	működtetés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:542ff3f5df9bd510c8034e2c3827d6b0938cc1ed8c3fcb6c8fa12abea7eb2e9c
+size 651

@@ -1,27 +1,3 @@
-Hepatitis-C	Hepatitis	NOUN	Case=Nom|Number=Sing	
-kezelésére	kezelés	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-szolgáló	szolgáló	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-glecaprevir-pibrentasvir	glecaprevir-pibrentasvir	NOUN	Case=Nom|Number=Sing	
-és	és	CONJ	_	
-sofosbuvir	sofosbuvir	NOUN	Case=Nom|Number=Sing	
-/	/	PUNCT	_	
-velpatasvir	velpatasvir	NOUN	Case=Nom|Number=Sing	
-/	/	PUNCT	_	
-voxilaprevir	voxilaprevir	NOUN	Case=Nom|Number=Sing	
-hatóanyagú	hatóanyagú	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-készítmények	készítmény	NOUN	Case=Nom|Number=Plur	
-2020.	2020.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
-évi	évi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-keretmegállapodás	keretmegállapodás	NOUN	Case=Nom|Number=Sing	
-megkötésére	megkötés	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-irányuló	irányuló	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-hirdetmény	hirdetmény	NOUN	Case=Nom|Number=Sing	
-közzétételével	közzététel	NOUN	Case=Ins|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-induló	induló	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-gyorsított	gyorsított	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPast	
-tárgyalásos	tárgyalásos	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-eljárás	eljárás	NOUN	Case=Nom|Number=Sing	
-keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:2c780c1982e874643ee78171bdfe0c300b13abe6c6e01beca76b4f8ae05465da
+size 1507

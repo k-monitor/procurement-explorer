@@ -1,1 +1,3 @@
-Az FKF Nonprofit Zrt. Oracle vállalatirányítási rendszerének üzemeltetésével kapcsolatos szakértői támogatás beszerzése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e0eebd2337d96362c05715f9aec3fead710e31f2601fd525fcf836b8e2c61118
+size 133

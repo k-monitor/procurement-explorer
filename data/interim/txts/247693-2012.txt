@@ -1,1 +1,3 @@
-Esztergom Város Önkormányzatának tulajdonában lévő ingatlanok őrzési tevékenységének ellátása szolgáltatási szerződés keretében a szerződés aláírásától számított 36 hónap időtartamra.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ae81f226bc55cc6b952b8d9b8be3820dc72334254236f70e59c17994d10603e4
+size 213

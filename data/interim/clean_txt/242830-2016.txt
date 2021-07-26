@@ -1,6 +1,3 @@
-személy
-és vagyonvédelmi tevékenység végzés vállalkozási keretszerződés keret huf keretösszeg erő
-ajánlatkérő a keretösszeg
- vállal lehívási kötelezettség
-a szerződés további hónap további huf
-áfa keretösszeg erő meghosszabbítható
+version https://git-lfs.github.com/spec/v1
+oid sha256:ab87da6fc68571034175c536762047d729a177a0fc55946458a35303dcdf5611
+size 262

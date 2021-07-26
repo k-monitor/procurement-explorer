@@ -1,3 +1,3 @@
-magyar turisztikai ügynökség zrt. részére 2017. évi külföldi turisztikai
-bor-gasztronómiai
-valamint mice kiállítás magyar kollektív stand megvalósítás vállalkozási szerződés keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:dbbe186ed41e5e2514e645f0fa7d8357d4ec614f43e56a4a4f40d72d593976e6
+size 199

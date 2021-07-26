@@ -1,1 +1,3 @@
-Szállítási szerződés – Orvostechnikai berendezések szállítására, telepítésére a Borsod-Abaúj-Zemplén Megyei Kórház és Egyetemi Oktató Kórházban a KEOP-5.6.0/E/15 azonosítószámú projekthez kapcsolódóan II.
+version https://git-lfs.github.com/spec/v1
+oid sha256:11256efb1f3dd17964614b3aa5792c83ce7d10d63a5ddecefa34c39df79d28b7
+size 233

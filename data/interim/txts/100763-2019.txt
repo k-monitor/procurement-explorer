@@ -1,1 +1,3 @@
-Az ELI-HU Nonprofit Kft. részére szolgáltatásfinanszírozó egészségbiztosítás - beleértve a szolgáltatásszervezést is - fedezetének beszerzése 12 hónap + 12 hónap határozott tartamú szerződés megkötésével.
+version https://git-lfs.github.com/spec/v1
+oid sha256:85e6e581c27052bfa504d0442a7439071bba545c79ad9c3456b702ec2018ff22
+size 229

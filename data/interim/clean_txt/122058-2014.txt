@@ -1,8 +1,3 @@
-szállítási szerződés keret a tiop 2.2.4 pályázat kapcsolódó orvosi műszer szállítás
-és üzem helyezés
-valamint kezelés jegyzőkönyvezik oktatás
-1. rész
-haemodinamikai labor eszköz 2. rész
-digitális röntgen készülék 3. rész
-mammográf és ultrahang berendezés 4. rész
-komplex műtéti technológia eszköz és berendezés 5. rész
+version https://git-lfs.github.com/spec/v1
+oid sha256:f6b09898b766bd9dc287e7c27c2a9f446d8e7e123a4076f0768584ae8db33d87
+size 358

@@ -1,4 +1,3 @@
-megbízási szerződés az m4 autópálya abony-fegyver
-96+055
-125+000 km sz.
-közötti szakasz új tisza-híd kivitelezés kapcsolódó mérnöki feladat ellátás tárgy
+version https://git-lfs.github.com/spec/v1
+oid sha256:a6fd714af5580af264344d1cb1c66a5326e68c62f8f3394d8b67f170dd3b5aa3
+size 171

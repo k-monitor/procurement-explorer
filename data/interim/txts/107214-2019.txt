@@ -1,1 +1,3 @@
-Magyar Honvédség Egészségügyi Központ steril kötéscsomagok beszerzése adásvételi keretmegállapodás keretében 24 hónapra:16 részajánlati körben. Steril kötéscsomagok felhasználása a műtéteknél a vér, különböző váladékok felitatására szolgál, profilonként és súlyosság szerint csoportosítva Ajánlatkérő I-es és II telephely igényei szerint.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1ec6b04fb82d2952483682061782a0db4a45f7b3b75345285c8c3c203c1f1f48
+size 383

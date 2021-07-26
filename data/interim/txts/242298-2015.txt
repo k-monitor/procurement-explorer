@@ -1,1 +1,3 @@
-Villamos energia kereskedelmi szerződések a magyar átviteli hálózaton folyamatosan rendelkezésre álló, szabványos minőségű villamos energia szállítására az ajánlatkérő, annak intézményei és gazdasági társaságai részére 12 hónapos időszakra vonatkozóan, teljes ellátás alapú, menetrend adás nélkül (intézményi idősoros-,intézményi profilos-, és közvilágítási felhasználási helyek vonatkozásában). A szerződéskötést követően a kereskedő váltással járó összes adminisztratív tevékenység elvégzése a felhasználó meghatalmazása alapján.
+version https://git-lfs.github.com/spec/v1
+oid sha256:83c749ffbe38a479e6cbc56a8bb473e0bee63e58b04a7cb157d1ef9b623f1bc2
+size 602

@@ -1,1 +1,3 @@
-db könyvtárbusz beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:f9a1d4f5302c090c420660b92036b389484ad6099906541e4d0a13b1cd6633f0
+size 28

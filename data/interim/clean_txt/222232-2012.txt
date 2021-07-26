@@ -1,2 +1,3 @@
-vállalkozási szerződés
-közreműködő szervezet által kezelt pályázat szakmai értékelés minőségbiztosítás tárgy
+version https://git-lfs.github.com/spec/v1
+oid sha256:a1df27bab396f1ecd65c52a6a4c5357827b4927ef8c1e063b0cf8f659a4d859e
+size 127

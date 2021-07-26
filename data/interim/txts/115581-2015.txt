@@ -1,1 +1,3 @@
-NAV szabadpiaci (20 m³/h feletti fogyasztással rendelkező) objektumainak földgáz ellátása a 1.7.2015. 6:00 – 1.10.2016. 6:00 közötti gázévre vonatkozóan.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2d5f1635316f436efb1f38fb4d24e51ad4c371c2b188437c0603c9157aeba1db
+size 167

@@ -1,1 +1,3 @@
-Európai uniós pályázatok végrehajtását elősegítő informatikai eszközök beszerzése. 1. rész: 100 db asztali munkaállomás. 2. rész: 50 db laptop.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d46f0a1ede0b58ffe7040ad398243506faf039692ebf30167975b7409bb3b83f
+size 160

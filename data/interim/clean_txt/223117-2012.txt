@@ -1,11 +1,3 @@
-földgáz energia szállítás szeged megyei jogú város önkormányzata
-mint gesztor
-polgármesteri hivatala
-szegedi kistérség többcélú társulás
-egyes
-os tulajdon levő gazdasági társaság
-fenntartás alatt álló intézmény
-összesen kontakt szervezet tartozó
-felhasználási helyei
-valamint a szegedi tudományegyetem és az mta szegedi biológiai kutatóközpont felhasználási helyei részére teljes ellátás alapú földgáz áruszállítási szerződés keret
-a felhasználási hely részletes adat az ajánlati dokumentáció található
+version https://git-lfs.github.com/spec/v1
+oid sha256:a632983bdcebdb601bd8cdfe94ad1bcd0f416b270bd59a2cc1b0aabbd11ffd2a
+size 560

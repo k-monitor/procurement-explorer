@@ -1,18 +1,3 @@
-A	a	DET	Definite=Def|PronType=Art	
-Liget	Liget	PROPN	Case=Nom|Number=Sing	
-Budapest	Budapest	PROPN	Case=Nom|Number=Sing	
-projekthez	projekt	NOUN	Case=All|Number=Sing	
-kapcsolódó	kapcsolódó	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-Olof	olof	NOUN	Case=Nom|Number=Sing	
-Palme	palm	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-Ház	ház	NOUN	Case=Nom|Number=Sing	
-megvalósításához	megvalósítás	NOUN	Case=All|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-szükséges	szükséges	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-teljes	teljes	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-körű	körű	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-építészeti	építészeti	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-és	és	CONJ	_	
-szakági	szakági	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-tervezés	tervezés	NOUN	Case=Nom|Number=Sing	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:0245169886d8d9232431a40d21eff098dd6db552b7f79c9b48ec30ab2e8fd255
+size 850

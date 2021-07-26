@@ -1,1 +1,3 @@
-Használaton kívüli bányászati célú mélyfúrások műszaki felszámolás 2016.
+version https://git-lfs.github.com/spec/v1
+oid sha256:72ecb0159244930f70e2740801614a8e3330907e87c4cf1df3a9d678d5cf01e4
+size 85

@@ -1,23 +1,3 @@
-K2	K2	PROPN	Case=Nom|Number=Sing	
-alapú	alapú	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-munkafolyamat-irányító	munkafolyamat-irányító	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-infrastruktúra	infrastruktúra	NOUN	Case=Nom|Number=Sing	
-szoftverkövetése	szoftverkövetés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-,	,	PUNCT	_	
-bővítése	bővítés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-,	,	PUNCT	_	
-valamint	valamint	CONJ	_	
-a	a	DET	Definite=Def|PronType=Art	
-K2	K2	PROPN	Case=Nom|Number=Sing	
-infrastruktúra	infrastruktúra	NOUN	Case=Nom|Number=Sing	
-és	és	CONJ	_	
-workflow	workflow	NOUN	Case=Nom|Number=Sing	
-alkalmazások	alkalmazás	NOUN	Case=Nom|Number=Plur	
-eseti	eseti	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-támogatása	támogatás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-,	,	PUNCT	_	
-hibajavítása	hibajavítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-és	és	CONJ	_	
-fejlesztése	fejlesztés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:4198820f6864554fc189832693edef130f6a3a51cfb356bfb32497dec3886c19
+size 1058

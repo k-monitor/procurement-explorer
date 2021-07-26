@@ -1,1 +1,3 @@
-Tervezési szerződés „M9 gyorsforgalmi út Kaposvár-Szekszárd közötti szakasz környezeti hatástanulmány készítése, környezetvédelmi engedély megszerzése, és M9 Kaposvár-Bonyhád szakasz autóúti építési engedélyezési tervek készítése” tárgyában.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3a4337547dcf0f215cdea4ca032afdfc25d872c91637294940c9ad0d8aa51ccd
+size 278

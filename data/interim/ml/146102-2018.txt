@@ -1,25 +1,3 @@
-Az	az	DET	Definite=Def|PronType=Art	
-NMI	NMI	PROPN	Case=Nom|Number=Sing	
-Művelődési	Művelődési	PROPN	Case=Nom|Number=Sing	
-Intézet	Intézet	PROPN	Case=Nom|Number=Sing	
-Nonprofit	nonprofit	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-Közhasznú	Közhasznú	PROPN	Case=Nom|Number=Sing	
-Kft.	Kft.	PROPN	Case=Nom|Number=Sing	
-székhelyének	székhely	NOUN	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-építése	építés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-a	a	DET	Definite=Def|PronType=Art	
-6065	6065	NUM	Case=Nom|NumType=Card|Number=Sing	
-Lakitelek	Lakitelek	PROPN	Case=Nom|Number=Sing	
-,	,	PUNCT	_	
-Felsőalpár	felsőalpár	NOUN	Case=Nom|Number=Sing	
-3.	3.	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-alatti	alatti	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-ingatlanon	ingatlan	NOUN	Case=Sup|Number=Sing	
-(	(	PUNCT	_	
-1.	1.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
-és	és	CONJ	_	
-2.	2.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
-ütem	ütem	NOUN	Case=Nom|Number=Sing	
-)	)	PUNCT	_	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:ea3afe9713d4909e62fc531f5e1289ca5c6a0d7b5881a8b0d77709a275fb02e5
+size 1033

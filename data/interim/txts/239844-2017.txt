@@ -1,1 +1,3 @@
-A Hír-Közmű 1.0 E-Terv rendszer és az AutoCad MAP3D tervezői segédprogram kifejlesztése, üzembe helyezése és alkalmazás-támogatása vállalkozási szerződések keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:824bea129ffe6afb6fc2c319f78164d9880e3337cc9f90a8d6ccf1cbcea78212
+size 184

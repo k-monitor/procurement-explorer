@@ -1,1 +1,3 @@
-Vállalkozási szerződés a PTE meglévő SAP rendszerének fejlesztése, annak funkcionális bővítésével, valamint annak az SAP magyar államigazgatási megoldáscsomagja szerinti tartalommal történő funkcionális sztenderdizációjával.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bfce8e391c484f735d61215927198a114cbd63a7e829c3153954b4b067925d4a
+size 247

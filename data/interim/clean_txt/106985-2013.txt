@@ -1,8 +1,3 @@
-vállalkozási szerződés a
-a003
-338. sz. főút nyíregyháza nyugati elkerülő
-0+000
-2+225 km
-sz. közötti
-szakasz kivitelezési munka elvégzés
-tárgy
+version https://git-lfs.github.com/spec/v1
+oid sha256:3dc43e06913e499f793482748f2826ec041e940468a2e32b82d934adb1a2260c
+size 157

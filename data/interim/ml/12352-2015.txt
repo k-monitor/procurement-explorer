@@ -1,7 +1,3 @@
-Adásvételi	adásvételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-labordiagnosztikai	labordiagnosztikai	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-reagensek	reagens	NOUN	Case=Nom|Number=Plur	
-beszerzésére	beszerzés	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:b04b347d654523bf593b2f490b642b921263885cfbfa86b4fb46f470359f0652
+size 334

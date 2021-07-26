@@ -1,1 +1,3 @@
-Élelmiszer alapanyag beszerzés szállítási szerződés keretében 36 hónapra.
+version https://git-lfs.github.com/spec/v1
+oid sha256:29025cc958caf9662a004f7d708df8fadcd633e2143c2300efee227968ac6c1f
+size 82

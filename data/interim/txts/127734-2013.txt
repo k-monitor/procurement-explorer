@@ -1,1 +1,3 @@
-Megbízási szerződés Zalaegerszeg Megyei Jogú Város Önkormányzata és intézményei részére számlavezetési szolgáltatás nyújtására.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d4cbb6bd5ac6ac42f879d422c2f224af01e12780b7de20e07083963b98072da8
+size 147

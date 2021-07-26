@@ -1,7 +1,3 @@
-a 2015. évi
-törvény
-kbt. 105. §
-bekezdés c
-pont szerinti keretmegállapodás megkötés irányuló eljárás
-az állami számvevőszék részére ellenőrzési tevékenység ellátás külső szakértő igénybevétel
-tárgy
+version https://git-lfs.github.com/spec/v1
+oid sha256:bcdc87f669839fe170c09b734df8ba3f27868d48325b98f773b7a372e20870dc
+size 229

@@ -1,1 +1,3 @@
-Biztosítási szerződés, vagyon- és felelősségbiztosítás Budapest Főváros XIV. Kerület Zugló Önkormányzat részére.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a114db154743b686d3d63e26ba10d193c2ab978e654b94373714e17e742b1d29
+size 129

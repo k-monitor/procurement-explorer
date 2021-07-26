@@ -1,8 +1,3 @@
-Adásvételi	adásvételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződések	szerződés	NOUN	Case=Nom|Number=Plur	
-keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-kényszerszállító	kényszerszállító	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-gépjárművek	gépjármű	NOUN	Case=Nom|Number=Plur	
-beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:d45de63aecfdb52413b8cede35653d941e984fa5fe5df02f0ab699518969c584
+size 423

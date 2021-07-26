@@ -1,12 +1,3 @@
-földgáz adásvételi keretszerződés keret az ajánlatkérő és az intézmény részére a magyar földgáz hálózat folyamatos rendelkezés álló
-szabványos minőségű földgáz energia versenypiaci beszerzés 2012.10.01
-óra
-2013.07.01
-óra tartó időszak vonatkozó
-teljes ellátásalapú földgáz-kereskedelmi szerződés keret
-mely maga foglal a rendszerhasználati díj és a földgázvásárlás kapcsolódó jogszabály előírt
-az ajánlatkérő teher eső költség
-díj
-adó és más járulék teljeskörű elszámolás is
-földgázkereskedő kiválasztás
-gázév debrecen mj város
+version https://git-lfs.github.com/spec/v1
+oid sha256:12e294194c50227c3764f2954d3fe67de42cb0ca2518111ec40b15fbdaab2428
+size 604

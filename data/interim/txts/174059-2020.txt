@@ -1,1 +1,3 @@
-Mercedes gyártmányú alapgépekhez gyári új, és/vagy gyári felújított alkatrészek beszerzése és szállítása
+version https://git-lfs.github.com/spec/v1
+oid sha256:f3cfeeec3a365a78e703216e2158882ea3749eff4f7ef5a002c269aabc3a988a
+size 120

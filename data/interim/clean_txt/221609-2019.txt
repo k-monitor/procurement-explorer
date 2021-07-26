@@ -1,10 +1,3 @@
-jármű beszerzés tartós bérleti szerződés keret jelen közbeszerzési eljárás cél
-az alábbi részletezett minimum műszaki paraméter rendelkező gépjármű beszerzés
-1. számú gépjárműtípus
-db új zárt dobozos tehergépjármű 2. számú gépjárműtípus
-db új közép kategóriás kombi kivitelű személygépjármű 3. számú gépjárműtípus
-db új felső-közép kategóriás kombi kivitelű személygépjármű 4. számú gépjárműtípus
-db új billenő platós
-duplakabinos tehergépjármű
-hónap időtartamú
-operatív bérleti és flottarendszerű üzemeltetési konstrukció történő biztosítás az ajánlatkérő számára
+version https://git-lfs.github.com/spec/v1
+oid sha256:02da3a2c2e379eed8cc77ea3b7fd0afe2e3302f547e7ef5c92c9184410d5b004
+size 661

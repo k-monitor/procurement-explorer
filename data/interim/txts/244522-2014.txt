@@ -1,1 +1,3 @@
-Vállalkozási szerződés közétkeztetés feladatai biztosítására Szajol Községi Önkormányzat tulajdonában álló főzőkonyha üzemeltetésével.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8a11222dd95a4dbff3b868c459146dfd2eec2d1b4e67864d50f7e269bbe5b6ae
+size 156

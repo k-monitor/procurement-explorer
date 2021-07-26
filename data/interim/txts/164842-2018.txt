@@ -1,1 +1,3 @@
-„Reklámügynöki tevékenység (médiafoglalás) végzése vállalkozási szerződés alapján az EuroSkills 2018 Budapest rendezvénnyel összefüggésben”.
+version https://git-lfs.github.com/spec/v1
+oid sha256:84d2a9dedaf5a88f3e968ef0a30fb1b2fea787ef2a3c9b11d7fd2273d9541046
+size 162

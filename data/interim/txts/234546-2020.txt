@@ -1,1 +1,3 @@
-DEK-901 Légtechnikai rendszerek tisztítása, fertőtlenítési szolgáltatásának biztosítása 48 hónapra 1. rész: Légtechnikai rendszerek tisztítása, fertőtlenítése a Nagyerdei Campus + Élettudományi laborban (KK) 2. rész: Légtechnikai rendszerek tisztítása, fertőtlenítése a Kenézy Gyula Egyetemi kórházban (KEK) A részleteket a műszaki leírás tartalmazza.
+version https://git-lfs.github.com/spec/v1
+oid sha256:702b0862fd88d8e4565bc5699c990535d8d07eff0b68078efd4c032382130a8f
+size 386

@@ -1,1 +1,3 @@
-Szállítási szerződés különféle élelmiszerek beszerzésére, szerződéskötéstől számított 24 hónap határozott időre. Röviden: „Élelmiszer beszerzés 2015”.
+version https://git-lfs.github.com/spec/v1
+oid sha256:184b69832a2509b2dcee43bff26d5f0bf5ac7e82ac41f0aa1b0bb34219d7769c
+size 178

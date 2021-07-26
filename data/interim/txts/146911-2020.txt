@@ -1,1 +1,3 @@
-LÁEV mélyépítési beruházások kivitelezése vállalkozási szerződés.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3a706ab98739306cc9df35aca9c5e44a4955b37349f561d152d0cf854be1ddf4
+size 77

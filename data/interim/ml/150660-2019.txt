@@ -1,13 +1,3 @@
-Adás-vételi	Adás-vételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-a	a	DET	Definite=Def|PronType=Art	
-MENTO	mento	NOUN	Case=Nom|Number=Sing	
-Környezetkultúra	környezetkultúra	NOUN	Case=Nom|Number=Sing	
-Korlátolt	korlátolt	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-Felelősségű	felelősségű	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-Társaság	Társaság	PROPN	Case=Nom|Number=Sing	
-részére	részére	ADP	_	
-szállítójárművek	szállítójármű	NOUN	Case=Nom|Number=Plur	
-beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:06d6601f90ad048700e9945b53c85ed9856355d2a85a78c3dac601a3f2989c89
+size 687

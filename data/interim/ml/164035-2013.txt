@@ -1,34 +1,3 @@
-Szolgáltatási	szolgáltatási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-keretszerződés	keretszerződés	NOUN	Case=Nom|Number=Sing	
-„	„	PUNCT	_	
-A	a	DET	Definite=Def|PronType=Art	
-HHM	HHM	PROPN	Case=Nom|Number=Sing	
-területén	terület	NOUN	Case=Sup|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-lévő	lévő	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-kazánoknál	kazán	NOUN	Case=Ade|Number=Plur	
-8	8	NUM	Case=Nom|NumType=Card|Number=Sing	
-db	db	NOUN	Case=Nom|Number=Sing	
-artec	artec	NOUN	Case=Nom|Number=Sing	
-típusú	típusú	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-hűtővíz	hűtővíz	NOUN	Case=Nom|Number=Sing	
-befecskendező	befecskendező	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-szabályzószelep	szabályzószelep	NOUN	Case=Nom|Number=Sing	
-,	,	PUNCT	_	
-valamint	valamint	CONJ	_	
-1	1	NUM	Case=Nom|NumType=Card|Number=Sing	
-db	db	NOUN	Case=Nom|Number=Sing	
-40	40	NUM	Case=Nom|NumType=Card|Number=Sing	
-/	/	PUNCT	_	
-10	10	NUM	Case=Nom|NumType=Card|Number=Sing	
-bar-os	bar	NOUN	Case=Nom|Number=Sing	
-redukálónál	redukáló	ADJ	Case=Ade|Degree=Pos|Number=Sing|VerbForm=PartPres	
-található	található	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-artec	artec	NOUN	Case=Nom|Number=Sing	
-típusú	típusú	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-hűtővíz	hűtővíz	NOUN	Case=Nom|Number=Sing	
-befecskendező	befecskendező	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-szabályzószelep	szabályzószelep	NOUN	Case=Nom|Number=Sing	
-javítása	javítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-"	"	PUNCT	_	
-tárgyában	tárgy	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:104a1fde8ede3a778886da8014cdf52b03514c32a62224c455f453b87b242f9d
+size 1663

@@ -1,2 +1,3 @@
-adásvételi keretszerződés keret új általános szerelési segédanyag
-hidraulika és pneumatika alkatrész szállítás
+version https://git-lfs.github.com/spec/v1
+oid sha256:58b8f37d8946e05fd5184e352704765de36a8c8260ac93bd64c98dfe51957d64
+size 124

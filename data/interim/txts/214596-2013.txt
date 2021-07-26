@@ -1,1 +1,3 @@
-Tervezési szerződés keretében a Nemzeti Infrastruktúra Fejlesztő Zrt. beruházásaiban építéssel érintett útszakaszok és kapcsolódó létesítmények, műtárgyak környezetvédelmi felülvizsgálatának (teljesítményértékelésének), valamint szükség szerinti Natura 2000 hatásvizsgálatának elkészítése és hatósági határozat megszerzése a Dél-Dunántúl, a Nyugat-Dunántúl és a Közép-Dunántúl régiókban.
+version https://git-lfs.github.com/spec/v1
+oid sha256:64b16e736d2bdafd404c4d58c2dfe36017dd641c2acba950871124f1f735c3b6
+size 444

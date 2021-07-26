@@ -1,2 +1,3 @@
-fejlesztési hitel nyújtás budapest főváros xx
-kerület pesterzsébet önkormányzata számára
+version https://git-lfs.github.com/spec/v1
+oid sha256:d024f99d83546089fcee7ba8fa57ecb8d3dd6b7008a164ccc685586fd038259f
+size 99

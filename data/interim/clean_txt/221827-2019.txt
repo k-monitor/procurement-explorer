@@ -1,7 +1,3 @@
-neuro-imager and accesories
-fotoakusztikus és nagyfelbontású ultrahang
-képalkotó és spect
-ct rendszer
-nagyérzékenységű és nagyfelbontású izotópos és röntgen kisállat képalkotó berendezés
-beszerzés a vekop -2.
-3-15-2016-00005 azonosító számú pályázat alap
+version https://git-lfs.github.com/spec/v1
+oid sha256:ab20945adaf004b3ef2b39c7fdb1394a6fff9a446d9505a658c8a85f833bfc88
+size 281

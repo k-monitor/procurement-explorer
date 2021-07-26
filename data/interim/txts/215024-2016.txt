@@ -1,1 +1,3 @@
-WEB technológia és az AVAYA Call Center üzemeltetésével kapcsolatos szakértői támogatás beszerzése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:59c3ef6109f63d98d0186dd6b4d75c4ba3d1257f594721db6323f894a4be0bc3
+size 109

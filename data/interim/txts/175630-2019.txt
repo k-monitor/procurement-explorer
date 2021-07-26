@@ -1,1 +1,3 @@
-Kecskeméti Városháza műemléki felújításához kapcsolódó műszaki ellenőri és műszaki tanácsadói feladatok ellátása
+version https://git-lfs.github.com/spec/v1
+oid sha256:421eb9ab233921d76c96ace7f303c69dd7a3d7a47fa3da00be6af37d1ecad066
+size 131

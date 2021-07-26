@@ -1,1 +1,3 @@
-román csarnok és kapcsolódó tér rekonstrukció az ajánlati dokumentáció részletezett szerint
+version https://git-lfs.github.com/spec/v1
+oid sha256:1168dfc355d805bca7674c6062666dcaf294d7a1882bb1e320cb07f66bb750e2
+size 101

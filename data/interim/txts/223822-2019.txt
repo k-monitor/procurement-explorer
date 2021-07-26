@@ -1,1 +1,3 @@
-„Keretszerződés a Budapest Főváros XIII. kerületi Önkormányzat tulajdonában lévő ingatlanok kivitelezési, felújítási, bővítési, tervezett karbantartási és bontási, továbbá veszélyelhárítási munkálatainak elvégzésére”
+version https://git-lfs.github.com/spec/v1
+oid sha256:512775c7bf88e50225309f4a17f38869e633750b434147592802406ee597f138
+size 250

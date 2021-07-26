@@ -1,13 +1,3 @@
-építési szerződés
-héhalom agglomeráció
-héhalom
-szira
-palotás
-egyházasdengeleg
-kisbágyon
-szennyvízelvezetés és tisztítás
-pályázat azonosító szám
-keop-1
-2.0
-09-11-2011-0027
-fidic könyv szerződéses feltétel szerint
+version https://git-lfs.github.com/spec/v1
+oid sha256:fa27cb448ba73b3af0492b9cbfbf67a724c1ddaa393b48a69967ad8d71293b74
+size 237

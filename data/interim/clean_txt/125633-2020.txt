@@ -1,5 +1,3 @@
-konszignációs adásvételi szerződés keret műlencse
-az az tartozó fogyóanyag beszerzés
-valamint a műlencse beültetés szükséges szemészeti phaco készülék bérlet
-a készülék kezelés betanítás
-karbantartás a szerződés hatály alatt teljes körű szervizszolgáltatás biztosítás
+version https://git-lfs.github.com/spec/v1
+oid sha256:59aba5aa3be51b291bb21b2888a2adb4feeb4812c3481703629ce85d45c19487
+size 303

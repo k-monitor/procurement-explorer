@@ -1,18 +1,3 @@
-Szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-meghatározása	meghatározás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-:	:	PUNCT	_	
-Adásvételi	adásvételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-.	.	PUNCT	_	
-
-Önjáró	önjáró	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-útburkolatfestő	útburkolatfestő	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-berendezés	berendezés	NOUN	Case=Nom|Number=Sing	
-beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-,	,	PUNCT	_	
-a	a	DET	Definite=Def|PronType=Art	
-dokumentációban	dokumentáció	NOUN	Case=Ine|Number=Sing	
-leírtaknak	leírt	NOUN	Case=Dat|Number=Plur	
-megfelelően	meg+felelő	ADJ	Case=Ess|Degree=Pos|Number=Sing|VerbForm=PartPres	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:3d0c804df87465187394f264ecb0bbaf98f62cbf5df7a14320cca145c636cad8
+size 795

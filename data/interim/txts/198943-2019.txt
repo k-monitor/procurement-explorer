@@ -1,1 +1,3 @@
-Határidős adásvételi szerződéssel vegyes bérleti szerződés alapján laboratóriumi vizsgálatokhoz szükséges reagensek, fogyóanyagok és automaták biztosítása
+version https://git-lfs.github.com/spec/v1
+oid sha256:cd85aa553946c0c1945c4275dcddef00c6b71a9e47f867ad4bd399892511dd7d
+size 173

@@ -1,1 +1,3 @@
-Pharmatech gyógyszeripari modell-laboratórium kialakításához szükséges eszközök beszerzése összesen 6 részben a FIEK_16-1-2016-0007 számú pályázat 1.3.0. részprojektjéhez kapcsolódóan. 1. rész: Folyamatos üzemű áramlásos hidrogénező rendszer beszerzése. 2. rész: Alacsony hőmérsékletű áramlásos reaktor rendszer beszerzése. 3. rész: Nagy nyomású, moduláris folyamatos üzemű reaktor rendszer beszerzése. 4. rész: In-line és on-line mérésre alkalmas Fourier-transzfomációs infravörös (FTIR) spektrofotométer beszerzése fűthető ATR mérési lehetőséggel és termosztálható átfolyócellás kialakítással. 5. rész: Folyamatos üzemű gyógyszeripari nedves granuláló, szárító és regranuláló integrált gépsor beszerzése valós idejű analitikai (PAT) kontrollal. 6. rész: Klímakamra beszerzése hőmérséklet és páratartalom kontrollal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7bdaf40ca39b8bbf126cdb7382accad7adf7e58b163c24e2357429b7084f58ac
+size 909

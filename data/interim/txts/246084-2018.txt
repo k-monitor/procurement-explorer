@@ -1,1 +1,3 @@
-Vállalkozási szerződés az MTA Székház és Könyvtár rekonstrukciós munkálatainak előkészítése keretében az épületek alapozási tartószerkezeteinek állékonyság vizsgálata, szigetelési tanulmányterv készítése, valamint ehhez kapcsolódóan a Székház és könyvtár alapfalai feltárásának kivitelezése tárgyában.
+version https://git-lfs.github.com/spec/v1
+oid sha256:be6d897826359cf264667ec2a1ca40fea788d5a6080b3df546ad802405121789
+size 343

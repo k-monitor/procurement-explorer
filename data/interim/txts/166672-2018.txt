@@ -1,1 +1,3 @@
-Könnyűteher gépjárművek bérlése határozott időre szóló flottakezelési szerződés keretében, az alábbi megoszlás szerint. 2 db Művezetői gépjármű I., 139 db Művezetői gépjármű II., 7 db Művezetői gépjármű III., 26 db Művezetői gépjármű IV., 274 db Duplafülkés, platós gépjármű I., 2 db Duplafülkés, platós, ponyvás gépjármű II.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0ee658203a446d8f5f82d36d488cd0e28245b163407a36c0153e698789d439e4
+size 375

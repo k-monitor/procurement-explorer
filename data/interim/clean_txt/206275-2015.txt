@@ -1,6 +1,3 @@
-különféle jármű fajta és mennyiség szerint meghatározott határidős adásvétel a
-tápió ment régió szennyvíz elvezetés és szennyvíz tisztítás
-keop-1
-2.0
-09-2009-0021
-elnevezésű projekt keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:02a681ab2fb35a2e5513b39a0b6f628908122b85cd3d914647862c9c7a46b423
+size 211

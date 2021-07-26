@@ -1,1 +1,3 @@
-Üdítőitalok beszerzése fogyasztói forgalomban történő viszonteladás céljával
+version https://git-lfs.github.com/spec/v1
+oid sha256:f73669076a0db60b776693fc4d7a04f75af706ce10cb9351825cd80a9c6ea83a
+size 87

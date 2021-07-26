@@ -1,1 +1,3 @@
-Orosháza Város Önkormányzata közigazgatási területén működő közvilágítási hálózat aktív elemeinek üzemeltetése, karbantartása, felügyelete, ellenőrzése 7 évre kötendő szolgáltatási szerződés keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fbd79002526f78a82a6da7e0cca10c994e389e3adf8a4ed73e3bf1749faad451
+size 233

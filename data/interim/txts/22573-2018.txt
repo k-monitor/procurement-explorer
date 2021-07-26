@@ -1,1 +1,3 @@
-McAfee Endpoint Protection – Advanced Suite licencek meghosszabbítása, valamint kapcsolódó gyártói támogatás megújítása.
+version https://git-lfs.github.com/spec/v1
+oid sha256:63c15d7787dc1c9045887a87b3c00ed7c06e56c09d2d31aa76b7ef49efa8fe93
+size 133

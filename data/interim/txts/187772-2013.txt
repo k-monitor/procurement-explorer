@@ -1,1 +1,3 @@
-Szállítási szerződés alapján élelmiszer alapanyagok beszerzése 7 részajánlattételi körben.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1475795bb7aa8a11dd842948d938b6c194cf8f31d2e96b3e496494d9d6793620
+size 102

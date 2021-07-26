@@ -1,2 +1,3 @@
-db nagyteljesítményű genetikai analizátor készülék
-hozzákapcsolódó db laboratóriumi robotikus munkaállomás és kiértékelő valamint adatbázis szoftver beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:70ad287af8003bc0663d666eab464b2bb6758056209d7cf9b95a7534849e4222
+size 177

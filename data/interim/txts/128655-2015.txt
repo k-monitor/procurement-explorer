@@ -1,1 +1,3 @@
-Földgáz energia szállítása az ajánlatkérő részére 1.7.2015. 6:00 CET – 1.7.2016. 6:00 CET időszakra vonatkozóan, teljes ellátás alapú földgáz energia kereskedelmi szerződés keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:734162fd195b028cd3e0ed1dc75235c0b9e57c90379c4806a3d672b1ed9cb1e0
+size 205

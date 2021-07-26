@@ -1,1 +1,3 @@
-Adásvételi szerződés keretében élelmiszer-alapanyagbeszerzése a Kalocsai Közétkeztetési Intézmény részére a részletezett műszaki leírás szerint (árazatlan terméklista).
+version https://git-lfs.github.com/spec/v1
+oid sha256:7cd02b93b5686eec3d2a22e61a230860f183dcc728ddd8f2fbdfee6de2fe7032
+size 188

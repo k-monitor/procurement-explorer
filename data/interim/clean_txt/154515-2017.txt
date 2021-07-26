@@ -1,11 +1,3 @@
-tervezési feladat ellátás a liszt ferenc nemzetközi repülőtér belső és külső közúti hálózat és kapcsolatrendszer fejlesztés rész
-1. rész
-belső úthálózat fejlesztés
-c porta j porta
-kiviteli tervdokumetáció elkészítés és vízjogi létesítési engedélyezési dokumentáció elkészítés és a vízügyi hatóság vízjogi létesítési engedély beszerzés
-2. rész
-a vecsési kettős körforgalom repülőtér felé eső körforgalmú csomópont összekapcsolás a repülőtér belső szervizú hálózat
-engedélyezési és kiviteli terv készítés
-3. rész
-terminál2 közúti előtér j porta és holiday parkoló megközelítő út csomópont
-engedélyezési és kiviteli terv készítés
+version https://git-lfs.github.com/spec/v1
+oid sha256:7c24da7feaef7d953b5deb1a9282515f7f99e98020bc547cebd9b40b89785daa
+size 724

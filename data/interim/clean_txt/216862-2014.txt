@@ -1,2 +1,3 @@
-adásvételi szerződés a pilisvörösvári szennyvízcsatorna hálózat eszközállomány fejlesztés tárgy
-adásvételi szerződés db kombinált csatornatisztító célgép beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:79eeea2aaa457e48659ada944ded725d2a41edac900840183826c5a4577327bc
+size 188

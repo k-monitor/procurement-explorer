@@ -1,7 +1,3 @@
-Földgáz-értékesítési	Földgáz-értékesítési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-alapján	alap	NOUN	Case=Sup|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-földgáz	földgáz	NOUN	Case=Nom|Number=Sing	
-beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:e83eadb782b7195f1a6966e8ecf13128e33e2279c21f464ad5320f77b87f86fd
+size 360

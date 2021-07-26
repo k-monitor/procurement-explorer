@@ -1,3 +1,3 @@
-általános felhasználású villamos energia értékesítés a 1.1.2020
-cet
-31.12.2021
+version https://git-lfs.github.com/spec/v1
+oid sha256:5f2eeb8fc902ef31de8f37fa1174ab8d24d85761eeb6c5bc690e3c4673e602e6
+size 87

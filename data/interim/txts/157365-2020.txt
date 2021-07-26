@@ -1,1 +1,3 @@
-Tervezési szerződés a Dunakeszi meglévő üzemmérnökségi telep ütemezett bővítésére vonatkozó tervdokumentációk elkészítésére
+version https://git-lfs.github.com/spec/v1
+oid sha256:6f15a8a8d7d3d0f755f71e38b9c7b84d09842ab6eb5916c33f9474cd32505108
+size 144

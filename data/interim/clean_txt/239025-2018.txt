@@ -1,3 +1,3 @@
-szállítási szerződés egészségügyi implantátum
-térdprotézis beszerzés
-kihelyezett áruraktár biztosítás a szent lázár megyei kórház hónapos időtartam
+version https://git-lfs.github.com/spec/v1
+oid sha256:13f47674e3dfa04b90c4094873ca4182f12530f21a62e803b7b1b8789fed340f
+size 169

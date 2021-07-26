@@ -1,8 +1,3 @@
-adás-vételi szerződés keop-5
-6.0
-e
-egészségügyi eszköz energia-megtakarítás célzó beszerzés támogatás című pályázati konstrukció képalkotó diagnosztikai eszköz beszerzés
-feltételes közbeszerzési eljárás spect
-ct berendezés beszerzés
-valamint a fenntartási időszak vég tartó jótállás és a napi működés szükséges tervszerű
-megelőző karbantartási feladat ellátás
+version https://git-lfs.github.com/spec/v1
+oid sha256:5d7dadad430f82f90e6645abaa6b1805c7c69db7830407a2c960f9700d3bbc3d
+size 409

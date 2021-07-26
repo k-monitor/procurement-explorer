@@ -1,16 +1,3 @@
-Megbízási	megbízási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-a	a	DET	Definite=Def|PronType=Art	
-Kecskeméti	Kecskeméti	PROPN	Case=Nom|Number=Sing	
-CAMPUS	CAMPUS	PROPN	Case=Nom|Number=Sing	
-beruházás	beruházás	NOUN	Case=Nom|Number=Sing	
-I.	1.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
-ütemének	ütem	NOUN	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-műszaki	műszaki	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-ellenőri	ellenőri	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-és	és	CONJ	_	
-lebonyolítói	lebonyolító	ADJ	Case=Nom|Degree=Pos|Number=Plur|Number[psor]=Sing|Person[psor]=3|VerbForm=PartPres	
-feladatainak	feladat	NOUN	Case=Gen|Number=Plur|Number[psor]=Sing|Person[psor]=3	
-ellátására	ellátás	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:f11458aea511a99b1fc599acbaabb1f1a707d2beccc7d8220654f85de102bd66
+size 837

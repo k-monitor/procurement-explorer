@@ -1,10 +1,3 @@
-Adásvételi	adásvételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-„	„	PUNCT	_	
-ADN	ADN	PROPN	Case=Nom|Number=Sing	
-járőrhajó	járőrhajó	NOUN	Case=Nom|Number=Sing	
-beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-"	"	PUNCT	_	
-tárgyban	tárgy	NOUN	Case=Ine|Number=Sing	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:c914d6833d4559fdda54476c4a376a298e5e42053864f1c103c91e5e6e219a9c
+size 374

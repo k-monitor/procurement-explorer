@@ -1,35 +1,3 @@
-A	a	DET	Definite=Def|PronType=Art	
-Debreceni	debreceni	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-Egyetem	Egyetem	PROPN	Case=Nom|Number=Sing	
-a	a	DET	Definite=Def|PronType=Art	
-GINOP-2	GINOP-2	PROPN	Case=Nom|Number=Sing	
-.	.	PUNCT	_	
-
-3	3	NUM	Case=Nom|NumType=Card|Number=Sing	
-.	.	PUNCT	_	
-2-15-2016-00011	2-15-2016-00011	PROPN	Case=Nom|Number=Sing	
-azonosítószámú	azonosítószámú	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-,	,	PUNCT	_	
-„	„	PUNCT	_	
-szájüregi	szájüregi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-megbetegedések	megbetegedés	NOUN	Case=Nom|Number=Plur	
-molekuláris	molekuláris	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-vizsgálata	vizsgálat	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-"	"	PUNCT	_	
-című	című	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-pályázata	pályázat	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-támogatást	támogatás	NOUN	Case=Acc|Number=Sing	
-nyert	nyer	VERB	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	
-.	.	PUNCT	_	
-
-A	a	DET	Definite=Def|PronType=Art	
-pályázat	pályázat	NOUN	Case=Nom|Number=Sing	
-keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-1	1	NUM	Case=Nom|NumType=Card|Number=Sing	
-db	db	NOUN	Case=Nom|Number=Sing	
-keménységmérő	keménységmérő	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-eszköz	eszköz	NOUN	Case=Nom|Number=Sing	
-beszerzésére	beszerzés	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-vállalkoztunk	vállalkozik	VERB	Definite=Ind|Mood=Ind|Number=Plur|Person=1|Tense=Past|VerbForm=Fin|Voice=Act	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:46137a872f71381c9398d3aa0de75475f97d171c35def6b95e1ab6240c317650
+size 1585

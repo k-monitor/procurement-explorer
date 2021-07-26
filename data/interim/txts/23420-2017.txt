@@ -1,1 +1,3 @@
-Kötszerek beszerzése beszerzése 26 részben adásvételi keretszerződés keretében a II.2.4) pontban, valamint a közbeszerzési dokumentumokban rögzítettek szerint.
+version https://git-lfs.github.com/spec/v1
+oid sha256:851292b0bc09541fed03c8a526d337f9683975f88375d691efd703dc0feffe50
+size 172

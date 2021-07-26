@@ -1,1 +1,3 @@
-Szállítási szerződés téli síkosság-mentesítő anyag (útszóró só) beszerzése érdekében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ce7cee863dca03b6099c102ceba22c8bb803faaaa25c06ecc0235623112cfb46
+size 102

@@ -1,5 +1,3 @@
-földgáz energia szállítás az ajánlatkérő részére 1.7.2019
-cet
-1.7.2020
-cet időszak vonatkozó
-teljes ellátás alapú földgáz energia kereskedelmi szerződés keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:79de463f6173664dbe8e74ae5e7a0a0b415ac533f74c04cd2279c945f42ff8c0
+size 177

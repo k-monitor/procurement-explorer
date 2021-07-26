@@ -1,1 +1,3 @@
-Határozott idejű adás-vételi szerződés keretei között kíván beszerezni az Ajánlatkérő 1 db endoscopos ultrahang diagnosztikai készüléket/rendszert a jelen eljárást megindító felhívás specifikációja szerint a meglévő Olympus gyártású endoscopos rendszerrel kompatibilisnek kell lennie.
+version https://git-lfs.github.com/spec/v1
+oid sha256:27bb0a6ee509f1bfe4d284b71739f1ff592283dfac17d322162932c8f739a272
+size 313

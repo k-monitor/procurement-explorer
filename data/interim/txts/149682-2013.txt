@@ -1,1 +1,3 @@
-EM-560 DEOEC részére neuronavigációs rendszer beszerzésére irányuló szállítási szerződés.
+version https://git-lfs.github.com/spec/v1
+oid sha256:836103cd1ba9d994fdd000885454fc95b132c300bc3c07b2e14fed90508f370b
+size 102

@@ -1,1 +1,3 @@
-Megbízási szerződés irattári bértárolási és iratkezelési-irattározási-irattárosi szolgáltatások megrendelésére.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e1c44191c8c28794f2a17b06a73f70711b557bcde37bd7f8fcdb33b2289a2533
+size 128

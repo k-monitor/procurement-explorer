@@ -1,1 +1,3 @@
-vállalkozási szerződés db kitűző hajó fejlesztés
+version https://git-lfs.github.com/spec/v1
+oid sha256:b849b9a45b4500d50b1d0860aed17a1ff6a45afc021c496df9600c30c4456eda
+size 56

@@ -1,25 +1,3 @@
-Tervezési	tervezési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-Biatorbágy	biatorbágy	NOUN	Case=Nom|Number=Sing	
--	-	PUNCT	_	
-Tata	Tata	PROPN	Case=Nom|Number=Sing	
-vasúti	vasúti	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-vonalszakasz	vonalszakasz	NOUN	Case=Nom|Number=Sing	
-kiviteli	kiviteli	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-terveinek	terv	NOUN	Case=Gen|Number=Plur|Number[psor]=Sing|Person[psor]=3	
-,	,	PUNCT	_	
-támogatási	támogatási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-kérelmének	kérelem	NOUN	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-,	,	PUNCT	_	
-valamint	valamint	CONJ	_	
-a	a	DET	Definite=Def|PronType=Art	
-kivitelezésre	kivitelezés	NOUN	Case=Sub|Number=Sing	
-irányuló	irányuló	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-közbeszerzési	közbeszerzési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-eljárás	eljárás	NOUN	Case=Nom|Number=Sing	
-műszaki	műszaki	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-köteteinek	kötet	NOUN	Case=Gen|Number=Plur|Number[psor]=Sing|Person[psor]=3	
-elkészítése	elkészítés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-tárgyában	tárgy	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:7e870f5763276afd40d65b0e9780f42addd1f3d55b33f31541b054cdfc9e2b97
+size 1244

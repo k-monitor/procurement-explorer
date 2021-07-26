@@ -1,4 +1,3 @@
-makó és térsége ivóvízminőség-javító önkormányzati társulás ivóvízminőség-javító beruházás ii
-szakasz és iii
-új
-kiegészítő beruházási ütem kapcsolódó fidic mérnöki és műszaki ellenőri feladat ellátás
+version https://git-lfs.github.com/spec/v1
+oid sha256:790c0769a3a32c676c2674930a8003d9338a4c05f1733781a20ab790604ece7f
+size 238

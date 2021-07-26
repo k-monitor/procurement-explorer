@@ -1,1 +1,3 @@
-Az MNB meglévő Microsoft EA szerződésének 3. évére esedékes díjak megfizetésében közreműködő, a technikai lebonyolítást intéző partner (LSP) kiválasztása. Az MNB meglévő Microsoft EA szerződésének 3. éves időszakában - TRUE-UP 3 (fordulónap: 2021.1.31.) -tartozó licencek opcionális szállítása. Összesen 4 912 db különféle Microsoft szoftverlicenc használatának és követésének biztosítása és 392 db különféle Microsoft szoftverlicenc opcionális beszerzésének nyújtása. További információk a Közbeszerzési dokumentumok részét képező követelményspecifikációban találhatóak.
+version https://git-lfs.github.com/spec/v1
+oid sha256:11221a736c215333fe79f6a9c494db3d6224c54dec617b95a380b5540eead877
+size 642

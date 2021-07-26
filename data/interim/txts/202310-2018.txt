@@ -1,1 +1,3 @@
-1.) 2 db. Padlótelepítésű laboratóriumi gyúrókamra beszerzése, termoplasztikus polimerekhez és elasztomerekhez. 2.) Opcionális tételként a padlótelepítésű laboratóriumi gyúrókamrához szükséges tartozék - 1 db „dokkoló állomás” (Docking Station)
+version https://git-lfs.github.com/spec/v1
+oid sha256:6328ada4823376c39f53a48acbea88aea214dd692ff7c3ca65f6e05eff81259a
+size 274

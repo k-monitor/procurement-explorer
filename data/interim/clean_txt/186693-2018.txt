@@ -1,7 +1,3 @@
-az
-eli lézer kutatóközpont megvalósítás ginop-2
-6-15-2015-00001
-eli-alps
-nagyprojekt 2. fázis
-p4
-projekt keret mir lézerdiagnosztikai és optikai komponens beszerzés rész keretmegállapodás alap
+version https://git-lfs.github.com/spec/v1
+oid sha256:3cf2391db2f101adc1d4e91a6b671453e9d9e712c8a2771a3ccd6e84b115ad27
+size 205

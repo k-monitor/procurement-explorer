@@ -1,1 +1,3 @@
-Egyszerhasználatos anyagok beszerzése 2014.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ad31df245087558137ddbb239452ec8a12c908721f5a9824e1ddf70a60767ec7
+size 45

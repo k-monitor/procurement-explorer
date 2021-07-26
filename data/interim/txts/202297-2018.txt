@@ -1,1 +1,3 @@
-VEKOP Laboreszköz beszerzés.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0a887d4ef21c519150a701fd12b14ce6227ad38ea32be5aec6d6f826913ecf02
+size 30

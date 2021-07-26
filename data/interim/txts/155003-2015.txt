@@ -1,1 +1,3 @@
-Adás-vételi keretszerződés „Nagyteljesítményű tábori víztisztító állomások - kizárólagosságot nem érintő- 30 napos vegyszerkészletének beszerzése” tárgyban.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a65619e9d07799f7aac29b022b227a3d3530117d98d0938e724d3afb3a0c3c7e
+size 182

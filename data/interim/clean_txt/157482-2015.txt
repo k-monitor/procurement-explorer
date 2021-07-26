@@ -1,3 +1,3 @@
-szerződés megnevezés
-vállalkozási szerződés szerződés tárgy
-hungarocontrol zrt. vezetői információs rendszer és tervezési rendszer bevezetés
+version https://git-lfs.github.com/spec/v1
+oid sha256:b372481212c0f668d9755dd25de142fbb96d03e21f75da422b7df0bd3b9189f7
+size 156

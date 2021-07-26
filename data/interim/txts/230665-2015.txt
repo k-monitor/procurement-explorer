@@ -1,1 +1,3 @@
-Vállalkozási keretszerződés a MÁV-START Zrt. marketingkommunikációs ügynökségi feladatainak ellátására. — kreatív tervezés, — kreatív megvalósítás és gyártás — médiakampányok tervezése, — médiavásárlás, — kampányok utóértékelése, — átfogó PR stratégia kidolgozása — hírlevelek, PR cikkek, kiadványok teljes körű elkészítése — PR rendezvények teljes körű szervezése, dokumentálása — DM levél, meghívó expediálása — PR szakértői konzultáció.
+version https://git-lfs.github.com/spec/v1
+oid sha256:526bd665fccbe8e31eee6a6439f1f7147158b2653010a5ff0ca5ec90e351273c
+size 519

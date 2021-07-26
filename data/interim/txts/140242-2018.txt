@@ -1,1 +1,3 @@
-MKB13/2018 - 11 000 000 kg Magyarország közigazgatási területén keletkező ipari-kereskedelmi üveg csomagolási hulladék gyűjtése és hasznosítása (kezelési kód: R5, kivéve: R12 és R13) szolgáltatásmegrendelési szerződés keretében, a környezetvédelmi termékdíjról szóló, 2011. évi LXXXV. törvény 22. § (1) bekezdés alapján. 1. rész: 3 200 000 kg 2. rész: 3 200 000 kg 3. rész: 1 500 000 kg 4. rész: 1 500 000 kg 5. rész: 800 000 kg 6. rész: 800 000 kg
+version https://git-lfs.github.com/spec/v1
+oid sha256:68c680aa6e317e4277c207e22e57a94649ed82baaaa135952d3a360584ff0b19
+size 491

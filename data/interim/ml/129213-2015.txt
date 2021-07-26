@@ -1,8 +1,3 @@
-Takarítási	takarítási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-tevékenység	tevékenység	NOUN	Case=Nom|Number=Sing	
-ellátása	ellátás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-,	,	PUNCT	_	
-töltelékáru	töltelékáru	NOUN	Case=Nom|Number=Sing	
-biztosításával	biztosítás	NOUN	Case=Ins|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:82bcc6b1bf540ed1f8b5147f7b5c77baf2da1c906670de871ccd25040381475f
+size 374

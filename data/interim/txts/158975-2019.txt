@@ -1,1 +1,3 @@
-Laboratóriumi regansek beszerzése. Ajánlatkérő a részajánlat-tétel lehetőségét 15 részre (1–15. részek) biztosítja. A beszerzés mennyisége részenként kerül meghatározásra.
+version https://git-lfs.github.com/spec/v1
+oid sha256:be70d9320ba69fd3cf102ff7d673a65a37ed02c742ca4b4a09083cef375f1456
+size 194

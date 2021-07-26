@@ -1,1 +1,3 @@
-Szállítási szerződés alapján különböző bútorok szállítása két részben az újonnan létesülő MTA TTK bebútorozásához.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5454154657ac43a632982130a546a3abb90603a4b7b686fca6ac20d982954532
+size 137

@@ -1,3 +1,3 @@
-vállalkozási szerződés keret a nav központi hivatala
-közép-magyarországi regionális vám
-és pénzügyőri főigazgatóság és szakértői intézete egyes ingatlan takarítás rész
+version https://git-lfs.github.com/spec/v1
+oid sha256:9a15d0d64da1e0bedfb75af37c8f9257feca4a04d6a674384510d018f3e885b7
+size 191

@@ -1,1 +1,3 @@
-Tervezési szerződés: A 83. sz. főút 33+820 - 70+200 km sz. közötti szakasz 11,5 t burkolat megerősítés, település elkerülők, kerékpárutak, illetve a Pápai Bázisrepülőtér megközelíthetőségének fejlesztéséhez szükség megvalósíthatósági tanulmány, és előzetes környezetvédelmi vizsgálati dokumentáció elkészítése, engedélyeztetése. A beszerzés projekt és PST kódja/KVM jele: K083.03.
+version https://git-lfs.github.com/spec/v1
+oid sha256:be4781e10eb14e9ecf4e54590bbef2c735ea6edd9137d1a90ada72d7d750cc5b
+size 430

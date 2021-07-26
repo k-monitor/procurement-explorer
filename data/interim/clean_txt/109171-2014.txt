@@ -1,1 +1,3 @@
-szolgáltatási keretszerződés
+version https://git-lfs.github.com/spec/v1
+oid sha256:0997a4c9363634aa11c05e117fd91970f13309251caf524ca7023bcbbd42f2b8
+size 32

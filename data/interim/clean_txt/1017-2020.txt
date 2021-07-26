@@ -1,14 +1,3 @@
-budapest
-viziorgona utca 8. és a zipernovszky károly utca
-szám alatti ingatlan átalakítás és felújítás részajánlattétel keret a közbeszerzési eljárás a kbt. 53. §
-bekezdés alap feltételes indul
-figyelem az
-hogy a kivitelezés finanszírozás megrendelő támogatói okirat
-ikt. szám
-egst
-rendelkezik
-2016.
-vii
-korm
-határozat alap az egészséges budapest program keret
-támogató az emberi erőforrás minisztériuma
+version https://git-lfs.github.com/spec/v1
+oid sha256:df448708df087dd18f2e04ecde212d5d27662b2791090e51d3bb236489d058ae
+size 438

@@ -1,1 +1,3 @@
-Alvállalkozói szerződés a MÁV Zrt. Számlabefogadási és beszerzés támogatási rendszerének (SZBBT) Basware- és eFLOW szoftver komponenseire vonatkozó karbantartási támogatási szolgáltatás megújítására.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bdbb7a9443023043443d6f67d5be904bce068d2e1c90f255a1ee5a4ec3a8b2dc
+size 222

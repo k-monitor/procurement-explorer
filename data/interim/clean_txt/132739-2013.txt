@@ -1,3 +1,3 @@
-kézi és gépi burkolatjel festés az országos közút vállalkozási szerződés keret
-további
-burkolatjel-festés
+version https://git-lfs.github.com/spec/v1
+oid sha256:2a993efd42b91686ee3edcd038e7cb4fd92e4bfe2d23c2aa31edab448394584c
+size 118

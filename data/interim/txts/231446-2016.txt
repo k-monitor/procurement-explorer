@@ -1,1 +1,3 @@
-Vállalkozási szerződés keretében az Ajánlattevő feladata az MFB felhasználásában lévő, pénzügyi számlavezetési és jelentési feladatokat ellátó „Fontium 2.0” szoftverrendszer üzemeltetésének teljes körű támogatása, az üzemeltetés során felmerült és a felhasználók által bejelentett problémák kezelése, alkalmazás rendszergazdai feladatok szakértői támogatása, üzemeltetés-folytonosság biztosítása. Az üzemeltetés támogatásán túl az Ajánlattevő feladata a szolgáltatás időtartama alatt felmerült felhasználói igények elemzése, az igények alapján a rendszer továbbfejlesztésének megtervezése és megvalósítása, a felhasználói átvételi tesztek lebonyolítása, illetve a bevezetés támogatása.
+version https://git-lfs.github.com/spec/v1
+oid sha256:75309c54821ca468f03a800a237e735bf0a817935c9d2f801ceabde97eddc928
+size 772

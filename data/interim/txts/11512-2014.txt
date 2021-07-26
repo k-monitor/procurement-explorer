@@ -1,1 +1,3 @@
-1. rész tekintetében: „Megbízási szerződés keretében útügyi, építési műszaki ellenőri tevékenység ellátása a Célzottan közlekedésbiztonságot javító fejlesztések - A közlekedésbiztonság növelése terén kifejtett rendőrségi tevékenység komplex fejlesztése című projekt keretében” 2. rész tekintetében: „Megbízási szerződés keretében szerverterem kialakításához műszaki ellenőri tevékenység ellátása a Célzottan közlekedésbiztonságot javító fejlesztések - A közlekedésbiztonság növelése terén kifejtett rendőrségi tevékenység komplex fejlesztése című projekt keretében” Mindkét rész tekintetében a beszerzés tárgyát részletesen a műszaki leírás tartalmazza.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7255acd784fc23c391000fa0edfa7bc95bf74e65903991462641365a13259bf4
+size 747

@@ -1,6 +1,3 @@
-villamos energia beszerzés fót város önkormányzat
-a fóti köh
-a fóti gesz
-a fóti közszolgáltató nonprofit kft. továbbá a fótliget
-lakópark ingatlankezelő közhasznú nonprofit kft. és a közvilágítási hálózat számára 2015.01.01
-2016.12.31
+version https://git-lfs.github.com/spec/v1
+oid sha256:66e84e3403994fa5d432c8bc5408da1de6995d1530466ef91462c1c214793345
+size 262

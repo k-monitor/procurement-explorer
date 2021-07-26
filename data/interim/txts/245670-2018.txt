@@ -1,1 +1,3 @@
-Adásvételi szerződés, amelynek tárgya Hálózati LAN eszközök beszerzése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:17e479de729c50a2319ae15d0c9d10e3f72347938fbd9f5ec15f29e986a1c895
+size 81

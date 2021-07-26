@@ -1,1 +1,3 @@
-Tervezési szerződés Tervező kiválasztása Budapest alábbi kiemelt állomási épületéhez: Kőbánya-Kispest állomás. Felvételi épület és gyalogos felüljáró átépítésének, perontetők felújításának, liftek és mozgólépcsők elhelyezésének tervezése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ae8798979db7f122840c8b582f3d070e63cbc24770ce1686334d1445213c3c8e
+size 278

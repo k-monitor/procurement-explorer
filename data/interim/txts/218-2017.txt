@@ -1,1 +1,3 @@
-Pneumococcus poliszacharid konjugált vakcina (adszorbeált) beszerzése adásvételi szerződés keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a5b4f41c91569a1f26bbe6436f422404b5c0b6d8dc1a0814b10e5c198cc16694
+size 109

@@ -1,3 +1,3 @@
-vállalkozási és felhasználási keretszerződés az új nemzedék jövő program kommunikációs
-pr ügynökségi
-valamint kreatív tervezési és gyártási feladat ellátás tárgy
+version https://git-lfs.github.com/spec/v1
+oid sha256:e7526d247354c7a29bf743ec4c9031bd4b3f3b1196afd06ba096900033d8cd86
+size 185

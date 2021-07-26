@@ -1,1 +1,3 @@
-Kereskedelmi szerződés villamos energia beszerzésére 2014-ben.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0d7e33073c03d13a576426fb0bc9710ed04ce00abb850e942fce519d95c2cd3e
+size 66

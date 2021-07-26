@@ -1,2 +1,3 @@
-villamosenergia beszerzés 1.6.2019
-31.5.2020
+version https://git-lfs.github.com/spec/v1
+oid sha256:3f6652f2d1e81270ae2277f75aa24d15b1f3fc12157c63d644882e381cd710eb
+size 45

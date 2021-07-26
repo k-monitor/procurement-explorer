@@ -1,1 +1,3 @@
-Repülőtér, belső átalakítások tervezési feladatai
+version https://git-lfs.github.com/spec/v1
+oid sha256:6b63c837f7b9f363051efe04d1f4d983815643bb5050dc80f53a621fd1d87e91
+size 57

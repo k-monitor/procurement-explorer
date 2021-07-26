@@ -1,1 +1,3 @@
-4 772 153 kWh/év (szankciómentes tolerencia sáv 20 %) villamos energia vétele a Budapesti Corvinus Egyetem (BCE) és intézményei részére teljes ellátás alapú szerződés keretében. Ajánlatkérő a tolerancia sávval nem mennyiségi eltérést kíván rögzíteni, hanem azt kéri az ajánlattevőktől, hogy abban az esetben, ha a tényleges fogyasztás a várható fogyasztáshoz képest mindkét irányban a 20 %-os sávon belül marad, akkor nyertes ajánlattevő nem érvényesít ajánlatkérővel szemben semmiféle szankciót, pótdíjat, büntetést, kiegyenlítő energiát. Rövid hivatkozás: Villamos energia beszerzés 2013.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2b6f827be516db435ef306eadec74f0a9b4dbf5c1fd3f973869a762352479467
+size 650

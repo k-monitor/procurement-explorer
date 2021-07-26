@@ -1,9 +1,3 @@
-Faátültetési	faátültetési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-és	és	CONJ	_	
-előkészítési	előkészítési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-munkák	munka	NOUN	Case=Nom|Number=Plur	
-elvégzése	elvégzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-a	a	DET	Definite=Def|PronType=Art	
-Városliget	városliget	NOUN	Case=Nom|Number=Sing	
-területén	terület	NOUN	Case=Sup|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:0cf66d3ed8aa119875a291b2ff202b96cb9bba2f03d52c9c7b5d4a3e9cf2ef6b
+size 448

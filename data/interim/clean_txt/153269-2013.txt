@@ -1,8 +1,3 @@
-a közigazgatási és igazságügyi minisztérium
-valamint a közigazgatási és igazságügyi hivatal
-évi kommunikációs feladat
-kreatív tervezési gyártási
-médiater-vezési és médiavásárlási
-rendezvényszervezési és btl rendezvényszervezési
-valamint btl feladat
-elvégzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:37b628966aa3472f1e984afcb68a6d943be9f39abc9917584f4c40c122281289
+size 289

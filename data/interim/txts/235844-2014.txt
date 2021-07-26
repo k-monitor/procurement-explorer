@@ -1,1 +1,3 @@
-Készenléti Rendőrség papír- és irodaszer beszerzése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5f3d34b12f71738e8b351fb83f4fb3bcfb39d8821b4e14b23255e5cc659b1118
+size 59

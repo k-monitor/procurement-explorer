@@ -1,1 +1,3 @@
-Vállalkozási szerződés „A Pásztói Zsigmond Király Általános Iskola infrastrukturális fejlesztése a hátránykompenzáció elősegítése és a minőségi oktatás megteremtése érdekében” tárgyú projekt keretében építési beruházás megvalósítására
+version https://git-lfs.github.com/spec/v1
+oid sha256:3bfbe11057598a728c22dee283eefc02104dc177e949d5ecfa59f440259dea62
+size 275

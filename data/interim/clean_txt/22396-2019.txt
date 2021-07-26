@@ -1,4 +1,3 @@
-megbízási keretszerződés budapest
-v. kerület belváros-lipótváros terület közterület-felügyeleti rendszer működtetés keret felmerülő biztonsági szolgáltatás nyújtás év
-keretösszeg huf
-év
+version https://git-lfs.github.com/spec/v1
+oid sha256:010e1d6e21db057d0ae14d6bec48a4b08456184034915aaccda529d8caebbf77
+size 210

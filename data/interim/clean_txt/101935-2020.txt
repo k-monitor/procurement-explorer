@@ -1,11 +1,3 @@
-medikai informatikai szoftverrendszer telepítés
-bevezetés
-karbantartás
-szupport
-szoftverkövetés
-jogszabálykövetés
-és üzemeltetés támogatás
-távoli
-komplex szolgáltatás forma az ajánlatkérő számára
-az ajánlatkérő valamennyi telephely egységes
-a közbeszerzési dokumentum meghatározott feltétel
+version https://git-lfs.github.com/spec/v1
+oid sha256:273d11f1d4beb18d064a15841330941ae2a4292a22f268713fb3bc1a7d5310e3
+size 320

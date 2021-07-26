@@ -1,5 +1,3 @@
-földgáz szállítás az ajánlatkérő és az által fenntartott intézmény részére
-cet-1
-10.2018
-cet időszak vonatkozó
-teljes ellátás alapú földgáz adás-vételi szerződés keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:e3adab7ca6ca868949e836613ff1d4cb626f73da48e73d9439010ecd6dbfd537
+size 192

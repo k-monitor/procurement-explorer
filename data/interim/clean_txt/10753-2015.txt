@@ -1,1 +1,3 @@
-szállítási szerződés keret a hulladékgazdálkodási közszolgáltatás fejlesztés szükséges hulladékgyűjtő célgép beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:392649ea36fa2a83f48c78c8dbe99c0033771ba2026027f41810cafc9a1a3a43
+size 138

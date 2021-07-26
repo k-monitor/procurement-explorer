@@ -1,1 +1,3 @@
-Az MVM Paks II. Zrt. részére gépjárműbérleti szolgáltatás nyújtása teljes körű flottakezeléssel és üzemeltetéssel együtt.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6691dc3b0fa72ed199b943f993f83426c0c2ac72f6f08e13b79dcc487f05a9e1
+size 138

@@ -1,1 +1,3 @@
-Hajók ki- és berakodását szolgáló, kikötői üzemidőszakban fixen telepített markoló beszerzése (KÖZOP-4.6.0-14-2014-0011) adásvételi szerződés keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9eb9e50ee65554dc4987b5ad46035cca52b5b6a747cadebe093be878c5f19b5d
+size 171

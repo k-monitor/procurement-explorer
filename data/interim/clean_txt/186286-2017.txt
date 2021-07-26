@@ -1,18 +1,3 @@
-ajánlatkérő az intézmény részére hónap szükséges különféle kötszer kíván megvásárol
-kihelyezett raktár telepítés és működtetés
-ajánlat olyan termék tehető
-amely az ajánlattétel időpont rendelkezik a forgalom hozatal szükséges magyar hatósági engedély
-tekintet az
-hogy a beszerzés tárgy központosított
-országos
-regionális
-közbeszerzési eljárás is bevonás kerül
-ezért megrendelő a következő bontó feltétel köt ki
-megrendelő szerződéses kötelezettség kizárólag a ptk.
-116. §
-bekezdés szerinti
-az vonatkozó bontó feltétel vállal
-hogy amennyiben a beszerzés tárgy vonatkozó a központosított közbeszerzési rendszer vagy összevont közbeszerzési eljárás keret keretmegállapodás vagy szerződés kerül megkötés
-a központosított vagy összevont közbeszerzés rendszer kell a beszerzés megvalósít
-fél rögzít
-hogy ez megrendelő semmilyen hátrányos következmény nem származik
+version https://git-lfs.github.com/spec/v1
+oid sha256:d29c2421511199d29d11355f93221e04743c55008fc4ab38d0a67f741237e954
+size 962

@@ -1,1 +1,3 @@
-Kerékpáros létesítmény kivitelezése Vállalkozási szerződés keretében, a közbeszerzési dokumentumokban foglaltak szerint.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f2b3875c9567c82748d0b1d7d340d4c05211c661992f1b85a8bf39080b656ca3
+size 133

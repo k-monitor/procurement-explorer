@@ -1,6 +1,3 @@
-villamos energia teljes ellátásalapú árubeszerzés
-menetrendadási kötelezettség nélkül 1.11.2016
-nap
-óra és
-nap
-óra közötti teljesítési időszak
+version https://git-lfs.github.com/spec/v1
+oid sha256:f9970cdd51b33b179b712f1659ee04467b32c5367101f891f99221d27a90a35d
+size 160

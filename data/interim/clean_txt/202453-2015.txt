@@ -1,4 +1,3 @@
-aszfaltmaró
-aszfaltfinisher bérlés
-tárgyú keretszerződés
-szerződéskötés számított hónap időtartam
+version https://git-lfs.github.com/spec/v1
+oid sha256:71727b7865bcd8a39f7778ba166e4becfd9ee8c08f60d7fdb9fadaf7c8367883
+size 112

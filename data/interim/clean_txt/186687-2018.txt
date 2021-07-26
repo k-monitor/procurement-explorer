@@ -1,2 +1,3 @@
-termelési kapacitásbővítés a medina bútor kft lézervágó gép beszerzés a ginop-1
-1-16-2017-00727 azonosítószámú projekt keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:b8ccea6571bbe9c5279025072ad71c3715c207498a3d67356d31e24dc556b74b
+size 139

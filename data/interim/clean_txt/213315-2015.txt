@@ -1,1 +1,3 @@
-röntgen berendezés beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:fea29f6c66177e6f1faba48a3eccc7a4f94530f8c0685b69a0b8c5694242d0e0
+size 31

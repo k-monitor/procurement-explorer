@@ -1,1 +1,3 @@
-microsoft licenc beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:1659608695dee198285af60834563d96ecbf91360c13118219c7a5b3802a2269
+size 27

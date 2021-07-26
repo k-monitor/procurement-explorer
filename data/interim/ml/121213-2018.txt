@@ -1,5 +1,3 @@
-ATMR	ATMR	PROPN	Case=Nom|Number=Sing	
-szerver	szerver	NOUN	Case=Nom|Number=Sing	
-alkatrészek	alkatrész	NOUN	Case=Nom|Number=Plur	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:a45225476ac3fa5cbcdcd65b6cbd41d7d06520d50368b450e86d1bd3572ff4ce
+size 146

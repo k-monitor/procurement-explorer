@@ -1,23 +1,3 @@
-adásvételi szerződés a semmelweis egyetem részére kötszer beszerzés rész keret
-összesen
-db
-kg
-tekercs
-csomag és doboz termék alapmennyiség opciós mennyiség
-minden rész eset az alapmennyiség
-a összesen
-db
-kg
-tekercs
-csomag és doboz termék opció az eljárás keretösszeg
-nettó ft mennyiségi eltérés
-ajánlatkérő fenntart a jog
-hogy a szerződés hatály alatt a tényleges szükséglet meg+felelő a fenti teljes mennyiség
-mínusz százalék
-eltér
-amely az opciós mennyiség érintett rész is beleértendő
-a megrendelt termék óra belül kell leszállít
-a váratlan jelentkező áruhiány pótlás
-mely a megrendelés un
-stati jelzés illet
-vonatkozó azonnali megrendelés pedig óra belül kell teljesít
+version https://git-lfs.github.com/spec/v1
+oid sha256:1ebbea5891d5f3504a37d6076ccda69c599236c23843f2be5314f44b185ac56f
+size 739

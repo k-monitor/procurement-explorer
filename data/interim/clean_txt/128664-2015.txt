@@ -1,6 +1,3 @@
-adásvételi szerződés képességvizsgáló eszköz
-munkaszimulátor
-szállítás és kapcsolódó szolgáltatás nyújtás az nrszh eu-s forrás megvalósuló támop 5.4.8
-1-2008-0002 és tiop-3
-2.-08
-1-2008-0002 kódszámú projekt kapcsolódó
+version https://git-lfs.github.com/spec/v1
+oid sha256:1a42303e29e57054b80ddf8cccb0ac1b4dea582b04beae079efe62b23c63a67d
+size 248

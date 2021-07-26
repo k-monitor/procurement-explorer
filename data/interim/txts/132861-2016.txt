@@ -1,1 +1,3 @@
-Megbízási szerződés a Radioaktív Hulladéktároló és Feldolgozó (RHFT) biztonságnövelő beruházási munkáinak műszaki ellenőrzésére.
+version https://git-lfs.github.com/spec/v1
+oid sha256:556c2ff4bb2ddb09f9a7ff5f0edb11077666f0838137c4890516016cb0b4be68
+size 148

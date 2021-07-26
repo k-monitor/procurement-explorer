@@ -1,9 +1,3 @@
-tervezési szerződés
-egyesített engedélyezési és kiviteli tervdokumentáció készítés és jogerős építési engedély megszerzés a ten közúti hálózat elem a zajszennyezés csökkentés célzó
-a zajárnyékoló létesítmény fejlesztési beruházás a megrendelő kezelés lévő útszakasz
-rész vonatkozás
-tervezési szerződés alap
-az elvégzendő feladat részletes kifejtés az ajánlati dokumentáció iii
-fejezet
-közbeszerzési műszaki leírás
-tartalmaz
+version https://git-lfs.github.com/spec/v1
+oid sha256:2eab0d9cf3a6da273255c18a28d728f00c812b5e98d18c345b08c9dfe825726d
+size 482

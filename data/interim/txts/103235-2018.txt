@@ -1,1 +1,3 @@
-Megbízási szerződés a „Délkelet-Magyarországi szennyvízelvezetési és -kezelési fejlesztés 4. (DKMO 4)” elnevezésű, KEHOP-2.2.2-15-2016-00113 azonosítószámú projekt keretében műszaki ellenőri tevékenység ellátására.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3fd8a67292f1c97826ecfdfff1b1b24466774168973021257a4579be6536c14b
+size 243

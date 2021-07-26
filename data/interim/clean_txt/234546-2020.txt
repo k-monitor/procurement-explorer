@@ -1,11 +1,3 @@
-dek-901 légtechnikai rendszer tisztítás
-fertőtlenítési szolgáltatás biztosítás hónap 1. rész
-légtechnikai rendszer tisztítás
-fertőtlenítés a nagyerdei campus
-élettudományi labor
-kk
-2. rész
-légtechnikai rendszer tisztítás
-fertőtlenítés a kenézy gyula egyetemi kórház
-kek
-a részlet a műszaki leírás tartalmaz
+version https://git-lfs.github.com/spec/v1
+oid sha256:75448661fbed3e95fe8d7d6620a0b6525ca41663a65a0422b01a51787c244f94
+size 340

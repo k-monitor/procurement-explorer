@@ -1,1 +1,3 @@
-Adásvételi szerződés két évben szükséges különböző szemlencsék és a beültetésükhöz szükséges eszközök beszerzésére a Szent Lázár Megyei Kórházban kihelyezett áruraktár biztosításával.
+version https://git-lfs.github.com/spec/v1
+oid sha256:652b3036069efd65c447c313dd548100c5823cbc82f17002bb87244a1d31d32f
+size 216

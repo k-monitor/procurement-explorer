@@ -1,1 +1,3 @@
-Adásvételi keretszerződés e-ÚT 05. 02. 11 (ÚT 2-3. 301-1: 2010) Útügyi műszaki előírásoknak megfelelő AC 22 alap, AC 11 kötő, AC 16 alap, AC 22 kötő, AC 22 kötő (F), AC 4 kopó, AC 8 kopó, AC11 kopó, AC 11 kopó(F), AC 16 kopó (F), AC 22 kötő (mF) 25/55-65, AC 11 kopó (mF) 25/55-65 típusú melegaszfalt beszerzésére keverőtelepi átvétellel, az ajánlati felhívásban megjelölt részek szerint, a részenként megjelölt nettó keretösszeg erejéig.
+version https://git-lfs.github.com/spec/v1
+oid sha256:76c85f32c46585fee690104a6e0f96712b6fd18d4af5315542f281d7a76f84a2
+size 483

@@ -1,9 +1,3 @@
-vállalkozási keretszerződés az országos katasztrófavédelmi főigazgatóság vagyonkezelés
-üzemeltetés
-lévő mercedes benz gyártmányú
-tűzoltó vagy katasztrófavédelmi felépítményű valamint egyéb jármű
-a jármű típus szerinti összetétel
-rész
-a dokumentáció műszaki leírás tartalmaz
-garanciális időszak alatti és garanciaidő túli javítás
-karbantartás és műszaki vizsgáztatási feladat elvégzés a rész megadott keretösszeg erő
+version https://git-lfs.github.com/spec/v1
+oid sha256:ce3cdffd20eaccbb4f6b089a189ce6a51cdb5100aa55cdd196aabadfb0e3c097
+size 472

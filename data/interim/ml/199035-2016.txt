@@ -1,20 +1,3 @@
-Pápa	pápa	NOUN	Case=Nom|Number=Sing	
-város	város	NOUN	Case=Nom|Number=Sing	
-közigazgatási	közigazgatási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-területén	terület	NOUN	Case=Sup|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-a	a	DET	Definite=Def|PronType=Art	
-nem	nem	ADV	PronType=Neg	
-közművel	közmű	NOUN	Case=Ins|Number=Sing	
-összegyűjtött	összegyűjtött	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPast	
-háztartási	háztartási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szennyvíz	szennyvíz	NOUN	Case=Nom|Number=Sing	
-begyűjtésére	begyűjtés	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-vonatkozó	vonatkozó	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-helyi	helyi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-közszolgáltatás	közszolgáltatás	NOUN	Case=Nom|Number=Sing	
-ellátása	ellátás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-közszolgáltatási	közszolgáltatási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:7a7775d50026df5d7b951c6ea08f6409e7448fd9570d8da8fe936075c1e04f49
+size 1117

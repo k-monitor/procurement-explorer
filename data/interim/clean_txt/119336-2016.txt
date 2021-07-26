@@ -1,1 +1,3 @@
-adás-vételi szerződés alap a nemzeti választási iroda részére liferay cms licensz és kapcsolódó támogatás beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:aa8ce5af5da56ed8e7fd7c713933959dad5bdb4e4141722a3dcd9112eeaca6cd
+size 129

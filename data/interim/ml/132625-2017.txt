@@ -1,20 +1,3 @@
-2017-2018	2017-2018	NUM	Case=Nom|NumType=Card|Number=Sing	
-.	.	PUNCT	_	
-évi	évi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-felújítandó	felújítandó	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartFut	
-útvonalak	útvonal	NOUN	Case=Nom|Number=Plur	
-engedélyezési	engedélyezési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-és	és	CONJ	_	
-kiviteli	kiviteli	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-terveinek	terv	NOUN	Case=Gen|Number=Plur|Number[psor]=Sing|Person[psor]=3	
-elkészítése	elkészítés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
--	-	PUNCT	_	
-3.,	3.,	PROPN	Case=Nom|Number=Sing	
-
-4.	4.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
-és	és	CONJ	_	
-5.	5.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
-tervezési	tervezési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-csomag	csomag	NOUN	Case=Nom|Number=Sing	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:1953113af78a0042b89af592c39dccb572c7929a1a7b48c8dc436c69e8199be1
+size 822

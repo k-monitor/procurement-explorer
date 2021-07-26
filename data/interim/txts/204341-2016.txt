@@ -1,1 +1,3 @@
-Határozatlan időtartamú biztosítási szerződés csoportos életbiztosítás, kockázati élet- és balesetbiztosítás, valamint egészségbiztosítás tárgyában.
+version https://git-lfs.github.com/spec/v1
+oid sha256:aaac49eccd1b317b10986988cf56ee9d81e946dcdb3ff48808827fc145b86330
+size 169

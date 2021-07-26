@@ -1,1 +1,3 @@
-Vállalkozási szerződés a 13. számú főút Komárom és Kisbér közötti szakasz 11,5 t tengelyterhelésre történő burkolat-megerősítésének építési munkái tárgyában.
+version https://git-lfs.github.com/spec/v1
+oid sha256:12c7ef635dd41114a260c61680b836462e41f0ab5d326c9a12e38ca683b83b23
+size 184

@@ -1,1 +1,3 @@
-Az 1527/2016. (IX. 29.) Korm. határozat szerinti infrastruktúra-fejlesztés megvalósítására konyhatechnikai eszközök beszerzése a Testnevelési Egyetem részére adásvételi szerződés keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fe3d98d08b9068c3ff89f297f429aece7c1857b17bb85d6120e163d1765ad325
+size 207

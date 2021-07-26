@@ -1,12 +1,3 @@
-Adásvételi	adásvételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-2	2	NUM	Case=Nom|NumType=Card|Number=Sing	
-db	db	NOUN	Case=Nom|Number=Sing	
-direkt	direkt	ADJ	Case=Nom|Degree=Cmp|Number=Sing	
-digitális	digitális	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-röntgen	röntgen	NOUN	Case=Nom|Number=Sing	
-berendezés	berendezés	NOUN	Case=Nom|Number=Sing	
-beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-érdekében	érdek	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:8d4bb4fc7fa3c5c0e3094afe637606447330b3d1bc1afba921b39ceb78f00db3
+size 572

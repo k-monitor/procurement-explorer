@@ -1,1 +1,3 @@
-Vállalkozási szerződés parkolás-üzemeltetési szolgáltatás ellátására.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4b92a262c05361667d574b383d88b64e56c363ea42d42678748997883e3b21a7
+size 81

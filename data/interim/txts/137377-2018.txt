@@ -1,1 +1,3 @@
-Siemens Definition Edge CT berendezéshez (gyári száma: 83334 melynek szerves tartozékai: szünetmentes tápegység, vezérlő-működtető számítógép) és a hozzá kapcsolódó syngo. Via szerverhez (szoftver gyári száma: 130729) kapcsolódó full-service szolgáltatás mely magában foglalja a berendezések karbantartását, valamint a berendezésekhez kapcsolódó hibaelhárítási szolgáltatást és alkatrészellátást.
+version https://git-lfs.github.com/spec/v1
+oid sha256:29eb65f559cd1e8531088b146886d2328c0c33543aa05a812a2e73037b70b91e
+size 438

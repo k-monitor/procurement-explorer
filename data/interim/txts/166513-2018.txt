@@ -1,1 +1,3 @@
-Késztápok, szemes gabonák beszerzése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d71d8097adcc3d6ac3c21bbc21782fdb2bfdb1987b4f18f23ca15ba4f76630f3
+size 41

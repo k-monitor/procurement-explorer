@@ -1,6 +1,3 @@
-Papíráruk	papíráru	NOUN	Case=Nom|Number=Plur	
-és	és	CONJ	_	
-irodaszerek	irodaszer	NOUN	Case=Nom|Number=Plur	
-beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:08605a7f58d2d5f1f696168c9545617f86dd8b85cc720792ae74e95ed2915598
+size 212

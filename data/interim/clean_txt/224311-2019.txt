@@ -1,5 +1,3 @@
-földgázenergia szállítás az ajánlatkérő részére cet-1
-cet időszak vonatkozó
-teljes ellátás alapú földgázenergia-szállítási szerződés keret
-a meghatározott mennyiség az msz
-jelű gázcsoport vonatkozó szabvány előírás meg+felelő kell értelmez m3
+version https://git-lfs.github.com/spec/v1
+oid sha256:bfc60b3a866fc89e41c1a607fc968c1e7adf6f98afc8efa8fb16ba455f0697a1
+size 275

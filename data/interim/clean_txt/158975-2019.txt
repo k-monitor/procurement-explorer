@@ -1,5 +1,3 @@
-laboratóriumi regans beszerzés
-ajánlatkérő a részajánlat-tétel lehetőség rész
-rész
-biztosít
-a beszerzés mennyiség rész kerül meghatározás
+version https://git-lfs.github.com/spec/v1
+oid sha256:92a02cb06c9ddd750a1681e9ab1cc88f4a4b20cac4114ec3aff0ce59ab7573cd
+size 156

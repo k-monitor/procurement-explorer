@@ -1,1 +1,3 @@
-Szállítási szerződés, tárgya: digitális röntgenfelvételi berendezés mobil digitális detektorral, digitális alulcsöves átvilágító berendezés, digitális röntgen felvételi berendezés tüdőgondozói célra mobil digitális detektorral, PACS rendszer 3 db leletező munkaállomással, a meglévő HIS rendszerhez történő illesztéssel, a berendezések jótállási időn túli teljes körű szerviz szolgáltatásával.
+version https://git-lfs.github.com/spec/v1
+oid sha256:23d77e395a32da590c6529324deb676272e913b651e57d0c428658997edb9305
+size 440

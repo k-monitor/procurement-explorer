@@ -1,12 +1,3 @@
-Sport	Sport	PROPN	Case=Nom|Number=Sing	
-eszközök	eszköz	NOUN	Case=Nom|Number=Plur	
-beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-,	,	PUNCT	_	
-installálása	installálás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-a	a	DET	Definite=Def|PronType=Art	
-Magyar	Magyar	PROPN	Case=Nom|Number=Sing	
-Asztalitenisz	asztalitenisz	NOUN	Case=Nom|Number=Sing	
-Szövetség	Szövetség	PROPN	Case=Nom|Number=Sing	
-részére	részére	ADP	_	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:043c8a601152e362fe2a6c53319de77b68d4682fbe63a2017ab06c2d651aa283
+size 496

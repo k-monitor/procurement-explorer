@@ -1,1 +1,3 @@
-A Markusovszky Egyetemi Oktatókórház meglévő és működő Philips típusú gépei karbantartási szolgáltatásának elvégzése
+version https://git-lfs.github.com/spec/v1
+oid sha256:5a8933dcb7cd3f4be59a7be9ca2c7d0d342c46d737eb5e6222594dd8bbf69c38
+size 134

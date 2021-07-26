@@ -1,1 +1,3 @@
-szállítási szerződés keret különféle orvosi eszköz beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:5223e4aa51443d89fcf463d00f51b0baa7c8855b795ea2c094ecca163dbfe1d5
+size 70

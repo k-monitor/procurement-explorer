@@ -1,5 +1,3 @@
-magyar honvédség egészségügyi központ steril kötéscsomag beszerzés adásvételi keretmegállapodás keret hónap
-részajánlati kör
-steril kötéscsomag felhasználás a műtét a vér
-különböző váladék felitatás szolgál
-profilonként és súlyosság szerint csoportosítva ajánlatkérő 1-es és ii telephely igény szerint
+version https://git-lfs.github.com/spec/v1
+oid sha256:19e3bfb33889e31eec7acc69dd583063b1c0d47d25213dfbd4c940f94b998062
+size 343

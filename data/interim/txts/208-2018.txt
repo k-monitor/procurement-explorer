@@ -1,1 +1,3 @@
-Adásvételi szerződés keretében Ajánlatkérő az Intézmény részére Kenyér és péksütemények, cukászsütemények, tésztaféléket 12 hónapra kívánja megvásárolni.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7b2ba039708d82ba62348cdd7e238170f5f1e6984ab0172ecba234aea67dd879
+size 181

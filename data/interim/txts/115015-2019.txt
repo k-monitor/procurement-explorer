@@ -1,1 +1,3 @@
-Győr, belső elkerülő út tervezése (K014.03)
+version https://git-lfs.github.com/spec/v1
+oid sha256:21fddd121f0c49cd2c5ba1c62687779779da9bdda9ed137fd4e3fe8b4a0e1fd0
+size 49

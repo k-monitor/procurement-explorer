@@ -1,1 +1,3 @@
-Vállalkozási szerződés a Jahn Ferenc Dél-Pesti Kórház és Rendelőintézet kezelésében lévő ingatlanok takarítására.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e29454e9a0a0a6afc459c83d6d7bb926036b8399b231a24f9792fcf6d41945fa
+size 130

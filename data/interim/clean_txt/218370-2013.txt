@@ -1,2 +1,3 @@
-miskolc megyei jogú város önkormányzat 2010., 2011., 2012. és 2013.
-évi fejlesztési hitel közbeszerzés huf összeg
+version https://git-lfs.github.com/spec/v1
+oid sha256:fcc58e0397359feecdf7706c5fc1d74375bec678f1ddb8ea26b1470439024785
+size 123

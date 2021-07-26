@@ -1,1 +1,3 @@
-A Magyar Közút Nonprofit Zrt. 2018. évi villamosenergia beszerzése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:03c8263988df3d4557939e42d577906212d74e065f87a0a1aa73316c4819962b
+size 71

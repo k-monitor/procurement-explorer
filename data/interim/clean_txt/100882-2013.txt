@@ -1,6 +1,3 @@
-megbízási szerződés
-települési szennyvíztisztító telep bővítés és szennyvízcsatornázás fegyvernek
-keop-1
-2.0
-09-11-2011-0052 azonosítószámú projekt megvalósulási szakasz fidic mérnöki
-műszaki ellenőri feladat ellátás
+version https://git-lfs.github.com/spec/v1
+oid sha256:a4414faf84d102620bc7fbbab1faff2d320db7bc3df56db552270115d3f992f2
+size 244

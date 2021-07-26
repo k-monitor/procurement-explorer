@@ -1,1 +1,3 @@
-elte üzemeltetés
+version https://git-lfs.github.com/spec/v1
+oid sha256:854f55136167206ee828e8da9e72f5b10c5321737972b698fb6b6ef543476112
+size 18

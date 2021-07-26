@@ -1,1 +1,3 @@
-„Gázenergia-beszerzés a Belváros-Lipótváros Budapest Főváros V. kerületi Önkormányzat részére 2020–2021.”
+version https://git-lfs.github.com/spec/v1
+oid sha256:75383e5d3613df7c29f2a176030830e7708051b7b6f475d323bc2805b72a26de
+size 123

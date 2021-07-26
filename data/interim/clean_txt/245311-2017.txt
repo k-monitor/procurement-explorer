@@ -1,5 +1,3 @@
-sűrített földgáz üzemű
-cng
-iveco tehergépjármű alváz és a rá szerelt stummer felépítmény álló célgép és platós
-ponyvás
-emelőhátfalas célgép meghibásodás javítás és karbantartás
+version https://git-lfs.github.com/spec/v1
+oid sha256:291615c4f802a7a4a37ae2394e165d45af63776a1ae3ae6805779866fca7f54a
+size 208

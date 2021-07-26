@@ -1,1 +1,3 @@
-Gyulladásos megbetegedések kezelésére szolgáló tételes elszámolás alá eső baricitinib (OENO kód és gyógyszer hatóanyagának neve: 06069 baricitinib, Keretmennyiség: 480 060,0 mg), valamint tofacitinib (OENO kód és gyógyszer hatóanyagának neve: 06070 tofacitinib, Keretmennyiség: 1 296 120,0 mg) hatóanyagot tartalmazó természetben biztosítandó gyógyszerkészítmények beszerzése 24 hónap aktív és 4 hónap passzív időszakra, keretmegállapodás megkötésére irányuló nyílt eljárás keretében
+version https://git-lfs.github.com/spec/v1
+oid sha256:112bec517c922575fb94a0265f0d1f65d1b525053e3a2ff7cd1b2cc3925fb68f
+size 533

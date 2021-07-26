@@ -1,2 +1,3 @@
-vállalkozási szerződés alap kondoros város önkormányzata részére közétkeztetési feladat
-továbbá vendéglátóhely-üzemeltetési szolgáltatás ellátás
+version https://git-lfs.github.com/spec/v1
+oid sha256:d34be2d985d3cb0e99a43f5347219df4a39ff02c5d5c9e75fc47633719256524
+size 167

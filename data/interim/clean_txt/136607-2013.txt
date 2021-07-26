@@ -1,2 +1,3 @@
-megbízási szerződés a 44129. jelű út csanádpalota-országhatár közötti összekötő út építés kapcsolódó mérnöki és műszaki ellenőri feladat ellátás
-huro
+version https://git-lfs.github.com/spec/v1
+oid sha256:436bbf160f8f8c72dbe38d5adac843337f6767087d75209b908db126ecff132c
+size 176

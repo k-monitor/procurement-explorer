@@ -1,20 +1,3 @@
-a nyertes ajánlattevő feladat a róheim-villa műemléki helyreállítás generáltervezési szolgáltatás nyújtás
-építési engedélyezési tervdokumentáció összeállítás
-engedélyeztetési eljárás lefolytatás
-kiviteli tervdokumentáció elkészítés
-ez keret a róheim-villa teljes rekonstrukció megtervezés
-azaz az egész épület érintő felújítási
-restaurálási munka megtervezés a szakági tervezési munka együtt
-tervező köteles elvégez a szükséges kiegészítő kutatás bármely érintett szakterület eset
-pl.
-falkutatás
-farestaurátori
-kőrestaurátori
-műemléki
-és épület diagnosztikai kutatás
-a nyertes ajánlattevő feladat képez a kivitelezés irányuló közbeszerzés sor műszaki szakértői feladat ellátás
-továbbá a tervezői művezetési feladat ellátás
-a részletes feladat a közbeszerzési dokumentum rész képező műszaki leírás tartalmaz
-faksz
-dr. szűcs gabriella oo868
-csók istván áron oo118
+version https://git-lfs.github.com/spec/v1
+oid sha256:325b050a6b23af20b53bc01a6ea08292018c77610d976160a667dfd59eef3761
+size 968

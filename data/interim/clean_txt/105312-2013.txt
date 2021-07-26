@@ -1,1 +1,3 @@
-élelmiszer alapanyag beszerzés szállítási szerződés keret hónap
+version https://git-lfs.github.com/spec/v1
+oid sha256:a0d07cd6af4e9f100b30488192c1ef0bdb9ebcaf5f4b12c3e77c372c25cbf1f1
+size 71

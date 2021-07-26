@@ -1,1 +1,3 @@
-Egyszerhasználatos keringéstámogató eszközök beszerzés, adásvételi szerződés.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3d7dc58521cceffd8a770eb7db1c7f1c5c4152b4de8be194ae22f2faffefcf6b
+size 88

@@ -1,5 +1,3 @@
-kereskedelmi szerződés
-villamos energia szabadpiaci beszerzés 2019.01.01
-2019.12.31
-időszak vonatkozó
-tárgy
+version https://git-lfs.github.com/spec/v1
+oid sha256:be98d4a8aff1de211678070f74c1bbd9ec3e4e0a78a5e916f915391ca40be097
+size 113

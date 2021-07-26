@@ -1,1 +1,3 @@
-Intézményi és szünidei gyermekétkeztetés biztosítása Debrecen Megyei Jogú Város közigazgatási területén működő nevelési és közoktatási intézményekben – vállalkozási szerződés.
+version https://git-lfs.github.com/spec/v1
+oid sha256:65fae1337bd00d61a618ca3a721f81da42cc4dcba6e44cf0b4c6fe0bb0d65a42
+size 204

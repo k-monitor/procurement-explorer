@@ -1,3 +1,3 @@
-reklámügynöki tevékenység
-médiafoglalás
-végzés vállalkozási szerződés alap az euroskills budapest rendezvény összefüggés
+version https://git-lfs.github.com/spec/v1
+oid sha256:e5ba401b85bd392af9a5693e662c4552cf64917f12f60c8f2f4ea12df3da0f9e
+size 137

@@ -1,16 +1,3 @@
-vállalkozási keretszerződés nyomdai szolgáltatás megrendelés
-1. részajánlati kör
-további
-rk
-névjegy megrendelés nettó huf keretösszeg erő
-2. rk
-levélpapír
-boríték
-tasak megrendelés nettó huf keretösszeg erő
-3. rk
-egyéb nyomdai termék megrendelés nettó huf keretösszeg erő
-ajánlatkérő az
-rk
-vonatkozás
-az ellátási kör tartozó intézményi megrendelés függő
-a keretösszeg szerződéses időtartam alatti megrendelés vállal kötelezettség
+version https://git-lfs.github.com/spec/v1
+oid sha256:d354941a5a216c7c8913c270494be070ae34844852622d2735eb0c91788c663d
+size 480

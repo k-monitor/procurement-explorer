@@ -1,1 +1,3 @@
-Vállalkozási szerződés terápiás készülékek javítása, szervizelése tárgyban. Az Ajánlatkérő „full” szerződésre kér ajánlatot. Az Ajánlattevőnek a szerződés keretében folyamatosan el kell végezni és dokumentálni az „egészségügyi eszközökre” jogszabály által előírt biztonsági felülvizsgálatokat.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bfe44018be09efb9414a3ebbca216bf9aea1958238ecf20d5243c1ae7521fb17
+size 341

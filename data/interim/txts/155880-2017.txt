@@ -1,1 +1,3 @@
-Győr Megyei Jogú Város egyes intézményei, továbbá a Győr Megyei Jogú Város Önkormányzata és Polgármesteri Hivatala részére villamos energia beszerzése határozott időtartamra szóló adásvételi szerződés keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a627efe80e981819fcae994f8ac2d8d24bc6f162f204d31a4acb404e59bf7ffe
+size 237

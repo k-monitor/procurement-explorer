@@ -1,1 +1,3 @@
-Budapesti Rendőr-főkapitányság kezelésében lévő szolgálati járművek üzemeltetéséhez szükséges nyári és téli gumiabroncsok beszerzése
+version https://git-lfs.github.com/spec/v1
+oid sha256:5adaad0dde10abfe91d3db8f504780ca864b8cd7ee295c954430752d8d9a002a
+size 152

@@ -1,1 +1,3 @@
-régészeti bontómunka elvégzés vállalkozási szerződés keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:d6aede4d1b2edb4ef6d512b1743b464f0abbd857e00afb3c09ba5e73f0aa4a1c
+size 67

@@ -1,1 +1,3 @@
-Szállítási szerződés irodai papíráru beszerzésére.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3cf79969af90405be4dfcf7b9c23d74d2200fb8ab4a8feb528ea07f9ff4f6e5b
+size 59

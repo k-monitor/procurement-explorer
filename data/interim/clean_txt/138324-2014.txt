@@ -1,6 +1,3 @@
-vksz _ 12-1-2013-0080 azonosítószámú támogatási szerződés keret laboratóriumi vizsgáló berendezés beszerzés
-1. ajánlati rész
-atomerő-mikroszkóp rendszer szállítási szerződés
-ii
-ajánlati rész
-digitális mikroszkóp szállítási szerződés
+version https://git-lfs.github.com/spec/v1
+oid sha256:b3a34f50a19cff5ba2438d102958f3247663ef2a832e5706f06b39e8426fbc1a
+size 263

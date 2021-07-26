@@ -1,1 +1,3 @@
-I. rész: Keretmegállapodás a Budapest Főváros XIII. Kerületi Önkormányzata tulajdonában lévő lakóépületek, intézmények, lakások és nem lakás céljára szolgáló épületek, helyiségek nettó 5 000 000 HUF feletti értékű felújítási, karbantartási és bontási munkálatainak elvégzésére a közbeszerzési dokumentumban részletezettek szerint. II. rész: Keretmegállapodás a Budapest Főváros XIII. Kerületi Önkormányzata tulajdonában lévő lakóépületek, intézmények, lakások és nem lakás céljára szolgáló épületek, helyiségek nettó 5 000 000 HUF-ig terjedő értékű felújítási, karbantartási és bontási munkálatainak elvégzésére a közbeszerzési dokumentumban részletezettek szerint.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f7a45e58045a9c9f063fcf563bca1db62a68a4a317896b3f8072bcd6b4ff1505
+size 752

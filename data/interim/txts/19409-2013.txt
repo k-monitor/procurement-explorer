@@ -1,1 +1,3 @@
-„Vállalkozási keretszerződés alapján a Miniszterelnökség 2013-2014. évi rendezvényszervezési feladatainak ellátásához szükséges teljes körű műszaki-technikai tervezés és kivitelezés, rendezvénybiztosítási tervezés és kivitelezés, rendezvénykellékek és rendezvénydekoráció, egyéb látványelemek és díszlet tervezése és kivitelezése, továbbá a kapcsolódó PR és tájékoztatási feladatok ellátása”.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bdf3f443503939dd6ad42858f920803a506adb6983a41d47add63e3334195bff
+size 447

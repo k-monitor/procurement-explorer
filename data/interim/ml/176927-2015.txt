@@ -1,27 +1,3 @@
-Adásvételi	adásvételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-CT-berendezés	CT-berendezés	NOUN	Case=Nom|Number=Sing	
-beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-a	a	DET	Definite=Def|PronType=Art	
-Somogy	Somogy	PROPN	Case=Nom|Number=Sing	
-Megyei	Megyei	PROPN	Case=Nom|Number=Sing	
-Kaposi	kaposi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-Mór	Mór	PROPN	Case=Nom|Number=Sing	
-Oktató	oktató	NOUN	Case=Nom|Number=Sing	
-Kórház	Kórház	PROPN	Case=Nom|Number=Sing	
-részére	részére	ADP	_	
-a	a	DET	Definite=Def|PronType=Art	
-KEOP-5	KEOP-5	PROPN	Case=Nom|Number=Sing	
-.	.	PUNCT	_	
-
-6.0	6.0	PROPN	Case=Nom|Number=Sing	
-/	/	PUNCT	_	
-E	e	PRON	Case=Nom|Number=Sing|Person=3|PronType=Dem	
-/	/	PUNCT	_	
-15	15	NUM	Case=Nom|NumType=Card|Number=Sing	
-jelű	jelű	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-projekt	projekt	NOUN	Case=Nom|Number=Sing	
-keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:f22dd77401f8989fc3814958fe4979b91d0062b9ca608dae4662ce2519f9064a
+size 1089

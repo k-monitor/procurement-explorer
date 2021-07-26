@@ -1,1 +1,3 @@
-A nyírbátori őrzött szállás felújítása c. projekt keretében lefolytatandó közbeszerzési eljárás: 1. rész: A nyírbátori őrzött szállás fejlesztése tervezési és tervezési művezetői feladatok, 2. rész: A nyírbátori őrzött szállás fejlesztése kivitelezése alkalmával elvégzendő építési műszaki ellenőrzés. Az elvégzendő feladatok részletes leírását a Közbeszerzési Dokumentumok részét képező Műszaki Leírás tartalmazza.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ac02070a310ac796d73caa2c6297e9a94c447a8b3bd62a7edf2431d25af1a5d9
+size 476

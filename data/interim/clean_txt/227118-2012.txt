@@ -1,10 +1,3 @@
-a magyar nemzeti bank székház
-budapest 5. ker.
-szabadság tér
-az üzletkötői telekommunikációs rendszer teljes csere kell elvégez
-vállalkozói szerződés keret
-az ajánlattevő üzletkötő számára kialakított és további legfeljebb felhasználói bővítés lehető tevő üzletkötői telekommunikációs rendszer szállítás
-telepítés és üzem helyezés
-illetve a fenti rendszer sikeres műszaki átadás-átvétel követő havi
-jótállási időszak
-karbantartás kell ajánlat tesz
+version https://git-lfs.github.com/spec/v1
+oid sha256:1a7a6a3355a8678b428279f4ea30dab7acfe69319203863238fe0052d4aa5123
+size 504

@@ -1,6 +1,3 @@
-genomikai eszköz beszerzés a pécsi tudományegyetem ginop-2
-2-15-2016-00021 jelű projekt keret belül a közbeszerzési dokumentáció meghatározott paraméter
-az alábbi szerint
-1. ajánlati rész
-genomikai eszköz 1. 2. ajánlati rész
-genomikai eszköz 2. 3. ajánlati rész
+version https://git-lfs.github.com/spec/v1
+oid sha256:cf2b4a9075527f76d0238adf38649dd267e957899559aff69ef92663e0f931d5
+size 282

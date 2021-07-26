@@ -1,12 +1,3 @@
-rész
-békéscsaba
-belterületi útépítés engedélyezési és kiviteli terv elkészítés
-rész
-békéscsaba
-belterületi útépítés engedélyezési terv elkészítés
-rész
-békéscsaba
-külterületi útépítés engedélyezési terv elkészítés
-rész
-békéscsaba
-dobozi út és berényi út melletti kerékpárút felújítás kiviteli terv elkészítés
+version https://git-lfs.github.com/spec/v1
+oid sha256:dcb0560c472d51151e7bacec67b03f50dd5f4a2d6676f6840723a8b0122f7b1e
+size 364

@@ -1,4 +1,3 @@
-k1808
-man típusú tehergépjármű gyári új és gyári felújított
-valamint utángyártott új alktrész beszerzés és szállítás
-a részletes műszaki előírás a műszaki leírás tartalmaz
+version https://git-lfs.github.com/spec/v1
+oid sha256:bd86adfc5cc0b341ed93eaf06ccecb33d11e7e412ea884669822e6951bc8015f
+size 199

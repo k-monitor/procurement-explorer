@@ -1,1 +1,3 @@
-Megbízási szerződés keretében a siófoki szennyvíztisztító telep tervezése és kivitelezése FIDIC Sárga könyv szerinti I. (KEOP-1.2.0/09-11-2012-0014) és II. (KEHOP) megvalósítási üteme során, továbbá az I. ütemben szennyvízgyűjtő csatorna FIDIC Piros könyv szerinti kivitelezése során FIDIC mérnöki, valamint műszaki ellenőri tevékenység teljes körű ellátása.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a472e6a3d1c31332cd89e095f8a95abad209e68a29f71a73b956e727cfa98f49
+size 397

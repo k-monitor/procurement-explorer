@@ -1,1 +1,3 @@
-Kerepesi úti sportpark fejlesztése megvalósításához szükséges létesítmények kivitelezése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:564792b297ceb05c86045c386d56546b877ecbc8ca002441578f72230b259036
+size 101

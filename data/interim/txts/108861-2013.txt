@@ -1,1 +1,3 @@
-Az Országos Közfoglalkoztatási Pályázat keretében foglalkoztatottak számára vízügyi műtárgyak és tereptárgyak, vízügyi létesítmények javításához, karbantartásához szükséges különböző tárgyi eszközök beszerzése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0b35280812c62573fe40970bf3e33b32765a27231f2dd43408f3d3a72647153f
+size 244

@@ -1,1 +1,3 @@
-Hulladékhasznosító Műben üzemelő kazánok rostélyhengereihez rostélypálcák beszerzése
+version https://git-lfs.github.com/spec/v1
+oid sha256:210b978893217b2147e2d22b02b6bf97216800f0704d92f9e60d0829da7bf418
+size 96

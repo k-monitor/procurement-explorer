@@ -1,13 +1,3 @@
-vállalkozási keretszerződés az ajánlatkérő autópálya mérnökség megtalálható saját tulajdonú gépjármű és vontatmány karbantartás
-javítás
-alkatrész utánpótlás tárgy
-a vontatmány megnevezés alatt ajánlattevő a ráfutófék
-vagy légfékes rendszer rendelkező egy
-és kéttengelyes pótkocsi ért
-nyertes ajánlattevő feladat az ajánlatkérő jármű teljes körű karbantartás
-szervizelés az ajánlatkérő eseti megrendelés alap
-vállalkozó feladat továbbá a teljes körű karambolos javítás és az ez tartozó biztosítási ügyintézés végrehajtás
-műszaki vizsga felkészítés és vizsgáztatás
-ügyintézés
-környezetvédelmi felülvizsgálat
-valamint a mérnökségi telephely lévő jármű az alkatrész biztosítás a javítás független is
+version https://git-lfs.github.com/spec/v1
+oid sha256:0980264d653b1af4c9a0d9076696c7e785368d4af084f74a11ead067ebfec0c9
+size 797

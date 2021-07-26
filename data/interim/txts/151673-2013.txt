@@ -1,1 +1,3 @@
-Tervezési szerződés: a 76. sz. főúton megvalósuló fejlesztések ERFA pályázati dokumentációinak elkészítése, megvalósíthatósági tanulmány összeállítása, egyéb kapcsolódó kiegészítő anyagokkal, a pályázat befogadásához szükséges kiegészítések, egyeztetések tárgyában.
+version https://git-lfs.github.com/spec/v1
+oid sha256:01104f8e3a2710016b7d0a612409a99ce0d5bc414e36d58d2de6e84c8f7889c0
+size 307

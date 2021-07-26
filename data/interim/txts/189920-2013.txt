@@ -1,1 +1,3 @@
-Vállalkozási szerződés a TÁMOP-5.3.8-11/A1 azonosító számú „Megváltozott munkaképességű személyek munkaerő-piaci helyzetének elősegítése érdekében történő rendszerszintű képzési és szolgáltatásfejlesztési modellprogram” című projekt keretében „Képzési és Rehabilitációs Menedzsment Szoftver” („KÉREM Szoftver”) fejlesztése, és az ehhez kapcsolódó szolgáltatások nyújtása tárgyában.
+version https://git-lfs.github.com/spec/v1
+oid sha256:51bd114150dd789dc0a28ad6724822a93a0f9d7be9d2d41488c309359382035b
+size 443

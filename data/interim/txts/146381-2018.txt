@@ -1,1 +1,3 @@
-Hulladékhasznosító Mű-ben üzemelő K1, K2 kazánok túlhevítő blokkjainak a legyártása, leszállítása és cseréje.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ffba41432c3ce1c45ed40e67ae64f6c8c5f0ba0c9cbc961ef408c9103db1bf0c
+size 126

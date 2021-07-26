@@ -1,10 +1,3 @@
-vállalkozási szerződés képalkotó diagnosztikai és klinikai orvostechnikai berendezés karbantartás
-javítás vonatkozó
-az 1. részajánlati kör az mh ek székhely és ii
-számú telephely lévő darab képalkotó diagnosztikai és klinikai orvostechnikai berendezés
-valamint az tartozék megelőző-kijavító karbantartás
-a ii
-részajánlati kör az mh ek székhely és ii
-számú telephely lévő darab képalkotó diagnosztikai és klinikai orvostechnikai berendezés
-valamint az tartozék teljeskörű szervizszolgáltatás
-továbbá db korszerűsítési feladat végrehajtás
+version https://git-lfs.github.com/spec/v1
+oid sha256:210b8068a45893aa60018f077f014346ecaa891e5ffe9d3577d23e2d43c1720a
+size 592

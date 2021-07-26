@@ -1,5 +1,3 @@
-vállalkozási keretszerződés szódagyártó berendezés
-szódaballon-hűtő átalánydíjas javítás
-karbantartás
-állagmegóvás
-és csere havi szint
+version https://git-lfs.github.com/spec/v1
+oid sha256:9aaf223840e5f98d4352da583d5e4201642fe673dfb5a88d62822b982d587fda
+size 155

@@ -1,7 +1,3 @@
-megbízási szerződés az m86 gyf
-út szeleste
-csorna szakasz 1. ütem
-szeleste
-hegyfalu szakasz
-84. sz. főúti csomópont
-kivitelezés kapcsolódó mérnöki feladat ellátás
+version https://git-lfs.github.com/spec/v1
+oid sha256:31a74e9d0de5fc950711d9f187e261e2ad27665e125097fa271a470a2d2ea77d
+size 178

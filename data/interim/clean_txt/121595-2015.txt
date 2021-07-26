@@ -1,1 +1,3 @@
-szállítási szerződés halkészítmény és tartósított hal beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:82b80c3e1d82fbc77dcac2c5d6838ec2b159a321ca86acf5374dd8de17e6c03f
+size 75

@@ -1,1 +1,3 @@
-villamosenergia-kereskedő kiválasztás 2019. év
+version https://git-lfs.github.com/spec/v1
+oid sha256:8c231af6e732a0f331bc3174aa126092289863c3af9135d41e1f20581bcb1aee
+size 50

@@ -1,12 +1,3 @@
-adásvételi szerződés
-db felhőkondenzációs magszámláló
-db ködvíz gyűjtő és db köd monitor beszerzés szállítás és üzem helyezés a pannon egyetem részére a ginop -2.
-2-15-2016-00055 azonosító számú projekt keret
-a
-2015.
-10. 30.
-kormányrendelet 46. §
-bekezdés irányadó valamennyi részajánlattételi kör
-az adásvételi szerződés alap megvásárol kívánt termék részletes specifikáció
-minőségi és funkcionális követelmény a közbeszerzési dokumentum rész képező szerződéstervezet és műszaki leírás tartalmaz
-ajánlattevő teljesítés kapcsolatos feladat kiterjed a közbeszerzési dokumentum és a vonatkozó jogszabály meghatározott valamennyi feladat
+version https://git-lfs.github.com/spec/v1
+oid sha256:3e7a47bfb308bd791172c1b2a6205b487e78092a55ef309c3cc90fef86a8962a
+size 711

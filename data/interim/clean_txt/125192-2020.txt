@@ -1,5 +1,3 @@
-infrastrukturális fejlesztés az igali batthyány károly általános iskola
-iskola épület bővítés
-átalakítás
-az efop-4
-2-17-2017-00038 számú projekt keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:9efe7d56ce722b7735a903ea5afea39635c4c9fc0a20ac76570e329a4ea6530b
+size 166

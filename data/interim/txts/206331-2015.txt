@@ -1,1 +1,3 @@
-Budapesti Corvinus Egyetem oktatáshoz és kutatáshoz használt vegyszerek szállítása és ezzel összefüggő web shop szolgáltatás nyújtása.
+version https://git-lfs.github.com/spec/v1
+oid sha256:243e2efb9d0d08715e3a66e2273f5308ecc253195adbabab3d32c084c83a6202
+size 149

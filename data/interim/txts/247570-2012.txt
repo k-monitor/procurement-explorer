@@ -1,1 +1,3 @@
-Magyarország közigazgatási területén keletkező termékként tovább nem használható háztartási nagygépek (vegyes begyűjtésű hulladék) (EWC 200136, EWC 160214) 2012. évi begyűjtése, szállítása és előkezelése az Országos Gyűjtési és Hasznosítási Terv (OGyHT) által meghatározott célérték elérése érdekében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4e4db9bbf4e4a42d7da5966191df78f17d1d60aa68046087378cc6021f68f4e2
+size 343

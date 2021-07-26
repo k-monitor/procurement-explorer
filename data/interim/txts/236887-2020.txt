@@ -1,1 +1,3 @@
-Különféle élelmiszerek beszerzése a Somogy Megyei Kaposi Mór Oktató Kórház részére, 5 részben: 1. rész Füszértáru, 2. rész Mirelit áru, 3. rész: instant áru, 4. rész Vizit Kávézó – édességek és/vagy nassolni valók, 5. rész Vizit Kávézó – Fagyasztott pékáru.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fc61b00fd358db8b734138eec08031c6e5030d5960433fb48604c0e5d81550bd
+size 295

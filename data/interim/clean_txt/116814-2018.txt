@@ -1,11 +1,3 @@
-darab 3d bioreaktor beszerzés a pécsi tudományegyetem ginop-2
-2-15-2016-00022 jelű pályázat keret belül adásvételi szerződés feltétel alap a közbeszerzési dokumentáció rész kiadott műszaki leírás megadott paraméter alap
-garancia év
-felhasználói szintű oktatás legalább óra
-maximum fő
-az eszközök átadás-átvétel sor a vevő próba győződik meg az
-hogy az a rendetetésszerű használat alkalmas
-rendelkezik a szerződés és az elválaszthatatlan rész képező dokumentáció
-így különösen a műszaki leírás
-valamint a jogszabály előírt tulajdonság
-ajánlatkérő próba alatt az eszköz kipróbálás ért
+version https://git-lfs.github.com/spec/v1
+oid sha256:0cb1839d543e9de736c91e42d2753ea811dcd4798cbdd43e3af675856048ae48
+size 653

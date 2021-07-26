@@ -1,1 +1,3 @@
-A NAV vagyonkezelésében lévő 3,5 t össztömeget meg nem haladó márkafüggetlen gépjárművek kisjavítása, karbantartása és műszaki vizsgáztatása 3 részben 36 hónap időtartamra vagy a szerződéses keretösszeg kimerüléséig.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8dfde78af73dbaa37b4521e67e4d2292292d56dc1b4c5308dbbcb1aceeed7dbf
+size 244

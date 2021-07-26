@@ -1,1 +1,3 @@
-nyomatlan címke és címkekészlet beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:56daf6d4474f773a007ec3077a3ca96c43028f3759029ef1c5a90ac31c5928bd
+size 46

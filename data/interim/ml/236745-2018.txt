@@ -1,28 +1,3 @@
-Átalányáras	átalányáras	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-vállalkozási	vállalkozási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-(	(	PUNCT	_	
-ek	e	NOUN	Case=Nom|Number=Plur	
-)	)	PUNCT	_	
-keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-Szeged	Szeged	PROPN	Case=Nom|Number=Sing	
-,	,	PUNCT	_	
-Kemes	kemes	NOUN	Case=Nom|Number=Sing	
-Utcai	Utcai	PROPN	Case=Nom|Number=Sing	
-Óvoda	óvoda	NOUN	Case=Nom|Number=Sing	
-,	,	PUNCT	_	
-Klebelsberg	klebelsberg	NOUN	Case=Nom|Number=Sing	
-Telepi	telepi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-Óvoda	óvoda	NOUN	Case=Nom|Number=Sing	
-és	és	CONJ	_	
-Gyík	gyík	NOUN	Case=Nom|Number=Sing	
-Utcai	Utcai	PROPN	Case=Nom|Number=Sing	
-Bölcsőde	bölcsőde	NOUN	Case=Nom|Number=Sing	
-komplex	komplex	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-korszerűsítésének	korszerűsítés	NOUN	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-kivitelezése	kivitelezés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-három	három	NUM	Case=Nom|NumType=Card|Number=Sing	
-részajánlati	részajánlati	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-körben	kör	NOUN	Case=Ine|Number=Sing	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:43ab1d16d3f06bdcbd0318c19c26479208de792c73437556ce8cd8bc1694059a
+size 1208

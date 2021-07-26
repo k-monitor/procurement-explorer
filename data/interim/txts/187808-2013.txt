@@ -1,1 +1,3 @@
-Élelmiszerek szállítására irányuló szállítási szerződés a Bácsborsódi "Őszi Napfény" Integrált Szociális Intézmény ajánlatkérő és az A melléklet IV) pontjában megnevezett "Harmónia" Integrált Szociális Intézmény részére.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dc71fe8d64050f27075ea7ac1d2b0a1602ed2940898420e547acecaa9b80e824
+size 253

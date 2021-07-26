@@ -1,1 +1,3 @@
-Megbízási szerződés „Vámospércs és Nyírmártonfalva települések szennyvízelvezetése és szennyvíztisztítása” című projekthez kapcsolódó FIDIC Mérnöki és műszaki ellenőri feladatok ellátására - KEOP-1.2.0/09-11-2011-0050
+version https://git-lfs.github.com/spec/v1
+oid sha256:af7f36dce84c6a71653e31497f634e96197c8dd442ef0e6c1f119a80deb16965
+size 250

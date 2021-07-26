@@ -1,3 +1,3 @@
-különféle kötszer beszerzés a rész meghatározott szerint
-ajánlatkérő a részajánlat-tétel lehetőség rész biztosít
-a beszerzés mennyiség rész kerül meghatározás
+version https://git-lfs.github.com/spec/v1
+oid sha256:be6ef443bf6aa25817ee4f72dc25bd6f40eaa0a6ede89643a0655ddba5960b03
+size 181

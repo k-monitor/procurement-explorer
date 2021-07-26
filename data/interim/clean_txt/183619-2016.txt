@@ -1,5 +1,3 @@
-adásvételi keretszerződés bitumenemulzió
-modifikált bitumenes öntapadó repedésjavító szalag
-bitumenalapú hézagkiöntő anyag
-továbbá hígított bitumen beszerzés a szerződés aláírás számított hónap időtartam az ajánlati felhívás megjelölt rész szerint
-a rész megjelölt nettó keretösszeg erő
+version https://git-lfs.github.com/spec/v1
+oid sha256:fec0004f9d4e9eb33f9c52ae4251709137a7c45d00fa9ed1d48a897abf97c6cc
+size 325

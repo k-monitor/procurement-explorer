@@ -1,1 +1,3 @@
-Gőzhőenergia szállítása a Ferencvárosi Torna Club népligeti sporttelepe részére.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f7fc19d971580f2c0e9d82aa1f9345c02bd9e4443951d3cf64118f9b7d36d56b
+size 89

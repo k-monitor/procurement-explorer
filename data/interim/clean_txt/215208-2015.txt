@@ -1,15 +1,3 @@
-szolgáltatási szerződés
-gazdálkodó szervezet kapcsolatos települési szilárd hulladékkezelési részfeladat
-laza
-előtömörített
-tömörített hulladék gyűjtés
-szállítás
-ellátás
-mely szolgáltató a saját
-bérelt vagy lízingel
-célgép
-eszköz
-tartály
-konténer
-tömörítő fej
-kell végeznie
+version https://git-lfs.github.com/spec/v1
+oid sha256:178bec08dbdb22dac87b7026e1c0b3e999714fa0e5c18bf43473e20a4c9cda1b
+size 315

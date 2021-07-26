@@ -1,34 +1,3 @@
-Szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-tárgya	tárgy	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-:	:	PUNCT	_	
-Orvostechnikai	orvostechnikai	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-eszközök	eszköz	NOUN	Case=Nom|Number=Plur	
-beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-a	a	DET	Definite=Def|PronType=Art	
-Pécsi	Pécsi	PROPN	Case=Nom|Number=Sing	
-Tudományegyetem	Tudományegyetem	PROPN	Case=Nom|Number=Sing	
-Kardiovaszkuláris	kardiovaszkuláris	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-Intézete	Intézete	PROPN	Case=Nom|Number=Sing	
-részére	részére	ADP	_	
-a	a	DET	Definite=Def|PronType=Art	
-TIOP-2	TIOP-2	PROPN	Case=Nom|Number=Sing	
-.	.	PUNCT	_	
-
-2	2	NUM	Case=Nom|NumType=Card|Number=Sing	
-.	.	PUNCT	_	
-7-07	7-07	NUM	Case=Nom|NumType=Card|Number=Sing	
-/	/	PUNCT	_	
-2F	2F	NUM	Case=Nom|NumType=Card|Number=Sing	
-/	/	PUNCT	_	
-2-2010-0001	2-2010-0001	PROPN	Case=Nom|Number=Sing	
-pályázat	pályázat	NOUN	Case=Nom|Number=Sing	
-keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
-Szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-típusa	típus	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-:	:	PUNCT	_	
-Adásvételi	adásvételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:25d6e2edb56d4c4b5abe7293927fb68ab121d7657f9f20a2cee5a0a0cb7edbe7
+size 1350

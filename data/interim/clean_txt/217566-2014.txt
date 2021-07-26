@@ -1,2 +1,3 @@
-vállalkozási szerződés
-mtva részére időjárás jelentés adatszolgáltatás biztosítás hónap időtartam
+version https://git-lfs.github.com/spec/v1
+oid sha256:8619663d9762b4de56771278d9aaf8bf1c2fce9a967c505737cd2467dca2c037
+size 113

@@ -1,32 +1,3 @@
-Szállítási	Szállítási	PROPN	Case=Nom|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-cseppfolyós	cseppfolyós	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-oxigén	oxigén	NOUN	Case=Nom|Number=Sing	
-szállítása	szállítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-,	,	PUNCT	_	
-valamint	valamint	CONJ	_	
-vákuumszigetelt	vákuumszigetelt	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-cseppfolyós	cseppfolyós	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-tárolótartályok	tárolótartály	NOUN	Case=Nom|Number=Plur	
-és	és	CONJ	_	
-a	a	DET	Definite=Def|PronType=Art	
-hozzájuk	ők	PRON	Case=All|Number=Plur|Person=3|PronType=Prs	
-tartozó	tartozó	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-szerelvények	szerelvény	NOUN	Case=Nom|Number=Plur	
-és	és	CONJ	_	
-légfűtésű	légfűtésű	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-elpárologtató	elpárologtató	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-berendezések	berendezés	NOUN	Case=Nom|Number=Plur	
-(	(	PUNCT	_	
-együttesen	együttes	ADJ	Case=Ess|Degree=Pos|Number=Sing	
-:	:	PUNCT	_	
-ellátóberendezés	ellátóberendezés	NOUN	Case=Nom|Number=Sing	
-)	)	PUNCT	_	
-bérleti	bérleti	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-díj	díj	NOUN	Case=Nom|Number=Sing	
-ellenében	ellenében	ADP	_	
-történő	történő	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-üzemeltetése	üzemeltetés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:67c7363786f63ff7d2d16f6bd423aea93bab3a611c3e45b715e3f619e223a8df
+size 1540

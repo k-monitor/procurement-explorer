@@ -1,1 +1,3 @@
-Keretszerződés, melynek tárgya Adásvételi és szállítási szerződés. Gumiabroncsok beszerzése kapcsolódó szolgáltatások eseti megrendelésével a Fővárosi Vízművek Zrt. részére.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b5ae64cbd05ddf291d45cc36f136b3a7abf75de0d3d1878e2e7c409764e4f323
+size 197

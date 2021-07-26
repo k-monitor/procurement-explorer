@@ -1,1 +1,3 @@
-atmr szerver alkatrész
+version https://git-lfs.github.com/spec/v1
+oid sha256:a734ef2547b1c7b7450394db6813eb8bc492f20205ec98fa0181909ee61d3c68
+size 23

@@ -1,2 +1,3 @@
-elektronikus jegyrendszer előkészítés és kivitelezés
-című projekt nyomdai feladat ellátás
+version https://git-lfs.github.com/spec/v1
+oid sha256:ac1bba326c203efb9127b69d8f283465c28ba0f11d1e4411ba28dc972e8c501c
+size 99

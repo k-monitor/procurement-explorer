@@ -1,1 +1,3 @@
-Megbízási szerződés keretében a "Beregi komplex árapasztási és ártér-revitalizációs fejlesztés" projekt megvalósításával és hatékony üzemeltetése előkészítésével kapcsolatos PR- és tájékoztatási tevékenység teljes körű ellátása, ideértve annak megtervezését, megszervezését, lebonyolítását, a szükséges szakértői rendelkezésre állás folyamatos biztosítását és a konfliktuskezelést is." (KEOP-2.1.1/2F/09-2010-0007).
+version https://git-lfs.github.com/spec/v1
+oid sha256:5a233e2e1aed2ebaf2d2e302c49e68f2fee525817cda266a61eb555f64c0c384
+size 471

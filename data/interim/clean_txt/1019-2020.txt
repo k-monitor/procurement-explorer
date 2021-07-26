@@ -1,2 +1,3 @@
-az egészséges budapest program keret a budapest
-csobánka tér 6. szám alatti rendelőintézet átalakítás és felújítás
+version https://git-lfs.github.com/spec/v1
+oid sha256:05853aea7c60ba214b57eb94fa799273df0b213cf7150b9b83b58e550c7bf665
+size 128

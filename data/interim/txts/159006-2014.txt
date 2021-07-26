@@ -1,1 +1,3 @@
-Adásvételi szerződés, melynek tárgya: Orosháza Város Önkormányzata és intézményeinek (16 fogyasztási helyen) földgázzal történő ellátása 1.9.2014-től 1.9.2015-ig teljes ellátásalapú szerződés keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1c9fe257a62abe684bc19751ba99773511736a9407550754fad99a2a7ec2ae4c
+size 229

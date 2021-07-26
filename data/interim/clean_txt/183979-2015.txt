@@ -1,5 +1,3 @@
-városmajori szív-és érgyógyászati klinika részére kardiológiai és radiológiai intervenciós
-egy használatos eszköz
-valamint egy használatos invazív kardiológiai ablációs és radiológiai szett beszerzés
-továbbá a radiológiai és onkoterápiás klinika részére radiológiai intervenciós
-egy használatos eszköz beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:fd18fbe9ae0932dd34a641edad6634fb28ad5a74aea74a079879991209c5edb3
+size 346

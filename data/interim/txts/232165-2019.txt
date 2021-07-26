@@ -1,1 +1,3 @@
-Munkaerőpiaci felmérés
+version https://git-lfs.github.com/spec/v1
+oid sha256:b61713736b35bd0e54e0fdbc98ff1746b428d3da768492cdca4d8ad580a8f75c
+size 25

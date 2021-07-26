@@ -1,1 +1,3 @@
-Keret-megállapodás az Alföldvíz Zrt.-vel technológiai célú vasvegyület (vas(III)-klorid) adásvétele tárgyban
+version https://git-lfs.github.com/spec/v1
+oid sha256:f01b13bd2067e9ea68ff59ece1b958a478747e35551bcde8793e58aec1f53479
+size 119

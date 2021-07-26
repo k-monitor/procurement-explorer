@@ -1,1 +1,3 @@
-Nyertes Ajánlattevőnek (továbbiakban: AT) kötelessége a dokumentációban meghatározott valamennyi feladat teljes körű elvégzése. A részletes műszaki tartalmat a közbeszerzési dokumentumok tartalmazzák. A teljesítés helye: 8086 Felcsút, hrsz. 329/2 A projekt megvalósítása során egy 16 tantermes iskolaépület (általános iskola) épül, a szükséges kiszolgálóhelyiségekkel (földszint, +1 emelet) kialakítással. Az épület kialakítása során biztosítani kell a teljes épület akadálymentes megközelíthetőségét. Az épület hasznos alapterülete 5611,27 m2, befogadóképessége 600 fő. Ebből hagyományos teherhordó szerkezettel készült épületrész alapozás felett lévő első szint hasznos alapterülete: 2355,91 m2, a tornacsarnok hasznos alapterülete 1085,0 m2.
+version https://git-lfs.github.com/spec/v1
+oid sha256:06dce371fdf0e2cb494ae7b93db6da2b9712dd070335342c678c04039d738475
+size 817

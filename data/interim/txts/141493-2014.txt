@@ -1,1 +1,3 @@
-Vállalkozási szerződés tankönyvek nyomdai előállítását célzó nyomdai szolgáltatás beszerzése az Oktatáskutató és Fejlesztő Intézet részére.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bf21977030478d60ba877f9689fdcbe06a17114eb2d61e6672c8205fb377363b
+size 161

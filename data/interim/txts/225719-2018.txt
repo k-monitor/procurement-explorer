@@ -1,1 +1,3 @@
-Latens TBC fertőzöttség kimutatására szolgáló reagensek szállítása készülék biztosításával, +2 év kiterjesztett garanciával és betanítással.
+version https://git-lfs.github.com/spec/v1
+oid sha256:25f57f03d386357e7436f3fe5c34b01919703e27e91c20c9e396cf34aac93ee1
+size 161

@@ -1,1 +1,3 @@
-Az FTC-MVM Sportközpont a Ferencvárosi Torna Club népligeti sportközpontja részére gőzhőenergia vétele.
+version https://git-lfs.github.com/spec/v1
+oid sha256:637e6d907c9fb1adb0fa017995289e65b3428ceebbbbb7134bc0bad787aeb6dc
+size 112

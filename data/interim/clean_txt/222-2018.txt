@@ -1,24 +1,3 @@
-ajánlatkérő saját intézmény működő lakossági gyógyszerellátás végző vényforgalmú gyógyszertár részére hónap szükséges a
-2015.
-10. 30.
-korm
-rendelet
-a további
-korm
-rendelet
-46. §
-bekezdés foglalt figyelem vétel meghatározott különféle gyógyszer
-kötszer
-gyógyászati segédeszköz és egyéb készítmény
-beleértve a magisztrális készítmény és alapanyag is
-kíván megvásárolnia kbt. 104. §
-bekezdés alap ajánlattevő megkötött keretmegállapodás alap
-a kbt. 105. §
-bekezdés a
-pont alap
-az esetenkénti beszerzés
-a kbt. 104. §
-bekezdés szerinti keretmegállapodás meghatározott feltétel szerint
-az ajánlatkérő által közvetlen megrendelés útján a 105. §
-bekezdés a
-pont szerint kiválasztott ajánlattevő kerül sor
+version https://git-lfs.github.com/spec/v1
+oid sha256:91a974e43b2b879c08b15327ed52ae7f7b3bb58f05a71c0c3eabd065788471c2
+size 781

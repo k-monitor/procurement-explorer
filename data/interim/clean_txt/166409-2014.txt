@@ -1,1 +1,3 @@
-a magyar turizmus zrt. részére belföldi kommunikáció kapcsolódó médiaügynökségi feladat elvégzés a szerződés megkötés számított hónap
+version https://git-lfs.github.com/spec/v1
+oid sha256:d9b0a0375cf0aa082815fac86d1de94417e4c7317113660ead53fa8e865467b2
+size 153

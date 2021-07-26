@@ -1,1 +1,3 @@
-Hirdetési és médiaszolgáltatások megrendelése, valamint médiatervezési és - vásárlási feladatok ellá-tása a Liszt Ferenc Zeneművészeti Egyetem részére.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0964e5ae6a49a495ee654287ff64ab3faf281d61d6c155b7ae34f0b3c6f7a361
+size 169

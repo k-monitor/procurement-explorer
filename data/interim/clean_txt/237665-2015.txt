@@ -1,3 +1,3 @@
-határozott idejű folyószámlahitel
-és bankszámlaszerződés
-folyószámla-hitelkeret és számlavezetés biztosítás a dmrv zrt. részére tárgy
+version https://git-lfs.github.com/spec/v1
+oid sha256:37f94f5ffb5b13ab0048404d29cde696afbbb47099c68a666faf170984164a9d
+size 151

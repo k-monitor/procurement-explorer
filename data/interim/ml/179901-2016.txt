@@ -1,14 +1,3 @@
-Rendezvényszervezési	rendezvényszervezési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szolgáltatások	szolgáltatás	NOUN	Case=Nom|Number=Plur	
-(	(	PUNCT	_	
-hallgatói	hallgatói	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-rendezvények	rendezvény	NOUN	Case=Nom|Number=Plur	
-)	)	PUNCT	_	
-beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-a	a	DET	Definite=Def|PronType=Art	
-Budapesti	Budapesti	PROPN	Case=Nom|Number=Sing	
-Gazdasági	Gazdasági	PROPN	Case=Nom|Number=Sing	
-Egyetem	Egyetem	PROPN	Case=Nom|Number=Sing	
-részére	részére	ADP	_	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:7b1fc574a10514ecb5a43098245343d1aa76fe0bc342834b8825fdfe1a6a4d2b
+size 581

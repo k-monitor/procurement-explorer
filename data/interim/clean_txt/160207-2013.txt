@@ -1,6 +1,3 @@
-adásvételi szerződés földgáz beszerzés kulturális szervezet részére ez emberi erőforrás miniszter
-2013.
-ii
-emmi utasítás alap a 2013.8.1
-óra és a 2014.7.1
-óra közötti időszak
+version https://git-lfs.github.com/spec/v1
+oid sha256:a250b227402d05b393b01b51484e7484c1065ceacf3d2fdb40cef5e8bd56d43a
+size 194

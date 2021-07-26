@@ -1,1 +1,3 @@
-Ajánlatkérő feladatainak teljesítéséhez szükséges hulladékgyűjtő és hulladékszállító járművek valamint az ezekhez tartozó berendezések javítása, karbantartása illetőleg szerviz munkáinak elvégzése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a7163b1d18013f88b0cda669cbb3e640d7b40268a1d131fa4ce5a69d40e035e2
+size 224

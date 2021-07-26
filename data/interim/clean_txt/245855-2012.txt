@@ -1,2 +1,3 @@
-szállítási szerződés keret a cern@wigner adatközpont és a géant európai kutatói gerinchálózat budapesti pop közötti hálózati összeköttetés szükséges eszköz beszerzés
-az összeköttetés kiépítés és kapcsolódó szolgáltatás nyújtás
+version https://git-lfs.github.com/spec/v1
+oid sha256:8600db3321eb3806e1adba6e90993e1ba1ba7e30a060993179a8cd9ad4b02e24
+size 262

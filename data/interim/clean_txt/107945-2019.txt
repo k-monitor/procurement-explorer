@@ -1,5 +1,3 @@
-a józsefváros kiadvány nyomdai és terjesztési szolgáltatás részajánlattételi lehetőség
-1. rész
-nyomdai szolgáltatás
-2. rész
-terjesztési szolgáltatás
+version https://git-lfs.github.com/spec/v1
+oid sha256:88b19419e13c377b7204755c664fb2b9f93279aa98455418c819056978dfd5f5
+size 167

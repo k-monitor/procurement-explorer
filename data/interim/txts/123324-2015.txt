@@ -1,1 +1,3 @@
-Megbízási szerződés az új MTK Hidegkuti Nándor Labdarúgó Stadion megvalósításához szükséges komplex lebonyolítói, műszaki ellenőri, tervellenőrzési, sporttechnológiai ellenőri, minőségfelügyeleti (szuperellenőrzési), fenntarthatósági tanácsadói, valamint nemzetközi zöld épületminősítési feladatok ellátására.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6d3de2ec296b637904c4565e9b6f5e12d291ffa24ac6bc5d7c59ed50eb1dc54e
+size 350

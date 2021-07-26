@@ -1,1 +1,3 @@
-papíripari gépbeszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:902e736e3f06f8e16f90afdcd45d6a988b5f5fab71a46f06e908d7600e1f168c
+size 26

@@ -1,1 +1,3 @@
-ENyÜBS előállítását szolgáló BSR 24 havi szupportja
+version https://git-lfs.github.com/spec/v1
+oid sha256:ed14c6bd0c7a9632d976787202e0e567aff031eab3ec11877c7f4dccb57b5e4b
+size 59

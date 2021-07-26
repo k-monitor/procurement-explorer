@@ -1,3 +1,3 @@
-az nmi művelődési intézet nonprofit közhasznú kft. székhely építés a lakitelek
-felsőalpár 3. alatti ingatlan
-1. és 2. ütem
+version https://git-lfs.github.com/spec/v1
+oid sha256:dee97cb62eb60dcf7d97d1269fe2df0958528a9052f3be2410d1619a49cd680f
+size 136

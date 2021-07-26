@@ -1,1 +1,3 @@
-Adásvételi szerződés Villamos energia beszerzésére. Szerződéses időszak: 2021. január 1. - 2021. december 31. Szerződött villamos energia mennyiség (kWh): 3 812 844 kWh + 25 %.
+version https://git-lfs.github.com/spec/v1
+oid sha256:621b235a0a8375c113c585d00ca93f84c5eca70ac499996caf95d025571a6b66
+size 189

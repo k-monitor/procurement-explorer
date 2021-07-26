@@ -1,6 +1,3 @@
-nav szabadpiaci
-m³
-h feletti fogyasztás rendelkező
-objektum földgáz ellátás a 1.7.2015
-1.10.2016
-közötti gázév vonatkozó
+version https://git-lfs.github.com/spec/v1
+oid sha256:88b5e7276cb558d033784247790a9368caec50c2fc8abb29966fee4341896b50
+size 132

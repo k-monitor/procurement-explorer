@@ -1,4 +1,3 @@
-vállalkozási-építési szerződés
-szeged-algyő
-ivóvízminőség-javító projekt ii
-fázis kapcsolódó építési és próbaüzemi munka tárgy
+version https://git-lfs.github.com/spec/v1
+oid sha256:8cba52b9ff42bc6bb074286d051a7189ffb9cc30a44bbc2bfae355ee2037b0fa
+size 150

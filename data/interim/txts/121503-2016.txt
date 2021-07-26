@@ -1,1 +1,3 @@
-Vállalkozási szerződés keretében Budapest IX. Kerület Csicsergő Óvoda, a Kerekerdő Óvoda számára és a Liliom Óvoda számára közétkeztetés biztosítása. Nyertes Ajánlattevő az óvodás korú gyermekek részére nevelési napokon napi egyszeri főétkezést (ebéd) és kétszeri kis étkezést (tízórai, uzsonna) biztosít. Nyertes Ajánlattevő a szolgáltatás nyújtására hétfőtől péntekig, illetve egyéb nevelési napokon köteles. A szolgáltatással érintett nevelési napok száma az elmúlt év adatai alapján: 220 nap/év + 10 %. tízórai biztosítása óvodás gyermekek részére: 739 adag/nap,ebéd biztosítása óvodás gyermekek részére: 739 adag/nap, uzsonna biztosítása óvodás gyermekek részére: 739 adag/nap, alkalmazottak részére ebéd:100 adag/nap.
+version https://git-lfs.github.com/spec/v1
+oid sha256:759ecb9496b3aeb4e31889a2e3971dda2920c5d7e192034851a333beaa95f171
+size 810

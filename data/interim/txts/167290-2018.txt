@@ -1,1 +1,3 @@
-Őrzés-védelmi és portaszolgálati tevékenység ellátása.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8272e13dcc7b1abcc2cc4b5692938a4401de2a87e998da6f4209ce9a1106303e
+size 63

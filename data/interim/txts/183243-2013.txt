@@ -1,1 +1,3 @@
-Tervezési szerződés „M9 Vasvár - Nagykanizsa közötti autóúti szakasz Megvalósíthatósági tanulmány, Környezeti hatástanulmány és Közúti Biztonsági Hatásvizsgálat készítése ” tárgyában
+version https://git-lfs.github.com/spec/v1
+oid sha256:27a96e85f2002f08b0e373648264e02ee12504ec57f233b9e19165a35c9a735e
+size 213

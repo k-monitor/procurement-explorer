@@ -1,1 +1,3 @@
-DEK-347/2016.: Veszélyes hulladék gyűjtők (badellák) és tűgyűjtők beszerzése a Debreceni Egyetem Klinikai Központ részére.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a21762fcd5a0e5fc491e9c4246f2c7a872f96b31de22a1f1a2886d0fec3ef076
+size 135

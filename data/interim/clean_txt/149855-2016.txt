@@ -1,1 +1,3 @@
-a budapest közút zrt. kezelés lévő aluljáró kamera üzemeltetés és karbantartás
+version https://git-lfs.github.com/spec/v1
+oid sha256:19492581d8fe1ae031262c224136bfe39236305233e2352aaf6c2adebbf388b2
+size 89

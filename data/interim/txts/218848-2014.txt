@@ -1,1 +1,3 @@
-Szállítási szerződés (fajta és mennyiség szerint meghatározott dolog határidős adásvételére vonatkozó szerződés) – „Sürgősségi ellátás fejlesztése a Karolina Kórház-Rendelőintézetben” című, TIOP-2.2.6-12/1B-2013-0029 számú projekt megvalósításához kapcsolódó orvosi gépek és műszerek beszerzése tárgyban.
+version https://git-lfs.github.com/spec/v1
+oid sha256:51d85b8cf5170c94e67005302da53410fae4db0c1a0669cca961f0f177b0719a
+size 351

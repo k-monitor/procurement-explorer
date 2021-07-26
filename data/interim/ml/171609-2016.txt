@@ -1,36 +1,3 @@
-Határozott	határozott	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-idejű	idejű	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-adás-vételi	adás-vételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-keretei	keret	NOUN	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3	
-között	között	ADP	_	
-kíván	kíván	VERB	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	
-beszerezni	beszerez	VERB	VerbForm=Inf|Voice=Act	
-az	az	DET	Definite=Def|PronType=Art	
-Ajánlatkérő	ajánlatkérő	NOUN	Case=Nom|Number=Sing	
-1	1	NUM	Case=Nom|NumType=Card|Number=Sing	
-db	db	NOUN	Case=Nom|Number=Sing	
-endoscopos	endoscopos	NOUN	Case=Nom|Number=Sing	
-ultrahang	ultrahang	NOUN	Case=Nom|Number=Sing	
-diagnosztikai	diagnosztikai	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-készüléket	készülék	NOUN	Case=Acc|Number=Sing	
-/	/	PUNCT	_	
-rendszert	rendszer	NOUN	Case=Acc|Number=Sing	
-a	a	DET	Definite=Def|PronType=Art	
-jelen	jelen	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-eljárást	eljárás	NOUN	Case=Acc|Number=Sing	
-megindító	megindító	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-felhívás	felhívás	NOUN	Case=Nom|Number=Sing	
-specifikációja	specifikáció	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-szerint	szerint	ADP	_	
-a	a	DET	Definite=Def|PronType=Art	
-meglévő	meglévő	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-Olympus	Olympus	NOUN	Case=Nom|Number=Sing	
-gyártású	gyártású	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-endoscopos	endoscopos	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-rendszerrel	rendszer	NOUN	Case=Ins|Number=Sing	
-kompatibilisnek	kompatibilis	ADJ	Case=Dat|Degree=Pos|Number=Sing	
-kell	kell	VERB	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	
-lennie	lennie	VERB	Number=Sing|Person=3|VerbForm=Inf|Voice=Act	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:dafb0c089e9f06b9422ac4145df7317123641796094395950b9a11fd4a4fa432
+size 1851

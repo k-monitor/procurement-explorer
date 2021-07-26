@@ -1,1 +1,3 @@
-Adásvételi szerződés folyadékkromatográffal kapcsolt tömegspektrometriás rendszerek beszerzésére az I. számú Gyermekgyógyászati Klinika részére 2 részben.
+version https://git-lfs.github.com/spec/v1
+oid sha256:38ab3685dd2a349a949b5f60c233a4f2c70fefc9e58b19df5e52df551e62c977
+size 171

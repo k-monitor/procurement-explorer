@@ -1,1 +1,3 @@
-Vállalkozási szerződés keretében „A Dunántúli-középhegységi karsztvízszint emelkedés okozta jelenségek állapotrögzítése, a várható emelkedés modellezése” című, KEHOP-1.1.0-15-2017-00010 azonosítószámú projekthez kapcsolódó modellezés, forrásfelmérés, forráskataszter elkészítése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7811b193a28dae9a40053b1c34ca3694a3cd75518a68c2144b37b209cdf2b869
+size 320

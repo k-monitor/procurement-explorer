@@ -1,4 +1,3 @@
-bács-kiskun megyei katasztrófavédelmi igazgatóság
-kecskeméti katasztrófavédelmi kirendeltség és hivatásos tűzoltó parancsnokság új épület építés a kehop-1
-0.-15-2016-00012 azonosítószámú projekt keret a kecskemét
-hrsz. alatti ingatlan
+version https://git-lfs.github.com/spec/v1
+oid sha256:1c5ea5273e7b34eefee035ef1d933d6ab904ec9955b276d49c0efc6130a66a13
+size 259

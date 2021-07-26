@@ -1,1 +1,3 @@
-„Kiskunfélegyháza Város Önkormányzata és Intézményei részére földgáz beszerzése 24 hónapra”
+version https://git-lfs.github.com/spec/v1
+oid sha256:5c695340e1df71092c62ee0f26872eb3e5b7132cc710fdcdf699965c93bcbb91
+size 109

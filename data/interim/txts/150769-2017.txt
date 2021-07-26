@@ -1,1 +1,3 @@
-Tervezési szolgáltatás budapesti útfelújítások előkészítésére A közbeszerzési eljárás során a részajánlattétel a II.1.6. pont szerint biztosított az alábbi részekre (4) vonatkozóan: — 1. részfeladat (tervezés: Budapest II. kerület: Rómer Flóris utca, Ankara utca, Pusztaszeri út, Budapest III. kerület: Emőd utca, Attila utca, Csalma utca, Kunigunda útja), — 2. részfeladat (tervezés: Budapest XVII. kerület: Bakter utca, Kodolányi János tér, Újlak utca, Széchenyi utca, Borsó utca, Pesti út szervizút, Bártfai utca, Lemberg utca), — 3. részfeladat (tervezés: Budapest VII. kerület: Síp utca, Budapest XX. kerület: Mártírok útja, Kossuth Lajos utca, Budapest XXII. kerület: Bartók Béla út), — 4. részfeladat (tervezés: Budapest XVII. kerület: Zrínyi utca).
+version https://git-lfs.github.com/spec/v1
+oid sha256:45cc92e5b394ba9d7214692bfb766eb43e4d6bf7a987f5c5bfe355d7563d8d3e
+size 825

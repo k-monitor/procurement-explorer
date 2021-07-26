@@ -1,5 +1,3 @@
-kereskedelmi
-szállítási
-szerződés budapest főváros
-kerület hegyvidéki önkormányzat villamos energia versenypiaci beszerzés teljes ellátásalapú szerződés keret
-menetrendadási kötelezettség nélkül
+version https://git-lfs.github.com/spec/v1
+oid sha256:384199a6753a627b9bc2aeefbffd28c529595cae3c84915adae346e4d444ca2f
+size 216

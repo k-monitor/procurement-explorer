@@ -1,9 +1,3 @@
-Adásvételi	adásvételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-1	1	NUM	Case=Nom|NumType=Card|Number=Sing	
-darab	darab	NOUN	Case=Nom|Number=Sing	
-Mammográf	Mammográf	PROPN	Case=Nom|Number=Sing	
-berendezés	berendezés	NOUN	Case=Nom|Number=Sing	
-beszerzésére	beszerzés	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:4b4e92eede9afba51d2ff6f16e077b8e210c6c5c73ec0710a6fcff32260ae9a8
+size 397

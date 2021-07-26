@@ -1,2 +1,3 @@
-hulladéktömörítő és
-szállító gépjármű beszerzés szállítási szerződés keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:dbf92838997ce5f95d1413da78ff241d89751a14da8eb0eb10e49550bb671651
+size 92

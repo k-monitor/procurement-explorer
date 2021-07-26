@@ -1,33 +1,3 @@
-Megbízási	megbízási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-az	az	DET	Definite=Def|PronType=Art	
-„	„	PUNCT	_	
-Energiahatékonyság	energiahatékonyság	NOUN	Case=Nom|Number=Sing	
-fejlesztése	fejlesztés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-a	a	DET	Definite=Def|PronType=Art	
-Bevándorlási	bevándorlási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-és	és	CONJ	_	
-Állampolgársági	állampolgársági	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-Hivatal	Hivatal	PROPN	Case=Nom|Number=Sing	
-és	és	CONJ	_	
-a	a	DET	Definite=Def|PronType=Art	
-Rendőrség	rendőrség	NOUN	Case=Nom|Number=Sing	
-épületeiben	épület	NOUN	Case=Ine|Number=Plur|Number[psor]=Sing|Person[psor]=3	
-"	"	PUNCT	_	
-című	című	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-projekthez	projekt	NOUN	Case=All|Number=Sing	
-kapcsolódóan	kapcsolódó	ADJ	Case=Ess|Degree=Pos|Number=Sing|VerbForm=PartPres	
-az	az	DET	Definite=Def|PronType=Art	
-érintett	érintett	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-épületek	épület	NOUN	Case=Nom|Number=Plur	
-energiafejlesztésre	energiafejlesztés	NOUN	Case=Sub|Number=Sing	
-irányuló	irányuló	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-kivitelezéséhez	kivitelezés	NOUN	Case=All|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-kapcsolódóan	kapcsolódó	ADJ	Case=Ess|Degree=Pos|Number=Sing|VerbForm=PartPres	
-műszaki	műszaki	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-ellenőri	ellenőri	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-feladatok	feladat	NOUN	Case=Nom|Number=Plur	
-ellátása	ellátás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-tárgyában	tárgy	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:5a06fcf69a8116d44072106736800a5dabf47a93dec7b833639a443c2bf5d4a4
+size 1725

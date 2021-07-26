@@ -1,16 +1,3 @@
-vállalkozási keretszerződés ajánlatkérő jogszabály meghatározott országos közútfenntartási feladat ellátás szükséges db
-az 1. rész db skoda
-a 2. rész db volkswagen gyártmányú
-személy
-és kistehergépjármű karbantartás
-garanciális időszak alatti és az túli javítás
-kapcsolódó szolgáltatás ellátás
-valamint a javítás független alkatrészellátás biztosítás a rendelkezés álló keretösszeg
-1. rész
-nettó huf
-2. rész
-nettó huf
-kimerülés
-de későn a szerződés aláírás számított 24. hónap utolsó nap tartó határozott időtartam lejárta
-eseti megrendelés alap
-a részletes feladatleírás a közbeszerzési műszaki leírás tartalmaz
+version https://git-lfs.github.com/spec/v1
+oid sha256:ddcdeff51a078e256784fb4ada32a4db58d61c4a449d5447d328abb2bf9af926
+size 694

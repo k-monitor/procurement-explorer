@@ -1,2 +1,3 @@
-adásvételi szerződés pékáru beszerzés az szgyf fenntartás lévő tolna és békés megyei intézmény részére telephely a részletezett műszaki leírás szerint
-árazatlan terméklista
+version https://git-lfs.github.com/spec/v1
+oid sha256:5d1a7236729ecb5e5137b2e9c07a03b23035ea8567cee9fae5db01fbe4eed9f6
+size 195

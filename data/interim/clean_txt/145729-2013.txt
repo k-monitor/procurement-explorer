@@ -1,1 +1,3 @@
-vonalas létesítmény terület előkészítés szükséges régészeti feltárás gépi és kézi földmunka elvégzés vállalkozási keretszerződés
+version https://git-lfs.github.com/spec/v1
+oid sha256:aae186766108451c9ab868d65aa8a015686a9a809aa4ce7f5d9ba1c9aa25135e
+size 152

@@ -1,2 +1,3 @@
-mintavevő és
-preparáló berendezés szállítás adásvételi szerződés keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:86ad9eea785599f44188ba0546845f1f31f290530079aa2ef9e017d8bb70dcb6
+size 82

@@ -1,1 +1,3 @@
-Adásvételi szerződés téli és nyári adapterek beszerzésére. 1. rész: Adásvételi keretszerződés 21 db padkakasza adapter beszerzésére 2. rész: Adásvételi keretszerződés 25 db rézsűkasza adapter beszerzésére 3. rész: Adásvételi keretszerződés 15 db homlokseprő adapter beszerzésére 4. rész: Adásvételi keretszerződés 10 db homlokhóeke adapter beszerzésére 5. rész: Adásvételi keretszerződés 15 db sószóró adapter beszerzésére Szállítási helyként, eszközönként 3 fő részére min. 4 órás oktatás megtartása is nyertes ajánlattevő feladata.
+version https://git-lfs.github.com/spec/v1
+oid sha256:15373ba82fdbc6c6391154a328f8d4ace41c10f66a505ebe617b587df773b00e
+size 600

@@ -1,8 +1,3 @@
-Külső	Külső	PROPN	Case=Nom|Number=Sing	
-Bécsi	Bécsi	PROPN	Case=Nom|Number=Sing	
-úti	úti	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-villamosvonal	villamosvonal	NOUN	Case=Nom|Number=Sing	
-meghosszabbításának	meghosszabbítás	NOUN	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-előkészítése	előkészítés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:f2be9a7d7a729cf568e034a4f54aecc624bb638008be2c419adfccf2e6487b68
+size 396

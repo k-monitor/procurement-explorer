@@ -1,27 +1,3 @@
-erdőművelési munka elvégzés keretszerződés keret
-rész feladatok
-elvégzendő erdőművelési kézi munkálat
-ültetés
-ékásós
-gödörfúrós
-ápolás
-sorkapálás
-sor sarlózás
-sor gyomlálás
-sorközkaszálás
-kézi v
-motoros
-egyszálazás
-sarjleverés
-elegyarányszabályzó munka
-befejezett ápolás
-tisztítás
-elvégzendő erdőművelési gépi munkál
-tuskóeltávolítás
-barázdás ültetés mélyszántás egybekötve
-szántás
-ültetőgépes ültetés
-pásztás talajelőkészítés
-gépi sorközápolás
-tárcsázás
-zúzás
+version https://git-lfs.github.com/spec/v1
+oid sha256:e0c525feac69fcf802f0dfbd6855d61891bcc44b2968955a8d8d6c163c63c763
+size 547

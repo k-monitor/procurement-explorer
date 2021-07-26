@@ -1,1 +1,3 @@
-Az ELI-HU Nonprofit Kft. vagyonelemeivel és tevékenységével összefüggő kockázatokra vonatkozó, rögzített díjtételű, egyedi feltételrendszerű all-risk vagyon- és kombinált felelősségbiztosítás megkötése határozott tartamú biztosítási szerződés keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3b0460056c719aa8eb7161ce054e02567d3abb2fa526268b5e3daba7e319aa46
+size 284

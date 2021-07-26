@@ -1,5 +1,3 @@
-tervezési szerződés keret a makói városi termál
-és gyógyfürdő
-hagymatikum
-építés
-rekonstrukció és fejlesztés kapcsolódó kiviteli tervdokumentáció elkészítés
+version https://git-lfs.github.com/spec/v1
+oid sha256:628669b1abf0e8aca45d6b7193cbaa65914bcf2394ec744909838e71c7c53246
+size 179

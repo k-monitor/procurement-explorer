@@ -1,1 +1,3 @@
-A kulturális örökség védelméről szóló 2011. évi LXIV. törvény szerinti nagy- beruházásokhoz kapcsolódó komplex régészeti szakmai szolgáltatás végzése Hajdú-Bihar megyei régészeti lelőhelyeken, ill. építési beruházások által érintett lelőhely részeken maximum nettó 700 000 000 HUF keretösszegben.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6399fd8f699714c74d8792717743a73ebb0e1bff8d0f36b1cebeaa5253249a43
+size 333

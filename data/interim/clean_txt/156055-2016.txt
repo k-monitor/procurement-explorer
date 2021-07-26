@@ -1,17 +1,3 @@
-az intézet occluder igény biztosítás
-kihelyezett áruraktár üzemeltetés
-fajta és mennyiség szerint meghatározott dolog határidős adásvételi
-a további
-adásvételi
-szerződés keret
-ajánlatkérő a teljesítés sor a dokumentáció előírt mennyiség
-az egységár vagy más szerződéses feltétel módosítás nélkül
- eltér
-azaz legalább a teljes mennyiség
-a a lehívás köteles
-konszignációs raktár feltétel
-ajánlatkérő a rendszer üzemeltetés díj nem számol fel nyertes ajánlattevő részére
-ajánlattevő az ajánlat nyilatkozik köteles a konszignációs raktár létesítés feltétel elfogadás
-ez hiány ajánlat érvénytelen
-valamint az
-hogy az adásvételi és raktározási szerződés egymás elválaszthatatlan rész
+version https://git-lfs.github.com/spec/v1
+oid sha256:2334d28ebdab3a5c1246e47cfedb046b81d9cce73fb5a5e1dc0fa1bfbe9b092c
+size 765

@@ -1,9 +1,3 @@
-a hitelintézet és a pénzügyi vállalkozás szóló 1996. évi
-törvény szabályozott
-fizetési számla történő készpénzbefizetés lehető tevő szolgáltatás nyújtás postai számla befizetési megbízás
-fehér csekk
-keret éves
-további éves
-egész év vagy az egy rész
-opciós
-határozott idő szóló vállalkozási szerződés alap
+version https://git-lfs.github.com/spec/v1
+oid sha256:e1220d05d1fbbf9cc301991f11a3380107cb3a3319379bb1bcf262ade744ba66
+size 350

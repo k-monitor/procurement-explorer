@@ -1,3 +1,3 @@
-a miskolci semmelweis kórház és egyetemi oktató kórház részére eszköz beszerzés a tiop 2.2.6
-b-2013-0023 pályázati konstrukció keret
-adásvételi szerződés
+version https://git-lfs.github.com/spec/v1
+oid sha256:afaa3d927a8f83fa8fb5d122d5c89b19a856f549f274026faafb9af84118b1d0
+size 170

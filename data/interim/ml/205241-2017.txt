@@ -1,30 +1,3 @@
-K1808	K1808	PROPN	Case=Nom|Number=Sing	
--	-	PUNCT	_	
-MAN	MAN	PROPN	Case=Nom|Number=Sing	
-típusú	típusú	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-tehergépjármű	tehergépjármű	NOUN	Case=Nom|Number=Sing	
-gyári	gyári	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-új	új	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-és	és	CONJ	_	
-gyári	gyári	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-felújított	felújított	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPast	
-,	,	PUNCT	_	
-valamint	valamint	CONJ	_	
-utángyártott	utángyártott	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPast	
-új	új	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-alktrész	alktrész	NOUN	Case=Nom|Number=Sing	
-beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-és	és	CONJ	_	
-szállítása	szállítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
-A	a	DET	Definite=Def|PronType=Art	
-részletes	részletes	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-műszaki	műszaki	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-előírásokat	előírás	NOUN	Case=Acc|Number=Plur	
-a	a	DET	Definite=Def|PronType=Art	
-műszaki	műszaki	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-leírás	leírás	NOUN	Case=Nom|Number=Sing	
-tartalmazza	tartalmaz	VERB	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:85cabcab1d5d4cd445a105ac4185ce68ded6c8808970fa03ef0593e37cf4c0f9
+size 1321

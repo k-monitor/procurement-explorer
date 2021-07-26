@@ -1,1 +1,3 @@
-A keretmegállapodás teljes időtartamára vonatkozóan maximum 144 000 reakció Afrikai sertéspestis vírusának kimutatására szolgáló real-time PCR készlet hívható le. A Közbeszerzési Dokumentumok részét képező Műszaki Leírásban részletezettek szerint.
+version https://git-lfs.github.com/spec/v1
+oid sha256:13075051bacf55601d829a7e631e16a43d4eb940e5394f4685b85d5c61960f37
+size 273

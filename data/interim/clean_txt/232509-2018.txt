@@ -1,11 +1,3 @@
-dek-575 debreceni egyetem klinikai központ részére db ultrahangkészülék beszerzés ivf és szülészet-nőgyógyászati cél
-db nagy teljesítményű color
-power
-pulzus doppleres ultrahang-diagnosztikai készülék szülészet-nőgyógyászati és meddőségi cél 3d
-képalkotási fejlesztési lehetőség
-db multifrekvenciás
-vagy szélessávú endocavitalis vizsgálófej
-db multifrekvenciás
-vagy szélessávú 2d konvex vizsgálófej felnőtt hasi vizsgálat
-db fekete-fehér videoprinter
-a részlet a műszaki leírás tartalmaz
+version https://git-lfs.github.com/spec/v1
+oid sha256:852092f8bc453262290b6275254b44c033e1b8a3da92e61cce5b829a02d1969d
+size 540

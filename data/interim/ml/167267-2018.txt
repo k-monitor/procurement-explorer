@@ -1,14 +1,3 @@
-A	a	DET	Definite=Def|PronType=Art	
-műemlékvédelem	műemlékvédelem	NOUN	Case=Nom|Number=Sing	
-alatt	alatt	ADP	_	
-álló	álló	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-Loyolai	Loyolai	PROPN	Case=Nom|Number=Sing	
-Szent	Szent	PROPN	Case=Nom|Number=Sing	
-Ignác	Ignác	PROPN	Case=Nom|Number=Sing	
-bencés	bencés	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-templom	templom	NOUN	Case=Nom|Number=Sing	
-orgonájának	orgona	NOUN	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-restaurátori	restaurátori	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-helyreállítása	helyreállítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:20cd7453575efef61b2d0df8609b06e5c7b74be75d6efd560af79e3c8fc2f30f
+size 663

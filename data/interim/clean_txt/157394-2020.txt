@@ -1,2 +1,3 @@
-takarítási feladat ellátás az obh részére
-épület
+version https://git-lfs.github.com/spec/v1
+oid sha256:5748d0474c3c4aa7645d41637c5ee2be0f737cdf351656f43ec060647d7210bf
+size 56

@@ -1,1 +1,3 @@
-Keretmegállapodás keretében az MNV Zrt. érdekkörébe tartozó ingatlanok értékbecsléseinek elkészítése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:671e8d8eab4f28dde03576d414cfa8e371ec7dce7f07e617d58a36f127c9b8b3
+size 114

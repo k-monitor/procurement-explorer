@@ -1,1 +1,3 @@
-Készétel beszerzés a Győri óvodák részére vállalkozási szerződés keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:485e0f2eb831a6f708dcb301a107ac76c8ff90af83dd5ccaae78073f485ffd3d
+size 88

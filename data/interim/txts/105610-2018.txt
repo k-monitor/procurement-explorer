@@ -1,1 +1,3 @@
-Megbízási szerződés a „Nyugat- és Dél-Dunántúli szennyvízelvezetési és -kezelési fejlesztés 4. (NYDDU 4)” elnevezésű, KEHOP-2.2.2-15-2016-00108 azonosítószámú projekt keretében műszaki ellenőri tevékenység ellátására.
+version https://git-lfs.github.com/spec/v1
+oid sha256:eba0b6d326366efe3ec9eb2378ac2a494672614bedc7ded23ae08922f1e39f5b
+size 248

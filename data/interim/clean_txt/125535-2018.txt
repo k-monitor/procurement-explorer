@@ -1,2 +1,3 @@
-laboratóriumi reagens és vegyszer beszerzés
-a felhasználás szükséges készülék biztosítás
+version https://git-lfs.github.com/spec/v1
+oid sha256:47337c4eb92946231a15b6cffb532cd29db3d3a80303356ed43f0be6f3634f6a
+size 100

@@ -1,3 +1,3 @@
-fővállalkozási szerződés
-mta bölcsészet
-és társadalomtudomány kutatóház beruházás szerkezetkész állapot használatbavételi engedély megszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:f0448794492e9a7d11c97ea5f6974d382d158c5f1b8048d17351c3ef6febcc25
+size 161

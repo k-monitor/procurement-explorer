@@ -1,9 +1,3 @@
-MÁV-START	MÁV-star	NOUN	Case=Acc|Number=Sing	
-Zrt.	Zrt.	PROPN	Case=Nom|Number=Sing	
-részére	részére	ADP	_	
-nyomdai	nyomdai	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-kivitelezési	kivitelezési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szolgáltatások	szolgáltatás	NOUN	Case=Nom|Number=Plur	
-beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:688075c5534babd27fc8dcc9dbc2c702f47dcaeed820aa2c9431a51930b436ea
+size 387

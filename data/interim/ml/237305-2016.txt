@@ -1,31 +1,3 @@
-Az	az	DET	Definite=Def|PronType=Art	
-MTA	MTA	PROPN	Case=Nom|Number=Sing	
-Wigner	wigner	NOUN	Case=Nom|Number=Sing	
-FK	FK	PROPN	Case=Nom|Number=Sing	
-részére	részére	ADP	_	
-villamos	villamos	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-energia	energia	NOUN	Case=Nom|Number=Sing	
-szállítása	szállítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-teljes	teljes	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-ellátás	ellátás	NOUN	Case=Nom|Number=Sing	
-alapú	alapú	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-,	,	PUNCT	_	
-fogyasztói	fogyasztói	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-menetrend-adás	menetrend-adás	NOUN	Case=Nom|Number=Sing	
-nélküli	nélküli	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-villamos	villamos	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-energia	energia	NOUN	Case=Nom|Number=Sing	
-szállítási	szállítási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-1.10.2016	1.10.2016	PROPN	Case=Nom|Number=Sing	
-.	.	PUNCT	_	
-
--	-	PUNCT	_	
-30.9.2017	30.9.2017	PROPN	Case=Nom|Number=Sing	
-.	.	PUNCT	_	
-közötti	közötti	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-időszakra	időszak	NOUN	Case=Sub|Number=Sing	
-vonatkozóan	vonatkozó	ADJ	Case=Ess|Degree=Pos|Number=Sing|VerbForm=PartPres	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:917a44f0aa3a7d5446fde6c538f1e795b0320ec6de100e53dc26883db6b0dfdd
+size 1323

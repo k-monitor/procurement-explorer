@@ -1,12 +1,3 @@
-Szállítási	Szállítási	PROPN	Case=Nom|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-Röntgengép	röntgengép	NOUN	Case=Nom|Number=Sing	
-beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-a	a	DET	Definite=Def|PronType=Art	
-Parádfürdői	parádfürdői	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-Állami	Állami	PROPN	Case=Nom|Number=Sing	
-Kórház	Kórház	PROPN	Case=Nom|Number=Sing	
-részére	részére	ADP	_	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:a9591eb35036b0a1e4a2362961bc4454d2d401796e2462e10227855028eb6dad
+size 553

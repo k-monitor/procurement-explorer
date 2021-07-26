@@ -1,1 +1,3 @@
-ortopédiai protézis beszerzés szállítási szerződés keret hónap
+version https://git-lfs.github.com/spec/v1
+oid sha256:5c1a6a99048bbd0c3107c5335b72bd2d7891cf4e96e7e0801bc54407a7591cfa
+size 71

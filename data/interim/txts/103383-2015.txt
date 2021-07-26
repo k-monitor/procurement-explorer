@@ -1,1 +1,3 @@
-Földgáz adásvételi szerződés keretében az ajánlatkérő részére a magyar földgáz hálózaton folyamatosan rendelkezésre álló, szabványos minőségű földgáz energia versenypiaci beszerzése 1.7.2015. 6:00 órától – 1.10.2016.-ig tartó időszakra vonatkozóan, teljes ellátásalapú földgáz-kereskedelmi szerződés keretében. („Földgázkereskedő kiválasztása MNV”).
+version https://git-lfs.github.com/spec/v1
+oid sha256:1e04cf3199b01bf75772bdd9b8fab80c5acaff519922d44fee53c45d74f1b9da
+size 400

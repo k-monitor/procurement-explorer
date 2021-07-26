@@ -1,9 +1,3 @@
-efop 2.
-18-17-17-2017-00053 azonosító jelű
-betegbiztonság növelés célzó komplex infrastrukturális fejlesztés az egészségügyi ellátórendszer
-elnevezésű
-európai uniós támogatás megvalósuló projekt keret
-vállalkozás vegyes adásvételi szerződés az efop 2.
-18-17-17-2017-00053 azonosító jelű
-betegbiztonság növelés célzó komplex infrastrukturális fejlesztés az egészségügyi ellátórendszer
-projekt keret egységes betegazonosító rendszer bevezetés érdek szükséges eszköz és licenc beszerzése
+version https://git-lfs.github.com/spec/v1
+oid sha256:ea33ecf9929c8b1d955af57f2ec96d845ce9872f06ab08035c62c294bba2f1b8
+size 538

@@ -1,16 +1,3 @@
-Orvosi	orvosi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-kesztyűk	kesztyű	NOUN	Case=Nom|Number=Plur	
-beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-magyarországi	magyarországi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-fekvőbeteg	fekvőbeteg	NOUN	Case=Nom|Number=Sing	
-ellátó	ellátó	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-intézmények	intézmény	NOUN	Case=Nom|Number=Plur	
-részére	részére	ADP	_	
--	-	PUNCT	_	
-OT-002	OT-002	PROPN	Case=Nom|Number=Sing	
-/	/	PUNCT	_	
-2018	2018	NUM	Case=Nom|NumType=Card|Number=Sing	
-/	/	PUNCT	_	
-KM	km	NOUN	Case=Nom|Number=Sing	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:58059c0ab17d9c3bf0cce23976f251334303ea4b63c103aea443094f67a66732
+size 628

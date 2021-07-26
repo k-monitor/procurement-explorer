@@ -1,9 +1,3 @@
-vállalkozási szerződés
-amely tárgy a csepeli városgazda közhasznú nonprofit zrt. székhely és telephely
-illetőleg alkalomszerű csepel közigazgatási terület biológiailag lebomló hulladék
-hak kód
-elszállítás
-valamint lomhulladék
-hak kód
-szállítási munka elvégzés
-a hulladék hivatalos hulladék-ártalmatlanító hely történő elhelyezés
+version https://git-lfs.github.com/spec/v1
+oid sha256:1735c880eb1a410507b514f392009721f25dd9777439243330557959f1023b5e
+size 366

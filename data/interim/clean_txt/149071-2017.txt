@@ -1,1 +1,3 @@
-a fővárosi közterület-fenntartó zártkörű működő nonprofit részvénytársaság hulladékhasznosító mű üzem üzemelő k1-k4 jelű kazán tűzálló falazat javítás
+version https://git-lfs.github.com/spec/v1
+oid sha256:1021e2319031b3c2862edda2c752de63b40a61f418ec132ca6ee0fb53d22da2a
+size 179

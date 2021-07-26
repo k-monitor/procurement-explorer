@@ -1,1 +1,3 @@
-Vállalkozási szerződés kaszálási feladatok ellátására.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ea470e21efe215a605a03aceec81754a6aa3b3b636a225907fd06028f896ebec
+size 63

@@ -1,1 +1,3 @@
-hatvan város szükséges zöldterület-rendezési feladat megrendelés
+version https://git-lfs.github.com/spec/v1
+oid sha256:dbbba2d78cc1322ede1cea73585f10a22b89de3f117167f03d1f8774e8133cea
+size 71

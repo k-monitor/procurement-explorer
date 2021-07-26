@@ -1,1 +1,3 @@
-Adásvételi szerződés Kazincbarcika Város Szennyvíztisztító telepének korszerűsítése és kapcsolódó fejlesztések (KEOP-1.2.0/09-11-2012-0030) tárgyú projekthez kapcsolódó kombinált csatornatisztító célgép beszerzése tárgyában.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fa664f2b91cd744e36dd35501ee33f786a0d2283f189c7e2f489f8a6a4a53884
+size 252

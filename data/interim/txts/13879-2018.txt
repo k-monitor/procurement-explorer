@@ -1,1 +1,3 @@
-Vállalkozási szerződés közvilágítás aktív valamint díszvilágítás aktív és passzív elemeinek, továbbá forgalomtechnikai berendezések üzemeltetésére Győr város közigazgatási területén belül.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1ec5525535439cb3e5b1702e1fc8ea026c88b3e828826c42cf17aaedcb3e6a47
+size 217

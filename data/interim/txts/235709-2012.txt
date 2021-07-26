@@ -1,1 +1,3 @@
-Földgáz-kereskedelmi keretszerződés.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ae50bd1b26ed6bee6754c479d4d9206ca4613052d16010eaa211ee43559d8538
+size 40

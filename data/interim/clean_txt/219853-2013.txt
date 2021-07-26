@@ -1,2 +1,3 @@
-országos író
-irodaszer beszerzés a műszaki leírás részletezett alap
+version https://git-lfs.github.com/spec/v1
+oid sha256:10226629e9cb4e5bc20cf2945ac2d96a9cf378c9025866b4547a9d38803c1918
+size 75

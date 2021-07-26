@@ -1,6 +1,3 @@
-megbízási szerződés keop-1
-2.0
-09-2010-0064 azonosító számú
-kelet
-nyírségi szennyvízelvezetési és tisztítási projekt
-megvalósítás szükséges fidic mérnöki és műszaki ellenőri tevékenység ellátás
+version https://git-lfs.github.com/spec/v1
+oid sha256:81c8c9d14ea0b07ea28d298c51f444e7afa140a12cd261b82152a3a77a3f2610
+size 222

@@ -1,1 +1,3 @@
-Adásvételi keretszerződés Ferezis szerelék fogyóanyag szállítása a Pécsi Tudományegyetem részére 29/2016. I. rész Terápiás plazmacsere szerelék 1, 116 db/év. II. rész Terápiás plazmacsere szerelék 2, 230 db/év. III. rész Terápiás sejtredukciós szerelék, 204 db/év. Becsült érték áfa nélkül 143 938 800 / 4 év. Pénznem: HUF.
+version https://git-lfs.github.com/spec/v1
+oid sha256:283f427a4e65d1244f4232d1658dfc5cfe7156a3fa2ef70f6108458a1ec2c9ac
+size 360

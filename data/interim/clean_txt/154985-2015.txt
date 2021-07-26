@@ -1,6 +1,3 @@
-bérleti szerződés keret a magyar honvédség egészségügyi központ dializáló részleg folyamatos működés szükséges
-a jelen felhívás ii
-2.1
-pont szerinti készülék
-eszköz bérbeadás
-a kezelés szükséges fogyóanyag biztosítás és kapcsolódó szolgáltatás nyújtás
+version https://git-lfs.github.com/spec/v1
+oid sha256:cbc46e27c777c959a70847bb5c65f4a4dc3e32c0c7a721ba4efde3e316aaeca1
+size 289

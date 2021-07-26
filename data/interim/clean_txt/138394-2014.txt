@@ -1,14 +1,3 @@
-coronaria sten és nyomásmérő vezetődrót beszerzés
-kihelyezett áruraktár üzemeltetés
-fajta és mennyiség szerint meghatározott dolog határidős adásvételi
-a további
-adásvételi
-szerződés keret
-ajánlatkérő a teljesítés sor a dokumentáció előírt mennyiség
-az egységár vagy más szerződéses feltétel módosítás nélkül
- eltér
-konszignációs raktár feltétel
-ajánlatkérő a rendszer üzemeltetés díj nem számol fel ajánlattevő részére ajánlattevő az ajánlat nyilatkozik köteles a konszignációs raktár létesítés feltétel elfogadás
-ez hiány ajánlat érvénytelen
-valamint az
-hogy az adásvételi és raktározási szerződés egymás elválaszthatatlan rész
+version https://git-lfs.github.com/spec/v1
+oid sha256:a55d75ba3bde31beecccdb8d462a7eacc25d2a5515d7cb1081a43813ac4eeecb
+size 715

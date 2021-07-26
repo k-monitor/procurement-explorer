@@ -1,1 +1,3 @@
-a csengeri alapszintű járóbeteg-szakellátó központ orvosi eszköz beszerzés szállítási szerződés keret belül
+version https://git-lfs.github.com/spec/v1
+oid sha256:8fdaced830f857c218fe82b63eb131dc661483c113dc98b629c111b06859fb19
+size 121

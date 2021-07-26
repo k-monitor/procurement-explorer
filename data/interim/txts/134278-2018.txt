@@ -1,1 +1,3 @@
-Szállítási szerződés az Ajánlatkérő Intézmény részére 3 évre szükséges különféle szemlencsék, és tartozékaik beszerzésére.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4fa197a8c802be17a714035f95e79c437085e124672dc7c7b76606dd5e24d0ed
+size 145

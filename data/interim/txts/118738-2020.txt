@@ -1,1 +1,3 @@
-Vállalkozási szerződés keretében faültetési, faápolási munkák elvégzése
+version https://git-lfs.github.com/spec/v1
+oid sha256:bf6b684fbd513882d4fd4ddc9f6743fb8de8fc603305e2a420fe42e738092355
+size 83

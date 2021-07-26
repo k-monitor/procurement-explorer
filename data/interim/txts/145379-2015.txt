@@ -1,1 +1,3 @@
-Ipari Innovációs Központ technológiai eszközeinek beszerzése, a kapcsolódó szolgáltatásokkal együtt. I. rész: Fémes anyag technológiákhoz kapcsolódó eszközök, berendezések (fémipari megmunkáló központ berendezései, fémmegmunkáló eszközök) szállítása, technológiai gépsor kialakítása és üzembe állítása a kapcsolódó szolgáltatásokkal együtt. II. rész: Revétlenítő gép szállítása, üzembe állítása a kapcsolódó szolgáltatásokkal együtt.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bd1c6bd1b5a11288f39b78f0b12326d14876f54974fc20ec322b8449102a9d80
+size 497

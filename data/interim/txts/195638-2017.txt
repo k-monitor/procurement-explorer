@@ -1,1 +1,3 @@
-Földgáz-kereskedelmi szerződés keretében a Székesfehérvár Megyei Jogú Város Önkormányzata intézményei részére a magyar földgáz hálózaton folyamatosan rendelkezésre álló, szabványos minőségű földgáz energia versenypiaci beszerzése a szerződéses időszakra (1.10.2017 - 1.10.2019. Gáznap vége) vonatkozóan, teljes ellátásalapú földgáz-kereskedelmi szerződés keretében, mely magában foglalja a rendszerhasználati díjak és a földgázvásárláshoz kapcsolódó államilag előírt, az ajánlatkérő terhére eső költségek, díjak, adók és más járulékok teljeskörű elszámolását is.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0dddc505ba20d5b078ff1e6282f104390e11d0d9a199d2419fe5f8ab1071f745
+size 638

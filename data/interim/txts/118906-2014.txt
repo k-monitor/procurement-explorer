@@ -1,1 +1,3 @@
-Vállalkozási szerződés közúti hidak fő- és célvizsgálatára.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bee11e575ee07d6fb3df9037bc801279287e8ae39355a6f0a181d96cf59a98bc
+size 70

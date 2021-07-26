@@ -1,21 +1,3 @@
-„	„	PUNCT	_	
-Fejér	Fejér	PROPN	Case=Nom|Number=Sing	
-Megyei	Megyei	PROPN	Case=Nom|Number=Sing	
-Integrált	integrált	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPast	
-Szociális	szociális	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-Intézmény	intézmény	NOUN	Case=Nom|Number=Sing	
-és	és	CONJ	_	
-a	a	DET	Definite=Def|PronType=Art	
-Fejér	Fejér	PROPN	Case=Nom|Number=Sing	
-Megyei	Megyei	PROPN	Case=Nom|Number=Sing	
-Gesztenyés	gesztenyés	NOUN	Case=Nom|Number=Sing	
-Egyesített	egyesít	VERB	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	
-Szociális	Szociális	PROPN	Case=Nom|Number=Sing	
-Intézmény	intézmény	NOUN	Case=Nom|Number=Sing	
-részére	részére	ADP	_	
-élelmiszer	élelmiszer	NOUN	Case=Nom|Number=Sing	
-alapanyag	alapanyag	NOUN	Case=Nom|Number=Sing	
-beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-2019-2020	2019-2020	NUM	Case=Nom|NumType=Card|Number=Sing	
-"	"	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:1f835341dc38660888de480e0a197589e83461fb8a8c732310b746f5183dedea
+size 960

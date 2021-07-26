@@ -1,4 +1,3 @@
-adásvételi keretszerződés alap
-különleges gumitermék beszerzés a bkv vasúti járműjavító kft. részére
-1. részfeladat
-kcsv-7 jármű különleges gumialkatrész beszerzés 2. részfeladat
+version https://git-lfs.github.com/spec/v1
+oid sha256:35da8b43b167693baf3d542eb188ed72b420c7072160c4f0f076e3f30e593035
+size 201

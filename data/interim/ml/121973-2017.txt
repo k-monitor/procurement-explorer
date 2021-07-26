@@ -1,36 +1,3 @@
-Adásvételi	adásvételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-a	a	DET	Definite=Def|PronType=Art	
-TIOP-2	TIOP-2	PROPN	Case=Nom|Number=Sing	
-.	.	PUNCT	_	
-
-2	2	NUM	Case=Nom|NumType=Card|Number=Sing	
-.	.	PUNCT	_	
-6-12	6-12	NUM	Case=Nom|NumType=Card|Number=Sing	
-/	/	PUNCT	_	
-1A-2013-0005	1A-2013-0005	PROPN	Case=Nom|Number=Sing	
-azonosítószámú	azonosítószámú	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-„	„	PUNCT	_	
-Onkológiai	onkológiai	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-diagnosztikai	diagnosztikai	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-eszközök	eszköz	NOUN	Case=Nom|Number=Plur	
-fejlesztése	fejlesztés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-Nyíregyházán	Nyíregyháza	PROPN	Case=Sup|Number=Sing	
-"	"	PUNCT	_	
-című	című	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-projekt	projekt	NOUN	Case=Nom|Number=Sing	
-keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-Szabolcs-Szatmár-Bereg	Szabolcs-Szatmár-Bereg	PROPN	Case=Nom|Number=Sing	
-Megyei	Megyei	PROPN	Case=Nom|Number=Sing	
-Kórházak	kórház	NOUN	Case=Nom|Number=Plur	
-és	és	CONJ	_	
-Egyetemi	egyetemi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-Oktatókórház	oktatókórház	NOUN	Case=Nom|Number=Sing	
-részére	részére	ADP	_	
-1	1	NUM	Case=Nom|NumType=Card|Number=Sing	
-darab	darab	NOUN	Case=Nom|Number=Sing	
-MR	MR	PROPN	Case=Nom|Number=Sing	
-berendezés	berendezés	NOUN	Case=Nom|Number=Sing	
-beszerzésére	beszerzés	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:8dd2fbe60dc2c1b37a80050de3d9a339e212e068880edadc94017a3859677f78
+size 1557

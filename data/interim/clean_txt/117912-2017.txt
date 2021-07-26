@@ -1,6 +1,3 @@
-1. rész adásvételi keretszerződés
-speciális informatikai eszköz beszerzés
-tárgy
-2. rész adásvételi keretszerződés
-általános informatikai eszköz beszerzés
-tárgy
+version https://git-lfs.github.com/spec/v1
+oid sha256:3c4e4f686547613b4c66d77151d63b3a8e66370cbc74a1ff1a888a41811a67f6
+size 178

@@ -1,1 +1,3 @@
-Villamos áram beszerzése a Szegedi Tudományegyetem (SZTE), és az MTA Szegedi Biológiai Kutatóközpont (MTA SZBK) telephelyei számára 1.10.2017-től 30.9.2018-ig, +12 hónap meghosszabbítási lehetőséggel.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a1f611ec290f8da978ca35cddca9b7c995b0cab4a410d696a4db25218fbe2b68
+size 215

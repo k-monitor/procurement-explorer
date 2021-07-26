@@ -1,1 +1,3 @@
-A szerződés célja: az Országos Onkológiai Intézet tűz-; munka-; és vagyonvédelmi tevékenységének teljeskörű biztosítása vállalkozási szerződés keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:00c257abf2967cc9b6d5c90e547e2ecabe2120d6103a29b2e459516e2e710bf5
+size 174

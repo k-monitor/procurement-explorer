@@ -1,1 +1,3 @@
-A Károli Gáspár Református Egyetem épületeinek takarítása.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0479e9f57f742cbbfc41be441895d0379b0467e015837a4cf43b37044c8173ea
+size 66

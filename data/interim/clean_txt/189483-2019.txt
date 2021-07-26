@@ -1,1 +1,3 @@
-adásvételi szerződés az autóipari próbapálya zala kft. részére 1.7.2019
+version https://git-lfs.github.com/spec/v1
+oid sha256:d067c54403d296221a1aec943e8e783f72206ae7a34495bee39143e840206af4
+size 80

@@ -1,1 +1,3 @@
-K1808 – MAN típusú tehergépjármű gyári új és gyári felújított, valamint utángyártott új alktrész beszerzése és szállítása. A részletes műszaki előírásokat a műszaki leírás tartalmazza.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ef727da09f651b11f05a01556192aecf08bd0d8a06e51025d39a6f568548ba6a
+size 214

@@ -1,5 +1,3 @@
-átalányáras vállalkozási szerződés
-e
-keret szeged
-kemes utcai óvoda
-klebelsberg telepi óvoda és gyík utcai bölcsőde komplex korszerűsítés kivitelezés részajánlati kör
+version https://git-lfs.github.com/spec/v1
+oid sha256:4b1bd4ac048a9011c3aed1dc7f7e7bfcb256f87e399a3824f0f52ab7e8f40fd6
+size 186

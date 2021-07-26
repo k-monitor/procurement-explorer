@@ -1,2 +1,3 @@
-győri fekete istván általános iskola főzőkonyha üzemeltetés
-készétel kiszállítás vállalkozási szerződés keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:4dc0a87fcab6b266b1a34a978ac65bc0d0895ec9c77a259712df7ec2741a3ed4
+size 126

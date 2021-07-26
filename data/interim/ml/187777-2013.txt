@@ -1,15 +1,3 @@
-Magyarországi	magyarországi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-fekvőbeteg	fekvőbeteg	NOUN	Case=Nom|Number=Sing	
-ellátó	ellátó	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-intézmények	intézmény	NOUN	Case=Nom|Number=Plur	
-12	12	NUM	Case=Nom|NumType=Card|Number=Sing	
-havi	havi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-gyógyszerellátásának	gyógyszerellátás	NOUN	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-biztosítása	biztosítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-16	16	NUM	Case=Nom|NumType=Card|Number=Sing	
-részben	rész	NOUN	Case=Ine|Number=Sing	
-,	,	PUNCT	_	
-speciális	speciális	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-hatóanyag	hatóanyag	NOUN	Case=Nom|Number=Sing	
-vonatkozásában	vonatkozás	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:d1a5ab4223d88a9abe1c7dcbd93073c041404d51b58beb1cc6f3825de7ee8b59
+size 826

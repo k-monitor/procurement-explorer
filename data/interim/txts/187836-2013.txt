@@ -1,1 +1,3 @@
-A Csengeri Alapszintű Járóbeteg-szakellátó Központ orvosi eszköz beszerzése szállítási szerződés keretén belül.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0b801aa1e13e13a4f24d570694319245f13c1b9e48ec87784290e2ce31165483
+size 126

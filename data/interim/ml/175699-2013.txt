@@ -1,12 +1,3 @@
-ARRABONA-TÉSZ	ARRABONA-tész	NOUN	Case=Nom|Number=Sing	
-Értékesítő	értékesítő	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-Szövetkezet	Szövetkezet	PROPN	Case=Nom|Number=Sing	
-részére	részére	ADP	_	
-műanyag	műanyag	NOUN	Case=Nom|Number=Sing	
-tárolóedények	tárolóedény	NOUN	Case=Nom|Number=Plur	
-beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-adásvételi	adásvételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:cc5621c69b15459ea7fb27f926c61ffb7dc547b766f6a727294f5d159381034e
+size 615

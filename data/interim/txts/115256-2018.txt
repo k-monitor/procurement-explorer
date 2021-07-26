@@ -1,1 +1,3 @@
-A Csokonai Nemzeti Színház, valamint a Színészház épületének komplex felújítása, korszerűsítése, átalakítása és akadálymentesítése projekt felmérési, koncepciós, örökségvédelmi engedélyezési, illetve építési engedélyezési és kiviteli tervdokumentációjának elkészítése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:aebe50cb627f02f8150ca6d288a365b52b723f46e8da9cd1648cf0702b03999c
+size 310

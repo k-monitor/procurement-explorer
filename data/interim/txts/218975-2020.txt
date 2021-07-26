@@ -1,1 +1,3 @@
-Földgáz beszerzése a Bajai Szakképzési Centrum tagintézményei részére
+version https://git-lfs.github.com/spec/v1
+oid sha256:a05c37e87b16f9e65f49e55380dd669f8fcf64e75fc12b58638cdd85055579fa
+size 78

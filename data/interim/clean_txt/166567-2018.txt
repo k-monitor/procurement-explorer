@@ -1,8 +1,3 @@
-adásvételi keretszerződés rövidtávú mechanikus keringéstámogató eszköz beszerzés a városmajori szív
-és érgyógyászati klinika részére
-az ajánlattétel tárgy a keringéstámogató eszköz pumpafej modul
-illetve az ez tartozó csőkészlet és egy használatos implantációs segédeszköz jelent
-teljes mennyiség a szerződés időtartam
-db
-ez db konszignációs raktár
-a keretszerződés időtartam hónap hónapos hosszabbítási lehetőség
+version https://git-lfs.github.com/spec/v1
+oid sha256:ee2fd2a091011c843bd82d57f77e60d001a272cd2801dcc4bf028e6d65e05b91
+size 465

@@ -1,9 +1,3 @@
-adásvételi szerződés röntgen berendezés szállítás
-üzem helyezés
-javítás a jótállási idő belül
-a felhasználó betanítás
-a keop
-5.6.0
-e
-egészségügyi eszközök energia megtakarítás célzó beszerzés támogatás
-című konstrukció kapcsolódó
+version https://git-lfs.github.com/spec/v1
+oid sha256:71344b77d40adabf5fd28792bbb2b5ee8e589eec834f7ccca312cc8b20724685
+size 268

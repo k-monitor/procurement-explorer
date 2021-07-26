@@ -1,1 +1,3 @@
-Megbízási szerződés a „Pécs központú agglomeráció szennyvíztisztító telepének fejlesztése (NYDDU 3.)” elnevezésű, KEHOP-2.2.2-15-2016-00056 azonosítószámú projekt keretében műszaki ellenőri tevékenység ellátására.
+version https://git-lfs.github.com/spec/v1
+oid sha256:145ea6e242dc7d380d57e586b449ebda666096eb520cc524be3bf7a4b6ff9f02
+size 245

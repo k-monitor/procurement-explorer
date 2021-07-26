@@ -1,1 +1,3 @@
-Vállalkozási keretszerződés a Gyöngyösoroszi Bányavíz-kezelő Üzem tisztítási technológiája során keletkező, nehézfémmel erősen szennyezett veszélyes hulladék besorolású részlegesen víztelenített iszap elszállítására, előkezelésére és lerakással történő ártalmatlanítására a vonatkozó jogszabályoknak megfelelően, különösen a hulladékról szóló 2012. évi CLXXXV. törvény, a hulladéklerakással, valamint a hulladéklerakóval kapcsolatos egyes szabályokról és feltételekről szóló 20/2006. KvVM rendelet, a veszélyes hulladékkal kapcsolatos egyes tevékenységek részletes szabályairól szóló 225/2015. (VIII. 7.) Korm. rendelet, valamint a közbeszerzési Műszaki Leírás előírásainak megfelelően, a környezetszennyezést kizáró módon.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d83e5de0b9a1e77111b8757f974abc6fec364359059aea57d8e0584f939a2f52
+size 812

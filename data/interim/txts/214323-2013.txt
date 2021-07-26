@@ -1,1 +1,3 @@
-Szállítási keretszerződés pneumatikus és kézi működtetésű csapok, szelepek, pneumatikus szerelési anyagok, automatizálási segédanyagok beszerzésére.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8a4910bb5b89617ce25ac5be6d79bb2da00f4832bfc70549eb8159778eca3c87
+size 165

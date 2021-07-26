@@ -1,1 +1,3 @@
-Keretmegállapodás személygépjárművek beszerzésére.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9c57050cfa3d1913a8f8fb1b71560ace89398b3200cf5d2322677687f7d7d63d
+size 58

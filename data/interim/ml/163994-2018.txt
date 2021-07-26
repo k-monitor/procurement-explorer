@@ -1,9 +1,3 @@
-A	a	DET	Definite=Def|PronType=Art	
-DVG	DVG	PROPN	Case=Nom|Number=Sing	
-Zrt.	Zrt.	PROPN	Case=Nom|Number=Sing	
--	-	PUNCT	_	
-villamos	villamos	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-energia	energia	NOUN	Case=Nom|Number=Sing	
-beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:cd1225393c4ba8099d7bc238117d31962213851cf38dae985334ce8573315479
+size 317

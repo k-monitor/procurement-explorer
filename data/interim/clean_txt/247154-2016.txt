@@ -1,1 +1,3 @@
-adásvételi szerződés földgáz energia beszerzés a bm szerv részére
+version https://git-lfs.github.com/spec/v1
+oid sha256:273f4a7c0eb56aa34803e42c5c31dd069f25bbd51e01ebf21e10524372b94bb7
+size 74

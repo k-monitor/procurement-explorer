@@ -1,1 +1,3 @@
-Zalaegerszegi Városi Uszoda Fejlesztése a Modern Városok Program keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f1d68d461ceba887c6a94e8fc8b6fbf438563a4cc9b05884d28e6cba52cdb026
+size 79

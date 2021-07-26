@@ -1,5 +1,3 @@
-k1798 számú a fővárosi közterület-fenntartó zártkörű működő nonprofit részvénytársaság hulladékhasznosító mű üzem üzemelő különféle sigma típusú szivattyú helyszíni javítás
-db hűtővíz szivattyú
-db kondenzátum szivattyú
-db tápszivattyú
-db szükségkondenzátor szivattyú
+version https://git-lfs.github.com/spec/v1
+oid sha256:5fc0294e5272edf60f00a1d8632d1b87288350e813016f5a9a3cbdfde7825390
+size 311

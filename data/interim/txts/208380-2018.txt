@@ -1,1 +1,3 @@
-Eszközkorszerűsítés a Bicskei Egészségügyi Központban az EFOP EFOP-2.2.19-17-2017-00032. sz. projekt keretében: rendelőintézeti orvostechnológiai berendezések adásvétele, szállítása, telepítése, használatuk betanítása, valamint jótálláson belüli szervizelése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b75501f0962f00ce379de9b8a54a0d274de82761b16d841a0ff281b72dac80d6
+size 287

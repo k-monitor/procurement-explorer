@@ -1,1 +1,3 @@
-Gépjárművek beszerzése adásvételi szerződés keretében a Nemzeti Ménesbirtok és Tangazdaság Zártkörűen Működő Részvénytársaság részére.
+version https://git-lfs.github.com/spec/v1
+oid sha256:04f15e1579966a53a044910c079a89692f67b6a1c5f35ab7ab405ee59228813e
+size 158

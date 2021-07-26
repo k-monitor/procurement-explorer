@@ -1,1 +1,3 @@
-Debreceni Déli Gazdasági Övezet (Északi rész I. ütem) ivóvíz ellátó és szennyvíz elvezető gerinchálózat kialakítása
+version https://git-lfs.github.com/spec/v1
+oid sha256:dfb0cd4f7d9fddf3e34829132463ca9d54d5fae5ceab6c156c9381701a178aea
+size 132

@@ -1,1 +1,3 @@
-Határozott, egy éves időtartamra szóló folyószámla hitelkeret szerződés 3 000 000 000 HUF értékben folyószámla vezetéssel.
+version https://git-lfs.github.com/spec/v1
+oid sha256:354cc86f2175a631a050eef8b740d8b309eec34444dcd80214aede599073bfe9
+size 136

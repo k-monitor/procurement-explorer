@@ -1,1 +1,3 @@
-CT berendezések teljes körű karbantartása és szervizelése vállalkozási szerződés keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c9dd9c5cc1f5bc4126e99e51d358ae3190004f95fd686947dddc434680ffb708
+size 102

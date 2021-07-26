@@ -1,5 +1,3 @@
-szállítási és szoftverhasználati szerződés keret magyarország joganyag tartalmazó
-az ajánlatkérő és a bíróság hálózat működtethető elektronikus jogi adatbázis
-valamint jogszabály-nyilvántartó és
-visszakereső számítógépes program szállítás
-valamint kapcsolódó szolgáltatás biztosítás
+version https://git-lfs.github.com/spec/v1
+oid sha256:2c4eca66eb0989440db4982b5182095853808fd19c46b5b15f8cbd6e006d64c1
+size 322

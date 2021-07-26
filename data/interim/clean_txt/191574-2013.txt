@@ -1,1 +1,3 @@
-gyál város hulladék kezelés
+version https://git-lfs.github.com/spec/v1
+oid sha256:cd38cc691aa1950c4b38142a4784289e12f7e9b295d491a03b321b7cf34a2f24
+size 31

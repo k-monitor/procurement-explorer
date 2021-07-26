@@ -1,1 +1,3 @@
-győr
+version https://git-lfs.github.com/spec/v1
+oid sha256:7a5e86ebf939cbc992dad029d6ad5ef77b0d5bc71b52418ac1dbccd6bb9d8ad5
+size 5

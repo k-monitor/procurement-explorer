@@ -1,4 +1,3 @@
-adásvételi szerződés veleszületett vérzékenység kezelés szolgáló rész hazai plazma előállítás kerülő
-külföld feldolgozott nagytisztaságú
-faktor koncentrátum
-iti kezelés alkalmas von willebrand faktor tartalmú készítmény 2016. évi beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:44fba942dfcb0feaf1b67b30b51f3937ec20600747b67d4fb1dbd0a15c7bb53e
+size 269

@@ -1,1 +1,3 @@
-Szolgáltatási keretszerződés Bonyhád Város Oktatási Intézményeinek élelmezési szolgáltatására és a konyha felújítására.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6d465bb135083d9c4972d772d939ee34d948e1ee2e0a559f8d039a45baaa2a1d
+size 138

@@ -1,8 +1,3 @@
-Adásvételi	adásvételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-hulladékgyűjtő	hulladékgyűjtő	NOUN	Case=Nom|Number=Sing	
-edényzet	edényzet	NOUN	Case=Nom|Number=Sing	
-beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:274c9e0a687b2567c8494b9dc4fe63df808c9e975d802524e5c16da700ed0e5c
+size 398

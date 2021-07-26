@@ -1,1 +1,3 @@
-1 (egy) darab új, félvezető technológiai diffúziós/oxidációs kályha beszerzése és üzembe helyezése az MTA Energiatudományi Kutatóközpont Mikrotechnológiai Laboratóriuma részére. Ajánlattevő feladatát képezi továbbá a berendezés használatának helyszíni betanítása ajánlatkérő alkalmazottai részére, a szükséges próbaüzem lefolytatása, illetve a közreműködés az átadás-átvételi eljárásban.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4e0b59689e4fc7164c877ff392236e0095d4fcbb54c7f593bd888b4cc1f15e62
+size 439

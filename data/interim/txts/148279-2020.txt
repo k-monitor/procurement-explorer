@@ -1,1 +1,3 @@
-Nemzeti Távközlési Gerinc védelmét biztosító DDoS védelmi rendszer hardver és szoftver elemeinek gyártói szolgáltatás-előfizetése, valamint gyártói támogatása 1. rész: Nemzeti Távközlési Gerinc védelmét biztosító DDoS védelmi rendszer hardver és szoftver elemeinek gyártói szolgáltatás-előfizetése, valamint gyártói támogatása 2. rész: Nemzeti Távközlési Gerinc védelmét biztosító DDoS védelmi rendszer hardver és szoftver elemeinek szállítói támogatása
+version https://git-lfs.github.com/spec/v1
+oid sha256:f81053cf3d10439b4474e1d3981938aad2dd655c8a32424bd1d0f15de825c2e3
+size 507

@@ -1,1 +1,3 @@
-Adásvételi szerződés kihelyezett áruraktár létesítésével Coronaria stent és nyomásmérő vezetődrót, Occluder valamint MitraClip valve repair rendszer beszerzése tárgyában. A részenként előírt mennyiségektől – az egységár vagy más szerződéses feltételek módosítása nélkül – Ajánlatkérő a II.2.11) pontokban jelzettek szerint (opcionális rész) eltérhet.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0f8755293c7407eb4957c64829861081808992c5277e8481ca06f46936e4a830
+size 396

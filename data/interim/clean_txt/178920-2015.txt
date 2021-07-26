@@ -1,4 +1,3 @@
-a kecskemét megyei jogú város hely központosított közbeszerzési rendszer hatály alá tartozó
-valamint a rendszer önként csatlakozott felhasználó villamos energia történő ellátás teljes ellátás biztosító jellegű
-vevői menetrendadási kötelezettség nélküli villamosenergia-vásárlási keretszerződés keret
-sg-870
+version https://git-lfs.github.com/spec/v1
+oid sha256:5061da85eabf4a4d28b50bcbc645d871b7bad33d0c5af86852e19e8625adeb3f
+size 341

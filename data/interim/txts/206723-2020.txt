@@ -1,1 +1,3 @@
-Bajcsy-Zsilinszky Kórház és Rendelőintézet részére orvosi gáz beszerzése
+version https://git-lfs.github.com/spec/v1
+oid sha256:92036e5bb62e74277b3bf8d7b20371dad66a52487a87154cc1db7ff77abc0458
+size 81

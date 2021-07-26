@@ -1,1 +1,3 @@
-DEK-902 Villamosenergia beszerzése a Debreceni Egyetem részére
+version https://git-lfs.github.com/spec/v1
+oid sha256:2559e4ab2b179ac648855cc1925f95e6ef8a8b9b0f8ade4a6779b38d3db433bf
+size 65

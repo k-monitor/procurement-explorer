@@ -1,18 +1,3 @@
-adásvételi szerződés
-fajta és mennyiség szerint meghatározott dolog határidős adásvétel vonatkozó szerződés
-a rehab-13mute-ttf-0088 azonosító számú projekt keret bőripari gép és ipari varrógép beszerzés egyes rész
-1. rész
-bőripari gép beszerzés
-budapest
-pásztó
-ii
-rész
-bőripari gép beszerzés
-szentlőrinc
-iii
-rész
-darab textil hegesztőgép beszerzés
-rész
-varrógép és kiegészítő gép beszerzés
-5. rész
-címkenyomtató és gerber plottér beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:018ca14fa705455a2cf01bac55cc8857f7c6fc4e444e20589cab67dbc02c1078
+size 494

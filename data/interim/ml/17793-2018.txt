@@ -1,9 +1,3 @@
-Adásvételi	adásvételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-1	1	NUM	Case=Nom|NumType=Card|Number=Sing	
-db	db	NOUN	Case=Nom|Number=Sing	
-pollenmérő	pollenmérő	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-busz	busz	NOUN	Case=Nom|Number=Sing	
-szállítására	szállítás	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:5395fdae88b449e8d53ef155c6457bd1a8451cd42c94c04616b3790e65b157cf
+size 394

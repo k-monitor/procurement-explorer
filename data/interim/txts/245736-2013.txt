@@ -1,1 +1,3 @@
-Szolgáltatási szerződés - EKOP-1.1.14 Adóigazgatási szakrendszerek integrációja kiemelt projekthez, a NAV ellenőrzési, illetve végrehajtási tevékenységének informatikai támogatottságának fokozása, valamint a NAV tevékenységét támogató informatikai rendszerek szoftver platformja egységesebbé tétele érdekében megvalósításra kerülő fejlesztések kivitelezéséhez szükséges erőforrások beszerzése érdekében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:542de3319bcbe3e97cd596f4dff918582375f8fa5702e5dbf804538012d773fe
+size 447

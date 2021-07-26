@@ -1,1 +1,3 @@
-Szállítási szerződés egészségügyi implantátumok beszerzésére, kihelyezett áruraktár biztosításával a Szent Lázár Megyei Kórházban 24 hónapos időtartamra.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1ab0812c1c28690b3ed2e83a460704dff613af7b6b5e756cbde196da972869ed
+size 175

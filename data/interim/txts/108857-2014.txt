@@ -1,1 +1,3 @@
-Adásvételi szerződés erdészeti és energetikai célú csemeték beszerzése vonatkozásában.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1c0133a25122b1c27cb9d9570ec50cc04415e97eea7c42fb80d25122de8327cb
+size 98

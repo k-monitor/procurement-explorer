@@ -1,1 +1,3 @@
-Megbízási szerződés a „13. számú főút Komárom és Kisbér közötti szakasz 11,5 t tengelyterhelésre történő burkolat-megerősítésének építési munkáihoz kapcsolódó mérnöki tevékenység ellátása” tárgyában.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f44bafa00912b2da88c7ccdb9b0629a03f3d0062cb2a1f3ec7c1df273a11944e
+size 238

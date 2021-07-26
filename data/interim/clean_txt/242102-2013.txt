@@ -1,5 +1,3 @@
-közszolgáltatási szerződés
-települési szilárd
-kommunális
-hulladék begyűjtés és ártalmatlanítás hely történő elszállítás
-kezelés és ártalmatlanítás telki község közigazgatási terület
+version https://git-lfs.github.com/spec/v1
+oid sha256:cdf252c1bd7f2538ddbb460281e847258870f2f32382b6ada15e97b9b34a4182
+size 213

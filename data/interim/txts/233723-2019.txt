@@ -1,1 +1,3 @@
-Takarmány beszerzése a VKE-2018-00042 projektben
+version https://git-lfs.github.com/spec/v1
+oid sha256:effd8fe09d3380a221a3fab5b440e0507b4753c9acd2a80f09ea44d9fb80753e
+size 50

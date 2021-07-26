@@ -1,1 +1,3 @@
-Balatonfüredi megállópont létesítése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d607ae7ae9cded4805c0fcf7ee73364f23a2ceee9be6704827808f07c60ae020
+size 43

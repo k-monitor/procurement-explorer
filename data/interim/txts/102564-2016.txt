@@ -1,1 +1,3 @@
-Győr város területén közvilágítási villamos energia beszerzése 2016. évre.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9ae77c439b0524817ad4a81c540781bbb6a0e4c832fa14e953f7b58156c3428e
+size 84

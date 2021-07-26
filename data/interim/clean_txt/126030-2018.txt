@@ -1,2 +1,3 @@
-vállalkozási szerződés az mta székház rekonstrukció előkészítés faanyagvédelmi és statikai szakvélemény elkészítés ii
-ütem tárgy
+version https://git-lfs.github.com/spec/v1
+oid sha256:523cdc4439e2859c2d4325f86b7b07f0da5e896dc4f1e441fc81106da8e91611
+size 148

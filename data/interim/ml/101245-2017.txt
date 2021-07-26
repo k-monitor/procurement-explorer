@@ -1,8 +1,3 @@
-CNG	CNG	PROPN	Case=Nom|Number=Sing	
-üzemanyag	üzemanyag	NOUN	Case=Nom|Number=Sing	
-(	(	PUNCT	_	
-chipkártyás	chipkártyás	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-)	)	PUNCT	_	
-beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:b85e5af1623c9d492953198ef18ce594c5c2a6fd7945002dc3d2474830bda15b
+size 273

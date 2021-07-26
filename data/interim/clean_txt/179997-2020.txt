@@ -1,3 +1,3 @@
-különböző gyártmányú és típusú szolgálati gépjármű teljes körű garanciális és szavatossági idő túli javítás
-kárjavítás
-valamint a gépjármű időszakos műszaki vizsgáztatás
+version https://git-lfs.github.com/spec/v1
+oid sha256:dfa9e5b3dc6dc30a8f0b7a23b3ff81fdcadd1a7afe64389547e0ca262a827435
+size 202

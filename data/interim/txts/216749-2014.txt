@@ -1,1 +1,3 @@
-Adás-vételi szerződés keretében közlekedési jelzőtábla és jelzőbója készlet beszerzése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b3a9abbe0489cbd61be22543ab3b10023b90a64d9ceead977b47e2fc0a8fb2e6
+size 101

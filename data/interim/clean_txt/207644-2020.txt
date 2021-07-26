@@ -1,6 +1,3 @@
-i17
-i19
-jelű illemhely
-i18
-jelű illemhely és öltöző
-városligeti sportcentrum üzemeltetés
+version https://git-lfs.github.com/spec/v1
+oid sha256:d04d0dbde1d48aa7fbe2387264a4cebd2f6eb10b0038b025b40b71ccaf975432
+size 97

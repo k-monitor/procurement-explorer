@@ -1,1 +1,3 @@
-Szerződés meghatározása: Adásvételi szerződés. Tárgya: „Microsoft Enterprise Agreement licence beszerzése”. A BKK Zrt. 3 éves Microsoft Nagyvállalati Megállapodást (Enterprise Agreement) kötött a Microsoft Corporation-nel (továbbiakban: Microsoft), mely alapmegállapodás alapján a Microsoft a dobozos termékei árához képest jelentős kedvezményt biztosít a BKK Zrt. részére szükséges szoftverekre. Nyertes Ajánlattevő feladata a megkötött EA keretei között az alábbi szoftverlicencek beszerzése és Ajánlatkérő rendelkezésre bocsátása.
+version https://git-lfs.github.com/spec/v1
+oid sha256:60fea3ae59ffaf089d01778bc9437a79ef0527a486355fd1a9aa137a692a098f
+size 583

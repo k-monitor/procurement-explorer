@@ -1,4 +1,3 @@
-az mnb stafir program független minőségbiztosító tevékenység ellátás
-ez keret minőségtervezés
-program folyamat minőségbiztosítás
-projekttermék minőség-ellenőrzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:5931da75772aaf8511117a20ad7fd7bce289482417d15b6c4f8badeb873c7ac3
+size 182

@@ -1,1 +1,3 @@
-Szállítási keretszerződés, melynek tárgya „Irodai papír beszerzése”.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7f57b5ef9802b792c8839e3ce0fd4692679fde029e1a301ecbc085fd01420a57
+size 80

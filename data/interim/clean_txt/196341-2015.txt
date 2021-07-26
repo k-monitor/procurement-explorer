@@ -1,22 +1,3 @@
-vállalkozási szerződés keret a magyar nemzeti bank sap ecc
-használt standard modul
-bc
-mm
-fi
-co
-sd
-hr
-am
-sl
-tm
-pp
-netweaver
-bw
-sem
-srm
-portál
-esik
-mdm
-sap solution manager
-sap webdispatcher rend-szer üzemeltetés támogatás
-fejlesztési és módosítási tevékenység végrehajtás
+version https://git-lfs.github.com/spec/v1
+oid sha256:6d78c7d3d5c2b53877f5bfc6f9f302260c5de24fcf2664c49e1e182ec8c2ba45
+size 289

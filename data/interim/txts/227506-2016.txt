@@ -1,1 +1,3 @@
-PET-CT beszerzése karbantartással a Semmelweis Egyetem részére.
+version https://git-lfs.github.com/spec/v1
+oid sha256:21fef0b522b811c01b32ec7256ed39355819bd03df6aeb8fddce2a603dd8fc17
+size 67

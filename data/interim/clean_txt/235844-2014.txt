@@ -1,2 +1,3 @@
-készenléti rendőrség papír
-és irodaszer beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:ac179aab6ef22947f3d6c54db563dbb7f6cb78ba1cc2d7338b955cf62d47f5a1
+size 56

@@ -1,1 +1,3 @@
-Adásvételi szerződés keretében «Villamos energia beszerzése a 2020. évre a Budapesti Nagybani Piac Zrt. részére»
+version https://git-lfs.github.com/spec/v1
+oid sha256:5ebec1fb2346750276782626616f75a580bd06970fd51a522234a43259e29a82
+size 123

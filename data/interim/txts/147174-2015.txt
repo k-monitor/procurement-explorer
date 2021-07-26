@@ -1,1 +1,3 @@
-Adásvételi szerződés fittségi mérési-értékelési rendszerhez szükséges mérési eszközcsomag szállítására a TÁMOP 3.1.13-12-2013-0001 projekt keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:073bd5f7b7dbf2e1d6d77d1f9319a785ca6f12a70eba005de6e2d3dca4716574
+size 170

@@ -1,1 +1,3 @@
-Ajánlatkérő részére a szerződés időtartama alatt különféle élelmiszerek beszerzése az ajánlati dokumentációban részletesen meghatározott specifikáció szerint.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ae9c57ede9491f47ac9d55220051570858d595e6ab6600a32fe60a7af69fa505
+size 178

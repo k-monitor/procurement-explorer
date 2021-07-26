@@ -1,3 +1,3 @@
-különféle
-orvosi felhasználás
-varrófonal beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:ac0840dd3da8c24c56898e2c7fbe75ab587463cc7caed85492b9af46d9fb7c2b
+size 57

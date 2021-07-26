@@ -1,1 +1,3 @@
-EM-584 DE OEC részére 12 hónapra vonatkozó sebészeti varrógépek és tárak szállítása konszignációs raktár üzemeltetésével
+version https://git-lfs.github.com/spec/v1
+oid sha256:bc83fb3eeeed3583b8b2954991139e15f15c0866e3595c16db8ec97552d38abf
+size 138

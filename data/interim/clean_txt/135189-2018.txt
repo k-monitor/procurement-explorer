@@ -1,6 +1,3 @@
-mkb4
-kg magyarország közigazgatási terület keletkező termék tovább nem használható gumiabroncs gyűjtés és 2018. évi hőbontás útján történő hasznosítás szolgáltatás-megrendelési szerződés keret a környezetvédelmi termékdíj szóló 2011. évi
-törvény 22. §
-bekezdés alap
-1. rész
-kg 2. rész
+version https://git-lfs.github.com/spec/v1
+oid sha256:ef75338b14ac27f4ac6d4ed7c9433e354af58e876edd6bec982e2e420549744b
+size 324

@@ -1,3 +1,3 @@
-szállítási szerződés hulladékszállító célgép
-tehergépjármű új gumiabroncs
-tömlő és védőszalag valamint munkagép és személygépjármű új gumiabroncs szállítás
+version https://git-lfs.github.com/spec/v1
+oid sha256:fc238e52677ee0fe302eac5419e0db5dbd7fcc667a73e70cb362c61646cafcd8
+size 185

@@ -1,1 +1,3 @@
-keretmegállapodás személygépjármű beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:42a5e188bdc5311be10d3d70151b1888919e48814626fb658ef173f9f409a9dd
+size 50

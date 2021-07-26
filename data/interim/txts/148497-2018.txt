@@ -1,1 +1,3 @@
-Az ajánlat 6 részre tehető, a felhívás II.2.1-II.2.14 pontjaiban valamint közbeszerzési dokumentáció 3. kötetében meghatározottak alapján.
+version https://git-lfs.github.com/spec/v1
+oid sha256:349fc77ee7fc429bf780c75ddcb44c650800a98e659f367485f5fd123c967102
+size 151

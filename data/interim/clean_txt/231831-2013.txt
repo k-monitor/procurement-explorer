@@ -1,1 +1,3 @@
-szállítási szerződés édesipari gép beszerzés tárgy
+version https://git-lfs.github.com/spec/v1
+oid sha256:b2d491c84d9a8e0dcf73f6753c56c1e330ab348b5d3d9c143c9c7d2a09d647c9
+size 59

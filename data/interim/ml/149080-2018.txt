@@ -1,22 +1,3 @@
-Projektvezetés	projektvezetés	NOUN	Case=Nom|Number=Sing	
-támogatás	támogatás	NOUN	Case=Nom|Number=Sing	
-nyújtása	nyújtás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-„	„	PUNCT	_	
-A	a	DET	Definite=Def|PronType=Art	
-Tábor	Tábor	PROPN	Case=Nom|Number=Sing	
-összeköt	összeköt	VERB	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	
--	-	PUNCT	_	
-Erzsébet	Erzsébet	PROPN	Case=Nom|Number=Sing	
-Táborok	tábor	NOUN	Case=Nom|Number=Plur	
-"	"	PUNCT	_	
-tárgyú	tárgyú	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-EFOP-1	EFOP-1	PROPN	Case=Nom|Number=Sing	
-.	.	PUNCT	_	
-
-2	2	NUM	Case=Nom|NumType=Card|Number=Sing	
-.	.	PUNCT	_	
-12-17	12-17	NUM	Case=Nom|NumType=Card|Number=Sing	
-.	.	PUNCT	_	
-projekthez	projekt	NOUN	Case=All|Number=Sing	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:2266cc4097373641ca6758fa69542325e594773404acd20125d9c7a528c88273
+size 798

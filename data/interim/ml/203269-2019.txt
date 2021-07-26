@@ -1,33 +1,3 @@
-Adásvételi	adásvételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-«	«	PUNCT	_	
-Élelmiszer	élelmiszer	NOUN	Case=Nom|Number=Sing	
-beszerzés	beszerzés	NOUN	Case=Nom|Number=Sing	
-a	a	DET	Definite=Def|PronType=Art	
-«	«	PUNCT	_	
-URBS	URBS	PROPN	Case=Nom|Number=Sing	
-PRO	pro	X	_	
-PATIENTE	PATIENTE	PROPN	Case=Nom|Number=Sing	
-»	»	PUNCT	_	
-Közhasznú	Közhasznú	PROPN	Case=Nom|Number=Sing	
-Nonprofit	nonprofit	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-Kft.	kft.	NOUN	Case=Nom|Number=Sing	
-részére	részére	ADP	_	
-2018	2018	NUM	Case=Nom|NumType=Card|Number=Sing	
-III	III	PROPN	Case=Nom|Number=Sing	
-»	»	PUNCT	_	
-Nettó	nettó	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-30	30	NUM	Case=Nom|NumType=Card|Number=Sing	
-000	000	NUM	Case=Nom|NumType=Card|Number=Sing	
-000	000	NUM	Case=Nom|NumType=Card|Number=Sing	
-HUF	HUF	PROPN	Case=Nom|Number=Sing	
-keretösszegben	keretösszeg	NOUN	Case=Ine|Number=Sing	
-fűszer	fűszer	NOUN	Case=Nom|Number=Sing	
-és	és	CONJ	_	
-nehézáru	nehézáru	NOUN	Case=Nom|Number=Sing	
-szállítása	szállítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-,	,	PUNCT	_	
-illetve	illetve	CONJ	_	
-adásvétele	adásvétel	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:6b421877cd988dc5fd57b019ebcd1afa6cd2ed0c323d74c031e4722127284fb4
+size 1341

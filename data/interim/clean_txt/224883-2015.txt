@@ -1,5 +1,3 @@
-adás-vételi szerződés keop-5
-6.0
-e
-egészségügyi eszközök energia-megtakarítás célzó beszerzés támogatás
-pályázat keret röntgen és pacs rendszer beszerzés tárgy
+version https://git-lfs.github.com/spec/v1
+oid sha256:b0401fa5ed930769cff6f440bcbf4d3fb60645abbf92b6ba0abe0cd0111fbacf
+size 181

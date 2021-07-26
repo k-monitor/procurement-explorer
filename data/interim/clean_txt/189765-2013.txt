@@ -1,5 +1,3 @@
-hitelszerződés infrastrukturális fejlesztés
-1. rész
-zalaegerszeg belváros közlekedési rendszer komplett átalakítás 1. ütem
-2. rész
-ipari park fejlesztés
+version https://git-lfs.github.com/spec/v1
+oid sha256:ae0565024f1f25b9c48013d68e77e6707734db7fd5b49ad8644389974ef97ad0
+size 166

@@ -1,1 +1,3 @@
-Diagnosztikus és terápiás intervenciós radiológiai eszközök beszerzésére szállítási szerződés konszignációs raktár üzemeltetésére.
+version https://git-lfs.github.com/spec/v1
+oid sha256:21a71e9d9fd7a101a71ad64219eeb171bc49e99cce3239626a8ac229384124ca
+size 150

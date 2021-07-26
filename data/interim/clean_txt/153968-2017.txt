@@ -1,5 +1,3 @@
-1.10.2017
-cet
-1.10.2018
-cet közötti időszak földgáz beszerzés vonatkozó
-teljes ellátás alapú földgáz energia kereskedelmi szerződés keretmegállapodás forma a közbeszerzési dokumentum foglalt szerint
+version https://git-lfs.github.com/spec/v1
+oid sha256:99ebad2129b49b002e2f060118b44758577cf5fcbd90d70ae27c80c1bb6a6ccb
+size 216

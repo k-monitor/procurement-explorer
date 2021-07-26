@@ -1,9 +1,3 @@
-Szállítási	Szállítási	PROPN	Case=Nom|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-szívó	szívó	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-felépítménnyel	felépítmény	NOUN	Case=Ins|Number=Sing	
-rendelkező	rendelkező	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-célgép	célgép	NOUN	Case=Nom|Number=Sing	
-beszerzésére	beszerzés	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:70bfc86b5e02527043b927acabdff56892d49a690b5179e487749a4e6d8c133c
+size 462

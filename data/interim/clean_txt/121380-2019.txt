@@ -1,12 +1,3 @@
-ginop-1
-2.8
-ipar 4. kapacitásbővítés a kermann kft
-eszközbeszerzés szállítási szerződés keret 1. részfeladat
-db új tengelyes vízszintes főorsójú cnc-vezérlésű megmunkálóközpont és db új
-hajtottszerszámos nagyteljesítményű cnc esztergaközpont leszállítás
-telepítés
-üzembehelyezés
-betanítás 2. részfeladat
-db lézeres hegesztő rendszer leszállítás
-telepítés
-üzembehelyezés
+version https://git-lfs.github.com/spec/v1
+oid sha256:7f489010afd5bdf0ba4a119f406f8eb614cc879e8b50023550ad49669ad58ecb
+size 418

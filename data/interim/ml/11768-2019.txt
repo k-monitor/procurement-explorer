@@ -1,6 +1,3 @@
-Megbízási	megbízási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-iratkezelési	iratkezelési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szolgáltatások	szolgáltatás	NOUN	Case=Nom|Number=Plur	
-ellátására	ellátás	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:0a027926a4cd96f4c9a0df7f2672ecd5d6d7d20046633fddf77fa5dcf3981f62
+size 321

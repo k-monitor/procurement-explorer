@@ -1,1 +1,3 @@
-Keretmegállapodás az V. kerületi Önkormányzat tulajdonában, fenntartásában, kezelésében lévő közterületek, illetve különféle mélyépítési körbe tartozó építmények tervezési feladatainak ellátására.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8fe69c71e38e7b47531cde68577b9e1eabf4c03bb0371b82740169d63a706a89
+size 226

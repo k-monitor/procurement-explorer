@@ -1,1 +1,3 @@
-keretmegállapodás megkötés oltóanyag és gyógyszer beszerzés budapest főváros kormányhivatal részére 30. rész
+version https://git-lfs.github.com/spec/v1
+oid sha256:e49ce7a7eacf7cc697e0646737f41234f08d1a2c69fc00791f74c163341033f1
+size 122

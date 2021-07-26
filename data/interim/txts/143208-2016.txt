@@ -1,1 +1,3 @@
-Budapest XIII. Róbert Károly körút (Árpád híd–Vágány utca közötti) felújításának kivitelezési munkái.
+version https://git-lfs.github.com/spec/v1
+oid sha256:09404a684864a84a2d9e5046c00223f8057167f9de5b41eea3d72526a962f5a7
+size 120

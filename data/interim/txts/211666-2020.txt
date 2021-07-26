@@ -1,1 +1,3 @@
-Adásvételi keretszerződés hosszútávú, intraperikardiális, centrifugális elven működő, teljesen implantálható, mechanikus keringéstámogató eszközök beszerzésére a Városmajori Szív- és Érgyógyászati Klinika részére A beszerzés keretmennyisége: 24 hónap alatt 30 db
+version https://git-lfs.github.com/spec/v1
+oid sha256:3f3525b6274d6cb47fd460a59558aaf720a0060913289cd25647c6ff3223a011
+size 294

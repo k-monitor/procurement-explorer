@@ -1,1 +1,3 @@
-A KEF üzemeltetési tevékenysége alá tartozó intézmények részére 2014 évre szállítási szerződés tekintetében az alábbi részek szerint: 1. rész: Irodai papíripari termékek. 2. rész: Irodaszerek.
+version https://git-lfs.github.com/spec/v1
+oid sha256:120d11fed3d29fc58babc793594d8de1c418e26fb6f8ac9757277eb8f933dd06
+size 215

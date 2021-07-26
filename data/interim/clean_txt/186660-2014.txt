@@ -1,7 +1,3 @@
-vállalkozási szerződés a támop-2
-1-2012-0001 azonosítószámú
-a munkahelyi egészség és biztonság fejlesztés
-a munkaügyi ellenőrzés fejlesztés
-című kiemelt projekt keret db társadalmi kommunikáció
-pr kampány megtervezés és megvalósítás
-valamint db sajtórendezvény megszervezés és lebonyolítás országos munkavédelmi és munkaügyi roadshow keret a dokumentáció foglalt szerint
+version https://git-lfs.github.com/spec/v1
+oid sha256:96799afc6cf824ff02496e8a913856707dd58ce1b48205e0fb4e20de1f0b5ffa
+size 411

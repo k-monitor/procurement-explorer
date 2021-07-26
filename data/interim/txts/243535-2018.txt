@@ -1,1 +1,3 @@
-Járműülések gyártásához szükséges szerszámok beszerzése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e3acb15b0ed6e0991853891678ea55188d36bebcbb5a6d31d8639e3e48491a9b
+size 67

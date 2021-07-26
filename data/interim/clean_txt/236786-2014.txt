@@ -1,27 +1,3 @@
-tervezés és vállalkozás
-mór
-oroszlány
-tatabánya
-m1 autópálya
-közötti kapcsolat javítás és tatabánya
-tata közös elkerülő út
-1. sz. főút új nyomvonal helyezése
-megvalósíthatósági tanulmány és értékelemzés elkészítés
-projekt azonosítószám
-közop-3
-0-09-11-2012-0023 1. rész mór
-oroszlány
-tatabánya
-m1 autópálya
-közötti kapcsolat javítás és tatabánya
-tata közös elkerülő út
-1. sz. főút új nyomvonal helyezése
-megvalósíthatósági tanulmány elkészítés
-2. rész mór
-oroszlány
-tatabánya
-m1 autópálya
-közötti kapcsolat javítás és tatabánya
-tata közös elkerülő út
-1. sz. főút új nyomvonal helyezése
-értékelemzés elkészítés
+version https://git-lfs.github.com/spec/v1
+oid sha256:a135066a3419a7f8e57e80fddf75b1ba121db0bbd1c48ced99f726cb02210f5c
+size 705

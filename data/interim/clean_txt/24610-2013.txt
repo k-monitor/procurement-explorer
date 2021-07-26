@@ -1,10 +1,3 @@
-szállítási keretszerződés az ajánlatkérési dokumentáció rész képező ártáblázat meghatározott vagy műszaki az egyenértékű tisztítószer
-tisztító eszköz
-munkavédelmi szer és tisztasági papíráru beszerzés az alábbi szerint
-1. sz. rész
-tisztítószer
-tisztítóeszköz
-2. sz. rész
-munkavédelmi célú termék
-3. sz. rész
-papíráru
+version https://git-lfs.github.com/spec/v1
+oid sha256:9549b78d84f647831843126250d088c46f169082f6f47e98bb17cefe53d09c8a
+size 363

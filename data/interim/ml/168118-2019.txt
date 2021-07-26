@@ -1,36 +1,3 @@
-K1955	K1955	PROPN	Case=Nom|Number=Sing	
-Az	az	DET	Definite=Def|PronType=Art	
-FKF	FKF	PROPN	Case=Nom|Number=Sing	
-Nonprofit	nonprofit	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-Zrt.	Zrt.	PROPN	Case=Nom|Number=Sing	
-Hulladékhasznosító	hulladékhasznosító	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-Művében	mű	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-keletkező	keletkező	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-pernye	pernye	NOUN	Case=Nom|Number=Sing	
-(	(	PUNCT	_	
-azonosító	azonosító	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-kód	kód	NOUN	Case=Nom|Number=Sing	
-:	:	PUNCT	_	
-19	19	NUM	Case=Nom|NumType=Card|Number=Sing	
-01	01	NUM	Case=Nom|NumType=Card|Number=Sing	
-13	13	NUM	Case=Nom|NumType=Card|Number=Sing	
-)	)	PUNCT	_	
-és	és	CONJ	_	
-füstgáztisztítási	füstgáztisztítási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-maradékanyag	maradékanyag	NOUN	Case=Nom|Number=Sing	
-(	(	PUNCT	_	
-azonosító	azonosító	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-kód	kód	NOUN	Case=Nom|Number=Sing	
-:	:	PUNCT	_	
-19	19	NUM	Case=Nom|NumType=Card|Number=Sing	
-01	01	NUM	Case=Nom|NumType=Card|Number=Sing	
-07	07	NUM	Case=Nom|NumType=Card|Number=Sing	
-)	)	PUNCT	_	
-elszállítása	elszállítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-,	,	PUNCT	_	
-ártalmatlanítása	ártalmatlanítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-és	és	CONJ	_	
-/	/	PUNCT	_	
-vagy	vagy	CONJ	_	
-hasznosítása	hasznosítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:dc63320ee424db2905b61be72c47a34da55400ed183e149cf98817f4c32a38d4
+size 1571

@@ -1,11 +1,3 @@
-szerződés meghatározás
-tervezési szerződés tárgya
-budai vár és környék közlekedés fejlesztés
-projekt keret a budapest 1. kerület döbrentei utca
-apród utca
-lánchíd utca
-ybl miklós tér
-clark ádám tér közötti szakasz
-közterület rendezés engedélyezési terv elkészítés
-építési engedély beszerzés
-valamint kiviteli terv elkészítés tervezési szerződés keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:83ad4553358f37f2e2952418158c4908b5d2e628aab58170fb38d73bafcb380c
+size 396

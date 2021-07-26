@@ -1,5 +1,3 @@
-a
-szabadszállás város csatornázás és szennyvíztisztítás megvalósítás
-keop-1
-2.0
-09-2010-0081 pályázat önrész biztosítás beruházási hitel nyújtás vonatkozó hitelszerződés
+version https://git-lfs.github.com/spec/v1
+oid sha256:2f43c56afa645e89cfa7325b2443dc3b7fbd9682f227684b69a534b59cb981e0
+size 194

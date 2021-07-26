@@ -1,1 +1,3 @@
-Debrecen Megyei Jogú Város településfejlesztési koncepciójának és településrendezési eszközeinek felülvizsgálata, azok egységes koncepcióba, tervbe, rendeletbe szerkesztése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:38c8d74cd149afe99077ff72e215bf967cd3f407f5716ebdb2d79789b6fd7aaa
+size 190

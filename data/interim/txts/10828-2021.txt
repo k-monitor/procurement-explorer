@@ -1,1 +1,3 @@
-Tőkehúsok beszerzése a 2021 évre vonatkozóan: Húsos csont (Karaj, tarja); Marhacomb (dió, rózsa, frikandó); Sertéscomb (csont nélkül); Sertéskaraj (csont nélkül); Sertéslapocka; Sertésoldalas; Sertés tarja (csont nélkül); Sertéscsülök (hátsó); Sertésmáj; Fehér csont;
+version https://git-lfs.github.com/spec/v1
+oid sha256:b1db0240816ad0cf231c5c0149188350382e1c60806f7eeb9b424ce3aa74ba41
+size 295

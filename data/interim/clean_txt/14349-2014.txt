@@ -1,4 +1,3 @@
-vállalkozási szerződés
-belváros-lipótváros budapest főváros 5. kerület terület útépítési
-felújítási munka
-és a szükségszerű ez kapcsolódó járda felújítási munka elvégzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:55d4bffdc849fada69b04f93a7aa2c803975be05dbb4ce7375514667fdc04756
+size 199

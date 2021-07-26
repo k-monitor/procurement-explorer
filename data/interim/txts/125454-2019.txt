@@ -1,1 +1,3 @@
-Enying Város Önkormányzat és a Székesfehérvári Tankerületi Központ által fenntartott köznevelési intézmények részére közétkeztetési szolgáltatás biztosítása vállalkozási szerződések keretében
+version https://git-lfs.github.com/spec/v1
+oid sha256:de6dc02118a8a33e278158a593bf497fd5b54ffab86d26e9d6fca728b3338cee
+size 219

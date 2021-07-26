@@ -1,1 +1,3 @@
-Fajta és mennyiség szerint meghatározott dolog határidős adásvétele / Zárt vérvételi rendszer fogyóanyagainak szállítása, valamint a szerződés teljesítésének időtartama alatt vér-süllyedési vizsgálatok elvégzését lehetővé tévő laboratóriumi automata berendezés rendelkezésre bocsátása és működőképességének biztosítása az ajánlati felhívásban és a közbeszerzési dokumentumban részletezettek szerint A felhívás II.1.6) pontjához: A részajánlat tételének kizárásának indoka: A beszerezni kívánt rendszer elemeinek, egymással kompatibilis és együttműködő egységet kell képezniük, bármely egység rendszerből történő kiemelése és külön részben történő szerepeltetése a funkcionális egység megbomlásához vezet és funkcionális veszteséget okoz.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ddaa19ef1d37d23621ec64ebe71b826d11deed943b3c5c0bfd3c73318a5c88a4
+size 832

@@ -1,1 +1,3 @@
-villamosenergia-beszerzés a belváros-lipótváros budapest főváros 5. kerületi önkormányzat részére
+version https://git-lfs.github.com/spec/v1
+oid sha256:afdcad78b68b2ac76583d2d932287d1051416fe9a4b0777e1d667f0c400e75a4
+size 108

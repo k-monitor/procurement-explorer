@@ -1,6 +1,3 @@
-a modern város program keret megvalósuló békéscsabai nyomdaipari tudás
-és képzőközpont kialakítás elnevezésű projekt megvalósítás a tanműhely elhelyezendő gép
-berendezés beszerzés adásvételi szerződés keret
-iktatószám
-gf
-szkf
+version https://git-lfs.github.com/spec/v1
+oid sha256:d9c93e32098e435029542630a7d14e378446f33fb3fa33d7be43c9aed7f48233
+size 253

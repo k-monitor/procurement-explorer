@@ -1,1 +1,3 @@
-adásvételi szerződés keret hulladékgyűjtő edényzet beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:5b06063790245fdccb0fcc5f8cc232480ad1dbde3004b10025278f10214a54af
+size 69

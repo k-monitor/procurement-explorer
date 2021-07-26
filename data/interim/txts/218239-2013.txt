@@ -1,1 +1,3 @@
-Vállalkozási szerződés közétkeztetési feladatok ellátására 12 középfokú köznevelési intézményben.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8e35b5c2311c52fe2535b7892770dc4ae07c9471d7b3b385a9729de300505c8d
+size 114

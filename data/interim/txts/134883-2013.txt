@@ -1,1 +1,3 @@
-Megbízási szerződés a Ferencváros „C” elágazás - Gyoma vonalszakaszon az ETCS 2 telepítés munkáihoz kapcsolódó mérnök lebonyolítói tevékenység ellátása tárgyában.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0ff9526e39028bcd223ff78337dea072c1043a4f76df951af0431fb8946060cf
+size 188

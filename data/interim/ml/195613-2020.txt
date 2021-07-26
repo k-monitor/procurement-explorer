@@ -1,9 +1,3 @@
-Adásvételi	adásvételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-keretmegállapodás	keretmegállapodás	NOUN	Case=Nom|Number=Sing	
-genotipizáló	genotipizáló	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-kitek	kite	NOUN	Case=Nom|Number=Plur	
-beszerzésére	beszerzés	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-2	2	NUM	Case=Nom|NumType=Card|Number=Sing	
-részben	rész	NOUN	Case=Ine|Number=Sing	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:8eb90aabf4c75cf374e7b706d082fddb7bb02a187a1dc2381fc4a7e3b132d064
+size 438

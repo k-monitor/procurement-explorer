@@ -1,1 +1,3 @@
-Földgáz-értékesítési szerződés - vezetékes földgáz szállítása. Nyertes Ajánlattevő feladata, vezetékes földgáz energiahordozó szállítása - az ajánlatkérési dokumentációban leírtaknak megfelelően - a közös Ajánlatkérők csatlakozási pontjai részére 2013.7.1. 06:00 órától kezdődően, 2014.7.1. 06:00 óráig, teljes ellátás alapú szerződés keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:692876fe870fca41219718dd97b1fb125608488d5b34f945cfb439314994e719
+size 396

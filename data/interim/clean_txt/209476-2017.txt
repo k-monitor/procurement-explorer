@@ -1,1 +1,3 @@
-adásvételi szerződés leolvasó és mérőcsere tevékenység támogató ipari kivitelű pda szállítás
+version https://git-lfs.github.com/spec/v1
+oid sha256:e5b5a71151d997f6d9d3f37c8748b822c1772900f4000b5b973ef922d80ee2e3
+size 108

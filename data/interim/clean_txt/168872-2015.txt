@@ -1,8 +1,3 @@
-sporteszköz beszerzés a támop-6
-1.2
-a-14
-1-2014-0001 jelű
-komplex intézményi mozgásprogram és kapcsolódó egészségfejlesztési alprogram megvalósítás az általános iskola
-többcélú intézmény valamint szabadidős közösségi mozgásprogram és kapcsolódó egészségfejlesztési alprogram megvalósítás az iskola kívüli szereplő bevonás
-című kiemelt projekt keret
-adásvételi szerződés
+version https://git-lfs.github.com/spec/v1
+oid sha256:75588170f3bfd37eda3becac17d6ab443ee5c087c6d10c34e389abbd490112f6
+size 416

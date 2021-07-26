@@ -1,4 +1,3 @@
-egyszerhasználatos
-steril részes
-top and bottom
-típusú zárt vérvételi műanyag zsákrendszer beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:f26313310d1aed139230fd1291267e11f46a9a7a6d2a1336b20a07900b99911d
+size 110

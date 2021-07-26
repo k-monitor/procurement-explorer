@@ -1,1 +1,3 @@
-Paks II. Zrt. szervezetfejlesztési szolgáltatások
+version https://git-lfs.github.com/spec/v1
+oid sha256:1ed1ebab5f057b6bf4d407ac2d0684c504e9d74d29575faaa1743a28bc2ebee6
+size 52

@@ -1,28 +1,3 @@
-Régészeti	régészeti	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-lelőhelyen	lelőhely	NOUN	Case=Sup|Number=Sing	
-végzett	végzett	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPast	
-régészeti	régészeti	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-megelőző	megelőző	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-feltárási	feltárási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szolgáltatások	szolgáltatás	NOUN	Case=Nom|Number=Plur	
--	-	PUNCT	_	
-szükség	szükség	NOUN	Case=Nom|Number=Sing	
-szerint	szerint	ADP	_	
-geodéziai	geodéziai	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szolgáltatásokkal	szolgáltatás	NOUN	Case=Ins|Number=Plur	
-,	,	PUNCT	_	
-térinformatikai	térinformatikai	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-feldolgozással	feldolgozás	NOUN	Case=Ins|Number=Sing	
--	-	PUNCT	_	
-ellátása	ellátás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-a	a	DET	Definite=Def|PronType=Art	
-hatályos	hatályos	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-vonatkozó	vonatkozó	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-jogszabályok	jogszabály	NOUN	Case=Nom|Number=Plur	
-alapján	alap	NOUN	Case=Sup|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-,	,	PUNCT	_	
-vállalkozási	vállalkozási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-keretszerződés	keretszerződés	NOUN	Case=Nom|Number=Sing	
-keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:9f182b03333f5e915b63e3e78b6161884995e5460af3678a3f03ac8e9a8558ba
+size 1407

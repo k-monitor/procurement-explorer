@@ -1,5 +1,3 @@
-a lentebb részletezett helyszín forgalomtechnikai intézkedés megvalósítás szükséges
-kivitelezés alkalmas teljes körű
-minden szakág kiterjedő engedélyezési és kiviteli terv elkészítés
-továbbá az építés szükséges jogerős engedély
-hozzájárulás megszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:cf8190d0c23481e9822a69ba5ca9121879dd843f03258190f2efaf79686a72e7
+size 284

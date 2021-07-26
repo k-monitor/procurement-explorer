@@ -1,1 +1,3 @@
-Vállalkozási szerződés a Montág-pusztai telep állatállományának gondozására, ellátására, őrzésére, felügyeletére.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b239f1b2228e2bea3d8c49e023c3c9a873780c4be2e271bce27a88f8d56d244f
+size 132

@@ -1,12 +1,3 @@
-Száraz	Száraz	PROPN	Case=Nom|Number=Sing	
--	-	PUNCT	_	
-és	és	CONJ	_	
-konzerváru	konzerváru	NOUN	Case=Nom|Number=Sing	
-,	,	PUNCT	_	
-valamint	valamint	CONJ	_	
-cukrászsütemények	cukrászsütemény	NOUN	Case=Nom|Number=Plur	
-beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-adásvételi	adásvételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:ded086bb83bcb2874482e55c65ae8595728ec9890dbd657f72228f7bfcb8592e
+size 505

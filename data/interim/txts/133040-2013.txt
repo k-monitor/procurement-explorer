@@ -1,1 +1,3 @@
-Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház részére labor áruk és infúziós szerelékek beszerzése szállítási szerződés keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9a483cb644befa538508dbc1b04fbb68cb395ca7658026ed8776d980f21aa80d
+size 169

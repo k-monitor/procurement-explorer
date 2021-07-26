@@ -1,1 +1,3 @@
-atlas copco gyártású kompresszor és szűrőegység karbantartás és szervizelés
+version https://git-lfs.github.com/spec/v1
+oid sha256:c8f78cadcb9a42fc237a58b681368e40f2c2a79c774369d9d50ae6c50cb9b7ed
+size 85

@@ -1,2 +1,3 @@
-késztáp
-szemes gabona beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:e739f7238fcc4ecc56ea037511a183f103a2d20c3328c4335c667c3f44fabd6a
+size 34

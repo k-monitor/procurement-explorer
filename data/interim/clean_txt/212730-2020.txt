@@ -1,13 +1,3 @@
-a jelen közbeszerzési eljárás cél
-hogy az mvmi zrt. treasury rendszer kapcsolatos felmerülő üzleti igény
-új funkció
-folyamat
-meglévő funkció
-folyamat módosítás
-megvalósítás a jelen eljárás sor nyertes ajánlattevő kötött keretmegállapodás keret a nyertes ajánlattevő közreműködés végrehajt
-ajánlattevő az alá részletezett szolgáltatás kell nyújt a keretmegállapodás időtartam alatt megrendelés alap
-inforex rendszer kapcsolatos fejlesztés
-módosítás megvalósítás eseti
-feladatonkénti lehívás és erőforrás elszámolás alap
-az egyes fejlesztés elvégzés követő az új modul használat kapcsolatos oktatás a fejlesztés jelleg függő óra és nap közötti időtartam
-fős csoport
+version https://git-lfs.github.com/spec/v1
+oid sha256:3b16f51add9c15a2c8d1d23e61d08a6ed70efe9116fc657cfccd46c0dfcd8a85
+size 741

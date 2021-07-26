@@ -1,9 +1,3 @@
-nagy kapacitású léghűtéses hűthető vérzsák centrifuga beszerzés
-valamint az ajánlati dokumentáció részletezett szerinti leszállítás
-telepítés
-üzem helyezés
-a kezelőszemélyzet betanítás és a hónapos jótállási idő alatti karbantartás és javítás
-a termék külföldi szállító ddp
-incoterms 2000.
-paritás
-belföldi szállító költségmentesen köteles leszállít
+version https://git-lfs.github.com/spec/v1
+oid sha256:01ad9cb405c83d4535333aa6ae569dbb7b3298ed56bc25ae9684bceb225d2ac6
+size 400

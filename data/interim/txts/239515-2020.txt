@@ -1,1 +1,3 @@
-Az Országház Nándorfehérvári termébe és annak előterébe, valamint a Pázmándy termébe 8 darab (269,276 m2), gyapjú, mintás, kézi csomózású szőnyeg készítése 100 000 csomó/m2 sűrűségben, 8 mm flórmagassággal, 6-os felvetésre.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6665bb6eebec7dd01b8810f9fa9d3fb225b4a555af5f041f8b0ade86fda47364
+size 252

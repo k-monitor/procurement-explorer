@@ -1,15 +1,3 @@
-Az	az	DET	Definite=Def|PronType=Art	
-Észak-Közép-budai	Észak-Közép-budai	NOUN	Case=Nom|Number=Sing	
-Centrum	Centrum	PROPN	Case=Nom|Number=Sing	
-Új	Új	PROPN	Case=Nom|Number=Sing	
-Szent	Szent	PROPN	Case=Nom|Number=Sing	
-János	János	PROPN	Case=Nom|Number=Sing	
-Kórház	Kórház	PROPN	Case=Nom|Number=Sing	
-és	és	CONJ	_	
-Szakrendelő	szakrendelő	NOUN	Case=Nom|Number=Sing	
--	-	PUNCT	_	
-Rendelőintézet	rendelőintézet	NOUN	Case=Nom|Number=Sing	
-fejlesztése	fejlesztés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
--	-	PUNCT	_	
-tervezés	tervezés	NOUN	Case=Nom|Number=Sing	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:558e46e4d37336110c4f9948a694de73620e4982cd2272e989a0902e41c0ce64
+size 603

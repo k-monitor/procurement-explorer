@@ -1,1 +1,3 @@
-Szerződés meghatározása: Hitelszerződés. Szerződés tárgya: Fejlesztési célú hitel nyújtása Pécs Megyei Jogú Város Önkormányzata által már folyamatban lévő és elnyert pályázatok, valamint gazdaságfejlesztő és munkahelyteremtő projektek önerejének biztosítására
+version https://git-lfs.github.com/spec/v1
+oid sha256:5283ede6932fbc542176f74e796c6565c0ae6e4251d9310da2824f55d28c9efa
+size 294

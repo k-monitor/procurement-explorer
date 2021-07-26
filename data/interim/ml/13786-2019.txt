@@ -1,7 +1,3 @@
-„	„	PUNCT	_	
-Mobil	Mobil	PROPN	Case=Nom|Number=Sing	
-EKG	EKG	PROPN	Case=Nom|Number=Sing	
-eszköz	eszköz	NOUN	Case=Nom|Number=Sing	
-beszerzés	beszerzés	NOUN	Case=Nom|Number=Sing	
-"	"	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:78a4ee74d2ed6cfea690d5542f9e5c9ee84eed934df15016756a2c102b3e28c7
+size 199

@@ -1,15 +1,3 @@
-Vállalkozási	Vállalkozási	PROPN	Case=Nom|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-a	a	DET	Definite=Def|PronType=Art	
-Montág-pusztai	Montág-pusztai	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-telep	telep	NOUN	Case=Nom|Number=Sing	
-állatállományának	állatállomány	NOUN	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-gondozására	gondozás	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-,	,	PUNCT	_	
-ellátására	ellátás	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-,	,	PUNCT	_	
-őrzésére	őrzés	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-,	,	PUNCT	_	
-felügyeletére	felügyelet	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:b6433304803a9ba98b0d7683b5ac6a33543ee080133ff1d207af17233ed0e94d
+size 740

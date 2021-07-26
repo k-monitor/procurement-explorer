@@ -1,16 +1,3 @@
-takarítási szolgáltatás beszerzés az zrt. részére
-hónap
-a víziközmű társaság elhelyezés szolgáló épület takarítás rész
-az édv zrt. működési terület
-komárom-esztergom megye
-fejér megye
-pest megye
-összesen telephely
-összesen takarítandó alapterület tekintet
-az ajánlatkérési dokumentáció rész képező műszaki leírás foglalt meg+felelő
-a takarítási feladat munkaidő kívül kell végez
-és
-óra közötti időszak
-karakterkorlátozás miatt folytatás a
-4.3
-jogorvoslati kérelem benyújtás pont
+version https://git-lfs.github.com/spec/v1
+oid sha256:0592fe43e929a7e775d95ffc615f580f42a7eff630a54d9939162b789c4d6436
+size 540

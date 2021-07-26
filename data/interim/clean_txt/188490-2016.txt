@@ -1,4 +1,3 @@
-vállalkozási keretszerződés
-mely tárgy a nemzeti befektetési ügynökség nemzetközi médiakampány
-i
-lebonyolítás szükséges médiavásárlási és egyéb kapcsolódó szolgáltatás teljes körű ellátás
+version https://git-lfs.github.com/spec/v1
+oid sha256:08f087298c51c4071f9fdbe787383ce484e8cdeb80dbb06293d026eec971c681
+size 217

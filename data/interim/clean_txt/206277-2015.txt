@@ -1,15 +1,3 @@
-határozott idejű vállalkozási szerződés keret között a jelen dokumentáció megfogalmazott specifikáció szerinti
-db integrált intra
-extraoperatív képalkotó
-valamint elektrofiziológiairendszer beszerzés agykutatási cél
-mely maga foglal az orvos-technológiai eszköz szállítás
-üzem helyezés valamint az eszköz beszerelés
-installálás és működés helyezés
-rendeltetészerűhasználatáhozszükséges egyéb helyszíni szerelési munka elvégzés
-az okiti-ben jelenleg használt informatikai rendszer való illesztés és a rendszer használat betanítás mindösszesen minimum főrész
-a kapcsolódó valamennyi járulékos tervezési
-műszaki előkészítési munka elvégzés
-valamint a helyszíni telepítés sor elvégzett építés-szerelési munka és a teljes rendszer
-a kapcsolódó informatikai eszköz
-software és hardware
-a garancia idő alatt a garanciális kötelezettség teljesítés
+version https://git-lfs.github.com/spec/v1
+oid sha256:56bbab468305d58e51dbb8d5ce0867ee38a432c0664e2ac13852f99765d2c27f
+size 927

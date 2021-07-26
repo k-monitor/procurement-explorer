@@ -1,1 +1,3 @@
-Vállalkozási keretszerződés keretében az FKF Zrt-nél üzemeltetett MAN, Mercedes tehergépjármű alváz gyári, új vagy ezekkel egyenértékű után gyártott új alkatrészek beszerzése és szállítása.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7f640b381bdda70dc94f6ed1ef317cae8a89222bd47621f1d9ef99b734d2c760
+size 214

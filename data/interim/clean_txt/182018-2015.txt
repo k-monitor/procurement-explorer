@@ -1,2 +1,3 @@
-adásvételi szerződés alap it és egyéb eszköz beszerzés és kapcsolódó szolgáltatás ellátás az albacomp ri kft. gop-1
-b-2012-0017 számú projekt
+version https://git-lfs.github.com/spec/v1
+oid sha256:fee14526bc8d81f890d520505f96c391b41a46edc58619bb17f3c56ab0b0d706
+size 158

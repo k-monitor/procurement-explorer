@@ -1,7 +1,3 @@
-tervezési szerződés a kalocsa-paks térség tervezett új duna-híd és a kapcsolódó közlekedési infrastruktúrafejlesztés megvalósítás
-környezetvédelmi hatástanulmány
-engedélyezési és tender terv és dokumentáció készítés
-környezetvédelmi
-és építési engedély megszerzés
-pst kód
-k512
+version https://git-lfs.github.com/spec/v1
+oid sha256:e7bbf3d8212a28b5b5c23ac77795a48ba1092308e7496610fb97f196b76ed234
+size 315

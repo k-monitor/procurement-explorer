@@ -1,1 +1,3 @@
-Vállalkozási szerződés a „Központi technológiai tömb és integrált aktív ellátás fejlesztése a tatabányai Szent Borbála Kórházban” című, TIOP-2.2.4-09/1-2010-0009 azonosítószámú projekt kivitelezési munkálatainak elvégzésére II.
+version https://git-lfs.github.com/spec/v1
+oid sha256:04b3e6de9ed192de7812405ffc59c754b7d583060f647cf1e109e99740ae5990
+size 259

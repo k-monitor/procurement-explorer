@@ -1,1 +1,3 @@
-Használaton kívüli bányászati célú mélyfúrások teljes körű bányászati rekultivációja 2020
+version https://git-lfs.github.com/spec/v1
+oid sha256:f8b654372931a2fe18175d50128aedacbec15eebdca0a994c79007046022f3cf
+size 105

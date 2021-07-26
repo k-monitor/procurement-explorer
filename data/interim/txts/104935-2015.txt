@@ -1,1 +1,3 @@
-Adásvételi szerződés Hepatitis-C kezelésére szolgáló Pegilált interferon + ribavirin hatóanyag tartalmú készítmények 2015. évi beszerzésére.
+version https://git-lfs.github.com/spec/v1
+oid sha256:64854a59ab0bebb681e8a162bcf22d0fe1af1d51facfe440978bd0f068716315
+size 157

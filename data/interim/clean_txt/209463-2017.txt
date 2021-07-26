@@ -1,11 +1,3 @@
-adásvételi szerződés a semmelweis egyetem részére fertőtlenítőszer beszerzés rész keret összesen liter
-db és kg fertőtlenítőszer opciós mennyiség
-minden rész eset az alapmennyiség
-a. összesen liter
-db és kg fertőtlenítőszer az eljárás keretösszeg
-nettó ft mennyiségi eltérés
-ajánlatkérő fenntart a jog
-hogy a szerződés hatály alatt a tényleges szükséglet meg+felelő a fenti teljes mennyiség
-mínusz százalék
-eltér
-amely az opciós mennyiség érintett rész is beleértendő
+version https://git-lfs.github.com/spec/v1
+oid sha256:cd8ff91e1a049922d0e34ae8e218f61fc696f57080b7a29556c531b95b9beba7
+size 520

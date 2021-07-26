@@ -1,22 +1,3 @@
-Keretmegállapodás	keretmegállapodás	NOUN	Case=Nom|Number=Sing	
-alapján	alap	NOUN	Case=Sup|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-út	út	NOUN	Case=Nom|Number=Sing	
-,	,	PUNCT	_	
-csapadékvíz	csapadékvíz	NOUN	Case=Nom|Number=Sing	
-elvezetés	elvezetés	NOUN	Case=Nom|Number=Sing	
-,	,	PUNCT	_	
-csatorna	csatorna	NOUN	Case=Nom|Number=Sing	
-és	és	CONJ	_	
-egyéb	egyéb	PRON	Case=Nom|Number=Sing|Person=3|PronType=Ind	
-tervezési	tervezési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-feladatok	feladat	NOUN	Case=Nom|Number=Plur	
-ellátása	ellátás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-Budapest	Budapest	PROPN	Case=Nom|Number=Sing	
-XXI	21	NUM	Case=Nom|NumType=Card|Number=Sing	
-.	.	PUNCT	_	
-
-Kerület	Kerület	PROPN	Case=Nom|Number=Sing	
-Csepel	Csepel	PROPN	Case=Nom|Number=Sing	
-Önkormányzata	Önkormányzata	PROPN	Case=Nom|Number=Sing	
-részére	részére	ADP	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:5377ede9ba14f2b06fcd604c5c154f5c7307057672a09a22319252066886e040
+size 897

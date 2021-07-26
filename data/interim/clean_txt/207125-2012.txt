@@ -1,2 +1,3 @@
-szállítási szerződés szoftverlicenc
-sa év a bács-kiskun megyei kórház részére
+version https://git-lfs.github.com/spec/v1
+oid sha256:32e8aab3c6f09548720817cada2d3e502573caef2eb5be68374e6a91377f7148
+size 88

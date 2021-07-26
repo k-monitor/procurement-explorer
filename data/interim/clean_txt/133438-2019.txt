@@ -1,2 +1,3 @@
-adásvételi szerződés csípőszeg beszerzés
-konszignációs raktárkészlet kihelyezés hónap rész az alábbi szerint
+version https://git-lfs.github.com/spec/v1
+oid sha256:1f6711b19aeb8af97609012527f27c03a4b1b04ab83eced575359af859483003
+size 123

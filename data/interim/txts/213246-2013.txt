@@ -1,1 +1,3 @@
-Biztosítási szerződés keretében megvalósuló, a DMJV Polgármesteri Hivatal tulajdonában vagy a DMJV Önkormányzat tulajdonában vagy intézményei használatában lévő épületek teljes körű vagyon és felelősségbiztosítása valamint a DMJV Önkormányzata és Polgármesteri Hivatal tulajdonában lévő munkagép és személygépjárművek, casco és kötelező felelősségbiztosítása, továbbá csoportos balesetbiztosítás.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b82034f0ecb4f41662694410fa4ad7250b7e426a65cdbb650c95bc196775b52e
+size 447

@@ -1,22 +1,3 @@
-Szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-meghatározása	meghatározás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-:	:	PUNCT	_	
-Szolgáltatási	szolgáltatási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-.	.	PUNCT	_	
-
-Szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-tárgya	tárgy	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-:	:	PUNCT	_	
-Mobil	Mobil	PROPN	Case=Nom|Number=Sing	
-telekommunikációs	telekommunikációs	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szolgáltatások	szolgáltatás	NOUN	Case=Nom|Number=Plur	
-,	,	PUNCT	_	
-illetőleg	illetőleg	CONJ	_	
-eszközök	eszköz	NOUN	Case=Nom|Number=Plur	
-szállítása	szállítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-szolgáltatási	szolgáltatási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:e3d749ab8e713b84d36030c0cac554bedd26baa10825d907203fc09d6265a375
+size 991

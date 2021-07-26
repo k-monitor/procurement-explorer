@@ -1,1 +1,3 @@
-a heim pál országos gyermekgyógyászati intézet számára takarítási szolgáltatás nyújtás
+version https://git-lfs.github.com/spec/v1
+oid sha256:2599f44a27b70ebaec0c2aa37ae97f97adadd65c61f5775999f9a4a56f122e91
+size 99

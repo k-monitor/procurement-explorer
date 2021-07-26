@@ -1,1 +1,3 @@
-a műemlékvédelem alatt álló loyolai szent ignác bencés templom orgona restaurátori helyreállítás
+version https://git-lfs.github.com/spec/v1
+oid sha256:b765e647bd6cb09da22616de98f95d524fcc889b310607deda4febe2d7d5dbfa
+size 107

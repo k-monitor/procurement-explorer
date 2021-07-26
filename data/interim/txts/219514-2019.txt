@@ -1,1 +1,3 @@
-A GINOP-5.2.1-14-2015-00001 azonosítószámú Ifjúsági Garancia elnevezésű kiemelt projekt keretében megvalósítandó mentori szolgáltatás és munkaerőpiaci humán szolgáltatás biztosítása Jász-Nagykun-Szolnok megyében az alábbi szolgáltatásokra vonatkozóan: 1. rész: Mentori szolgáltatás nyújtása 2. rész: Munkaerőpiaci humán szolgáltatás biztosítása
+version https://git-lfs.github.com/spec/v1
+oid sha256:dbd9bc1f65c24c9188bfb9e178f17d2cef05b82a6a64a476067c1d5253b1110e
+size 383

@@ -1,1 +1,3 @@
-Tételes elszámolás alá eső intravénás trastuzumab hatóanyag 12 aktív hónapra való beszerzése keretmegállapodás megkötésére irányuló nyílt eljárás keretében
+version https://git-lfs.github.com/spec/v1
+oid sha256:9c48f11494c3e848ac17a125d8056f7807fd1976ab593b14e5d2b6e4849662ef
+size 178

@@ -1,33 +1,3 @@
-Szállítási	Szállítási	PROPN	Case=Nom|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-,	,	PUNCT	_	
-a	a	DET	Definite=Def|PronType=Art	
-Semmelweis	Semmelweis	PROPN	Case=Nom|Number=Sing	
-Egyetem	Egyetem	PROPN	Case=Nom|Number=Sing	
-,	,	PUNCT	_	
-Központi	Központi	PROPN	Case=Nom|Number=Sing	
-Textiltisztító	textiltisztító	NOUN	Case=Nom|Number=Sing	
-és	és	CONJ	_	
-Javító	javító	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-Üzem	üzem	NOUN	Case=Nom|Number=Sing	
-részére	részére	ADP	_	
-,	,	PUNCT	_	
-24	24	NUM	Case=Nom|NumType=Card|Number=Sing	
-hónapra	hónap	NOUN	Case=Sub|Number=Sing	
-szükséges	szükséges	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-,	,	PUNCT	_	
-a	a	DET	Definite=Def|PronType=Art	
-chemo-termo	chemo-termo	NOUN	Case=Nom|Number=Sing	
-mosástechnológiához	mosástechnológia	NOUN	Case=All|Number=Sing	
-szükséges	szükséges	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-,	,	PUNCT	_	
-mosás	mosás	NOUN	Case=Nom|Number=Sing	
-hatékony	hatékony	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-vegyületek	vegyület	NOUN	Case=Nom|Number=Plur	
-,	,	PUNCT	_	
-fertőtlenítőszerek	fertőtlenítőszer	NOUN	Case=Nom|Number=Plur	
-és	és	CONJ	_	
-mosószerek	mosószer	NOUN	Case=Nom|Number=Plur	
-beszerzésére	beszerzés	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:ca47cb95649ba7457f595223cb71ed8ea0c35f707c13d26ae21fa7aa0c49f7bc
+size 1306

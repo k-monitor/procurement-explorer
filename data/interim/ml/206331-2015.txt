@@ -1,18 +1,3 @@
-Budapesti	Budapesti	PROPN	Case=Nom|Number=Sing	
-Corvinus	Corvinus	PROPN	Case=Nom|Number=Sing	
-Egyetem	Egyetem	PROPN	Case=Nom|Number=Sing	
-oktatáshoz	oktatás	NOUN	Case=All|Number=Sing	
-és	és	CONJ	_	
-kutatáshoz	kutatás	NOUN	Case=All|Number=Sing	
-használt	használt	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPast	
-vegyszerek	vegyszer	NOUN	Case=Nom|Number=Plur	
-szállítása	szállítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-és	és	CONJ	_	
-ezzel	ez	PRON	Case=Ins|Number=Sing|Person=3|PronType=Dem	
-összefüggő	összefüggő	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-web	web	NOUN	Case=Nom|Number=Sing	
-shop	shop	NOUN	Case=Nom|Number=Sing	
-szolgáltatás	szolgáltatás	NOUN	Case=Nom|Number=Sing	
-nyújtása	nyújtás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:e400aede83c06da07b451bd49b4c0433a3ff323370713e350f3dc450aac2e58e
+size 840

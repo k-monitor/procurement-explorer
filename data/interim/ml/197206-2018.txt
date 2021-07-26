@@ -1,7 +1,3 @@
-Központi	Központi	PROPN	Case=Nom|Number=Sing	
-Microsoft	Microsoft	PROPN	Case=Nom|Number=Sing	
-licencek	licenc	NOUN	Case=Nom|Number=Plur	
-beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-II	II	PROPN	Case=Nom|Number=Sing	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:3cf86a0dce8084ae4774c271d56d0a4de3582624fa4859483c86694fe68f1fda
+size 270

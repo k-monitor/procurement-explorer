@@ -1,16 +1,3 @@
-tárgy
-vállalkozási szerződés
-egyedi gyártású vegyipari reaktor modul
-valamint a ő műszaki és technológiailag kapcsolódó db gáz elszívó és gázmosó berendezés beszerzés
-tárgy hu09-0074-a2-2013 azonosító számú
-norvég finanszírozási mechanizmus zöld ipari innovációs program
-környezetbarát termelési technológia fokozott használat
-alprogram keret
-víz
-és szennyvízkezelési vegyszer gyártás sor keletkező vesz
-hull
-és energiaigény csökkentés a reaktortér és szűréstechnológia fejlesztés
-projekt keret vegyipari reaktor modul
-valamint a ő műszaki és technológiailag kapcsolódó db gáz elszívó és gázmosó berendezés a műszaki leírás meghatározott paraméter és terv szerinti legyártás
-leszállítás
-telepítés és beüzemelés ajánlatkérő székhely
+version https://git-lfs.github.com/spec/v1
+oid sha256:064f3c4fffd7851b18824d4c18c13a5a89e60a69593ad454a2a9de9a5e968b1c
+size 819

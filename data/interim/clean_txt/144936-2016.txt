@@ -1,1 +1,3 @@
-pékáru beszerzés a büntetés-végrehajtás országos parancsnoksága által a szegedi fegyház és börtön részére éves időtartam a lent szerepel mennyiség
+version https://git-lfs.github.com/spec/v1
+oid sha256:ea1e6b5b11f123a9d4e47cbf0b6a553561c9cf4569d02b8ccf2d5be1683d2dce
+size 165

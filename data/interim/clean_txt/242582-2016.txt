@@ -1,1 +1,3 @@
-vállalkozási keretszerződés ügynökségi kommunikációs és rendezvényszervezési szolgáltatás ellátás
+version https://git-lfs.github.com/spec/v1
+oid sha256:dfe774594ba6f676601646b450923cea459a3004f507e853b59e0072f689cb3d
+size 113

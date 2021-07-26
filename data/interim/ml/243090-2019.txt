@@ -1,16 +1,3 @@
-«	«	PUNCT	_	
-Élőerős	élőerős	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-őrzés-védési	őrzés-védési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szolgáltatás	szolgáltatás	NOUN	Case=Nom|Number=Sing	
-és	és	CONJ	_	
-portaszolgálat	portaszolgálat	NOUN	Case=Nom|Number=Sing	
-ellátása	ellátás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-a	a	DET	Definite=Def|PronType=Art	
-Pécs	Pécs	PROPN	Case=Nom|Number=Sing	
-Megyei	Megyei	PROPN	Case=Nom|Number=Sing	
-Jogú	Jogú	PROPN	Case=Nom|Number=Sing	
-Város	Város	PROPN	Case=Nom|Number=Sing	
-Önkormányzata	Önkormányzata	PROPN	Case=Nom|Number=Sing	
-épületeiben	épület	NOUN	Case=Ine|Number=Plur|Number[psor]=Sing|Person[psor]=3	
-»	»	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:d4359223536c96ceaf172307636430f87972708b23a72e21ca0422bc10c2e929
+size 716

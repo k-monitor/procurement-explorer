@@ -1,1 +1,3 @@
-Adásvételi szerződés: Közúti tehergépjárművek cseréje tárgyban. 1. rész: (N1) Közúti tehergépjármű platós, ponyvás kivitelben 2. rész: (N2) Közúti tehergépjármű platós, ponyvás kivitelben 3. rész: (N3) Közúti bázisjármű autómentő felépítménnyel 4. rész: (N2) Közúti tehergépjármű platós ponyvás kivitelben emelőhátfallal 5. rész: (N3) Közúti tehergépjármű platós ponyvás kivitelben 6. rész: (N3) Közúti bázisjármű és nyerges járműszerelvény 7. rész: (N3) Közúti speciális felépítményű autómentő
+version https://git-lfs.github.com/spec/v1
+oid sha256:1220db002f65aeb57ae9c86ce100cfb69df83540c6240ce3fa29bbd3939412ce
+size 570

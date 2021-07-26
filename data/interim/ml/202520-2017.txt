@@ -1,14 +1,3 @@
-Közétkeztetési	közétkeztetési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szolgáltatás	szolgáltatás	NOUN	Case=Nom|Number=Sing	
-nyújtása	nyújtás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-Kiskunmajsa	kiskunmajsa	NOUN	Case=Nom|Number=Sing	
-város	város	NOUN	Case=Nom|Number=Sing	
-közigazgatási	közigazgatási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-területén	terület	NOUN	Case=Sup|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-főző	főző	NOUN	Case=Nom|Number=Sing	
--	-	PUNCT	_	
-és	és	CONJ	_	
-tálalókonyhák	tálalókonyha	NOUN	Case=Nom|Number=Plur	
-üzemeltetésével	üzemeltetés	NOUN	Case=Ins|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:8895bca1b7b0c8145768f0da6446beec36703e92c92f8e4fec087c4ace5d080e
+size 689

@@ -1,1 +1,3 @@
-Szombathely Megyei Jogú Város Önkormányzatának intézményei részére jelen 2013.7.1. (6:00) CET - 2014.7.1. (6:00) CET időszakra vonatkozóan, a magyar átviteli hálózaton folyamatosan rendelkezésre álló, szabványos (MSZ 1648/2000) minőségű földgázenergia szállítása (rendszerhasználat biztosításával együtt) teljes ellátás alapú földgáz szállítási szerződés keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:88a781abe604a4d21e273ea3bb9b63e0152865ae344856c900ba364c78a42f09
+size 407

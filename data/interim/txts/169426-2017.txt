@@ -1,1 +1,3 @@
-Prodigy mérőfej és tartozékainak beszerzése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:599de66b9c4f1eeeffe3cd2423cefc954ee773eeb04bed7de300ca16ff248999
+size 49

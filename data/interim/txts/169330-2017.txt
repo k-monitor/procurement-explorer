@@ -1,1 +1,3 @@
-Adás-vételi szerződés keretében Ajánlatkérő az Intézmény részére 24 hónapra sebészeti varróanyagokat konszignációs raktár üzemeltetésével kívánja megvásárolni.
+version https://git-lfs.github.com/spec/v1
+oid sha256:20a00803320e6f12115aae6570c2aa23b80858aaf3747a8da0f36b36824c0f11
+size 184

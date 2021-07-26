@@ -1,5 +1,3 @@
-megbízási szerződés a sz. főút debrecen elkerülő szakasz szervizút
-bocskaikert
-építés kivitelezési munka mérnöki és műszaki ellenőri feladat ellátás
-valamint a kivitelezés vonatkozó közbeszerzési eljárás előkészítés és lefolytatás való szakértői közreműködés
-k004
+version https://git-lfs.github.com/spec/v1
+oid sha256:070842c60366daf419cf43eaef271316bfb8ef2eb6bc4794d49c1eaf855ed884
+size 302

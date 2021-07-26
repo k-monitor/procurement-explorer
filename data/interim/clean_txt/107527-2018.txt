@@ -1,2 +1,3 @@
-csontsebészeti implantátum és protézis beszerzés konszignációs raktár létesítés év keresztül szállítási szerződés keret vaszary kolos kórház
-esztergom részére
+version https://git-lfs.github.com/spec/v1
+oid sha256:5d9978e925f1a5c6276a12e1639d087a612f69b2be29f91f2f8a2bc23c5a57fa
+size 180

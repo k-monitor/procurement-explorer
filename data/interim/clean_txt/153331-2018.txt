@@ -1,3 +1,3 @@
-a pázmány péter katolikus egyetem
-bródy projekt
-megvalósítás kapcsolódó építési beruházás lebonyolító feladat ellátás
+version https://git-lfs.github.com/spec/v1
+oid sha256:5a257bac27116666fdae11e8174bbd7c283d11066d06d64282ffcbd4f397628d
+size 135

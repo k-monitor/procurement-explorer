@@ -1,20 +1,3 @@
-Adásvételi	adásvételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-a	a	DET	Definite=Def|PronType=Art	
-Semmelweis	Semmelweis	PROPN	Case=Nom|Number=Sing	
-Egyetem	Egyetem	PROPN	Case=Nom|Number=Sing	
-szervezeti	szervezeti	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-egységei	egység	NOUN	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3	
-részére	részére	ADP	_	
-12	12	NUM	Case=Nom|NumType=Card|Number=Sing	
-havi	havi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-kötszerek	kötszer	NOUN	Case=Nom|Number=Plur	
-beszerzésére	beszerzés	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-,	,	PUNCT	_	
-a	a	DET	Definite=Def|PronType=Art	
-dokumentációban	dokumentáció	NOUN	Case=Ine|Number=Sing	
-meghatározott	meghatározott	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPast	
-specifikáció	specifikáció	NOUN	Case=Nom|Number=Sing	
-szerint	szerint	ADP	_	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:30e5e31ed519d302a393a77b62c43efaed45688fb363f1c30f68dfd0df452853
+size 919

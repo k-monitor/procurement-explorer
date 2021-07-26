@@ -1,1 +1,3 @@
-Adásvételi szerződés páncélozott terepjáró személygépjármű, valamint könnyű terepjáró személygépkocsi beszerzése tárgyban.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ece32c5597c3334e16abf15ab7c69f387c7a590d7f1f6cbf275065bf7e54bc64
+size 142

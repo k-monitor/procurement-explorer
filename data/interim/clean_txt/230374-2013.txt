@@ -1,5 +1,3 @@
-folyószámlahitel biztosítás hitelszerződés forma
-részajánlat
-1. rész tekintet huf érték
-ii
-rész tekintet huf érték
+version https://git-lfs.github.com/spec/v1
+oid sha256:87934a22b6c822ee27e50014d7c446030ae603eb0635e0b91710e0a423c080fa
+size 128

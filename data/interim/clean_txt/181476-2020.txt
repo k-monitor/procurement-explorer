@@ -1,15 +1,3 @@
-véradó
-donor
-vérminta egyedi
-id
-szűrő vizsgálat alkalmas wnv nukleinsav amplifikációs
-nat
-rendszerű tesztkészlet megvásárlás
-továbbá a tesztkészlet felhasználás szükséges
-a tesztkészlet validált teljes automatizált laboratóriumi kivizsgáló eszköz
-a további
-automata
-használat vételi jog biztosítás az egyes szállítási cím
-az automata illesztés az ovsz eprogesa transzfuziológiai szakmai informatikai rendszer
-vizsgálati igény fogadás az eprogesa és a vizsgálati eredmény továbbítás az eprogesa
-továbbá a használat adott automata használati idő alatti folyamatos működőképesség biztosítás járó feladat ellátás
+version https://git-lfs.github.com/spec/v1
+oid sha256:a64fbfa905bc1c5bee422f71c36e4763512d85b7bc82103a6ace5cca10ad4361
+size 671

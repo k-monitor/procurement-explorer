@@ -1,1 +1,3 @@
-Megbízási szerződés az M44 autóút, Kondoros-Békéscsaba közötti szakasz építési munkáihoz kapcsolódó mérnöki és műszaki ellenőri feladatok ellátására (PST kód: A044.03).
+version https://git-lfs.github.com/spec/v1
+oid sha256:3cd083309a3999851cb75f541c42beb0791c59541d642a3d4d63d020c0ca8cbf
+size 193

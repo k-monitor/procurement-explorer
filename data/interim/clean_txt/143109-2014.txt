@@ -1,5 +1,3 @@
-a pécsi tudományegyetem részére megvalósítandó szolgáltatás irányuló megbízási keretmegállapodás
-és megbízási szerződés audit tevékenység folytatás
-mely tárgy
-a 2014., 2015., 2016., 2017. évi elemi költségvetési beszámoló
-valamint a szerződés megkötés számított hónap alatt auditköteles pályázat kapcsán felmerülő könyvvizsgálati szolgáltatás
+version https://git-lfs.github.com/spec/v1
+oid sha256:5585a7179f5b40545ec72734ceb0961e534da9e04890db57f7442b563119f2dd
+size 389

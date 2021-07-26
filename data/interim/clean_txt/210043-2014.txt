@@ -1,11 +1,3 @@
-megbízási szerződés a
-települési szilárdhulladék-gazdálkodási rendszer fejlesztés a délkelet-alföld regionális hulladékgazdálkodási rendszer létrehozás célzó önkormányzati társulás terület
-elnevezésű
-keop-1
-1.1
-09-11-2012-0007 azonosító számú
-projekt keret a fidic sárga könyv szerinti kivitelezési munkálat kapcsolódó fidic mérnöki és műszaki ellenőri feladat ellátás a
-2009.
-15.
-korm
-rendelet szerint
+version https://git-lfs.github.com/spec/v1
+oid sha256:8106f489d1c7faa423a8f3befbd4b373514be909dda9bc7ab5a6d28c19b2d96b
+size 447

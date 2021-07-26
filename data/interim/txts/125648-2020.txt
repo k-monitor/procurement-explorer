@@ -1,1 +1,3 @@
-Konferencia székek és szállító kocsik beszerzése a PTE ÁOK részére a közbeszerzési dokumentumokban meghatározottak szerint: 1000 db multifunkcionális felhasználású, teljesen kárpitozott, rozsdamentes fémvázú, karfás konferenciaszék, illetve a tárolásukhoz és mozgatásukhoz szükséges 25 db tárolókocsi beszerzése és szállítása. A további információk a közbeszerzési dokumentumokban meghatározottak szerint.
+version https://git-lfs.github.com/spec/v1
+oid sha256:76138c58fdbd531aa15142a9d6f54ded224e2c166ec9b2f7940e4c9107d622de
+size 446

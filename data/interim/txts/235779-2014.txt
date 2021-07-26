@@ -1,1 +1,3 @@
-Ajánlatkérő élelmiszer áru és alapanyag szükségletének biztosítása szállítás útján a vételár kifizetése ellenében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4a13fbc5ca8b217f1b78b4d1f1f0e0de49890e1b8a7cb7a09a6b125b104eda4a
+size 134

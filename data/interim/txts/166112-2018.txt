@@ -1,1 +1,3 @@
-Nyíregyházi Bujtosi sportuszoda teljes körű megvalósítása a kiviteli tervdokumentációban és az építési engedélyben előírtaknak megfelelően.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4611b996b63d8305c04c4e087f199e229015ec820e2307038f9227e6643a6982
+size 156

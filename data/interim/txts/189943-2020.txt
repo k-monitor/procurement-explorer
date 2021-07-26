@@ -1,1 +1,3 @@
-Vállalkozási szerződés a „Budapesti egészségügyi intézmények energetikai korszerűsítése” című, KEHOP-5.2.2/16-2016-00107 azonosító számú projekt keretében a Bajcsy-Zsilinszky Kórház és Rendelőintézethez tartozó épületek energetikai korszerűsítése tárgyában
+version https://git-lfs.github.com/spec/v1
+oid sha256:915c14cbce459c997d57ef060c6591570f260605b804c7bebbcc56c38a5da3f7
+size 292

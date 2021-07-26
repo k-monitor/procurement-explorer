@@ -1,17 +1,3 @@
-Tervezési	tervezési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-a	a	DET	Definite=Def|PronType=Art	
-Kemény	Kemény	PROPN	Case=Nom|Number=Sing	
-Ferenc	Ferenc	PROPN	Case=Nom|Number=Sing	
-Sportlétesítmény-fejlesztési	Sportlétesítmény-fejlesztési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-Program	Program	PROPN	Case=Nom|Number=Sing	
-keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-megvalósítandó	megvalósítandó	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartFut	
-Dunai	Dunai	PROPN	Case=Nom|Number=Sing	
-Evezős	evezős	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-Központ	Központ	PROPN	Case=Nom|Number=Sing	
-Pálya	pálya	NOUN	Case=Nom|Number=Sing	
-tervezése	tervezés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-tárgyában	tárgy	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:f58297b2fe5c1b9a152eb057fe0b79a4a3723e0e09431a41d938a574e7e7016d
+size 899

@@ -1,1 +1,3 @@
-Tervezési szerződés a Liget Budapest beruházáshoz kapcsolódó „Magyar Műszaki és Közlekedési Múzeum (MMKM)” megvalósításához szükséges teljeskörű tervdokumentáció elkészítésére.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b36d0beb6cdbc8e35f18b1da71c4d8cd9bcdb08d9e9c932fed30f26bfe35f917
+size 206

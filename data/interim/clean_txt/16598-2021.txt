@@ -1,2 +1,3 @@
-adásvételi szerződés keret a fővárosi csatornázási művek zrt. és a fővárosi csatornázási művek mélyépítő és karbantartó kft. opel gépjárműflotta bővítés opel flotta
-vagy az egyenértékű gépjármű tartalmazó flotta
+version https://git-lfs.github.com/spec/v1
+oid sha256:463f6b6dc2bbf1ab7a064b15583c6fe99ed046c720e28a1c11715b1a2191a0ff
+size 245

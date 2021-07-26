@@ -1,10 +1,3 @@
-rvtv portál továbbfejlesztés és kapcsolódó rendszer kifejlesztés keretmegállapodás keret
-a portál egyedi elképzelés alap kerül kifejlesztés a belügyminisztérium továbbképzési folyamat támogatás cél
-a portál továbbfejlesztés illetve módosítás szükséges a képzési program változás következtében keretmegállapodás keret próbaüzem
-megrendelő a napos próbaüzem eredményes eltelte követő
-a minőségi átadás-átvétel követő nap belül köteles a teljesítés elfogadás dönt
-és ez eset a teljesítési igazolás kiad
-valamint a vállalkozó részére átad
-ellenkező eset megrendelő köteles az ok tételes meghatározás az megtagadás írás nyilatkozik
-a nyilatkozattétel határidő elmulasztás nem jelent a teljesítés megrendelő általi elismerés
-a szerződés teljesítés kapcsolatos feltétel részletes a közbeszerzési dokumentum tartalmaz
+version https://git-lfs.github.com/spec/v1
+oid sha256:4dd14ce9b5cd6647e647a993d1246a874302bdaab463083544f92d075b5535f7
+size 904

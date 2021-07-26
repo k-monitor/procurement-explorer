@@ -1,1 +1,3 @@
-„52. sz. főút M5 autópálya és Kecskemét, Nagykörút közötti szakasz négysávossá történő kapacitásbővítés előkészítése” (tervezési szerződés).
+version https://git-lfs.github.com/spec/v1
+oid sha256:426ff21f6b52ce98ce420d4780b914e6b3b561a7932533253c5d4e3d130df835
+size 171

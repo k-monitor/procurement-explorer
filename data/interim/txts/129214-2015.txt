@@ -1,1 +1,3 @@
-Pénzügyőr/Vám-Zoll lapok, utasforgalmi információs füzetek, egyéb tájékoztató kiadványok, szórólapok, plakátok nyomdai előállítása és kiadói gondozása.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7e21ef54b9644245e6f1213511708306e4d5b3e6cdc726387b473742f3d91024
+size 173

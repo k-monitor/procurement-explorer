@@ -1,17 +1,3 @@
-Adásvételi	adásvételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-Hepatitis-C	Hepatitis	NOUN	Case=Nom|Number=Sing	
-kezelésére	kezelés	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-szolgáló	szolgáló	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-Pegilált	Pegilál	VERB	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	
-interferon	interfer	NOUN	Case=Sup|Number=Sing	
-+	+	PUNCT	_	
-ribavirin	ribaviri	NOUN	Case=Sup|Number=Sing	
-hatóanyag	hatóanyag	NOUN	Case=Nom|Number=Sing	
-tartalmú	tartalmú	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-készítmények	készítmény	NOUN	Case=Nom|Number=Plur	
-2015.	2015.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
-évi	évi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-beszerzésére	beszerzés	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:956d4c4aa07f7b115c92c8982957cd16bbe8e41f0ab5cbc928944e16b132caed
+size 890

@@ -1,1 +1,3 @@
-Vállalkozási szerződés a Pécsi Tudományegyetem Klinikai Központ Onkoterápiás Intézetének fejlesztésére.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7309338a10e0191b0265f5a39389bea62de367c59f1accdcd95b498e6f31bf35
+size 116

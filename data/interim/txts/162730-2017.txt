@@ -1,1 +1,3 @@
-HP 8200 központi adattároló bővítése SSD technológiájú tárolóelemekkel.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fc93749715d47489bd4ffbe542617afc72f8f35a1db9d46bc9af9d6d4b781fa2
+size 82

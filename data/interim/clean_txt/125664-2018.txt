@@ -1,1 +1,3 @@
-adásvételi szerződés élelmiszeripar alkalmazott burkolóanyag kezelés végző célgép beszerzés tárgy
+version https://git-lfs.github.com/spec/v1
+oid sha256:e62c252c4764f9b7858a4ba03d2f978016d5a36c910af0f369a6614345061337
+size 110

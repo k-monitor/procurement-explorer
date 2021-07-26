@@ -1,4 +1,3 @@
-meghatározás
-szállítási szerződés
-tárgy
-ajánlatkérő részére gyógyszer és infúzió beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:9ec720a673b34699ed790e20aa0ccd59475f7425ef47df277b8615b4deeadc7c
+size 108

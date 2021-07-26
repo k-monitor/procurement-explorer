@@ -1,2 +1,3 @@
-mobil végponti
-kézi információs eszköz beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:e5baa64288c4aa4a52103c5afb6f9e942cb926e5e2a571310a561583242051ab
+size 54

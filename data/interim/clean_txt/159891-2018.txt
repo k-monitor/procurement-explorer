@@ -1,1 +1,3 @@
-a károli gáspár református egyetem épület takarítás
+version https://git-lfs.github.com/spec/v1
+oid sha256:bad741bf9f1343cacf8f41d59f8e13863a317f447f43f02ccd65ec094f4180b3
+size 59

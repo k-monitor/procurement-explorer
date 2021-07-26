@@ -1,21 +1,3 @@
-Zöld	Zöld	PROPN	Case=Nom|Number=Sing	
-Város	Város	PROPN	Case=Nom|Number=Sing	
--	-	PUNCT	_	
-Fehérvár	Fehérvár	PROPN	Case=Nom|Number=Sing	
-Tüdeje	tüdő	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-fejlesztési	fejlesztési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-programhoz	program	NOUN	Case=All|Number=Sing	
-kapcsolódó	kapcsolódó	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-tervezési	tervezési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-feladatok	feladat	NOUN	Case=Nom|Number=Plur	
-ellátása	ellátás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-a	a	DET	Definite=Def|PronType=Art	
-TOP-6	TOP-6	PROPN	Case=Nom|Number=Sing	
-.	.	PUNCT	_	
-
-3	3	NUM	Case=Nom|NumType=Card|Number=Sing	
-.	.	PUNCT	_	
-2-16-SF1-2018-00002	2-16-SF1-2018-00002	PROPN	Case=Nom|Number=Sing	
-projekt	projekt	NOUN	Case=Nom|Number=Sing	
-keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:9795d2f919b8dcec8892d8aee6f8a76a1c61d92ec5a75258ef89c6ad683b1632
+size 929

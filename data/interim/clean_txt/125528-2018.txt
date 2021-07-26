@@ -1,1 +1,3 @@
-mosodatechnikai gép beszerzés a felső-szabolcsi kórház számára adásvételi szerződés keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:9ff596dcdc1549486edddb5866a08ffff120da3b05c53c0975f8f37d2a424656
+size 100

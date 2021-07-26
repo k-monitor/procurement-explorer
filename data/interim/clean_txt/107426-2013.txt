@@ -1,5 +1,3 @@
-földgáz vásárlási szerződés legfeljebb gnm³
-év földgáz fűtési célú felhasználás történő beszerzés az országgyűlés hivatala részére
-ajánlatkérő a meghatározott magas érték való eltérés az időjárás és a rendezvény kiszámíthatatlanság tekintet
- ír elő
-2013.
+version https://git-lfs.github.com/spec/v1
+oid sha256:984ac124b5a07cff178b9e881e40947c0ac091d2d0ac47bb5bd0d89cea383d67
+size 299

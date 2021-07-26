@@ -1,1 +1,3 @@
-1. rész: Baranya Megyei Katasztrófavédelmi Igazgatóság, Pécsi Katasztrófavédelmi Kirendeltség és Hivatásos Tűzoltó Parancsnokság építése és meglévő épület átalakítása 2 ütemben a KEHOP-1.6.0-15-2016-00013 azonosítószámú projekt keretében a Pécs, Engel János u. 1. sz. (35317/1 hrsz.) alatti ingatlanon meglévő épület részbeni bontásával/átalakításával és új laktanyaépület építésével. 2. rész: Baranya Megyei Katasztrófavédelmi Igazgatóság, Pécsi Katasztrófavédelmi Kirendeltség és Hivatásos Tűzoltó Parancsnokság építése a KEHOP-1.6.0-15-2016-00013 azonosítószámú projekt keretében a Pécs, Tüzér u. 30. (HRSZ:3685/39) szám alatti ingatlanon
+version https://git-lfs.github.com/spec/v1
+oid sha256:67f6cd4eae8d6eaad85f82effe81f63eb3d6697654d2b0883a3bde42760ebd25
+size 719

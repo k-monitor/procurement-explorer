@@ -1,18 +1,3 @@
-Debreceni	debreceni	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-Déli	Déli	PROPN	Case=Nom|Number=Sing	
-Gazdasági	Gazdasági	PROPN	Case=Nom|Number=Sing	
-Övezet	Övezet	PROPN	Case=Nom|Number=Sing	
-(	(	PUNCT	_	
-Északi	Északi	PROPN	Case=Nom|Number=Sing	
-rész	rész	NOUN	Case=Nom|Number=Sing	
-I.	1.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
-ütem	ütem	NOUN	Case=Nom|Number=Sing	
-)	)	PUNCT	_	
-ivóvíz	ivóvíz	NOUN	Case=Nom|Number=Sing	
-ellátó	ellátó	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-és	és	CONJ	_	
-szennyvíz	szennyvíz	NOUN	Case=Nom|Number=Sing	
-elvezető	elvezető	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-gerinchálózat	gerinchálózat	NOUN	Case=Nom|Number=Sing	
-kialakítása	kialakítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:367d8fa629ef7fa04159abe5f3c507edfaab6e678dae1c99085f366a924dcd8c
+size 788

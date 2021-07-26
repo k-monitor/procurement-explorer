@@ -1,1 +1,3 @@
-Megbízási szerződés a FIDIC mérnöki és műszaki ellenőri feladatok ellátására a „Kelet-Hajdúsági Ivóvízminőség-javító Projekt - KEOP-1.3.0/2F/09-2010-0029” című pályázathoz kapcsolódóan.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ae2f3bc6a0d29612e5dd55d4f738073e3497edda0fe8f7bf39015719cd54447b
+size 215

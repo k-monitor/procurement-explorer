@@ -1,1 +1,3 @@
-Földgáz beszerzése a Kaposvári Szakképzési Centrum tagintézményei részére
+version https://git-lfs.github.com/spec/v1
+oid sha256:8ea219816dcf1611c117905f6f55b9f47ca1882434ff88d97b22b30eb5fb1237
+size 83

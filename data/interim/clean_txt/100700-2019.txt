@@ -1,1 +1,3 @@
-állatállomány gondozás és az ez kapcsolódó üzemeltetési feladat ellátás
+version https://git-lfs.github.com/spec/v1
+oid sha256:d3a5d8923955c481b66ccc51578bc67eb0475395efb923f7eeaf472b502128d9
+size 82

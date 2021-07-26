@@ -1,1 +1,3 @@
-A Liget Budapest projekthez kapcsolódó Olof Palme Ház megvalósításához szükséges teljes körű építészeti és szakági tervezés.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0282cfabb393adafd6dc1d9b707520691f6426f111e56b2db7eb1f070236758e
+size 141

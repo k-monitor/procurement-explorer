@@ -1,1 +1,3 @@
-Villamos energia szállítása a 2021. január 1. – 2021. december 31. időszakra vonatkozóan, teljes ellátás alapú, fogyasztói menetrend adás nélküli villamos energia adásvételi szerződés keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7a8210dbdaeb29496de2c74daaf566edda4cd146e86425780dda386cb4a727d5
+size 214

@@ -1,1 +1,3 @@
-A hulladékgazdálkodási közszolgáltatási szerződés keretében a nyertes ajánlattevő köteles ellátni Győr Nagytérségi Hulladékgazdálkodási Önkormányzati Társulás működési területén a hulladékgazdálkodási közszolgáltatási feladatokat, valamint köteles üzemeltetni a kialakított települési szilárdhulladék-gazdálkodási rendszer eszközeit, berendezéseit és létesítményeit (az épületek takarítására is kiterjedően).
+version https://git-lfs.github.com/spec/v1
+oid sha256:3c57198fe1808fff6dd988fbfcdd17a93168907c2e399a4e0d71bd2c2877f17a
+size 463

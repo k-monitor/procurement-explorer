@@ -1,1 +1,3 @@
-Vállalkozási szerződés / Négy budapesti telephelyről (MTA TTK - 1025 Budapest, Pusztaszeri út 59-67.; MTA EI - 1113 Budapest, Karolina út 29-31; MTA KPI - 1132 Budapest, Victor Hugo u. 18-22. 1068 Budapest, Szondi u. 83-85.) 1117 Budapest, Magyar tudósok körútja 2. szám alatt található újonnan épített kutatóházba történő költöztetés
+version https://git-lfs.github.com/spec/v1
+oid sha256:3d6c1560235e7e0eb07501ef8781ebf12f7a92cffddae21787415f1f0336ef93
+size 359

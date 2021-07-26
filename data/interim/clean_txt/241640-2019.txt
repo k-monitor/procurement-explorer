@@ -1,14 +1,3 @@
-hajó és lapát beszerzés rész
-af
-ajánlati felhívás
-kd
-közbeszerzési dokumentáció
-ekrr
-2017. korm
-rend
-kbt.
-2015. évi
-törvény
-at
-ajánlattevő
-ak
+version https://git-lfs.github.com/spec/v1
+oid sha256:ff8dc7d35d0aaa65f97f15437dc5718e70d8e065e771ebfdd62a109a8f61f047
+size 158

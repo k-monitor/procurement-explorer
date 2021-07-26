@@ -1,5 +1,3 @@
-megbízási keretszerződés keret a miniszterelnökség
-illetőleg a mindenkor hatályos jogszabály szerinti
-az államháztartás alrendszer származó pénzeszköz felhasználás történő közbeszerzési eljárás
-illetve szerződés felügyelet ellátó szerv tevékenység segítő
-a mindenkor hatályos jogszabály alap fennálló feladat kapcsolódó közbeszerzési és jogi szakértői tanácsadás
+version https://git-lfs.github.com/spec/v1
+oid sha256:6a1ef070e915250c22dcfe53ce964f247f4a70ad46258102759971f74e368b6c
+size 409

@@ -1,1 +1,3 @@
-faipari gépsor és csomagoló gép beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:de45e599d5b1d68157505e25e35646b66ea390e59142bb827f2573bf1023f97d
+size 46

@@ -1,1 +1,3 @@
-év túli lejáratú beruházási hitel biztosítás pápa város önkormányzata önkormányzati feladat ellátás szolgáló beruházás finanszírozás az mfb önkormányzati infrastruktúrafejlesztési program keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:6346a1fdbea308e70a5de4c270e38bb2fd97e713f1ece8a070f15ae0cf62aa82
+size 219

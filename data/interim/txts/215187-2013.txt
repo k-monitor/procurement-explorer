@@ -1,1 +1,3 @@
-Vállalkozási szerződés az „M60 gyorsforgalmi út 58. sz. főút-5826. jelű összekötő út közötti szakasz építésének valamint kapcsolódó létesítményeinek kivitelezési feladatainak elvégzése ” tárgyában.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5af9c9815b001634b0ea40e7c9042b80f465215bb073ed0c4b439c946ab7949a
+size 229

@@ -1,1 +1,3 @@
-Gyári új, vagy legfeljebb 6 hónapos használt hulladéktároló edényzet beszerzése bérleti szerződés keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ab1d78dc7a9a9e12d4175fc9ce1aac30aaebd195f8de0464aaa3bb887859cb9c
+size 121

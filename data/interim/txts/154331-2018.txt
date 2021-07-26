@@ -1,1 +1,3 @@
-Debreceni Nemzetközi Iskola kivitelezési munkálatai.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0a7c1b18cd89b67cf898851902d580d4cb15af7e2760aa3797f767e5f2a22fb3
+size 55

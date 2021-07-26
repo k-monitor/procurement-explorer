@@ -1,9 +1,3 @@
-PTE	PTE	PROPN	Case=Nom|Number=Sing	
-Gyermekgyógyászati	gyermekgyógyászati	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-Klinika	Klinika	PROPN	Case=Nom|Number=Sing	
-felújításának	felújítás	NOUN	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-és	és	CONJ	_	
-bővítésének	bővítés	NOUN	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-kivitelezése	kivitelezés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:05b848f590982def6003f917a88a13e1d5a1cecf0ba74afe4f7ad107f0e2c41a
+size 454

@@ -1,2 +1,3 @@
-vállalkozási szerződés diákmunka közvetítés
-az ajánlatkérő által üzemeltetett szolgáltatási helyszín munkavállaló történő ellátás
+version https://git-lfs.github.com/spec/v1
+oid sha256:4925207aefff6dd8f2135740dc06c73db280b818851c1bd9e2c178448653d532
+size 152

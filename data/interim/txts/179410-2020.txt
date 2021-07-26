@@ -1,1 +1,3 @@
-Szemészeti anyagok beszerzése konszignációs raktár biztosításával a Somogy Megyei Kaposi Mór Oktató Kórház részére
+version https://git-lfs.github.com/spec/v1
+oid sha256:a21378e269274d75d17c075377c381e9f6bb301249d11afdd14574a7f8383c88
+size 128

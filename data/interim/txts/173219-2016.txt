@@ -1,1 +1,3 @@
-Gázenergia beszerzés a Belváros-Lipótváros Budapest Főváros V. kerületi Önkormányzat részére 2016–2017.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fe4d6c7ce29404035aa6bb73d5b0687cc28bf6ece27538d69b8445d711670aa6
+size 117

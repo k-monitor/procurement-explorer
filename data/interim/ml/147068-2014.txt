@@ -1,35 +1,3 @@
-1.	1.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
-rész	rész	NOUN	Case=Nom|Number=Sing	
-:	:	PUNCT	_	
-Hittudományi	hittudományi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-Egyetem	Egyetem	PROPN	Case=Nom|Number=Sing	
-kialakítása	kialakítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-a	a	DET	Definite=Def|PronType=Art	
-Debrecen	Debrecen	PROPN	Case=Nom|Number=Sing	
-,	,	PUNCT	_	
-Kálvin	kálvin	NOUN	Case=Nom|Number=Sing	
-tér	tér	PROPN	Case=Nom|Number=Sing	
-16.	16.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
-szám	szám	NOUN	Case=Nom|Number=Sing	
-alatti	alatti	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-épületben	épület	NOUN	Case=Ine|Number=Sing	
-.	.	PUNCT	_	
-
-2.	2.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
-rész	rész	NOUN	Case=Nom|Number=Sing	
-:	:	PUNCT	_	
-Levéltár	Levéltár	PROPN	Case=Nom|Number=Sing	
-és	és	CONJ	_	
-könyvtár	könyvtár	NOUN	Case=Nom|Number=Sing	
-kialakítása	kialakítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-a	a	DET	Definite=Def|PronType=Art	
-Debrecen	Debrecen	PROPN	Case=Nom|Number=Sing	
-,	,	PUNCT	_	
-Füvészkert	füvészkert	NOUN	Case=Nom|Number=Sing	
-u.	u.	PROPN	Case=Nom|Number=Sing	
-2.	2.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
-szám	szám	NOUN	Case=Nom|Number=Sing	
-alatti	alatti	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-épületben	épület	NOUN	Case=Ine|Number=Sing	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:917660a46f7b34e0a6a597085e5f7ec48fc232bdc8e30b290cb86bba231bb76d
+size 1340

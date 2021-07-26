@@ -1,2 +1,3 @@
-szállítási szerződés havi eh
-orvosi vizsgáló és sebészeti kesztyű beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:530e636691e41f7196e274b0be3bd1cb20c2a4f6c841ceaaf1d6aa3d37e0bad4
+size 86

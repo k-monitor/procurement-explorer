@@ -1,1 +1,3 @@
-24 MW-os turbina 2020. évi szervizelése
+version https://git-lfs.github.com/spec/v1
+oid sha256:b5eef566c5d0c3f98ff31407d3fa972fbb6084609919f6e3ecf15729d8350978
+size 41

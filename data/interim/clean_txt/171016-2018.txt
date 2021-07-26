@@ -1,1 +1,3 @@
-a műszaki leírás részletes meghatározott személygépjármű havi zárt végű pénzügyi lízing-konstrukció keret történő beszerzés a közlekedési központ és víziközmű társaság részére az univerzál beszerző kft. lebonyolítás
+version https://git-lfs.github.com/spec/v1
+oid sha256:b34463da20cfb34b57fbe5ddb4cacc112271717bb33af52ab25f961ef2807b81
+size 250

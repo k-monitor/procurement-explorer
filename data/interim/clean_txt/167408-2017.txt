@@ -1,1 +1,3 @@
-különféle fertőtlenítőszer és steril takarítóanyag beszerzés rész a somogy megyei kaposi mór oktató kórház részére határidős adásvételi szerződés keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:9fb1c58687aaeb2135de1b73df0597b91892958d183e6846f678c5c7deb7b68c
+size 174

@@ -1,5 +1,3 @@
-nagy számítási kapacitású
-min. tflops
-szerver és a ő kapcsolódó diszk alrendszer
-storage
-beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:1085cea2b97cfeab83fb66ccaddf8817ec835ad5df0947c88a5d95acd318949e
+size 108

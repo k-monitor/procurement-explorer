@@ -1,1 +1,3 @@
-Vállalkozási szerződés diagnosztikai készülékek javítása, szervizelése tárgyban. Az Ajánlatkérő „full” szerződésre kér ajánlatot. Az Ajánlattevőnek a szerződés keretében folyamatosan el kell végezni és dokumentálni az „egészségügyi eszközökre” jogszabály által előírt biztonsági felülvizsgálatokat.
+version https://git-lfs.github.com/spec/v1
+oid sha256:182d0772eed60dc126c6aa35e84698f40a4a039ab7b9ac2c356077972319e730
+size 344

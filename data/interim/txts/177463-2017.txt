@@ -1,1 +1,3 @@
-Az Önkormányzati ASP 2.0 országos kiterjesztésének megvalósításához kapcsolódó naplózó rendszer megoldása és információbiztonsági szakértői támogatása Vállalkozási szerződés keretében a jelen felhívásban és a közbeszerzési dokumentumokban meghatározottak szerint.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f54c24c27862523be3786ce578f0e6c500c5039952dff925c5b2ce029fd81861
+size 296

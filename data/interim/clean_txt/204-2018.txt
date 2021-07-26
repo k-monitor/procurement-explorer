@@ -1,1 +1,3 @@
-adásvételi szerződés keret ajánlatkérő az intézmény részére hús-húskészítmény hónap kíván megvásárol
+version https://git-lfs.github.com/spec/v1
+oid sha256:d32bbd0fb6a4f6b6a904496dff05ffa43cfa662198e3dd13d53b1627cec8f031
+size 121

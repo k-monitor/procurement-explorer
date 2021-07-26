@@ -1,7 +1,3 @@
-a vekop-5
-1-15-2016-00009 azonosítószámú
-dél-budapesti kerékpárosbarát fejlesztés
-megnevezésű projekt megvalósítás szükséges komplett engedélyezési és kiviteli tervdokumentáció elkészítés és a megvalósítás szükséges valamennyi jogerős engedély beszerzés
-a kivitelező kiválasztás irányuló közbeszerzési eljárás alatti rendelkezés állás
-ajánlatkérő részére nyújtandó tanácsadás
-valamint a tervezői művezetési feladat ellátás rész
+version https://git-lfs.github.com/spec/v1
+oid sha256:9e38c507968ef3e89b9ddb8dbb3a05c9581a0b41de1e81c221e650e7bc2feb0a
+size 487

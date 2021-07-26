@@ -1,2 +1,3 @@
-a központi konyha 1.8.2016
-31.7.2017 közti időszak történő élelmiszer alapanyag szállító kiválasztás
+version https://git-lfs.github.com/spec/v1
+oid sha256:afd36ff15720ea943f2fa051d36e1e996e7d5225269d3be6a4033df8b9e05271
+size 112

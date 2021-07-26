@@ -1,18 +1,3 @@
-K1854	K1854	PROPN	Case=Nom|Number=Sing	
-Fővárosi	Fővárosi	PROPN	Case=Nom|Number=Sing	
-Közterület-fenntartó	Közterület-fenntartó	PROPN	Case=Nom|Number=Sing	
-Zártkörűen	zártkörű	ADJ	Case=Ess|Degree=Pos|Number=Sing	
-Működő	működő	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-Nonprofit	nonprofit	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-Részvénytársaság	részvénytársaság	NOUN	Case=Nom|Number=Sing	
-Hulladékhasznosító	hulladékhasznosító	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-Mű	mű	PROPN	Case=Nom|Number=Sing	
-Üzemben	üzem	NOUN	Case=Ine|Number=Sing	
-üzemelő	üzemelő	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-5	5	NUM	Case=Nom|NumType=Card|Number=Sing	
-db	db	NOUN	Case=Nom|Number=Sing	
-abszorber	abszorber	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-egység	egység	NOUN	Case=Nom|Number=Sing	
-szervizelése	szervizelés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:3140a594e8d6a0a873ef74ad964b116daffb14616dcdee4319b160176492e6b4
+size 959

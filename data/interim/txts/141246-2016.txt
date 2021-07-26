@@ -1,1 +1,3 @@
-Magyarország különböző földterületein, az összes megyére kiterjedően, részben kézi, részben gépi kaszálással történő parlagfű irtási valamint ehhez kapcsolódó járulékos (részleges bozótirtási) munkák elvégzése két ütemben, a szerződés terhére kibocsátandó megrendelések alapján.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b8f0d94caf7b093f12dc30e260c1898ae7feb1891ef231f40a97e8cfa9d81250
+size 318

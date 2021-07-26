@@ -1,25 +1,3 @@
-A	a	DET	Definite=Def|PronType=Art	
-Tokaj-hegyaljai	Tokaj-hegyaljai	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-történelmi	történelmi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-borvidék	borvidék	NOUN	Case=Nom|Number=Sing	
-kultúrtáj	kultúrtáj	NOUN	Case=Nom|Number=Sing	
-világörökségi	világörökségi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-helyszínre	helyszín	NOUN	Case=Sub|Number=Sing	
-és	és	CONJ	_	
-védőövezetére	védőövezet	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-vonatkozó	vonatkozó	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-világörökségi	világörökségi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-kezelési	kezelési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-terv	terv	NOUN	Case=Nom|Number=Sing	
-szakmai	szakmai	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-előkészítésére	előkészítés	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-szolgáló	szolgáló	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-megalapozó	megalapozó	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-dokumentáció	dokumentáció	NOUN	Case=Nom|Number=Sing	
-és	és	CONJ	_	
-világörökségi	világörökségi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-kezelési	kezelési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-terv	terv	NOUN	Case=Nom|Number=Sing	
-elkészítése	elkészítés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:b6ae00bab3ecf91d6747a261dddcc70b822e2eb621530ec6a67024b798bbf37d
+size 1387

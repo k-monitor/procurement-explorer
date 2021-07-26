@@ -1,1 +1,3 @@
-„RAPID 7 NEXPOSE (vagy azzal egyenértékű) IT Sérülékenység menedzsment rendszer beszerzése KBF/538/2018” NEXPOSE Annual Subscription licence használat, bevezetéshez kapcsolódó tanácsadási feladat, Nexpose Dedicated Perimeter Security Engine szolgáltatás, integrátori támogatás, opcionálisan Rapid7 Nexpose Dedicated Perimeter Security Engine szolgáltatás
+version https://git-lfs.github.com/spec/v1
+oid sha256:6d5dbd768b48d77f33de77e7ece87f54109f2f269803ff8646fbf573b54aab4d
+size 380

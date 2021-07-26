@@ -1,10 +1,3 @@
-Szállítási	Szállítási	PROPN	Case=Nom|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-,	,	PUNCT	_	
-Tiszavasvári	tiszavasvári	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-,	,	PUNCT	_	
-élelmiszer	élelmiszer	NOUN	Case=Nom|Number=Sing	
-nyersanyagok	nyersanyag	NOUN	Case=Nom|Number=Plur	
-beszerzésére	beszerzés	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:6d993db39ef8ccc629522e53b79ea119b6ebb2ae3f37329002b967e39caa6aaa
+size 400

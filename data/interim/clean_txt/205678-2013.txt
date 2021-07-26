@@ -1,1 +1,3 @@
-megbízási szerződés a és sz. főút nádasd-hegyhátsál-katafa közös elkerülő szakasz 44+010-50+000 km szelvény közötti kivitelezési munka szükséges mérnöki feladat ellátás
+version https://git-lfs.github.com/spec/v1
+oid sha256:6ffca4c1a5880a33c1be80401b154bbc1081e43d5a01cfafb432b157322358eb
+size 192

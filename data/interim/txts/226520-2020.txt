@@ -1,1 +1,3 @@
-Adásvételi szerződés eszközbeszerzésre a Szent Lázár Megyei Kórház 1098/2018. (III. 19.) Kormányhatározatban foglalt "Családbarát, családközpontú szülészeti és koraszülött intenzív ellátás infrastrukturális feltételeinek fejlesztéséhez kapcsolódóan" Hordozható inkubátor 1 db, Újszülött hallásvizsgáló 1 db, Neopuff 1 db, SIPAP készülék 1 db, Klinikai inkubátor 2 db, Újszülött újraélesztő asztal 1 db, Videolaringoszkóp 1 db, Csecsemőmérleg 3 db, Kékfény lámpa 1 db, Hűtőszekrény anyatej tárolásához 1 db, Egyszer használatos eszközök 1 készlet
+version https://git-lfs.github.com/spec/v1
+oid sha256:bb926f9147735a49874760034ad27184d293a1ff760bc8ec777a59eac0b9d12e
+size 610

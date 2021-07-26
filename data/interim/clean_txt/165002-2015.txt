@@ -1,10 +1,3 @@
-kenyér
-péksütemény
-cukrászsütemény élelmiszer szállítás irányuló szállítási szerződés a bácsborsódi
-őszi napfény
-integrál szociális intézmény ajánlatkérő és az
-a melléklet
-pont megnevezett
-harmónia
-integrált szociális intézmény
-valamint a pszichiátriai beteg és fogyatékos személy otthon részére
+version https://git-lfs.github.com/spec/v1
+oid sha256:6dfa8084d6c64d1b596409440ead0eea2a9282987b436c8b774dc07dd57352b4
+size 337

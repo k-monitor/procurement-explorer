@@ -1,5 +1,3 @@
-szerződés megnevezés
-hitelszerződés szerződés tárgy
-év túli futamidejű
-huf összegű hitel nyújtás hitelszerződés keret a tla kft. részére
-építőipari kivitelezési tevékenység elvégeztetés értéknövelő beruházás végrehajtás szükséges forrás biztosítás érdek
+version https://git-lfs.github.com/spec/v1
+oid sha256:7253eee34a94aa5a31393d6780c04e169b7074b41d3f52b4ed6b45c859199a31
+size 294

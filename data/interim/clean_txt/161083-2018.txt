@@ -1,1 +1,3 @@
-zalaegerszegi városi uszoda fejlesztés a modern város program keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:a94552a58642e8ab777b19b7f7e511756375fec076b17f21422b65650f51c991
+size 70

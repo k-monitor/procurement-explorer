@@ -1,1 +1,3 @@
-Vállalkozási szerződés / A Magyar Honvédség katasztrófavédelemmel összefüggő beavatkozási képességének fejlesztése -technikai eszközök felújítása – KEHOP 1.6.0. 1. részajánlati kör: 8 klt PTSZ-M közepes lánctalpas úszó gépkocsi felújítása. 2. részajánlati kör: 3 klt üzemanyag szállító/töltő gépjármű felújítása, átépítése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1d8ab76d681704cc8eb57adfa03fbab7490b33755683be0aa04945dc7dc6e005
+size 376

@@ -1,1 +1,3 @@
-Megbízási szerződés a 62. sz. főút 26+400-36+960 km sz. közötti Seregélyes elkerülő szakasz kivitelezéséhez kapcsolódó Mérnöki munkák elvégzésére.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c1c907cb84326e0fce8e0c76f37cded1f50e7f6e75788deb630a16aed474ea63
+size 167

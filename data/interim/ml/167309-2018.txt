@@ -1,18 +1,3 @@
-Kiskörei	kiskörei	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-Vízerőmű	vízerőmű	NOUN	Case=Nom|Number=Sing	
-környezetének	környezet	NOUN	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-turisztikai	turisztikai	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-és	és	CONJ	_	
-sportcélú	sportcélú	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-fejlesztése	fejlesztés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
--	-	PUNCT	_	
-Szlalom	szlalom	NOUN	Case=Nom|Number=Sing	
-Kajak-Kenu	kajak-kenu	NOUN	Case=Nom|Number=Sing	
-pálya	pálya	NOUN	Case=Nom|Number=Sing	
-engedélyezési	engedélyezési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-tervdokumentáció	tervdokumentáció	NOUN	Case=Nom|Number=Sing	
-elkészítése	elkészítés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-és	és	CONJ	_	
-engedélyeztetése	engedélyeztetés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:d8481c019d5bb0a20b53eda345fa241d98f02a37ebbdef56fca2da649df22fbc
+size 914

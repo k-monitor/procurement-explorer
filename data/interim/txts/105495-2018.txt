@@ -1,1 +1,3 @@
-Megbízási szerződés az „Észak-Magyarországi szennyvízelvezetési és -kezelési fejlesztés 6. (ÉMO6)” elnevezésű, KEHOP- 2.2.2-15-2015-00042 azonosítószámú projekt keretében műszaki ellenőri tevékenység ellátására.
+version https://git-lfs.github.com/spec/v1
+oid sha256:51726c73f2544b1f20139e6c9952161a454cd57db33ce78f68f1f5d5bcd059de
+size 241

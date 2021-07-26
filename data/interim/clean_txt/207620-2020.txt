@@ -1,16 +1,3 @@
-jelen közbeszerzés tárgy gyorsforgalmi út áteresz karbantartás az m3 autópálya
-1. rész
-és az m7 autópálya
-2. rész
-meghatározott szakasz
-vállalkozási keretszerződés alap az egyes rész szerinti keretösszeg
-alap
-és opciós összeg együtt
-kimerülés
-de későn a szerződés hatály lépés számított 24. hónap utolsó nap tartó
-adott eset további legfeljebb hónap megnövelt
-határozott időtartam lejárta
-az áteresz karbantartás maga foglal az állapotfelmérés
-tisztítás
-kamerázás
-és a rövidszakaszos csatornarekonstrukció
+version https://git-lfs.github.com/spec/v1
+oid sha256:1fc6a9e3083da9475df77c187857a0c847e4288f2deeeab24b83ec1985df2231
+size 561

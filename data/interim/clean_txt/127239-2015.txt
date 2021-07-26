@@ -1,1 +1,3 @@
-munkaállomás és monitor beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:64ebabca1a0504793104d046dc24707de6da0de9eff468e81ca694704de2dba2
+size 37

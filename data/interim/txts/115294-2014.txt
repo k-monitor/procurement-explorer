@@ -1,1 +1,3 @@
-Szolgáltatási keretszerződés médiavásárlási feladatok ellátására.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7068ace1d33c6ecbd109977656c7e37bbb4c5ae35c5958a080e190144ea9d3db
+size 76

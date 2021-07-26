@@ -1,1 +1,3 @@
-Képalkotó berendezések adásvétele és a meglévő elavult berendezések cseréje a Felső-Szabolcsi Kórház részére a KEOP-5.6.0/E/15 számú pályázati konstrukció keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f8ac33bb608731243f272c1e87a98fa37384258e2dbb29e4e2c9451f6a757645
+size 186

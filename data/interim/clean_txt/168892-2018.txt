@@ -1,2 +1,3 @@
-keretmegállapodás alap mintaszállító dízel gépjármű beszerzés szigetelt
-hűtött raktér
+version https://git-lfs.github.com/spec/v1
+oid sha256:07cce40adaaf5ceaf5e7199451e88b4a69c50f58696c34fc8c2672020a811912
+size 98

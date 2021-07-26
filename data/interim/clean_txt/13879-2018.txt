@@ -1,2 +1,3 @@
-vállalkozási szerződés közvilágítás aktív valamint díszvilágítás aktív és passzív elem
-továbbá forgalomtechnikai berendezés üzemeltetés győr város közigazgatási terület belül
+version https://git-lfs.github.com/spec/v1
+oid sha256:d802199c5e053685d974974688ae0a9a6d00061d8f4d755235ba7ad1b68759d4
+size 201

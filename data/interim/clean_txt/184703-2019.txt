@@ -1,4 +1,3 @@
-kivitelezési munkálat elvégzés az efop-2
-6-vekop-16-2016-00001 azonosítószámú
-pszichiátriai ellátórendszer strukturált fejlesztés
-megnevezésű projekt keret a nyírő gyula országos pszichiátriai és addiktológiai intézet terület
+version https://git-lfs.github.com/spec/v1
+oid sha256:f4b61b2f4bdaa7bac2e22e20f4365a99a31e889ffb614b6f701b38e4acec2660
+size 248

@@ -1,1 +1,3 @@
-DEK-766_Adásvételi szerződés a Debreceni Egyetem Klinikai Központ Sebészeti Klinika részére ultrahangos szövet disszekciós eszköz és tartozékainak beszerzésére 1 db ultrahangos szövet disszekciós eszköz konzollal, lábpedállal, sebészeti felhasználásra. A részletes paramétereket a Műszaki leírás tartalmazza.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bd69966062c68e6e768fb6bfeaf93e597d96712e1720c80f8a7fd83a49d8d68a
+size 336

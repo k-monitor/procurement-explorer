@@ -1,33 +1,3 @@
-A	a	DET	Definite=Def|PronType=Art	
-Központi	Központi	PROPN	Case=Nom|Number=Sing	
-Statisztikai	Statisztikai	PROPN	Case=Nom|Number=Sing	
-Hivatal	Hivatal	PROPN	Case=Nom|Number=Sing	
-kérdőíveinek	kérdőív	NOUN	Case=Gen|Number=Plur|Number[psor]=Sing|Person[psor]=3	
-és	és	CONJ	_	
-mellékleteinek	melléklet	NOUN	Case=Gen|Number=Plur|Number[psor]=Sing|Person[psor]=3	
-,	,	PUNCT	_	
-kiadványainak	kiadvány	NOUN	Case=Gen|Number=Plur|Number[psor]=Sing|Person[psor]=3	
-,	,	PUNCT	_	
-egyéb	egyéb	PRON	Case=Nom|Number=Sing|Person=3|PronType=Ind	
-publikációinak	publikáció	NOUN	Case=Gen|Number=Plur|Number[psor]=Sing|Person[psor]=3	
-nyomdai	nyomdai	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-előállítása	előállítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-,	,	PUNCT	_	
-expediálási	expediálási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-,	,	PUNCT	_	
-postai	postai	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-feladásra	feladás	NOUN	Case=Sub|Number=Sing	
-történő	történő	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-előkészítési	előkészítési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-munkáinak	munka	NOUN	Case=Gen|Number=Plur|Number[psor]=Sing|Person[psor]=3	
-elvégzése	elvégzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-Ajánlattevő	ajánlattevő	NOUN	Case=Nom|Number=Sing	
-által	által	ADP	_	
-biztosított	biztosított	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPast	
-berendezéseken	berendezés	NOUN	Case=Sup|Number=Plur	
-,	,	PUNCT	_	
-vállalkozási	vállalkozási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:9616d2f6f9987cd0e4e4ad7c9a19dc88e930bc6c6aff13d17f277e64b5b48bd1
+size 1710

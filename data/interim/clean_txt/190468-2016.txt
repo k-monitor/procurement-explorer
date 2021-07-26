@@ -1,1 +1,3 @@
-aggregátor karbantartás és javítás a pécsi tudományegyetem részére szolgáltatási keretszerződés keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:d3470c54868e155d5dd445833d3e4fe760936364feef4679e65847878745e2ed
+size 114

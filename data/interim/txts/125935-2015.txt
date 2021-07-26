@@ -1,1 +1,3 @@
-Bérleti szerződés – a 2015-ös Forma 1 Magyar Nagydíj magyar adásainak megvalósításához szükséges HD mobil közvetítő egység bérlete, műszaki személyzettel tárgyában.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cbf7e1a1c7e25eab217c7de4ed005db424e07390b6acd92b4f900399d363230a
+size 187

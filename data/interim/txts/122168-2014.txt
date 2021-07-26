@@ -1,1 +1,3 @@
-Szállítási szerződés szemlencsék beszerzésére. Az ajánlattevőknek biztosítaniuk kell a megajánlott szemlencsék beültetéséhez szükséges technikai feltételeket is, beleértve a szükséges műszereket és a hajlítható lencsék esetében az injektorokat is. Ez utóbbi tekintetében elfogadható az is, ha az injektor a lencséhez csomagolva található (egyszer használatos), illetve ha megfelelő számú, újrasterilizálható injektor rendelkezésre állását biztosítja az ajánlattevő a Klinika számára.
+version https://git-lfs.github.com/spec/v1
+oid sha256:36da9bf214f05c71268f377c39a7bc0bb5fd2d36a0c12d496175738e50f95aff
+size 533

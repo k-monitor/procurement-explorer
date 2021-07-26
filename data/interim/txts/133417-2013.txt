@@ -1,1 +1,3 @@
-Vállalkozási szerződés/ Magyarország különböző földterületein, az összes megyére kiterjedően, részben kézi, részben gépi kaszálással, vagy vegyszerrel történő parlagfű irtási valamint ehhez kapcsolódó járulékos (részleges bozót irtási és belterületek esetében a keletkezett növényi hulladék elszállítási) munkák végzése két ütemben, a szerződés terhére kibocsátandó megrendelések alapján.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7b6f4a6a4320fca0f633f6ee1bae5636705b40d6e1ec98e1668b7bcb074a39ce
+size 441

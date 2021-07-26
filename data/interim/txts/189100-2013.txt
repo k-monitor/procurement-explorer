@@ -1,1 +1,3 @@
-Vállalkozási szerződés a „Szentendrei szennyvíz-agglomerációhoz tartozó települések csatornahálózatának bővítése” tárgyú projekt keretében FIDIC Sárga Könyv szerinti kivitelezési feladatok ellátására - KEOP-1.2.0/B-10-2010-0061
+version https://git-lfs.github.com/spec/v1
+oid sha256:48cf28ba12d6e9a3f95b4f41b4fdeef43ed8bd02c5274ba53a770748f9a3eead
+size 256

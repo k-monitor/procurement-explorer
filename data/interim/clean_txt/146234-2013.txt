@@ -1,33 +1,3 @@
-vállalkozási keretszerződés az a máv zrt. és a máv-start zrt. kreatív és médiavásárlási feladat ellátás
-és pr tevékenység szükséges munka elvégzés
-média
-és márkakommunikációs stratégia kidolgozás
-médiakampány tervezés
-médiavásárlás
-kampány utóértékelés és kutatás elkészítés
-kreatív marketing kommunikációs stratégia és márkakommunikáció tervezés
-üzenet megfogalmazás
-kreatív tervezés
-kreatív megvalósítás és gyártás
-átfogó pr stratégia kidolgozás
-előzetes és
-vagy utólagos kríziskivédési rendszer üzemeltetés
-sajtóanyag
-sajtóközlemény
-hírlevél
-pr cikk
-honlap megjelenő cikk
-kiadvány teljes körű elkészítés
-külföldi és belföldi sajtólista összeállítás
-interjú
-sajtótájékoztató
-sajtóbeszélgetés
-és egyéb pr rendezvény teljes körű szervezés
-dokumentálás
-dm levél
-meghívó expediálás
-folyamatos kapcsolattartás a sajtó képviselő
-pr szakértői konzultáció
-keretösszeg
-nettó huf
-összesen nettó huf
+version https://git-lfs.github.com/spec/v1
+oid sha256:83d8069a9e8061214d03b099c6bfc808cd727fa9bb15b821a6f4cceb88c6638c
+size 1023

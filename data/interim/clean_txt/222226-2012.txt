@@ -1,1 +1,3 @@
-beruházási hitelszerződés
+version https://git-lfs.github.com/spec/v1
+oid sha256:a9acbf5afb46d57df865f9a5c813ba5d17828a642452495f39271603df2d7c24
+size 29

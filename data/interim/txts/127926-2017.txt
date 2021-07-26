@@ -1,1 +1,3 @@
-Gép-, és gépjármű kenőanyagok beszerzése és szállítása.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8964e0f9cc17d51f7a3a3befd203ace67fc689cf4c872b7afa42aabb462ec247
+size 66

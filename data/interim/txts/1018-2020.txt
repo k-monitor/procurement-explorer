@@ -1,1 +1,3 @@
-Az Egészséges Budapest Program keretében a 1032 Budapest, Vörösvári út 88-89. szám alatti rendelőintézet átalakítása és felújítása.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cb2c5e82d02d1fdcee85816f3ba96bd23084cfcd3bd4c3451cf61245194c196e
+size 148

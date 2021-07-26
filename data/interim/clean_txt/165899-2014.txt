@@ -1,4 +1,3 @@
-földgáz energia szállítás
-1.7.2015
-teljesítési időszak vonatkozó
-teljes ellátás alapú földgáz energia szállítási szerződés keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:b36b1b215c2dbcaee02a3800322280a896ddb7fddae28799fdf7bda23a501a62
+size 147

@@ -1,1 +1,3 @@
-Keretszerződés irodabútorok és egyéb kiegészítő bútorok szállítása tárgyában a Kormányablakok egységes arculatának megvalósításában. Ajánlatkérő a Polgári Törvénykönyvről szóló 2013. évi V. törvény 6:59. § (2) bekezdésében foglalt lehetőséggel élve állapítja meg a szerződéstervezet tartalmát.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b6a0ff1a5eb37d521ce6e964831dd4bfdc24d123de194fa71ac1313540748201
+size 338

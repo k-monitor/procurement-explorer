@@ -1,1 +1,3 @@
-mederkezelési terv készítés és védelmi terv digitalizálás
+version https://git-lfs.github.com/spec/v1
+oid sha256:6458246aec2541b7fe5e3aff150fae7b2ce956db644108be1c1d5d66d4de8001
+size 65

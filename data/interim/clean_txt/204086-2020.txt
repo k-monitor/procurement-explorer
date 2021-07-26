@@ -1,10 +1,3 @@
-adásvételi szerződés keret az mtva részére gépjármű beszerzés rész-ajánlattételi lehetőség
-1-es rész mtva rész db mikrobusz beszerzés
-ii rész mtva rész db 4x4-es suv
-egyterű
-beszerzés
-a ii
-2.4
-pont és közbeszerzési dokumentum
-kd
-foglalt szerint
+version https://git-lfs.github.com/spec/v1
+oid sha256:9ee732746e7cdd0e957f5e3c8b7dea7ce9deab301999ebc5439e1da46bb27559
+size 269

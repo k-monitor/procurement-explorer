@@ -1,1 +1,3 @@
-Szállítási szerződés keretében a „Kelet-Nógrádi hulladékgazdálkodási rendszer fejlesztése eszközbeszerzésekkel” című KEOP-1.1.1/C/13-2013-0013 számú projekt megvalósításához szükséges eszközök beszerzése – Gyűjtőjárművek, valamint gép beszerzése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bc03612be7783ed13902388d8e344e98edb278d1423f317aa7edf6104eaf45b0
+size 285

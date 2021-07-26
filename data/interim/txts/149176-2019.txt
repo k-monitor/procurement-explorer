@@ -1,1 +1,3 @@
-Ajánlatkérő az Egészséges Budapest Program keretében tervezi felújítani a Szent Margit Rendelőintézet Budapest, III. kerület, Vörösvári út 88–96., Laktanya utca 4. és Csobánka tér 6. szám alatti épületeit, jelen eljárás tárgya a 3 ingatlan felújításához szükséges koncepció és kiviteli tervek, valamint árazatlan és árazott költségvetés elkészítése, normaárak alapján.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b625bff63d37d3769c93150ff3d24232052e9892856c0372271d06bf1dceb88d
+size 413

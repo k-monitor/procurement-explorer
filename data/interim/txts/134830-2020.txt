@@ -1,1 +1,3 @@
-Ipoly-híd építése Ipolydamásd–Chl’aba között 1. rész: Ipolydamásd–Chl’aba (Helemba) közötti híd 2. rész: Csatlakozó út építése magyar oldalon az Ipoly-hídig 3. rész: Csatlakozó út építése szlovák oldalon az Ipoly-hídig
+version https://git-lfs.github.com/spec/v1
+oid sha256:df6aff7ca7601186979e8a559a1a674720f9583e86019a7a9bc0f1bca1305b4b
+size 253

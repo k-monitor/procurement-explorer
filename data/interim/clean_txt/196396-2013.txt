@@ -1,6 +1,3 @@
-megbízási keretszerződés stratégiai kommunikációs
-pr ügynökségi
-valamint kreatív feladat kapcsolatos szolgáltatói és tanácsadói feladat ellátás tárgy a
-tájékoztatás
-nyilvánosság kapcsolatos feladat ellátás a miskolc és agglomeráció digitális közösség elnevezésű program
-ajánlatkérő eseti megrendelés megfelelő
+version https://git-lfs.github.com/spec/v1
+oid sha256:43fe0bbf7b6cf60bd01f4316831d53b960a6170ca381298815e2f99c941aeb54
+size 349

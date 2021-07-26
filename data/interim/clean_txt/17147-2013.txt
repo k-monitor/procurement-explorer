@@ -1,5 +1,3 @@
-szállítási keretszerződés
-boríték
-irodaszer leszállítás 1. részajánlat
-boríték 2. részajánlat
-író
+version https://git-lfs.github.com/spec/v1
+oid sha256:98164ad359fb122954d58027a9a8cb895f271a175599d97b763035a3d53197d4
+size 115

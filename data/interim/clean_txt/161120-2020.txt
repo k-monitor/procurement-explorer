@@ -1,9 +1,3 @@
-fajta és mennyiség szerint meghatározott dolog határidős adásvétel
-zárt vérvételi rendszer fogyóanyag szállítás
-valamint a szerződés teljesítés időtartam alatt vér-süllyedési vizsgálat elvégzés lehető tévő laboratóriumi automata berendezés rendelkezés bocsátás és működőképesség biztosítás az ajánlati felhívás és a közbeszerzési dokumentum részletezett szerint a felhívás ii
-1.6
-pont
-a részajánlat tétel kizárás indok
-a beszerez kívánt rendszer elem
-egymás kompatibilis és együttműködő egység kell képez
-bármely egység rendszer történő kiemelés és külön rész történő szerepeltetés a funkcionális egység megbomlás vezet és funkcionális veszteség okoz
+version https://git-lfs.github.com/spec/v1
+oid sha256:e7bfdc6230dd9701e83562f1c93ff2cfb3ffb7c697873ce24c085a58e044ac78
+size 735

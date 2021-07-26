@@ -1,1 +1,3 @@
-2017-2018. évi felújítandó útvonalak engedélyezési és kiviteli terveinek elkészítése – 3., 4. és 5. tervezési csomag.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6c1040e00e8aa6dbf1d93fac70897dfaf8d7ce0809cbfabc38e26c04eba52aec
+size 132

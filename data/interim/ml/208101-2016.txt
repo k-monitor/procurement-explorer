@@ -1,34 +1,3 @@
-10	10	NUM	Case=Nom|NumType=Card|Number=Sing	
-300	300	NUM	Case=Nom|NumType=Card|Number=Sing	
-m³	m³	NOUN	Case=Nom|Number=Sing	
-(	(	PUNCT	_	
-+	+	PUNCT	_	
-15	15	NUM	Case=Nom|NumType=Card|Number=Sing	
-%	%	PUNCT	_	
-)	)	PUNCT	_	
-mennyiségű	mennyiségű	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-kommunális	kommunális	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-és	és	CONJ	_	
-építési	építési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-hulladék	hulladék	NOUN	Case=Nom|Number=Sing	
-(	(	PUNCT	_	
-Azonosító	azonosító	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-kód	kód	NOUN	Case=Nom|Number=Sing	
-:	:	PUNCT	_	
-20	20	NUM	Case=Nom|NumType=Card|Number=Sing	
-03	03	NUM	Case=Nom|NumType=Card|Number=Sing	
-99	99	NUM	Case=Nom|NumType=Card|Number=Sing	
-és	és	CONJ	_	
-/	/	PUNCT	_	
-vagy	vagy	CONJ	_	
-20	20	NUM	Case=Nom|NumType=Card|Number=Sing	
-03	03	NUM	Case=Nom|NumType=Card|Number=Sing	
-07	07	NUM	Case=Nom|NumType=Card|Number=Sing	
-)	)	PUNCT	_	
-összegyűjtése	összegyűjtés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-,	,	PUNCT	_	
-elszállítása	elszállítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-és	és	CONJ	_	
-kezelése	kezelés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:3a7f605fceb47c615e8013381594ebc6312edb52c7c3b47ab2c0804787ae2c7a
+size 1230

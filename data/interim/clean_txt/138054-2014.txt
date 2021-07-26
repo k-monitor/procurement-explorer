@@ -1,1 +1,3 @@
-keretmegállapodás megkötés a semmelweis egyetem vagyonkezelés lévő ingatlan építési jellegű eseti és ütemezett karbantartási tevékenység végzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:4e5f4b671f947e4133210f11e7b916c93431a029a20c7a745a9f8cff977d89b2
+size 161

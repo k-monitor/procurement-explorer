@@ -1,1 +1,3 @@
-az ftc-mvm sportközpont a ferencvárosi torna club népligeti sportközpont részére gőzhőenergia vétel
+version https://git-lfs.github.com/spec/v1
+oid sha256:538e94a2c8049ed01677d6a6e745cf5f381d4568a8540d422cef799eb41c2855
+size 108

@@ -1,1 +1,3 @@
-Ajánlatkérő számára a szerződés időtartama alatt (12 hónap) különféle élelmiszerek (1-15 rész) (becsült érték nettó 106 500 000 HUF) beszerzése a dokumentáció szerinti specifikációban meghatározott mennyiségben. Eltérés a kiírás szerinti mennyiségtől +20%.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3800e8492330cdb47ab507e4762c207f80b4c6251813e5e34006162e37ecc0c7
+size 287

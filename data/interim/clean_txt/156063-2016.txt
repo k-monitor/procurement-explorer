@@ -1,20 +1,3 @@
-adásvételi szerződés
-db normál nyomtávú
-mm
-egyáramnemű
-kv hz
-részleges
-legalább
-alacsonypadlós
-min. fix ülőhelyes regionális villamos motorvonat szállítás
-üzem helyezés illetőleg kapcsolódó szolgáltatás
-különösen
-üzemeltetési
-karbantartási dokumentáció
-oktatás
-szoftver
-diagnosztika
-üzemeltetési készlet
-teljesítés a dokumentáció és az az rész képező szerződéstervezet
-valamint a műszaki feltétfüzet részletezett szerint a gysev zrt. részére ikop-2
-0-2016-00010 projekt keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:14faf2cc3b2ecc7b211ff161d554329c987f7996b05de520efa6013c36b65eb2
+size 528

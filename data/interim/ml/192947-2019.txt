@@ -1,22 +1,3 @@
-Kivitelezési	kivitelezési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-közbeszerzés	közbeszerzés	NOUN	Case=Nom|Number=Sing	
-eljárás	eljárás	NOUN	Case=Nom|Number=Sing	
-lefolytatása	lefolytatás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-az	az	DET	Definite=Def|PronType=Art	
-ÁEEK	ÁEEK	NOUN	Case=Nom|Number=Plur	
-Projektirányítási	projektirányítási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-Igazgatóság	igazgatóság	NOUN	Case=Nom|Number=Sing	
-által	által	ADP	_	
-megvalósítandó	megvalósítandó	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartFut	
-nyugat-magyarországi	nyugat-magyarországi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-_	_	X	_	
-2	2	NUM	Case=Nom|NumType=Card|Number=Sing	
-/	/	PUNCT	_	
-2	2	NUM	Case=Nom|NumType=Card|Number=Sing	
-kivitelezési	kivitelezési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-eljárások	eljárás	NOUN	Case=Nom|Number=Plur	
-tekintetében	tekintet	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
--	-	PUNCT	_	
-7	7	NUM	Case=Nom|NumType=Card|Number=Sing	
-részben	rész	NOUN	Case=Ine|Number=Sing	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:c2c8eaf8910a2a8a6c7ced451594663787fb3bdb6c1e987c7b45b5e799597736
+size 1062

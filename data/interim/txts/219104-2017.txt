@@ -1,1 +1,3 @@
-Földgáz értékesítési szerződés alapján a Magyar Tudományos Akadémia köztestületi intézményei földgáz energiavételezése 1.10.2017. – 1.10.2018. közötti időszakban, 32 682 327 MJ mennyiségben. A közbeszerzés részekre bontása a gazdasági ésszerűséggel nem összeegyeztethető, ezért a részajánlattétel nem biztosított.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dd07910a2c044ae8e49772f4270ee54b65153e4a1842b142f68984fd9400cf12
+size 353

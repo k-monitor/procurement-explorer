@@ -1,18 +1,3 @@
-A	a	DET	Definite=Def|PronType=Art	
-Batthyány	Batthyány	PROPN	Case=Nom|Number=Sing	
-Kázmér	kázmér	NOUN	Case=Nom|Number=Sing	
-Általános	Általános	PROPN	Case=Nom|Number=Sing	
-Iskola	Iskola	PROPN	Case=Nom|Number=Sing	
-és	és	CONJ	_	
-a	a	DET	Definite=Def|PronType=Art	
-Kanizsai	kanizsai	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-Dorottya	Dorottya	PROPN	Case=Nom|Number=Sing	
-Általános	Általános	PROPN	Case=Nom|Number=Sing	
-Iskola	Iskola	PROPN	Case=Nom|Number=Sing	
-bővítése	bővítés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-és	és	CONJ	_	
-részleges	részleges	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-felújítása	felújítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-Siklóson	siklós	NOUN	Case=Sup|Number=Sing	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:dfa832a21a778d693ccfc37aab1a8504af4e8e93e57743042aaee8c48610d2d6
+size 774

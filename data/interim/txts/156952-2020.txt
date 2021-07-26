@@ -1,1 +1,3 @@
-1. rész: Forgószerszámos CNC esztergagép oktatószoftverrel 2. rész: Pneumatikus-, hidraulikus és PLC oktatórendszerek és azok kiegészítői
+version https://git-lfs.github.com/spec/v1
+oid sha256:95c297b3d787450d66083aaffd5973279c28550a44ce63d78072c4a2968e257d
+size 149

@@ -1,5 +1,3 @@
-földgáz energia szállítás az ajánlatkérő részére a 1.10.2017
-cet
-1.10.2019
-cet közötti időszak vonatkozó
-teljes ellátás alapú földgáz energia kereskedelmi szerződés keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:0a5ddf1134b7411f5efe016b107561f27ef47f4ff2b13c23de5d7ab67aa722fb
+size 191

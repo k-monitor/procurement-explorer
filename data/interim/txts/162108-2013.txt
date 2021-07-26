@@ -1,1 +1,3 @@
-Szolgáltatási keretszerződés a Fővárosi Közterület-fenntartó Zrt. Hulladékhasznosító Mű ELCON típusú épületfelügyeleti, gépészeti rendszerének éves karbantartása, javítása, valamint meghibásodás esetén javítása, hibás egységek, berendezések cseréje tárgyában.
+version https://git-lfs.github.com/spec/v1
+oid sha256:08c6b0ed5e7397158b5939ee1adbca18a5a5a06a76ee94edd39417947e32b07d
+size 295

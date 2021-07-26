@@ -1,1 +1,3 @@
-Szállítási szerződés gépjárműflotta beszerzésére.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dbba4a818c9b0638fc57140bb210b65937948b3866c676403f490d7028282f1e
+size 59

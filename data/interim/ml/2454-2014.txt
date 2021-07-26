@@ -1,10 +1,3 @@
-Különféle	különféle	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-élelmiszerek	élelmiszer	NOUN	Case=Nom|Number=Plur	
-beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-3	3	NUM	Case=Nom|NumType=Card|Number=Sing	
-részben	rész	NOUN	Case=Ine|Number=Sing	
-szállítási	szállítási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:a4d42fa5804df81fbc1d4eee16735c9c9d77daaed6470fdb29e566bccef787bb
+size 491

@@ -1,1 +1,3 @@
-I17, "I19” jelű illemhelyek, "I18” jelű illemhelyek és öltözők, Városligeti sportcentrum üzemeltetése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fe7d2c5ba3abebdcbece57125da01540330a3ede8f054df24c6340488fe2bbf5
+size 115

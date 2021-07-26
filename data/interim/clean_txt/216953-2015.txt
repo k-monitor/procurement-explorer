@@ -1,23 +1,3 @@
-adásvételi szerződés
-a keop
-5.6.0
-e
-egészségügyi eszközök energia megtakarítás célzó beszerzés támogatás
-című pályázat kapcsolódó
-digitális röntgen berendezés
-röntgen felvételező
-röntgen felvételező-átvilágító
-kórtermi mobil röntgen
-sebészeti átvilágító
-mammográf
-szállítás
-felszerelés
-üzembehelyezés
-a kezelőszemélyzet betanítás
-valamint szállítói mérés elvégzés a felhívás foglalt energia-felhasználás csökkenés alátámasztás
-a fenntartási időszak
-év
-vég tartó szállítói jótállás
-ez kapcsolódó a napi működtetés szükséges tervszerű
-megelőző karbantartás elvégzés
-valamint az évenkénti fenntartási jelentés alátámasztás szolgáló további mérés és adatszolgáltatás nyújtás
+version https://git-lfs.github.com/spec/v1
+oid sha256:b35c2ef1e7afc4602de8a030d90048539ef84cb06ef3c12b6fef1179cddfaee9
+size 780

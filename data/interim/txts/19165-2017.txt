@@ -1,1 +1,3 @@
-Szerződés meghatározása: Keretmegállapodás, a keretmegállapodásos eljárás második szakaszában vállalkozási szerződés. Tárgya: „Keretmegállapodás megkötése az MNV Zrt. feladataihoz kapcsolódó kivitelezési munkák elvégzésére”.
+version https://git-lfs.github.com/spec/v1
+oid sha256:927f0532b4eb590b2893ffcebe1d16f4cf96fa1565534b500b7184d2e46cbed0
+size 256

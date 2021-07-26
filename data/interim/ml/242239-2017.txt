@@ -1,16 +1,3 @@
-1.	1.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
-rész	rész	NOUN	Case=Nom|Number=Sing	
--	-	PUNCT	_	
-Android	Android	PROPN	Case=Nom|Number=Sing	
-mobiltelefonok	mobiltelefon	NOUN	Case=Nom|Number=Plur	
-beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
-2.	2.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
-rész	rész	NOUN	Case=Nom|Number=Sing	
--	-	PUNCT	_	
-iOS	iOS	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-mobiltelefonok	mobiltelefon	NOUN	Case=Nom|Number=Plur	
-beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:8645782d132b2668076f198f449608384fad499866c385bb5ca8feb4d1dc9670
+size 585

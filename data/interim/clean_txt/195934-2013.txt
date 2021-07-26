@@ -1,6 +1,3 @@
-szállítási szerződés konszignációs raktár létesítés oxigenátor és csőkészlet beszerzés
-az
-hogy az előírt mennyiség
-az egységár vagy más szerződéses feltétel módosítás nélkül
-ajánlatkérő mínusz
- eltér
+version https://git-lfs.github.com/spec/v1
+oid sha256:5d6be6a44c6cd6bade7ed55be57b37616dbc3261fe063c5de1a1f05e0f01a61e
+size 234

@@ -1,8 +1,3 @@
-DEK-902	DEK-902	PROPN	Case=Nom|Number=Sing	
-Villamosenergia	villamosenergia	NOUN	Case=Nom|Number=Sing	
-beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-a	a	DET	Definite=Def|PronType=Art	
-Debreceni	debreceni	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-Egyetem	Egyetem	PROPN	Case=Nom|Number=Sing	
-részére	részére	ADP	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:3e4a65ca2efa0d97000f9e9826565c783a12283c50db5657637c622eb05b9166
+size 350

@@ -1,1 +1,3 @@
-Két darab 3 tengelyes billenő platós tehergépkocsi, egy darab 2 tengelyes fix platós tehergépkocsi, valamint aszfaltozó felépítmények beszerzése az alábbiak szerint részletezve.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dc851f9b234f22796a02896f2061b5fc95eae651a629bf7d12bc644e8963c995
+size 190

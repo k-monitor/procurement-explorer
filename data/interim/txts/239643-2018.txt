@@ -1,1 +1,3 @@
-„Primer hidegenergia szolgáltatás nyújtása a Városligetben a VÉSZ előírásainak betartásával”.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1a7baae22c2d2f733d1e66bbb2ffb95128a1417150cd62c3277e27b12b169d53
+size 108

@@ -1,1 +1,3 @@
-adásvételi keretszerződés darab útellenőr gépjármű beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:891404dc3a136b59fad0504fed539af8144f2b64f289d620ed658f879312e27f
+size 70

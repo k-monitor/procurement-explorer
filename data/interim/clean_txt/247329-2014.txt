@@ -1,4 +1,3 @@
-adásvételi szerződés db ffs
-mozgató mechanizmus ellátott szimulátor és db ftd
-mozgató mechanizmus még nem ellátott
-de ffs szint fejleszthető szimulátor beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:aa1a21cd1d474dd135310f56239229622cab860b59e3844a51c2c299e92c9699
+size 175

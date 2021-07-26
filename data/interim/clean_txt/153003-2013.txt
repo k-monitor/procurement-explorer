@@ -1,1 +1,3 @@
-szállítási keretszerződés a máv-start zrt munkavállaló részére a társaság vbkj rendszer keret nyújtott iskolakezdési értékutalvány beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:bc8c186034dbc516c13308679b3447a555e0a2f435439d716d6b5ddaff4dfdd6
+size 158

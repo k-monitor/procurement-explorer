@@ -1,2 +1,3 @@
-debrecen
-déli gazdasági övezet belső úthálózat ii
+version https://git-lfs.github.com/spec/v1
+oid sha256:5efddbc9d1958d5cf27321cfb63645ac3394e93e623770f40a04a7ec6c0699e7
+size 56

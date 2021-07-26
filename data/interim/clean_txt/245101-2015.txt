@@ -1,5 +1,3 @@
-a tiop-2
-pályázat keret adásvételi szerződés
-a parádfürdői állami kórház részére röntgen berendezés
-valamint egyéb orvosi berendezés valamint orvostechnikai és egyéb eszköz szállítás
-telepítés és üzem helyezés
+version https://git-lfs.github.com/spec/v1
+oid sha256:3b8cc2ab50027f795a600e7c9fb7bd3247c6a63c563652172b32d6c707d0bd09
+size 238

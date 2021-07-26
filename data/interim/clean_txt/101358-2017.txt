@@ -1,2 +1,3 @@
-simo monitoring rendszer crfs
-commsaudit és izt gyártmányú műszer fejlesztés
+version https://git-lfs.github.com/spec/v1
+oid sha256:0c06b8bcdec730c2aa0b59ea4e66c40c172877d18ed4d1a49b5386a802d6f32a
+size 82

@@ -1,15 +1,3 @@
-adásvételi keretszerződés hasi
-mellkasi aorta stentgraft és segédeszköz beszerzés a városmajori szív
-és érgyógyászati klinika részére
-a beszerzés tervezett mennyiség a rész vonatkozás db
-hó
-a szerződés a keretmennyiség kimerülés
-a rész vonatkozás együttes db
-hó
-de legfeljebb hó időtartam jön lét
-ajánlatkérő kötelezettség vállal a rész meghatározott keretmennyiség
-nak lehívás
-valamennyi rész eset
-nyertes ajánlattevő vállal
-hogy az egyes eszköz garantált sterilitás időtartam a gyártás számítva legalább év
-a szállítás időpont számítva legalább év elér
+version https://git-lfs.github.com/spec/v1
+oid sha256:121168153ce6db9d34d3f85ed7fdf2edab70b31508635b79612ee137eb317d66
+size 622

@@ -1,13 +1,3 @@
-Egyedi	egyedi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-vákuum	vákuum	NOUN	Case=Nom|Number=Sing	
-kamrák	kamra	NOUN	Case=Nom|Number=Plur	
-beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-HHG	HHG	PROPN	Case=Nom|Number=Sing	
-nyalábvonalakhoz	nyalábvonal	NOUN	Case=All|Number=Plur	
-adásvétellel	adásvétel	NOUN	Case=Ins|Number=Sing	
-vegyes	vegyes	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-vállalkozási	vállalkozási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:44d6f06ff53d9e9a210e88310fc3f3981881cd5b25b9b29dfc81164b7bee1128
+size 626

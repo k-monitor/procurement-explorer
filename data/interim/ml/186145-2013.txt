@@ -1,17 +1,3 @@
-Bűnmegelőzés	bűnmegelőzés	NOUN	Case=Nom|Number=Sing	
--	-	PUNCT	_	
-Térfigyelő	térfigyelő	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-kamerarendszer	kamerarendszer	NOUN	Case=Nom|Number=Sing	
-felszerelése	felszerelés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-,	,	PUNCT	_	
-telepítése	telepítés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-Budapest	Budapest	PROPN	Case=Nom|Number=Sing	
-Főváros	főváros	NOUN	Case=Nom|Number=Sing	
-XV	15	NUM	Case=Nom|NumType=Card|Number=Sing	
-.	.	PUNCT	_	
-kerületben	kerület	NOUN	Case=Ine|Number=Sing	
--	-	PUNCT	_	
-vállalkozási	vállalkozási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:d6ca387d0bd0233d11e3c592deb4cea9fdd7660d5d3342decf5effa7dfb24409
+size 803

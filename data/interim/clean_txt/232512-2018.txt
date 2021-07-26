@@ -1,1 +1,3 @@
-gépjármű és az kapcsolódó felszerelés beszerzés adásvételi szerződés keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:30cc4bff871326edda0fcfba82c41fb802156604b6cde4414d6bf04011000d8c
+size 86

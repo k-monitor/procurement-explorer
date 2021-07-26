@@ -1,4 +1,3 @@
-minimum
-os metanol szállítás kg mennyiség
-a szerződés időtartam alatt a megadott mennyiség plusz kg többlet mennyiség eltérés lehetséges
-mely lehívás ajánlatkérő nem kötelezett
+version https://git-lfs.github.com/spec/v1
+oid sha256:682be104473029f25f3bc050350fb66428479852e47555af0feb6e4dd2bbf670
+size 195

@@ -1,4 +1,3 @@
-villamos energia szállítás az ajánlatkérő részére 1.8.2015
-óra 31.7.2016
-óra
-teljes ellátás alapú villamos energia kereskedelmi szerződés keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:2ece79bd6587376ea4f73f9559e129e873207255e72a8b0f705f95856c619eef
+size 158

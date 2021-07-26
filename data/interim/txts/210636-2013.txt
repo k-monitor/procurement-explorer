@@ -1,1 +1,3 @@
-Szállítási szerződés csípő- és térdprotézisek beszerzésére.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e469e2503350814385f7113914b860e7f73df6d8edc1fa648f794e002e982d42
+size 71

@@ -1,2 +1,3 @@
-őrzés-védelmi feladat
-ideértve a szolgáltatás végzés kapcsolódó előírt fejlesztési célú beruházás elvégzés kecskemét megyei jogú város önkormányzata központosított beszerzési rendszer csatlakozott intézmény és gazdasági társaság részére
+version https://git-lfs.github.com/spec/v1
+oid sha256:dba6ec214d2f1b8433d3ecc36674fff651343156d57fa26d8f474a2c49b918da
+size 271

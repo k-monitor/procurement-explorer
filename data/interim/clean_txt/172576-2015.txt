@@ -1,15 +1,3 @@
-évi határozott időtartam kötött vállalkozási keretszerződés alap
-a magyar közút nonprofit zrt. bicskei
-lébényi
-gödöllői
-káli
-emődi
-hajdúnánási
-hajdúböszörményi
-makói
-balatonvilágosi
-fonyódi és eszteregnyei mérnökség által üzemeltetett egyes pihenőhely
-ill. egyes mérnökségi telephely szennyvíz elszállítás
-a bicskei
-lébényi mérnökség által üzemeltetett egyes pihenőhely szennyvízcsatorna tisztítás
-dugulás elhárítás
+version https://git-lfs.github.com/spec/v1
+oid sha256:3d18c6cc96bd3ea54b0b1304723225508e9b69bf333e50190eb3fad079bd32bb
+size 472

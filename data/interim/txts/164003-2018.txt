@@ -1,1 +1,3 @@
-Licencek és üzemeltetéstámogató eszközök beszerzése adásvételi szerződés keretében 3 részben.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1ec858e104331ad1d4e2bc9aebc609f178468a8e35bb42de4d6c8ba31b9f352a
+size 107

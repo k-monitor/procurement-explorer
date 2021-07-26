@@ -1,1 +1,3 @@
-Egyszer használatos nyomásmérők és tartozékok beszerzése
+version https://git-lfs.github.com/spec/v1
+oid sha256:6d0cd44dc87a5602ebdf180dc02a2a76b0bf6e8f6101f7594449902d10fcd198
+size 63

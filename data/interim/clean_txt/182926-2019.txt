@@ -1,8 +1,3 @@
-adásvételi keretszerződés 18f-fluoro-dezoxi-glükóz
-fdg
-radiofarmako vásárlás szállítás ajánlatkérő tájékoztató jelleg megad a megrendel kívánt mennyiség
-mely teljes lehívás nem vállal kötelezettség
-fdg mci aktivitás db fdg mci aktivitás db fdg mci aktivitás db fdg mci aktivitás db fdg mci aktivitás db fdg mci aktivitás db fdg mci aktivitás db kalibrációs időpont
-óra között
-megajánlás szerint
-a részletes műszaki leírás a közbeszerzési dokumentumok tartalmaz
+version https://git-lfs.github.com/spec/v1
+oid sha256:4dadbdddbd388d76d5e80066f332141074dc9fa86b0be83fa65c974ac27a6d40
+size 507

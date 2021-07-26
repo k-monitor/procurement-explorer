@@ -1,1 +1,3 @@
-Sűrített földgáz üzemű (CNG) IVECO tehergépjármű alvázakból és a rájuk szerelt STUMMER felépítményekből álló célgépek és platós, ponyvás, emelőhátfalas célgépek meghibásodásainak javítása és karbantartása.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f6adee70007e1336167c34f92c8047d829f303720dc445dbd371d724a505f5eb
+size 239

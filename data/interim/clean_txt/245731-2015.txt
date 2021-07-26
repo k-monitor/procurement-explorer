@@ -1,34 +1,3 @@
-a közös ajánlatkérő tag részére országos lefedettség biztosító előfizetéses mobil távközlési
-hangszolgáltatás
-kombinált hang és mobil internet szolgáltatás
-mobilinternet szolgáltatás
-dedikált apn
-direkt gsm bekötés
-gsm adapter
-tömeges sms
-szolgáltatás nyújtás
-továbbá mobiltelefon beszerzés szolgáltatási szerződés keret
-ajánlatkérő teljesítés kapcsolatos részletes elvárás az ajánlattételi dokumentáció tartalmaz majd
-a közös ajánlatkérő tag képviselő a budapesti városigazgatóság zrt.
-a képviselő kívül további tag
-a fővárosi közterület-fenntartó nonprofit zrt.
-fkf nonprofit zrt.
-a budapest gyógyfürdői és héviz zrt.
-bgyh zrt.
-fővárosi településtisztasági és környezetvédelmi kft.
-ftszv kft.
-fővárosi kertészeti nonprofit zrt.
-főkert nonprofit zrt.
-budapesti temetkezési intézet zrt.
-btl zrt.
-főkétüsz fővárosi kéményseprőipari kft.
-főkétüsz kft.
-budapesti távhőszolgáltató zrt.
-főtáv zrt.
-és leányvállalat
-a dhk hátralékkezelő és szolgáltató zrt.
-dhk zrt.
-és a főtáv-komfort épületenergetikai szolgáltató és fővállalkozó kft.
-főtáv-komfort kft.
-valamint a fővárosi vízmű zártkörű működő részvénytársaság
-fővárosi vízmű zrt.
+version https://git-lfs.github.com/spec/v1
+oid sha256:612a44c77615d757c4e137f36f7fcbed05607fa7ac44116afd8a706b4ecb2a56
+size 1274

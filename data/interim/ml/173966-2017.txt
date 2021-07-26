@@ -1,30 +1,3 @@
-Pékáru	pékáru	NOUN	Case=Nom|Number=Sing	
-beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-a	a	DET	Definite=Def|PronType=Art	
-Büntetés-végrehajtás	Büntetés-végrehajtás	NOUN	Case=Nom|Number=Sing	
-Országos	Országos	PROPN	Case=Nom|Number=Sing	
-Parancsnoksága	Parancsnoksága	PROPN	Case=Nom|Number=Sing	
-által	által	ADP	_	
-a	a	DET	Definite=Def|PronType=Art	
-Szegedi	Szegedi	PROPN	Case=Nom|Number=Sing	
-Fegyház	fegyház	NOUN	Case=Nom|Number=Sing	
-és	és	CONJ	_	
-Börtön	Börtön	PROPN	Case=Nom|Number=Sing	
-részére	részére	ADP	_	
-fajta	fajta	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-és	és	CONJ	_	
-mennyiség	mennyiség	NOUN	Case=Nom|Number=Sing	
-szerint	szerint	ADP	_	
-meghatározott	meghatározott	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPast	
-dolog	dolog	NOUN	Case=Nom|Number=Sing	
-határidős	határidős	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-adásvétele	adásvétel	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-a	a	DET	Definite=Def|PronType=Art	
-lent	lent	ADV	Degree=Pos	
-szerepeltetett	szerepel	VERB	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Cau	
-mennyiségben	mennyiség	NOUN	Case=Ine|Number=Sing	
-2	2	NUM	Case=Nom|NumType=Card|Number=Sing	
-évre	év	NOUN	Case=Sub|Number=Sing	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:1768e0e8cc9c920f217f2d7b8ebffb23c1bd85b63a35be68b9e23f81471d8cc3
+size 1380

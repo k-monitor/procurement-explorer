@@ -1,2 +1,3 @@
-gázmotor által termelt hő
-és villamosenergia beszerzés vonatkozó adásvételi szerződés keretmegállapodás forma a közbeszerzési dokumentum foglalt szerint
+version https://git-lfs.github.com/spec/v1
+oid sha256:2b5ba29e16cf3bfb7b54602008293ecc4950672c55b356a67d441be165f757fd
+size 166

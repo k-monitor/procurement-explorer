@@ -1,1 +1,3 @@
-Integrált kommunikációs szolgáltatások, kreatív és médiaügynökségi feladatkör ellátása a Főtáv Zrt. részére vállalkozási keretszerződés keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3885dcc665839a866ec4315bef93b123793eb57aa606a0a298f5e3dc41b6ca0e
+size 169

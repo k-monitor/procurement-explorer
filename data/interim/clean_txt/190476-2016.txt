@@ -1,2 +1,3 @@
-karbantartási szerződés cyclotron berendezés teljeskörű karbantartás
-folyamatos üzemképesség biztosítás vonatkozó
+version https://git-lfs.github.com/spec/v1
+oid sha256:58ff91b98ddd32ae2f258239fcfb06c5daaf098dddbe21620ac75043b860e589
+size 126

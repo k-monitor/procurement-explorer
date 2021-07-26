@@ -1,9 +1,3 @@
-Kovács	Kovács	PROPN	Case=Nom|Number=Sing	
-Katalin	Katalin	PROPN	Case=Nom|Number=Sing	
-Nemzeti	Nemzeti	PROPN	Case=Nom|Number=Sing	
-Kajak-Kenu	kajak-kenu	NOUN	Case=Nom|Number=Sing	
-Sportakadémia	sportakadémia	NOUN	Case=Nom|Number=Sing	
-generáltervezői	generáltervezői	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-feladatának	feladat	NOUN	Case=Dat|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-ellátása	ellátás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:d496808424f0d7fa044e1d8509f91c382f1134413fab2a11da73c4c91e73d833
+size 474

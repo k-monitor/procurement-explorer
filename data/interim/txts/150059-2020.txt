@@ -1,1 +1,3 @@
-Győr Kossuth L. u. 36. sz. épület felújítása
+version https://git-lfs.github.com/spec/v1
+oid sha256:dd71b11b10e37a472b65dd031860d4d5dcc9dd33a2ca49a0c7268c460e3509c7
+size 50

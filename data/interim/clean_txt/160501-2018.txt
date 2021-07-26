@@ -1,17 +1,3 @@
-az mta lgk részére élőerős őrzés-védelmi szolgáltatás biztosítás
-hónapos időszak vonatkozó
-a részajánlattétel kizárás indok
-ak megvizsgál a részajánlat-tétel lehetőség
-mely vizsgálat alap álláspont szerint a közbeszerzés tárgy nem képez olyan részfeladat
-mely a többi elválaszthatóan
-önálló egység kezelhető
-a szolgáltatás természet nem tesz lehető az rész bontás
-részajánlat-tétel biztosítás
-változás történik egy ingatlan ak üzemeltetési kör történő kikerülés
-vagy bővülés
-így a szolgáltatás mennyiség oly mérték csökken
-vagy bővül
-mely az adott helyszín szolgáltató nyertes at teljesítés ellehetetlenít
-ak nem biztosít többváltozatú
-alternatív ajánlat
-benyújtás lehetőség
+version https://git-lfs.github.com/spec/v1
+oid sha256:1d94384a54c66fc99d0a1de652a3b7c24a5c3e75a6082bf78ff7c799f3ec63c5
+size 767

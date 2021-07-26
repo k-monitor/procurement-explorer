@@ -1,4 +1,3 @@
-élelmiszer beszerzés budapest főváros
-ker. pestszentlőrinc
-pestszentimre önkormányzata egyesít bölcsőde részére 2016.
-adásvételi szerződés alap
+version https://git-lfs.github.com/spec/v1
+oid sha256:6da89b47177ffd78bfcc80c44beef5e6916fc23c8ab24998dd614a3b703c3d75
+size 159

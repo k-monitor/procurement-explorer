@@ -1,6 +1,3 @@
-megbízási szerződés a keop-1
-1.1
-09-11-2011-0001 azonosítószámú
-a
-közép-duna vidék hulladékgazdálkodási rendszer fejlesztés
-című pályázati program megvalósítás szükséges pr és szemléletformálási feladat ellátás
+version https://git-lfs.github.com/spec/v1
+oid sha256:917550aebe5709fa9562d876e88040a1b201884951e61d04bd84f9d7d60925ca
+size 240

@@ -1,30 +1,3 @@
-K2046	K2046	PROPN	Case=Nom|Number=Sing	
-Hulladékhasznosító	hulladékhasznosító	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-Műben	mű	NOUN	Case=Ine|Number=Sing	
-üzemelő	üzemelő	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-K1	K1	PROPN	Case=Nom|Number=Sing	
-,	,	PUNCT	_	
-K2	K2	PROPN	Case=Nom|Number=Sing	
-,	,	PUNCT	_	
-K3	K3	PROPN	Case=Nom|Number=Sing	
-,	,	PUNCT	_	
-K4	K4	PROPN	Case=Nom|Number=Sing	
-jelű	jelű	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-kazánok	kazán	NOUN	Case=Nom|Number=Plur	
-I.	1.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
-huzami	huzami	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-részleges	részleges	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-membránfal	membránfal	NOUN	Case=Nom|Number=Sing	
-cseréje	csere	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-és	és	CONJ	_	
-felületvédelme	felületvédelem	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-,	,	PUNCT	_	
-valamint	valamint	CONJ	_	
-a	a	DET	Definite=Def|PronType=Art	
-korábban	korán	ADV	Degree=Cmp	
-fémszórással	fémszórás	NOUN	Case=Ins|Number=Sing	
-levédett	levédett	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPast	
-felületek	felület	NOUN	Case=Nom|Number=Plur	
-újbóli	újbóli	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-levédése	levédés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:950abf257060eff7d979b0def04088cafeaaf7250fa7a05206ef66e9142a5316
+size 1331

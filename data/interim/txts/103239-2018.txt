@@ -1,1 +1,3 @@
-Megbízási szerződés a „Szentendrei szennyvíztisztító telep fejlesztése (ÉMO 3)” elnevezésű, KEHOP-2.2.2-15-2016-00048 azonosítószámú projekt keretében műszaki ellenőri tevékenység ellátására.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f789193b7c05a060aa93d0978a92630a68bc5e31c0d70a35e9f170f194651280
+size 218

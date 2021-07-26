@@ -1,1 +1,3 @@
-Munkaállomások beszerzése az alábbi részek szerint: 1. rész asztali munkaállomás 2. rész általános célú notebook 3. rész érintő kijelzős notebook 4. rész fejlesztői munkaállomás
+version https://git-lfs.github.com/spec/v1
+oid sha256:d20ba781d695a5fb7bf032b12a37df126e5b76ea3a5c832d9a5a62730bb93cdc
+size 198

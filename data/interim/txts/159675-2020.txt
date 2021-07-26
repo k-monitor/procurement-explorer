@@ -1,1 +1,3 @@
-Az ELTE Radnóti Miklós Gyakorló Általános Iskola és Gyakorló Gimnázium felújításával járó tervezési feladatok ellátása tervezési szerződés keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:695bca79ab6b248d5af60136e30cb404e51fe554389600d35909340495f24762
+size 170

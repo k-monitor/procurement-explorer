@@ -1,1 +1,3 @@
-Humán papilloma vírus (HPV) elleni 4 komponensű vakcina beszerzése és a védőoltás szervezéséhez kapcsolódó egyes járulékos szolgáltatások megrendelése szállítási szerződés keretében. Az ajánlatkérő által meghatározott részletes szerződéses feltételeket tartalmazó szállítási szerződéstervezetet a dokumentáció tartalmazza.
+version https://git-lfs.github.com/spec/v1
+oid sha256:efda49512fb660ad673bf5d4423ab5b17d5e1ec01262f5bd5cebadd0300dd02c
+size 362

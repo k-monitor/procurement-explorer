@@ -1,29 +1,3 @@
-a modern város program keret a békéscsabai csabapark gasztronómiai és élménypark további fejlesztés című
-iktatószám
-gf
-szkf
-2017.
-projekt kapcsolódó rendezvénysátor és padozat eszköz beszerzés
-vázszerkezet
-préselt alumínium eloxál kivitel a sátortartó elem teljes felület
-rögzítés
-acél-tűzihorganyoz csomóponti és rögzítő elem
-a sátor méret m m
-ami önálló felépíthető egyszerre egy m x m-es és egy m x m-es sátor
-az ajánlat tartalmaznia kell a rész történő felépítés szükséges alkatrész is
-sátor mér
-oldalmagasság
-csúcsmagasság
-keretállás távolság
-ponyvázat
-a tetőponyvázat
-a fényáteresztő fehér színű
-uv álló
-gr
-súlyú
-nehéz éghető
-poliészter szövetbetétes műszaki ponyva din b1 minősítés szerinti
-padlózat
-a kazettás padló nútolt alumínium hossztartó-profil készül
-rétegelt fa felület
-közép acél zártszelvény a kazetta teljes hossz
+version https://git-lfs.github.com/spec/v1
+oid sha256:3b0aa6ebb277aa154944fadfcea60ab568cf8022d4c7cbbe0bb56a02bae7d7a7
+size 937

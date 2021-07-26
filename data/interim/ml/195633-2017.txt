@@ -1,5 +1,3 @@
-Műanyag	műanyag	NOUN	Case=Nom|Number=Sing	
-féktuskók	féktuskó	NOUN	Case=Nom|Number=Plur	
-beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:1dc90329d215c1f22a6624acd469148f05eac41e04667fd012dba6f822934d83
+size 192

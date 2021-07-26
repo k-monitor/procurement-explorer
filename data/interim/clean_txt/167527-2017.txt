@@ -1,4 +1,3 @@
-közvilágítási célú villamos energia értékesítés a 1.8.2017
-cet
-31.7.2018
-cet közötti időszak teljes ellátás alapú villamos energia kereskedelmi szerződés keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:0a494384f1d8d0bd70664362b2479b642e6ab5ed08a69ec24a60c2e558e10964
+size 177

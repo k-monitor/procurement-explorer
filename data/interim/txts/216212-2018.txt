@@ -1,1 +1,3 @@
-Biztosítási szolgáltatások beszerzése a Magyar Közút Nonprofit Zrt. részére – 2018.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fd754d14d244fbbf9d6a6c0ce515509d70108c5fe6de7263cc1db4625f74aa6c
+size 94

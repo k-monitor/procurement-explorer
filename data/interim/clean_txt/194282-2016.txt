@@ -1,30 +1,3 @@
-tervezési szerződés közúti híd korszerűsítési
-felújítási munkái engedélyezési és kiviteli tervdokumentáció elkészítés rész összesen helyszín tervdokumentáció elkészítés a műszaki leírás részletezett szerint
-nem engedélyköteles tervezés eset
-a
-nem engedélyköteles kiviteli tervdokumentáció készítés
-engedélyköteles tervezés eset ajánlattevő választás szerint
-b
-engedélyköteles engedélyezési és kiviteli tervdokumentáció készítés külön fázis
-kiviteli terv jóváhagyási kötelezettség vagy c
-engedélyköteles egyesített engedélyezési és kiviteli tervdokumentáció készítés egy fázis
-az alábbi híd érintő
-a végleges tervdokumentáció hidanként
-nyomtatott
-papír alapú
-és digitális
-cd
-vagy dvd
-a rajz
-dwg
-és
-pdf
-formátum
-a szöveges rész
-doc
-xls
-ill.
-pdf
-formátum
-példány
-kell tervező leszállít
+version https://git-lfs.github.com/spec/v1
+oid sha256:816d71c3495d645b7c865d9bb2367ca2a27010a95600bcb0058b0b8810d48fa9
+size 884

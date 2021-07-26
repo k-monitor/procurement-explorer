@@ -1,2 +1,3 @@
-miskolc megyei jogú város önkormányzata és intézmény számára bankszámlavezetési és kapcsolódó szolgáltatás nyújtás
-valamint huf folyószámla-hitelkeret biztosítás
+version https://git-lfs.github.com/spec/v1
+oid sha256:36ba11c51b790882dbe3277671ac0276e10a9e783aa529818de1eaf6a1c39c65
+size 183

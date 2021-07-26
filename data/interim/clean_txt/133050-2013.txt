@@ -1,7 +1,3 @@
-szállítási szerződés
-a semmelweis egyetem
-központi textiltisztító és javító üzem részére
-hónap szükséges
-a chemo-termo mosástechnológia szükséges
-mosás hatékony vegyület
-fertőtlenítőszer és mosószer beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:b829940bca100eb0cd0d735cdc64a205fa834cdc7ab038be506fd487ad817a8b
+size 238

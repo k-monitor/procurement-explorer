@@ -1,5 +1,3 @@
-Balesetveszélyes	balesetveszélyes	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-fák	fa	NOUN	Case=Nom|Number=Plur	
-kivágása	kivágás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-2019.	2019.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:099c5e55f9fc4ea662fbbd20cac4297fc02983fc62a603bfa81c4e2ffd64e93c
+size 240

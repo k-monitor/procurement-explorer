@@ -1,7 +1,3 @@
-a nemzeti adó
-és vámhivatal budapest
-dózsa györgy út
-szám alatti irodaház
-részben gépi technológia történő
-takarítás
-további részlet a dokumentáció található
+version https://git-lfs.github.com/spec/v1
+oid sha256:a94555f12fd6053a11af109a97419663f0bd831e26940ff985e140f456ee9723
+size 179

@@ -1,1 +1,3 @@
-Traumatológiai implantátumok beszerzése adásvételi szerződés keretében
+version https://git-lfs.github.com/spec/v1
+oid sha256:950e337d5cb3bd98720232d3d6d9215e466300d2241a7e1e79dc6de8bbe442c6
+size 78

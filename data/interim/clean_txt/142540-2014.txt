@@ -1,4 +1,3 @@
-általános felhasználású villamos energia szállítás a 1.1.2015.,
-cet
-31.12.2015.,
-cet közötti időszak teljes ellátás alapú villamos energia kereskedelmi szerződés keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:ee858199f87ae181cef811c47ab97041ce047514f1188188d5ea719069c2778a
+size 183

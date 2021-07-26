@@ -1,2 +1,3 @@
-a nemzeti ménesbirt és tangazdaság zrt
-a tevékenységi kör végzett hibridkukorica vetőmag előállítás szükséges kézi munkaerő igény kielégítés cél munkaerő biztosítás szolgáltatási szerződés keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:eee10cd232a7439216ef9d9848ad6710edfbd56298125dacbbd6dc201ad36373
+size 222

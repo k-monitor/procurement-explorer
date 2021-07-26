@@ -1,4 +1,3 @@
-Szállítási	Szállítási	PROPN	Case=Nom|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:2dd3f8f60baea8af8a9362d3f10b11dc9cc19d258f51f7e39dac4b64878be434
+size 121

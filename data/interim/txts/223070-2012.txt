@@ -1,1 +1,3 @@
-Ajánlatkérő az Intézmény részére 2012. december 31.-ig szükséges különféle laboratóriumi diagnosztikumokat kívánja megvásárolni, egyrészt a saját tulajdonában lévő laboratóriumi készülékek működtetéséhez, másrészt pedig a VIII. Immunológia fejezet esetében különféle laboratóriumi készülékek kihelyezésével együtt, továbbá a használatba adásra kerülő készülékek on-line csatlakozásának biztosításával Megrendelő informatikai rendszeréhez.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e367a9dc043ca9cabb00349ee05fbbb9ca1da10efc02e3986f977ddaf1f009a7
+size 498

@@ -1,2 +1,3 @@
-magyar honvédség egészségügyi központ beültethető szemlencse implantátum beszerzés adásvételi keretmegállapodás keret hónap
-részajánlati kör
+version https://git-lfs.github.com/spec/v1
+oid sha256:636d088a7507e7259b900a1aeff69db244fa8fdf5109ffe15d0d446bb4ae3f64
+size 158

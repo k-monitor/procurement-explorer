@@ -1,1 +1,3 @@
-Infrastrukturális fejlesztés az igali Batthyány Károly általános Iskolában (Iskola épület bővítése, átalakítása) az EFOP-4.1.2-17-2017-00038 számú projekt keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ca31d083e4ef1a81be15f02babdc36cae96e1386aeeb020d59158c83f77cba18
+size 183

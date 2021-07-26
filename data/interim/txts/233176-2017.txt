@@ -1,1 +1,3 @@
-Haemodinamikai fogyóanyagok beszerzése a Pécsi Tudományegyetem részére 1-64. ajánlati részben, összesen 702 594 000 HUF/év keretösszeg erejéig. Ajánlatkérő az egyes részeknél adja meg az adott részre vonatkozó keretösszeget. Az 1-64. ajánlati rész tekintetében az opció tervezett mértéke összesen: 702 594 000 HUF, ajánlatkérő az egyes részeknél adja meg az adott részre vonatkozó opcionális mennyiségét (HUF/év). A termékek szállítása a szerződéstervezetben részletesen leírtak szerint raktárkészlet létrehozása, üzemeltetése által valamint raktárkészleten felüli egyedi rendeléssel valósul meg. A műszaki leírásban részletezettek szerint a 3.,16.,17.,18.,51.,66. részek vonatkozásában a fogyóanyagok használatához készülékek haszonkölcsön kertében történő kihelyezése szükséges.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d1d98a865092dd63759741a9f8140b679dccaab5b86f1a8a043520a5334e231c
+size 860

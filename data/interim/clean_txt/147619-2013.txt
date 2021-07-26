@@ -1,5 +1,3 @@
-31. sz. főút jnsz megyei szakasz kn tengelyterhelés történő megerősítés i
-ütem
-i
-szakasz
-kivitelezési munka elvégzés vállalkozási szerződés keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:5b02288433c0143765e2885124b7fda3ad57962d70276e8d37a6537c12b943b2
+size 162

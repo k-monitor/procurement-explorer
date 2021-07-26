@@ -1,34 +1,3 @@
-adásvételi szerződés szívbillentyű
-érprotézis beszerzés a szegedi tudományegyetem részére 22. rész
-mechanikus aorta bill
-maob
-kétlemezes mechanikus aorta műbillentyű
-rész
-mechnikus mitrális bill
-mmb
-kétlemezes mechanikus mitralis műbillentyű
-rész
-biológiai aorta bill
-baob
-biológiai
-stentelt és stentless
-aorta billenytű
-rész
-biológiai mitrális bill
-bmb
-biológiai
-stentelt és stentless
-mitralis billenytű
-rész
-speciális biológiai aorta bill
-saomb
-biológiai
-stentelt és stentless
-aorta billenytű 15. rész
-billentyűs conduit
-bentall
-annuloplasztikus ring
-rész
-érprotézis
-rész
-az egyes termék paraméter a közbeszerzési dokumentum rész képező műszaki leírás tartalmaz
+version https://git-lfs.github.com/spec/v1
+oid sha256:5e305ffa96149440b806b2aa61819a297eb3854afc0887f53e1e5d18dedc8340
+size 717

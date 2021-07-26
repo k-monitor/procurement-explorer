@@ -1,1 +1,3 @@
-Szolgáltatási keretszerződés „HHM területén lévő 8 db Leser típusú biztonsági szelepek és szabályozó szekrények helyszínen történő javítása” tárgyában.
+version https://git-lfs.github.com/spec/v1
+oid sha256:58bbb816da1966e8ee44209f5feaa6f40c71b722ca26d9ba2e88820f6bc82ec8
+size 178

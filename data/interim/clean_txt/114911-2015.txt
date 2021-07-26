@@ -1,3 +1,3 @@
-kivitelezési szerződés a tiop-2
-2-2010-0003 jós andrás sürgősségi központ projekt keret új sürgősségi betegellátó centrum ii
-ütem kivitelezés megvalósítás
+version https://git-lfs.github.com/spec/v1
+oid sha256:91f314af77b5e2b7da7ffedc1368b33778d2b5a8bda0ca669f6ad3a73114926b
+size 174

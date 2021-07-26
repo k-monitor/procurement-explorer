@@ -1,1 +1,3 @@
-Takarítási feladatok ellátása a Közép-Budai Tankerületi Központ illetékességi területén található intézményekben szolgáltatás ellátása céljából. Ajánlatkérő 12 részajánlat tételi részt alakított ki az intézmények szerint, az egyes intézmények költséghatékony ellátása érdekében. 1. rész: 4335 m2 takarítandó terület 2. rész: 3935 m2 takarítandó terület 3. rész: 5941 m2 takarítandó terület 4. rész: 7241 m2 takarítandó terület 5. rész 2957+ 2252 m2 = 5209 m2 takarítandó terület 6. rész: 5824 m2 takarítandó terület 7. rész: 3279 m2 takarítandó terület 8. rész: 4 186 m2 takarítandó terület 9. rész: 4297 m2 takarítandó terület 10. rész: 6274 m2 takarítandó terület 11. rész: 6417 m2 takarítandó terület 12. rész: 3727 m2 takarítandó terület A takarítási feladatok részletes leírását, mennyiségi tételeit a műszaki leírás tartalmazza.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9223a87b6cc84de7b36080df6e8139aaad4e497effe56227bb877dce84ba0036
+size 935

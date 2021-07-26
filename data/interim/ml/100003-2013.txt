@@ -1,13 +1,3 @@
-Szállítási	Szállítási	PROPN	Case=Nom|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-alapján	alap	NOUN	Case=Sup|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-a	a	DET	Definite=Def|PronType=Art	
-Magyar	Magyar	PROPN	Case=Nom|Number=Sing	
-Tudományos	Tudományos	PROPN	Case=Nom|Number=Sing	
-Akadémia	Akadémia	PROPN	Case=Nom|Number=Sing	
-köztestületi	köztestületi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-intézményei	intézmény	NOUN	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3	
-földgáz	földgáz	NOUN	Case=Nom|Number=Sing	
-energiavételezése	energiavételezés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-2013.	2013.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:8da160a2d314a63d8be4d9b2786e6ae704c020b0a605c39c94d9cb67f965b431
+size 708

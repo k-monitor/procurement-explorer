@@ -1,7 +1,3 @@
-tervezési szerződés az m8 gyorsforgalmi út körmend-kelet
-86. sz. főút
-rábafüzes
-osztrák országhatár
-közötti szakasz megvalósíthatósági tanulmány
-közúti biztonsági hatásvizsgálat
-valamint az építés előkészítés szükséges engedélyezési és kiviteli terv elkészítés tárgy
+version https://git-lfs.github.com/spec/v1
+oid sha256:f2d7737fca9d45fa8f6c5f605c7928db27901ab4d02df568c0268fadf9451345
+size 306

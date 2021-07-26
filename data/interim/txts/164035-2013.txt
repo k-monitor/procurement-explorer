@@ -1,1 +1,3 @@
-Szolgáltatási keretszerződés „A HHM területén lévő kazánoknál 8 db artec típusú hűtővíz befecskendező szabályzószelep, valamint 1 db 40/10 bar-os redukálónál található artec típusú hűtővíz befecskendező szabályzószelep javítása” tárgyában
+version https://git-lfs.github.com/spec/v1
+oid sha256:f91b22c7f405390be8b12400e9b14b5d46e388b3ef61969c10867a35656be684
+size 277

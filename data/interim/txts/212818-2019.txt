@@ -1,1 +1,3 @@
-24 db Hajózó sisak éjjellátó készülékkel beszerzése a műszaki leírásban foglaltak szerint. A műszaki paramétereket részletesen a közbeszerzési dokumentumok részét képező műszaki leírás határozza meg.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fae12296b654aee0741256cc0c10e905990b68d82ee92633efd93364e2ef44ca
+size 224

@@ -1,1 +1,3 @@
-vállalkozási szerződés hírös sport nonprofit kft. létesítmény takarítási feladat ellátás
+version https://git-lfs.github.com/spec/v1
+oid sha256:d2a1c14009e26e7ae78f52c4687983d9d7fe48c535d2d58ad970b59afcf3e4ce
+size 101

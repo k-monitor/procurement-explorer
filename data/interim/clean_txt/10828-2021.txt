@@ -1,20 +1,3 @@
-tőkehús beszerzés a év vonatkozó
-húsos csont
-karaj
-tarja
-marhacomb
-dió
-rózsa
-frikandó
-sertéscomb
-csont nélkül
-sertéskaraj
-csont nélkül
-sertéslapocka
-sertésoldalas
-sertés tar
-csont nélkül
-sertéscsülök
-hátsó
-sertésmáj
-fehér csont
+version https://git-lfs.github.com/spec/v1
+oid sha256:8e77fcedb7fe1b39bce779f6c83dce64c7dcf26fc60d4a1356a53cebfefb5f71
+size 255

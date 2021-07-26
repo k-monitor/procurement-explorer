@@ -1,26 +1,3 @@
-Vállalkozási	Vállalkozási	PROPN	Case=Nom|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-(	(	PUNCT	_	
-részajánlatonként	részajánlatonként	NOUN	Case=Dis|Number=Sing	
-:	:	PUNCT	_	
-lineáris	lineáris	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-gyorsítók	gyorsító	NOUN	Case=Nom|Number=Plur	
-,	,	PUNCT	_	
-angiográfiás	angiográfiás	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-berendezés	berendezés	NOUN	Case=Nom|Number=Sing	
-,	,	PUNCT	_	
-szimulátorok	szimulátor	NOUN	Case=Nom|Number=Plur	
-)	)	PUNCT	_	
-„	„	PUNCT	_	
-full	full	NOUN	Case=Nom|Number=Sing	
-szerviz	szerviz	NOUN	Case=Nom|Number=Sing	
-"	"	PUNCT	_	
-szolgáltatására	szolgáltatás	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-,	,	PUNCT	_	
-karbantartására	karbantartás	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-,	,	PUNCT	_	
-javítására	javítás	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-,	,	PUNCT	_	
-alkatrészellátására	alkatrészellátás	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:4c46268913ca5106b1f1e3890fafcc97d36eb7f89b855d9918a07a8d974931db
+size 1058

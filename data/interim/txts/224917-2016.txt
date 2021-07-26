@@ -1,1 +1,3 @@
-Villamosenergia-vásárlási szerződés teljes ellátás alapú kereskedelmi szerződés keretében, menetrendadási kötelezettség nélkül.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0889689f7ba185896f9483a784e1b2c35a9dca1e849925bfb2d1b80909af4d01
+size 143

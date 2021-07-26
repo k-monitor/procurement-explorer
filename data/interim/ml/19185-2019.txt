@@ -1,16 +1,3 @@
-Munkaerő-kölcsönzés	Munkaerő-kölcsönzés	NOUN	Case=Nom|Number=Sing	
-a	a	DET	Definite=Def|PronType=Art	
-BKÜ	BKÜ	PROPN	Case=Nom|Number=Sing	
-Zrt.	Zrt.	PROPN	Case=Nom|Number=Sing	
-és	és	CONJ	_	
-a	a	DET	Definite=Def|PronType=Art	
-BKK	BKK	PROPN	Case=Nom|Number=Sing	
-Zrt.	Zrt.	PROPN	Case=Nom|Number=Sing	
-egyes	egyes	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-operatív	operatív	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-feladataihoz	feladat	NOUN	Case=All|Number=Plur|Number[psor]=Sing|Person[psor]=3	
-szükséges	szükséges	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-humán	humán	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-erőforrás	erőforrás	NOUN	Case=Nom|Number=Sing	
-biztosítására	biztosítás	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:d2f7eda9d799084dbbb7ee70aee6642517d620510d82e06fd0b562f7171bc9ef
+size 752

@@ -1,1 +1,3 @@
-újbuda sport nonprofit kft. földgáz beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:d3289d4b4d09dee598dd406a95e45b3a79683e5ef60d5817654dc2523400db0c
+size 49

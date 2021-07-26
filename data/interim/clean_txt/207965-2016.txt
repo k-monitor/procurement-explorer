@@ -1,4 +1,3 @@
-vállalkozási szerződés az szte klíma
-és szellőző berendezés karbantartás
-javítás
-üzemeltetés szolgáltatás megrendelés kezelés tárgy
+version https://git-lfs.github.com/spec/v1
+oid sha256:711dfca7c30b7a61db583872ff9e486b0c4bff9c7942cb6378e6135f88e67b75
+size 150

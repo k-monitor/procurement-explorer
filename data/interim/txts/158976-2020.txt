@@ -1,1 +1,3 @@
-A Debreceni Egyetem a GINOP-2.3.2-15-2016-00011 azonosítószámú, „szájüregi megbetegedések molekuláris vizsgálata” című pályázata támogatást nyert. A pályázat keretében 1 db keménységmérő eszköz beszerzésére vállalkoztunk.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cc2f70121721e3b07ec533cf893b0ef14a73422a94ba9e5c6ece81a43688b1f1
+size 251

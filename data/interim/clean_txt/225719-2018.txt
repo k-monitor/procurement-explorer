@@ -1,2 +1,3 @@
-latens tbc fertőzöttség kimutatás szolgáló reagens szállítás készülék biztosítás
-év kiterjesztett garancia és betanítás
+version https://git-lfs.github.com/spec/v1
+oid sha256:4fa8dc956e494b8ca9adb45125e4da06238bc19ce6d92360e88390fb592960ad
+size 137

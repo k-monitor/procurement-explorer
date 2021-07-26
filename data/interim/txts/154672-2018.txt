@@ -1,1 +1,3 @@
-Eszközbeszerzés az Agrokémia Sellye Zrt.-nél Oldatkészítő, ECSL Üzem technológia beszerzése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8ca0bc39f175fa6a729a7b04b4004eeffa3cb779472c7e6584a2aa62c5355c8b
+size 102

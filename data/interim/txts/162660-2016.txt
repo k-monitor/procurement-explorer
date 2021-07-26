@@ -1,1 +1,3 @@
-Adás-vételi szerződés „Transzparencia program” keretében szerver állomás kialakításához szükséges eszközök beszerzésére.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9366f08112a25d224b1cebfcf33c624544830e675604cd649bb6f7c03ede6c78
+size 140

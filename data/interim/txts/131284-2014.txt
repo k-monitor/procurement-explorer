@@ -1,1 +1,3 @@
-Metanol szállítása a Fővárosi Csatornázási Művek Zrt. részére.
+version https://git-lfs.github.com/spec/v1
+oid sha256:add3b5949bee41345a96e1acf57f92fb96a68006edb55481531cebb185edd26e
+size 72

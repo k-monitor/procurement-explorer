@@ -1,5 +1,3 @@
-szerződés tárgy
-orvostechnikai eszköz beszerzés a pécsi tudományegyetem kardiovaszkuláris intézete részére a tiop-2
-2-2010-0001 pályázat keret
-szerződés típus
-adásvételi szerződés
+version https://git-lfs.github.com/spec/v1
+oid sha256:e70402ffa6f08ebf1b4ec261ce49b92f63ddfd2b6f2d551cb54f321b61109043
+size 199

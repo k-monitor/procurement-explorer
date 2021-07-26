@@ -1,1 +1,3 @@
-Szállítási szerződés konszignációs raktár létesítésével oxigenátor és csőkészlet beszerzéséhez - azzal, hogy az előírt mennyiségektől - az egységár vagy más szerződéses feltételek módosítása nélkül - Ajánlatkérő mínusz 30 %-kal eltérhet.
+version https://git-lfs.github.com/spec/v1
+oid sha256:32bb9c59566a07777d16fe24afdab8b1944f13c7dc716662ec386dc44619cd84
+size 275

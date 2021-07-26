@@ -1,4 +1,3 @@
-szerződés meghatározás
-pénzügyi lízingszerződés
-hóeke adapter beszerzés zár végű pénzügyi lízingkonstrukció
-a dokumentáció leírt meg+felelő
+version https://git-lfs.github.com/spec/v1
+oid sha256:a2c7a3301053bf607767d085b1445349a3de989a385f1174955604829d10ff86
+size 161

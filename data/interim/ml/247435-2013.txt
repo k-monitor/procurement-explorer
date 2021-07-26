@@ -1,7 +1,3 @@
-Oracle	Oracle	PROPN	Case=Nom|Number=Sing	
-alkalmazás	alkalmazás	NOUN	Case=Nom|Number=Sing	
-support	support	NOUN	Case=Nom|Number=Sing	
-vállalkozási	vállalkozási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:63fd66e6795f0a8ccbb038a797d2f5bbc7f555b73467f0dc62e740183e1d6002
+size 268

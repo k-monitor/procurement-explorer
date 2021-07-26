@@ -1,9 +1,3 @@
-mellkasi szívó
-szűrő
-filter beszerzés
-összesen db
-hónap eszköz
-ajánlatkérő minden termék eset egyes csomagolt
-steril termék szállítás követel meg
-amennyiben az adott rész termék szerepel
-úgy a rész szereplő összes termék ajánlat kell tesz
+version https://git-lfs.github.com/spec/v1
+oid sha256:80200fd6500f9fc61336b6df45bd85e11f347e2d45a1dd15ada55608e325ad5e
+size 263

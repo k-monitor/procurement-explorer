@@ -1,1 +1,3 @@
-Insula Lutherana épületegyüttes kivitelezési munkáinak elvégzése egy ajánlattevővel megkötött keretmegállapodás keretén belül.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8329846e9c71092eb6c7a7a0d2ac05cd6bf26e04ba0aea77ab40a0ff597c7763
+size 141

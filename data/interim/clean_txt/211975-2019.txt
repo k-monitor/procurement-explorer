@@ -1,33 +1,3 @@
-vállalkozási szerződés keret diósd város önkormányzata közétkeztetési feladat ellátás
-óvodai és iskolai közétkeztetés
-diétás étkeztetés és ellátás biztosítás sokkolásos technológia hűtött étel
-egy használatos
-egyadagos kiszerelésű
-mikrohullámú sütő melegíthető
-címkéz
-zár
-doboz szállítva
-webes panaszkezelő
-ügyfélszolgálati felület működtetés
-amely munkaidő képes a panasz fogadás és kezelés
-valamint ajánlatkérő részére megfelelő
-hiteles riport készítés
-ii
-foly
-a kizáró ok ig
-a
-2015. kr 17. §
-bek alap az at ajánlat nyil kell benyújt
-hogy nem tartozik a fenti kizáró ok hatály alá
-valamint a kbt. 62. §
-bek k
-pont kb
-pont a 8. § i
-pont ib
-alp és a 10. § g
-pont gb
-alp foglalt szerint kell igazolnia
-a
-2015. kr 17. §
-bek alap at az alvállalkozó és adott eset az alk
-ig rész vevő szervezet vonatkozás csak nyil köteles benyújt a kizáró ok hiány
+version https://git-lfs.github.com/spec/v1
+oid sha256:067dfc96b0a11b1fb9db163a10f90f02e49e6544aacfb1b01cc942d9605fdae8
+size 937

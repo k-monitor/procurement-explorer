@@ -1,1 +1,3 @@
-Az Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet (OGYÉI) 1051 Budapest Zrínyi u. 3. szám alatti székhelyének, a 1097 Budapest, Albert Flórián út 3/A. szám alatti telephelyének napi takarítása, illetve épületenként 2 alkalommal nagytakarítása, a 1095 Budapest, Soroksári út 158. szám alatti épület esetében havonta egy alkalommal elvégzendő takarítási feladatok ellátása (összesen 12 alkalommal) takarítása, továbbá a 9021 Győr, Bajcsy Zsilinszky u. 27. szám alatti épület esetében havonta két alkalommal elvégzendő takarítási feladatok ellátása (összesen 24 alkalommal) a mellékelt műszaki tartalom alapján.
+version https://git-lfs.github.com/spec/v1
+oid sha256:064adb97004dbe0dca49bef05cf3da0697ef99afc18c6d8b11bd767411d75b23
+size 680

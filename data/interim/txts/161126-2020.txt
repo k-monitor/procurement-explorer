@@ -1,1 +1,3 @@
-DEK-903 Adásvételi szerződés gázenergia beszerzésére a Debreceni Egyetem részére
+version https://git-lfs.github.com/spec/v1
+oid sha256:b36d6deb536e80084b48189dd6e0fc764cad9f45cd1c9edce8f077ef6a250166
+size 89

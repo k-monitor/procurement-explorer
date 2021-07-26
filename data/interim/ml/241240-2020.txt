@@ -1,27 +1,3 @@
-Vállalkozási	Vállalkozási	PROPN	Case=Nom|Number=Sing	
-keretszerződés	keretszerződés	NOUN	Case=Nom|Number=Sing	
-„	„	PUNCT	_	
-A	a	DET	Definite=Def|PronType=Art	
-KIFÜ	KIFÜ	PROPN	Case=Nom|Number=Sing	
-részére	részére	ADP	_	
-az	az	DET	Definite=Def|PronType=Art	
-„	„	PUNCT	_	
-Oktatási	Oktatási	PROPN	Case=Nom|Number=Sing	
-Intézmények	intézmény	NOUN	Case=Nom|Number=Plur	
-és	és	CONJ	_	
-IKT	IKT	PROPN	Case=Nom|Number=Sing	
-vállalkozások	vállalkozás	NOUN	Case=Nom|Number=Plur	
-közötti	közötti	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-együttműködés	együttműködés	NOUN	Case=Nom|Number=Sing	
-ösztönzése	ösztönzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-és	és	CONJ	_	
-támogatása	támogatás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-"	"	PUNCT	_	
-elnevezésű	elnevezésű	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-projekt	projekt	NOUN	Case=Nom|Number=Sing	
-komplex	komplex	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-kommunikációs	kommunikációs	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-feladatainak	feladat	NOUN	Case=Gen|Number=Plur|Number[psor]=Sing|Person[psor]=3	
-ellátása	ellátás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-"	"	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:80add24ae4a986f818da54c09da8f6969fa2821481f26c98186c31c1c26e62d4
+size 1227

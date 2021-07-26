@@ -1,2 +1,3 @@
-élelmiszer és főzési alapanyag beszerzés adásvételi szerződés keret lajosmizse város önkormányzata intézmény gazdasági szervezete részére
-rész
+version https://git-lfs.github.com/spec/v1
+oid sha256:9abb39a17c666e12b53be5877be3182e42475559c9fe00c980fe5e18f6d1f920
+size 160

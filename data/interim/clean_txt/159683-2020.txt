@@ -1,2 +1,3 @@
-munkaerő-kölcsönzés irányuló keretszerződés az ajánlatkérő hulladékgazdálkodási feladat ellátás kapcsán felmerülő rakodási
-válogatási és gyűjtési feladat
+version https://git-lfs.github.com/spec/v1
+oid sha256:687bb287a3bfb57552d9a28e052a386c48e1ce29e41cbba384030dfb9ce59457
+size 178

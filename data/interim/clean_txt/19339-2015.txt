@@ -1,1 +1,3 @@
-vállalkozási szerződés százhalombatta város önkormányzat közigazgatási terület komplex parkfenntartási munka elvégzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:25059d62611430f3195416dd492ea464b9ad6ed87396c8eadb9eb3accaece572
+size 131

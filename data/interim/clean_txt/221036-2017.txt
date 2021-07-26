@@ -1,4 +1,3 @@
-adásvételi szerződés elektron tomográf beszerzés
-beállítás
-beüzemelés és betanítás tárgy
-csak gyári új rendszer szállítható
+version https://git-lfs.github.com/spec/v1
+oid sha256:34e58f1f43b2539dc716b5d8ee2b69987884dc9c74096d402d4901b409a6008a
+size 143

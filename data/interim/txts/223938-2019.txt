@@ -1,1 +1,3 @@
-„Hidak karbantartása 2019.” - vállalkozási keretszerződés
+version https://git-lfs.github.com/spec/v1
+oid sha256:e92f31f765e76ca5efd0afceb96ce613faf8d0106afca3842f102c889705fc3c
+size 66

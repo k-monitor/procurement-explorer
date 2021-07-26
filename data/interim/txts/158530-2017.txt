@@ -1,1 +1,3 @@
-Tápiószecső Nagyközség Önkormányzata részére „Közszolgáltatási szerződés keretében Tápiószecső közigazgatási területén keletkező települési szilárd hulladék rendszeres begyűjtése, elszállítása és ártalmatlanítása, hulladékudvar üzemeltetése”.
+version https://git-lfs.github.com/spec/v1
+oid sha256:356ce49efd35159df7e77f75f67a901911297360976526b4a7d204bb4e0a0bfd
+size 285

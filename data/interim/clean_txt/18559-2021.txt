@@ -1,3 +1,3 @@
-modern város program keret
-békéscsaba
-versenyuszoda tervezés
+version https://git-lfs.github.com/spec/v1
+oid sha256:cae1c1515974f79a18823d2f3ab3cf2477cd67be108fc5d0f58aefd7f5a9f755
+size 64

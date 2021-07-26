@@ -1,21 +1,3 @@
-I17	I17	PROPN	Case=Nom|Number=Sing	
-,	,	PUNCT	_	
-"	"	PUNCT	_	
-I19	I19	PROPN	Case=Nom|Number=Sing	
-"	"	PUNCT	_	
-jelű	jelű	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-illemhelyek	illemhely	NOUN	Case=Nom|Number=Plur	
-,	,	PUNCT	_	
-"	"	PUNCT	_	
-I18	I18	PROPN	Case=Nom|Number=Sing	
-"	"	PUNCT	_	
-jelű	jelű	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-illemhelyek	illemhely	NOUN	Case=Nom|Number=Plur	
-és	és	CONJ	_	
-öltözők	öltöző	NOUN	Case=Nom|Number=Plur	
-,	,	PUNCT	_	
-Városligeti	városligeti	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-sportcentrum	sportcentrum	NOUN	Case=Nom|Number=Sing	
-üzemeltetése	üzemeltetés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:4ba0e4350bc0b8e17cbed22053c66ee4a1b170ca76a4020b4e5a08ec4214d5bf
+size 678

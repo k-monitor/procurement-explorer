@@ -1,1 +1,3 @@
-ajánlatkérő hangszer kíván beszerez
+version https://git-lfs.github.com/spec/v1
+oid sha256:9bf90ff41c4ae00f4ffca362c71327457542ca8d08cda423a27254e943d7e8c0
+size 40

@@ -1,14 +1,3 @@
-Keretmegállapodás	keretmegállapodás	NOUN	Case=Nom|Number=Sing	
-megkötése	megkötés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-Oltóanyag	oltóanyag	NOUN	Case=Nom|Number=Sing	
-és	és	CONJ	_	
-gyógyszer	gyógyszer	NOUN	Case=Nom|Number=Sing	
-beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-Budapest	Budapest	PROPN	Case=Nom|Number=Sing	
-Főváros	főváros	NOUN	Case=Nom|Number=Sing	
-Kormányhivatala	kormányhivatal	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-részére	részére	ADP	_	
-30.	30.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
-részben	rész	NOUN	Case=Ine|Number=Sing	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:ba89958b933fbc3ecc525d80023e67505b0e34e2b5b48dacab491c8a67e4ca22
+size 662

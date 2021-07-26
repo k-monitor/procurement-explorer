@@ -1,1 +1,3 @@
-Szállítási szerződés - EKOP-2.1.13. kiemelt projekt keretében, ügyfélszolgálati irodák korszerűsítéséhez szükséges multifunkciós nyomtatók beszerzése festékanyaggal a dokumentációban részletezettek szerint.
+version https://git-lfs.github.com/spec/v1
+oid sha256:91b21beb9dc85641deddfcfb29ab0bc9e29111a0789e4ceb29095dc088ca92fb
+size 229

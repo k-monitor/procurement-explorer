@@ -1,1 +1,3 @@
-szállítási szerződés l-es új műanyag hulladékgyűjtő tartály beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:b330baf5d5d99078495979582cc8b6003b65534287effb06e792dbdc26359c14
+size 81

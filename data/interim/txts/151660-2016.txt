@@ -1,1 +1,3 @@
-Adásvételi szerződés a veleszületett vérzékenység kezelésére szolgáló nagy von Willebrand faktor tartalmú nagytisztaságú, plazma eredetű VIII. faktor koncentrátum, amely mérsékelt súlyosságú von Willebrand betegség, haemophilia A, immuntolerancia indukciós kezelésére alkalmas (ATC kód: B02BD06) készítmény 2016. évi beszerzése tárgyában.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5f6407a17e62e631b02de179c90ff06775be3974ca78082c78c5ac0e8bd322b3
+size 372

@@ -1,4 +1,3 @@
-Papíripari	papíripari	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-gépbeszerzés	gépbeszerzés	NOUN	Case=Nom|Number=Sing	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:5dc3bfe055c874c5c3275241bb52beec161f99351f44d899768c1ea03518aa50
+size 132

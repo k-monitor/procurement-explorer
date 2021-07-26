@@ -1,8 +1,3 @@
-kötszer beszerzés
-összesen db
-csomag
-tekercs
-levél
-lap
-doboz mennyiség
-ajánlati rész
+version https://git-lfs.github.com/spec/v1
+oid sha256:a87ae0a0b417f154ae1c93b28e33caeb069bf735bf3b1764f551c77c53dea5f5
+size 91

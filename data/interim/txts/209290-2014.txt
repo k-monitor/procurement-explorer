@@ -1,1 +1,3 @@
-Szerződés meghatározása: Adásvételi szerződés Tárgya: „A „Budapest villamos és trolibusz járműfejlesztés I. ütem” keretében a műszaki leírásnak megfelelő, 100%-ban alacsonypadlós, azonos típuscsaládba tartozó, új, min. 4 km folyamatos felsővezeték nélküli utasforgalmi üzemre alkalmas személyszállító csuklós és szóló trolibuszok beszerzése”.
+version https://git-lfs.github.com/spec/v1
+oid sha256:952b6375baa5d946c30fa35ac54c8eb86ca8f0263e9244245edc6d87d5edeaf9
+size 388

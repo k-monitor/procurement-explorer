@@ -1,1 +1,3 @@
-Egészségügyi szimulációs eszközök beszerzése a Pécsi Tudományegyetem EFOP-4.2.1-16-2017-00008 jelű pályázaton belül az ETK Humán Szimulációs Központ fejlesztésére a közbeszerzési dokumentációban meghatározott paraméterekkel 4 ajánlati részben.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ea784c7e542593390f0a425edc1854e1ca59270ba08af16a5db60b7efc987bfd
+size 271

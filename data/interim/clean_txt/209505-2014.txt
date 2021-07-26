@@ -1,4 +1,3 @@
-adás-vételi szerződés db röntgen berendezés beszerzés a ők tartozó pacs rendszer együtt a tiop-2
-1b-2013-0026 azonosítójú
-új járóbeteg szakellátó rendelő építés tata
-című projekt megvalósítás keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:721a9d920c43b00043e62994e1b5a85fcefabdb27e1c53e2f63963b28eb55393
+size 224

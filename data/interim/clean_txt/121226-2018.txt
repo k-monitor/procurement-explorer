@@ -1,1 +1,3 @@
-atmr szerver
+version https://git-lfs.github.com/spec/v1
+oid sha256:4c26a553db8816101c9a88c5522fd638e5dbd273ccdc8ea991640489d51eef17
+size 12

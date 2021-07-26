@@ -1,1 +1,3 @@
-Szállítási szerződés - Építési anyagok beszerzése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7352c9ec086f639f5c7fecb17dcb12309737a19fb68744aa52648343c61d2871
+size 59

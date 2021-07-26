@@ -1,2 +1,3 @@
-a bábolna nemzeti ménesbirt kft. részére földgáz energia szállítás
-teljes ellátás alapú földgáz energia szállítási szerződés keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:fdf43a7441ecacf893a7a4ccbb3a3ed5951dac60e2fd861f4f9d75b832db1bb0
+size 149

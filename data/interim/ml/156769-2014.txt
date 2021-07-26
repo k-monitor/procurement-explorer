@@ -1,16 +1,3 @@
-Villamos	Villamos	PROPN	Case=Nom|Number=Sing	
-energia	energia	NOUN	Case=Nom|Number=Sing	
-szállítása	szállítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-Százhalombatta	Százhalombatta	PROPN	Case=Nom|Number=Sing	
-Város	Város	PROPN	Case=Nom|Number=Sing	
-Önkormányzata	Önkormányzata	PROPN	Case=Nom|Number=Sing	
-fenntartásában	fenntartás	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-lévő	lévő	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-intézmények	intézmény	NOUN	Case=Nom|Number=Plur	
-részére	részére	ADP	_	
-villamos	villamos	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-energia-vásárlási	energia-vásárlási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:1b4f489b58dbc4c5271880b60f45368f9dce7c0e7c5f14e0f1831150a6a97e9a
+size 852

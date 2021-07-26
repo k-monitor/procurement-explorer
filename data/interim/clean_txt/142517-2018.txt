@@ -1,14 +1,3 @@
-mkb16
-kg magyarország közigazgatási terület keletkező társított csomagolási hulladék gyűjtés
-hasznosítás
-szolgáltatás-megrendelési szerződés keret a környezetvédelmi termékdíj szóló
-2011. évi
-törvény 22. §
-bekezdés alap
-ipari és kereskedelmi társított csomagolási hulladék gyűjtés és hasznosítás
-1. rész
-kg 2. rész
-kg 3. rész
-kg 4. rész
-kg 5. rész
-kg 6. rész
+version https://git-lfs.github.com/spec/v1
+oid sha256:f834ac21050c0c8eed9a803e1b13e46ab74785530b4834df54acb293976aa024
+size 403

@@ -1,11 +1,3 @@
-Készétel	készétel	NOUN	Case=Nom|Number=Sing	
-beszerzés	beszerzés	NOUN	Case=Nom|Number=Sing	
-a	a	DET	Definite=Def|PronType=Art	
-Győri	Győri	PROPN	Case=Nom|Number=Sing	
-óvodák	óvoda	NOUN	Case=Nom|Number=Plur	
-részére	részére	ADP	_	
-vállalkozási	vállalkozási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:50bef3c4a16c1f12935b332a6a288e18c6936847dc349e3b6da0f68e522501de
+size 454

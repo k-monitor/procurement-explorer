@@ -1,1 +1,3 @@
-Vállalkozási keretszerződés az EU Kohéziós Politikáját szolgáló EU Alapok társfinanszírozásával megvalósuló fejlesztéspolitikai programok értékeléseinek készítésére, 9 részben: 1. rész: A fejlesztéspolitika KKV-kra gyakorolt hatásainak értékelése közvetlen és közvetett vállalkozási támogatások esetén 2. rész: Rövid és hosszú távú klaszterszintű, ágazati és makrogazdasági hatások értékelése 3. rész: K+F, innováció és strukturális változások értékelése 4. rész: Munkaerőpiaci- és társadalmi hatások értékelése 5. rész: Környezeti- és klímahatások értékelése 6. rész: Közszféra és közszolgáltatások fejlesztéseinek értékelései 7. rész: Infrastruktúra-fejlesztések értékelése 8. rész: Értékelésekhez közvetlenül kapcsolódó elsődleges információgyűjtés és adatelőkészítés 9. rész: Értékelések módszertani támogatása, tartalmi és javaslati szintézisek.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c0eb6b5a10ba6b240e721b90f06f1a9ff6d93c50e0768cdf0e33a6a7c0f2f1fd
+size 973

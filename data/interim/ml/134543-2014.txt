@@ -1,14 +1,3 @@
-Az	az	DET	Definite=Def|PronType=Art	
-AUDI	audi	NOUN	Case=Nom|Number=Sing	
-Hungária	Hungária	PROPN	Case=Nom|Number=Sing	
-Óvoda	óvoda	NOUN	Case=Nom|Number=Sing	
-,	,	PUNCT	_	
-Általános	Általános	PROPN	Case=Nom|Number=Sing	
-Iskola	Iskola	PROPN	Case=Nom|Number=Sing	
-és	és	CONJ	_	
-Gimnázium	Gimnázium	PROPN	Case=Nom|Number=Sing	
-konyha	konyha	NOUN	Case=Nom|Number=Sing	
-és	és	CONJ	_	
-étkezőjének	étkező	NOUN	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-építése	építés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:724dc8d29d6772c014dda7951b4b7eaaf8be19144cc5416a91fecae4f7f1a030
+size 559

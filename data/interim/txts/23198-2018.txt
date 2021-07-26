@@ -1,1 +1,3 @@
-A Magyar Közút Nonprofit Zrt. tulajdonában és/vagy üzemeltetésében lévő TATRA-UDS és MULAG típusú ároktisztító célgépek garanciális és garanciális időszakon túli karbantartása, javítása, karbantartási munkálatokhoz kapcsolódó és attól független alkatrész ellátás biztosítása, a Közbeszerzési dokumentációban meghatározott feltételekkel és szerint. Szerződés meghatározása: 24 hónap időtartamra kötött vállalkozási keretszerződés.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dfa1af43811d8473eedf9907be0098f49129e5f3544763ff41665e1dc5832f70
+size 485

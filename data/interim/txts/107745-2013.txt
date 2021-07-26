@@ -1,1 +1,3 @@
-TÁMOP-5.3.8-11/A1-2012-0001 azonosítószámú „Rehabilitáció - Érték - Változás (RÉV): Megváltozott munkaképességű személyek munkaerő-piaci helyzetének elősegítése érdekében történő rendszerszintű képzési és szolgáltatásfejlesztési modellprogram” keretében: — az egységes országos szakmai monitoring rendszer módszertani és dokumentációs hátterének elméleti kidolgozása, valamint, — a foglalkozási rehabilitáció szereplői által nyújtott humánszolgáltatási tevékenység helyszíni vizsgálata.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b885bdf7a2c48785f04c872e2799aa79417203b7c02668fe0eaa62daa3d153b8
+size 552

@@ -1,1 +1,3 @@
-Vállalkozási szerződés keretében - a Magyar Közút Nonprofit Zrt. kezelésében lévő közutak mentén a balesetveszélyes fák kivágása, gallyazása, munkaterület takarítása, valamint tuskómarás elvégzése és a kitermelt faanyag Ajánlatkérő telephelyére beszállítása a műszaki dokumentációban részletezettek szerint, az ajánlati felhívás B mellékletében megadott részekben és keretösszegekkel.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b5adac911a67a763f3d3ff1679daeac94a36116263c6208a099b30c9b1da74b5
+size 429

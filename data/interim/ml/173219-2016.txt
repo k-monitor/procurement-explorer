@@ -1,13 +1,3 @@
-Gázenergia	gázenergia	NOUN	Case=Nom|Number=Sing	
-beszerzés	beszerzés	NOUN	Case=Nom|Number=Sing	
-a	a	DET	Definite=Def|PronType=Art	
-Belváros-Lipótváros	Belváros-lipótváros	NOUN	Case=Nom|Number=Sing	
-Budapest	Budapest	PROPN	Case=Nom|Number=Sing	
-Főváros	főváros	NOUN	Case=Nom|Number=Sing	
-V.	5.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
-kerületi	kerületi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-Önkormányzat	Önkormányzat	PROPN	Case=Nom|Number=Sing	
-részére	részére	ADP	_	
-2016-2017	2016-2017	NUM	Case=Nom|NumType=Card|Number=Sing	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:51ff02177c6eba38251b439d939dcf0a6a5d54fbcb6c586873520bd59c6c8c0a
+size 560

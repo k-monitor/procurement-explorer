@@ -1,1 +1,3 @@
-Vállalatirányítási rendszer (VIR) és kontrolling rendszer üzemeltetésével kapcsolatos szakértői támogatás beszerzése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:143dfa61c95d93a10a91a486581e2b04c18d036f6dc4fff7ab295b44d63fe7c9
+size 130

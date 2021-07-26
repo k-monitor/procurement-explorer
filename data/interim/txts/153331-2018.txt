@@ -1,1 +1,3 @@
-A Pázmány Péter Katolikus Egyetem „Bródy projekt” megvalósításához kapcsolódó építési beruházás lebonyolítói feladatainak ellátása.
+version https://git-lfs.github.com/spec/v1
+oid sha256:05dd93ec59f943ad98d0dc346242aa6936fe5065658ac987cbc23892717a77fe
+size 154

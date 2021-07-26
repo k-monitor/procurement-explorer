@@ -1,1 +1,3 @@
-oracle alkalmazás support vállalkozási szerződés
+version https://git-lfs.github.com/spec/v1
+oid sha256:1f3c5ae9aad3051c12e2d657d283ea9c9dc28139539970dbf4fdd0f827c6cbb4
+size 53

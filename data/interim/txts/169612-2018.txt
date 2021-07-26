@@ -1,1 +1,3 @@
-Modern Városok Program keretében megvalósuló Debreceni Nemzetközi Iskola” tárgyú projekt műszaki ellenőri és műszaki lebonyolítói feladatai.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9961fea29d57caefc482a9883d6b886530e2244c07daadd7f26738c5fb1091e7
+size 155

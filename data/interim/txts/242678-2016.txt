@@ -1,1 +1,3 @@
-Az MTVA televíziós műsoraihoz és image építéséhez, valamint egyéb közérdekű tájékoztatásához kapcsolódó, integrált marketingkommunikációs stratégia kialakítása és megvalósítása, különös tekintettel a kreatív- és médiatervezésre, valamint médiavásárlási szolgáltatásra.
+version https://git-lfs.github.com/spec/v1
+oid sha256:06aa4d6bdf9990323de5dc081594a62d2580812c6c7eb619dcf5cb7bab256239
+size 309

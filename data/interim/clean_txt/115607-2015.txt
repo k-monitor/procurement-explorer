@@ -1,2 +1,3 @@
-adásvételi szerződés kölyök-atlétikai oktatási program keret speciális kölyök-atlétikai eszközcsomag beszerzés
-és meghatározott iskola részére történő kiszállítás
+version https://git-lfs.github.com/spec/v1
+oid sha256:072d8f08470cb390a76426bf77373fbeba2477a635dfbc347ac767eed2624d51
+size 186

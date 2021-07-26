@@ -1,22 +1,3 @@
-magyarország kormánya kormányzati tevékenység kapcsolódó komplex közvéleménykutatási valamint tanulmánykészítési tevékenység megrendelés vállalkozási szerződés keret a ii
-2.4
-pont és közbeszerzési dokumentum
-kd
-foglalt szerint a ii
-2.4
-pont i
-ii
-és iii
-alpont szerinti
-részben azonos idő lebonyolítandó kutatás alap a gazdasági kilátás és realitás feltérképező 1. kutatás ad
-ez épül a társadalmi folyamat szociális szempont vizsgáló ii
-kutatás
-amely támaszkodva az 1. kutatás eredmény bemutat a változás
-amely meghatároz társadalom jövő
-jövőkép
-a szemléleti egység következő vizsgálandó a jelenlegi határ kívül élő magyar viszony a magyarországi folyamat
-az ők is érintő következmény
-ez irányul a iii
-kutatás
-az elkészült kutatás és elemzés
-szintetizáló közös tanulmány
+version https://git-lfs.github.com/spec/v1
+oid sha256:8b9c11c771197aca674a59c4a89f108da396993af80e5dcf7522c3b7f9ee764e
+size 857

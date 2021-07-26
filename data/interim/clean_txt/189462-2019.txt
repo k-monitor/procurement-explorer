@@ -1,2 +1,3 @@
-földgáz szabadpiaci vétel nyíregyháza megyei jogú város önkormányzati tulajdonú társaság részére 1.10.2019
-óra óra tartó időszak vonatkozó
+version https://git-lfs.github.com/spec/v1
+oid sha256:97f9f5c3af0e4ff6305532511bfe63ea798ff62fb87a88dd42ca0382488a2e24
+size 157

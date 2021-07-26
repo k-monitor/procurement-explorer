@@ -1,1 +1,3 @@
-Felső-Bácskai Ivóvízminőség-javító Projekt tárgyú projekt (KEOP-1.3.0/09-11-2011-0038) keretében ivóvízhálózat építésére és kapcsolódó tevékenységek elvégzésére vonatkozó FIDIC mérnöki, és műszaki ellenőri feladatok ellátása megbízási szerződés alapján.
+version https://git-lfs.github.com/spec/v1
+oid sha256:42db49cd28875d3fa07377e27e0dfd4835c1bb3e9eef1d0553eb75c845fa18b4
+size 293

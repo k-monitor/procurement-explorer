@@ -1,1 +1,3 @@
-megbízási szerződés keret közbeszerzési tanácsadás és felelős akkreditált közbeszerzési szaktanácsadói feladat ellátás
+version https://git-lfs.github.com/spec/v1
+oid sha256:7de14d6032f0fdf2a96598f1c33a272bd37aea7c9d3f6e6580f8bc50af3ffea8
+size 135

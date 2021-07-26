@@ -1,1 +1,3 @@
-Biztosítási szerződés a Fővárosi házhoz menő szelektív hulladékgazdálkodási rendszer részeként a Fővárosi Közterület-fenntartó Zrt. üzemeltetésében lévő hulladéktároló edényzet all risk vagyonbiztosítása érdekében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5a7e10657aed75f975fb70f13013abedbf78aa8079bf20ea7ad7e947d493e70c
+size 246

@@ -1,5 +1,3 @@
-top-6
-3.3
-16-sg1-2018-00001 projekt keret belül szeged
-belterületi csapadékvíz elvezetés iii
-és
+version https://git-lfs.github.com/spec/v1
+oid sha256:80bf1df74f7439ca0b9c70cce96de94976d2ffd84a02e97711fd3a954cc2befb
+size 101

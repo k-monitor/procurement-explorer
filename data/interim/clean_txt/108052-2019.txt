@@ -1,6 +1,3 @@
-kormányzati személyügyi döntéstámogató rendszer kialakítás
-rendszertervezés és fejlesztés
-vállalkozási szerződés keret a köfop-2
-5-vekop-16-2016-00001 azonosító jelű
-a versenyképes közszolgálat személyzeti utánpótlás stratégiai támogatás
-elnevezésű kiemelt projekt keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:b6cc92765ce9c5d24e7e4f8869adea8da3f81a842d0aa6769f67d2617f75ad82
+size 302

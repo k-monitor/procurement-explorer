@@ -1,2 +1,3 @@
-szállítási szerződés
-szárító építés
+version https://git-lfs.github.com/spec/v1
+oid sha256:d78a29bb1b55effdcb59571da4d1a0ed5209c3a834be25b2dd7f8ad771bb90bd
+size 46

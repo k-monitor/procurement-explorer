@@ -1,12 +1,3 @@
-Generálkivitelezői	generálkivitelezői	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-új	új	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-speciális	speciális	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-képzési	képzési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-intézmény	intézmény	NOUN	Case=Nom|Number=Sing	
-és	és	CONJ	_	
-kapcsolódó	kapcsolódó	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-létesítmények	létesítmény	NOUN	Case=Nom|Number=Plur	
-megvalósítására	megvalósítás	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:f66c0d92cf4f0e8b42a3d1f5904b6478fb1252fdd949940ba045fd745debe0f2
+size 608

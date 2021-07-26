@@ -1,5 +1,3 @@
-adásvételi szerződés keret berettyóújfalu létesítendő új büntetés-végrehajtási intézet alap és szakellátó rendelő és fekvőbeteg ellátó osztály kialakítás és felszerelés orvostechnikai kéziműszer
-egyéb eszköz eszköz beszerzés
-mely tartalmaz a készülék helyszín szállítás
-szükség eset beüzemelés
-további részlet a közbeszerzési dokumentum
+version https://git-lfs.github.com/spec/v1
+oid sha256:5f741027e72718b5d8a9cdf039d7df231fe67310001d53c1c2e9b892ff788eff
+size 385

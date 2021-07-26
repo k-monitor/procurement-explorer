@@ -1,1 +1,3 @@
-A Városliget Zrt. által vagyonkezelt Budapest XIII. kerület, Szabolcs utca 33–35. sz. alatti található Országos Múzeumi Restaurálási és Raktározási Központ és a Budapest XIV. kerület, Hermina út 57. sz. alatti irodaház intenzív zöldfelületeinek komplex parkfenntartási munkáinak elvégzése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:53dbed2477e4baacf29793348f8a1d67b9f31ff9538ac1096abbb45486633354
+size 315

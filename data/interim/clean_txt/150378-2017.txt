@@ -1,11 +1,3 @@
-békéscsabai gyermekélelmezési intézmény konyha részére sertéshús és sütnivaló kolbász beszerzés adásvételi szerződés keret sorszám élelmiszer megnevezés meghatározás mennyiség
-kg
-db
-liter
-doboz
-csomag
-csomó
-1. sertés húsrész féle kg
-2. sütnivaló kolbász féle kg
-a megadott alap-összmennyiség ajánlatkérő
-kal eltér a szerződés teljesítés sor
+version https://git-lfs.github.com/spec/v1
+oid sha256:bc24641afc1d5db2385492e2eab9d55cc07bc83803905132e2c8675dc86612dd
+size 384

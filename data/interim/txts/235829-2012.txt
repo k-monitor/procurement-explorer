@@ -1,1 +1,3 @@
-Vállalkozási szerződés keretében megrendelő intézményeinek teljes körű általános és egészségügyi napi, illetve időszakos takarítása.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7e010dc2dfbcc23a5d031379cd8c2d26418c90927906e14476f15a421f8c1779
+size 151

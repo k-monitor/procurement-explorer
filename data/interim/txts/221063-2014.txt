@@ -1,1 +1,3 @@
-Vállalkozási keretszerződés VW, Skoda, seat gyártmányú kistehergépjárművek és személygépjárművek garanciális időszak alatti illetve garanciális időszakon túli javítására, szervizelésére és alkatrész ellátására, a Magyar Közút Nonprofit Zrt. számára valamennyi rész vonatkozásában összesen 400 000 000 HUF nettó keretösszeg erejéig. Az eggyes részekre vonatkozó keretösszegek II.2.1) pontban kerül részletezésre.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2aef1e1eeb2f1e66d831427c3fa53095ed52a5b8f6ffa3c175a37aee8ff930ae
+size 458

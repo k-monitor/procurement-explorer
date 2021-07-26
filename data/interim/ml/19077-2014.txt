@@ -1,33 +1,3 @@
-A	a	DET	Definite=Def|PronType=Art	
-Nemzeti	Nemzeti	PROPN	Case=Nom|Number=Sing	
-Adó	Adó	PROPN	Case=Nom|Number=Sing	
--	-	PUNCT	_	
-és	és	CONJ	_	
-Vámhivatal	vámhivatal	NOUN	Case=Nom|Number=Sing	
-1134	1134	NUM	Case=Nom|NumType=Card|Number=Sing	
-Budapest	Budapest	PROPN	Case=Nom|Number=Sing	
-,	,	PUNCT	_	
-Dózsa	Dózsa	PROPN	Case=Nom|Number=Sing	
-György	György	PROPN	Case=Nom|Number=Sing	
-út	út	PROPN	Case=Nom|Number=Sing	
-128-132	128-132	NUM	Case=Nom|NumType[sem]=Result|Number=Sing	
-.	.	PUNCT	_	
-szám	szám	NOUN	Case=Nom|Number=Sing	
-alatti	alatti	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-irodaház	irodaház	NOUN	Case=Nom|Number=Sing	
--	-	PUNCT	_	
-részben	részben	ADV	_	
-gépi	gépi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-technológiával	technológia	NOUN	Case=Ins|Number=Sing	
-történő	történő	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
--	-	PUNCT	_	
-takarítása	takarítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
-További	további	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-részletek	részlet	NOUN	Case=Nom|Number=Plur	
-a	a	DET	Definite=Def|PronType=Art	
-dokumentációban	dokumentáció	NOUN	Case=Ine|Number=Sing	
-találhatók	található	ADJ	Case=Nom|Degree=Pos|Number=Plur|VerbForm=PartPres	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:43102e520ba61bc53dd99c9b9302713525cdde6880090299e92e6847faa97cfb
+size 1263

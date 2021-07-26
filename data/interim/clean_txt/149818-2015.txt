@@ -1,9 +1,3 @@
-szolgáltatási keretszerződés keret az ajánlatkérő üzemeltetés lévő hulladékgyűjtő udvar begyűjtés kerülő veszélyes és nem veszélyes hulladék gyűjtés
-átvétel
-elszállítás
-és kezelés
-ártalmatlanítás és
-vagy hasznosítás
-vagy kezelés átadás
-betartva a teljes folyamat vonatkozó hatályos jogszabály foglalt előírás
-és az ajánlatkérő telephely vonatkozó előírás is
+version https://git-lfs.github.com/spec/v1
+oid sha256:53350a1e7ed03d37ce2cd882c205cb66f4004bfa638dd78fdaf7da676dc860f0
+size 411

@@ -1,8 +1,3 @@
-megbízási szerződés keret a
-tisza hullámtér
-nagyvízi meder vízszállító képesség helyreállítás a szolnoki vasúti híd és kisköre közötti szakasz
-tárgyú
-keop-2
-1.1
-09-2009-0006 azonosítószámú projekt megvalósítás és hatékony üzemeltetés előkészítés kapcsolatos pr
-és kommunikációs tevékenység teljes körű ellátás
+version https://git-lfs.github.com/spec/v1
+oid sha256:94301279dc09216d5aa8d7103b44942b40be3c46490e3567e7b8691024acea72
+size 357

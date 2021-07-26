@@ -1,1 +1,3 @@
-Építési szerződés "Körösladány Város szennyvízcsatornázása II. ütem és a szennyvíztisztító telep bővítése" (pályázat azonosító száma: KEOP-1.2.0/09-11-2011-0022) FIDIC Könyv szerződéses feltételei szerint.
+version https://git-lfs.github.com/spec/v1
+oid sha256:325594c65fefe13e12be180d0a439c4020cd24784c3a5ab0f29e0e55a7f50a5f
+size 234

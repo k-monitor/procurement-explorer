@@ -1,11 +1,3 @@
-Szállítási	Szállítási	PROPN	Case=Nom|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-menetrendszerinti	menetrendszerint	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-tömegközlekedés	tömegközlekedés	NOUN	Case=Nom|Number=Sing	
-lebonyolítására	lebonyolítás	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-szolgáló	szolgáló	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-autóbuszok	autóbusz	NOUN	Case=Nom|Number=Plur	
-beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-tárgyában	tárgy	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:14a542a4babd0effbf90b0d4f21f3a1169db8117d089ef83b5e8f8056dafa94d
+size 640

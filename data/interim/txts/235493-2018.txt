@@ -1,1 +1,3 @@
-A Heim Pál Országos Gyermekgyógyászati Intézet számára takarítási szolgáltatás nyújtása.
+version https://git-lfs.github.com/spec/v1
+oid sha256:016eea30fb6da50e582a51cd34dd54b5acfe292e7fa8de26d3ada2c0fb1dba9d
+size 101

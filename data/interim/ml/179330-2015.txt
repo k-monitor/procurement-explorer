@@ -1,14 +1,3 @@
-„	„	PUNCT	_	
-Villamos	Villamos	PROPN	Case=Nom|Number=Sing	
-energia	energia	NOUN	Case=Nom|Number=Sing	
-szabadpiaci	szabadpiaci	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-a	a	DET	Definite=Def|PronType=Art	
-KEF	KEF	PROPN	Case=Nom|Number=Sing	
-által	által	ADP	_	
-üzemeltetett	üzemeltetett	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPast	
-épületek	épület	NOUN	Case=Nom|Number=Plur	
-ellátásához	ellátás	NOUN	Case=All|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-"	"	PUNCT	_	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:2b65249632f4b8ee588d5a59fc434f6bab4eb447b675305b5d1e0d4ab3988014
+size 584

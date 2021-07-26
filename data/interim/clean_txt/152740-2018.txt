@@ -1,5 +1,3 @@
-adásvételi szerződés élelmiszer beszerzés a szent lázár megyei kórház
-az ajánlat
-rész tehető
-a felhívás ii
-1-ii.2.14 pont valamint közbeszerzési dokumentáció 3. kötet meghatározott élelmiszer vonatkozó
+version https://git-lfs.github.com/spec/v1
+oid sha256:f62470c4384723959c06c0af799ea659fd6d76e9032e2683cb1f76745baa0f78
+size 224

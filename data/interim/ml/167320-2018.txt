@@ -1,9 +1,3 @@
-Ajánlatkérő	ajánlatkérő	NOUN	Case=Nom|Number=Sing	
-üzemeltetésében	üzemeltetés	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-lévő	lévő	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-ZF	ZF	PROPN	Case=Nom|Number=Sing	
-típusú	típusú	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-váltószerkezet	váltószerkezet	NOUN	Case=Nom|Number=Sing	
-javítása	javítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:2b3a7978ea0c79dd40b4754ef7ed34c291f6ac60f19772d076f7790db4956465
+size 464

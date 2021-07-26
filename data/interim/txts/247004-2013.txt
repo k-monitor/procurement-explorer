@@ -1,1 +1,3 @@
-Szállítási szerződés a dokumentáció 2. sz. mellékletében meghatározott választékú és mennyiségű nyomtatott verziójú külföldi folyóirat, az ugyanezen mellékletben meghatározott címekre történő szállítására és terjesztésére. Szolgáltatási szerződés a dokumentáció 3. sz. mellékletében meghatározott választékú külföldi elektronikus szakirodalmi folyóiratok beszerzésére.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6f3cfbfd810cf8a83d08ac29215e2d658d61d87f987fb59d6a5256f783c4f0c2
+size 419

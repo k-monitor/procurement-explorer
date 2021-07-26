@@ -1,1 +1,3 @@
-A Kecskemét Megyei Jogú Város helyben központosított közbeszerzési rendszerének hatálya alá tartozó, valamint a rendszerhez önként csatlakozott felhasználók villamosenergiával történő ellátása teljes ellátás alapú, vevői menetrendadási kötelezettség nélküli villamosenergia-vásárlási keretszerződés keretében. Az ajánlatkérő által meghatározott részletes szerződéses feltételeket tartalmazó villamosenergia-vásárlási keretszerződés tervezetet a dokumentáció tartalmazza.
+version https://git-lfs.github.com/spec/v1
+oid sha256:65d0402b375c827e141ccdfde84f1791b34e3c6f7012d9dbcf973a21129e5e64
+size 523

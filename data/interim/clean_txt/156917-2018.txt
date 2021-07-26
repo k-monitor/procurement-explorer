@@ -1,2 +1,3 @@
-adás-vételi szerződés keret élelmiszer alapanyag beszerzés alsózsolca város önkormányzata részére
-részajánlattételi kör
+version https://git-lfs.github.com/spec/v1
+oid sha256:a171948bda361a171cb74765803950014ed4eb30661754f94d21ef2fac7ef978
+size 135

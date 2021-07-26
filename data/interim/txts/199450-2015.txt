@@ -1,1 +1,3 @@
-Adásvételi keretszerződés. Irodaszer beszerzés a TÁMOP-3.1.4.B-13/1-2013-0001 azonosítószámú kiemelt projekthez kapcsolódóan.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0542d933eaf45132891c80e342fd658f55ce5be3b56419af8972da451628f013
+size 137

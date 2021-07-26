@@ -1,5 +1,3 @@
-a köfop-1
-0-vekop-15-2016-00040 számú projekt keret
-az elektronikus ingatlan-nyilvántartás létrehozás érdek infrastruktúra-felmérési
-valamint adatbázis
-és alkalmazásfejlesztési feladat ellátás
+version https://git-lfs.github.com/spec/v1
+oid sha256:e0079f8c46f6bd7d0d8093a2bb5e6616994ca66dd5b2efac7f2cc6953960b099
+size 209

@@ -1,1 +1,3 @@
-Kovács Katalin Nemzeti Kajak-Kenu Sportakadémia generáltervezői feladatának ellátása
+version https://git-lfs.github.com/spec/v1
+oid sha256:24235d12bb347f5dc6ecd09825814e361312f290a3b7cd40567e39b391133ab4
+size 91

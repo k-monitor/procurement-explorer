@@ -1,1 +1,3 @@
-Vállalkozási szerződés haditechnikai eszközök restaurálási és a kapcsolódó logisztikai feladatainak ellátására.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6c2c97339c793cdea276b3bb1572746cfd5d7895c2cac84d8620b300b7ced703
+size 125

@@ -1,1 +1,3 @@
-Szerződés meghatározása: Hitelszerződés. Szerződés tárgya: Beruházási célú hitelkeret és folyószámlahitel-keret, valamint ehhez kapcsolódó számlavezetés biztosítása a Mecsek - Dráva Hulladékgazdálkodási Projekthez kapcsolódóan.
+version https://git-lfs.github.com/spec/v1
+oid sha256:39eab836088370108284b675912767330be5d3692a4db16110911928b667b3d8
+size 255

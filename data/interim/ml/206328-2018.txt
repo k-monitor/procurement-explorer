@@ -1,16 +1,3 @@
-Gépjárművek	gépjármű	NOUN	Case=Nom|Number=Plur	
-beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-adásvételi	adásvételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-a	a	DET	Definite=Def|PronType=Art	
-Nemzeti	Nemzeti	PROPN	Case=Nom|Number=Sing	
-Ménesbirtok	ménesbirt	NOUN	Case=Nom|Number=Plur	
-és	és	CONJ	_	
-Tangazdaság	Tangazdaság	PROPN	Case=Nom|Number=Sing	
-Zártkörűen	zártkörű	ADJ	Case=Ess|Degree=Pos|Number=Sing	
-Működő	működő	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-Részvénytársaság	részvénytársaság	NOUN	Case=Nom|Number=Sing	
-részére	részére	ADP	_	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:9013576da9f99045fe64cd254f106901bb4bcfe58e79c45e114baba5937c6bc4
+size 776

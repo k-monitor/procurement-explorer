@@ -1,5 +1,3 @@
-vezetékes földgázbeszerzés 2013.01.01
-cet
-2013.12.31
-cet időszak vonatkozó
-teljes ellátás alapú földgáz szállítási szerződés keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:d94a7083657f2b4d132c72d41f99d9ca90a3c831d8bd67302a232f8dbd73c9d0
+size 146

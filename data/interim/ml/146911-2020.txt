@@ -1,8 +1,3 @@
-LÁEV	LÁEV	PROPN	Case=Nom|Number=Sing	
-mélyépítési	mélyépítési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-beruházások	beruházás	NOUN	Case=Nom|Number=Plur	
-kivitelezése	kivitelezés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-vállalkozási	vállalkozási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:3e0e28da8be987e2ff489b72411cd94921a259cdef42bdd5e4a62466e166214f
+size 381

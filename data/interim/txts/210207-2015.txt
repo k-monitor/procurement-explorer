@@ -1,1 +1,3 @@
-Kincstári tulajdonú eszközök vagyonbiztosítási szerződése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0f38a4ab9bec35292bc2c371187ff46b02b883fc60b2954634aad64bc4931dd9
+size 66

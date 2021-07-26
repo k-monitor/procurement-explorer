@@ -1,1 +1,3 @@
-Adásvételi szerződés. Radiológiai berendezések digitalizálására alkalmas eszközök és kiegészítők be-szerzése, a meglévő analóg átvilágító rendszerek utódigitalizálása, eszközök áttelepítése, meglévő kórtermi mobil röntgenek flatpanel detektoros utódigitalizálása, páciens CD író munkaállomás telepítése, meglevő PACS rendszer bővítéséhez leletező munkaállomás hardver biztosítása, belső Ethernet hálózat kiépítése a meglévő PACS rendszer és az analógból digitálissá átalakított részegységek között, és a lecserélésre került eszközrészek átszállítása Ajánlatkérő raktárába.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cb7077a34c03cd94d7bbc143170b5a9b291f4d9cfa460a9e969612e6cb148265
+size 661

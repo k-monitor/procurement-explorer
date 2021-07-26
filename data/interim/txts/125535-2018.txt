@@ -1,1 +1,3 @@
-Laboratóriumi reagensek és vegyszerek beszerzése, a felhasználáshoz szükséges készülékek biztosítása.
+version https://git-lfs.github.com/spec/v1
+oid sha256:143774db4c7f95d09e9ecf14921cd638dc4b67c1253cab821cc4231e15aad37a
+size 113

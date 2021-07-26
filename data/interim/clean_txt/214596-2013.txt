@@ -1,5 +1,3 @@
-tervezési szerződés keret a nemzeti infrastruktúra fejlesztő zrt. beruházás építés érintett útszakasz és kapcsolódó létesítmény
-műtárgy környezetvédelmi felülvizsgálat
-teljesítményértékelés
-valamint szükség szerinti natura hatásvizsgálat elkészítés és hatósági határozat megszerzés a dél-dunántúl
-a nyugat-dunántúl és a közép-dunántúl régió
+version https://git-lfs.github.com/spec/v1
+oid sha256:2c305c2e89112fefd6edd23d8554d389eae750f65e2f0ab56497d9dbaf21fff2
+size 393

@@ -1,2 +1,3 @@
-szálláshely szolgáltatás egyetemi hallgató részére
-maximum ágyas szoba
+version https://git-lfs.github.com/spec/v1
+oid sha256:641da1b8740ceab44e694af2cb8fbcc7ec40aeeb100c46ca5f347994728376f5
+size 78

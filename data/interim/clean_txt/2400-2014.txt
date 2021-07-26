@@ -1,1 +1,3 @@
-szállítási szerződés
+version https://git-lfs.github.com/spec/v1
+oid sha256:5d59ffb2d0b56585bde858d1208eda9037a4f6d9240c08d636f21c1650ffb7d7
+size 25

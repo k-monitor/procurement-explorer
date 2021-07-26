@@ -1,20 +1,3 @@
-1. rész
-db új lakóház építés támogat lakhatás biztosító db új lakóház
-m2 alatti
-férőhelyes
-létesítés a kiviteli dokumentáció és az árazatlan költségvetés foglalt meg+felelő
-hagyományos épületszerkezetű
-földszintes
-magastetős
-lakóház db
-2. rész
-db új szolgáltató központ létesítés a db új alapszolgáltatás feladat ellátás szolgáló ingatlan építés a kiviteli tervdokumentáció és az árazatlan költségvetés foglalt meg+felelő
-sárrétudvari
-csokonai mihály utca
-hrsz.
-491.
-db nm összes hasznos alapterületű alapszolgáltatás feladat ellátás szolgáló ingatlan
-a részletes feltétel rész vonatkozás a kiviteli tervdokumentáció tartalmaz
-lát részletes jelen felhívás ii
-2.4
-pont
+version https://git-lfs.github.com/spec/v1
+oid sha256:baf8d8f9541a0c69ce05fb66c5cbe9254da78b4a351585c608d4efcb16f62fd9
+size 750

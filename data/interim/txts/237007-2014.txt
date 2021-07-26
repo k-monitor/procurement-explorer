@@ -1,1 +1,3 @@
-Biztosítási szerződés a Mezőföldi Regionális Víziközmű Korlátolt Felelősségű Társaság részére.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ade59fbb1b998e8fa7c4c42f057f0a52e2468863a99d465a0d12dd032221e4cb
+size 112

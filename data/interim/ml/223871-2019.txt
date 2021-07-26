@@ -1,5 +1,3 @@
-Balatonfüredi	Balatonfüredi	PROPN	Case=Nom|Number=Sing	
-megállópont	megállópont	NOUN	Case=Nom|Number=Sing	
-létesítése	létesítés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:ee840707e03e8cca08ccaa74dd9b900ee75ea079fa4e0726cace75d318a7286d
+size 214

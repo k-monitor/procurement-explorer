@@ -1,2 +1,3 @@
-szállítási szerződés
-deoec kardiológiai intézet haemodinamikai laboratórium havi működés szükséges fogyóanyag szállítás konszignációs raktár üzemeltetés
+version https://git-lfs.github.com/spec/v1
+oid sha256:5133f8489bed6a83cb3f272141cd56b5086e07364ea7ca429c328325f75671db
+size 174

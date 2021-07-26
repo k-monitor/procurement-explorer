@@ -1,1 +1,3 @@
-Megbízási szerződés alapján Nyírségi Ivóvízminőség-javító Projekthez (KEOP-1. 3. 0/2F/09-2010-0036) kapcsolódó FIDIC mérnöki feladatok ellátása.
+version https://git-lfs.github.com/spec/v1
+oid sha256:566633956023799d9db5048044079adc2c737304cb90fef42d7fa411958d5b85
+size 163

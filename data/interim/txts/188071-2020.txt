@@ -1,1 +1,3 @@
-K2050 Kazán tűzálló falazati anyagainak és beépítési segédanyagainak beszerzése és szállítása
+version https://git-lfs.github.com/spec/v1
+oid sha256:0073f43e2c64aa278be75131c8a024275dd4cef3e511890becfb5da3d5ff10d1
+size 107

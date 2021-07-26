@@ -1,1 +1,3 @@
-Vállalkozási szerződés a „ELTE épületeinek energetikai fejlesztése” című, KEHOP-5.2.2/16-2017-00112 azonosító számú projekt keretében az ELTE Illyés Sándor Szakkollégium épületének energetikai korszerűsítése tárgyában.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3cb766316731eff20b1d2260b28974001b5475e370450854596c39e81977d3a8
+size 247

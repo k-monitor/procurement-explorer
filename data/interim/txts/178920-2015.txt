@@ -1,1 +1,3 @@
-A Kecskemét Megyei Jogú Város helyben központosított közbeszerzési rendszerének hatálya alá tartozó, valamint a rendszerhez önként csatlakozott felhasználók villamos energiával történő ellátása teljes ellátást biztosító jellegű, vevői menetrendadási kötelezettség nélküli villamosenergia-vásárlási keretszerződés keretében (SG-870).
+version https://git-lfs.github.com/spec/v1
+oid sha256:d1d40e85004ea70227dafe4516cf1ea6476819732c12cf36c5adf4f732e4cfeb
+size 370

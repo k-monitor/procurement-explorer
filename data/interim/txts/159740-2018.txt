@@ -1,1 +1,3 @@
-Vállalkozási keretszerződés „Útépítő műszaki gépek technikai kiszolgálása, javítása” tárgyban 76 db útépítő műszaki gép karbantartásához, javításához kapcsolódó szolgáltatások biztosítása. A fenti darabszám gépjármű típusonkénti eloszlása az alábbi: — Lánctalpas bulldózer - D493/A; D-705, TG-220 5 klt, — Önjáró útprofilozó - DZ-122; FG-70R 10 klt, — Rakodó földmunkagép (L-220; HL-770) 8 klt, — Lánctalpas kotró - EO-4124; EO-2621/A 2 klt, — Önjáró úthenger - VSH-100 3 klt, — Önjáró gumikerekes úthenger - GRW-101 5 klt, — Légsűrítő gépcsoport - KL-300/32; Compair 7 klt, — Benzimmotoros talajfúrógép - BT-360; MTL-85R 11 klt, — Motoros fejtő-fúró berendezés BR-80; BR-120 20 klt, — 25t műszaki gép szállító pótkocsi 5 klt. Ajánlatkérő készlet alatt az eszközt és gyári tartozékait érti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3b5d55b93e3e0884c3903ca8d819fe6673412a27fa240eb1688db10932c78795
+size 901

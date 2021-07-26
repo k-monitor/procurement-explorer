@@ -1,1 +1,3 @@
-adásvételi szerződés keret polielektrolit szállítás a szeged városi és algyő nagyközségi szennyvíztisztító telep számára iszapsűrítés és iszapvíztelenítés cél
+version https://git-lfs.github.com/spec/v1
+oid sha256:14b15ff25b94f30f71aed443a949a741de2955baec0f3fde501527c98246f293
+size 183

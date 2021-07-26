@@ -1,2 +1,3 @@
-takarítási szolgáltatás megrendelés
-budapest főváros
+version https://git-lfs.github.com/spec/v1
+oid sha256:70a7dbab134db163c9cfd9f8da8d52b2b63b24a74ba5c58ab5521281d7fc6b2d
+size 59

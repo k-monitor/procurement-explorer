@@ -1,1 +1,3 @@
-Szolgáltatási keretszerződés keretében az Ajánlatkérő üzemeltetésében lévő hulladékgyűjtő udvarokban begyűjtésre kerülő veszélyes és nem veszélyes hulladékok gyűjtése (átvétele), elszállítása, és kezelése/ártalmatlanítása és/vagy hasznosítása, vagy kezelésre átadása, betartva a teljes folyamatra vonatkozó hatályos jogszabályokban foglalt előírásokat, és az Ajánlatkérő telephelyeire vonatkozó előírásokat is.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ec50803fa47829682c69da2d76b04a3c7543bc2cf7661ad9b04afb5cd6c99df1
+size 466

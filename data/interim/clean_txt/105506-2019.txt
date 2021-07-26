@@ -1,7 +1,3 @@
-az mtva tevékenység sor felmerülő papíralapú dokumentum-előállítási igény
-fénymásolás
-nyomtatás
-és szkennelés
-eset faxolási igény kielégítés a szerződéskötés számított év keresztül
-a közbeszerzési dokumentum rész-letezett szerint
-szolgáltatási keretszerződés keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:f7b0e11951218af2fecf16558fbe4e569c968d403ffe133fad88a51d9ebdcf29
+size 301

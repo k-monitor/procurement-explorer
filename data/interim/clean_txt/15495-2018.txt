@@ -1,9 +1,3 @@
-adásvételi keretszerződés alap
-vasúti jármű forgóváz kapcsolódó gumitermék beszerzés a bkv vasúti járműjavító kft. részére
-1. részfeladat
-ics
-kcsv
-mfav kerékpár gumitermék beszerzés 2. részfeladat
-ics
-kcsv forgóváz gumitermék beszerzés 3. részfeladat
-tw6000 forgóváz gumitermék beszerzés 4. részfeladat
+version https://git-lfs.github.com/spec/v1
+oid sha256:452a6120e9847adf748a5b4ad7f0a76f941eeed27d23f14cf567e73badc05e2b
+size 338

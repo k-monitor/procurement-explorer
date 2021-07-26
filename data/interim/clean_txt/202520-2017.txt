@@ -1,2 +1,3 @@
-közétkeztetési szolgáltatás nyújtás kiskunmajsa város közigazgatási terület főző
-és tálalókonyha üzemeltetés
+version https://git-lfs.github.com/spec/v1
+oid sha256:50385f0b6fc4d2bf718a6b7acf670727cbd103f1abab221ce5c3b08e6264ecc1
+size 126

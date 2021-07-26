@@ -1,8 +1,3 @@
-ajánlatkérő az egészséges budapest program keret tervez felújít a szent margit rendelőintézet budapest
-iii
-kerület
-vörösvári út
-laktanya utca 4. és csobánka tér 6. szám alatti épület
-jelen eljárás tárgy a ingatlan felújítás szükséges koncepció és kiviteli terv
-valamint árazatlan és árazott költségvetés elkészítés
-normaár alap
+version https://git-lfs.github.com/spec/v1
+oid sha256:bf49cd142897caea782bcd646a26b15557dcd34f45d1dd4d3d2fd89d752fd314
+size 367

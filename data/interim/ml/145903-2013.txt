@@ -1,9 +1,3 @@
-Szállítási	Szállítási	PROPN	Case=Nom|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-különféle	különféle	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-orvosi	orvosi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-eszközök	eszköz	NOUN	Case=Nom|Number=Plur	
-beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:fda11ab45b0b6955af26d2b6f93f1132c390d020dd457b5dd4ecabd5cfc1f9f6
+size 441

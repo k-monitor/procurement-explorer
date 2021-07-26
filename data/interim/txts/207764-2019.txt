@@ -1,1 +1,3 @@
-Műemlékvédelmi területet érintő temetőben komplex őrzés-védési, vagyonvédelmi, járőrözési és biztonsági feladatellátást magában foglaló szolgáltatás. Az elvégzendő feladat részletes leírását a műszaki leírás tartalmazza.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6cf609e8390bf1037ca4d0643e36dc4b1bb0372291d0e8c6e47df063db492420
+size 253

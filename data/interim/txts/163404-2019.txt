@@ -1,1 +1,3 @@
-Vállalkozási szerződés keretében «Őrzés-védelmi szolgáltatás nyújtása a Budapesti Nagybani Piac Zrt. részére 2019»
+version https://git-lfs.github.com/spec/v1
+oid sha256:da5fdb48c04471b5346f3449641809316341da72fca23e6d21112c55f1dce58f
+size 130

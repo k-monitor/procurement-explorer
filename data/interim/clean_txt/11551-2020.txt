@@ -1,1 +1,3 @@
-a pénzügyminisztérium által használt workflowgen alapú workflow rendszer kapcsolódó fejlesztési feladat ellátás
+version https://git-lfs.github.com/spec/v1
+oid sha256:61a07f17581886b1664df1badb04fc197bfeca8ca00fc9d9bf2e7b691e8aff6a
+size 122

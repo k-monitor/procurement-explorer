@@ -1,1 +1,3 @@
-Az állampapírok kibocsátásának és értékesítésének támogatása érdekében média- tervezés és vásárlás, valamint nyomdai kivitelezési munkák és piackutatás lebonyolítására irányuló vállalkozási keretszerződés.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3beee5d7b956d7bcc71b6add26dcff3fc54eaa4958989b3d4569dcb8c4f8c1a2
+size 239

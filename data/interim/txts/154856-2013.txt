@@ -1,1 +1,3 @@
-Szállítási szerződés, a Semmelweis Egyetem szervezeti egységei részére, 18 hónapra szükséges raktári fogyóanyagok beszerzésére. Két részteljesítés: I. részteljesítés: Általános szappan, mosó és tisztítószerek, háztartási és egészségügyi papíráruk és műanyag termékek. II. részteljesítés: Műanyag zsákok. Szerződéskötés után, a megrendelésre kerülő mennyiség, az ajánlati dokumentáció foglaltaktól - 15 %-kal felfelé eltérhet.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fb00bb72f4d9067a27a728b9245bb8ce23eb4f4510eb8cb0318101c649576875
+size 484

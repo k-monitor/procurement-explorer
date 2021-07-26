@@ -1,2 +1,3 @@
-szerződés meghatározás
-vállalkozási szerződés tárgya
+version https://git-lfs.github.com/spec/v1
+oid sha256:41f619d4356cb84e6ed60eeba3f5bd9ae2a73b0f0e16567ef24c8f2a27a664ac
+size 61

@@ -1,1 +1,3 @@
-Transzfúziós és infúziós szerelékek beszerzése a Szabolcs-Szatmár-Bereg Megyei Kórházak és Egyetemi Oktatókórház részére határidős adásvételi szerződés keretében 30 részben.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ad35862579393fa2813ad9b84f5805deb16951071090fb9575fc9dfa3772c632
+size 197

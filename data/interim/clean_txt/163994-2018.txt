@@ -1,2 +1,3 @@
-a dvg zrt.
-villamos energia beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:aabc0643fe8970f53df0de88f6ff906ba34eef25c34c24b7793b25005c0ed3e4
+size 38

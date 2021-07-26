@@ -1,4 +1,3 @@
-szállítási keretszerződés pneumatikus és kézi működtetésű csap
-szelep
-pneumatikus szerelési anyag
-automatizálási segédanyag beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:b00aa06412daa1135c91ab9c72ee341abd57864f64117d2140b5a88c0a2d784f
+size 149

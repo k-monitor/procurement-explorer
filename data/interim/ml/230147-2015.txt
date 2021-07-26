@@ -1,9 +1,3 @@
-Vízi	Vízi	PROPN	Case=Nom|Number=Sing	
-járművek	jármű	NOUN	Case=Nom|Number=Plur	
-szállítása	szállítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-egyedi	egyedi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-adásvételi	adásvételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:8618fbbda384c201773b1ac8fbb1dd86651694b0a9eec02d5c54479dba44e696
+size 429

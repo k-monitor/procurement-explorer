@@ -1,5 +1,3 @@
-megbízási szerződés a
-szennyvíztisztító telep fejlesztés vác
-elnevezésű
-kehop-2
-2-15-2016-00051 azonosítószámú projekt keret műszaki ellenőri tevékenység ellátás
+version https://git-lfs.github.com/spec/v1
+oid sha256:dfff15070299ede576038ec17fca8283792515f1a10b3950b36fb46f8c68d8c0
+size 182

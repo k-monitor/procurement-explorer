@@ -1,1 +1,3 @@
-Megbízási szerződés a KEOP-1.3.0/09-11-2011-0023 számú "Kék-víz" Észak-Bács-Kiskun Megyei Ivóvízminőség-javító Program" megvalósításához szükséges FIDIC mérnöki és műszaki ellenőri tevékenység ellátására.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e42da964fe7b36e2ce72abbb29ba6c3e7426d1dbc19480d7aa975f9afcd02466
+size 236

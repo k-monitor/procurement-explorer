@@ -1,4 +1,3 @@
-orvosi műszer beszerzés a tiop-2
-1b-2013-0008 azonosító számú
-komplex fejlesztés a soproni erzsébet oktató kórház és rehabilitációs intézet
-című projekt keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:eedde296f46ad8005741a1bb22a2a0d3fef963e42b092813d73692a25f172cca
+size 175

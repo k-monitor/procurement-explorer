@@ -1,1 +1,3 @@
-Adás-vételi szerződés keretében Ajánlatkérő az Intézmény részére Hús-húskészítményeket 12 hónapra kíván megvásárolni.
+version https://git-lfs.github.com/spec/v1
+oid sha256:957c07a62a4ea4aae6fbce25976c4ca51ea27132c628df4f94e0efe298977926
+size 139

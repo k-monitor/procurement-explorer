@@ -1,15 +1,3 @@
-karbantartási szolgáltatás hónap időtartam a soproni erzsébet oktató kórház és rehabilitációs intézet részére 1. rész
-siemens karbantartás 2. rész
-dräger karbantartás 3. rész
-patológiai osztály található mikrotómok karbantartás 4. rész
-digitális patológiai rendszer meghatározott időközönkénti ellenőrzés
-karbantartás és eseti javítás
-5. rész
-toshiba ultimax
-i típusú dsa berendezés karbantartás 6. rész
-toshiba gyártmányú röntgen és ultrahang berendezés karbantartás 7. rész
-különböző gyártmányú laboratóriumi mikroszkóp éves karbantartás 8. rész
-sterilizáló berendezés karbantartás
-javítás 9. rész
-egyéb röntgen és átvilágító berendezés karbantartás 10. rész
-különböző orvostechnikai eszköz karbantartás a részletes leírás a közbeszerzési dokumentum található
+version https://git-lfs.github.com/spec/v1
+oid sha256:1a604716fea9fcc3ea3aa4331e7e3c95e86b0277a96bb7c6cdeb20133cc03427
+size 858

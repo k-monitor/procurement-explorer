@@ -1,2 +1,3 @@
-a központ és a megyei igazgatóság részére író
-irodaszer beszerzés a műszaki leírás részletezett alap
+version https://git-lfs.github.com/spec/v1
+oid sha256:8591b05086a97936572e44fba0845bfa941aae5949058cffe2a08c8ab849574f
+size 113

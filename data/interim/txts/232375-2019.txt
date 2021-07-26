@@ -1,1 +1,3 @@
-Zöld Város - Fehérvár Tüdeje fejlesztési programhoz kapcsolódó tervezési feladatok ellátása a TOP-6.3.2-16-SF1-2018-00002 projekt keretében
+version https://git-lfs.github.com/spec/v1
+oid sha256:ba40ee2c437b950dd062c821b348fd052c47431e68a063fd2d7921720b52401c
+size 151

@@ -1,1 +1,3 @@
-Megbízási szerződés Bősárkány Nagyközség szennyvízcsatornázásának kiépítése, az összegyűjtött szennyvíz bevezetése a csornai szennyvíztisztító telepre, a telep fejlesztése című KEOP -1.2.0/09-11-2011-0034 azonosító számú projekttel kapcsolatos FIDIC mérnöki és műszaki ellenőri feladatok ellátása.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4b6719994d9b1f88e6481c980a1ffdb3e4a07f6ac1b49187af0594288410e991
+size 335

@@ -1,1 +1,3 @@
-Vállalkozási szerződés alapján 7 db meddő szénhidrogén ipari célú mélyfúrás rekultivációja a terveknek megfelelően.
+version https://git-lfs.github.com/spec/v1
+oid sha256:33dc4ba02af98d7d1113b2f51313346e0020fe1a550668f6ceef5b83671934f0
+size 131

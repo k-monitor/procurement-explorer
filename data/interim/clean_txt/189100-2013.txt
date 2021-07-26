@@ -1,5 +1,3 @@
-vállalkozási szerződés a
-szentendrei szennyvíz-agglomeráció tartozó település csatornahálózat bővítés
-tárgyú projekt keret fidic sárga könyv szerinti kivitelezési feladat ellátás
-keop-1
-2.0
+version https://git-lfs.github.com/spec/v1
+oid sha256:af829945ca4ff26478379650445fd416449719297631541e9f82c2a4cd275ec1
+size 211

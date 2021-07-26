@@ -1,1 +1,3 @@
-Állami Légiszállító Flotta - szállítógép beszerzés, a hozzá tartozó kiképzéssel
+version https://git-lfs.github.com/spec/v1
+oid sha256:34e54eac7704a418853f086b2b0aa3f18ed1d2f19a82f0a30876abf00f9f7326
+size 93

@@ -1,1 +1,3 @@
-KEOP-5.6.0/E/15 „Egészségügyi eszközök energia-megtakarítást célzó berendezések támogatása” pályázati konstrukció keretében 1 db digitális felvételi-átvilágító röntgen berendezés beszerzése adásvételi szerződés keretében, a berendezés szállítása, telepítése és üzembe helyezése, valamint az előzőek végrehajtásához elengedhetetlenül szükséges járulékos munkák elvégzése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:17d10a1e1a3fc1b32ec181fd730633333bfd5664a2b15796af5f9efcb6179882
+size 426

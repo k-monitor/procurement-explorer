@@ -1,10 +1,3 @@
-dek-896 _ adásvételi szerződés kutatóeszköz beszerzés ginop-2
-3-15-2016-00021 sz. pályázat keret belül 1. rész
-elektroretinográf
-erg
-rendszer 2. rész
-magatartástudományi vizsgáló berendezés
-maze
-3. rész
-izolált szívperfúziós készülék
-gravitációs nelly
+version https://git-lfs.github.com/spec/v1
+oid sha256:8e4303e203ff1619cf6313dc9804b3b3e3c440897600d5243c02b5a6bd1f071f
+size 279

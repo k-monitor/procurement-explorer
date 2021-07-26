@@ -1,1 +1,3 @@
-adásvételi keretszerződés keret speciális forgalomtechnikai eszköz beszerzés a közbeszerzsési dokumentum részletezett szerint
+version https://git-lfs.github.com/spec/v1
+oid sha256:496bfa8627e477d0d8c1889ab2d71226420d0bb64af7690f144c352dcd5346f4
+size 135

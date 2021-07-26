@@ -1,3 +1,3 @@
-győr nagytérségi hulladékgazdálkodási önkormányzati társulás működési terület a hulladékgazdálkodási közszolgáltatás ellátás
-valamint a kialakított települési hulladék-gazdálkodási rendszer eszköz
-berendezés és létesítmény üzemeltetés irányuló hulladékgazdálkodási közszolgáltatási szerződés
+version https://git-lfs.github.com/spec/v1
+oid sha256:17251aec05651b2fb5605870c579bd4f8e91104845751942e5a57193b2abef66
+size 337

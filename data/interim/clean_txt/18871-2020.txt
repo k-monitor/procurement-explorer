@@ -1,11 +1,3 @@
-az országos rendőr-főkapitányság országos szint db meghallgató helyiség kialakítás kíván elvégez
-mely a büntetőeljárás szóló 2017. évi
-törvény foglalt megfelelő biztosít a folyamatos kép
-és hangfelvétel fix telepített eszköz való elkészítés
-a felvétel szükség szerinti torzítás
-valamint az adott bűnügy a felvétel automatikus csatolás
-feltöltés
-az elvárt megoldás cél
-hogy a meghallgatás a nyomozó egyszerű tud felvétel készít egy
-a meghallgatás újonnan kialakított szoba
-majd megtörténik a torzítás és az ügy csatolás
+version https://git-lfs.github.com/spec/v1
+oid sha256:b838d91d73e979b9e6378d914d2868e6b9025e2a796ba25d0114c67f1eea48a3
+size 581

@@ -1,1 +1,3 @@
-MÁV-START Zrt. részére nyomdai kivitelezési szolgáltatások beszerzése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5f43f2769196882d273975cbd33898329b5ba93053da0db3055377dd80aef169
+size 77

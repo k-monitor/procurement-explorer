@@ -1,2 +1,3 @@
-dunakeszi város terület lévő db intézmény napi takarítás
-vállalkozási szerződés keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:d044a1f1d9933157e7b4513e08008046250db20b563495c59e9d8d904a45117f
+size 97

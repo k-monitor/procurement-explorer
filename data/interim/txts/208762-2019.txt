@@ -1,1 +1,3 @@
-Szállítási szerződés keretében sebészeti varrógépek beszerzése konszignációs raktár üzemeltetésével az alábbi részajánlatok szerint: I. rész: Egyenes vágó- és varrógép, II. rész: Pouch képzéshez egyenes vágó és varrógép, III rész: Mélyrektum, nyelőcső és gyomor műtétekhez sebészeti varrógépek, IV. rész: Laparoszkópos műtétekhez varrógépek.
+version https://git-lfs.github.com/spec/v1
+oid sha256:eb360540ae8d99226daca33fd260440f3ecf3adfe5ae74fa4a28619bfc3627f6
+size 390

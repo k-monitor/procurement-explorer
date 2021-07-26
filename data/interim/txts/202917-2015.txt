@@ -1,1 +1,3 @@
-Vállalkozási szerződés flexibilis endoszkópos berendezések karbantartására és javítására.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a36be29e6f06cf2f37de6b06a3297fd5bb924fac5548d49f01687244770818f9
+size 101

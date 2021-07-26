@@ -1,1 +1,3 @@
-repülőtér
+version https://git-lfs.github.com/spec/v1
+oid sha256:178c20fb5d82854318c039a8c751e81463d04d9238e13106b42477bdbd3d896a
+size 12

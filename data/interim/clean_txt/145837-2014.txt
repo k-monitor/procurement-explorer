@@ -1,1 +1,3 @@
-villamos energia szabadpiaci beszerzés a kef által üzemeltetett épület ellátás 2014. augusztus 2015. július terjedő időszak
+version https://git-lfs.github.com/spec/v1
+oid sha256:83d7f189cdcb4e459f8c4acf1ad1e413cbbe40ae4bc575746f1992d606ab6fba
+size 133

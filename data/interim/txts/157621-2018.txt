@@ -1,1 +1,3 @@
-Vállalkozási keretszerződés – Rohde & Schwarz, Hameg, euro EMC, Schwarzbeck, Winter Maschinenbau gyártmányú műszerek, mérési eszközök eseti javítása, kalibrálása.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f0f0912ea1f6ad897d5ce3d560c6762b676b426f91a755efe24bed465e84bb5b
+size 180

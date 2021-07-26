@@ -1,2 +1,3 @@
-magyar honvédség egészségügyi központ sztent beszerzés adásvételi keretmegállapodás keret hónap
-részajánlati kör
+version https://git-lfs.github.com/spec/v1
+oid sha256:7d18b5773141e590c3ef33ef057a4f876d13609a2dfc917eead9f3b3e7475229
+size 127

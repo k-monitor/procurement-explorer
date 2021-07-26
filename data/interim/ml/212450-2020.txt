@@ -1,13 +1,3 @@
-A	a	DET	Definite=Def|PronType=Art	
-Civil	civil	NOUN	Case=Nom|Number=Sing	
-Integrált	integrál	VERB	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	
-Információs	információs	PROPN	Case=Nom|Number=Sing	
-Rendszer	Rendszer	PROPN	Case=Nom|Number=Sing	
-(	(	PUNCT	_	
-CIIR	CIIR	PROPN	Case=Nom|Number=Sing	
-)	)	PUNCT	_	
-üzemeltetése	üzemeltetés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-és	és	CONJ	_	
-fejlesztése	fejlesztés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:a03bc679e9e36197c5eceb28571c8e98c311c97501898ec9020fe397094b9ed7
+size 548

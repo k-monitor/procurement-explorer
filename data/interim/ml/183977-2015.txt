@@ -1,16 +1,3 @@
-A	a	DET	Definite=Def|PronType=Art	
-KEOP-5	KEOP-5	PROPN	Case=Nom|Number=Sing	
-.	.	PUNCT	_	
-
-6.0	6.0	PROPN	Case=Nom|Number=Sing	
-/	/	PUNCT	_	
-E	e	PRON	Case=Nom|Number=Sing|Person=3|PronType=Dem	
-azonosítószámú	azonosítószámú	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-projekt	projekt	NOUN	Case=Nom|Number=Sing	
-keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-kórházi	kórházi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-CT	CT	NOUN	Case=Nom|Number=Sing	
-berendezés	berendezés	NOUN	Case=Nom|Number=Sing	
-beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:4d43ac423ed37fb5f2130e5384386771ce61d6964bf4157927a2588dfa127cce
+size 626

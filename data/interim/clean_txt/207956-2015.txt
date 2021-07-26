@@ -1,24 +1,3 @@
-adásvételi szerződés a keop
-5.6.0
-e
-egészségügyi eszközök energia megtakarítás célzó beszerzés támogatás
-című konstrukció kapcsolódó rész
-1. rész
-db digitális mennyezeti felvételi röntgen berendezés
-2. rész
-db digitális mammográfiás röntgen
-rész
-db digitális felvételi
-átvilágító röntgenberendezés
-a meglévő röntgen berendezés csere új röntgen berendezés szállítás
-telepítés
-üzem helyezés
-beüzemelés
-órás próbaüzem elvégzés
-min. fő kezelőszemélyzet betanítás
-a betanítás jegyzőkönyvezés
-a rendeltetésszerű használat szükséges engedély beszerzés
-garancia idő alatt a garanciális szolgáltatás elvégzés
-havi jótállási idő vállalás
-és ezalatt a tervszerű megelőző karbantartási munka elvégzés
-és az előző végrehajtás és a rendeltetésszerű használat elengedhetetlen szükséges járulékos munka elvégzés a jelen felhívás és a dokumentáció részletezett szerint
+version https://git-lfs.github.com/spec/v1
+oid sha256:2980c3fa0c8339b0d49caa4d509a37418b32a47f02a92915f2c0ee34ea8d5731
+size 971

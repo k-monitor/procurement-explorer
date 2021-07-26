@@ -1,4 +1,3 @@
-villamos energia szállítás székesfehérvár megyei jogú város önkormányzat intézmény részére 1.10.2017
-30.9.2019
-időszak
-teljes ellátás alapú villamos energiaszállítási szerződés keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:bfb1a055941683934e3d787057e7d191ff1f5aba5807180ee40b3da9d7887a1b
+size 205

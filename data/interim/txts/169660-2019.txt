@@ -1,1 +1,3 @@
-Fejlesztéspolitikai rendszerek hardverinfrastruktúra bővítése
+version https://git-lfs.github.com/spec/v1
+oid sha256:a68a1a345fa1274c93d80ea5f1a596f2bf4a688f6ffe395b248036ebb740301d
+size 66

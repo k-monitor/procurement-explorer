@@ -1,7 +1,3 @@
-Adásvételi	adásvételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-vezetékes	vezetékes	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-földgáz	földgáz	NOUN	Case=Nom|Number=Sing	
-beszerzésére	beszerzés	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:3576d1fbdaaf3420e9adfbcf05e7e8a905537a1d7aa198da4a595cad72fdca9c
+size 320

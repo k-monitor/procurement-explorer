@@ -1,11 +1,33 @@
 # Analysing Hungarian Procurements
+This project is being conducted by
+[K-Monitor](https://k-monitor.hu/fooldal)
+and [tenders.guru]((https://tenders.guru/)).
+
+![](imgs/kmonitor.jpg)
+![](imgs/tg.png) ![](imgs/redflags-logo-official.png)
 
 ## Data source
-+ A snapshot of [Red Flags](https://www.redflags.eu/)
++ A snapshot of [Red Flags](https://www.redflags.eu/
++ A snapshot of [tenders.guru](https://tenders.guru/)
 
 ## External resources
 + The shortDescription filed was processed with
-[magyarlanc](https://rgai.inf.u-szeged.hu/magyarlanc)
+[magyarlanc](https://rgai.inf.u-szeged.hu/magyarlanc) [deprecated line]
++ The data was vectorized by [huBERT](https://hlt.bme.hu/en/resources/hubert)
+
+## Using the SQL snapshot
++ We are using the `docker-compose` file in [this project](https://github.com/crow-intelligence/learnsql)
++ Fire up the docker-compose
++ Copy the unzipped sql snapshot to the attached volume `docker cp epf.sql learnsql_mariadb_1:/var/lib/mysql/`
++ Get the bash of the mariadb container `docker exec -it learnsql_mariadb_1 /bin/bash`
++ Run mysql `mysql -u root -p`
++ Create a database `MariaDB [(none)]> CREATE DATABASE kmonitor;`
++ Quit mysql (CTR+C/D usually works)
++ `cd var/lib/mysql/`
++ Now you can run the script which will populate
+  your database with tables & data `mysql -u root -p kmonitor < epf.sql`
++ You can access [phpMyAdmin](http://0.0.0.0:8000/) at http://0.0.0.0:8000/
++ You'll see something like this ![](imgs/Screenshot from 2021-07-26 12-30-51.png)
 
 ## Team
 + [Zoltan Varju](https://github.com/zolizoli)

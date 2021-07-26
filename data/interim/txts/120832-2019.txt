@@ -1,1 +1,3 @@
-Általányáras vállalkozási szerződés keretében Szeged, Cső Utcai Óvoda fejlesztésének kivitelezési munkái.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9a03c55c87c3e57987ae2204faf2674ac0981eff6e28effe83cebe879fd11c25
+size 119

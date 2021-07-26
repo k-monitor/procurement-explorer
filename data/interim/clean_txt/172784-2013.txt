@@ -1,7 +1,3 @@
-az ajánlatkérő üzemeltetés lévő autópálya szakasz mentén elhelyezkedő mindenkori autópálya mérnökség meglévő és a jövő üzem helyezendő töltőállomás részére üzemanyag
-gázolaj
-biztosítás szállítási keretszerződés keret
-földalatti üzemanyagtartály időszakos
-igény szerinti feltöltés
-nyertes ajánlattevő kell végeznie az üzemanyag az autópálya mérnökség történő kiszállítás
-valamint lefejtés
+version https://git-lfs.github.com/spec/v1
+oid sha256:eadec5a6f06a341f20f5358f38c4a168ad91eb4d5a42c5aa65fcb0308a39a149
+size 448

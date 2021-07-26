@@ -1,1 +1,3 @@
-Az Elektronikus Hulladékgazdálkodási Rendszer c. projekt (azonosító szám: EKOP-1.2.4-2012-2012-0001) keretein belül Hulladékgazdálkodási alaprendszer szoftver (HGAS) fejlesztése vállalkozási szerződés keretén belül.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ec043bc80addcccdc32bbc3c2ccbb2ac1c08eb86cae25a2ad947063df21d4dad
+size 232

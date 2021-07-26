@@ -1,1 +1,3 @@
-Adásvételi szerződés Kölyök-atlétikai oktatási program keretében speciális kölyök-atlétikai eszközcsomagok beszerzésére, és meghatározott iskolák részére történő kiszállítására.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b7aea1edc39497ae364790d1c6f9bd80320a6370baa5d6f30f47d34c8a74b01a
+size 205

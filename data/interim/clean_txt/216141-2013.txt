@@ -1,3 +1,3 @@
-részajánlatonként határozott idejű vállalkozási szerződés a ii
-2.1
-pont meghatározott takarítási feladat ellátás
+version https://git-lfs.github.com/spec/v1
+oid sha256:3e684fe4bbf7c9c6dceaa8f975559c737ded499e7d407aa94b1539eba7759270
+size 126

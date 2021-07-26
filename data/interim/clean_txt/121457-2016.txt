@@ -1,1 +1,3 @@
-db konfokális és sted szuperrezolúciós mikroszkóprendszer beszerzés adásvételi szerződés keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:f58733881055a1ff0a314cc8d097e9767fe366617959aacfae299711e288bc9d
+size 104

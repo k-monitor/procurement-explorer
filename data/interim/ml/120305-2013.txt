@@ -1,16 +1,3 @@
-Vállalkozási	Vállalkozási	PROPN	Case=Nom|Number=Sing	
-keretszerződés	keretszerződés	NOUN	Case=Nom|Number=Sing	
-„	„	PUNCT	_	
-Pénzügyi	Pénzügyi	PROPN	Case=Nom|Number=Sing	
-tanácsadás	tanácsadás	NOUN	Case=Nom|Number=Sing	
-,	,	PUNCT	_	
-projektek	projekt	NOUN	Case=Nom|Number=Plur	
-pénzügyi	pénzügyi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-ellenőrzése	ellenőrzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-,	,	PUNCT	_	
-szabályzatok	szabályzat	NOUN	Case=Nom|Number=Plur	
-aktualizálása	aktualizálás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-"	"	PUNCT	_	
-tárgyban	tárgy	NOUN	Case=Ine|Number=Sing	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:df54e26ed40f055ae927991f450ce5310c9ebdf7c90eebc9445c4999fd75d930
+size 671

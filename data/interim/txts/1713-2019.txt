@@ -1,1 +1,3 @@
-Adásvételi szerződés alapján az alábbi orvosi gépek beszerzése, telepítése és üzembe helyezése: 1 db Telemetriás készülék; 1 db Elektrofiziológiai készülék; 1 db Echocardiographiás készülék. A készülékekkel kapcsolatos műszaki elvárások a dokumentációban részletezettek.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a284e6302f5b51c0e5f7122e3999337d84a6a652cc27f8e55bfcc47c523720df
+size 304

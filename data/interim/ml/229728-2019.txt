@@ -1,8 +1,3 @@
-Paks	paks	NOUN	Case=Nom|Number=Sing	
-II	II	PROPN	Case=Nom|Number=Sing	
-.	.	PUNCT	_	
-
-Zrt.	Zrt.	PROPN	Case=Nom|Number=Sing	
-szervezetfejlesztési	szervezetfejlesztési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szolgáltatások	szolgáltatás	NOUN	Case=Nom|Number=Plur	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:ae65788685a369215a8d43f4c946942b2b9edf0614be86519a96e5d18de8474d
+size 264

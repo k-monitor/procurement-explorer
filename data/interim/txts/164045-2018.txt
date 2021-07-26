@@ -1,1 +1,3 @@
-Különféle laboratóriumi reagensek beszerzése I- VIII. részben.
+version https://git-lfs.github.com/spec/v1
+oid sha256:53792156d6b93c1b43e32299b52b14cd21206dd87757b88cbd57786e921f9891
+size 68

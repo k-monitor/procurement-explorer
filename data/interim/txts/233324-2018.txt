@@ -1,1 +1,3 @@
-„Vállalkozási szerződés 3 db kitűző hajó fejlesztésére”.
+version https://git-lfs.github.com/spec/v1
+oid sha256:36e50109e935307aec9aeb1fa4d69dc2abe48b4be5775e4145f32bafc652c8d1
+size 69

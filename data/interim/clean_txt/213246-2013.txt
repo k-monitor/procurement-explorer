@@ -1,4 +1,3 @@
-biztosítási szerződés keret megvalósuló
-a dmjv polgármesteri hivatal tulajdon vagy a dmjv önkormányzat tulajdon vagy intézmény használat lévő épület teljes körű vagyon és felelősségbiztosítás valamint a dmjv önkormányzata és polgármesteri hivatal tulajdon lévő munkagép és személygépjármű
-casco és kötelező felelősségbiztosítás
-továbbá csoportos balesetbiztosítás
+version https://git-lfs.github.com/spec/v1
+oid sha256:8ade65ddcffdbfd07acfcffbbfefe8d0b7a358aba38cbc9e7beb3f76478576a0
+size 409

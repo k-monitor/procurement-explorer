@@ -1,1 +1,3 @@
-Földgáz beszerzés Budafok-Tétény Budapest XXII. kerület Önkormányzata Polgármesteri Hivatala és egyes intézményei részére teljes alapú földgáz-kereskedelmi szerződés keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d9af1c24cbe5ded5752d270ee282dd8d5a1930f95bf6c98d8c81abab4274b133
+size 196

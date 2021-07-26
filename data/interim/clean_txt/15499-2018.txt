@@ -1,9 +1,3 @@
-adásvételi keretszerződés alap
-tömegközlekedési jármű utastéri ablak beszerzés a bkv vasúti járműjavító kft. részére
-1. részfeladat
-tátra típusú jármű ablak beszerzés 2. részfeladat
-tw6000 és tw6100 típusú jármű ablak beszerzés 3. részfeladat
-kcsv típusú jármű ablak beszerzés 4. részfeladat
-íves üveg beszerzés 5. részfeladat
-különféle üveg beszerzés 6. részfeladat
-tehermozdony és hógép ablak beszerzés 7. részfeladat
+version https://git-lfs.github.com/spec/v1
+oid sha256:188c1527b9f4868f867b579e3ad8eabb2750a7ac1938164d35856efb01d6f158
+size 473

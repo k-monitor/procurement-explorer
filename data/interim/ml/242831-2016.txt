@@ -1,29 +1,3 @@
-Őrzés-védelmi	Őrzés-védelmi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-feladatok	feladat	NOUN	Case=Nom|Number=Plur	
-,	,	PUNCT	_	
-ideértve	ideértve	ADV	VerbForm=Trans	
-a	a	DET	Definite=Def|PronType=Art	
-szolgáltatás	szolgáltatás	NOUN	Case=Nom|Number=Sing	
-végzéséhez	végzés	NOUN	Case=All|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-kapcsolódóan	kapcsolódó	ADJ	Case=Ess|Degree=Pos|Number=Sing|VerbForm=PartPres	
-előírt	előírt	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPast	
-fejlesztési	fejlesztési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-célú	célú	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-beruházások	beruházás	NOUN	Case=Nom|Number=Plur	
-elvégzését	elvégzés	NOUN	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-Kecskemét	Kecskemét	PROPN	Case=Nom|Number=Sing	
-Megyei	Megyei	PROPN	Case=Nom|Number=Sing	
-Jogú	Jogú	PROPN	Case=Nom|Number=Sing	
-Város	Város	PROPN	Case=Nom|Number=Sing	
-Önkormányzata	Önkormányzata	PROPN	Case=Nom|Number=Sing	
-központosított	központosított	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPast	
-beszerzési	beszerzési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-rendszeréhez	rendszer	NOUN	Case=All|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-csatlakozott	csatlakozott	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPast	
-intézmények	intézmény	NOUN	Case=Nom|Number=Plur	
-és	és	CONJ	_	
-gazdasági	gazdasági	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-társaságok	társaság	NOUN	Case=Nom|Number=Plur	
-részére	részére	ADP	_	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:5d9fc54da265ce8df00215d257d67f7148b27bd1f1bdc6de0b57f0aa8925c636
+size 1520

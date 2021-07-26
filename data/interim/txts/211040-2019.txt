@@ -1,1 +1,3 @@
-Szeged Megyei Jogú Város közvilágításának üzemeltetése és karbantartása vállalkozási szerződés keretében
+version https://git-lfs.github.com/spec/v1
+oid sha256:7a82d0ea4849c391d644e0085b919df382bff029c2a9308c57043b314c832b50
+size 120

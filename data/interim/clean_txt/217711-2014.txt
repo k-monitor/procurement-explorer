@@ -1,2 +1,3 @@
-pos
-illetve virtuális pos kártyaelfogadói szolgáltatás nyújtás
+version https://git-lfs.github.com/spec/v1
+oid sha256:d6b7aeb58bc9a6b00cca5038d76cc0f9de251b03cd6893339d93afe82124cd66
+size 69

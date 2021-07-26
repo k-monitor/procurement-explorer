@@ -1,1 +1,3 @@
-Magyar Születési Kohorszvizsgálat adatfelvételének komplex adatgyűjtési feladatainak ellátása az EFOP 1.9.4-VEKOP-16-2016-00001 azonosítószámú projekt keretében
+version https://git-lfs.github.com/spec/v1
+oid sha256:f9004bece1826e0ac59b3677337635409a2208de0205602d8af0af6dc93e792a
+size 174

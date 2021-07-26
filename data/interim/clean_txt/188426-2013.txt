@@ -1,10 +1,3 @@
-a magyar energetikai és közmű
-szabályozási hivatal részére
-vízválasztó szemléletformáló komplex kampány
-kommunikációs
-környezeti nevelési és kiállítás
-valamint rendezvényszervezési illetve médiagyártási és médiafelület vásárlási szolgáltatás ellátás
-projektszáj
-keop-6
-1.0
-c
+version https://git-lfs.github.com/spec/v1
+oid sha256:0fea301d7a281b57bb94a298ba2e28daee16f6727c5716c00fc0cbfb4962e9fa
+size 312

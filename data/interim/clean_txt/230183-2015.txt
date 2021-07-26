@@ -1,2 +1,3 @@
-adás-vételi szerződés tiop
-társadalmi infrastruktúra operatív program infrastrukturális fejlesztés megvalósítás című kiemelt projekt pályázati konstrukció feltételes közbeszerzési eljárás komplett haemodinamikai vizsgáló berendezés beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:08fcaf973208f5b8bd9ba7611f3c976ee76a07d8316becc95f655dafd1313fa3
+size 267

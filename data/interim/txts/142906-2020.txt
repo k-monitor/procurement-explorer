@@ -1,1 +1,3 @@
-1. rész: 6 db új lakóház építése Támogatott lakhatást biztosító 6 db új lakóház (300 m2 alatti, 12 férőhelyes) létesítése a kiviteli dokumentációban és az árazatlan költségvetésben foglaltaknak megfelelően. Hagyományos épületszerkezetű, földszintes, magastetős, lakóház 6 db. 2. rész: 1 db új szolgáltató központ létesítése A 1 db új alapszolgáltatások feladatának ellátására szolgáló ingatlan építése a kiviteli tervdokumentációban és az árazatlan költségvetésben foglaltaknak megfelelően. — 4171 Sárrétudvari, Csokonai Mihály utca, Hrsz.: 491., 1 db 407,11 nm összes hasznos alapterületű alapszolgáltatások feladatának ellátására szolgáló ingatlan. A részletes feltételeket mindkét rész vonatkozásában a kiviteli tervdokumentáció tartalmazza. Lásd részletesen jelen felhívás II.2.4) pontjaiban.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b83ebfd636e0a094c16cab19bd9a461032dabb4ffe993c02aa1a287966fa1bf9
+size 887

@@ -1,1 +1,3 @@
-Adásvételi szerződés a Szent Lázár Megyei Kórház (székhely: 3100 Salgótarján, Füleki út 54–56) részére, 12 hónapban szükséges kötszerek beszerzésére. Az eljárásban 11 részre tehető ajánlat összesen 269 687 csomag kötszerre. Opcionális mennyiség 269 687 csomag (100 %).
+version https://git-lfs.github.com/spec/v1
+oid sha256:b907f7238927342707a2e7eeb7d51b52ff4f23de4e38ac97f477f0fbb3cb126f
+size 300

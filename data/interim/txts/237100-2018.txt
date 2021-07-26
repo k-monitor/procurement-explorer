@@ -1,1 +1,3 @@
-Adásvételi szerződés, amelynek tárgya szemészeti eszközök szállítása.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5370d2bbbae471a542752c478388a9fb569b4a5a3c4e2d1a5ff2678dc2d79b72
+size 80

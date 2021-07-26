@@ -1,2 +1,3 @@
-földgázvásárlási szerződés a magyar földgáz hálózat folyamatos rendelkezés álló
-szabványos minőségű földgáz beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:4f58e1108b0088b035c324be074d082f258e64f79bf39cae3f747699629046d7
+size 138

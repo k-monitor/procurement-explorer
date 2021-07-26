@@ -1,1 +1,3 @@
-10 db új, vagy újszerű autóbusz beszerzése. Új autóbusz:az 5/1990 KÖHÉM rend. 2.§ (4) bek. d.) pont szerinti. Újszerű: a kevesebb, mint 24 hónapja gyártott és kevesebb, mint 200 000 km-t futott autóbusz. Ajánlatkérő célja az üzemeltetés gazdaságossága, a vállalati arculat egységesítése, továbbá a karbantartási és javítási feladatok egyszerűsítése. E célok érdekében azonos gyártmányú autóbuszokat kíván beszerezni. E tényekre tekintettel a rész-ajánlattétel lehetősége ellentétes volna ajánlatkérő gazdasági érdekeivel és a gazdasági célszerűség követelményével (Kbt. 50.§ (1) bek. k. pont). Az ajánlatban egyidejűleg különböző életkorú autóbuszokat is lehet ajánlani.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0eff2d4274b0471a28185880f815e903f97bd254643ba29fbf7e5418372be4b1
+size 747

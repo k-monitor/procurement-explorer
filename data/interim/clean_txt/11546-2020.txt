@@ -1,15 +1,3 @@
-megbízási szerződés keret
-a békés megyei kormányhivatal részére ginop 5.
-1-14-2015-00001
-ifjúsági garancia
-munkaerőpiaci program keret karrier tanácsadási
-mentori szolgáltatás nyújtás
-a munkaerőpiaci szolgáltatás
-valamint az az kapcsolódó nyújtható támogatás szóló
-2000.
-15.
-gm rendelet megfelelő
-a projekt keret karrier-tanácsadási
-mentori szolgáltatás nyújtás a ginop 5.
-1-14-2015-00001 program célcsoport tartozó békés megye élő álláskereső és inaktív személy munkaerőpiaci elhelyezkedés támogatás
-valamint a közfoglalkoztatás a versenyszféra való átlépés elősegítés érdek
+version https://git-lfs.github.com/spec/v1
+oid sha256:7d219e2441c87a24512affc4e36cb5f93728ed71ed1fc74ee9ae2119485fcb71
+size 638

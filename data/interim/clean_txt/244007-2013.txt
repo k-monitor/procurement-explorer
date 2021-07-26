@@ -1,17 +1,3 @@
-bérleti szerződés vegyes vállalkozási szerződés
-mely tárgy
-a perkátai általános művelődési központ főzőkonyha és a ő tartozó étterem éves időtartam történő bérbeadás ajánlatkérő rész
-a bér adott főzőkonyha előállított élelmiszer
-tízórai
-ebéd
-uzsonna
-perkáta nagyközség önkormányzat
-a jelen felhívás ii
-2.1 pont meghatározott
-közintézmény étkeztetési szolgáltatás ellátás
-továbbá a szociális igazgatás és szociális ellátás szóló 1993. évi iii
-törvény 62. § szerinti szociális étkeztetés szükséges haccp szerinti
-fogyasztás kész
-élelmiszer
-ebéd
-előállítás és kiszállítás
+version https://git-lfs.github.com/spec/v1
+oid sha256:9493c4bae5d5bcfb1d15d08386079e0d9b0117d2e84be4fd62d5274cf779f427
+size 658

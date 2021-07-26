@@ -1,2 +1,3 @@
-kiskörei vízerőmű környezet turisztikai és sportcélú fejlesztés
-szlalom kajak-kenu pálya engedélyezési tervdokumentáció elkészítés és engedélyeztetés
+version https://git-lfs.github.com/spec/v1
+oid sha256:9456a54feac3b2b6b5c40ba90b156712ae2950634525283335423a3daf96e47d
+size 169

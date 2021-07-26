@@ -1,4 +1,3 @@
-orosháza város önkormányzata közigazgatási terület működő közvilágítási hálózat aktív elem üzemeltetés
-karbantartás
-felügyelet
-ellenőrzés év kötendő szolgáltatási szerződés keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:676df3863c1036398b11151df99d4c21483f71042aec1cd77fcf35d8a14497fd
+size 208

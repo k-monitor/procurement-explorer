@@ -1,7 +1,3 @@
-határozott időtartam szóló felhasználási szerződés keret szerzői mű felhasználási jog beszerzés a digitális tankönyvtár felsőoktatási tartalomszolgáltató oldal történő közzététel cél a támop-4
-2.5
-b-11
-1-2011-0001
-azonosítószámú
-tudományos és felsőoktatási tartalom központi elektronikus közzététel biztosítás
-tárgyú kiemelt projekt keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:8cd921d01cdbeafd8cb34c42a20d285449bf18d314f88f27d127f0f3ebb34849
+size 382

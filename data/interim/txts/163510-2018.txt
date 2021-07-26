@@ -1,1 +1,3 @@
-Zöldmezős beruházás, új gyakorló Jég- és Curling csarnok építése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:838bb611d98bacfd3a8cbbcf1941acfb51f80092fb85e6cf0225e7eee65e266b
+size 76

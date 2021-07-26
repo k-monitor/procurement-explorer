@@ -1,6 +1,3 @@
-vállalkozási szerződés keret
-árvízi kockázati térképezés és stratégiai kockázatkezelési terv készítés
-keop-2
-5.0
-b
-09-12-2013-0001
+version https://git-lfs.github.com/spec/v1
+oid sha256:4c351dfc12611698fbfdb81a24126ae027ce44c1aaf8b9d1948ecaecd8943fe8
+size 147

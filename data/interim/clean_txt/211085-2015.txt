@@ -1,2 +1,3 @@
-szállítási szerződés db literes szelektív gyűjtés szolgáló új
-műanyag hulladékgyűjtő tartály szállítás tárgy
+version https://git-lfs.github.com/spec/v1
+oid sha256:2c6191766bff776fe0024c9c58f140570e870469dd86ddf2efe492161dc4dc27
+size 128

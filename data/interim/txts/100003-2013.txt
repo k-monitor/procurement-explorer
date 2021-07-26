@@ -1,1 +1,3 @@
-Szállítási szerződés alapján a Magyar Tudományos Akadémia köztestületi intézményei földgáz energiavételezése 2013.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7a00d2aee7a6efa662675e170d47196a4396475cc60ddd114eb1e8b4876fcc66
+size 130

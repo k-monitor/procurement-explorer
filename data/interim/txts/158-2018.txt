@@ -1,1 +1,3 @@
-Adásvételi szerződés Pékáru beszerzés az SZGYF fenntartásában lévő Tolna és Békés megyei 2 intézmény részére 14 telephelyére a részletezett műszaki leírás szerint (árazatlan terméklista).
+version https://git-lfs.github.com/spec/v1
+oid sha256:d3f3d26b637c23ce5087000bdbf6092b694344f49dfb8f260cab0a8d804eb893
+size 212

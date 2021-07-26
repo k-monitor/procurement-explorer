@@ -1,9 +1,3 @@
-földgázellátási szerződés a budapesti műszaki és gazdaságtudományi egyetem részére
-a magyar átviteli hálózat folyamatos rendelkezés álló
-szabványos minőségű földgázenergia versenypiaci beszerzés
-rendszerhasználat biztosítás együtt
-1.7.2015
-1.10.2016
-közötti időszak vonatkozó
-teljes ellátásalapú szerződés keret
-menetrendadási kötelezettség nélkül
+version https://git-lfs.github.com/spec/v1
+oid sha256:704c6cab49304bcfdba2f1a4f264eb52da285d474cc7dcf7dd28f35a912268f3
+size 390

@@ -1,1 +1,3 @@
-Keretmegállapodás keretében élelmiszer alapanyag – pékáru – beszerzése az Orosházi Kórház részére.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b66ba6a234014ff3d00c6191aff83abc12e818c52f0a7211ea679bec1cf09dda
+size 114

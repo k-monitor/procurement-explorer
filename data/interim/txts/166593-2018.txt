@@ -1,1 +1,3 @@
-Gyógyszerek és egyéb termékek beszerzése lakossági gyógyszerellátást végző vényforgalmú gyógyszertár részére.
+version https://git-lfs.github.com/spec/v1
+oid sha256:724b7b1e9c51abce4c33130f461f8c151d96f95f09643d62c9b6542afa397831
+size 126

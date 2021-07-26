@@ -1,1 +1,3 @@
-Növénytelepítés és ápolás 2016 vállalkozási szerződés keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:99b2dd1bc9770e755ff5d9fd165f4b84212f0e267b1a719618995c478725bdc3
+size 76

@@ -1,1 +1,3 @@
-Villamos energia vásárlásra árubeszerzés 2020. évben 1.1.2020. 00:00 CET - 31.12.2020. 24:00 CET közötti időszakban. Beszerzés mennyisége összesen: 9 902 577 kWh mennyiségben. Az ajánlatkérő a megadott beszerzési mennyiségtől pozitív irányba opcionálisan 30 %-kal pótdíjmentesen eltérhet.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bed0859d884d578a4647a11d175d6d03d7722a6c79c3805e57b8b2278c0dc0bd
+size 313

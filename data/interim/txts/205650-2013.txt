@@ -1,1 +1,3 @@
-Hitelszerződés. Veszprém, MFB Önkormányzati Infrastruktúra-Fejlesztési Program hitelcéljaiban meghatározott állami árfolyam-garanciával támogatott 200 000 000 HUF összegű beruházási és felújítási hitel felvétele, az ajánlattételi dokumentációban részletezett beruházási és felújítási célokra.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5dbd452aa37720e0b949badd8d140aefb4bc2217bb6fa5f6936befa9e525bd4f
+size 326

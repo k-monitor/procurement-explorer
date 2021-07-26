@@ -1,1 +1,3 @@
-Építési beruházás (FIDIC Piros könyv) Rehabilitációs Szolgáltatások fejlesztése a Közép-Dunántúli Régióban KDOP-5.2.1/C-11-2011-0001 kódszámú Új Széchenyi Terv Pályázat keretében a Deák Jenő Kórház területén kardiológiai és tüdőgyógyászati és légzés rehabilitációs ellátó hely építése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:04919f97661e2a89cbc815efd34b001040c25a68c72ad504d683b6ab627e3533
+size 332

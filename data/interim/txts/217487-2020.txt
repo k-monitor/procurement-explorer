@@ -1,1 +1,3 @@
-Az Ajánlatkérő (Megrendelő) tulajdonában lévő Integrált Irat- és Dokumentumkezelő Rendszer (rövid elnevezéssel: IIDR) továbbfejlesztése, új modulokkal történő kiegészítése annak érdekében, hogy a fejlesztés befejeztével az IIDR szoftver alkalmas legyen országos, éles üzembe állítással az ügyészi munkának - legalább egy szakterületen - történő kiszolgálására.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d0324c5dff265edd6daa3b97dad37f33549cf5c4a3fae14953bc232981a66ce5
+size 402

@@ -1,34 +1,3 @@
-Villamos	Villamos	PROPN	Case=Nom|Number=Sing	
-energia	energia	NOUN	Case=Nom|Number=Sing	
-szállítása	szállítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-Makón	Makó	PROPN	Case=Sup|Number=Sing	
-a	a	DET	Definite=Def|PronType=Art	
-helyben	hely	NOUN	Case=Ine|Number=Sing	
-központosított	központosított	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPast	
-beszerzési	beszerzési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-rendszer	rendszer	NOUN	Case=Nom|Number=Sing	
-hatálya	hatály	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-alá	alá	ADP	_	
-tartozó	tartozó	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-intézmények	intézmény	NOUN	Case=Nom|Number=Plur	
-és	és	CONJ	_	
-szervezetek	szervezet	NOUN	Case=Nom|Number=Plur	
-részére	részére	ADP	_	
-2013.9.1	2013.9.1	PROPN	Case=Nom|Number=Sing	
-.	.	PUNCT	_	
-
-0.00	0.00	NUM	Case=Nom|NumType[sem]=Time|Number=Sing	
-CET	cet	NOUN	Case=Nom|Number=Sing	
--	-	PUNCT	_	
-2014.8.31	2014.8.31	PROPN	Case=Nom|Number=Sing	
-.	.	PUNCT	_	
-
-24.00	24.00	NUM	Case=Nom|NumType[sem]=Dot|Number=Sing	
-CET	cet	NOUN	Case=Nom|Number=Sing	
-időszakra	időszak	NOUN	Case=Sub|Number=Sing	
-vonatkozóan	vonatkozó	ADJ	Case=Ess|Degree=Pos|Number=Sing|VerbForm=PartPres	
-kereskedelmi	kereskedelmi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:eeacb0b5c75664043fb7f5fba20f4775eb9a039214d0d80c5eee17445d01cc22
+size 1444

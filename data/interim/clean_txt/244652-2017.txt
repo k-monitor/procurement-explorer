@@ -1,5 +1,3 @@
-adásvételi szerződés
-budapest főváros főpolgármesteri hivatal részére microsoft nagyvállalati szerződés
-ea
-3. év licencbeszerzés
-tárgy
+version https://git-lfs.github.com/spec/v1
+oid sha256:76c4ee655929de29b7295fe06e1f887300280ba550f28988c379031fa470f81c
+size 150

@@ -1,2 +1,3 @@
-szállítási szerződés különféle élelmiszer beszerzés
-részajánlati kör
+version https://git-lfs.github.com/spec/v1
+oid sha256:f2a7dec54b4ff83194f9466f5d61f13b7c42183eb7a60dc44642b4c266a5c592
+size 81

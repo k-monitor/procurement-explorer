@@ -1,4 +1,3 @@
-budapest
-kerület
-szántóföld u.
-hrsz-ú ingatlan új
+version https://git-lfs.github.com/spec/v1
+oid sha256:e65ec5be9ebcde7bdbcff44f0184982cb62d17bebf0d92cc17310afaa25b6f05
+size 55

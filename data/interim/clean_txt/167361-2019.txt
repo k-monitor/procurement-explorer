@@ -1,9 +1,3 @@
-adásvételi keretszerződés
-mely tárgy fdg beadó szerelék beszerzés tema sinergie gyártmányú karl típusú automatikus dózis osztó és injektáló készülék ajánlatkérő előreláthatólag az alábbi mennyiség rendel meg az aláírt szerződés keret belül
-db karl készülék napi osztó szerelék
-db karl készülék rad inject infúziós szerelék
-db karl készülék fecskendő
-db karl készülék rad inject direkt infúziós szerelék
-a megadott mennyiség csak tájékoztató jellegű
-ak nem vállal garancia az maradék nélküli lehívás
-a részletes műszaki leírás a közbeszerzési dokumentumok tartalmaz
+version https://git-lfs.github.com/spec/v1
+oid sha256:6dacc2ec69357433dd26aa76150dbf2bd89ac44f3f5e901dcfa6bf90a1d29af9
+size 636

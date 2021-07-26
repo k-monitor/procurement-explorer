@@ -1,1 +1,3 @@
-A Városmajori Szív- és Érgyógyászati Klinika részére embolektómiás katéterek, érprotézisek, carotis shunt és pericardium folt beszerzése. Beszerzés mennyisége: összesen 1045 db/2év. 1. rész: Embolektómiás katéterek 2. rész: Dróton felvezethető embolektómiás katéterek 3. rész: Dacron alapanyagú műerek 4. rész: Polytetrafluoretilén (PTFE) alapanyagú, külső erősítésű, vékony falú műerek 5. rész: Polytetrafluoretilén (PTFE) alapanyagú, külső erősítésű, vékony falú műerek, heparin bevonattal 6. rész: Dacron alapanyagú antimikrobiális ezüsttel impregnált protézisek 7. rész: Carotis műtéthez használatos shunt 8. rész: Pericardiumból készült folt érfal záráshoz/pótláshoz
+version https://git-lfs.github.com/spec/v1
+oid sha256:5e433bef240b868327070e25947ec528b7d484ca6b5e6804af32e7ed21111410
+size 746

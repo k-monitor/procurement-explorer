@@ -1,1 +1,3 @@
-Pest Megyei Rendőr-főkapitányság Skoda Yeti 1.8 TSI és 2.0 CRTDI és Skoda Fabia 1.2 TSI gépjárműveinek garanciaidőn túli karbantartása, javítása 4. részben.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5a288a55eaaf049486808a8ef781fbccdf1bcad7ccee2d5dac36d89a87a679a4
+size 171

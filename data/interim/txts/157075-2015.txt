@@ -1,1 +1,3 @@
-A veleszületett vérzékenység kezelésére szolgáló recombináns technológiával előállított 1. generációs VIII. faktor koncentrátum készítmény 2015. évi beszerzése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ce7b09719b7125a82aa07518a32576dfce0848795ef0287ef9ff12c84a132928
+size 182

@@ -1,2 +1,3 @@
-szállítási keretszerződés
-tisztítószer és higiéniás szer beszerzés a budapest főváros kerület zugló önkormányzata fenntartás működő intézmény részére
+version https://git-lfs.github.com/spec/v1
+oid sha256:261ddce9ab451b298cf41cc78e9d680709175b971002ef2991485e88579a09fe
+size 174

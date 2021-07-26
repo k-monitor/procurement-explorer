@@ -1,11 +1,3 @@
-Szennyvíziszap	szennyvíziszap	NOUN	Case=Nom|Number=Sing	
-(	(	PUNCT	_	
-veszélyes	veszélyes	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-hulladék	hulladék	NOUN	Case=Nom|Number=Sing	
-)	)	PUNCT	_	
-gyűjtése	gyűjtés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-,	,	PUNCT	_	
-szállítása	szállítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-és	és	CONJ	_	
-kezelése	kezelés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:088dd0456d14eec6be7fcaef5f151f1990da0bb2a66439ce3809f01fd86526be
+size 468

@@ -1,1 +1,3 @@
-Meghatározása: Szállítási szerződés. Tárgya: Ajánlatkérő részére gyógyszer és infúzió beszerzése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fdaf5cfabf79191d78d1dde53d946c88c636f9d94dedca09dddb32b8ce24fa6f
+size 115

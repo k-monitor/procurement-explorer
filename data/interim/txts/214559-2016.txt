@@ -1,1 +1,3 @@
-Adásvételi szerződés vezetékes földgáz beszerzésre.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3ffd53624edaee62a0343941869d63a2fb538d9a9cd6af8565f63d95d249fdcf
+size 59

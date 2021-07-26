@@ -1,1 +1,3 @@
-1. rész: Adásvételi szerződés 1 db FULL HD laparoszkópos torony beszerzése tárgyában. 2. rész: Adásvételi szerződés 1 db FULL HD laparoszkópos torony beszerzése tárgyában. 3. rész: Adásvételi szerződés 11 db urológiai endoszkóp beszerzése tárgyában. 4. rész: Adásvételi szerződés 1 db FULL HD hybrid torony beszerzése tárgyában. 5. rész: Adásvételi szerződés 1 db hiszteroszkópos torony beszerzése tárgyában.
+version https://git-lfs.github.com/spec/v1
+oid sha256:386baef7e4f8502fbb6169004acef3c4e081b23e4994893489d47216c9a05d8c
+size 453

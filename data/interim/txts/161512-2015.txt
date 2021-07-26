@@ -1,1 +1,3 @@
-Adásvételi szerződés az ajánlatkérő által Szállítójárművek és felépítmények beszerzése a KEOP-1.1.1/C/13-2013-0043 iktatószámú, Körös-szögi Kistérség Hulladékgazdálkodási Rendszerének Továbbfejlesztése tárgyú projekt keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:40c91b18cb6cc54e1c55d382cb9d12ce90d9d86cf152fd9d77432eb68e356202
+size 262

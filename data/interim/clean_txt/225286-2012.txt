@@ -1,4 +1,3 @@
-szállítási szerződés
-db min. szeletes ct vizsgáló berendezés beszerzés
-telepítés
-üzem helyezés és teljeskörű szervizszolgáltatás
+version https://git-lfs.github.com/spec/v1
+oid sha256:83efd79d90471684a2c4b63d7544725d908d68f28f5d93866e7bebc9fc0a1b04
+size 146

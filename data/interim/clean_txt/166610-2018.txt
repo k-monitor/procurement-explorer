@@ -1,28 +1,3 @@
-a baranya megyei kormányhivatal népegészségügyi főosztály laboratóriumi osztály mikrobiológiai laboratórium fejlesztés
-című efop-2
-18-17-2017-00021 azonosítószámú projekt keret belül laboratóriumi eszköz beszerzés az ajánlati felhívás és a közbeszerzési dokumentáció meghatározott szerint
-nyertes ajánlattevő feladat a fenti laboratóriumi eszköz
-rendszer meghatározott alkotórész és tartozék együtt történő beszerzés
-a teljesítés helyszín történő leszállítás
-beüzemelés és eszköz használat vonatkozó oktatás elvégzés
-az ajánlattételi felhívás
-valamint a közbeszerzési dokumentum szereplő meghatározott gyártmány
-eredet
-típus történő hivatkozás csak a közbeszerzés tárgy egyértelmű és közérthető meghatározás érdek történik
-ajánlatkérő a
-2015.
-x.
-korm
-rendelet 46. §
-bekezdés alap az minden egyenértékű termék elfogad
-2015.
-10. 30.
-korm
-rendelet
-kr
-ajánlattvő
-at
-ajánlatkérő
-ak
-alvállalkozó
-av
+version https://git-lfs.github.com/spec/v1
+oid sha256:123e5ebc0317d5a75a42fb7ab661a0f52c4b1fc57e5a0e1943e6847c25711637
+size 1000

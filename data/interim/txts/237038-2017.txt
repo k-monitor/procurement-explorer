@@ -1,1 +1,3 @@
-„Budapest Főváros XIII. Kerületi Önkormányzat fenntartása alatt álló sportlétesítmények és közművelődési intézmények napi, havi és nagytakarítása”.
+version https://git-lfs.github.com/spec/v1
+oid sha256:43f58619b7f938e07de66a39dc066edc2e9aea1ee12261bb00cab45c180a3877
+size 172

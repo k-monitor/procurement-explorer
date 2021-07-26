@@ -1,1 +1,3 @@
-Meglévő EJBCA szoftverekhez licensz követés és támogatási szolgáltatások (support) beszerzése
+version https://git-lfs.github.com/spec/v1
+oid sha256:f0c45cd83155308cb69d2e9c3a04b7fad4b3175d2dccd10f14d6421371019cc2
+size 103

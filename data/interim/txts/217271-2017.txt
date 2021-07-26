@@ -1,1 +1,3 @@
-Vállalkozási szerződés az ajánlatkérő Országos Onkológiai Intézet Budapest, Ráth György u. 7-9. szám alatti székhelyén üzemelő 1 db MR készülék és segédberendezéseinek teljes körű karbantartására, eseti hibaelhárítására, 48 hónapos határozott időtartamra.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3856e87587719cb2b222c2a6558c173c6608c33a19a56f8db42c9120a75aa83b
+size 289

@@ -1,2 +1,3 @@
-a diósgyőri vár komplex és turisztikai fejlesztés
-belső vár és külső vár kivitelezési munka
+version https://git-lfs.github.com/spec/v1
+oid sha256:dcc3ffe94b922d8619ddbc8b42ca72ca9af5e864c74cd295b069842bcc6bea81
+size 103

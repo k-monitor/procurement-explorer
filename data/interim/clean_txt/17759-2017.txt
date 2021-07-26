@@ -1,6 +1,3 @@
-megbízási keretszerződés keret a programozási időszak az efop támogatási forrás származó pénzeszköz felhasználás
-a kedvezményezett által megvalósított közbeszerzési eljárás
-illetve szerződés ellenőrzés
-felügyelet ellátó irányító hatóság
-a mindenkor hatályos jogszabály alap fennálló
-feladat kapcsolódó és a tevékenység segítő közbeszerzés minőségbiztosítási szolgáltatás és szakértői tanácsadás
+version https://git-lfs.github.com/spec/v1
+oid sha256:6d9c476c7296381854a2c2969533f92278cff580724779e9d500f81d04729840
+size 453

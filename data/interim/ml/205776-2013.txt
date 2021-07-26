@@ -1,33 +1,3 @@
-Megbízási	megbízási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-:	:	PUNCT	_	
-8.	8.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
-sz.	sz.	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-főút	főút	NOUN	Case=Nom|Number=Sing	
-Várpalota-Veszprém	Várpalota-veszprém	NOUN	Case=Nom|Number=Sing	
-I.	1.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
-szakasz	szakasz	NOUN	Case=Nom|Number=Sing	
-33+100-39+600	33+100-39+600	PROPN	Case=Nom|Number=Sing	
-km	km	NOUN	Case=Nom|Number=Sing	
-sz.	sz.	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-(	(	PUNCT	_	
-Pérfürdő-Hajmáskér	Pérfürdő-hajmáskér	NOUN	Case=Nom|Number=Sing	
-)	)	PUNCT	_	
-közötti	közötti	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szakasz	szakasz	NOUN	Case=Nom|Number=Sing	
-115	115	NUM	Case=Nom|NumType=Card|Number=Sing	
-kN-os	kN	NOUN	Case=Nom|Number=Sing	
-burkolat-megerősítési	burkolat-megerősítési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-,	,	PUNCT	_	
-korszerűsítési	korszerűsítési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-,	,	PUNCT	_	
-valamint	valamint	CONJ	_	
-kapcsolódó	kapcsolódó	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-létesítményeinek	létesítmény	NOUN	Case=Gen|Number=Plur|Number[psor]=Sing|Person[psor]=3	
-kivitelezési	kivitelezési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-munkáin	munka	NOUN	Case=Sup|Number=Plur|Number[psor]=Sing|Person[psor]=3	
-Mérnök	mérnök	NOUN	Case=Nom|Number=Sing	
-feladatok	feladat	NOUN	Case=Nom|Number=Plur	
-ellátása	ellátás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:bb7b5b87a8368efd7b3e79dc95d1426ca5c8cc02da90a248cc120c1b596f314e
+size 1542

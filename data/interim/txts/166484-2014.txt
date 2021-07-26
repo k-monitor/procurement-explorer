@@ -1,1 +1,3 @@
-Vállalkozási szerződés kollégiumi közétkeztetési feladatok ellátására a József Attila Kollégiumban és a Budapesti Egyesített Középiskolai Kollégiumban, az ott található főző- és tálaló konyhák bérbevételével és működtetésével. A további részleteket a dokumentáció tartalmazza.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d6a1563cd169c80bd1cd41cde368f44e51f434656f7549e60cba8dada61d36a4
+size 314

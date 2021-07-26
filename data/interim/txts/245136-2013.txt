@@ -1,1 +1,3 @@
-Változó terepminőségű burkolatlan, valamint burkolt útfelületeken való átlagos menetteljesítménnyel bíró, állandó vagy kapcsolható 4 kerék meghajtással rendelkező személygépjármű beszerzése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3860e94360968eae13d161295ad14f9c54457c6ec69e0c24cdfeb84f7d6261f5
+size 214

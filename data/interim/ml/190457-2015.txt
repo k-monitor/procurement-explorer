@@ -1,23 +1,3 @@
-Földgáz	földgáz	NOUN	Case=Nom|Number=Sing	
-energia	energia	NOUN	Case=Nom|Number=Sing	
-szállítása	szállítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-1.	1.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
-
-10	10	NUM	Case=Nom|NumType=Card|Number=Sing	
-.	.	PUNCT	_	
-2015-1.10.2016	2015-1.10.2016	PROPN	Case=Nom|Number=Sing	
-.	.	PUNCT	_	
-teljesítési	teljesítési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-időszakra	időszak	NOUN	Case=Sub|Number=Sing	
-vonatkozóan	vonatkozó	ADJ	Case=Ess|Degree=Pos|Number=Sing|VerbForm=PartPres	
-,	,	PUNCT	_	
-teljes	teljes	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-ellátás	ellátás	NOUN	Case=Nom|Number=Sing	
-alapú	alapú	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-földgáz	földgáz	NOUN	Case=Nom|Number=Sing	
-energia	energia	NOUN	Case=Nom|Number=Sing	
-szállítási	szállítási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:33517f281c09d18ffc0f3b27efab1101ee4289e851d0a884ce5ab97500c9016e
+size 1001

@@ -1,2 +1,3 @@
-közszolgáltatási szerződés csokonyavisonta község terület keletkező lakossági és közületi szilárd hulladék begyűjtés
-elszállítás és ártalmatlanítás kapcsolatos közszolgáltató feladat ellátás
+version https://git-lfs.github.com/spec/v1
+oid sha256:6156481c46fa4244cdc371d62a8a90d804c6bd8e1f97f95a8659bd324ef2deea
+size 219

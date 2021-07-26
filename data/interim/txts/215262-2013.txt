@@ -1,1 +1,3 @@
-Vállalkozási szerződés a „K008.20. 8. sz. főút 131+550 - 143+350 km sz. közötti szakasz 115 kN-os burkolat-megerősítési, korszerűsítési, valamint kapcsolódó létesítményeinek kivitelezési feladatainak ellátása” tárgyában.
+version https://git-lfs.github.com/spec/v1
+oid sha256:090b34f9a972dbd5350242844f94edfd6dc0b20b280d2cd90e755e512b3d331c
+size 248

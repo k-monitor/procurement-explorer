@@ -1,1 +1,3 @@
-Microsoft vagy azzal egyenértékű oktatási licencek beszerzése, valamint a Tisztaszoftver portál működtetése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a37720e4c52f646d6858ff8c08b1cf1f307c4abca8c80823e5a53d929d72793a
+size 117

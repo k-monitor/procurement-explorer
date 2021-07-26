@@ -1,3 +1,3 @@
-földgázkereskedő kiválasztás a 2018.10.01
-2019.09.30
-közötti időszak
+version https://git-lfs.github.com/spec/v1
+oid sha256:015b54e172ef2ef82bd6a0679dea71d57702b55037ac7066af9b0686dacbb03f
+size 76

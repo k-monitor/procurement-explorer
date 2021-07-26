@@ -1,1 +1,3 @@
-Gumihulladék daráló-aprító gép hosszú távú bérlete. A bérlet időtartama 60 hónap.
+version https://git-lfs.github.com/spec/v1
+oid sha256:152b49fbf0c3f00647ea2ea4817c083bad73346a140ea33a71dea492c7ad9a0d
+size 94

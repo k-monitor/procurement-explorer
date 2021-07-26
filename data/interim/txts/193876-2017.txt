@@ -1,1 +1,3 @@
-Vállalkozási keretszerződés Budapest Főváros XVII. kerület Rákosmente Önkormányzat kezelésébe tartozó zöldterületek, fasorok fenntartási munkáinak elvégzésére.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7ab925cc6dc4d003e93639f200440cefbb5b6fb8e421e7751823bb155564fc67
+size 179

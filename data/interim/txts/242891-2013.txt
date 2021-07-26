@@ -1,1 +1,3 @@
-Vállalkozási szerződés az MNV Zrt. rábízott vagyoni körébe tartozó ingatlanok helyreállítási munkáinak elvégzésére az ajánlati dokumentációban, illetve a keretmegállapodásos eljárás második részében meghatározott műszaki leírás szerint.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a3cda7d8f9cb9c1b0bfd26cd5f44cd6d46ea5a5104295848dd9d01ad43956f52
+size 266

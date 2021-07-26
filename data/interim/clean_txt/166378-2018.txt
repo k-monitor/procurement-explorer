@@ -1,8 +1,3 @@
-a veleszületett vérzékenység kezelés szolgáló külföldi plazma előállítás kerülő
-haemofilia a kezelés szolgáló nagytisztaságú
-faktor koncentrátum
-iti kezelés alkalmas von willebrand faktor tartalmú készítmény
-atc kód
-b02bd02
-beszerzés folyamat lévő iti kezelés alatt álló beteg részére
-mennyiség ne
+version https://git-lfs.github.com/spec/v1
+oid sha256:6b810f780542759c55f9b30d07c78056cc85d4f71e26b83513fe503bc6ac6a95
+size 333

@@ -1,1 +1,3 @@
-adásvételi szerződés darab mammográf berendezés beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:e71ee44d5aae0517751c2bbaf3fba3d1263f24df4df5b531e92590b4cfd1d64b
+size 64

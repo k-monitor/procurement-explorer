@@ -1,3 +1,3 @@
-adásvételi szerződés
-a semmelweis egyetem genomikai medicina és ritka betegség intézete részére nagy teljesítményű újgenerációs szekvenáló készülék és kiegészítő
-beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:3903540909a495ab99fa7b2ccd7ddcca7f424d55605ea33ea600dd20ac24caca
+size 196

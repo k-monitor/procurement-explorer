@@ -1,1 +1,3 @@
-Négy évszakos kulturális és rendezvényhelyszín fejlesztése Balatonfüreden a meglévő kulturális kínálat erősítésével, tervezési szerződés keretében Projekt azonosítószáma: GINOP-7.1.9-17-2018-00022
+version https://git-lfs.github.com/spec/v1
+oid sha256:21f532c54e590f5e80e9ab6ec91a948d7d1fa1a850b7086f83e8e929b28301b0
+size 220

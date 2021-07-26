@@ -1,1 +1,3 @@
-Adás-vételi szerződés. Az EFOP-2.2.18-17-2017-00052 „Betegbiztonság növelését célzó komplex infrastrukturális fejlesztések az egészségügyi ellátórendszerben” című pályázat keretében 1 db automatizált betegszíntű gyógyszerelő automata berendezés beszerzése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:54108bbc83ed004a7be40b93650fbf5871a1f6c61df8c39853099f5866ff22cc
+size 289

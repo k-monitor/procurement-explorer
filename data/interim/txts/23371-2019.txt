@@ -1,1 +1,3 @@
-Gépek beszerzése mezőgazdasági célból
+version https://git-lfs.github.com/spec/v1
+oid sha256:b525c2ef42d8cfb54df467206f8fcdccb90ab7965e10ccab5a4a8808b588f00f
+size 43

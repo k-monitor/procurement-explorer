@@ -1,3 +1,3 @@
-log-elemző rendszer szállítás
-finomhangolás
-illetve opcionálisan éves időtartam bevezetés
+version https://git-lfs.github.com/spec/v1
+oid sha256:eb4764dba09a1199c88db0316475cbd8d37551d66658f60a11d81fd811f2665b
+size 98

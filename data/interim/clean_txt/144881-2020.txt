@@ -1,6 +1,3 @@
-vállalkozási szerződés a
-elte épület energetikai fejlesztés
-című
-kehop-5
-2.2
-16-2017-00112 azonosító számú projekt keret az elte illyés sándor szakkollégium épület energetikai korszerűsítés tárgy
+version https://git-lfs.github.com/spec/v1
+oid sha256:6535a4ac8e1ded909b49500e123607f72a4be774e97b9d21b06601b3a4eb5961
+size 217

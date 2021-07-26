@@ -1,20 +1,3 @@
-Szállítási	Szállítási	PROPN	Case=Nom|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
--	-	PUNCT	_	
-„	„	PUNCT	_	
-GPS	GPS	NOUN	Case=Nom|Number=Sing	
-technológián	technológia	NOUN	Case=Sup|Number=Sing	
-alapuló	alapuló	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-PDA	PDA	PROPN	Case=Nom|Number=Sing	
-készülékek	készülék	NOUN	Case=Nom|Number=Plur	
-beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-a	a	DET	Definite=Def|PronType=Art	
-Mezőgazdasági	Mezőgazdasági	PROPN	Case=Nom|Number=Sing	
-és	és	CONJ	_	
-Vidékfejlesztési	Vidékfejlesztési	PROPN	Case=Nom|Number=Sing	
-Hivatal	Hivatal	PROPN	Case=Nom|Number=Sing	
-részére	részére	ADP	_	
-"	"	PUNCT	_	
-tárgyában	tárgy	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:393890d875db4cd5a65aa811c5c9d517c27a6ae9820ee16eb2f431ef622c3944
+size 826

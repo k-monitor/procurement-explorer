@@ -1,13 +1,3 @@
-Közétkeztetés	közétkeztetés	NOUN	Case=Nom|Number=Sing	
-ellátása	ellátás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-Dombóvár	Dombóvár	PROPN	Case=Nom|Number=Sing	
-Városában	város	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-vállalkozási	vállalkozási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-keretén	keret	NOUN	Case=Sup|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-belül	belül	ADP	_	
-infrastrukturális	infrastrukturális	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-beruházások	beruházás	NOUN	Case=Nom|Number=Plur	
-elvégzésével	elvégzés	NOUN	Case=Ins|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:acb29845a90b2923eb3658a6447372d6cbd95e88ae14820547817f55d1ee683a
+size 714

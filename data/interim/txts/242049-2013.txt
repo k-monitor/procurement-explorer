@@ -1,1 +1,3 @@
-Hitel szerződés EU finanszírozású beruházások támogatott önrészének finanszírozására vonatkozó fejlesztési hitel felvétele tárgyban.
+version https://git-lfs.github.com/spec/v1
+oid sha256:00a51a2cf8ebc184cb719c2fde81519691188c98b2f2895b8b4cf21c9a47fb0f
+size 150

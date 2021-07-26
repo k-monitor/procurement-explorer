@@ -1,1 +1,3 @@
-1 db pásztázó elektronmikroszkóp és 1 db pásztázó transzmissziós elektronmikroszkóp, valamint az utóbbihoz kapcsolódóan 1 db ionsugaras mintavékonyító berendezés és 1 db ultramikrotóm (a továbbiakban együttesen: Eszközök) beszerzése adásvételi szerződéssel a Pannon Egyetem részére 4 megajánlható részben a GINOP-2.3.3-15-2016-00009 azonosítószámú projekt keretében A közbeszerzés tárgya magában foglalja az Eszközök rendeltetésszerű használatához szükséges szoftverek területi és időbeli korlátozás nélküli felhasználási jogát, valamint az eszközök szállítási, beüzemelési és betanítási költségét is.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e29d6b8da40ab4d11f31e33b367114bba63bcd02e7aa21a448e493e80b46392a
+size 674

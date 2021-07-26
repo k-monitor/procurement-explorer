@@ -1,1 +1,3 @@
-Megállapodás hibaelhárítási - karbantartási, valamint ingatlanfenntartási (park-gondozási), továbbá költöztetés, szállítási szolgáltatás nyújtására. (rövid hivatkozás: “Karbantartási szolgáltatás”).
+version https://git-lfs.github.com/spec/v1
+oid sha256:0744388db19ea2dc5c9e46c5cb2833d3456fe98b03c2731b116a25cce4f079aa
+size 228

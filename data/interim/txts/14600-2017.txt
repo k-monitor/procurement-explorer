@@ -1,1 +1,3 @@
-Vörösvérsejt koncentrátum előállításához szükséges laboratóriumi fehérvérsejt-csökkentő szűrő és hozzá kapcsolódó tároló zsák (vörösvérsejt-szűrő szett) beszerzése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:74510917d86328c584ac44baf4c14f89d99e73b4cef2e5e0de8d544b38506984
+size 195

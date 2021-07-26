@@ -1,1 +1,3 @@
-EFOP-2.2.1- VEKOP-16-2016-00001 projekt megvalósítása során szükséges orvosi eszközök beszerzése a Petz Aladár Megyei Oktató Kórház részére
+version https://git-lfs.github.com/spec/v1
+oid sha256:33c16cae6dd0319f22449ea9f80f9b880e44664cc58855fad2654ef0e792109f
+size 154

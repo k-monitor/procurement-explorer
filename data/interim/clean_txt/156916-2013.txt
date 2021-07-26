@@ -1,4 +1,3 @@
-biztosítási szerződés
-vagyon
-és felelősségbiztosítás budapest főváros
-kerület zugló önkormányzat részére
+version https://git-lfs.github.com/spec/v1
+oid sha256:1e3848dc3b3c1c16c94a9306d7e863bde1d43687b8de0ce3ec1a99c2b7089682
+size 121

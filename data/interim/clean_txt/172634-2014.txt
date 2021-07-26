@@ -1,15 +1,3 @@
-adásvételi szerződés storm mikroszkóp fejlesztés alkalmas mikroszkóp fram konfokális kialakítás beszerzés
-a megajánlatott eszköz kompatibilis kell lennie a meglévő optikai elem
-nikon apo tirf
-1.
-nikon lu plan elwd
-wd10
-inf
-nikon plan fluor elwd
-wd7
-inf
-ez egyenértékű megoldás elfogadható
-ha a fenti megfelelő optikai elem biztosít az ajánlattevő az eszköz ajánlati ár
-ez az eset az egyenértékűség megállapítás az ajánlat be kell mutat
-hogy a fenti szerinti mely optikai elem helyett milyen elem ajánl az ajánlattevő
-az eljárás csak új eszköz ajánlható
+version https://git-lfs.github.com/spec/v1
+oid sha256:469f5b84a8acb3371ff8726500604deef07d0f31d443c3e239ab323808926ecb
+size 596

@@ -1,1 +1,3 @@
-Folyószámlahitel biztosítása hitelszerződések formájában, 2 részajánlatban: I. rész tekintetében 1 000 000 000 HUF értékben, II. rész tekintetében 800 000 000 HUF értékben.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9852fe3c699b99e249f23104d8e7c8e133c070366d66c92abeca968d41f9d528
+size 190

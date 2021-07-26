@@ -1,1 +1,3 @@
-Szállítási szerződés - Folyadékkromatográffal összekapcsolható, elektroporlasztásos és atmoszférikus nyomású kémiai ionizációs ionforrással ellátott, hármas kvadrupol tandem tömegspektrométer beszerzése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bf972b265bb521fb3c9960fc7a08639519b7c7ed221bfb8012e329aae42c29e8
+size 226

@@ -1,8 +1,3 @@
-adásvételi szerződés fogtechnikai munkaállomás beszerzés érdek az efop-4
-1-16-2017-00014 pályázat keret az alábbi szerint
-a nyertes ajánlattevő feladat összesen db mobil páciens szimulátor
-db kompresszor
-db mandibula mozgás dimenziós digitális vizsgálat szükséges eszköz
-db artikulátor split-cast talprendszer
-projektazonosító
-ny
+version https://git-lfs.github.com/spec/v1
+oid sha256:3a2514264de2162dfe12430341993cdf1abc30a7f11bf111386042e9421e7b20
+size 355

@@ -1,2 +1,3 @@
-vállalkozási szerződés az mta székház és könyvtár épületegyüttes restaurátori kutatás
-szakértői diagnosztikai vizsgálat elvégzés és restaurálási terv elkészítés tárgy
+version https://git-lfs.github.com/spec/v1
+oid sha256:62170e45cd731069e2d0b188961381b71146f0ec8c057804991261032206f4cb
+size 192

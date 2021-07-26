@@ -1,1 +1,3 @@
-Sebészeti varróanyagok, vérzéscsillapítók, varrógépek beszerzése 35 részben adásvételi keretszerződés keretében a II.2.1) pontban, valamint a közbeszerzési dokumentumokban rögzítettek szerint.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0eeac42bbdaf67ec19a53eb937db53993678db6ad525db9bd4f2646362cba7ac
+size 211

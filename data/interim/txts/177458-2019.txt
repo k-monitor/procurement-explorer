@@ -1,1 +1,3 @@
-Vívóeszközök beszerzése a Magyar Vívó Szövetség részére
+version https://git-lfs.github.com/spec/v1
+oid sha256:303671c8eed3948c8e018cc1b6da7767fc2df4ef01db88cf0df866f679a0f6ba
+size 66

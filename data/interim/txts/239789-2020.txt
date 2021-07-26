@@ -1,1 +1,3 @@
-A Debreceni Egyetem DEK-907 Orvosi műszerek beszerzése a ROHU401. sz. projekt keretében II. az alábbi eszközök beszerzését vállalta: 1. rész: 1 db plazma technológiával működő sebészeti vágókészülék és 2 db kézieszköz laparoszkópos eljárásokhoz 2. rész: 1 db ultrahang-diagnosztikai berendezés 3. rész: 1 db nőgyógyászati műtőasztal 4. rész: 3 db infúziós pumpa
+version https://git-lfs.github.com/spec/v1
+oid sha256:59a7e53b202885065803bf549596a8fcc1ee6a4afc7132db6a423e52b495e458
+size 399

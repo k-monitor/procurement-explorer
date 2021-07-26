@@ -1,1 +1,3 @@
-Vállalkozási keretszerződés a Megrendelő Szeged, Sándorfalvi úti Regionális Hulladéklerakó Telepén különböző hulladékok előkezelése, osztályozása, rakodása, telephelyen belüli szállítási munkák ellátása tárgyban.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3e8a3f86ac702902d7a9e43dfdabc72a7ff979cd500f577465045d3d461c419b
+size 241

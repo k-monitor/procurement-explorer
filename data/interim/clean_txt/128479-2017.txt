@@ -1,8 +1,3 @@
-mfb zrt működő sap rendszer afi és kapcsolódó analitikus modul
-fi
-trm
-sl
-cb
-továbbfejlesztési koncepció kidolgozás
-megvalósítás
-éles indítás és üzemeltetés támogatás
+version https://git-lfs.github.com/spec/v1
+oid sha256:45e3cf16d81dc19e6aa553176c0d53826ab2b4832f093c031332c014b38af413
+size 186

@@ -1,1 +1,3 @@
-Vállalkozási szerződés az 55. sz. főút 4+475 - 18+202 km szelvények (502 sz. főút Szeged nyugati elkerülő - tervezett Mórahalom elkerülő) közötti szakaszán 115 kN tengelyterhelésre történő burkolat megerősítésére és a főúttal párhuzamos kerékpárút kivitelezési munkáinak elvégzésére.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3f0a478a8bd53ae8dcfcbbb75870c9bbffd88f383bf674d000c1475971d9cad7
+size 320

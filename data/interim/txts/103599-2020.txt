@@ -1,1 +1,3 @@
-Irodai programcsomag licencek biztosítása
+version https://git-lfs.github.com/spec/v1
+oid sha256:4c775551cdcd3c3d7f9dee656ee7fa1fbba1b7d631a9d7ef30ab3b3b1c78fe2b
+size 43

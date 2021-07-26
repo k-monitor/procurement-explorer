@@ -1,1 +1,3 @@
-határidős adásvételi szerződés különféle mikroszkóp szállítás
+version https://git-lfs.github.com/spec/v1
+oid sha256:9a525ba40ebb479a2bb47475978b056d01672c7c65dce45ca8548aff82d2b5c1
+size 74

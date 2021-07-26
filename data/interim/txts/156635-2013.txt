@@ -1,1 +1,3 @@
-Szállítási szerződés flottamenedzsment eszközök szállítása és azok üzemeltetéséhez szükséges flottafelügyeleti szolgáltatások beszerzése érdekében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5788591c66791601f878d82c4b39c56a00c757ed649027c8de7ecd10be73458c
+size 169

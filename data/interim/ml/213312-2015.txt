@@ -1,14 +1,3 @@
-„	„	PUNCT	_	
-Földgáz	földgáz	NOUN	Case=Nom|Number=Sing	
-energia	energia	NOUN	Case=Nom|Number=Sing	
-szabadpiaci	szabadpiaci	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-a	a	DET	Definite=Def|PronType=Art	
-KEF	KEF	PROPN	Case=Nom|Number=Sing	
-által	által	ADP	_	
-üzemeltetett	üzemeltetett	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPast	
-épületek	épület	NOUN	Case=Nom|Number=Plur	
-ellátásához	ellátás	NOUN	Case=All|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-"	"	PUNCT	_	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:40592b3d24b54d7a01d2d4763186f8c8692e1eaab124994c16528c79d778be77
+size 585

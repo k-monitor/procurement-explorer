@@ -1,20 +1,3 @@
-adás-vételi szerződés keret a
-komplex hulladékgazdálkodási rendszer fejlesztés ér város térség
-különös tekintet az elkülönített hulladékgyűjtési
-szállítási és előkezelő rendszer
-elnevezésű kehop-3
-1-15-2016-00008 azonosítószámú projekt megvalósulá szükséges gyűjtő
-és szállítójármű beszerzés
-ii
-pont folyik
-ak a műszaki feltételrendszer
-követelmény úgy alakít ki
-hogy az a verseny megfelelő biztosít a mellett
-hogy a részajánlattétel biztosítás gazdasági szempont ésszerűtlen lesz
-ak a vizsgálat sor megállapít
-hogy a jelen eljárás tárgy képező eszköz gazdasági műszaki szempont költséghatékonyabban beszerez-hető rész való szétbontás nélkül
-egységes koordináció
-ak szempont továbbá fontos és egységes kezelendő és esetleges érvényesítendő jótállási és szavatossági igény
-így az ez kapcsolatos feladat összehangolás ekként ésszerű
-az túlmenő
-hogy költséghatékonyabb válik a beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:b2092413f879fd7ce71c6c980709bfdec83a4b76bf517ceb5cf08e2a2171170a
+size 998

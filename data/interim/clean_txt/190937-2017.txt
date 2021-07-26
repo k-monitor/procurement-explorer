@@ -1,31 +1,3 @@
-építési beruházás
-2015.
-10. 30.
-korm
-rendelet 14. §
-bekezdés a
-pont
-vállalkozási keretszerződés alap
-a műszaki leírás tételjegyzék részletezett
-javítási munka elvégzés eseti megrendelés szerint
-az ajánlatkérő kezelés
-illetve a későbbi kezelés kerülő híd
-és áteresz alépítmény
-felszerkezet
-hídtartozék
-szigetelés és burkolatrendszer
-vízelvezető rendszer
-dilatációs szerkezet
-korrózióvédelmi bevonat
-az esetleges teljes körű
-vagy kis meghibásodás
-sérülés eset
-az ajánlatkérő írásbeli bejelentés alap
-az eseti megrendelés megadott híd
-áteresz hely
-útszám
-szelvényszám helyazonosítás
-az elvégzendő munka megrendelés legfeljebb nettó huf keretösszeg kerül sor a tényleges jelentkező beszerzési igény
-eseti megrendelés
-függvény
-a részletes műszaki információ a közbeszerzési dokumentum műszaki leírás fejezet tartalmaz
+version https://git-lfs.github.com/spec/v1
+oid sha256:a03d1898142b72ce5f5c73af00464e64ee45a6cf473ff87693d5ed6db01e5533
+size 904

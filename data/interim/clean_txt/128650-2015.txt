@@ -1,1 +1,3 @@
-adásvételi szerződés infúzió beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:0316bf2e36445eff5ca1ce52dfcbcaea9054d37845145271014506418e5f2aa8
+size 45

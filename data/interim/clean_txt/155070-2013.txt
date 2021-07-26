@@ -1,17 +1,3 @@
-z
-közb
-ifj
-hu azonosítószámú eljárás vállalkozási keretszerződés megkötés
-mely tárgy az
-ifjúság
-hu a sikeres nemzedék
-átfogó ifjúsági szolgáltatásfejlesztés a köznevelés tanuló diák esélyegyenlőség növelés érdek
-című
-támop 3.3.12
-kódszámú projekt megvalósítás szükséges stratégiai kommunikációs
-kreatív feladat kapcsolatos szolgáltatói
-rendezvényszervezői
-koordinációs és tanácsadói tevékenység
-valamint pr
-public relations
-ügynökségi feladat ellátás
+version https://git-lfs.github.com/spec/v1
+oid sha256:31aec0eee9d26007f0e58773d32285b875d43513d7c4c853019d238d1c998d63
+size 515

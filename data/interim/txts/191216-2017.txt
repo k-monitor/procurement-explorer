@@ -1,1 +1,3 @@
-Földgáz ellátás biztosítása Ajánlatkérő részére 1.10.2017. 6:00 CET – 1.10.2018. 6:00 CET időszakra vonatkozóan, teljes ellátás alapú földgáz kereskedelmi szerződés keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a948eda13bf8f47450794f0a79a2e9f098ab83b5a196f9a7e8296116e955f6f2
+size 198

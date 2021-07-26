@@ -1,5 +1,3 @@
-intézményirányítási folyamat újraszervezés
-intézményirányítási folyamat támogató
-egységes alap és megoldás nyugvó
-integrált intézményirányítási szakrendszer megvalósítás
-felsőoktatási intézmény bevezetés és kapcsolódó szolgáltatás nyújtás
+version https://git-lfs.github.com/spec/v1
+oid sha256:b857815be64d12e7fc61b4c01f900d2ab69a1c149a15c39e07c5a69406fac03b
+size 277

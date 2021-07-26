@@ -1,1 +1,3 @@
-Általános felhasználású villamos energia értékesítése a 1.5.2015. 00:00 CET – 30.4.2016. 24:00 CET közötti időszakban teljes ellátás alapú villamos energia kereskedelmi szerződés keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:43ad3cdb7bd13709e10c3eb156b6761a43ad0758869b33056829dcf3f8ebd2a7
+size 209

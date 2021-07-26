@@ -1,15 +1,3 @@
-szállítási szerződés keret fertőtlenítőszer beszerzés az alábbi részajánlat szerint
-1. rész
-tisztító hatású tárgy és felületfertőtlenítő 1. ii
-rész
-tisztító hatású tárgy és felületfertőtlenítő ii
-iii rész
-tisztító hatású tárgy és felületfertőtlenítő erős zsíroldó hatás rész
-speciális fertőtlenítőszer v rész
-na-hipoklorit rész
-gépi endoszkóp fertőtlenítőszer
-fertőtlenítőszer aktivátor és tisztítószer vii rész
-gépi endoszkóp fertőtlenítőszer és tisztítószer 1. rész
-gépi endoszkóp fertőtlenítőszer és tisztítószer 2.
-gépi eszköz tisztítószer és öblítőszer 10. manuális műszer-eszközfertőtlenítő tisztítószer
-nem folyékony
+version https://git-lfs.github.com/spec/v1
+oid sha256:a80af935594988d4a5f7ae6570659b2aa743ff427ba38f20efacd2ffdf690cb8
+size 726

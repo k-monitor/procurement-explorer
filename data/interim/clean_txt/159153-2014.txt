@@ -1,1 +1,3 @@
-szállítási szerződés alap különféle élelmiszer alapanyag beszerzés részajánlat-tételi kör
+version https://git-lfs.github.com/spec/v1
+oid sha256:7c7a11606d4a44709561cb4c0c63b58d27d84c4fc0b2cd5177955882508c69ae
+size 103

@@ -1,1 +1,3 @@
-Magyar Közút Nonprofit Zrt. útfenntartási, telephely üzemeltetési, gépkarbantartási és labortevékenysége során keletkezett veszélyes hulladékok szállítása és kezelése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:73b42f3288db117a16784c6b15505d1d3777e7478dc72b9f15fe0dbdf15e6117
+size 186

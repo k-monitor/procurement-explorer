@@ -1,1 +1,3 @@
-TIOP-2.2.1-11/1-2012-0001 azonosító számú, „Sürgősségi ellátás fejlesztése – mentés” tárgyú projekthez kapcsolódóan keringéstartó eszközök beszerzése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bdee3fb4f7276fe0a5921909d5fa880913ed53b3f2459f5cb341de0b2770c899
+size 176

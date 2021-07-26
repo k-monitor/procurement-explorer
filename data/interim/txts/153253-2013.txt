@@ -1,1 +1,3 @@
-A Tokaj-hegyaljai történelmi borvidék kultúrtáj világörökségi helyszínre és védőövezetére vonatkozó világörökségi kezelési terv szakmai előkészítésére szolgáló megalapozó dokumentáció és világörökségi kezelési terv elkészítése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:34882def7163e749db52daeedd6f6722bf9a5b756d7aff3cdd7d86c413c2d744
+size 267

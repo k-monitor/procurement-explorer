@@ -1,5 +1,3 @@
-építési beruházás
-fidic piros könyv
-rehabilitációs szolgáltatás fejlesztés a közép-dunántúli régió kdop-5
-2.1
-c-11-2011-0001 kódszámú új széchenyi terv pályázat keret a deák jenő kórház terület kardiológiai és tüdőgyógyászati és légzés rehabilitációs ellátó hely építés
+version https://git-lfs.github.com/spec/v1
+oid sha256:cdb49a38f7a07d98d6abc7d4e7ea1a6f229843156443c420f4513bd5f752e650
+size 314

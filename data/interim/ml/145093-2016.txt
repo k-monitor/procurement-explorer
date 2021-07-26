@@ -1,17 +1,3 @@
-Az	az	DET	Definite=Def|PronType=Art	
-EDR	EDR	PROPN	Case=Nom|Number=Sing	
-rendszerben	rendszer	NOUN	Case=Ine|Number=Sing	
-alkalmazott	alkalmazott	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPast	
-EADS	EADS	PROPN	Case=Nom|Number=Sing	
-(	(	PUNCT	_	
-Cassidian	cassidian	NOUN	Case=Nom|Number=Sing	
-)	)	PUNCT	_	
-TETRA	tetra	NOUN	Case=Nom|Number=Sing	
-terminál	terminál	NOUN	Case=Nom|Number=Sing	
-felhasználói	felhasználói	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-konfigurációk	konfiguráció	NOUN	Case=Nom|Number=Plur	
-szerviz	szerviz	NOUN	Case=Nom|Number=Sing	
-munkáinak	munka	NOUN	Case=Gen|Number=Plur|Number[psor]=Sing|Person[psor]=3	
-elvégzése	elvégzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:938fdab842d312ae7116e07bd33aa716b85969ef5c93a1a5b6227db6216f8819
+size 739

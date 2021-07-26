@@ -1,1 +1,3 @@
-em-560 deoec részére neuronavigációs rendszer beszerzés irányuló szállítási szerződés
+version https://git-lfs.github.com/spec/v1
+oid sha256:c4444cbefa4a9c1d281e647c39ba975de7dd53bd27354fb135fce74d658134ae
+size 97

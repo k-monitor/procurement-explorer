@@ -1,11 +1,3 @@
-földgáz adásvételi keretszerződés keret az ajánlatkérő részére a magyar földgáz hálózat folyamatos rendelkezés álló
-szabványos minőségű földgáz energia versenypiaci beszerzés szerződéses időszak
-1.10.2016
-9.2017
-gáznap vég
-vonatkozó
-teljes ellátásalapú földgáz-kereskedelmi szerződés keret
-mely maga foglal a rendszerhasználati díj és a földgázvásárlás kapcsolódó állami előírt
-az ajánlatkérő teher eső költség
-díj
-adó és más járulék teljeskörű elszámolás is
+version https://git-lfs.github.com/spec/v1
+oid sha256:6662183067bc5c7e47ad4ff331b50242e87033f0fa29a19e1a3a24b07daaa21c
+size 525

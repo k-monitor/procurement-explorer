@@ -1,9 +1,3 @@
-a közbeszerzés szóló 2015. évi
-törvény 105. §
-bekezdés a
-pont szerinti keretmegállapodás megkötés irányuló
-gyorsított tárgyalásos közbeszerzési eljárás új
-tételes elszámolású hatóanyag tartalmazó
-természet biztosítandó egyes gyógyszer beszerzés
-a 31.
-terjedő aktív időszak
+version https://git-lfs.github.com/spec/v1
+oid sha256:46978145b5771f55ddb16ad5c35ddbd4c66978cf5957832bc55934ef31bd4db4
+size 309

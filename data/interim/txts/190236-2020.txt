@@ -1,1 +1,3 @@
-Adásvételi szerződés keretében Berettyóújfaluban létesítendő új büntetés-végrehajtási intézetben alap és szakellátó rendelőinek és fekvőbeteg ellátó osztályának kialakítására és felszerelésére orvostechnikai kéziműszerek, egyéb eszközök eszközök beszerzése, mely tartalmazza a készülékek helyszínre szállítását, szükség esetén beüzemelését. További részletek a Közbeszerzési Dokumentumokban.
+version https://git-lfs.github.com/spec/v1
+oid sha256:95c8dacd211c4c6fd5e24c843d22ef878ec0c85768b6cafc7c26e2dce80b6d9b
+size 449

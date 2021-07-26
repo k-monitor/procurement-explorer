@@ -1,12 +1,3 @@
-szállítási szerződés keret sebészeti varrógép beszerzés konszignációs raktár üzemeltetés az alábbi részajánlat szerint
-1. rész
-egyenes vágó
-és varrógép
-ii
-rész
-pouch képzés egyenes vágó és varrógép
-iii rész
-mélyrektum
-nyelőcső és gyomor műtét sebészeti varrógép
-rész
-laparoszkópos műtét varrógép
+version https://git-lfs.github.com/spec/v1
+oid sha256:1d5b932ad6880eb410a7c20071b1199650b2330d55b092329cecbaac051f02cd
+size 342

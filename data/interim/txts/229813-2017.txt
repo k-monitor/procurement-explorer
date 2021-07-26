@@ -1,1 +1,3 @@
-„Takarítási szolgáltatás beszerzése a Győr-Moson-Sopron Megyei Kormányhivatal részére – 2017.- GYB-09/4250/2017.” Vállalkozási szerződés, melynek tárgya „Takarítási szolgáltatás beszerzése a Győr-Moson-Sopron Megyei Kormányhivatal részére – 2017 – GYB-09/4250/2017” az alábbiak szerint: Az 1-4. részek tekintetében takarítási szolgáltatás nyújtása – mely épületen belüli takarítást tartalmaz – a közbeszerzési dokumentumban meghatározott részletes műszaki tartalom és követelményrendszer alapján a Győr-Moson-Sopron Megyei Kormányhivatal használatában lévő ingatlanok vonatkozásában.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a7c9861e48dc8822bb64efd6ee4eaf63e757f34a1406dd16660fd09b1b77d708
+size 655

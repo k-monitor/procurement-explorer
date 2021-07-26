@@ -1,1 +1,3 @@
-Az MNV Zrt. saját, bérelt és kezelt vagyoni körébe tartozó ingatlanainak komplex vagyonvédelme (élőerős őrzése, portaszolgálat, járőrszolgálat és kivonuló szolgálat, illetve vagyonvédelmi távfelügyelet, ellenőrzés kivonuló szolgálattal, valamint biztonsági rendszerek (behatolás-jelző, kamerás) telepítése, karbantartása.
+version https://git-lfs.github.com/spec/v1
+oid sha256:af2d91b966321647655b72f9ec51ae124d15790f3056168fe465f7ea6ed23d56
+size 354

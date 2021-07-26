@@ -1,1 +1,3 @@
-Munkaállomás és monitor beszerzés.
+version https://git-lfs.github.com/spec/v1
+oid sha256:615e21cab2330b4901f9596090fb69c60ab2e35b086693591fd5a31648e17f62
+size 38

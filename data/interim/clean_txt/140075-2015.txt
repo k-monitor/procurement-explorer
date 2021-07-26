@@ -1,2 +1,3 @@
-a magyar turizmus zrt. részére színes kiadvány nyomdai kivitelezés
-gyártás a szerződés megkötés számított hónap időtartam vonatkozó rész
+version https://git-lfs.github.com/spec/v1
+oid sha256:bccbb3932293bb8eddc10426cfc20d62223c338300d5b0abfba0dcf5bdc222d0
+size 153

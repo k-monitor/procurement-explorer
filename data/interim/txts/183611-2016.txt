@@ -1,1 +1,3 @@
-Adásvételi keretszerződés e-ÚT 05. 02. 11 (ÚT 2-3. 301-1: 2010) Útügyi műszaki előírásoknak megfelelő AC11 kopó és AC 11 kopó (F) típusú téli melegaszfalt beszerzésére keverőtelepi átvétellel, az ajánlati felhívás II.2) pontjában megjelölt részekben, a részenként megjelölt nettó keretösszeg erejéig.
+version https://git-lfs.github.com/spec/v1
+oid sha256:94d14d163e33489fa0227551fbdb7171a99d00a61dd4f3017e59d3ab9832b5ed
+size 336

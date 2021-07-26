@@ -1,1 +1,3 @@
-Adásvételi keretszerződés keretében PTCA ballonkatéterek, radiális és femorális eszközök beszerzése a Városmajori Szív- és Érgyógyászati Klinika részére. A szerződések a keretmennyiség kimerüléséig, de legfeljebb 36 hónap időtartamra jönnek létre. A beszerzés keretmennyisége a 19 rész tekintetében a 36 hónap időtartamra vonatkozóan: 50 580 db.
+version https://git-lfs.github.com/spec/v1
+oid sha256:655dab85ec52647c313b98ff011fa991532af8121ffdd1a192d799d50515ce25
+size 382

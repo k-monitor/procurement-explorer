@@ -1,1 +1,3 @@
-arrabona-tész értékesítő szövetkezet részére műanyag tárolóedény beszerzés adásvételi szerződés keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:b5eb10a02b9dfb4d50fc155788dd98a25e7729e6ae780cf3e72d7132bb9452ec
+size 118

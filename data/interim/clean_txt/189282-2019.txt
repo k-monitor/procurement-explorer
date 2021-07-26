@@ -1,1 +1,3 @@
-orvosi és fogászati eszköz beszerzés a pécsi tudományegyetem részére ajánlati rész a közbeszerzési dokumentum meghatározott szerint
+version https://git-lfs.github.com/spec/v1
+oid sha256:8f682797646a78ea5c84c5e43ad8d42410786580f82c6ae13fb23efbf47eb2f2
+size 144

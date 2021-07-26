@@ -1,1 +1,3 @@
-DEK-567_Adásvételi szerződés 1 db ultrahang készülék beszerzésére a Debreceni Egyetem Klinikai Központ Sürgősségi Klinika részére.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d977a66d6da214006eb8371932e7afb58320634838bb182288b02838047f49c1
+size 145

@@ -1,1 +1,3 @@
-Vállalkozási keretszerződések az Országos Katasztrófavédelmi Főigazgatóság vagyonkezelésében (üzemeltetésében) lévő Renault gyártmányú, tűzoltó vagy katasztrófavédelmi felépítményű valamint egyéb járművek (a járművek típus szerinti összetételét - részenként - a dokumentáció műszaki leírása tartalmazza) garanciális időszak alatti és garanciaidőn túli javítására, karbantartására és műszaki vizsgáztatási feladatainak elvégzésére a részeknél megadott keretösszegek erejéig.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7805c3e4d00aae6d45249ad1488717c3eda5633d2b48c32398193483e4b047e3
+size 538

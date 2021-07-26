@@ -1,2 +1,3 @@
-járda
-és kerékpárút takarító gép beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:ab85852817e6475dca56679901216688ec88e048d0143da81429b3ebace63163
+size 51

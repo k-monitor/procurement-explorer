@@ -1,1 +1,3 @@
-biztosítási szerződés a mezőföldi regionális víziközmű korlátolt felelősségű társaság részére
+version https://git-lfs.github.com/spec/v1
+oid sha256:fdc29148d581cdca703effa6c3155612f162822322a016be1ead5d6e71ab395f
+size 111

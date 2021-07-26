@@ -1,1 +1,3 @@
-A Semmelweis Egyetem részére 12 havi gyógyszerkészítmények beszerzése adásvételi keretszerződés keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3d300140d9b6aa21c88a02f69037b748104c37c716c311503e5b8d544470b13a
+size 118

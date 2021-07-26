@@ -1,1 +1,3 @@
-Vállalkozási szerződés mart aszfalt hidegen történő újrahasznosítása, kátyúzó keverék előállítása céljából. — 1. rész - Hidegaszfalt bekeverése mart aszfaltból - 2013. Észak-Magyarország, — 2. rész - Hidegaszfalt bekeverése mart aszfaltból - 2013. Nyugat-Magyarország, — 3. rész - Hidegaszfalt bekeverése mart aszfaltból - 2013. Dél-Magyarország.
+version https://git-lfs.github.com/spec/v1
+oid sha256:32b4b645c49ee7e7eead6da9821ce8b3113973b39a1951ce16e01f37ec716b88
+size 387

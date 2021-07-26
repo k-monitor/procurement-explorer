@@ -1,14 +1,3 @@
-vállalkozási keretszerződés
-nyertes ajánlattevő feladat a ii
-1.2
-pont meghatározott teljesítési hely összesen db stihl
-viking típusú fűkasz
-önjáró fűnyíró
-láncfűrész
-sövényvágó és talajfúró
-magassági ágvágó
-motoros permetező
-lombszívó karbantartás
-javítás
-szakszervizelés
-és az alkatrész biztosítás
+version https://git-lfs.github.com/spec/v1
+oid sha256:8e7986f82a954d0f83f29f0b181b74ff31fd5ff533fec0f91c532ab73fa2504c
+size 342

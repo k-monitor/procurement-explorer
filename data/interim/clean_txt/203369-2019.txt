@@ -1,5 +1,3 @@
-tonna alatti új kisáru szállító gépjármű beszerzés 1. rész
-tonna alatti új kisáru szállító gépjármű beszerzés az alábbi mennyiség
-db tonna alatti új zárt terű kisáru szállító gépjármű db tonna alatti új zárt terű kisáru szállító 4×4 gépjármű db tonna alatti új zárt terű dobozos duplafülkés vegyes használatú gépjármű db tonna alatti új zárt terű szimplafülkés gépjármű db tonna alatti új fix platós szimpla fülkés takaró ponyvás gépjármű db tonna alatti új fix platós szimpla fülkés magas ponyvás
-emelő hátfalas gépjármű db tonna alatti új fix platós duplafülkés magas ponyvás gépjármű db tonna alatti új fix platós szimpla fülkés takaró ponyvás 4×4 gépjármű db tonna alatti új zárt terű dobozos duplafülkés 4×4 gépjármű ii
-rész
+version https://git-lfs.github.com/spec/v1
+oid sha256:b91f7925466478997d1d1a8aab0de8fd20401bd55e03edd51728720aa7d639e2
+size 836

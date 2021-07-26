@@ -1,29 +1,3 @@
-Ajánlatkérő	ajánlatkérő	NOUN	Case=Nom|Number=Sing	
-számára	számára	ADP	_	
-folyószámla-hitel	folyószámla-hitel	NOUN	Case=Nom|Number=Sing	
-biztosítása	biztosítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-1	1	NUM	Case=Nom|NumType=Card|Number=Sing	
-100	100	NUM	Case=Nom|NumType=Card|Number=Sing	
-000	000	NUM	Case=Nom|NumType=Card|Number=Sing	
-000	000	NUM	Case=Nom|NumType=Card|Number=Sing	
-HUF	HUF	PROPN	Case=Nom|Number=Sing	
-folyószámla-hitelkerettel	folyószámla-hitelkeret	NOUN	Case=Ins|Number=Sing	
-,	,	PUNCT	_	
-jelen	jelen	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-felhívás	felhívás	NOUN	Case=Nom|Number=Sing	
-II	II	PROPN	Case=Nom|Number=Sing	
-.	.	PUNCT	_	
-
-2.1	2.1	PROPN	Case=Nom|Number=Sing	
-.	.	PUNCT	_	
-
-)	)	PUNCT	_	
-pontjában	pont	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-és	és	CONJ	_	
-a	a	DET	Definite=Def|PronType=Art	
-Dokumentációban	dokumentáció	NOUN	Case=Ine|Number=Sing	
-rögzített	rögzített	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPast	
-feltételek	feltétel	NOUN	Case=Nom|Number=Plur	
-szerint	szerint	ADP	_	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:80cb2bc0e89903191b718fe1828ae3b781393108b230b6cd0a39a000df5797ea
+size 1112

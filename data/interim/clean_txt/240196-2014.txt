@@ -1,5 +1,3 @@
-szerződés meghatározás
-üzemeltetés szükséges személy és kisteher gépjármű gépjármű beszerzés zár
-illetve nyílt végű pénzügyi lízing keret
-pénzügyi lízing keretszerződés
-a tájékoztató jellegű műszaki követelmény a kiegészítő irat tartalmaz
+version https://git-lfs.github.com/spec/v1
+oid sha256:84f998e57d8cb1c4f11439e9a2d78896fe3e9742ea93f023adbe1292ccbf9e00
+size 277

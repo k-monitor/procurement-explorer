@@ -1,35 +1,3 @@
-Bács-Kiskun	Bács-Kiskun	PROPN	Case=Nom|Number=Sing	
-Megyei	Megyei	PROPN	Case=Nom|Number=Sing	
-Katasztrófavédelmi	katasztrófavédelmi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-Igazgatóság	Igazgatóság	PROPN	Case=Nom|Number=Sing	
-,	,	PUNCT	_	
-Kecskeméti	Kecskeméti	PROPN	Case=Nom|Number=Sing	
-Katasztrófavédelmi	katasztrófavédelmi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-Kirendeltség	kirendeltség	NOUN	Case=Nom|Number=Sing	
-és	és	CONJ	_	
-Hivatásos	Hivatásos	PROPN	Case=Nom|Number=Sing	
-Tűzoltó	Tűzoltó	PROPN	Case=Nom|Number=Sing	
-parancsnokság	parancsnokság	NOUN	Case=Nom|Number=Sing	
-új	új	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-épületének	épület	NOUN	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-építése	építés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-a	a	DET	Definite=Def|PronType=Art	
-KEHOP-1	KEHOP-1	PROPN	Case=Nom|Number=Sing	
-.	.	PUNCT	_	
-
-6	6	NUM	Case=Nom|NumType=Card|Number=Sing	
-.	.	PUNCT	_	
-0.-15-2016-00012	0.-15-2016-00012	PROPN	Case=Nom|Number=Sing	
-azonosítószámú	azonosítószámú	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-projekt	projekt	NOUN	Case=Nom|Number=Sing	
-keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-a	a	DET	Definite=Def|PronType=Art	
-Kecskemét	Kecskemét	PROPN	Case=Nom|Number=Sing	
-8550	8550	NUM	Case=Nom|NumType=Card|Number=Sing	
-/	/	PUNCT	_	
-29	29	NUM	Case=Nom|NumType=Card|Number=Sing	
-hrsz.	hrsz.	NOUN	Case=Nom|Number=Sing	
-alatti	alatti	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-ingatlanon	ingatlan	NOUN	Case=Sup|Number=Sing	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:8a71fb971f24681325c439817ff1e95b3c60cd67a89839a91efcd6187f364138
+size 1559

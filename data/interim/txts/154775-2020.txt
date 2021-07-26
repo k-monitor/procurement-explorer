@@ -1,1 +1,3 @@
-A Debreceni Egyetem európai uniós forrásból származó különböző pályázatai számára informatikai alkatrészek beszerzését kívánja lebonyolítani. A pályázatok keretében beszerzendő egyéb eszközök között az alábbiak beszerzésére vállalkoztunk: 1. rész: GPU és tartozékai 2. rész: NAS és háttértárolók
+version https://git-lfs.github.com/spec/v1
+oid sha256:bb7da8f8da027f399abe7c8e239ce0a1344ae009143e67497de9fea9aa5b9c7c
+size 337

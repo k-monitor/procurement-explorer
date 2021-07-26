@@ -1,1 +1,3 @@
-villamos energia adásvételi szerződés a miskolci egyetem részére
+version https://git-lfs.github.com/spec/v1
+oid sha256:7bac2488d7f1fd9203e661097351fe62f62bac47add9c33bfea0eb678ccd500c
+size 70

@@ -1,1 +1,3 @@
-Keretmegállapodás gépjármű üzemanyag tankautós kiszállítására.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3fdfac04ebe4b02aa573cc96eedc71bbbe9648bd577685d841e1ed870d3e9055
+size 73

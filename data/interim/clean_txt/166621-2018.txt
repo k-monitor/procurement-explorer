@@ -1,7 +1,3 @@
-adás-vételi szerződés keret a
-komplex hulladékgazdálkodási rendszer fejlesztés a dél-alföldi térségi hulladékgazdálkodási társulás terület
-különös tekintet az elkülönített hulladékgyűjtési
-szállítási és előkezelő rendszer
-elnevezésű kehop-3
-1-15-2016-00006 azonosítószámú projekt megvalósulás szükséges gyűjtő
-és szállítójármű beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:66678383273e66106bcbc72770f4095f3b2b2548eb4c0f3027a17902e0e1d1ad
+size 388

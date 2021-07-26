@@ -1,1 +1,3 @@
-A Budapest Közút Zrt. kezelésében lévő aluljáró kamerák üzemeltetése és karbantartása.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1a3e6b1966e385cefa9b46638f99ecda530b71d60edb69997c8591683c6e110c
+size 99

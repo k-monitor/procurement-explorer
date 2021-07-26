@@ -1,2 +1,3 @@
-bankgarancia keret biztosítás az mtva részére
-bankgarancia keretszerződés keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:a5d0fef83bc34ed2202ec388a4a2b0d86800608970ce9ae01df33cb4bceeb163
+size 85

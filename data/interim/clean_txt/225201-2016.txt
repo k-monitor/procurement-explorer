@@ -1,5 +1,3 @@
-vállalkozási szerződés a bevándorlási és állampolgársági hivatal központi hivatal
-a budapesti regionális igazgatóság
-illetve a budapesti regionális igazgatóság kirendeltség
-valamint a hivatal város működő regionális igazgatóság és kirendeltség
-illetve ügyfélszolgálati iroda általános és időszaki takarítás
+version https://git-lfs.github.com/spec/v1
+oid sha256:321f0c3d054532f2ff87625f414d9b66b86789e5800e89d70806b03919246034
+size 342

@@ -1,1 +1,3 @@
-Szállítási szerződés 1 db hűtővíz és 1 db kondenzszivattyú cseréje (szállítása, beépítése és üzembe helyezése) érdekében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:efef0cebfe0f0edd29eeeb5ea5fd447f6e737d9bfb8750be58db0e536fc9a741
+size 143

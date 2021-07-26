@@ -1,5 +1,3 @@
-megbízási szerződés a
-békés megyei ivóvízminőség-javító program
-című keop-1
-3.0
-09-11-2012-0009 azonosító számú projekt munka kapcsolódó tájékoztatási és nyilvánosság biztosítási feladat ellátás vonatkozás
+version https://git-lfs.github.com/spec/v1
+oid sha256:4bd4612518c8adc45e95e7fa43c534b6f2695c6de8c37e85f5f22b7df554168e
+size 236

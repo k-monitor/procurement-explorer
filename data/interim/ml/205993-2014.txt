@@ -1,34 +1,3 @@
-Szombathely	Szombathely	PROPN	Case=Nom|Number=Sing	
-,	,	PUNCT	_	
-Hollán	holla	NOUN	Case=Sup|Number=Sing	
-E.	E.	PROPN	Case=Nom|Number=Sing	
-u.	u.	PROPN	Case=Nom|Number=Sing	
-8.	8.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
-szám	szám	NOUN	Case=Nom|Number=Sing	
-alatti	alatti	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-műemlék	műemlék	NOUN	Case=Nom|Number=Sing	
-épületben	épület	NOUN	Case=Ine|Number=Sing	
-2	2	NUM	Case=Nom|NumType=Card|Number=Sing	
-csoportos	csoportos	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-óvoda	óvoda	NOUN	Case=Nom|Number=Sing	
-kialakítása	kialakítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-az	az	DET	Definite=Def|PronType=Art	
-épület	épület	NOUN	Case=Nom|Number=Sing	
-átalakításával	átalakítás	NOUN	Case=Ins|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-vállalkozási	vállalkozási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
-A	a	DET	Definite=Def|PronType=Art	
-projekt	projekt	NOUN	Case=Nom|Number=Sing	
-azonosítószáma	azonosítószám	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-:	:	PUNCT	_	
-NYDOP-5	NYDOP-5	PROPN	Case=Nom|Number=Sing	
-.	.	PUNCT	_	
-
-3.1	3.1	PROPN	Case=Nom|Number=Sing	
-/	/	PUNCT	_	
-A-12-K2-2013-0001	A-12-K2-2013-0001	PROPN	Case=Nom|Number=Sing	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:6b597f56ed3189b5efce21560cc0a556629c868eb366eb08d23b00c89613da5c
+size 1386

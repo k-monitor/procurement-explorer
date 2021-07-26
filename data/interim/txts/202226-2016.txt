@@ -1,1 +1,3 @@
-Adásvételi szerződés „Field revitalizációs projekt II. keretében tartalék eszközök beszerzése” tárgyban. A közbeszerzés pontos leírását az ajánlattételi dokumentáció tartalmazza.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d679fc98d790ccf8ea40aa4105516d15ef93f5adb6faf59f5b9649483ad93cda
+size 203

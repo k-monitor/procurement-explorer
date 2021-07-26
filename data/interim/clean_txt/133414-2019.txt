@@ -1,10 +1,3 @@
-a bkv vasúti járműjavító kft. részére szintetikus vasúti alj
-féle
-beszerzés a közbeszerzési dokumentum részletes meghatározott műszaki leírás szerint
-a műszaki leírás esetleges előforduló
-nevesített típus név
-márkanév stb. a termék jelleg egyértelmű meghatározás érdek történik
-a
-2015. korm
-rendelet 46. §
-bekezdés alap az az egyenértékű minőségű termék ajánlatkérő elfogad
+version https://git-lfs.github.com/spec/v1
+oid sha256:547e6b6976739775322ae7644a656739da9aa8898631ab5b3df744a68b05dc04
+size 420

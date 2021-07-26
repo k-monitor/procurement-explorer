@@ -1,8 +1,3 @@
-Ritter	Ritter	PROPN	Case=Nom|Number=Sing	
-elosztó	elosztó	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-karbantartása	karbantartás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-,	,	PUNCT	_	
-javítása	javítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-,	,	PUNCT	_	
-hibaelhárítás	hibaelhárítás	NOUN	Case=Nom|Number=Sing	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:63d85df5129abb17e8dbaea0082247c8805c45ea0a7883782a2b70a059a81185
+size 373

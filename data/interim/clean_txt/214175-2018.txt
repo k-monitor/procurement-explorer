@@ -1,13 +1,3 @@
-a nyíregyházi egyetem eötvös józsef gyakorló általános iskola és gimnázium részére étkeztetési szolgáltatás nyújtás
-a közbeszerzés mennyiség
-az iskola konyha a haccp élelmiszerbiztonsági rendszer és a közétkeztetés vonatkozó hatályos hatósági előírás megfelelő üzemeltetés megrendelő kezelés lévő konyha
-valamint konyhai felszerelés bérlés
-a konyhai felszerelés vállalkozó kibővít úgy
-hogy a konyha a szolgáltatás teljesítés
-valamint a haccp élelmiszerbiztonsági rendszer megfelelő üzemeltetés alkalmas lesz
-mely állapot a szerződés teljes időtartam alatt fenntart
-a konyha tanítási időszak
-iskolai szünet és tanítás nélküli nap kivétel az év minden napján tanév rend megfelelő
-fő tanuló és fő
-intézményi dolgozó napi ellátás kell
-hogy biztosít a közétkeztetés vonatkozó egészségügyi előírás betartás
+version https://git-lfs.github.com/spec/v1
+oid sha256:9d19ecb9942784601540fa5a50daedddcc7295552fd0e6c78c4538ee190a5e83
+size 898

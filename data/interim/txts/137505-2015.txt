@@ -1,1 +1,3 @@
-Földgáz beszerzés a NAIK részére 2015/16. évre.
+version https://git-lfs.github.com/spec/v1
+oid sha256:57ec3a1cbb554e3971e2d24b738feaf9a2b7ca0b3b39fa2b5cf25e68824f5530
+size 53

@@ -1,1 +1,3 @@
-Szállítási szerződés rászorultsági alapon pályázat alapján, valamint köznevelési intézményeknek kiosztásra kerülő notebookok és kapcsolódó szoftverek szállítására, illetve szolgáltatások teljesítésére a DNFP Nyíregyházi település-központú kísérleti alprogram c. projekt keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:597de820de33cbb28d27f85f7c57a63f08abd643137b575372b7c167bdbc54a3
+size 318

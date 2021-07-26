@@ -1,1 +1,3 @@
-számlavezetés és folyószámlahitel biztosítás
+version https://git-lfs.github.com/spec/v1
+oid sha256:2fd706767404c2fd0c45629080c6bd483d2d18bae273a4abe3d0ec2be573b2a4
+size 51

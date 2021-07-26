@@ -1,15 +1,3 @@
-vállalkozási szerződés keret az mtva komplex médiatartalom-kezelő
-és disztributáló rendszer informatikai támogatás és továbbfejlesztés a ii
-2.4
-pont meghatározott szerint az mtva komplex médiatartalom-kezelő
-és disztributáló rendszer cél
-hogy az ajánlatkérő
-ak
-audiovizuális vagyon és élő tartalom az internet jelenít meg és jut el a végfelhasználó
-mobilalkalmazás
-megjelenítés menedzselő
-szerkesztőségi munkafolyamat támogató tartalomkezelő és portálrendszer
-külső és belső rendszerkapcsolat
-tartalomtovábbító rendszer
-a beszerzés részletes tárgy és mennyiség a ii
-2.4
+version https://git-lfs.github.com/spec/v1
+oid sha256:1510862636583183180be870918cec1e4a7a1f2d962a311c05c01362aefc034f
+size 625

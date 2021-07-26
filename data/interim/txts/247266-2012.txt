@@ -1,1 +1,3 @@
-Villamos energia értékesítési szerződés/villamos energia szállítása. Nyertes Ajánlattevő feladata a közös Ajánlatkérők Dokumentációban megjelölt csatlakozási pontjai részére 2013. január 01. 0:00 órától 2013. december 31. 24:00 óráig teljes ellátás alapú szerződés keretében történő villamos energia biztosítása, azzal, hogy a Magyar Közút Nonprofit Zrt. tekintetében a villamos energiát teljes ellátás alapú szerződés keretében 2013. május 01. 0:00 órától 2013. december 31. 24:00 óráig kell biztosítani.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5bcaa8606228324d2ab6134b0dafa3cb47868447aefd15b622cb69d251155147
+size 561

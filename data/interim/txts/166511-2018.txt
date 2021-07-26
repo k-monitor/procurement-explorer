@@ -1,1 +1,3 @@
-A Hajózási Információs Rendszer korszerűsítéséhez kapcsolódó hardverbeszerzési feladatok ellátása. Adásvételi szerződés a Hajózási Információs Rendszer fejlesztéséhez kapcsolódó hardverbeszerzési feladatok (kliens oldali és szerver oldali eszközök szállítás, beállítás, üzembe helyezés) ellátására. Ajánlatkérő alkalmazza a 321/2015. (X.30.) Korm. rendelet 46. § (3) bekezdésében foglaltakat. A részletes műszaki paramétereket a közbeszerzési dokumentum tartalmazza.
+version https://git-lfs.github.com/spec/v1
+oid sha256:59ff98e8bfeb5cfbb02f6750e331b4778d07be35d893f453831c4ab7d6ba209e
+size 517

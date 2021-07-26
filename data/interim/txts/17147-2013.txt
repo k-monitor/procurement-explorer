@@ -1,1 +1,3 @@
-Szállítási keretszerződés / Borítékok, irodaszerek leszállítása 1. részajánlat: borítékok 2. részajánlat: író- és irodaszerek
+version https://git-lfs.github.com/spec/v1
+oid sha256:18b314ae0b32d8c0495a0dd58faee350ad6bde258a85d4dc21d77825d6e44046
+size 144

@@ -1,1 +1,3 @@
-Tervezési szerződés Biatorbágy - Tata vasúti vonalszakasz kiviteli terveinek, támogatási kérelmének, valamint a kivitelezésre irányuló közbeszerzési eljárás műszaki köteteinek elkészítése tárgyában.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ec21cf2c47d35574c6035ac6bbab8bf3519e5ca1cb2b26677fde7b2a0fd60b84
+size 221

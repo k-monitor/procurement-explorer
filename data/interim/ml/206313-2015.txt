@@ -1,14 +1,3 @@
-Adásvételi	adásvételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-az	az	DET	Definite=Def|PronType=Art	
-esztergomi	esztergomi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-Vaszary	vaszary	NOUN	Case=Nom|Number=Sing	
-Kolos	kolos	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-Kórház	Kórház	PROPN	Case=Nom|Number=Sing	
-részére	részére	ADP	_	
-kórházi	kórházi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-CT	CT	NOUN	Case=Nom|Number=Sing	
-berendezés	berendezés	NOUN	Case=Nom|Number=Sing	
-beszerzésére	beszerzés	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:82a1f9a8f546d2d91bdaf0e9f524a8e31a1fdb0db6a68ced34e69cc81332657f
+size 616

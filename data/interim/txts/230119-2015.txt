@@ -1,1 +1,3 @@
-A TIOP-2.2.4/09/1-2010-0018 „Struktúraváltoztatást támogató infrastruktúrafejlesztés a fekvőbeteg-szakellátásban” című konstrukción belül, a berettyóújfalui Gróf Tisza István Kórház korszerűsítése tárgyú beruházáshoz kapcsolódóan egészségügyi gép-műszerek beszerzése adásvételi szerződés keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fc1854f0f37e9d0c08593f35d11a47bfdb6beebc9a9b608d1daaa7e40fdd6031
+size 342

@@ -1,1 +1,3 @@
-Szállítási szerződés hulladékszállító célgép-, tehergépjármű új gumiabroncs, tömlő és védőszalag valamint munkagép és személygépjármű új gumiabroncs szállítására.
+version https://git-lfs.github.com/spec/v1
+oid sha256:01410f7db37b4fda91019ce96040f5c750c1adcdc2ee700f18a61761a46b4fff
+size 193

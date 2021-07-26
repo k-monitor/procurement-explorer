@@ -1,4 +1,3 @@
-megbízási szerződés
-8. sz. főút 131+550-143+350 km sz. közötti szakasz kn burkolat-megerősítési
-korszerűsítési
-valamint kapcsolódó létesítmény kivitelezés a mérnök feladat ellátás
+version https://git-lfs.github.com/spec/v1
+oid sha256:0bec57f684e6e5be556ffd3db2832f54b16ee3af02488228a38671780ec1a1ab
+size 203

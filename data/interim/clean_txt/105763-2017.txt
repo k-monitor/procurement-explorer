@@ -1,32 +1,3 @@
-1. r. direkthűtő és folyadékhűtő karbantartás és eseti hibajavítás a gyermekgy
-és a rákóczi úti klinika neurológiai tömb telephely huf keretösszeg erő
-2. r. direkt és folyadékhűtő karbantart
-és eseti hibajav
-a klinikai tömb áok teleph
-huf keretösszeg
-3. r. direkt és folyadékhűtő karbantart
-és eseti hibajav
-ájk
-kancellária
-etk teleph
-huf a keretösszeg erő
-4. r. direkt és folyadékhűtő karbantart
-és eseti hibajav
-klinikai tömb jp
-klinikai tömb és szívgyógy
-klinika teleph
-huf keretösszeg
-5. r. direkt és folyadékhűtő karbantart
-és eseti hibajav
-onkoterápiás intézet szülészeti és nőgyógy
-klinika
-nyár u.
-borászati teleph
-huf keretösszeg
-6. r. direkt és folyadékhűtő karbantartás és eseti hibajavítás ii
-belgyógy
-klin
-akác u. klinikai tömb telephely huf keretösszeg erő
-a karbantart
-és eseti hibajav
-részletes feltétel rész a közbeszerzési dokumentáció tartalmaz
+version https://git-lfs.github.com/spec/v1
+oid sha256:1fb357325d199a137d6d307fcda49bb9e18ae40396872ece973eb4ba9cc5cfb8
+size 945

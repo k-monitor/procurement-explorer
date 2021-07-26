@@ -1,1 +1,3 @@
-Adásvételi keretszerződés keretében új általános szerelési segédanyagok, hidraulika és pneumatika alkatrészek szállítása.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0a0bd5f883ca6771b0eb4c13faf482a428d5e52cfedfc5077e570adb2491f618
+size 136

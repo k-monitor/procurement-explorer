@@ -1,1 +1,3 @@
-kiskunfélegyháza város önkormányzata és intézmény részére földgáz beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:83a26be91d291d9648b7ff0e279efeb17873af749de9a0c93adb88bc283fa933
+size 88

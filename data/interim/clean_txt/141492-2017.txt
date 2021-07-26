@@ -1,1 +1,3 @@
-haemodinamikai laboratórium havi működés szükséges fogyóanyag beszerzés rész
+version https://git-lfs.github.com/spec/v1
+oid sha256:cbcf0769653707ff2d0b9e76ddd3bd1afc6f4246cbab2502430d93ac461775d5
+size 85

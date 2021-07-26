@@ -1,1 +1,3 @@
-hossztoldó sor szerszámgép végtelen prés
+version https://git-lfs.github.com/spec/v1
+oid sha256:6502a71f9d26c30602082291946b476ae193865553006c163d2d3f5c04c38ff1
+size 45

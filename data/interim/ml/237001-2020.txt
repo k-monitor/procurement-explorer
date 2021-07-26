@@ -1,13 +1,3 @@
-„	„	PUNCT	_	
-Szállítási	Szállítási	PROPN	Case=Nom|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-2	2	NUM	Case=Nom|NumType=Card|Number=Sing	
-db	db	NOUN	Case=Nom|Number=Sing	
-60	60	NUM	Case=Nom|NumType=Card|Number=Sing	
-tonna	tonna	NOUN	Case=Nom|Number=Sing	
-teher	teher	NOUN	Case=Nom|Number=Sing	
-emelő-képességű	emelő-képességű	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-autódaru	autódaru	NOUN	Case=Nom|Number=Sing	
-szállítására	szállítás	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-"	"	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:6ddcf3f547c658515a408a721372db77e229bb65b0b488486ac8121671387d83
+size 551

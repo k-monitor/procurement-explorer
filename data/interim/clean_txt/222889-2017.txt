@@ -1,20 +1,3 @@
-adásvételi keretszerződés
-amely tárgy magyarország közvetlen nem el+érhető
-külföldi kiadású tudományos és szakmai sorozat
-és egyedi nyomású
-vagy könyvárusítási forgalom nem hozott szerzői kiadású
-vagy konferencia megjelenő
-vagy új
-kiadó beszerezhető kiadvány
-vagy régi kiadású
-kiadó vagy a kiadó terjesztő közvetlen már nem beszerezhető
-jellemző antikvárium keresztül hozzáférhető könyv és egyéb szakmai dokumentum
-minden
-sokszorosítás előállított vagy elektronikus létrehozott
-nem időszaki jellegű kiadvány
-hordozó függetlenül
-beszerzés
-és ajánlatkérő egyes telephely történő kiszállítás
-mennyiség
-huf+20
-keretösszeg
+version https://git-lfs.github.com/spec/v1
+oid sha256:d28f9298ae066e24d17b369faa6024bfec651607bbd9329ba9a91307d13344b2
+size 690

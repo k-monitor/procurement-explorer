@@ -1,9 +1,3 @@
-1. részterület az mfb magyar fejlesztési bank zártkörű működő részvénytársaság és a 2001. évi xx
-törvény felhatalmazás alap az által tulajdonolt és tulajdonosi joggyakorlás kör tartozó egyes gazdálkodó szervezet
-mint ajánlatkérő csoportos adásvételi szerződés alap szintű és emelt szintű pc
-valamint alap szintű és emelt szintű notebook adásvétel a dokumentáció foglalt szerint
-2. részterület az mfb magyar fejlesztési bank zártkörű működő részvénytársaság és a 2001. évi xx
-törvény felhatalmazás alap az által tulajdonolt és tulajdonosi joggyakorlás kör tartozó egyes gazdálkodó szervezet
-mint ajánlatkérő csoportos adásvételi szerződés
-és
-monitor adásvétel a dokumentáció foglalt szerint
+version https://git-lfs.github.com/spec/v1
+oid sha256:6274de23001f463fd090cbe7a1b44164949c1921ce44cf1e189bf9c192a5167b
+size 768

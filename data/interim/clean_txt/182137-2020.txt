@@ -1,3 +1,3 @@
-a
-év kapcsolódó
-országos közúthálózat történő fejlesztési és felújítási munka tervezési feladat ellátás keretmegállapodás megkötés rész
+version https://git-lfs.github.com/spec/v1
+oid sha256:12bb6a7b7dc60b6b008ad1169dee383bb9c3cca53b931cd675a10ba67594da9d
+size 159

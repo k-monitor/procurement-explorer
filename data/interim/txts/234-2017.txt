@@ -1,1 +1,3 @@
-Vállalkozási szerződés „PE fólia gyártása és szállítása” tárgyában az ajánlatkérési dokumentációban részletezett feltételek szerint összesen 7 rész vonatkozásában az alábbiak szerint: 1. rész: Nyomatlan, víztiszta síkfólia. 2. rész: Kézi stretch fólia. 3. rész: Gépi stretch fólia. 4. rész: Fehér sávos videojet fólia. 5. rész: Fedett fehér fólia. 6. rész: Átlátszatlan, fedett fólia. 7. rész: Nyomatlan, víztiszta féltömlő fólia.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b67993026c933c26bfde2de47d9a0cc26d6bb0e995d9bc5b2186fea1b6c4a62e
+size 486

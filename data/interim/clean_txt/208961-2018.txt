@@ -1,1 +1,3 @@
-dia munkaerő foglalkoztatás
+version https://git-lfs.github.com/spec/v1
+oid sha256:a7a23575c6e94dfa1868625db44d81481c032188552f68e4f8278afb7bf83cd2
+size 29

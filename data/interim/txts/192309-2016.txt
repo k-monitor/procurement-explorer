@@ -1,1 +1,3 @@
-A Nemzeti Média- és Hírközlési Hatóság részére személygépkocsik beszerzése egyes részei adásvételi szerződés(ek) keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:88b823cda08f968c0e1c5a176cf27280aa76da7c788560752195b5127aaeef29
+size 141

@@ -1,2 +1,3 @@
-velence közterületi park gondozás
-fenntartás vállalkozási szerződés keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:51a802029fa769c7e4589fd9c664b89ef156bbc8d619c11813f9d1881f576aeb
+size 81

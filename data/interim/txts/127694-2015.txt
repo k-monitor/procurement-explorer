@@ -1,1 +1,3 @@
-Vállalkozási szerződés keretében „TÁMOP-2.2.7.A-13/1-2013-0001 „ÚT A SZAKMAVÁLASZTÁSHOZ” megnevezésű projekthez kapcsolódóan pályaorientációs szolgáltatás megrendelése”.
+version https://git-lfs.github.com/spec/v1
+oid sha256:eb4c4498ffa8859d902b1b22725030a8bed248c84892d4690451c8b753b91b9b
+size 196

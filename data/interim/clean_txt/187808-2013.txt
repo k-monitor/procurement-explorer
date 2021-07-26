@@ -1,6 +1,3 @@
-élelmiszer szállítás irányuló szállítási szerződés a bácsborsódi
-őszi napfény
-integrál szociális intézmény ajánlatkérő és az a melléklet
-pont megnevezett
-harmónia
-integrált szociális intézmény részére
+version https://git-lfs.github.com/spec/v1
+oid sha256:730accaab19d0ab06354244391530cb9bb745e7503b2a86e8507d2fd13259241
+size 231

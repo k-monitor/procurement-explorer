@@ -1,1 +1,3 @@
-Az Országos Onkológiai Intézet részére különféle orvosi felszerelések, orvosi fogyóeszközök beszerzése adás-vételi szerződés keretében 12 hónapos határozott időtartamra.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5dd65f47bbfc8609470d538548e2eb40c90531615f194dfe69a319f89876a2a3
+size 190

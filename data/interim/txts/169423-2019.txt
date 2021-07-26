@@ -1,1 +1,3 @@
-«A 1021 Budapest, Völgy u. 20–22., hrsz. 11403 ingatlanon meglévő épületek átalakítása és bővítése Gyermekek Háza Iskola Tagintézmény elhelyezése»
+version https://git-lfs.github.com/spec/v1
+oid sha256:3cf8b14635ee2dfce77288c45498c809a5a54ddd167ffb47f2428672db75d906
+size 166

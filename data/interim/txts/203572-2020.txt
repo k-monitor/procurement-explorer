@@ -1,1 +1,3 @@
-Szerződés meghatározása: Vállalkozási szerződés Tárgya: Szántód BalaLand FamilyPark egész évben nyitvatartó családi élménypark generál kivitelezése
+version https://git-lfs.github.com/spec/v1
+oid sha256:1d8ffd7b3942487f082b414f3becb476d35ca7ea769613a93918e82d1d13c263
+size 166

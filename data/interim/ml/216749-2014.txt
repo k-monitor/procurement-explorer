@@ -1,11 +1,3 @@
-Adás-vételi	Adás-vételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-közlekedési	közlekedési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-jelzőtábla	jelzőtábla	NOUN	Case=Nom|Number=Sing	
-és	és	CONJ	_	
-jelzőbója	jelzőbója	NOUN	Case=Nom|Number=Sing	
-készlet	készlet	NOUN	Case=Nom|Number=Sing	
-beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:730272ff95036325e00c312cf82d9e6323eb7b8e934cf30595e96f2af8d3dea3
+size 520

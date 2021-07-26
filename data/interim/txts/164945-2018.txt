@@ -1,1 +1,3 @@
-Megbízási szerződés az „M4 Abony (Kelet) - Törökszentmiklós (Nyugat) közötti szakasz (Szolnok északi elkerülő) megvalósítása új Tisza-híd megépítésével” kivitelezési munkái során lebonyolító mérnöki feladatok ellátására(PST kód:A004.05.71).
+version https://git-lfs.github.com/spec/v1
+oid sha256:c0593567990abb0ccecfae2ef4172f3faaf3da80fe88322bd6ea00ac6a787ec1
+size 276

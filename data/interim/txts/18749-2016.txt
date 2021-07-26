@@ -1,1 +1,3 @@
-Karbantartási szerződés PET/CT berendezés teljes körű karbantartására, PET/MR berendezés karbantartására és hibajavítására, a berendezések folyamatos üzemképességének biztosítására vonatkozóan.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dd36f49746f52b6c242ed9f945964a9618ec6dce83c78e277cb4724d36e99ea7
+size 217

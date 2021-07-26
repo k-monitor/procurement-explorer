@@ -1,10 +1,3 @@
-a vígszínház és a pesti színház épület és egyes helyiség takarítás
-rendszeres takarítás óraszám
-év
-vígszínház és a hozzátartozó helyiség
-óra
-rendszeres takarítás óraszám
-pesti színház óra
-évente meghatározott szám végzendő feladat
-vígszínház nyári nagytakarítás évente alkalom
-pesti színház nyári nagytakarítás évente alkalom
+version https://git-lfs.github.com/spec/v1
+oid sha256:f4a817656d21465f3701aa97cfa69ff1462d0f005449ae98d3928935fda24890
+size 375

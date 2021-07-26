@@ -1,10 +1,3 @@
-adásvételi szerződés keret
-különféle gép beszerzés az amon kft. részére
-1. részajánlat
-polchegesztő automata célgép
-db
-2. részajánlat
-kerethajlító célgép
-db
-a célgép műszaki specifikáció
-közbeszerzési műszaki leírás a közbeszerzési dokumentáció kerül meghatározás
+version https://git-lfs.github.com/spec/v1
+oid sha256:2fa71cdf2ccec1864070988b216197c531d672a995b050546c54f9812388705d
+size 302

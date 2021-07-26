@@ -1,1 +1,3 @@
-Tervezési szerződés: Az M44 autóút Tiszakürt-Kondoros közötti szakasz és csatlakozó építmények ajánlatkérési dokumentáció korszerűségi felülvizsgálatának elkészítése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:aba965c05b27a0a2eee609016d94dbd279a087503c329b7da553f8659b0d822f
+size 192

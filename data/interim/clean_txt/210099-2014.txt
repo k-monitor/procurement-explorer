@@ -1,1 +1,3 @@
-szolgáltatási szerződés a fővárosi közterület-fenntartó zrt. tulajdon és kezelés lévő egyes ingatlan és objektum élőerős őrzés-védelem érdek
+version https://git-lfs.github.com/spec/v1
+oid sha256:225300ae03952ffbec31a66d04c980b8ed5a18423c8fa9df0599c22a0c931f0a
+size 161

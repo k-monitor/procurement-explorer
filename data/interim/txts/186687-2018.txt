@@ -1,1 +1,3 @@
-Termelési kapacitásbővítés a Medina Bútor Kft-nél lézervágó gép beszerzésével a GINOP-1.2.1-16-2017-00727 azonosítószámú projekt keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:73d4e3ddf1450c7b352dc940fa45d58d5ca03c26470f32deb04af165e09ce2da
+size 157

@@ -1,1 +1,3 @@
-adásvételi szerződés a kötelező védőoltási rend tartozó oltóanyag beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:8e2b38ea36a4402265ff21e1476999084f5e4b46a86495e1db9d718676c310a2
+size 87

@@ -1,1 +1,3 @@
-Adásvételi szerződés: 1 db felhőkondenzációs magszámláló, 1 db ködvíz gyűjtő és 1 db köd monitor beszerzése szállítása és üzembe helyezése a Pannon Egyetem részére a GINOP -2.3.2-15-2016-00055 azonosító számú projekt keretében. A 321/2015.(X. 30.) Kormányrendelet 46. § (3) bekezdése irányadó valamennyi részajánlattételi körben. Az adásvételi szerződés alapján megvásárolni kívánt termékek részletes specifikációját, minőségi és funkcionális követelményeit a közbeszerzési dokumentum részét képező szerződéstervezet és műszaki leírás tartalmazza. Ajánlattevő teljesítéssel kapcsolatos feladata kiterjed a közbeszerzési dokumentumban és a vonatkozó jogszabályokban meghatározott valamennyi feladatra.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2aa67fe94fd313ea9c36742c3845f96bf2a25031aa2200f60f41415f56f51025
+size 781

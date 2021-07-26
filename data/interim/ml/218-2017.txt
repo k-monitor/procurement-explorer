@@ -1,13 +1,3 @@
-Pneumococcus	Pneumococcus	PROPN	Case=Nom|Number=Sing	
-poliszacharid	poliszachar	NOUN	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=2	
-konjugált	konjugált	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPast	
-vakcina	vakcina	NOUN	Case=Nom|Number=Sing	
-(	(	PUNCT	_	
-adszorbeált	adszorbeált	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPast	
-)	)	PUNCT	_	
-beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-adásvételi	adásvételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:50e801322308b2d60db4bc3ed8d2301b2a90d8f460021c704a3c5670bc9c7c17
+size 655

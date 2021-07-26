@@ -1,1 +1,3 @@
-A Fővárosi Közterület- fenntartó Zártkörűen Működő Nonprofit Részvénytársaság Hulladékhasznosító Mű Üzemben üzemelő 4 db hulladéktüzelésű kazán fűtőfelületeinek, 4 db abszorber tartály és az összekötő füstgáz csatornáknak a hatásfokjavító és munkavédelmi tisztítása.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e957e865b4811de4fe80cce1ecc4195efd3725585ea40e3864cdeacf3c5a1630
+size 311

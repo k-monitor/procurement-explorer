@@ -1,1 +1,3 @@
-Vállalkozási keretszerződés a királyszentistváni ipari szennyvíztisztító telepen keletkező szennyvíziszap átvételére, elszállítására és ártalmatlanítására, vagy hasznosítással történő kezelésére a vonatkozó jogszabályoknak megfelelően.
+version https://git-lfs.github.com/spec/v1
+oid sha256:aa58a126a644cff7f88c18a80b8cb6fbd2f042fcb873c9f564d977832d004ecd
+size 268

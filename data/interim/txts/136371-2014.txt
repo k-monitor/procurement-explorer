@@ -1,1 +1,3 @@
-Vállalkozási szerződés - In-store kampány és gasztronapok a magyar sertéshús népszerűsítésére, fogyasztásösztönzésére Szerbiában.
+version https://git-lfs.github.com/spec/v1
+oid sha256:42574b816ffd93e9cb6e1e616b5c7c01308f8616bfd02486ff03bf9bceced2ee
+size 148

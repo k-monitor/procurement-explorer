@@ -1,1 +1,3 @@
-MKB10/2018 - 52 000 000 kg Magyarország közigazgatási területén keletkező ipari-kereskedelmi műanyag csomagolási hulladék gyűjtése és anyagában történő hasznosítása (kezelési kód: R3, kivéve: R12 és R13) szolgáltatásmegrendelési szerződés keretében, a környezetvédelmi termékdíjról szóló 2011. évi LXXXV. törvény 22. § (1) bekezdése alapján. 1. rész: 8 000 000 kg 2. rész: 8 000 000 kg 3. rész: 8 000 000 kg 4. rész: 4 750 000 kg 5. rész: 4 750 000 kg 6. rész: 4 750 000 kg 7. rész: 4 750 000 kg 8. rész: 1 500 000 kg 9. rész: 1 500 000 kg 10. rész: 1 500 000 kg 11. rész: 1 500 000 kg 12. rész: 1 500 000 kg 13. rész: 1 500 000 kg
+version https://git-lfs.github.com/spec/v1
+oid sha256:66b37a49b2edf8b1638232b89a9c579c06cecaa2c3fdd1d577b85672c0a3d601
+size 685

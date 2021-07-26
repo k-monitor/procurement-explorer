@@ -1,5 +1,3 @@
-egyösszegű átalánydíjas vállalkozási szerződés ózd város önkormányzata szennyvízcsatorna-hálózat bővítés
-piros fidic
-szükséges építési feladat ellátás a szennyvízelvezetés és tisztítás fejlesztés ózd város keop-1
-2.0
-09-2010-0060 azonosítószámú projekt keret belül
+version https://git-lfs.github.com/spec/v1
+oid sha256:00705617e015cbcbb15f5bcd2011e4aca517701a4fb01ae5787811091cf8857b
+size 303

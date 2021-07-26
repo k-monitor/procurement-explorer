@@ -1,1 +1,3 @@
-kivitelezési szerződés keret db fedett géptároló épület és tüzivíz tároló építés
+version https://git-lfs.github.com/spec/v1
+oid sha256:2885f4bda91dd1d6710a2361c02621922eea3a3171316f0bace97ed6f89ee7b4
+size 96

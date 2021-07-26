@@ -1,5 +1,3 @@
-Faipari	faipari	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-gépek	gép	NOUN	Case=Nom|Number=Plur	
-beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:73c6cce76837737553c55c0a193e0fc6b9db118d5823d015039ff52209c06472
+size 189

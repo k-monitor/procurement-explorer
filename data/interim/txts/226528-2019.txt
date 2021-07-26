@@ -1,1 +1,3 @@
-Főzési alapanyagok és hideg élelmiszer beszerzése az Országos Orvosi Rehabilitációs Intézet részére
+version https://git-lfs.github.com/spec/v1
+oid sha256:85cd626a57b63975aab018c322597d264b4def98c9dbbebbdd9cb60f7e1d9077
+size 110

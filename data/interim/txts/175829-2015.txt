@@ -1,1 +1,3 @@
-Hulladékgazdálkodási közszolgáltatás Alsónémedin – tárgyú közszolgáltatási szerződés.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ba48d59d24682b02184382914cc909c174ad831b7408de44e90089b739aefc56
+size 102

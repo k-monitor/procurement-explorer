@@ -1,12 +1,3 @@
-fő tevékenység
-1. intenzív terápiás szakorvosi ellátás és szakápolás biztosítás a ágyas pulmonológiai intenzív részleg
-2. poct
-ágymelletti diagnosztika
-alkalmazás
-vérgáz
-laboratóriumi célgép
-helyi digitális rtg-felvétel készítés
-3. egészségügyi dokumentáció vezetés
-4. szakorvosi konzílium adás az intézet egyéb osztály dolgozó tüdőgyógyász kérés
-5. altatásos bronchoscopia aneszteziológiai szakorvosi ellátás
-6. reanimációs készenlét az intézmény egész terület vonatkozó
+version https://git-lfs.github.com/spec/v1
+oid sha256:bb22aefe9146262e0378f7e25755a2b4312d5f4bbda402f46a43ead6eb9152d2
+size 531

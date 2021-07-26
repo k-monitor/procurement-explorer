@@ -1,2 +1,3 @@
-az mvm paks ii
-zrt. részére gépjárműbérleti szolgáltatás nyújtás teljes körű flottakezelés és üzemeltetés együtt
+version https://git-lfs.github.com/spec/v1
+oid sha256:88c2508d06a2ba49c517da0373c18590238865224ded61f4ab4e1f5383b01362
+size 129

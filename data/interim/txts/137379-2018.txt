@@ -1,1 +1,3 @@
-Vállalkozási szerződés az ajánlatkérő kezelésében lévő kereskedelmi létesítmények, zöldterületek és a létesítményekhez tartozó járdák folyamatos tisztántartására, takarítására és hulladékmozgatására.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fcbad713cfc2f4cf5bf4571e0d071afb58848279ac64106485a6a5cf101230b5
+size 232

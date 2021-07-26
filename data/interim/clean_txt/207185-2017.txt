@@ -1,9 +1,3 @@
-1. rész vonatkozás
-db nagy és db közepes teljesítményű dokumentum lapolvasó eszköz beszerzés
-2. rész vonatkozás
-db vonalkód olvasó készülék beszerzés
-a kormányhivatal digitalizációs képesség biztosítás érdek szükséges forrás biztosítás szóló
-2016.
-x. 13.
-korm
-határozat végrehajtás érdek
+version https://git-lfs.github.com/spec/v1
+oid sha256:14bd1367620ed2096017ee985d33af475e4a81f8205e458dfe00e962c68e687d
+size 324

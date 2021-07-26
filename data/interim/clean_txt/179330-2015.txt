@@ -1,1 +1,3 @@
-villamos energia szabadpiaci beszerzés a kef által üzemeltetett épület ellátás
+version https://git-lfs.github.com/spec/v1
+oid sha256:8d05d1fa59cfd66fc9e03497c938663a7e575d416a4eadd5ba30c5e5ea00dee0
+size 85

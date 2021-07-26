@@ -1,2 +1,3 @@
-a debreceni egyetem debrecen
-egyetem tér 1. sz. alatti élettudományi épület és könyvtár takarítás és ruhatárosi feladat ellátás vonatkozó szolgáltatási szerződés
+version https://git-lfs.github.com/spec/v1
+oid sha256:d52bc53117ea489a012ca9245526f0f9495a22c897fa4cf9294cb51150b7259f
+size 180

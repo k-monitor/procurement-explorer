@@ -1,9 +1,3 @@
-vállalkozási keretszerződés
-rohde
-schwarz
-hameg
-euro emc
-schwarzbeck
-winter maschinenbau gyártmányú műszer
-mérési eszköz eseti javítás
-kalibrálás
+version https://git-lfs.github.com/spec/v1
+oid sha256:6706dc71d92790d3fea888e05d7af36980c27805cf41b6b80acade378f48aa6d
+size 160

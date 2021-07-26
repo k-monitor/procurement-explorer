@@ -1,17 +1,3 @@
-Log-elemző	Log-elemző	NOUN	Case=Nom|Number=Sing	
-rendszer	rendszer	NOUN	Case=Nom|Number=Sing	
-szállítása	szállítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-,	,	PUNCT	_	
-finomhangolása	finomhangolás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-,	,	PUNCT	_	
-illetve	illetve	CONJ	_	
-opcionálisan	opcionálisan	ADJ	Case=Ess|Degree=Pos|Number=Sing	
-1	1	NUM	Case=Nom|NumType=Card|Number=Sing	
-éves	éves	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-időtartamban	időtartam	NOUN	Case=Ine|Number=Sing	
-bevezetése	bevezetés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-,	,	PUNCT	_	
-támogatása	támogatás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-vállalkozási	vállalkozási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:662c368d6e729edd9d7f9f66da0d6d7485957b1cdffebcad163447c19a9435e5
+size 833

@@ -1,1 +1,3 @@
-Telekommunikációs eszköz útján biztosított jelenlét, infrastruktúra kiépítés (meghallgatópontonként). A jelen beszerzés keretében az ORFK, mint a NISZ Zrt. által kiszolgált szervezet, az IP alapú Nemzeti Távközlési Gerinchálózat kommunikációs összeköttetéseinek felhasználásával 192 db video kommunikációs végponti infrastruktúrát kíván országos szinten bevezetni annak érdekében, hogy a Büntetőeljárásról szóló 2017. évi XC. törvényben meghatározottak szerint az érintett személyek részére a telekommunikációs eszköz útján biztosított jelenlét törvény adta lehetőségét biztosítani tudja. Részletes műszaki leírás a közbeszerzési dokumentumokban található.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3656f13ad3c2e063aff34c3a9453830194eb04d639e049b29453c76228fe0946
+size 733

@@ -1,1 +1,3 @@
-pékáru beszerzés a büntetés-végrehajtás országos parancsnoksága által a szegedi fegyház és börtön részére fajta és mennyiség szerint meghatározott dolog határidős adásvétel keret a lent szerepel mennyiség év
+version https://git-lfs.github.com/spec/v1
+oid sha256:fec3d8a2bbb6c5c560ab1c3550f4af07b84b776576c0683801a63b0d95dfa42e
+size 232

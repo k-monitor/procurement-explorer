@@ -1,1 +1,3 @@
-Szállítási szerződés különféle élelmiszerek beszerzése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9f458ff01d80cefa1a425c8354172191f80e62f92a67f5193cf27cea7e6ece71
+size 65

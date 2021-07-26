@@ -1,34 +1,3 @@
-Szállítási	Szállítási	PROPN	Case=Nom|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-az	az	DET	Definite=Def|PronType=Art	
-„	„	PUNCT	_	
-Ellátás	ellátás	NOUN	Case=Nom|Number=Sing	
-racionalizálása	racionalizálás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-a	a	DET	Definite=Def|PronType=Art	
-Réthy	réthy	NOUN	Case=Nom|Number=Sing	
-Pál	Pál	PROPN	Case=Nom|Number=Sing	
-Kórházban	Kórház	PROPN	Case=Ine|Number=Sing	
-"	"	PUNCT	_	
-című	című	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-és	és	CONJ	_	
-TIOP	TIOP	PROPN	Case=Nom|Number=Sing	
-2.	2.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
-
-2	2	NUM	Case=Nom|NumType=Card|Number=Sing	
-.	.	PUNCT	_	
-4-09	4-09	NUM	Case=Nom|NumType=Card|Number=Sing	
-/	/	PUNCT	_	
-1-2010-0022	1-2010-0022	PROPN	Case=Nom|Number=Sing	
-azonosítószámú	azonosítószámú	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-projekthez	projekt	NOUN	Case=All|Number=Sing	
-kapcsolódó	kapcsolódó	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-orvostechnikai	orvostechnikai	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-eszközök	eszköz	NOUN	Case=Nom|Number=Plur	
-szállítására	szállítás	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-,	,	PUNCT	_	
-szerelésére	szerelés	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-és	és	CONJ	_	
-üzembe	üzem	NOUN	Case=Ill|Number=Sing	
-helyezésére	helyezés	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:802fe94d688a4fe782fd8921b55b8b65ca3e3b9d44bb6e2e34f967e76d8bc4bf
+size 1456

@@ -1,1 +1,3 @@
-„Informatikai rendszer szállítása, telepítése (Ajánlatkérő meglévő videokonferencia központi rendszerének bővítése és integrációja)”.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9d8189a957406d0e4f5388799a6b876f4d7f4a02b993a1c6f1ce7dc349a4a625
+size 155

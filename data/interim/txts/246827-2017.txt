@@ -1,1 +1,3 @@
-Adásvételi keretszerződés keretében kötszerek beszerzése az Országos Mentőszolgálat részére. 4 részajánlati körben: 1. rész: Steril kötszerek. 2. rész: Nem steril kötszerek. 3. rész: Ragtapasz. 4. rész: Vérzéscsillapító kötszerek.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d8c46509b5d4196c58decb4e20724fa626352f8366103ed11140c08f9c08c7b2
+size 256

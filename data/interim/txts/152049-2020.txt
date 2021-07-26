@@ -1,1 +1,3 @@
-Szegedi Tudományegyetemen Infektológiai Klinika és Oktatóközpont kialakítása
+version https://git-lfs.github.com/spec/v1
+oid sha256:e723749bda0d00c2650dff73b5f70c5ff5e3395392a3c0dd84352d1eba2a2dbe
+size 83

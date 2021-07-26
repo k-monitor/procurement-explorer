@@ -1,1 +1,3 @@
-Maglód Város Önkormányzata közétkeztetési feladatainak ellátása vállalkozási szerződés keretében
+version https://git-lfs.github.com/spec/v1
+oid sha256:8ca46c5dd312602c19de5cb64d34950f024f840f77596f8f9b8e4d06253419d6
+size 110

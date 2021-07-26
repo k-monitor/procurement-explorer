@@ -1,1 +1,3 @@
-A jelen közbeszerzési eljárás célja, hogy az MVMI Zrt. Treasury rendszerével kapcsolatosan felmerülő üzleti igények (új funkciók, folyamatok, meglévő funkciók, folyamatok módosítása) megvalósítását a jelen eljárás során nyertes Ajánlattevővel kötött Keretmegállapodás keretében a nyertes Ajánlattevő közreműködésével végrehajtsa. Ajánlattevőnek az alább részletezett szolgáltatásokat kell nyújtania a keretmegállapodás időtartama alatt megrendelések alapján: — Inforex rendszerekkel kapcsolatos fejlesztések, módosítások megvalósítása eseti, feladatonkénti lehívás és erőforrás elszámolás alapján, — Az egyes fejlesztések elvégzését követően az új modulok használatával kapcsolatos oktatások a fejlesztés jellegétől függően 4 óra és 10 nap közötti időtartamban, 2–20 fős csoportokban.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1379c15bde44b819b4bd1c59984ecd70b3ec86047d2e79a7d248e9a7a1d14018
+size 879

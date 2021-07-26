@@ -1,10 +1,3 @@
-adásvételi keretszerződés keret kötszer beszerzés az országos mentőszolgálat részére
-részajánlati kör
-1. rész
-steril kötszer
-2. rész
-nem steril kötszer
-3. rész
-ragtapasz
-4. rész
-vérzéscsillapító kötszer
+version https://git-lfs.github.com/spec/v1
+oid sha256:cdf749065bd9b839f6fa13848982dde6325612630473b8d2b6eba56bc44c9f0c
+size 227

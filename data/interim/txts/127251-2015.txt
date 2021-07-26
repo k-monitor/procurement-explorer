@@ -1,1 +1,3 @@
-Földgáz adásvételi szerződés közbeszerzési eljárás keretében a fogyasztói csatlakozási pontokon - Ajánlatkérők fogyasztási helyei számára - történő átvétellel a magyar földgázhálózaton folyamatosan rendelkezésre álló, a hatályos magyar szabvány szerinti (MSZ 1648:2000) 2/H minőségű földgáz energia beszerzésére, szabadpiaci feltételek szerint, 1.7.2015. 6:00 órától 1.10.2016. 6:00 óráig terjedő időszakra, teljes ellátás alapú földgáz kereskedelmi szerződés keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c2cca99dc271c227f770bb87e90575cf4e9511c5f763ae8f425539b36c5f66b5
+size 526

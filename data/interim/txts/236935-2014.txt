@@ -1,1 +1,3 @@
-Tervezési keretszerződés a Fővárosi Állat- és Növénykert fejlesztési koncepcióján belül a Pannon Park létrehozásához kapcsolódóan.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7e81c063a588aa673e0f8a6add5008e41a104de0a633930498b14d6e2320f318
+size 148

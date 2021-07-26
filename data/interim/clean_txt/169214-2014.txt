@@ -1,1 +1,3 @@
-adásvételi szerződés szemészeti műtét szükséges szemészeti anyag beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:f88662c4cdbc985d799951391badcf6be26c4419051c7f61336c8890e7be1a59
+size 85

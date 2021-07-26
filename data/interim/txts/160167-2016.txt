@@ -1,1 +1,3 @@
-Magyar Honvédség (a továbbiakban: MH) nagykonyháiban keletkező ételhulladék elszállítása és ártalmatlanítása 2017–2018. 2017. évre nettó 33 858 267 HUF keretösszegig. 2018. évre nettó 35 433 070 HUF keretösszegig.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1ff20b02bb406536aefc909f2b65bdb5dd01717cd26c11a2a47fa154c8aa2180
+size 235

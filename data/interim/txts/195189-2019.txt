@@ -1,1 +1,3 @@
-Graffiti- és vadplakát-eltávolítási, felülettisztítási munkák végzése, valamint monitoring- és diszpécserszolgálat működtetése
+version https://git-lfs.github.com/spec/v1
+oid sha256:d5428551eea70d73b99e9be0e9578798290e424e35db900f9a829bdcb80767a3
+size 143

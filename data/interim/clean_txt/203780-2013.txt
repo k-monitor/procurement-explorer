@@ -1,5 +1,3 @@
-szerződés meghatározás
-szolgáltatási szerződés
-szerződés tárgy
-mobil telekommunikációs szolgáltatás
-illetőleg eszköz szállítás szolgáltatási szerződés keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:fec326d196b6c9842220f03457c20c1ec07026b3cb664aa5f5dc124976df2d81
+size 180

@@ -1,1 +1,3 @@
-Szállítási keretszerződés / Az FKF Zrt. Hulladékhasznosító Mű Üzem telephelyén üzemelő 1 db salaktéri, valamint 2 db szeméttéri daru markolójának üzemeltetéséhez szükséges drótkötelek szállítása 14 000 000 HUF keretösszeg erejéig 24 hónap időtartamban.
+version https://git-lfs.github.com/spec/v1
+oid sha256:73aa24e48d6ed75ec422730b6cf718741d9aa8e9d0fc350d38edc433c30cf86a
+size 284

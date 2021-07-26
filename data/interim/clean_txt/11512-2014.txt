@@ -1,8 +1,3 @@
-1. rész tekintet
-megbízási szerződés keret útügyi
-építési műszaki ellenőri tevékenység ellátás a célzottan közlekedésbiztonság javító fejlesztés
-a közlekedésbiztonság növelés tér kifejtett rendőrségi tevékenység komplex fejlesztés című projekt keret
-2. rész tekintet
-megbízási szerződés keret szerverterem kialakítás műszaki ellenőri tevékenység ellátás a célzottan közlekedésbiztonság javító fejlesztés
-a közlekedésbiztonság növelés tér kifejtett rendőrségi tevékenység komplex fejlesztés című projekt keret
-rész tekintet a beszerzés tárgy részletes a műszaki leírás tartalmaz
+version https://git-lfs.github.com/spec/v1
+oid sha256:91bda9f8a146459e993f9ade3e0ef96ebbdf32310d338c6fd09e7738f66683cb
+size 653

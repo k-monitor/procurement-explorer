@@ -1,1 +1,3 @@
-Takarítási feladatok elvégzése Kecskemét Megyei Jogú Város Önkormányzata központosított beszerzési rendszeréhez csatlakozott intézmények és gazdasági társaságok részére.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4f5a12d0b588be9d58cb1f60ee76ad6ec7e1bed6aba0dadd1a2e26f9f80b4cf7
+size 190

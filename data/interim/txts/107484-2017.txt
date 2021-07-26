@@ -1,1 +1,3 @@
-Irodabútorok és kiegészítők beszerzése az MTA Humán Tudományok Kutatóház bebútorozására, az alábbi 2 részben: 1.rész: Ülő bútorok: 2 432 darab. 2.rész: Egyéb irodabútor, berendezés: 5 914 darab. A közbeszerzési eljárás tárgya a bútorok gyártása, helyszínre szállítása, beszerelése, beüzemelése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f9601fdf2d5d307159830e14978fba5cae2bfe896139b29a8ec862e5c834b7dd
+size 332

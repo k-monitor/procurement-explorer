@@ -1,6 +1,3 @@
-adásvételi szerződés szepszis kórokozó kimutatás szolgáló
-mikrobiológiai tenyésztés alkalmas haemokultúra palack
-haemokultúra automata
-berendezés
-beszerzés
-számítógépes informatikai rendszer biztosítás
+version https://git-lfs.github.com/spec/v1
+oid sha256:d884396ea2e75f4eafde8aa1726ad4a62bd336faec124ad87c3ad8ac59438013
+size 223

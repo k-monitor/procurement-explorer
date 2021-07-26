@@ -1,4 +1,3 @@
-légalkoholmérö javítás
-előírás szerinti kalibrálás
-hitelesítés történő felkészítés
-szolgáltatási keretszerződés a megnevezés szereplő termék pontos paraméter a műszaki leírás tartalmaz
+version https://git-lfs.github.com/spec/v1
+oid sha256:6ffb3f884beb7a6c37f87121fda2969a6266746604ff7ec62978dbdb8f224193
+size 213

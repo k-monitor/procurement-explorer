@@ -1,5 +1,3 @@
-adásvételi szerződés szállítójármű és konténer beszerzés a keop-1
-1.1
-c
-13-2013-0043 iktatószámú
-körös-szögi kistérség hulladékgazdálkodási rendszer továbbfejlesztés tárgyú projekt keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:c7694e48a61d0f7a80662574d3a4b35728795b6698e6ae259f2e5cf42d216a68
+size 213

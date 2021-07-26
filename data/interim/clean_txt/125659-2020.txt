@@ -1,2 +1,3 @@
-élelmiszer beszerzés
-rész
+version https://git-lfs.github.com/spec/v1
+oid sha256:dc3edb6445b6a5ab0e8557b42c3a5d928f6ebcf48a00b7953ff6e5047adccb49
+size 28

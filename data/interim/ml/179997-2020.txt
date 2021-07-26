@@ -1,25 +1,3 @@
-Különböző	különböző	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-gyártmányú	gyártmányú	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-és	és	CONJ	_	
-típusú	típusú	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szolgálati	szolgálati	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-gépjárművek	gépjármű	NOUN	Case=Nom|Number=Plur	
-teljes	teljes	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-körű	körű	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-garanciális	garanciális	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-és	és	CONJ	_	
-szavatossági	szavatossági	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-időn	idő	NOUN	Case=Sup|Number=Sing	
-túli	túli	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-javítása	javítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-,	,	PUNCT	_	
-kárjavítása	kárjavítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-,	,	PUNCT	_	
-valamint	valamint	CONJ	_	
-a	a	DET	Definite=Def|PronType=Art	
-gépjárművek	gépjármű	NOUN	Case=Nom|Number=Plur	
-időszakos	időszakos	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-műszaki	műszaki	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-vizsgáztatása	vizsgáztatás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:78712a0607ac223541699bb81b19dcf62753645b718d1402c91f8202e45bb7d9
+size 1179

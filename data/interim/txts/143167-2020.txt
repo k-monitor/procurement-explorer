@@ -1,1 +1,3 @@
-Adásvételi szerződés, amelynek tárgya „Biotechnológiai eszközök beszerzése az ELTE részére”
+version https://git-lfs.github.com/spec/v1
+oid sha256:5ef57b747395c11e91ad87e348b57266a41bdd68e8f7ff18e5b7c3cc6b776978
+size 106

@@ -1,1 +1,3 @@
-«Nyomatlan címke és címkekészletek beszerzése» — Adásvételi szerződés
+version https://git-lfs.github.com/spec/v1
+oid sha256:cf1040085c4cffd6bff3debd422e4137b4672af7fd4b69633c5d5285fa147d3c
+size 82

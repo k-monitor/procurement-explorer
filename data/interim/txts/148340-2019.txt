@@ -1,1 +1,3 @@
-Területi vízellátás fejlesztése, Érd Parkvárosi új iskola és új óvoda biztonságos vízellátás biztosításához nyomásövezet vízellátásának korszerűsítésének kivitelezési munkái
+version https://git-lfs.github.com/spec/v1
+oid sha256:181c039a411d5ca27b579d9c2ed9cfbe9f23cb651fe99c3cb97a3d098afba8aa
+size 203

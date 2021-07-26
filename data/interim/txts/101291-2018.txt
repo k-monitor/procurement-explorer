@@ -1,1 +1,3 @@
-Velence közterületi parkjainak gondozása, fenntartása vállalkozási szerződés keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:45435b1e4644ba7f6f788f1e60bfb0024d81a88248b5dc5fc7bea0aece21fff1
+size 96

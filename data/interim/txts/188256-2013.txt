@@ -1,1 +1,3 @@
-Megbízási szerződés az M30 gyorsforgalmi út Tornyosnémeti-országhatár közötti szakasz és kapcsolódó létesítményei előkészítési és kivitelezési munkáinak mérnöki felügyelete tárgyban
+version https://git-lfs.github.com/spec/v1
+oid sha256:557cf333e5b44f7455588561da6dda1f51d4e91173cc383c3a41569cea05892d
+size 208

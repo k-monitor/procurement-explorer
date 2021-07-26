@@ -1,1 +1,3 @@
-Tervezési szerződés „M9 Szombathely - Vasvár és a kapcsolódó M8 Vasvár - Körmend közötti gyorsforgalmi útszakaszok környezeti hatástanulmány és Közúti Biztonsági Hatásvizsgálat készítése” tárgyában
+version https://git-lfs.github.com/spec/v1
+oid sha256:9b75f2ef6af99cc308f3a6240342748b04ec2dcc30cb9871d8cfd69e0a5f2e12
+size 227

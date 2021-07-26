@@ -1,1 +1,3 @@
-Szolgáltatási szerződés alapján on-line bankkártyás fizetéshez (VPOS) szükséges banki szolgáltatások megrendelése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ad0b5fd70b291a7a57a45e62f813bcce4654ff1e7c8853d654e5fb20a75f0240
+size 127

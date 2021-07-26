@@ -1,1 +1,3 @@
-dvtk multifunkciós kosárlabda sportcsarnok kialakítás
+version https://git-lfs.github.com/spec/v1
+oid sha256:9cc67d9102348eec2212a5b075e0c8d3009abc4776f92b62ce2a921e74c27d57
+size 57

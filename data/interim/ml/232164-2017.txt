@@ -1,5 +1,3 @@
-Élelmezési	élelmezési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szolgáltatások	szolgáltatás	NOUN	Case=Nom|Number=Plur	
-beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:8268090077d6d6816c777762ec9ee9a51b568e25b2ac4eb21740e60223d2723d
+size 219

@@ -1,1 +1,3 @@
-városmajori szív-és érgyógyászati klinika részére egy használatos tételes finanszírozású szívsebészeti eszköz beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:7444423ab3401eeefa35c3b0fe75f3907e655213331cb22e6d1b32730d04f633
+size 136

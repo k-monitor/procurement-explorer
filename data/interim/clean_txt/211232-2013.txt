@@ -1,4 +1,3 @@
-ajánlatkérő számára folyószámla-hitel biztosítás huf folyószámla-hitelkeret
-jelen felhívás ii
-2.1
-pont és a dokumentáció rögzített feltétel szerint
+version https://git-lfs.github.com/spec/v1
+oid sha256:d313b5fd23ee1e48629ff331004443031da6da9d42763aa75117647ad77629ec
+size 166

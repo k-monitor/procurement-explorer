@@ -1,8 +1,3 @@
-építési szerződés
-körösladány város szennyvízcsatornázás ii
-ütem és a szennyvíztisztító telep bővítés
-pályázat azonosító szám
-keop-1
-2.0
-09-11-2011-0022
-fidic könyv szerződéses feltétel szerint
+version https://git-lfs.github.com/spec/v1
+oid sha256:78747872977f3ea6189cb9cb17b480cc41d61cf800a9058324094c5a72549ab1
+size 222

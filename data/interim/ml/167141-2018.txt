@@ -1,17 +1,3 @@
-„	„	PUNCT	_	
-A	a	DET	Definite=Def|PronType=Art	
-Tócóskert	tócóskert	NOUN	Case=Nom|Number=Sing	
-és	és	CONJ	_	
-a	a	DET	Definite=Def|PronType=Art	
-Tócóvölgy	tócóvölgy	NOUN	Case=Nom|Number=Sing	
-gazdaságélénkítő	gazdaságélénkítő	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-környezeti	környezeti	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-megújítása	megújítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-"	"	PUNCT	_	
-tárgyú	tárgyú	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-projektek	projekt	NOUN	Case=Nom|Number=Plur	
-tervezési	tervezési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-feladatainak	feladat	NOUN	Case=Gen|Number=Plur|Number[psor]=Sing|Person[psor]=3	
-ellátása	ellátás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:4ab53b7e75035be3bdf148b92ed97e85c9bfaf52db0b3a6e254bf29bb32ccd4e
+size 784

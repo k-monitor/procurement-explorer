@@ -1,1 +1,3 @@
-Keretszerződés a Művészetek Palotája kulturális programjaihoz kapcsolódó kiadványok (nyomtatványok, szórólapok, tájékoztató füzetek, brosúrák, plakátok, leporelló, naptár, képeslap, molinók, táblanyomás, matricák) kivitelezése, valamint a kulturális létesítmény üzemeltetéséhez kapcsolódó nyomdai szolgáltatások ellátására. Ajánlatkérő teljesítéssel kapcsolatos részletes elvárásait az ajánlati dokumentáció tartalmazza.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3c7e01a545c1a9aded6611dfcc7569ed998875f871822763ab5f1e7c3cf67e7f
+size 472

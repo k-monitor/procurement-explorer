@@ -1,1 +1,3 @@
-Licenszkövetési megállapodás ESB licenszek beszerzésére az MVMI Zrt. részére
+version https://git-lfs.github.com/spec/v1
+oid sha256:87be9afff039ada9cac07d1026af98fa55f51846e509ec1ff235cc146bd3afac
+size 84

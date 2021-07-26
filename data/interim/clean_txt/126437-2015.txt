@@ -1,4 +1,3 @@
-a szegedi vízmű zrt. szennyvíztisztító telep üzemszerű működés sor keletkező kezelt
-víztelenített szennyvíziszap
-ewc
-elszállítás és hasznosítás
+version https://git-lfs.github.com/spec/v1
+oid sha256:b2dd626a91cd594b965235c0a3f47572e0796daf8c8bbdab2fd30f43638a5597
+size 163

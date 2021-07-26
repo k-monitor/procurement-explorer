@@ -1,1 +1,3 @@
-Mintavevő és -preparáló berendezések szállítása adásvételi szerződés keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bd3cc2b69c689591ba17cd1863638897f2197c1a063a755c6cfdcaa140a5287a
+size 92

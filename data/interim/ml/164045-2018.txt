@@ -1,11 +1,3 @@
-Különféle	különféle	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-laboratóriumi	laboratóriumi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-reagensek	reagens	NOUN	Case=Nom|Number=Plur	
-beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-I	I	PROPN	Case=Nom|Number=Sing	
--	-	PUNCT	_	
-VIII	8	NUM	Case=Nom|NumType=Card|Number=Sing	
-.	.	PUNCT	_	
-részben	részben	ADV	_	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:8d9d55b4e75cb5fa46194816e02c683f63893391af27c7b61a372f5d6bc0bd48
+size 401

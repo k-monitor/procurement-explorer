@@ -1,1 +1,3 @@
-MKB8/2018 - 21 000 000 kg Magyarország közigazgatási területén keletkező termékként tovább nem használható nagygépek (vegyes gyűjtésű hulladék) gyűjtése, tárgyévi előkezelése és további kezelésre történő átadása, szolgáltatás-megrendelési szerződés keretében a környezetvédelmi termékdíjról szóló, 2011. évi LXXXV. törvény 22. § (1) bekezdés alapján 10 részben. 1. rész: 4 000 000 kg 2. rész: 4 000 000 kg 3. rész: 4 000 000 kg 4. rész: 2 000 000 kg 5. rész: 2 000 000 kg 6. rész: 1 000 000 kg 7. rész: 1 000 000 kg 8. rész: 1 000 000 kg 9. rész: 1 000 000 kg 10. rész: 1 000 000 kg
+version https://git-lfs.github.com/spec/v1
+oid sha256:89be24a6caf4ed25844d713f708cb08e275c322572de6092b5461314183853d1
+size 642

@@ -1,5 +1,3 @@
-a debreceni egyetem a ginop-2
-2-15-2016-00011 azonosítószámú
-szájüregi megbetegedés molekuláris vizsgálat
-című pályázat támogatás nyer
-a pályázat keret db keménységmérő eszköz beszerzés vállalkozik
+version https://git-lfs.github.com/spec/v1
+oid sha256:4a71397fa4c21b08d31797b07f2763605c369561607a476ccd186d5b1f86b6f6
+size 221

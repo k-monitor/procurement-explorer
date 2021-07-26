@@ -1,1 +1,3 @@
-Tervezési szolgáltatás budapesti útfelújítások előkészítésére – III. ütem 6 részajánlati körben.
+version https://git-lfs.github.com/spec/v1
+oid sha256:33e7bcf2f965a708d9c8ff5ed5e5572d3fbcd93f4b1c2efeee6bc6b6b49dba78
+size 114

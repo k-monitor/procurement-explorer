@@ -1,5 +1,3 @@
-vagyon
-és felelősségbiztosítás
-utas-és balesetbiztosítás
-gépjármű felelősségbiztosítás valamint casco biztosítás megrendelés a szegedi tudományegyetem részére részajánlati kör
-jelen felhívás és a közbeszerzési dokumentum részletezett szerint
+version https://git-lfs.github.com/spec/v1
+oid sha256:7be8226cb6326599748e88897e9ef537178d7aa00922ae66292951b3024ccfa8
+size 271

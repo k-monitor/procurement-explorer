@@ -1,3 +1,3 @@
-vekop-5
-3.-17-2017-00003 kódszámú
-ér
+version https://git-lfs.github.com/spec/v1
+oid sha256:c957130bb37aa63c5871ba799c19f93e8e2638377c017ccc79ef3aaa0a468b85
+size 40

@@ -1,1 +1,3 @@
-A Magyar Nemzeti Bank Székházában (Budapest V. ker., Szabadság tér 8-9.) az üzletkötői telekommunikációs rendszer teljes cseréjét kell elvégezni, vállalkozói szerződés keretében. Az ajánlattevőnek egy 18 üzletkötő számára kialakított és további legfeljebb 6 felhasználói bővítést lehetővé tevő üzletkötői telekommunikációs rendszer szállítására, telepítésére és üzembe helyezésére, illetve a fenti rendszer sikeres műszaki átadás-átvételét követő 60 havi (jótállási időszak) karbantartására kell ajánlatot tenni.
+version https://git-lfs.github.com/spec/v1
+oid sha256:44444849d11befed0c72a333713c9c349d341674b343dbfe4d2ddc4fa2e05bc5
+size 579

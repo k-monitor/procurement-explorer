@@ -1,4 +1,3 @@
-határozatlan időtartamú biztosítási szerződés csoportos életbiztosítás
-kockázati élet
-és balesetbiztosítás
-valamint egészségbiztosítás tárgy
+version https://git-lfs.github.com/spec/v1
+oid sha256:93e4a9615580231d88eb11bdb876b45d226f1bfebe03e19dc8d62879438a3a3c
+size 160

@@ -1,1 +1,3 @@
-Szerződés meghatározása: Nyomdai szolgáltatás megrendelése vállalkozási keretszerződés keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:83e668d0c4d6c91cffbe150996b6146f8a89f96361cd7ca47e64fff1842e9c03
+size 109

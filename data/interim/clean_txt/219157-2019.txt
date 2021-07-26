@@ -1,7 +1,3 @@
-az intézet összesen darab nagyértékű orvostechnikai berendezés üzembetartás
-kis-és nagyjavítás alkatrészellátás
-tervszerű megelőző karbantartás
-időszakos felülvizsgálat
-hitelesítés
-kalibrálás elvégzés
-és a ő szükséges fogyóanyag hónap keresztül történő biztosítás
+version https://git-lfs.github.com/spec/v1
+oid sha256:3f1cabcf093a4fdde9e6da8b89fca23677b0f08c329779a73c8b69d3ed090596
+size 302

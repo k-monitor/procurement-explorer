@@ -1,1 +1,3 @@
-Szállítási szerződés - Mobil laboratóriumi eszközök beszerzése a Debreceni Egyetem részére.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9db7a939741f14d82bf4b544ab1a4afc3bd176518acb79bbfa6d66db4e6357cd
+size 102

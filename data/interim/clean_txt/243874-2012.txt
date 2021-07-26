@@ -1,6 +1,3 @@
-földgáz energia szállítás 2012.11.01
-2013.07.01
-időszak vonatkozó teljes ellátásalapú szállítási szerződés keret országos múzeum és az 1997. évi
-törvény hatály alá tartozó országos feladatkör rendelkező intézmény
-központi költségvetési szerv
-rész
+version https://git-lfs.github.com/spec/v1
+oid sha256:46dad5cca28f9672c5fc9beffc2e94af6228df4c3e73c271eed20901d4036b1b
+size 280

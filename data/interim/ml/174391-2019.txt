@@ -1,12 +1,3 @@
-Átalányáras	átalányáras	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-vállalkozási	vállalkozási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-Vörösmarty	Vörösmarty	PROPN	Case=Nom|Number=Sing	
-Mihály	Mihály	PROPN	Case=Nom|Number=Sing	
-Általános	Általános	PROPN	Case=Nom|Number=Sing	
-Iskola	Iskola	PROPN	Case=Nom|Number=Sing	
-energetikai	energetikai	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-korszerűsítésének	korszerűsítés	NOUN	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-kivitelezése	kivitelezés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:58bc81e935ed12cbf592d6b105d461602c655746b428eb76688349c70aa4aaa0
+size 702

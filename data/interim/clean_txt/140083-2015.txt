@@ -1,4 +1,3 @@
-vállalkozási szerződés a magyar államkincstár épület üzemelő technológiai klímaberendezés üzemeltetési
-karbantartási
-javítási
-és telepítési munka
+version https://git-lfs.github.com/spec/v1
+oid sha256:58775571bfa9b1a10bb93a38e18ac0f58f53c5bc5be4cae000734f5b7c77112b
+size 166

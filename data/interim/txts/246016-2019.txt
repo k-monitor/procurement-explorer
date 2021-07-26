@@ -1,1 +1,3 @@
-Szimulációs Oktatási Központ kivitelezése a Pécsi Tudományegyetem részére az EFOP-4.2.1-16-2017-00008 pályázat keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ebd65a9c0b43ef13efd88b4643cd26b53079916a23e1ea57c0131f32566cc7d6
+size 133

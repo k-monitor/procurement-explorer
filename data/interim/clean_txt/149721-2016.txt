@@ -1,4 +1,3 @@
-biztosítási szerződés a gysev cégcsoport
-gysev zrt
-gysev cargo zrt. és fhév zrt.
-rész
+version https://git-lfs.github.com/spec/v1
+oid sha256:15b9c5b897e6918a96ce554101ad6d5bef62a53d550769fb91b71f5abf1e5e3a
+size 93

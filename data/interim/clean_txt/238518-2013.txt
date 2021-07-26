@@ -1,2 +1,3 @@
-az m3 metróvonal rekonstrukció és meghosszabbítás előkészítés
-című projekt megvalósítás kapcsolódó tervezési feladat elvégzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:f3ace9f0a6ad79ee28680a3fb57035a3ec2ae89709383a1d050fe36be3820127
+size 144

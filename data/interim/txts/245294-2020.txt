@@ -1,1 +1,3 @@
-Debrecen Észak-Nyugati Gazdasági Övezethez kapcsolódó infrastruktúra fejlesztés keretében megvalósuló önkormányzati utak útépítési, kerékpárút építési, csapadékvíz elvezetési, valamint szennyvíz- és vízvezeték építés kivitelezési munkák – I. ütem
+version https://git-lfs.github.com/spec/v1
+oid sha256:f1d04292c2d4248dedc7ef35ac7b0f0b461a957a7cd231069cce1582d2cda2a7
+size 283

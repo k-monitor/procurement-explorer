@@ -1,1 +1,3 @@
-Vállalkozási keretszerződés. Ajánlatkérő kezelésében lévő gyorsforgalmi utak (autóutak, autópályák) a jelen felhívás II.1.2. pontjában meghatározott teljesítési helyein a VJT alkatrészeinek pótlása, táblákhoz kapcsolódó berendezések telepítése, javításuk, tesztelésük, üzembe helyezésük, esetleges üzemeltetés támogatásuk, megvalósulási terv készítése vagy aktualizálása a jelen közbeszerzési eljárás ajánlattételi szakaszában kibocsátásra kerülő dokumentációban meghatározottak szerint, eseti megrendeléseket követően.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1e2f0c8b3ed462438edabef5c9d7d6e58e8b41a64e2c7683129da39c97f6004c
+size 585

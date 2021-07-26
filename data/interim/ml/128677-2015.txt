@@ -1,26 +1,3 @@
-Két	két	NUM	Case=Nom|NumType=Card|Number=Sing	
-darab	darab	NOUN	Case=Nom|Number=Sing	
-3	3	NUM	Case=Nom|NumType=Card|Number=Sing	
-tengelyes	tengelyes	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-billenő	billenő	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-platós	platós	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-tehergépkocsi	tehergépkocsi	NOUN	Case=Nom|Number=Sing	
-,	,	PUNCT	_	
-egy	egy	DET	Definite=Ind|PronType=Art	
-darab	darab	NOUN	Case=Nom|Number=Sing	
-2	2	NUM	Case=Nom|NumType=Card|Number=Sing	
-tengelyes	tengelyes	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-fix	fix	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-platós	platós	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-tehergépkocsi	tehergépkocsi	NOUN	Case=Nom|Number=Sing	
-,	,	PUNCT	_	
-valamint	valamint	CONJ	_	
-aszfaltozó	aszfaltozó	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-felépítmények	felépítmény	NOUN	Case=Nom|Number=Plur	
-beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-az	az	DET	Definite=Def|PronType=Art	
-alábbiak	alábbi	NOUN	Case=Nom|Number=Plur	
-szerint	szerint	ADP	_	
-részletezve	részletezve	ADV	VerbForm=Trans	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:de3e81d108a3bd17623e453b250a5295b2e3c2438cd37c7c1b40fb923132350f
+size 1142

@@ -1,27 +1,3 @@
-keretmegállapodás
-km
-tisztán elektromos üzemű gépjármű beszerzés
-km megkötés
-2004.
-v. 25.
-kr. szerinti intézmény részére a
-2012.
-8.
-nfm u
-szerinti
-gépjármű
-kiemelt termékkör az alábbi szerint
-rész személyszállító személygépjármű
-szgj
-alsó kategória
-szerinti elektromos gépjármű
-gj
-beszerzés
-rész személyszállító szgj közép kategória szerinti elektromos gj beszerzés
-rész személyszállító szgj közép kategória szerinti elektromos gj beszerzés
-rész egyterű szgj kategória szerinti elektromos gj beszerzés
-rész kisáruszállító haszongépjármű kategória szerinti elektromos gj beszerzés a megkötött km teher
-az elektromobilitás elterjedés és továbbfejlesztés gyors és hatékony ösztönzés érdek a ngm által közzétett pályázati kiírás összhang
-az intézmény az elektromos gépjármű beszerzés le tud bonyolít
-részletes feltétel a kd
-műszaki leírás fejezet tartalmaz
+version https://git-lfs.github.com/spec/v1
+oid sha256:004890904f79c62afff4032f6ad381d56812a955bc55dd739d2d7e5c8db54950
+size 953

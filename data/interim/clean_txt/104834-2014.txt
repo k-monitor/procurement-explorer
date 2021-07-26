@@ -1,5 +1,3 @@
-adásvételi szerződés alap a
-sopron és térsége hulladékgazdálkodási rendszer
-elnevezésű keop-1
-1.1
-09-2011-0002 számú projekt megvalósulás szükséges hulladékgyűjtő konténer beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:529ca147b2427fb6b0ea3b85ec1185fbacce48ea0068d303d0a9bf1d4e235a3e
+size 204

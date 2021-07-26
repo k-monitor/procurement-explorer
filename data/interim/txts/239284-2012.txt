@@ -1,1 +1,3 @@
-Szállítási szerződés, melynek tárgya: "A fővárosi házhoz menő szelektív hulladékgyűjtési rendszer kialakításával kapcsolatos új edényzet beszerzése".
+version https://git-lfs.github.com/spec/v1
+oid sha256:19614eaf5ce58892ccbb6611753c4056651d364d181df391f6cf6509d946161e
+size 169

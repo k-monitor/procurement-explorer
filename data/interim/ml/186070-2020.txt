@@ -1,21 +1,3 @@
-ROcHUs	ROcHUs	PROPN	Case=Nom|Number=Sing	
--	-	PUNCT	_	
-Care	care	X	_	
-for	for	X	_	
-health	health	NOUN	Case=Nom|Number=Sing	
-in	in	X	_	
-Satu	satu	NOUN	Case=Nom|Number=Sing	
-Mare	mare	NOUN	Case=Nom|Number=Sing	
-and	and	PROPN	Case=Nom|Number=Sing	
-Szabolcs-Szatmár-Bereg	Szabolcs-Szatmár-Bereg	PROPN	Case=Nom|Number=Sing	
-counties	counties	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-című	című	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-pályázat	pályázat	NOUN	Case=Nom|Number=Sing	
-keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-képalkotó	képalkotó	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-berendezések	berendezés	NOUN	Case=Nom|Number=Plur	
-és	és	CONJ	_	
-tartozékaik	tartozék	NOUN	Case=Nom|Number=Plur|Number[psor]=Plur|Person[psor]=3	
-beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:e50cdd3e9c118e8daa14c4ecb5936bdb9001095c6a54f9856e6da73696302ba8
+size 863

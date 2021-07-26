@@ -1,5 +1,3 @@
-a fővárosi közterület
-fenntartó zártkörű működő nonprofit részvénytársaság hulladékhasznosító mű üzem üzemelő k1
-k2
-k3
-k4 kazán 1. 2-es túlhevítő csőkígyó blokk csere
+version https://git-lfs.github.com/spec/v1
+oid sha256:def5f197c6363314724f27bbc8d7bdf067d5c390aba66b4b1e1f033c16c06a62
+size 195

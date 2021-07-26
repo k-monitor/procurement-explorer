@@ -1,1 +1,3 @@
-Semmelweis Egyetem területén vagyonvédelmi feladatok ellátása.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8f1d5643877ac6c11e6334b92f523f7e4410573b5f3f5f1e2d2dd9024ff81ac0
+size 67

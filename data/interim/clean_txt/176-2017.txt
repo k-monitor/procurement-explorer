@@ -1,2 +1,3 @@
-kórházi gyógyszerkiszerelő automatika beszerzés a pte részére adásvételi szerződés keret
-a közbeszerzési dokumentáció meghatározott paraméter
+version https://git-lfs.github.com/spec/v1
+oid sha256:9a381c4127363a4f40180c12591da0397ebfb0e671abbcd0ac0541ab8543025a
+size 158

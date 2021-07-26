@@ -1,1 +1,3 @@
-Meghatározás: Vállalkozási szerződés Tárgya: A Vígszínház és Pesti Színház helyiségeinek takarítása és szaniter helyiségek feltöltése a Megrendelő által biztosítandó higiéniás anyagokkal (WC-papír, kéztörlő, folyékony szappan).
+version https://git-lfs.github.com/spec/v1
+oid sha256:a2f10b5cf9769813e7a54096f8992a6a642fea607a1566acf7a1a1703c841c91
+size 258

@@ -1,10 +1,3 @@
-Élelmiszer	élelmiszer	NOUN	Case=Nom|Number=Sing	
-alapanyag	alapanyag	NOUN	Case=Nom|Number=Sing	
-beszerzés	beszerzés	NOUN	Case=Nom|Number=Sing	
-szállítási	szállítási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-36	36	NUM	Case=Nom|NumType=Card|Number=Sing	
-hónapra	hónap	NOUN	Case=Sub|Number=Sing	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:a4663a4c7a3f3b528daf409ca306e5cfbc9b78225be50e6e0ad91845aa762ed0
+size 442

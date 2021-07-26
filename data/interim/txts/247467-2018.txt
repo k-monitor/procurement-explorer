@@ -1,1 +1,3 @@
-Vállalkozási szerződés a Fejér Megyei Kormányhivatal Szent István tér 9. sz. alatti épületének ablakcseréire és egyéb felújítási munkáira. A kivitelezést a következő elvárás szerint kell megvalósítani: Épület fejlesztés előtti átlagos éves fogyasztása(energetikai tanúsítvány alapján): 679 693 [kWh/év].Épület fejlesztés utáni átlagos éves fogyasztása energetikai számítás alapján): 72 701 [kWh/év]. Vállalkozó feladata a megvalósult állapotról – összhangban a fejlesztés utáni számított megtakarítással- energiatanúsítványt készíteni és azt a műszaki átadás-átvételi eljárás keretében Megrendelő részére továbbítani.A megvalósult állapotról készített energiatanúsítvány elkészítésére irányadók a KEHOP-5.2.2. kódszámú Pály. Felhív.ban foglalt előírások.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d9ebc76de316bbcb839457eabcc93855d70eb26a32500facb356f6e2e8a72996
+size 858

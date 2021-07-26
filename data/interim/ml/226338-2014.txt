@@ -1,22 +1,3 @@
-Keretmegállapodás	keretmegállapodás	NOUN	Case=Nom|Number=Sing	
-a	a	DET	Definite=Def|PronType=Art	
-Semmelweis	Semmelweis	PROPN	Case=Nom|Number=Sing	
-Egyetem	Egyetem	PROPN	Case=Nom|Number=Sing	
-szervezeti	szervezeti	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-egységei	egység	NOUN	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3	
-részére	részére	ADP	_	
-36	36	NUM	Case=Nom|NumType=Card|Number=Sing	
-hónapra	hónap	NOUN	Case=Sub|Number=Sing	
-szükséges	szükséges	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-fogászati	fogászati	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-anyagok	anyag	NOUN	Case=Nom|Number=Plur	
-és	és	CONJ	_	
-fogszabályozási	fogszabályozási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-eszközök	eszköz	NOUN	Case=Nom|Number=Plur	
-fajta	fajta	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-és	és	CONJ	_	
-mennyiség	mennyiség	NOUN	Case=Nom|Number=Sing	
-szerinti	szerinti	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-határidős	határidős	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-adásvételére	adásvétel	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:5b2d80763bfca88a697ad61eb6832f8845c1acc0de26bbcaa42817248a562d67
+size 1063

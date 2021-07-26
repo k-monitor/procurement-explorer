@@ -1,21 +1,3 @@
-ajánlatkérő tulajdon álló haemonetics mcs sejtszeparátor készülék a készülék kompatibilis és a készülék validált apheresis cf
-vagy ez egyenértékű szerelék beszerzés hónapos futamidő vagy amennyiben az korán következik be
-akkor a jelen felhívás ii
-2.1
-pont szerinti teljes mennyiség leszállítás
-a mennyiségi eltérés is figyelem véve
-ajánlatkérő rögzít
-hogy a közbeszerzés tárgy egyértelmű és közérthető meghatározás tesz szükséges a meghatározott gyártmányú
-típusú szerelék való hivatkozás
-azonban a kr. 26. §
-bekezdés meg+felelő tájék az ajánlattevő
-hogy a megnevezés csak a tárgy jelleg egyértelmű meghatározás érdek történik
-és ajánlatkérő egyenértékű termék is elfogad
-egyenértékű termék megajánlás eset ajánlattevő köteles gyártói nyilatkozat
-termékleírás vagy használati utasítás igazol
-hogy a megajánlott szerelék valamennyi termék tulajdonság megegyezik vagy jó
-mint a beszerzési tárgy szereplő szerelék tulajdonság
-a termék külföldi szállító ddp
-incoterms 2000.
-paritás
-belföldi szállító költségmentesen köteles leszállít
+version https://git-lfs.github.com/spec/v1
+oid sha256:308ab33abd38fb3b5a39dcbce3a3f13176e4b1a39770ffdf8deb676830193cba
+size 1159

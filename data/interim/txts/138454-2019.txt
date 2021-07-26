@@ -1,1 +1,3 @@
-Magyar Honvédség Egészségügyi Központ beültethető szemlencse implantátumok beszerzése adásvételi keretmegállapodás keretében 24 hónapra: 2 részajánlati körben.
+version https://git-lfs.github.com/spec/v1
+oid sha256:465d19dacc5e678327f32986efc9cbe189120804310f326176cfc784ff5adede
+size 178

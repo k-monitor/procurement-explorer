@@ -1,1 +1,3 @@
-Szolgáltatási keretszerződés - HHM területén lévő különféle SIGMA típusú szivattyúk helyszíni javítása.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6f2b776d6052a80f7cf6b9ecc6e402d1fd333c20e1fccc132193b990a186ef65
+size 120

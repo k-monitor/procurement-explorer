@@ -1,1 +1,3 @@
-földgáz beszerzés teljes ellátásalapú földgáz-kereskedelmi szerződés keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:d799f933d54f23a275c561c1dd5d66553be07db355b2e8ea360e506fc8153ca8
+size 84

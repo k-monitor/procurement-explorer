@@ -1,1 +1,3 @@
-Konszignációs adásvételi szerződés keretében műlencse, az azokhoz tartozó fogyóanyagok beszerzése, valamint a műlencsék beültetéséhez szükséges szemészeti phaco készülék bérlete, a készülék kezelésének betanításával, karbantartásával a szerződés hatálya alatt teljes körű szervizszolgáltatás biztosításával.
+version https://git-lfs.github.com/spec/v1
+oid sha256:39e8b6bb1b5747a6c2ed3b33e77cfdbc54f4419baee6edb474de1b531a364412
+size 350

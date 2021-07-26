@@ -1,3 +1,3 @@
-mnb integrál statisztikai információs rendszer
-casir
-támogatási és szoftverfejlesztési szolgáltatás kbf598
+version https://git-lfs.github.com/spec/v1
+oid sha256:8d334c5765931c14f3c65b8e9275b16b824abe380aadbe93109661e4c7a39e75
+size 115

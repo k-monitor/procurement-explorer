@@ -1,1 +1,3 @@
-Ipartelep kivitelezési munkái
+version https://git-lfs.github.com/spec/v1
+oid sha256:ff3d4cae016b8045d2074ea256d3f434d7d98c8af6e23a787e8317f9db070cb8
+size 31

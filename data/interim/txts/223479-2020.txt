@@ -1,1 +1,3 @@
-Zánkai Erzsébet-tábor infrastrukturális fejlesztése
+version https://git-lfs.github.com/spec/v1
+oid sha256:69aec728064bdf511af9eaebae5ac302d71516e8c1bf37fac0d38c981bc3cfcb
+size 56

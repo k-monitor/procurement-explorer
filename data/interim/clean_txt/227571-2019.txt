@@ -1,1 +1,3 @@
-települési szilárd kommunális hulladék gyűjtés és beszállítás a duna-vértes regionális hulladékkezelő központ
+version https://git-lfs.github.com/spec/v1
+oid sha256:e5d841f8a6b7cfd1d2c7519cde749f2a603aef782b020525c1180ceb50c4d994
+size 125

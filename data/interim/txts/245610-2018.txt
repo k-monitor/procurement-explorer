@@ -1,1 +1,3 @@
-Adásvételi szerződés keretében broadcast kameraoptikák beszerzése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d529f63d753a184040a7fb9d4acf1ac7e18774468ab48087837ed68d9064dfea
+size 73

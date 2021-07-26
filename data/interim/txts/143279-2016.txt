@@ -1,1 +1,3 @@
-Összességében nettó 6 000 000 HUF+ 30 % keretösszeg erejéig Wielton pótkocsi és Avia tehergépjármű gyári, eredeti új vagy azzal egyenértékűnek elfogadott utángyártott új alkatrészek beszerzése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4715423e428488a4a9b275f82b037f25668232d0ceb3b9314870c96bfe385fe1
+size 214

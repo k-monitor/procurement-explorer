@@ -1,15 +1,3 @@
-Gazdálkodó	gazdálkodó	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-szervezetekkel	szervezet	NOUN	Case=Ins|Number=Plur	
-kapcsolatos	kapcsolatos	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-települési	települési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szilárd	szilárd	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-hulladékkezelési	hulladékkezelési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-részfeladatok	részfeladat	NOUN	Case=Nom|Number=Plur	
-(	(	PUNCT	_	
-gyűjtés	gyűjtés	NOUN	Case=Nom|Number=Sing	
-,	,	PUNCT	_	
-szállítás	szállítás	NOUN	Case=Nom|Number=Sing	
-)	)	PUNCT	_	
-ellátása	ellátás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-I.	1.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:4b61aa52332e68e528453864cec804f0155b5d58ff545061039a4683d61d6563
+size 707

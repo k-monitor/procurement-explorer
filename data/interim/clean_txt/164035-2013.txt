@@ -1,4 +1,3 @@
-szolgáltatási keretszerződés
-a hhm terület lévő kazán db artec típusú hűtővíz befecskendező szabályzószelep
-valamint db
-bar redukáló található artec típusú hűtővíz befecskendező szabályzószelep javítás
+version https://git-lfs.github.com/spec/v1
+oid sha256:ae892eddf9536c1471b8433622ce95a3820e372ddb6db9acec74d1287d513963
+size 231

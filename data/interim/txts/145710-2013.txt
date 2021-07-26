@@ -1,1 +1,3 @@
-Vállalkozási szerződés az M86 gyorsforgalmi út Szeleste - Csorna szakasz I. ütem: Szeleste - Hegyfalu szakasz (84. sz. főúti csomópontig) kivitelezési munkáinak elvégzése tárgyában.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1802d690bd281947d2b5715b5257dc690526612dac8aa6f20549ceb3662d1e42
+size 196

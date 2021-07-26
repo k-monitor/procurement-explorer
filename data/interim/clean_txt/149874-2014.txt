@@ -1,1 +1,3 @@
-adásvételi szerződés egyes
+version https://git-lfs.github.com/spec/v1
+oid sha256:ac8823ae732a2d0237e59be857ed780b547978bd0964382469647084e7804c9b
+size 30

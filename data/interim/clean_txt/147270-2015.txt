@@ -1,4 +1,3 @@
-szállítási szerződés különféle élelmiszer beszerzés
-szerződéskötés számított hónap határozott idő
-rövid
-élelmiszer beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:59125eda22223cc733ece350f0cdc3b9e2389cb040eb54075d43407eb9619f69
+size 146

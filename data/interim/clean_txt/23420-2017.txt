@@ -1,4 +1,3 @@
-kötszer beszerzés beszerzés részben adásvételi keretszerződés keret a ii
-2.4
-pont
-valamint a közbeszerzési dokumentum rögzített szerint
+version https://git-lfs.github.com/spec/v1
+oid sha256:4b0882eac86f0be2aa98fe107fa4e5cbcb1acb1ef2b7932632e8dccd70512966
+size 147

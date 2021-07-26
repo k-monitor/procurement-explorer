@@ -1,12 +1,3 @@
-Keretmegállapodás	keretmegállapodás	NOUN	Case=Nom|Number=Sing	
-keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-az	az	DET	Definite=Def|PronType=Art	
-MNV	MNV	NOUN	Case=Nom|Number=Sing	
-Zrt.	Zrt.	PROPN	Case=Nom|Number=Sing	
-érdekkörébe	érdekkör	NOUN	Case=Ill|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-tartozó	tartozó	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-ingatlanok	ingatlan	NOUN	Case=Nom|Number=Plur	
-értékbecsléseinek	értékbecslés	NOUN	Case=Gen|Number=Plur|Number[psor]=Sing|Person[psor]=3	
-elkészítése	elkészítés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:0d8d7026ba3d82a91d77928133f28104df973abe0e4acd9b8d7a522a6965e707
+size 660

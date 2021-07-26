@@ -1,10 +1,3 @@
-szerződés meghatározás
-keretmegállapodás
-tárgy
-lajosmizse város önkormányzata részére mélyépítési keretmegállapodás megkötés
-amely tartalmaz a
-lajosmizse város csatornahálózat kiépítés és szennyvíztisztító telep bővítés
-keop-1
-2.0
-09-2010-0077
-elnevezésű projekt kapcsolatos kivitelezési munka fidic piros és fidic sárga könyv szerint
+version https://git-lfs.github.com/spec/v1
+oid sha256:db93e427fe1a4ddd96ab5c4118351824a3771dca554a6432eabfa59013a6f561
+size 373

@@ -1,1 +1,3 @@
-ajánlatkérő intézmény részére év szükséges egy használatos műtéti izolációs anyag beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:6315916623d1239337f0723c92cc42721d4412314423c7ea2f719543aa9c5fd5
+size 107

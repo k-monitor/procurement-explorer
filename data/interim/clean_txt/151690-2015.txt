@@ -1,4 +1,3 @@
-villamos energia szállítás székesfehérvár megyei jogú város önkormányzat intézmény részére 1.
-2015-31.12.2016 időszak vonatkozó
-teljes ellátás alapú
-fogyasztói menetrend adás nélküli villamos energiaszállítási szerződés keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:714049cde3c6de322ab603bf50cdfaa0bbf3322148946d3de302d45ba2d4758a
+size 253

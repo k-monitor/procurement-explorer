@@ -1,10 +1,3 @@
-darab
-új
-kísérleti vákuumporlasztó beszerzés és üzem helyezés az mta energiatudományi kutatóközpont mikrotechnológiai laboratórium részére
-ajánlattevő feladat képez a berendezés helyszín szállítás
-helyszíni üzem helyezés
-használat helyszíni betanítás ajánlatkérő alkalmazott részére
-a szükséges próbaüzem
-e
-lefolytatás
-illetve a közreműködés az átvételi eljárás
+version https://git-lfs.github.com/spec/v1
+oid sha256:2152fb0924eb301cb3d1865e56fd29c2e64962582df01900732447c7c8a29bae
+size 410

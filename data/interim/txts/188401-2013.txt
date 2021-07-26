@@ -1,1 +1,3 @@
-„Vállalkozási szerződés az Eldorado - Elektronikus Dokumentumküldés Országos Rendszere, Adatbázisa és Dokumentumtárának megvalósítására”
+version https://git-lfs.github.com/spec/v1
+oid sha256:5017682ee6633a529d036d02eeebcc916681ad6d4591113d507c631f55d5b9ef
+size 155

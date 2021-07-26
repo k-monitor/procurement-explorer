@@ -1,26 +1,3 @@
-Tata	Tata	PROPN	Case=Nom|Number=Sing	
-Város	Város	PROPN	Case=Nom|Number=Sing	
-Önkormányzata	Önkormányzata	PROPN	Case=Nom|Number=Sing	
-részére	részére	ADP	_	
-957	957	NUM	Case=Nom|NumType=Card|Number=Sing	
-557	557	NUM	Case=Nom|NumType=Card|Number=Sing	
-000	000	NUM	Case=Nom|NumType=Card|Number=Sing	
-HUF	HUF	PROPN	Case=Nom|Number=Sing	
-összegű	összegű	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-hitelfelvétel	hitelfelvétel	NOUN	Case=Nom|Number=Sing	
-az	az	DET	Definite=Def|PronType=Art	
-Európai	Európai	PROPN	Case=Nom|Number=Sing	
-Unió	Unió	PROPN	Case=Nom|Number=Sing	
-támogatásával	támogatás	NOUN	Case=Ins|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-és	és	CONJ	_	
-az	az	DET	Definite=Def|PronType=Art	
-Európai	Európai	PROPN	Case=Nom|Number=Sing	
-Unió	Unió	PROPN	Case=Nom|Number=Sing	
-támogatása	támogatás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-nélkül	nélkül	ADP	_	
-megvalósuló	megvalósuló	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-projektek	projekt	NOUN	Case=Nom|Number=Plur	
-önerő	önerő	NOUN	Case=Nom|Number=Sing	
-finanszírozására	finanszírozás	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:6a3e4e70ee5252876f2203647924b77bf129f6b590ef88792abe9eaaa95fbd40
+size 1200

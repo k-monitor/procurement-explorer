@@ -1,5 +1,3 @@
-projektor beszerzés
-projektor beszerzés az efop-3
-4-16-2016-00001
-digitális kompetencia fejlesztés
-című projekt keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:e1263567400fe0e9e0b6f962912bedd5524fec40842767414171d17d3423129d
+size 123

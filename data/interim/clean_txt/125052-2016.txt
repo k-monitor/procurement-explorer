@@ -1,1 +1,3 @@
-adásvételi szerződés színpadi világítástechnikai eszköz beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:3dc21f105a604ff2aa75d593ff861784a996752b231e468a7c252f2cc92d359d
+size 75

@@ -1,2 +1,3 @@
-előleg és beruházási hitel biztosítás hitelszerződés forma
-villamos mozdony beszerzés finanszírozás rész
+version https://git-lfs.github.com/spec/v1
+oid sha256:e2a335046b57c0f286fe01c7686f6acf28bd5bcf1839fdf41ea1da8d1fc2a1d9
+size 116

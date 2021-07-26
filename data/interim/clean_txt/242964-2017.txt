@@ -1,3 +1,3 @@
-nagykőrös város önkormányzata részére
-közszolgáltatási szerződés keret nagykőrös város közigazgatási terület keletkező települési szilárd hulladék rendszeres begyűjtés
-elszállítás és kezelés
+version https://git-lfs.github.com/spec/v1
+oid sha256:850b0c30e717e3e8d949fce7726d57f2bd0cccdc6fc55f4afeb983198b39411a
+size 220

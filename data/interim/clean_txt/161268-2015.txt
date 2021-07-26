@@ -1,5 +1,3 @@
-adásvételi szerződés a keop-2
-1.3
-11-2013-0001 azonosítószámú
-tájgazdálkodási infrastruktúra fejlesztés a bodrogköz és ő a cigándi árvízszint csökkentő tározó terület
-című projekt megvalósítás szükséges eszköz beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:873882704a427b8bd728da07a549193587a2f863a27e17ba39ad0597f3110aca
+size 252

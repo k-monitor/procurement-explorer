@@ -1,1 +1,3 @@
-DEK-539 IVF eszközök beszerzése Debreceni Egyetem Klinikai Központ Asszisztált Reprodukciós Centrum részére. 1. rész Embriológiai laboratóriumi munkaállomások 2. rész: Petesejtnyeréshez szükséges eszközök 3. rész: Embriótenyésztő előkevert gázos asztali Benchtop típusú inkubátor 4. rész: Embriótenyésztő inkubátorral egybeépített Time-lapse embrió monitorizáló rendszer 5. rész: Folyékony nitrogénes fagyasztó és fagyasztva tároló rendszer 6. rész: Eszköz- és anyag-előkészítés A részleteket a műszaki leírás tartalmazza.
+version https://git-lfs.github.com/spec/v1
+oid sha256:77cd059bda2a700332a37753958281dbf9fc30751de4fe546470ccd310002e32
+size 578

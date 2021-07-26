@@ -1,1 +1,3 @@
-Villamos energia teljes ellátásalapú árubeszerzése, menetrendadási kötelezettség nélkül 1.11.2016. nap 00:00 óra és 31.10.2017. nap 24:000 óra közötti teljesítési időszakra.
+version https://git-lfs.github.com/spec/v1
+oid sha256:81926a077edc2d0d445264cba8d30e795342aa84c549cb73aa67761fced32aab
+size 191

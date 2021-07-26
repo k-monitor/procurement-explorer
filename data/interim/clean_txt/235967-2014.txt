@@ -1,3 +1,3 @@
-szállítási keretszerződés az fkf nonprofit zrt.
-rt. üzemeltetett t alatti személy és kisteher gépjármű gyári
-vagy az egyenértékű első beszállítói új alkatrész szállítás érdek
+version https://git-lfs.github.com/spec/v1
+oid sha256:8e6fc416816aa161be008c7553227704f24db462121160fd4a13197a5944ef20
+size 199

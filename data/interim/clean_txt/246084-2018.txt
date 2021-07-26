@@ -1,3 +1,3 @@
-vállalkozási szerződés az mta székház és könyvtár rekonstrukciós munkálat előkészítés keret az épület alapozási tartószerkezet állékonyság vizsgálat
-szigetelési tanulmányterv készítés
-valamint ez kapcsolódó a székház és könyvtár alapfal feltárás kivitelezés tárgy
+version https://git-lfs.github.com/spec/v1
+oid sha256:e892ed8829e017bcdab2e251933a948bfd476221ff1ee12e29c9b1b2af151909
+size 302

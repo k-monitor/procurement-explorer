@@ -1,1 +1,3 @@
-Az EFOP 4.1.3-17 számú program keretében, Ajánlatkérő fenntartásában lévő 8 darab köznevelési intézmény tanulást segítő tereinek infrastrukturális fejlesztésére irányuló kivitelezési munkálatok elvégzése, 8 rész ajánlattételi lehetőség keretében, vállalkozási szerződés formájában, a közbeszerzési dokumentumokban foglaltak alapján.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8d80de2f7a8249822631a937994732960678a59a26661755335088701baf07f8
+size 373

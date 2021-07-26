@@ -1,4 +1,3 @@
-tesztrendszer karbantartás
-méréstechnikai támogatás
-és kapcsolódó műszer javítás
-kalibrálás keretszerződés keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:0f0fa3fd52068ce2b89392ae277e6c317456555a686a280d2128bf3eeef2609b
+size 127

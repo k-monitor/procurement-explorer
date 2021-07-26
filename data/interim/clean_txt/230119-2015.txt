@@ -1,5 +1,3 @@
-a tiop-2
-1-2010-0018
-struktúraváltoztatás támogató infrastruktúrafejlesztés a fekvőbeteg-szakellátás
-című konstrukció belül
-a berettyóújfalui gróf tisza istván kórház korszerűsítés tárgyú beruházás kapcsolódó egészségügyi gép-műszer beszerzés adásvételi szerződés keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:b7fcc733c6c80e53044cf7249fff9c80c2972e2bcc490c1d839e2adc47b6cbf8
+size 308

@@ -1,1 +1,3 @@
-Szállítási szerződés, a Semmelweis Egyetem 15 szervezeti egysége, a Betegápoló Irgalmasrend, Budai Irgalmasrendi Kórház, részére, 24 hónapra szükséges sebészeti varróanyagokra. 3 főcsoport (felszívódó, nem felszívódó, egyéb speciális sebzáró anyag): Felszívódó varróanyagok: 16 részteljesítés, 213 752 darab/levél. Nem felszívódó varróanyagok: 24 részteljesítés, 206 998 darab/levél. Egyéb speciális sebzáró anyagok: 5 részteljesítés, 5 456 darab a dokumentáció 1. sz. mellékletében részletezett fajtában és mennyiségben. Szerződéskötés után a megrendelésre kerülő mennyiség, az ajánlati dokumentáció foglaltaktól 30 %-kal lefelé eltérhet.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d5b9cb329956f4bf4bab3fa1f0b402c2ff4f15fa6c5267974515493975223056
+size 713

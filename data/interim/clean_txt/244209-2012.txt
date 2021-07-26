@@ -1,5 +1,3 @@
-ózd város önkormányzata szennyvízcsatorna és szennyvíztisztító telep korszerűsítés című
-keop-1
-2.0
-09-2010-0060
-sz. pályázat megvalósítás szükséges önerő hitel
+version https://git-lfs.github.com/spec/v1
+oid sha256:b335a79180f685207180ad18375558e800a9051d4756c5cabb7c239195f9a19b
+size 182

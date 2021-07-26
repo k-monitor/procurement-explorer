@@ -1,1 +1,3 @@
-Adás-vételi szerződés keretében Ajánlatkérő az Intézmény részére 12 hónapra szükséges Hemodinamikai anyagokat – konszignációs raktár biztosításával kívánja megvásárolni.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7ab88302f96a2929572bb2d052641845f279e2e028923e95f2879ae616d59fc0
+size 196

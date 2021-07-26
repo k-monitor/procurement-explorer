@@ -1,1 +1,3 @@
-Adásvételi szerződés /MH HAVARIA laboratórium képességének fenntartása
+version https://git-lfs.github.com/spec/v1
+oid sha256:fde3fa828609273339fe3acaf180a732aa2435d9a095e82953ea694633a715ee
+size 79

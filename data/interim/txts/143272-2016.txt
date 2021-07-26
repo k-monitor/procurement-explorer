@@ -1,1 +1,3 @@
-Főzési alapanyag és élelmiszer beszerzése (adásvételi szerződés).
+version https://git-lfs.github.com/spec/v1
+oid sha256:0d49b6cf02d6b98ceaab2db9ff4a2d445c182839b51e319571eca9dfb265499d
+size 74

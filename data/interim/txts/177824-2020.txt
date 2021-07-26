@@ -1,1 +1,3 @@
-Ipari Park fejlesztése - munkagépek beszerzése
+version https://git-lfs.github.com/spec/v1
+oid sha256:31d7d9bac318e4630a8aa43f999176cd4c6b4ca3149cd4227d283edf21caddf6
+size 49

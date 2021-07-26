@@ -1,1 +1,3 @@
-Iveco gyártmányú tehergépjármű alváz alkatrészek beszállítása.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b5585468c09a451e7bbe86817b8a30f88ba8e6607461439924b27574025e5029
+size 73

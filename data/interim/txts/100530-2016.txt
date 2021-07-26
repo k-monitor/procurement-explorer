@@ -1,1 +1,3 @@
-Vállalkozási szerződés a Nemzeti Tengelysúly- és kapcsolódó ellenőrzéseket támogató hálózat kialakítása elnevezésű projektben független műszaki ellenőri feladatok ellátása tárgyában.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1e947ddc69cb93221718cab00ae28c95bd21fd6671e3acf70dba8fbf39ce4372
+size 207

@@ -1,1 +1,3 @@
-Egyedi vákuum kamrák beszerzése HR és SYLOS lézer nyalábvezetéséhez adásvétellel vegyes vállalkozási szerződés keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1e34e00d69897229ce52c4695d19447d2b6520bc56b177803eee171a5056a4be
+size 136

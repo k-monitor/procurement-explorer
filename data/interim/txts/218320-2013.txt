@@ -1,1 +1,3 @@
-Megbízási szerződés a 88. számú főút 11,5 t burkolat erősítés 3+172-10+046 km sz. közötti 6,34 km hosszú szakaszának, valamint 2,2 km főúttal párhuzamos kerékpárút kivitelezési munkáihoz kapcsolódó mérnöki feladatok ellátására
+version https://git-lfs.github.com/spec/v1
+oid sha256:8b5cb7fb46bb0bc030a9e829d0f1ed6cbd5848663f9981fb24e7e92cb7ca549c
+size 256

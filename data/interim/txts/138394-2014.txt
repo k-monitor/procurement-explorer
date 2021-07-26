@@ -1,1 +1,3 @@
-Coronaria stent és nyomásmérő vezetődrót beszerzése, kihelyezett áruraktár üzemeltetésével, fajta és mennyiség szerint meghatározott dolog határidős adásvételi (a továbbiakban: adásvételi) szerződés keretében. Ajánlatkérő a teljesítés során a dokumentációban előírt mennyiségektől (az egységár vagy más szerződéses feltételek módosítása nélkül) –30 %-kal eltérhet. (Konszignációs raktár feltételei: Ajánlatkérő a rendszer üzemeltetéséért díjat nem számol fel ajánlattevő részére Ajánlattevők az ajánlatban nyilatkozni kötelesek a konszignációs raktár létesítése feltételeinek elfogadásáról, ennek hiányában ajánlata érvénytelen, valamint arról, hogy az adásvételi és raktározási szerződés egymás elválaszthatatlan részei.)
+version https://git-lfs.github.com/spec/v1
+oid sha256:21baf842989a84c372cceb79db82ce435bd7a35a5f59bb38f57b4998cbf56e85
+size 820

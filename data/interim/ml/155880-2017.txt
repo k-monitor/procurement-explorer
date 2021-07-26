@@ -1,29 +1,3 @@
-Győr	Győr	PROPN	Case=Nom|Number=Sing	
-Megyei	Megyei	PROPN	Case=Nom|Number=Sing	
-Jogú	Jogú	PROPN	Case=Nom|Number=Sing	
-Város	Város	PROPN	Case=Nom|Number=Sing	
-egyes	egyes	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-intézményei	intézmény	NOUN	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3	
-,	,	PUNCT	_	
-továbbá	továbbá	ADV	_	
-a	a	DET	Definite=Def|PronType=Art	
-Győr	Győr	PROPN	Case=Nom|Number=Sing	
-Megyei	Megyei	PROPN	Case=Nom|Number=Sing	
-Jogú	Jogú	PROPN	Case=Nom|Number=Sing	
-Város	Város	PROPN	Case=Nom|Number=Sing	
-Önkormányzata	Önkormányzata	PROPN	Case=Nom|Number=Sing	
-és	és	CONJ	_	
-Polgármesteri	Polgármesteri	PROPN	Case=Nom|Number=Sing	
-Hivatala	Hivatala	PROPN	Case=Nom|Number=Sing	
-részére	részére	ADP	_	
-villamos	villamos	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-energia	energia	NOUN	Case=Nom|Number=Sing	
-beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-határozott	határozott	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-időtartamra	időtartam	NOUN	Case=Sub|Number=Sing	
-szóló	szóló	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-adásvételi	adásvételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:dcad3055a85020b75af2a0820ef806d8d8d0fc5be8d38bc43d4eb7732018be44
+size 1314

@@ -1,24 +1,3 @@
-Szolgáltatási	szolgáltatási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-a	a	DET	Definite=Def|PronType=Art	
-Fővárosi	Fővárosi	PROPN	Case=Nom|Number=Sing	
-Közterület-fenntartó	Közterület-fenntartó	PROPN	Case=Nom|Number=Sing	
-Zrt.	Zrt.	PROPN	Case=Nom|Number=Sing	
-Oracle	Oracle	PROPN	Case=Nom|Number=Sing	
-vállalatirányítási	vállalatirányítási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-rendszereinek	rendszer	NOUN	Case=Gen|Number=Plur|Number[psor]=Sing|Person[psor]=3	
-licence	licenc	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-vásárlása	vásárlás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-,	,	PUNCT	_	
-Vállalatirányítási	vállalatirányítási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-és	és	CONJ	_	
-Kontrolling	kontrolling	NOUN	Case=Nom|Number=Sing	
-rendszerének	rendszer	NOUN	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-üzemeltetésével	üzemeltetés	NOUN	Case=Ins|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-kapcsolatos	kapcsolatos	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szakértői	szakértői	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-támogatás	támogatás	NOUN	Case=Nom|Number=Sing	
-beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:5e16be4278b4cb656f490ae924019c0a63c5e5f8b35a5d3db7917e4ba1424588
+size 1373

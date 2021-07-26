@@ -1,1 +1,3 @@
-A Debreceni Egyetem Debrecen, Egyetem tér 1. sz. alatti Élettudományi Épület és Könyvtár takarítására és ruhatárosi feladatok ellátására vonatkozó szolgáltatási szerződés.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2ca632d098b65675f7403aa2084390289b62298957d5321a845a80b447ba279c
+size 192

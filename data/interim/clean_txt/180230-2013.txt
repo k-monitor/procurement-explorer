@@ -1,6 +1,3 @@
-vállalkozási szerződés keret
-a magyar közút nonprofit zrt. kezelés lévő közút mentén a balesetveszélyes fa kivágás
-gallyazás
-munkaterület takarítás
-valamint tuskómarás elvégzés és a kitermelt faanyag ajánlatkérő telephely beszállítás a műszaki dokumentáció részletezett szerint
-az ajánlati felhívás b melléklet megadott rész és keretösszeg
+version https://git-lfs.github.com/spec/v1
+oid sha256:da7fa1f6262b4a06a84f28e71d8aba548ba7468b343ee047a680f4a5250916ae
+size 380

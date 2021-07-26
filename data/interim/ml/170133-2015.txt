@@ -1,18 +1,3 @@
-Keretmegállapodás	keretmegállapodás	NOUN	Case=Nom|Number=Sing	
-megkötése	megkötés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-Derecske	derecske	NOUN	Case=Nom|Number=Sing	
-Város	Város	PROPN	Case=Nom|Number=Sing	
-Önkormányzata	Önkormányzata	PROPN	Case=Nom|Number=Sing	
-részére	részére	ADP	_	
-mérnöki	mérnöki	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-,	,	PUNCT	_	
-műszaki	műszaki	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-tanácsadói	tanácsadói	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szolgáltatások	szolgáltatás	NOUN	Case=Nom|Number=Plur	
-megbízási	megbízási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződések	szerződés	NOUN	Case=Nom|Number=Plur	
-keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-történő	történő	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-elvégzésére	elvégzés	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:8c98933b325f15c8e0a0a767682efb73b504fcecd449347ca45bb9f16f1f8133
+size 939

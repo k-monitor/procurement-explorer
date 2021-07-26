@@ -1,13 +1,3 @@
-a budapest 1. kerület budavári önkormányzat által működtetett
-a klebelsberg intézményfenntartó központ budapest i. tankerület által fenntartott batthyány lajos általános iskola
-budavári általános iskola
-kosztolányi dezső gimnázium
-lisznyai utcai általános iskola
-valamint a nyári napközis tábor
-szilágyi erzsébet gimnázium
-toldy ferenc gimnázium közétkeztetési feladat ellátás
-önálló megajánlható rész
-szolgáltatás kezdő időpont valamennyi rész eset
-1.9.2017
-befejező időpont
-31.8.2019
+version https://git-lfs.github.com/spec/v1
+oid sha256:d53cb5fa869aaad0d8bc3a2fbe507c2a9a76dca4838a45874015f2b8f2859119
+size 534

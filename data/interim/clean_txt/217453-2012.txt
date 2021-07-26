@@ -1,5 +1,3 @@
-építési szerződés
-mely tárgy
-fővárosi önkormányzat városligeti műjégpálya pálya
-és épületegyüttes rekonstrukció kivitelezés
-befejező építési munka
+version https://git-lfs.github.com/spec/v1
+oid sha256:11bbf1a047f47f9324bacbdc80136fb8eeed6e5082290dd2a7eebfd5a261224c
+size 171

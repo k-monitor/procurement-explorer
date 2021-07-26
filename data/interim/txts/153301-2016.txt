@@ -1,1 +1,3 @@
-Vállalkozási szerződés légi fényképezésre Magyarország 36905 km2 nagyságú területén és 1 573 db ortofotó készítése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7da43a894b9c4a5eeb6f684c2a8efc48cb7f92357bfbd9f88b4c49d69a49fbd8
+size 133

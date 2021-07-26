@@ -1,16 +1,3 @@
-takarítandó mennyiség
-db épület ami műtő
-m2
-a takarítási tevékenység maga foglal napi
-heti havi és nagytakarítási feladat valamint söprés és hóeltakarítás is a közbeszerzési dokumentáció műszaki leírás foglalt szerint
-1. ajánlatkérő nem tesz lehető a rész történő ajánlattétel
-mivel a hatékony és felelős gazdálkodás elv szem előtt tartva a rész bontás mellőzés kedvező ajánlati ár érhető el
-ii
-ajánlattevő a 2. értékelési szempont tekintet megajánlott számú hátrányos helyzetű munkavállaló minősített szakember a szerződés egész időtartam alatt biztosít kell
-iii
-ajánlatkérő
-ak
-az eljárás lebonyolítás felelős akkreditált közbeszerzési szaktanácsadó alkalmaz
-dr. kerek éva gabriella lajstromszáj
-helyettes
-dr. csók istván áron lajstromszáj
+version https://git-lfs.github.com/spec/v1
+oid sha256:46371399fbaf3170255b9f1940c1d32cbfc28f4c6d77694237f185008e9c23eb
+size 831

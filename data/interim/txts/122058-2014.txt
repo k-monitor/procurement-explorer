@@ -1,1 +1,3 @@
-Szállítási szerződés keretében a TIOP 2.2.4 pályázathoz kapcsolódó orvosi műszerek szállítása, és üzembe helyezése, valamint kezelésének jegyzőkönyvezett oktatása. 1. rész: Haemodinamikai labor eszközei 2. rész: Digitális röntgen készülékek 3. rész: Mammográf és ultrahang berendezések 4. rész: Komplex műtéti technológia eszközei és berendezése 5. rész: Intenzív ellátás eszközei és berendezései
+version https://git-lfs.github.com/spec/v1
+oid sha256:a6c43ed68c8ccbf1485d0b85a8bad141a4db4c471f2f5a33384c2184c99d6e21
+size 444

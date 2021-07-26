@@ -1,1 +1,3 @@
-vekop laboreszköz beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:8800a2b002d863a9ef27ebf6a93c1cce3e90b277a869377a6bd299c87e3184b4
+size 29

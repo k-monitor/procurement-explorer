@@ -1,4 +1,3 @@
-nemzeti távközlési gerinc védelem biztosító ddos védelmi rendszer hardver és szoftver elem gyártói szolgáltatás-előfizetés
-valamint gyártói támogatás 1. rész
-nemzeti távközlési gerinc védelem biztosító ddos védelmi rendszer hardver és szoftver elem gyártói szolgáltatás-előfizetés
-valamint gyártói támogatás 2. rész
+version https://git-lfs.github.com/spec/v1
+oid sha256:cdc737df7c78e2064da4c1772a99df1330c2d568041d8e232342b4420cf8d226
+size 353

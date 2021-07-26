@@ -1,6 +1,3 @@
-a keop 5.6.0
-e
-egészségügyi eszközök energia megtakarítás célzó beszerzés támogatás
-című konstrukció kapcsolódó röntgen berendezés szállítás
-telepítés
-üzem helyezés adásvételi szerződés keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:d6e783da3f1aa7101d93bb81c8718aa37492ff718d16642decf194a0a22669c4
+size 221

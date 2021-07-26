@@ -1,1 +1,3 @@
-Konténeres hulladékszállítás
+version https://git-lfs.github.com/spec/v1
+oid sha256:b4b9baf1e9ab441243afdf8279d4ef0f29d36de930c90a0f38c3eea61597e4c8
+size 33

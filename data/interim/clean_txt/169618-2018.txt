@@ -1,2 +1,3 @@
-városháza épület fejlesztés
-előkészítő műszaki dokumentáció készítés
+version https://git-lfs.github.com/spec/v1
+oid sha256:63029117feefaaddc345b9d802f6c2c6c393121cbeb3d597ec647527ebea4038
+size 83

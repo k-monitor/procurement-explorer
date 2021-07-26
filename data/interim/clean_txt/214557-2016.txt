@@ -1,1 +1,3 @@
-egyedi vákuum kamra beszerzés hr és sylos lézer nyalábvezetés adásvétel vegyes vállalkozási szerződés keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:f3e5248cac2fb6d49d22d25bb7b222d953fb4e1f105dd3427f7bc00865f931cd
+size 119

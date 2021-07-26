@@ -1,1 +1,3 @@
-Semmelweis Egyetem Központi Textiltisztító és Javító Üzem részére chemo-thermo dezinfekciós mosástechnológiához szükséges mosás-hatékony vegyületek, fertőtlenítőszerek és mosószerek beszerzése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a2c4017f64467ffcb76929d1ac8f42dea149bb8fe5cea832689255ec7e954b93
+size 217

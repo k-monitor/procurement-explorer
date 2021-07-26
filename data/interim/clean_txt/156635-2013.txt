@@ -1,1 +1,3 @@
-szállítási szerződés flottamenedzsment eszköz szállítás és az üzemeltetés szükséges flottafelügyeleti szolgáltatás beszerzés érdek
+version https://git-lfs.github.com/spec/v1
+oid sha256:daa85288a8665a8134ef3041f9c86ca447fd485171a07128fb2c733a6bfd797f
+size 149

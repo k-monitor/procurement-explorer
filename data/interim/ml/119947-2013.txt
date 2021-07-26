@@ -1,11 +1,3 @@
-Szállítási	Szállítási	PROPN	Case=Nom|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-770	770	NUM	Case=Nom|NumType=Card|Number=Sing	
-l-es	l-es	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-új	új	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-műanyag	műanyag	NOUN	Case=Nom|Number=Sing	
-hulladékgyűjtő	hulladékgyűjtő	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-tartályok	tartály	NOUN	Case=Nom|Number=Plur	
-beszerzésére	beszerzés	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:1124ef05c5bcd0424db172cf3fd012f25b44b59ab87ca97156aca7f8109c3f03
+size 511

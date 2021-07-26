@@ -1,1 +1,3 @@
-Forgalmi- és utasellenőrzési tevékenység ellátása.
+version https://git-lfs.github.com/spec/v1
+oid sha256:de77fa609e257730b8ce99cfc70cacb1ac025f314edac413003693c18bbced8d
+size 57

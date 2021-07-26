@@ -1,18 +1,3 @@
-1. rész belső fül implantátum
-imp
-és az tartozó processzor
-pr
-szett db 2. rész csere alkalmazandó belső fül imp tartozó pr
-mely komp a ci24m
-ci24r imp
-ci500-as széria imp db 3. rész csere alkalmazandó belső fül imp tartozó pr
-mely komp a c40
-pulsar
-sonata
-concerto típusú imp-kal db 4. rész percutan elhelyezésű passzív középfül
-kfül
-imp és az tartozó pr szett db 5. rész transcutan elhelyezésű passzív kfül imp és az tartozó pr szett db 6. rész csont ágyazott aktív kfül imp és az tartozó pr szett db 7. rész hallócsont erősíthető
-vagy kerekablak helyezhető aktív kfül imp és az tartozó pr szett db 8. rész csere alkalmazandó kfül imp tartozó pr
-mely komp a csont horgonyoz hallássegítő rendsz db 9. rész csere alkalmazandó kfül imp tartozó pr
-mely komp a csont ágyazott
-bőr alatti elhelyezkedésű
+version https://git-lfs.github.com/spec/v1
+oid sha256:47e671ee0d98d24db2c8ee662937a261e6dc934407524ccc08d8c41c72246330
+size 864

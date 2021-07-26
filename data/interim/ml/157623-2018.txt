@@ -1,21 +1,3 @@
-Nyomdaipari	nyomdaipari	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-tevékenység	tevékenység	NOUN	Case=Nom|Number=Sing	
-ellátása	ellátás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-,	,	PUNCT	_	
-nyomdai	nyomdai	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-termékek	termék	NOUN	Case=Nom|Number=Plur	
-előállítása	előállítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-és	és	CONJ	_	
-kapcsolódó	kapcsolódó	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-szolgáltatás	szolgáltatás	NOUN	Case=Nom|Number=Sing	
-nyújtása	nyújtás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-vállalkozási	vállalkozási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-a	a	DET	Definite=Def|PronType=Art	
-közbeszerzési	közbeszerzési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-dokumentumokban	dokumentum	NOUN	Case=Ine|Number=Plur	
-meghatározottak	meghatározott	ADJ	Case=Nom|Degree=Pos|Number=Plur|VerbForm=PartPast	
-szerint	szerint	ADP	_	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:87553da478a6c1088a419310555b32b93ae7808540913a33ae75f38b369d8db9
+size 1111

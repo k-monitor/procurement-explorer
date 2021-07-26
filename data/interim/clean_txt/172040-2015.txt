@@ -1,1 +1,3 @@
-adás-vételi szerződés defibrillátor beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:ab6829539dc5874e673d5bdc1bec80f06edf015381d5db3659e3af3864b717de
+size 51

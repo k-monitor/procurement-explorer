@@ -1,1 +1,3 @@
-Tervezési szerződés keretében a Makói Városi Termál- és Gyógyfürdő (Hagymatikum) építéséhez, rekonstrukciójához és fejlesztéséhez kapcsolódó kiviteli tervdokumentáció elkészítése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a6bfdd7a78678aabde03a034c08435c5a8fda01534b90de0b768b53a2e3c00cb
+size 206

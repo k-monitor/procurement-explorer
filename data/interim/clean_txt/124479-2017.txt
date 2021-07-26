@@ -1,5 +1,3 @@
-tervezési szerződés a kalocsa-paks térség építendő új duna-híd és kapcsolódó úthálózat
-környezetvédelmi hatástanulmány
-engedélyezési és tender terv készítés
-környezetvédelmi
-és építési engedély megszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:6afb6a5a9995ed95bd8d3b88f18fdd93006f225e6b487795bc860e10aaf094cb
+size 238

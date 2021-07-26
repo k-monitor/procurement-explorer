@@ -1,14 +1,3 @@
-vállalkozási keretszerződés
-ajánlatkérő kezelés lévő gyorsforgalmi út
-autóút
-autópálya
-a jelen felhívás ii
-1.2
-pont meghatározott teljesítési hely a vjt alkatrész pótlás
-tábla kapcsolódó berendezés telepítés
-javítás
-tesztelés
-üzem helyezés
-esetleges üzemeltetés támogatás
-megvalósulási terv készítés vagy aktualizálás a jelen közbeszerzési eljárás ajánlattételi szakasz kibocsátás kerülő dokumentáció meghatározott szerint
-eseti megrendelés követő
+version https://git-lfs.github.com/spec/v1
+oid sha256:f4195f1fb902160fd344ecee1230e5bdcad763da7f76061b131d635dbea3e970
+size 508

@@ -1,1 +1,3 @@
-1. rész: Direkt- és folyadékhűtők és hőszivattyúk karbantartása és eseti hibajavítása a PTE Szentágothai Kutatóközpont telephelyén 111 150 000 Huf keretösszeg erejéig 2. rész: Direkt- és folyadékhűtők és hőszivattyúk karbantartása és eseti hibajavítása a PTE KPVK Szekszárdi telephelyén 6 840 000 HUF keretösszeg erejéig
+version https://git-lfs.github.com/spec/v1
+oid sha256:2b37d657448d36bceeb4d7d3d381486174c4745415399b1f4d8f6072563c66ea
+size 354

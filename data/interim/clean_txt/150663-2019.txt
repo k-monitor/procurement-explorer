@@ -1,1 +1,3 @@
-a neak által jelenleg természet nem biztosított tételes elszámolás alá eső adalimumab hatóanyag tartalmazó
+version https://git-lfs.github.com/spec/v1
+oid sha256:a811840760cff8c9d8b57775fba9c7c4d812b336fc2632c2a01bb76543bba26d
+size 116

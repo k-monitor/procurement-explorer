@@ -1,15 +1,3 @@
-haemodinamikai fogyóanyag beszerzés a pécsi tudományegyetem részére
-ajánlati rész
-összesen huf
-év keretösszeg erő
-ajánlatkérő az egyes rész ad meg az adott rész vonatkozó keretösszeg
-az
-ajánlati rész tekintet az opció tervezett mérték összesen
-huf
-ajánlatkérő az egyes rész ad meg az adott rész vonatkozó opcionális mennyiség
-huf
-év
-a termék szállítás a szerződéstervezet részletes leírt szerint raktárkészlet létrehozás
-üzemeltetés által valamint raktárkészlet felüli egyedi rendelés valósul meg
-a műszaki leírás részletezett szerint a 3.
-rész vonatkozás a fogyóanyag használat készülék haszonkölcsön kert történő kihelyezés szükséges
+version https://git-lfs.github.com/spec/v1
+oid sha256:ee4414281dbd54c2c80af6ef17327180161804ba00071c0944a4c29fa377a4d2
+size 708

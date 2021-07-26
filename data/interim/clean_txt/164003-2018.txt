@@ -1,1 +1,3 @@
-licenc és üzemeltetéstámogató eszköz beszerzés adásvételi szerződés keret rész
+version https://git-lfs.github.com/spec/v1
+oid sha256:a3d382651786517a0d663ada7884cbd5deed97f8dabc302f03f9dd246eed72bb
+size 90

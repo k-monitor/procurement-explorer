@@ -1,7 +1,3 @@
-szolgáltatási keretszerződés az fkf nonprofit zrt. üzemeltetés
-vagy bérlemény lévő építmény belső alapterület és üvegfelület napi
-heti
-havi takarítás
-nagytakarítás
-ablakfelület tisztítás
-a dokumentáció részletezett szerint
+version https://git-lfs.github.com/spec/v1
+oid sha256:0ea2513d7aaf9dd06129c1a9830ec6ce411a0998109000097af94baebd445405
+size 250

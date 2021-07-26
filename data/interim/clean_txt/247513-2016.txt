@@ -1,10 +1,3 @@
-vállalkozási szerződés
-a magyar honvédség katasztrófavédelem összefüggő beavatkozási képesség fejlesztés
-technikai eszköz felújítás
-kehop 1.6.0
-1. részajánlati kör
-kl ptsz közepes lánctalpas úszó gépkocsi felújítás
-2. részajánlati kör
-klt üzemanyag szállító
-töltő gépjármű felújítás
-átépítés
+version https://git-lfs.github.com/spec/v1
+oid sha256:f1fa473a36caf82ae6ae8bbe843c2c8ab31b1d40d738f660a81b63e10c0dbb77
+size 340

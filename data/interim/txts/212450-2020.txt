@@ -1,1 +1,3 @@
-A Civil Integrált Információs Rendszer (CIIR) üzemeltetése és fejlesztése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ca5163b17a46ae89bc84dfd29defefc292d02b6692d27a3757b0431ada66699f
+size 81

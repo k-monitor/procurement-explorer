@@ -1,3 +1,3 @@
-varrógép
-tár és érprotézis beszerzés a somogy megyei kaposi mór oktató kórház részére összesen rész
-határidős adásvételi szerződés keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:0257311c8f7528b353978d0748c138dc2cafe35e942ef0eafa4f2969f4e9172b
+size 157

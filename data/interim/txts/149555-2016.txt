@@ -1,1 +1,3 @@
-A Magyar Agrár-, Élelmiszergazdasági és Vidékfejlesztési Kamara központi ügyintéző szervezete, a megyei igazgatóságok, és a falugazdász hálózat részére papírtermékek és irodaszer beszerzése – keretmegállapodás.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e50a35dfa7f20bf9846acc659f61872c3c6ef311ba6d48455242e30ddc82123d
+size 236

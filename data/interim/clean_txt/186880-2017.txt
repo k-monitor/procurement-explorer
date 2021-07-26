@@ -1,4 +1,3 @@
-megbízási szerződés az m44 autóút
-kondoros-békéscsaba közötti szakasz építési munka kapcsolódó mérnöki és műszaki ellenőri feladat ellátás
-pst kód
-a044
+version https://git-lfs.github.com/spec/v1
+oid sha256:16093ad33c86226e31c1ad4934b087dcc8524c450b1647fc154092f078a132db
+size 174

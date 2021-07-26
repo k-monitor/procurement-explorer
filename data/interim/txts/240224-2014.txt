@@ -1,1 +1,3 @@
-Adásvételi szerződés a MÚSZ gépjármű beszerzése tárgyában.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5aa09bdbbbaad4999b72d57f09bf0793016cc384910df023cc8fa4758ec5370f
+size 69

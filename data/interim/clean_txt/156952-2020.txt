@@ -1,3 +1,3 @@
-1. rész
-forgószerszámos esztergagép oktatószoftver 2. rész
-pneumatikus
+version https://git-lfs.github.com/spec/v1
+oid sha256:6274c818049dbbba6b2c7e38385d6ab1a72a34fda2489ff34d04da7d8930d366
+size 76

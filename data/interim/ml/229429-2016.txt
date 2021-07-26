@@ -1,20 +1,3 @@
-Adásvételi	adásvételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-„	„	PUNCT	_	
-Szeged-Algyő	Szeged-algyő	NOUN	Case=Nom|Number=Sing	
-"	"	PUNCT	_	
-Ivóvízminőség-javító	Ivóvízminőség-javító	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-projekt	projekt	NOUN	Case=Nom|Number=Sing	
-II	II	PROPN	Case=Nom|Number=Sing	
-.	.	PUNCT	_	
-fázisához	fázis	NOUN	Case=All|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-kapcsolódóan	kapcsolódó	ADJ	Case=Ess|Degree=Pos|Number=Sing|VerbForm=PartPres	
-ultraviola	ultraviola	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-besugárzással	besugárzás	NOUN	Case=Ins|Number=Sing	
-működő	működő	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-fertőtlenítő	fertőtlenítő	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-berendezések	berendezés	NOUN	Case=Nom|Number=Plur	
-szállítása	szállítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-tárgyában	tárgy	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:a5dace33594732c14fb31dac97995a3538e4e8bdb133f23c19dc66c7f0c8af6a
+size 1052

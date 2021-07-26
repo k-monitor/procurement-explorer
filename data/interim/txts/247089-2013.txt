@@ -1,1 +1,3 @@
-KDOP-2.1.1/B-12-2012-0030 azonosítószámú Koronás Park projekthez kapcsolódó telepített játszóeszközök beszerzése szállítási szerződés keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0cf034267759f42f58d281721a503151eedfae2468b6afbf5f8292995f676762
+size 163

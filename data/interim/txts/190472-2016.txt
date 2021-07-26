@@ -1,1 +1,3 @@
-1) rész: Békéscsaba, belterületi útépítések engedélyezési és kiviteli terveinek elkészítése. 2) rész: Békéscsaba, belterületi útépítések engedélyezési terveinek elkészítése. 3) rész: Békéscsaba, külterületi útépítések engedélyezési terveinek elkészítése. 4) rész: Békéscsaba, Dobozi út és Berényi út melletti kerékpárutak felújítás kiviteli terveinek elkészítése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cbd24b16650809e1b7737c4854f0143ff74c437b73740cfb64aafff17af68501
+size 419

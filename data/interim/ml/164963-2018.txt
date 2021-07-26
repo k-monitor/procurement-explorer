@@ -1,29 +1,3 @@
-A	a	DET	Definite=Def|PronType=Art	
-Zánkai	zánkai	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-Erzsébet-tábor	Erzsébet-tábor	NOUN	Case=Nom|Number=Sing	
-és	és	CONJ	_	
-a	a	DET	Definite=Def|PronType=Art	
-Fonyódligeti	fonyódligeti	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-Erzsébet-tábor	Erzsébet-tábor	NOUN	Case=Nom|Number=Sing	
-megvalósításához	megvalósítás	NOUN	Case=All|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-kapcsolódó	kapcsolódó	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-sportlétesítmények	sportlétesítmény	NOUN	Case=Nom|Number=Plur	
-tervezési	tervezési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-és	és	CONJ	_	
-beruházás	beruházás	NOUN	Case=Nom|Number=Sing	
-lebonyolítói	lebonyolító	ADJ	Case=Nom|Degree=Pos|Number=Plur|Number[psor]=Sing|Person[psor]=3|VerbForm=PartPres	
-feladatok	feladat	NOUN	Case=Nom|Number=Plur	
-ellátása	ellátás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-megbízási	megbízási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-EFOP-1	EFOP-1	PROPN	Case=Nom|Number=Sing	
-.	.	PUNCT	_	
-
-2	2	NUM	Case=Nom|NumType=Card|Number=Sing	
-.	.	PUNCT	_	
-12-17-2017-00006	12-17-2017-00006	PROPN	Case=Nom|Number=Sing	
-pályázati	pályázati	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-forrásból	forrás	NOUN	Case=Ela|Number=Sing	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:2d8db1ed5a64aa67b92852c3cc59cdc146ae0597235011441fa95c4896069846
+size 1427

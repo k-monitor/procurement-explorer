@@ -1,1 +1,3 @@
-Szállítási szerződés keretében különféle orvosi eszközök beszerzése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fabee6aa8c91e9095a620001ff1434cda162d3fc5e543f95ea9405350968d49a
+size 80

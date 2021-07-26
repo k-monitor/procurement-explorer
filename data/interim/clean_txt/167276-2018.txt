@@ -1,2 +1,3 @@
-a semmelweis egyetem szervezeti egység üzem tartott beépített tűzjelző rendszer jogszabály alap történő felülvizsgálat
-karbantartás és hibaelhárítás
+version https://git-lfs.github.com/spec/v1
+oid sha256:7c022c5e81075f1e8f35c378917750680770e5cd1ad58b647a8104d2c81e55bc
+size 165

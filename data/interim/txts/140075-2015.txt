@@ -1,1 +1,3 @@
-A Magyar Turizmus Zrt. részére színes kiadványok nyomdai kivitelezése, gyártása a szerződések megkötésétől számított 12 hónap időtartamra vonatkozóan négy részben.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e1bcea79c468496172df94208d5c25d5d01d90ac619db786cedacc1133aea907
+size 183

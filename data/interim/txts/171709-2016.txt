@@ -1,1 +1,3 @@
-Vállalkozási szerződés – Önkormányzati Koordinációs Rendszer (a továbbiakban: „ÖKR”) továbbfejlesztése keretében informatikai keretrendszer kialakítása (a továbbiakban: „Keretrendszer”), a kialakított keretrendszerhez kapcsolódóan, egyedi megrendelés alapján jogszabálykövetés/szoftvermódosítás, valamint oktatás.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6447b6fd0b127ac37b3c3c7088afda14533fd25fc248a7a9600b4cfe23983ad1
+size 351

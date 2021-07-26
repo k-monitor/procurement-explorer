@@ -1,1 +1,3 @@
-védekezési telekommunikációs rendszer fejlesztés és kapcsolódó kapacitás beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:f45345f69d9f68220029ff82ff7ed243399b2e06eefccbf030113db6e7f978ba
+size 92

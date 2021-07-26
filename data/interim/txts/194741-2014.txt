@@ -1,1 +1,3 @@
-Egyedi, rögzített díjtételű vagyonbiztosítás, kiegészítő kockázatokra szóló fedezetekkel és kombinált felelősségbiztosítási szerződés.
+version https://git-lfs.github.com/spec/v1
+oid sha256:79540b5f055cb0b56ccb5e4929a0cfd55a00aade62ccbb6231fe1d7a16d3009e
+size 155

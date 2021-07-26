@@ -1,11 +1,3 @@
-mobil telekommunikációs szolgáltatás biztosítás az alábbi mennyiség szerint
-pécs megyei jogú város önkormányzata és szervezet
-darab hívásfogadás alkalmas és darab kizárólag mobilinternet elérés alkalmas sim kártya
-a pécsi tudományegyetem darab hívásfogadás alkalmas és darab kizárólag mobilinternet elérés alkalmas sim kártya
-nyertes ajánlattevő a szolgáltatás keret hivatali és dolgozói konstrukció
-a pécsi tudományegyetem kötött szerződés keret hallgatói csomag biztosítás köteles
-nyertes ajánlattevő a szerződés időtartam alatt egyedi megrendelés alap köteles a közbeszerzési dokumentum foglalt szerint mobil távközlési eszköz szállítás az alábbi mennyiség
-db
-az ajánlatkérő a fenti mennyiség
-os mérték eltér
-a szolgáltatás és kapcsolódó eszközbeszerzés részletes leírás és szerződéses feltétel a közbeszerzési dokumentum tartalmaz
+version https://git-lfs.github.com/spec/v1
+oid sha256:78a9e1ab8b7029111807bb3fb54a29b2b987603aff7062557b193eb0f4ecc421
+size 926

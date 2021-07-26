@@ -1,9 +1,3 @@
-Bajcsy-Zsilinszky	Bajcsy-zsilinszky	NOUN	Case=Nom|Number=Sing	
-Kórház	Kórház	PROPN	Case=Nom|Number=Sing	
-és	és	CONJ	_	
-Rendelőintézet	rendelőintézet	NOUN	Case=Nom|Number=Sing	
-részére	részére	ADP	_	
-orvosi	orvosi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-gáz	gáz	NOUN	Case=Nom|Number=Sing	
-beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:32b3420a5e9eb1baf45ece59ff582c9cadb807c71e6ba7d41165c77b1e010638
+size 385

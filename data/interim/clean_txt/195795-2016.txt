@@ -1,3 +1,3 @@
-adásvételi szerződés teleszkópos rakodó
-kszte
-beszerzés tárgy
+version https://git-lfs.github.com/spec/v1
+oid sha256:79fdd616554a19d2413b06f05d27fffaad618fe16b50c0bc38251061293b1825
+size 69

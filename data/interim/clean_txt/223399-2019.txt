@@ -1,2 +1,3 @@
-közétkeztetési szolgáltatás megrendelés vállalkozási szerződés keret
-vállalkozási szerződés 1.8.2019 nap 31.7.2024 nap terjedő éves határozott időtartam budakeszi város önkormányzata közigazgatási terület működő nevelési és oktatási intézmény közétkeztetési szolgáltatás ellátás vonatkozó
+version https://git-lfs.github.com/spec/v1
+oid sha256:105994304e00f324d9c302f0d6419760dc7f8ddbf2dc8bf519ba52fd5be9931c
+size 328

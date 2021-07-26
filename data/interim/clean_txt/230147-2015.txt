@@ -1,1 +1,3 @@
-vízi jármű szállítás egyedi adásvételi szerződés keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:ef4832babaae34b335eff8f45ea7e4cc036286faa9bbc42c17d6502f3f3ab725
+size 64

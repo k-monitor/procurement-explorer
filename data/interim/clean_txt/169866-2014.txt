@@ -1,1 +1,3 @@
-vállalkozási szerződés a megrendelő székhely és telephely takarítás
+version https://git-lfs.github.com/spec/v1
+oid sha256:a3b1f920617ebf25b5bd741e7eea460a2f8a803140e0aa8b15f68243ef05ad51
+size 76

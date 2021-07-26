@@ -1,1 +1,3 @@
-Összesen 30 db, vízszállító gépjárművek gyártásához szükséges járóképes alváz (6x6, EURO 6) beszerzése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:17e1b2be882a4db97643fc36e5ff67c2a5be3e2a6ba19ebcb04e8bcc70cf1106
+size 121

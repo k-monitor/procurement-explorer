@@ -1,35 +1,3 @@
-Megbízási	megbízási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-az	az	DET	Definite=Def|PronType=Art	
-„	„	PUNCT	_	
-Észak	észak	NOUN	Case=Nom|Number=Sing	
--	-	PUNCT	_	
-és	és	CONJ	_	
-Közép-Dunántúli	Közép-dunántúli	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szennyvízelvezetési	szennyvízelvezetési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-és	és	CONJ	_	
--	-	PUNCT	_	
-kezelési	kezelési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-fejlesztés	fejlesztés	NOUN	Case=Nom|Number=Sing	
-6.	6.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
-
-(	(	PUNCT	_	
-ÉKDU	ÉKDU	PROPN	Case=Nom|Number=Sing	
-6	6	NUM	Case=Nom|NumType=Card|Number=Sing	
-)	)	PUNCT	_	
-"	"	PUNCT	_	
-,	,	PUNCT	_	
-KEHOP-2	KEHOP-2	PROPN	Case=Nom|Number=Sing	
-.	.	PUNCT	_	
-
-2	2	NUM	Case=Nom|NumType=Card|Number=Sing	
-.	.	PUNCT	_	
-2-15-2016-00085	2-15-2016-00085	PROPN	Case=Nom|Number=Sing	
-projekt	projekt	NOUN	Case=Nom|Number=Sing	
-keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-műszaki	műszaki	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-ellenőri	ellenőri	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-tevékenység	tevékenység	NOUN	Case=Nom|Number=Sing	
-ellátására	ellátás	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:d673d404db028b90792fd94da12c7f7ca05aaf47f7ca76a644094e89fec6afbc
+size 1270

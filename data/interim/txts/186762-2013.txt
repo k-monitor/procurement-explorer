@@ -1,1 +1,3 @@
-Megbízási szerződés keretében a „Tisza hullámtér: Nagyvízi meder vízszállító képességének helyreállítása a szolnoki vasúti híd és Kisköre közötti szakaszon” tárgyú, KEOP-2.1.1/2F/09-2009-0006 azonosítószámú projekt megvalósításával és hatékony üzemeltetése előkészítésével kapcsolatos PR- és kommunikációs tevékenység teljes körű ellátása.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1720eb6f56fdb183ea5da51888c09aad7dafecbe10bbc09582be40a86d979918
+size 395

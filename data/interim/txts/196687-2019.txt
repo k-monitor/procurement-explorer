@@ -1,1 +1,3 @@
-Adásvételi szerződés a „Komplex fejlesztés a Lemeztechnika Kft.-nél” című GINOP-1.2.7-17-2017-00011 azonosító számú projekt keretében fém alkatrészek korrózióvédelmére alkalmas berendezések beszerzésére az alábbiak szerint: 1. Szemcseszóró kabin/gép és tartozékai 2. Kézi gőzborotvás mosókabin 3. Gőzborotvás mosó vízleszárító kemencéje 4. Csiszoló/előkészítő kabin 5. Oldószeres festő-szárító kabin 6. Festék tároló/festék keverő konyha
+version https://git-lfs.github.com/spec/v1
+oid sha256:c273a1e1a9a3dcc924600a2b9e97cff5f9d4cc8ce77ddcf0046edd49d8c83d33
+size 496

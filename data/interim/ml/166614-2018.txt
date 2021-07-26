@@ -1,21 +1,3 @@
-„	„	PUNCT	_	
-Keretmegállapodás	keretmegállapodás	NOUN	Case=Nom|Number=Sing	
-megkötése	megkötés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-sportruházat	sportruházat	NOUN	Case=Nom|Number=Sing	
-,	,	PUNCT	_	
-cipő	cipő	NOUN	Case=Nom|Number=Sing	
-és	és	CONJ	_	
-kiegészítő	kiegészítő	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-sportfelszerelés	sportfelszerelés	NOUN	Case=Nom|Number=Sing	
-szállítására	szállítás	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-az	az	DET	Definite=Def|PronType=Art	
-MLSZ	MLSZ	PROPN	Case=Nom|Number=Sing	
-valamennyi	valamennyi	PRON	Case=Nom|Number=Sing|Person=3|PronType=Tot	
-korosztályos	korosztályos	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-válogatottja	válogatott	ADJ	Case=Nom|Degree=Pos|Number=Sing|Number[psor]=Sing|Person[psor]=3|VerbForm=PartPast	
-és	és	CONJ	_	
-egyesületek	egyesület	NOUN	Case=Nom|Number=Plur	
-részére	részére	ADP	_	
-"	"	PUNCT	_	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:48a322c1557eb8b1e81e473221ede500dbb1471e318d93a9461ed7a4c4e16b1f
+size 972

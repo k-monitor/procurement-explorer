@@ -1,1 +1,3 @@
-«Burkolatba épített súlymérők karbantartása, javítása és mérőberendezések karbantartása» 1. rész: Burkolatba épített súlymérők karbantartása, javítása 2. rész: Mérőberendezések karbantartása
+version https://git-lfs.github.com/spec/v1
+oid sha256:678874c889eed9b1b546094749ea773c126a0d0d2f11b7fd19393727bd63268e
+size 219

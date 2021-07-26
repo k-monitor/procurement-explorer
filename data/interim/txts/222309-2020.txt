@@ -1,1 +1,3 @@
-Keretszerződés az egyetemes és az egyetemes postai szolgáltatást helyettesítő postai szolgáltatások végpontok közötti küldemény átfutási idejének országos mérése céljából.
+version https://git-lfs.github.com/spec/v1
+oid sha256:12373936030176751c7f6d97bcd59bad4e2a96492a3e28d8cccdc104a74674e9
+size 194

@@ -1,1 +1,3 @@
-Szentendre Város Önkormányzata és költségvetési szervei részére bankszámlavezetési szolgáltatások nyújtása, folyószámla-hitelkeret biztosítása, munkabér-hitelkeret biztosítása.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0fcd6613a8c4ffd376de144a53b62378040a4dbbcaea9aada5031d73eda78790
+size 198

@@ -1,8 +1,3 @@
-tervezési szerződés kiserőmű létesítés vonatkozó engedélyezési tervdokumentáció elkészítés
-a tervezési feladat rövid ismertetés
-a nhkv zrt. telephely telepítendő
-mwe névleges villamos
-és
-mwt névleges termikus teljesítményű pirolízis alapú kapcsolt energiatermelő egység és segédrendszer
-mint sajátos energetikai létesítmény létesítési engedélyezési tervezés
-az engedély megszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:d73ea746b092ec0ed5e24caa7554f7954e48b2519828330815a78e555d04aacd
+size 425

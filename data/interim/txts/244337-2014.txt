@@ -1,1 +1,3 @@
-Szolgáltatási keretszerződés az FKF Nonprofit Zrt. üzemeltetésében, vagy bérleményében lévő építmények belső alapterületeinek és üvegfelületeinek napi-, heti-, havi takarítására, nagytakarítására, ablakfelület tisztítására, a dokumentációban részletezettek szerint.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d83ef026deb7c9912a325099ec12fa37c3f93e70cd828a02dd35d9febe3aa177
+size 298

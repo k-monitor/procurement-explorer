@@ -1,4 +1,3 @@
-az
-2016.
-korm
-határozat szerinti infrastruktúra-fejlesztés megvalósítás konyhatechnikai eszköz beszerzés a testnevelési egyetem részére adásvételi szerződés keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:06bce3c834f9974a2ee7dc263becfa72129b07505b16e79330bd0b2163cc36aa
+size 177

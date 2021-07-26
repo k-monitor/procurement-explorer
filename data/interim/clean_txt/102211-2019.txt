@@ -1,4 +1,3 @@
-dek-766 _ adásvételi szerződés a debreceni egyetem klinikai központ sebészeti klinika részére ultrahangos szövet disszekciós eszköz és tartozék beszerzés db ultrahangos szövet disszekciós eszköz konzol
-lábpedál
-sebészeti felhasználás
-a részletes paraméter a műszaki leírás tartalmaz
+version https://git-lfs.github.com/spec/v1
+oid sha256:d45219f2cfff0c8ade38b9f1b4b2790bfff20220574e14557e77f5fdb3b3ee96
+size 309

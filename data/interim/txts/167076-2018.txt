@@ -1,1 +1,3 @@
-Parkok és fasorok, játszóterek karbantartása, önkormányzati tulajdonú bel- és külterjes területek kaszálása vállalkozási szerződés keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2c51d17bc9d7f1aac6a5dec09536c4f8eeef1917455f14cdc60be6bf70c09a6e
+size 158

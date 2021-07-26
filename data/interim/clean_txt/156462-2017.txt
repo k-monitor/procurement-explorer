@@ -1,15 +1,3 @@
-az országos pénzügyi fogyasztóvédelmi hálózat kialakítás és működtetés a jelenlegi iroda mellett további megyeszékhely kialakított és működtetett iroda keresztül valósul meg
-ajánlatkérő az alábbi rész szerinti részajánlattétel biztosít
-1. nógrád megye
-salgótarján
-2. somogy megye
-kaposvár
-3. tolna megye
-szekszárd
-4. vas megye
-szombathely
-5. veszprém megye
-veszprém 6. fejér megye
-székesfehérvár
-7. bács-kiskun megye
-kecskemét
+version https://git-lfs.github.com/spec/v1
+oid sha256:e4ab707b02629b445f8d39a19f8c45b456fd6db431171f4787c0ea041af45896
+size 470

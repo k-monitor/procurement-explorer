@@ -1,2 +1,3 @@
-különféle élelmiszer beszerzés a somogy megyei kaposi mór oktató kórház részére keretmegállapodás keret
-a közbeszerzési eljárás keretmegállapodás megkötés irányul a dokumentáció meghatározott mennyiség szerint
+version https://git-lfs.github.com/spec/v1
+oid sha256:504495a35b37814ed4599535b9dfe78817d436c2722941ab2e2e922ced4ae23f
+size 235

@@ -1,8 +1,3 @@
-Megbízási	megbízási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-alapján	alap	NOUN	Case=Sup|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-élőerős	élőerős	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-őrzés-védelem	őrzés-védelem	NOUN	Case=Nom|Number=Sing	
-ellátása	ellátás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:42dd747ba7720cc3795208b20f6d142418019a228552e847c91f74cc696f9930
+size 401

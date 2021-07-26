@@ -1,1 +1,3 @@
-„Projektorok beszerzése” (projektor beszerzése az EFOP-3.2.4-16-2016-00001 [Digitális kompetencia fejlesztése] című projekt keretében)
+version https://git-lfs.github.com/spec/v1
+oid sha256:0b78e07edc35066bcaa8f9176ccde199a014122b067f107e7cb15adad98c7817
+size 145

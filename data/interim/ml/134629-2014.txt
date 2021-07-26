@@ -1,32 +1,3 @@
-Vállalkozási	Vállalkozási	PROPN	Case=Nom|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-Kazincbarcika	kazincbarcika	NOUN	Case=Nom|Number=Sing	
-Város	Város	PROPN	Case=Nom|Number=Sing	
-Szennyvíztisztító	szennyvíztisztító	NOUN	Case=Nom|Number=Sing	
-telepének	telep	NOUN	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-korszerűsítése	korszerűsítés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-és	és	CONJ	_	
-kapcsolódó	kapcsolódó	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-fejlesztések	fejlesztés	NOUN	Case=Nom|Number=Plur	
-(	(	PUNCT	_	
-KEOP-1	KEOP-1	PROPN	Case=Nom|Number=Sing	
-.	.	PUNCT	_	
-
-2.0	2.0	PROPN	Case=Nom|Number=Sing	
-/	/	PUNCT	_	
-09-11-2012-0030	09-11-2012-0030	PROPN	Case=Nom|Number=Sing	
-)	)	PUNCT	_	
-tárgyú	tárgyú	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-projekthez	projekt	NOUN	Case=All|Number=Sing	
-kapcsolódó	kapcsolódó	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-tisztítótelep	tisztítótelep	NOUN	Case=Nom|Number=Sing	
-FIDIC	FIDIC	PROPN	Case=Nom|Number=Sing	
-„	„	PUNCT	_	
-sárga	sárga	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-könyv	könyv	NOUN	Case=Nom|Number=Sing	
-"	"	PUNCT	_	
-szerinti	szerinti	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-kivitelezési	kivitelezési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-tevékenységének	tevékenység	NOUN	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-ellátására	ellátás	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:f5f1b32d4eb1d5c71ec6eb5519f45506eed2016eaa203b417679efa7c3c8dbd5
+size 1489

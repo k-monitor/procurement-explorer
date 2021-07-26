@@ -1,1 +1,3 @@
-Vállalkozási szerződés az M25 autóút Déli ütem (0+000 – 14+617,88 km sz. közötti szakasz) kivitelezési munkáinak elvégzésére.
+version https://git-lfs.github.com/spec/v1
+oid sha256:30dcc9ada31df0acb35c59c4f2e940bb7266c1ce76d91b2427ff2e5bdd1384c3
+size 142

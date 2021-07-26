@@ -1,26 +1,3 @@
-a harkányi gyógy
-és strandfürdő terület az alábbi fejlesztés építési kivitelezési munka
-harkányi termál gyógyfürdő ii
-számú strand épület átalakítás és bővítés medencecsarnok
-a régebbi épületrész a strand tartozó ii
-sz épület
-önálló rendeltetési egység és egy tűzszakasz
-öltöző
-és pihenő szárny
-amely az 1970-es év épült előgyárt vasbeton univázas technológia
-az épület bővít 2000
-a műszaki és funkcionális térrendszer tekintve elavul épület teljes külső
-részleges belső felújítás megy át
-csak kis peremterületi rész elhagyás
-a ii
-sz épület kapcsolódik a iii
-jelű medence
-amely jelenleg nyit és gyógyvíz kevert melegített víz téli-nyári üzemmód működik
-kivitelezés tárgy
-ii
-sz. strandépület kapcsolódó
-fedett medencecsarnok
-a iii
-sz. medence beépített általános
-és egy fiatal szóló kaland-élménymedence
-valamint kiúszócsatorna a csarnok-hoz kapcsolt külső élménymedence
+version https://git-lfs.github.com/spec/v1
+oid sha256:3a666fd99dd6170a7fe8a5a7eef46938d76575e8e34ce72d148de85fa942d29e
+size 981

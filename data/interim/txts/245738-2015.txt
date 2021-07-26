@@ -1,1 +1,3 @@
-Takarítási szolgáltatás megrendelése – Budapest Főváros XIX. Kerület Kispesti Önkormányzat Gazdasági Ellátó Szervezet által fenntartott általános és középiskolák 2015.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5302d3293bd08f0c7ef94d139437f8ddf80ed31e51a6f15bba8d10cf9d59cbe0
+size 189

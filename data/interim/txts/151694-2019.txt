@@ -1,1 +1,3 @@
-Éves szinten legalább 3 000 000 egyedi látogató kiszolgálására alkalmas tartalom menedzser rendszer (portál) megoldás szoftver implementálása, üzembe helyezése, üzemeltetési támogatása, valamint szoftverfejlesztési támogatás.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0e946891eaf2dc5915a208c3a047746a4dc8ab00b2ea777c2ff350a8b80e4b7b
+size 245

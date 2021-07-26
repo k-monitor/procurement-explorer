@@ -1,5 +1,3 @@
-szilárd kommunális hulladék
-zöldhulladék
-szelektív gyűjtött hulladék
-lomtalanítási hulladék gyűjtés
-szállítás mende község közigazgatási terület és ez ártalmatlanítás
+version https://git-lfs.github.com/spec/v1
+oid sha256:9650ea322aed38168db3f926fd4be09f2695735a482706361e0bd000d2fcc9f2
+size 192

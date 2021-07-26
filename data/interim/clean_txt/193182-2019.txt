@@ -1,12 +1,3 @@
-2020. év villamos energia beszerzés feltételes el
-a rendelkezés álló fedezet alacsony mértékű
-ajánlatkérő a fedezet biztosítás érdek pótfedezet vonatkozó igény kíván benyújt
-amennyiben ajánlatkérő a pótfedezet nem vagy az igényelt kis összeg kap meg
-az olyan körülmény kell tekint
-amely miatt az eljárás eredménytelen nyilvánít
-kbt. 53. §
-bekezdés
-ajánlatkérő az előző mellett a pótfedezet folyósítás a közbeszerzési eljárás eredmény megkötendő szerződés hatály lépés felfüggesztő feltétel is kiköt
-kbt.
-§
-bekezdés
+version https://git-lfs.github.com/spec/v1
+oid sha256:d235d13d592c5557ca2d9d20201a0c97594356fdb516e515f935bfd2f093bf9b
+size 578

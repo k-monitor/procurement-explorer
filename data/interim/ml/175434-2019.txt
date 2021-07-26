@@ -1,3 +1,3 @@
-Gyakornoki	gyakornoki	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-program	program	NOUN	Case=Nom|Number=Sing	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:76fbc5dfbff68c6b0803b83b75e946a6617528056c4e8502e3261bffeb78c4aa
+size 103

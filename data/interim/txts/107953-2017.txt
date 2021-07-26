@@ -1,1 +1,3 @@
-Megbízási szerződés – Portaszolgálat és őrzés-védelmi tevékenység ellátása (tűzjelző – és kamerás megfigyelő rendszerek kezelése, valamint parkolási rendszer működtetése Ajánlatkérő telephelyén).
+version https://git-lfs.github.com/spec/v1
+oid sha256:ea6082f64d497a5f9717fa255d8088841e75ac91c126ae2a5eb1117323798e09
+size 226

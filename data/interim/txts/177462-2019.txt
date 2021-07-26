@@ -1,1 +1,3 @@
-Ferencvárosban épülő munkásszálló részére eszközbeszerzés. A közbeszerzésben biztosított a részajánlattétel a jelen felhívás II.1.6) és II.2) pontjában foglaltaknak megfelelően. Részletek a közbeszerzési dokumentumokban.
+version https://git-lfs.github.com/spec/v1
+oid sha256:beac1488c84894dbde10a2c208811f3ce99f78914473373492625b8c81e3e8ba
+size 245

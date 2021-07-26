@@ -1,1 +1,3 @@
-adásvételi szerződés saxs röntgen por diffraktométer beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:5d6cc304e909ad3194adc18b962a47290b44ba1a5768a25bbcf572ab7a060c24
+size 69

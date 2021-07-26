@@ -1,3 +1,3 @@
-modern város program keret megvalósuló
-a debreceni nagyerdő program befejezés
-tárgyú projekt műszaki ellenőri és műszaki bonyolítói feladat
+version https://git-lfs.github.com/spec/v1
+oid sha256:16bbca1c8ec0eb8631a581382f02b0115e12a59fdfa7ada5e5003dca26b4e32d
+size 152

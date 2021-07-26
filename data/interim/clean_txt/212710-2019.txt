@@ -1,1 +1,3 @@
-év villamos energia beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:3ce839262e67a9735d2ca9269272ce69152671387630238d2d8f9c70951dc43c
+size 31

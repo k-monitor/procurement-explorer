@@ -1,11 +1,3 @@
-vállalkozási szerződés a
-szennyvíz infrastruktúra-fejlesztés cegléd
-a fenntartható fejlődés elnevezésű
-projekt
-kódszáj
-keop-1
-2.0
-09-11-2011-0032
-keret
-fidic piros könyv szerint
-kivitelezési munka elvégzés tárgy
+version https://git-lfs.github.com/spec/v1
+oid sha256:f83c481b4883049c3dcbf4d153ad0e6727cbcfe6031f94d82318ca168a9842e9
+size 231

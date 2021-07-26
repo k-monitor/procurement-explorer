@@ -1,1 +1,3 @@
-dek-600m de fok alagsori bővítés és korszerűsítés munka az efop-4
+version https://git-lfs.github.com/spec/v1
+oid sha256:074220f639f17a956e2367d8dddfdc00a0e21b3664a9ec7de3d13f1dd4a5ddf3
+size 72

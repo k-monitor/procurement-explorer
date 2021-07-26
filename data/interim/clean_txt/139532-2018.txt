@@ -1,9 +1,3 @@
-telekommunikációs eszköz útján biztosított jelenlét
-infrastruktúra kiépítés
-meghallgatópontonként
-a jelen beszerzés keret az orfk
-mint a nisz zrt. által kiszolgált szervezet
-az ip alapú nemzeti távközlési gerinchálózat kommunikációs összeköttetés felhasználás db video kommunikációs végponti infrastruktúra kíván országos szint bevezet az érdek
-hogy a büntetőeljárás szóló 2017. évi
-törvény meghatározott szerint az érintett személy részére a telekommunikációs eszköz útján biztosított jelenlét törvény adta lehetőség biztosít tud
-részletes műszaki leírás a közbeszerzési dokumentum található
+version https://git-lfs.github.com/spec/v1
+oid sha256:2ea501529ee060a4b07d02835c0045ec5bd1e023acba9f4d128d5fd0bb8ec3b0
+size 663

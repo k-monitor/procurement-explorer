@@ -1,1 +1,3 @@
-dek-498 bérleti szerződés de-kek részére endoszkópos rendszer bérlet és teljes körű karbantartás tárgy
+version https://git-lfs.github.com/spec/v1
+oid sha256:1e12d2df4da94defe42432853eefac160d2b774abfb5f3272cc150f3556ad5f8
+size 114

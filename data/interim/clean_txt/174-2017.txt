@@ -1,24 +1,3 @@
-ii
-1.4
-rövid meghatározás
-korszerű műtéti és diagnosztikai eszköz beszerzés a pte részére a közbeszerzési dokumentáció meghatározott paraméter
-az alábbi szerint
-1. részajánlat
-anesztéziai munkaállomás
-2. részajánlat
-diagnosztikai eszköz
-3. részajánlat
-műtőasztal
-4. részajánlat
-műtőlámpa
-5. részajánlat
-fóliahegesztő berendezés és gőzsterilizáló autokláv ste
-6. részajánlat
-gőz
-formalinsterilizáló autokláv ste
-7. részajánlat
-lamináris boksz
-8. részajánlat
-multifunkciós magas tudásszintű betegőrző monitor
-tcpo2
-b
+version https://git-lfs.github.com/spec/v1
+oid sha256:a1484ef88f1f2188b87a34098a4996ec480881230e818df904a1968868334170
+size 575

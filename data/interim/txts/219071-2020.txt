@@ -1,1 +1,3 @@
-Trombocita és plazma készítmények tárolására alkalmas transzferzsákok, továbbá szűrő nélküli 4 részes osztó-transzfer zsákrendszer beszerzése
+version https://git-lfs.github.com/spec/v1
+oid sha256:cf156b5bc792920738ce63449ea8f7b47aea08f9a2ccc47af1ee8d0e1d9b3674
+size 159

@@ -1,7 +1,3 @@
-adásvételi szerződés keret a
-komplex hulladékgazdálkodási rendszer fejlesztés pécs város terület
-különös tekintet az elkülönített hulladékgyűjtési
-szállítási és előkezelő rendszer
-elnevezésű kehop-3
-1-15-2017-00021 azonosítószámú projekt megvalósulás szükséges gyűjtő
-és szállítójármű beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:04b25914f6552d6afd8714fd7fd28ee83780130d7232defdb9774ca6c159c60e
+size 339

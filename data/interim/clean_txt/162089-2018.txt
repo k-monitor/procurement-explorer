@@ -1,1 +1,3 @@
-keretmegállapodás tanuszoda üzemeltetés
+version https://git-lfs.github.com/spec/v1
+oid sha256:a50dd975d8426e2dc6eb813be1e789e24d067452afe10ee9a42d3f4a0720c731
+size 43

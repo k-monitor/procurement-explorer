@@ -1,1 +1,3 @@
-Tervezési szerződés/ 1. rész. K026.02. Sajószentpétert elkerülő út a 27. sz. főútig projekt KHT elkészítése, valamint a szakasz engedélyezési és kiviteli terveinek elkészítése. 2.rész. K026.03 Sajószentpéter és Kazincbarcika közös elkerülő II. ütem engedélyezési és kiviteli terveinek elkészítése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:82deb79b6090fd9ed906628a18fe9ff06be8d2b6e82eb19d5cfdc347fc7b4cc9
+size 332

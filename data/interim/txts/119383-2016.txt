@@ -1,1 +1,3 @@
-A Duna Transznacionális Program lebonyolítását támogató monitoring és információs rendszer (Danube Monitoring System DMS) fejlesztése, bevezetése és működés-támogatása.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e085939dbd39030c6528ca409a362fc33ff919ce46930eb14d9c3a4d7f904ddb
+size 185

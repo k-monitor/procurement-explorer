@@ -1,1 +1,3 @@
-Adásvételi szerződés keretében „A súlyponti Kaposi Mór Oktató Kórház komplex infrastruktúra fejlesztése az integrált Somogy megyei, balatoni egészségügyi ellátórendszer érdekében” tárgyú, TIOP-2.2.7-07/2F/2-2009-0001 azonosító jelű projektben orvosi mobíliák beszerzése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bf1479471d97af2f4d12a4a194702030b9785ccf8dd7f70ec4e95803fd7fdb42
+size 302

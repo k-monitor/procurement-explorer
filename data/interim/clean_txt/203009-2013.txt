@@ -1,2 +1,3 @@
-b
-illetve c-típusú mentőgépjármű beszerzés az országos mentőszolgálat részére szállítási szerződés
+version https://git-lfs.github.com/spec/v1
+oid sha256:f36e50ba87860c805bdac6a0b991857a97065c69e3a1829840688a7b80e75d90
+size 115

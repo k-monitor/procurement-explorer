@@ -1,3 +1,3 @@
-szennyvíziszap
-veszélyes hulladék
-gyűjtés
+version https://git-lfs.github.com/spec/v1
+oid sha256:4c6661aa250d09e035cbce77a0428853184a01427c92229c9485dad29128b611
+size 46

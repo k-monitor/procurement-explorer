@@ -1,1 +1,3 @@
-Földgáz energia szállítása teljes ellátás alapú földgáz-kereskedelmi szerződés keretében, 2014-2015. évre, Szeged Megyei Jogú Város Önkormányzata (mint Ajánlatkérő Gesztor) egyes 100%-os tulajdonában levő gazdasági társaságai és egyes fenntartása alatt álló, valamint az általa működtetett oktatási intézményei, a Szegedi Kistérség Szociális Intézménye, összesen 15 Kontakt Szervezethez tartozó felhasználási helyeinek tekintetében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4825070fa7c23500197f2a368e70196911e12383a3632e366fbdb31371225dc6
+size 478

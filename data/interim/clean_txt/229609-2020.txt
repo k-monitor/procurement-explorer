@@ -1,6 +1,3 @@
-a városliget zrt. által vagyonkezel budapest
-kerület
-szabolcs utca
-sz. alatti található országos múzeumi restaurálási és raktározási központ és a budapest
-kerület
-hermina út 57. sz. alatti irodaház intenzív zöldfelület komplex parkfenntartási munka elvégzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:3e2b0ba8db69ac6614dcd72117a0213d30cff17879332504256d44e7df32d048
+size 280

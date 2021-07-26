@@ -1,1 +1,3 @@
-Ajánlatkérő Intézmény részére egy évre szükséges egyszer használatos műtéti izolációs anyagok beszerzése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:564b6dceb88ccc3455f54669bfb1da703329cb2029f91211f19e1dba2e0755db
+size 121

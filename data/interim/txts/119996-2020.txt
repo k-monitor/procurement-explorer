@@ -1,1 +1,3 @@
-Keretmegállapodás a zalaegerszegi járműipari tesztpálya létrehozására irányuló fejlesztés megvalósításához szükséges építési munkák kivitelezésére II.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8db28f2cc51565c4547168174458d9192b4e89efa185985ef3d63e2f81bb9d34
+size 173

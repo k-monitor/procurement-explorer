@@ -1,1 +1,3 @@
-Szállítási szerződés katéterek és katéter tartozékok beszerzésére.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d826ab2075d2c56eea904cab030a2ef5d5631e1e8595787ce51bae041b52ce37
+size 77

@@ -1,16 +1,3 @@
-Adásvételi	adásvételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-villamos	villamos	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-energia	energia	NOUN	Case=Nom|Number=Sing	
-beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-2017.	2017.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
-évre	év	NOUN	Case=Sub|Number=Sing	
-a	a	DET	Definite=Def|PronType=Art	
-Budapesti	Budapesti	PROPN	Case=Nom|Number=Sing	
-Nagybani	nagybani	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-Piac	Piac	PROPN	Case=Nom|Number=Sing	
-Zrt.	Zrt.	PROPN	Case=Nom|Number=Sing	
-részére	részére	ADP	_	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:fa1ec997e82bccd56c4696c5214f121ada9046498cb53f7cd510381f581b047b
+size 714

@@ -1,2 +1,3 @@
-vállalkozási szerződés
-pannonris rendszer support
+version https://git-lfs.github.com/spec/v1
+oid sha256:6606d9c72aacb89301f0ee015504663b8a2ae5b532525b92d249082a1a783d30
+size 53

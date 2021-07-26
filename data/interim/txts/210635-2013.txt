@@ -1,1 +1,3 @@
-Villamos energia beszerzése a Veszprém Megye Jogú Város Önkormányzatához tartozó fogyasztási helyekre teljes ellátás alapú villamosenergia-kereskedelmi szerződés keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:230b30b7501e1075b13b88c53d3fa1eb7448afa965fd21807a721a7b230d34a8
+size 187

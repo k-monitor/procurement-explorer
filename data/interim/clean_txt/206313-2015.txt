@@ -1,1 +1,3 @@
-adásvételi szerződés az esztergomi vaszary kolos kórház részére kórházi ct berendezés beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:3caee53597faa98c282ebe32467ba8b23f2dcb38748fafa1727ddceb191ea5ba
+size 107

@@ -1,1 +1,3 @@
-1. rész vállalkozási szerződés kormányablak kialakításának tervezése felvételi műemléki épületben (Bp. Keleti pu.); 2. rész vállalkozási szerződés kormányablak kialakításának tervezése felvételi műemléki épületben (Bp. Nyugati pu.)
+version https://git-lfs.github.com/spec/v1
+oid sha256:83bf89acf46d09b44fb049b1e9044173d5091ee0ecd169070601ad0211279861
+size 261

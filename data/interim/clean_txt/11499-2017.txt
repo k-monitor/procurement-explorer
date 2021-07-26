@@ -1,2 +1,3 @@
-határozott idejű adás-vételi szerződés keret között kíván beszerez az ajánlatkérő pathológiai és labordiagnosztikai eszköz
-a jelen eljárás megindító felhívás specifikáció szerint rész
+version https://git-lfs.github.com/spec/v1
+oid sha256:2b094322a13317f3c0458fdcf9863ad44e92ba6920571817fcfa4817eb66fc9d
+size 208

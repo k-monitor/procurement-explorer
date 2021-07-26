@@ -1,1 +1,3 @@
-Az Ajánlatkérő üzemeltetésében lévő hulladékgyűjtő udvarokban begyűjtésre kerülő veszélyes és nem veszélyes hulladékok átvétele és elszállítása, és végső kezelése (ártalmatlanítása és/vagy hasznosítása), vagy végső kezelésre átadása, betartva a teljes folyamatra vonatkozó hatályos jogszabályokban foglalt előírásokat.
+version https://git-lfs.github.com/spec/v1
+oid sha256:131fa59828cbb596065bd0c65e31afc243640de166cbbfaef83afe7deb97e146
+size 364

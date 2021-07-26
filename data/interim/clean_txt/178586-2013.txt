@@ -1,6 +1,3 @@
-megbízási szerződés a keop-1
-1.1
-09-11-2011-0001 azonosítószámú
-a
-közép-duna vidék hulladékgazdálkodási rendszer fejlesztés
-című pályázati program megvalósítás szükséges fidic mérnöki és műszaki ellenőri tevékenység ellátás
+version https://git-lfs.github.com/spec/v1
+oid sha256:9e5a6970f917f1ccb3b6c9cb1e2ca831d2195e09c575e42ef00148b7671ed083
+size 256

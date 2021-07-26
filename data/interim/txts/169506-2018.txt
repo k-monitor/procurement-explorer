@@ -1,1 +1,3 @@
-Győr II. János Pál tér és környezetének átalakítása, felújítása vázlatterv, engedélyezési- és kiviteli tervdokumentációjának elkészítése, valamint a kapcsolódó építési engedélyezési eljárás lebonyolítása. - tervezési szerződés keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2e8ab060b1549c1518ad453364c0059a2b47c7cbaa939a2bdeb76ae4070b5eca
+size 275

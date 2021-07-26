@@ -1,14 +1,3 @@
-Szállítási	Szállítási	PROPN	Case=Nom|Number=Sing	
-keretszerződés	keretszerződés	NOUN	Case=Nom|Number=Sing	
-keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-Marrel	marrel	VERB	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	
-felépítményekhez	felépítmény	NOUN	Case=All|Number=Plur	
-gyári	gyári	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-új	új	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-és	és	CONJ	_	
-gyári	gyári	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-felújított	felújított	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPast	
-alkatrészek	alkatrész	NOUN	Case=Nom|Number=Plur	
-beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:0e3713ce5280e46a2e9e3d1497246a31635d35552d4bfe0cee681a6077f4b96c
+size 745

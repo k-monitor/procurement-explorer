@@ -1,1 +1,3 @@
-Hitelszerződés éven túli lejáratú beruházási hitel biztosítása Eger MJV Önkormányzata önkormányzati feladatok ellátását szolgáló út, járda, parkoló és lépcső építés fejlesztések finanszírozásához.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e3d974037f281c7281032f336a26fac65017f047a9ea324550bb4c198a1c4b09
+size 228

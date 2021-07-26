@@ -1,2 +1,3 @@
-debreceni déli gazdasági övezet
-északi rész 1. ütem
+version https://git-lfs.github.com/spec/v1
+oid sha256:32844d2ccb6ef8573efc116675a8e06541868804af8b0c0956d733b68a504a0d
+size 57

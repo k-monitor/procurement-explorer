@@ -1,1 +1,3 @@
-Hulladék gyűjtés és hulladékkezelő létesítménybe történő közszolgáltatói alvállalkozóként való szállítása, hulladék átrakó és hulladékudvar üzemeltetése, valamint kapcsolódó feladatok ellátása Békés megye területén.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2d47d2a15ebec56a1ba0400db3ee67fe6a11bf99fa724b88409cd912d9df232b
+size 252

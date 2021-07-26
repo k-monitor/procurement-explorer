@@ -1,5 +1,3 @@
-db új ald reaktor beszerzés a műszaki leírás részletezett műszaki tartalom
-az ald reaktor telepítés
-installálás
-és nap alatt napi óra személy betanítás
-minimum év jótállás
+version https://git-lfs.github.com/spec/v1
+oid sha256:2bb39d4959dbfba6242e6bea7e32c6276b5c95c71592c8555c8761d30ee8346f
+size 191

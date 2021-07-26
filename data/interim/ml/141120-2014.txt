@@ -1,22 +1,3 @@
-Szállítási	Szállítási	PROPN	Case=Nom|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-hulladékszállító	hulladékszállító	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-célgép	célgép	NOUN	Case=Nom|Number=Sing	
--	-	PUNCT	_	
-,	,	PUNCT	_	
-tehergépjármű	tehergépjármű	NOUN	Case=Nom|Number=Sing	
-új	új	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-gumiabroncs	gumiabroncs	NOUN	Case=Nom|Number=Sing	
-,	,	PUNCT	_	
-tömlő	tömlő	NOUN	Case=Nom|Number=Sing	
-és	és	CONJ	_	
-védőszalag	védőszalag	NOUN	Case=Nom|Number=Sing	
-valamint	valamint	CONJ	_	
-munkagép	munkagép	NOUN	Case=Nom|Number=Sing	
-és	és	CONJ	_	
-személygépjármű	személygépjármű	NOUN	Case=Nom|Number=Sing	
-új	új	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-gumiabroncs	gumiabroncs	NOUN	Case=Nom|Number=Sing	
-szállítására	szállítás	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:85a211a91da902753e759d1413a07ba92d890176bd80fb76eb16d1befae18a3f
+size 895

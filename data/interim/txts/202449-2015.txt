@@ -1,1 +1,3 @@
-Szerződés meghatározása: Adásvételi keretszerződés Tárgya: „Gépbeszerzés TEN-T utak / Emelőkosaras gépjármű beszerzése”.
+version https://git-lfs.github.com/spec/v1
+oid sha256:70209775e2c88aedc18f4eb2814d7dd15201e2149d28cf1c42c4f3f287c5590b
+size 140

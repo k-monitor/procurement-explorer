@@ -1,6 +1,3 @@
-felső-bácskai ivóvízminőség-javító projekt tárgyú projekt
-keop-1
-3.0
-09-11-2011-0038
-keret ivóvízhálózat építés és kapcsolódó tevékenység elvégzés vonatkozó fidic mérnöki
-és műszaki ellenőri feladat ellátás megbízási szerződés alap
+version https://git-lfs.github.com/spec/v1
+oid sha256:dacffe7520a6ce9476a4d9dbd86945a4f79b1e785530175701542fc10ce07409
+size 267

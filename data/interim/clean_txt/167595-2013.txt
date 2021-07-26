@@ -1,2 +1,3 @@
-szolgáltatási szerződés
-web technológia és az avaya call center üzemeltetés kapcsolatos szakértői támogatás beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:4ea5a2dd59558e2f25bff929a0cc7154843f7339c18d12b4dcc0a9fdf4dd2988
+size 130

@@ -1,1 +1,3 @@
-Földgázellátási szerződés a Budapesti Műszaki és Gazdaságtudományi Egyetem részére, a magyar átviteli hálózaton folyamatosan rendelkezésre álló, szabványos minőségű földgázenergia versenypiaci beszerzésére (rendszerhasználat biztosításával együtt) 15.7.2014. (06:00 CET) – 1.7.2015. (06:00 CET) közötti időszakra vonatkozóan, teljes ellátásalapú szerződés keretében, menetrendadási kötelezettség nélkül
+version https://git-lfs.github.com/spec/v1
+oid sha256:71a2d21fc5e51e367c84e155fe5d12240a2952769e4eef74f2312ce9f6aa43bd
+size 450

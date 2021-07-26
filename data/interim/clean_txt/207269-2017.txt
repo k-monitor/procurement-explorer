@@ -1,4 +1,3 @@
-szemészeti műlencse és egyéb speciális szemészeti anyag szállítás a szabolcs-szatmár-bereg megyei kórház és egyetemi oktatókórház részére
-összesen rész határidős adásvételi szerződés keret
-ajánlatkérő az rész tekintet konszignációs raktár biztosítás ír elő
-a beszerzés mennyiségi adat ajánlatkérő rész határoz meg
+version https://git-lfs.github.com/spec/v1
+oid sha256:772f13803722b7186490a671b8088db545559aa84b13c4505a7acaf982cebfdd
+size 357

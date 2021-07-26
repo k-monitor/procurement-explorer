@@ -1,1 +1,3 @@
-EFOP 2.2.18-17-17-2017-00053 azonosító jelű „Betegbiztonság növelését célzó komplex infrastrukturális fejlesztések az egészségügyi ellátórendszerben” elnevezésű, európai uniós támogatással megvalósuló projekt keretében „Vállalkozással vegyes adásvételi szerződésben az EFOP 2.2.18-17-17-2017-00053 azonosító jelű „Betegbiztonság növelését célzó komplex infrastrukturális fejlesztések az egészségügyi ellátórendszerben” projekt keretében Egységes betegazonosító rendszer bevezetése érdekében szükséges eszközök és licencek beszerzése-II”.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7c11d64a1f0812a576081a2b1e04244297e9f0562181c5483fa62d84e249afbb
+size 609

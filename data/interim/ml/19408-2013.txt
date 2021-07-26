@@ -1,18 +1,3 @@
-NCTS	NCTS	PROPN	Case=Nom|Number=Sing	
-és	és	CONJ	_	
-ECS	egy	PROPN	Case=Nom|Number=Sing	
-rendszerek	rendszer	NOUN	Case=Nom|Number=Plur	
-,	,	PUNCT	_	
-valamint	valamint	CONJ	_	
-az	az	DET	Definite=Def|PronType=Art	
-ICS	ICS	PROPN	Case=Nom|Number=Sing	
-és	és	CONJ	_	
-EMCS	EMCS	PROPN	Case=Nom|Number=Sing	
-rendszerek	rendszer	NOUN	Case=Nom|Number=Plur	
-kommunikációjának	kommunikáció	NOUN	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-általános	általános	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-támogatása	támogatás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-és	és	CONJ	_	
-fejlesztése	fejlesztés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:00ad64ad8898a35e3a14c8097e4aefe503c6568941415dfcc78c8e521f1f766a
+size 707

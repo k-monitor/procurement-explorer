@@ -1,8 +1,3 @@
-adásvételi szerződés
-mely tárgy
-a fővárosi hulladékgazdálkodási rendszer környezetbarát technológia bővítés
-a hulladékfeldolgozás és újrahasznosítás arány növelés című keop-1
-1.1
-b
-10-11-2013-0002 azonosítószámú
-európai uniós támogatás megvalósuló projekt rész létesítmény szükséges gép beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:2417a7a0ae0d2bd3d4f60b7d67b198a5acf96b5cb1cbc6d06049d987c5636bd2
+size 341

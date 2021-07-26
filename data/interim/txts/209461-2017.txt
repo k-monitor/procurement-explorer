@@ -1,1 +1,3 @@
-Adásvételi szerződés keretében a szigetszentmiklósi Szakorvosi Rendelőintézet részére. 1. rész: laboratóriumi vegyszerek beszerzése a szükséges labordiagnosztikai készülékek térítésmentes használatba adásával. 2. rész: Zárt vérvételi rendszer szállítása.
+version https://git-lfs.github.com/spec/v1
+oid sha256:23a5c0eb7b78e57850db8ff21988829d1c8902593a6255faebd4f85d5467bf4a
+size 285

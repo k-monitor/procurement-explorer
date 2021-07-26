@@ -1,30 +1,3 @@
-Digitális	digitális	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-röntgengép	röntgengép	NOUN	Case=Nom|Number=Sing	
-60	60	NUM	Case=Nom|NumType=Card|Number=Sing	
-havi	havi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-bérlése	bérlés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-a	a	DET	Definite=Def|PronType=Art	
-Semmelweis	Semmelweis	PROPN	Case=Nom|Number=Sing	
-Egyetem	Egyetem	PROPN	Case=Nom|Number=Sing	
-ÁOK	ÁOK	PROPN	Case=Nom|Number=Sing	
-II	II	PROPN	Case=Nom|Number=Sing	
-.	.	PUNCT	_	
-
-Belgyógyászati	belgyógyászati	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-Klinika	Klinika	PROPN	Case=Nom|Number=Sing	
-részére	részére	ADP	_	
-valamint	valamint	CONJ	_	
-a	a	DET	Definite=Def|PronType=Art	
-röntgenhelyiség	röntgenhelyiség	NOUN	Case=Nom|Number=Sing	
-kialakítása	kialakítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-,	,	PUNCT	_	
-a	a	DET	Definite=Def|PronType=Art	
-berendezés	berendezés	NOUN	Case=Nom|Number=Sing	
-szállítása	szállítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-,	,	PUNCT	_	
-telepítése	telepítés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-és	és	CONJ	_	
-üzembe	üzem	NOUN	Case=Ill|Number=Sing	
-helyezése	helyezés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:a8c43a70c84fb28c0b8c04996d8fcd4eeb5019ca4dc2e3bb2492577d362aecd9
+size 1287

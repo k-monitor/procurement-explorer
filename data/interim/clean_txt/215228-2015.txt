@@ -1,5 +1,3 @@
-régészeti lelőhely végzett régészeti megelőző feltárási szolgáltatás
-szükség szerint geodéziai szolgáltatás
-térinformatikai feldolgozás
-ellátás a hatályos vonatkozó jogszabály alap
-vállalkozási keretszerződés keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:34edee459d0220305a291c3fdb96e8b6367fca6104969b93afde33f1c1766764
+size 242

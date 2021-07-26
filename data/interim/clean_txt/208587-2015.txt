@@ -1,4 +1,3 @@
-a miniszterelnökség tevékenység segítő
-ügyvédi tevékenység kiegészített
-hivatalos közbeszerzési tanácsadó és lebonyolító szolgáltatás beszerzés
-megbízási szerződés keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:3eaa78f5e7fd1da71d07006edaceae6cbc20fba4cfcee8d8befce5dc8a565e01
+size 195

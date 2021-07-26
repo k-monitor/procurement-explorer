@@ -1,5 +1,3 @@
-laboratóriumi anyag beszerzés
-adás-vételi keretszerződés szerződés a bajcsy-zsilinszky kórház használt laboratóriumi anyag beszerzés
-a laboratóriumi vizsgálat végzés cél a meglévő géppark
-illetve nem műszeres analitika eset az alkalmazott meghatározási módszer
-a részletes műszaki leírás és mennyiség a közbeszerzési dokumentum tartalmaz
+version https://git-lfs.github.com/spec/v1
+oid sha256:90fb637eb0ac163b895370974a56bc7731f0c244e3973f6772d71bfaa4da3733
+size 370

@@ -1,1 +1,3 @@
-Keretmegállapodás mélyépítési munkák kivitelezésére.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e4c551757e509dbd6580e87b8ed52c01e32a1e18f7ce16a2cd996f882eb24131
+size 61

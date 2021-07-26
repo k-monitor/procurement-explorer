@@ -1,6 +1,3 @@
-vállalkozási keretszerződés alap a miniszterelnökség
-évi rendezvényszervezési feladat ellátás szükséges teljes körű műszaki-technikai tervezés és kivitelezés
-rendezvénybiztosítási tervezés és kivitelezés
-rendezvénykellék és rendezvénydekoráció
-egyéb látványelem és díszlet tervezés és kivitelezés
-továbbá a kapcsolódó pr és tájékoztatási feladat ellátás
+version https://git-lfs.github.com/spec/v1
+oid sha256:2c9bbec40d2af0214a06b5fc4ced4223ed85cdc99759e958bd45dddc59934e4a
+size 402

@@ -1,6 +1,3 @@
-mkb5
-kg magyarország közigazgatási terület keletkező termék tovább nem használható háztartási hűtőgép gyűjtés
-tárgyévi gépi technológia történő előkezelés és további kezelés történő átadás szolgáltatás-megrendelési szerződés keret a környezetvédelmi termékdíj szóló
-2011. évi
-törvény 22. §
-bekezdés alap
+version https://git-lfs.github.com/spec/v1
+oid sha256:6b54c3ea6954f3355fc270c15669fc69a9422ec7ffdb1cf643e783e4fefcb8d2
+size 352

@@ -1,1 +1,3 @@
-2 darab 3D bioreaktor beszerzése a Pécsi Tudományegyetem GINOP-2.3.2-15-2016-00022 jelű pályázata keretein belül adásvételi szerződés feltételei alapján a közbeszerzési dokumentáció részeként kiadott műszaki leírásban megadott paraméterek alapján. Garancia 1 év, felhasználói szintű oktatás legalább 4 óra, maximum 4 fő. Az Eszközök átadás-átvétele során a Vevő próbával győződik meg arról, hogy azok a rendetetésszerű használatra alkalmasak, rendelkeznek a Szerződésben és annak elválaszthatatlan részét képező dokumentációban – így különösen a Műszaki Leírásban –, valamint a jogszabályokban előírt tulajdonságokkal. Ajánlatkérő próba alatt az eszköz kipróbálását érti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9002aae79ee68d2e1c20ec7de6ae2429f48d75004d887a735a14abd3b9231408
+size 754

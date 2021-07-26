@@ -1,1 +1,3 @@
-Meglévő SUN szerverek és SUN (Hitachi) tárolókhoz garancia kiterjesztés beszerzése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ead07122742584723f538dae83aa2afe726f18dafe9a75cff64a21d747542c35
+size 90

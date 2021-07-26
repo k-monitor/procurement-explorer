@@ -1,9 +1,3 @@
-mobil munkaeszköz beszerzés rész
-1. rész notebook
-kicsi
-2. rész notebook
-közepes
-3. rész tablet
-nagy
-4. rész tablet
-közepes
+version https://git-lfs.github.com/spec/v1
+oid sha256:9e313b97235b5535ce3b3ba38cf356282d8e3282278d3bf549fd65baaf122ea8
+size 132

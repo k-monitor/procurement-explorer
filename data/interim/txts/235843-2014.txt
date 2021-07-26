@@ -1,1 +1,3 @@
-Szállítási szerződés keretében szilárd-hulladék-gazdálkodási rendszer továbbfejlesztése a Heves megyei Regionális Hulladékgazdálkodási Társulás területén” (KEOP-1.1.1/B/10-11-2013-0005) elnevezésű projekt megvalósításához szükséges gépek és járművek beszerzése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:58389d93fad690b761b0c5d3c9b435e7c2ed2025e17cce7f5c6a370184084636
+size 296

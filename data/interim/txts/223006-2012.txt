@@ -1,1 +1,3 @@
-Építési vállalkozási szerződés, amelynek tárgya: Belvárosi Főplébánia templom (MAGYARORSZÁG, Budapest V. ker. Március 15. tér) homlokzatainak veszélytelenítése utáni helyreállítás II. ütemében homlokzatok építészeti helyreállítása, kőfelületeinek, kőszobrászati és fémszerkezeti elemeinek restaurálása.
+version https://git-lfs.github.com/spec/v1
+oid sha256:df9e9b06505b9c60a32147c5cbf100d3404ee49cd4d59e5eb1f62ff065a3d2d2
+size 340

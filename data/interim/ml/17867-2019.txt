@@ -1,34 +1,3 @@
-Új	új	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-,	,	PUNCT	_	
-az	az	DET	Definite=Def|PronType=Art	
-MSZ	MSZ	PROPN	Case=Nom|Number=Sing	
-24203-2	24203-2	NUM	Case=Nom|NumType=Card|Number=Sing	
-szerinti	szerinti	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-'	'	PUNCT	_	
-C	C	NOUN	Case=Nom|Number=Sing	
-típusú	típusú	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-'	'	PUNCT	_	
-tornacsarnok	tornacsarnok	NOUN	Case=Nom|Number=Sing	
-és	és	CONJ	_	
-a	a	DET	Definite=Def|PronType=Art	
-vele	vele	PRON	Case=Ins|Number=Sing|Person=3|PronType=Prs	
-összekapcsolt	összekapcsolt	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPast	
-vívócsarnok	vívócsarnok	NOUN	Case=Nom|Number=Sing	
-létesítése	létesítés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-a	a	DET	Definite=Def|PronType=Art	
-szükséges	szükséges	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-infrastruktúra	infrastruktúra	NOUN	Case=Nom|Number=Sing	
-figyelembe	figyelem	NOUN	Case=Ill|Number=Sing	
-vételével	vétel	NOUN	Case=Ins|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-,	,	PUNCT	_	
-az	az	DET	Definite=Def|PronType=Art	
-előírt	előírt	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPast	
-eszköz	eszköz	NOUN	Case=Nom|Number=Sing	
-és	és	CONJ	_	
-sporttechnológia	sporttechnológia	NOUN	Case=Nom|Number=Sing	
-Beszerzésekkel	beszerzés	NOUN	Case=Ins|Number=Plur	
-,	,	PUNCT	_	
-környezetrendezéssel	környezetrendezés	NOUN	Case=Ins|Number=Sing	
-komplexen	komplexen	ADJ	Case=Ess|Degree=Pos|Number=Sing	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:3a59d81a35bd6bab157e8fa0f28597b379191384050cef7e487f4e49ab4394c3
+size 1477

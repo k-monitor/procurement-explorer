@@ -1,6 +1,3 @@
-szerződés meghatározás
-hitelszerződés
-szerződés tárgy
-beruházási célú hitelkeret és folyószámlahitel-keret
-valamint ez kapcsolódó számlavezetés biztosítás a mecs
-dráva hulladékgazdálkodási projekt kapcsolódó
+version https://git-lfs.github.com/spec/v1
+oid sha256:e6861afd1ebce52233e2808a854280f438eaa73bc61adc34582f7eefaa20d6e0
+size 235

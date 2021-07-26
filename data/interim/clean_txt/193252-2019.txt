@@ -1,30 +1,3 @@
-a kiegészítő közbeszerzési dokumentum
-kkd
-meghatározott műszaki specifikáció megfelelő zárt vérvételi rendszer ajánlatkérő
-ak
-általi megvásárlás részajánlati kör biztosítás nélkül
-ak a
-2015.
-10.
-korm r.
-46. §
-bek alkalmaz
-mely szerint
-ahol a közbeszerzés tárgy egyértelmű és közérthető meghatározás szükséges tesz meghatározott gyártmányú
-eredetű
-típusú dolog
-eljárás
-tevékenység
-személy
-szabadalom vagy védjegy való hivatkozás
-ez a konkrét eset a megnevezés csak a tárgy jelleg egyértelmű meghatározás érdek történik
-és a megnevezés mellett
-vagy az egyenértékű
-terminus minden eset alkalmaz ak
-az minden eset ért kell
-ajánlattevő
-at
-eszerint tesz meg ajánlat
-az egyenértékűség az ajánlat at kell kell igazol
-érvénytelen az ajánlat
-ha a megajánlott termék műszaki nem felel meg ak által meghatározott műszak követelmény foglalt feltétel
+version https://git-lfs.github.com/spec/v1
+oid sha256:59aff1e115f94cedb6562ef11ba58ab71a37d32227725189f8d09e2ca07a8e07
+size 928

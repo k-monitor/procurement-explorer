@@ -1,1 +1,3 @@
-Vállalkozási szerződés (részajánlatonként: lineáris gyorsítók, angiográfiás berendezés, szimulátorok) „full szerviz” szolgáltatására, karbantartására, javítására, alkatrészellátására.
+version https://git-lfs.github.com/spec/v1
+oid sha256:62ffbbc38c717beb368e7a1706406f998cfe9ffc6cecd7b8bb89ba25df959db8
+size 213

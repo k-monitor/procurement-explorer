@@ -1,1 +1,3 @@
-Vállalkozási szerződés élőhely-kezelési és fenntartási feladatok ellátására.
+version https://git-lfs.github.com/spec/v1
+oid sha256:09c99592f448963cfef4661c53f8ed201ef94423cf1c441cc350f04e56c8868c
+size 88

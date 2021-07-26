@@ -1,1 +1,3 @@
-Stabil hőkamera rendszer rekonstrukciója – keretmegállapodás.
+version https://git-lfs.github.com/spec/v1
+oid sha256:300bafef1a05418c469a4e0eda383f9b3e5703130e19c8615c736003bcc82654
+size 67

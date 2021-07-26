@@ -1,1 +1,3 @@
-Távvezetéki hibaelhárítási és új fogyasztók bekötési munkáira keretszerződés a Főtáv Zrt. részére.
+version https://git-lfs.github.com/spec/v1
+oid sha256:74daeca80535b0398ac39287707ea850a0f8c5f65f5a5f1f4497e69f3dc7c1f9
+size 115

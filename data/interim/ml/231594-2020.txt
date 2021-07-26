@@ -1,10 +1,3 @@
-Keretmegállapodás	keretmegállapodás	NOUN	Case=Nom|Number=Sing	
-az	az	DET	Definite=Def|PronType=Art	
-RVTV	RVtv	NOUN	Case=Nom|Number=Sing	
-portál	portál	NOUN	Case=Nom|Number=Sing	
-továbbfejlesztésére	továbbfejlesztés	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-és	és	CONJ	_	
-kapcsolódó	kapcsolódó	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-rendszerek	rendszer	NOUN	Case=Nom|Number=Plur	
-kifejlesztésére	kifejlesztés	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:fb44abc3111915ac3235aed2ffc09e3a1241f14204cbeb899dd94ebcc13db32b
+size 523

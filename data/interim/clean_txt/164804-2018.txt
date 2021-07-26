@@ -1,22 +1,3 @@
-az országos közúthálózat végez közútkezelői tevékenység
-évi ellenőrzés egyes rész
-1. rész
-észak-magyarország régió
-ii
-rész
-észak-alföld régió
-iii
-rész
-dél-alföld régió
-rész
-közép-magyarország régió
-5. rész
-közép-dunántúl régió
-rész
-nyugat-dunántúl régió
-vii
-rész
-dél-dunántúl régió
-megbízási szerződés
-e
-keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:16bded1c914d7cc76723839d7470596361143e4794d128876888bde401a9a332
+size 367

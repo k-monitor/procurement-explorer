@@ -1,9 +1,3 @@
-kecskemét megyei jogú város önkormányzata által megrendelendő mélyépítési a mennyiség megadott tárgy szerinti munka teljes körű építési lebonyolítás támogató szakértői feladat
-műszaki ellenőri
-ellenőrző mérnöki
-fidic mérnöki
-műszaki szakértő
-tervellenőri feladat
-ellátás
-adott eset a fidic rendszer feltétel szerint
-keretmegállapodás
+version https://git-lfs.github.com/spec/v1
+oid sha256:005e748e9910c604f44d1d7eef7e5e68dbbaa23953df430417f4f19a514eb85e
+size 374

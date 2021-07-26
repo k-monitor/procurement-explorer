@@ -1,1 +1,3 @@
-vállalkozási szerződés gönyű község közétkeztetési feladat ellátás
+version https://git-lfs.github.com/spec/v1
+oid sha256:a2d28a7152b1cf7ef18dd68b01ddbcbfbac1a4bbb883929ead0e3d72855a18b1
+size 79

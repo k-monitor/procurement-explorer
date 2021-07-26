@@ -1,1 +1,3 @@
-Megbízási szerződés a „Mosoni-Duna torkolati szakaszának vízszint rehabilitációja” című, KEHOP-1.3.0-15-2016-00012 azonosító számú projektben tervezésre és kivitelezésre FIDIC Sárga Könyv szerint megkötésre kerülő szerződésben foglalt munkák FIDIC mérnöki, és műszaki ellenőrzési feladatainak ellátása tárgyában.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3ca1e151c1e22033297d32e38cc7ccede66e3c641c73ec9fb84c41459c7ae91b
+size 352

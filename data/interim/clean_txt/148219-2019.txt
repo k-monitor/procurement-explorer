@@ -1,4 +1,3 @@
-vekop-5
-3.-17-2017-00001 kódszámú
-ér
-búvár utca ingatlan tervezett intézmény megközelítés
+version https://git-lfs.github.com/spec/v1
+oid sha256:aeeaf89a011ab22fe366da2fcb4dfbff067be1fdceed4b4bd77ab577903bef4a
+size 100

@@ -1,1 +1,3 @@
-Természetvédelmi felmérések, vizsgálatok és mérések elvégzése SKHU/1601/1.1/035 azonosító számú projekt keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7f367aedf82bce3e2eea39e01ddfdb7b0617d825cca34375d039e1fca4dbc7cf
+size 129

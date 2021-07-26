@@ -1,1 +1,3 @@
-Élőerős őrzés-védelem és portaszolgálat nyújtása a Vas Megyei Kormányhivatal részére. A részletes követelményrendszer meghatározásával kapcsolatosan az Ajánlati Dokumentáció ad tájékoztatást.
+version https://git-lfs.github.com/spec/v1
+oid sha256:69b2d9fc0b5640814cfd05ef04fafa367499ce9556c2b49ed75a7c1a53425664
+size 216

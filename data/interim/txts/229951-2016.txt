@@ -1,1 +1,3 @@
-A Terror Háza Múzeum és az előtte lévő két műtárgy (vasfüggöny emlékmű és berlini fal darabja) és az időszaki kiállítások 24 órás, folyamatos őrzés-védelmi feladatainak (portaszolgálat és élőerős őrzés-védelmi feladatok) ellátása vállalkozási szerződés keretében. Tekintettel arra, hogy a közbeszerzés tárgya egy típusú szolgáltatás megrendelése, a hatékony és felelős gazdálkodás elvét szem előtt tartva egy gazdasági szereplő tudja a feladatot leggazdaságosabban elvégezni, ezért a részekre történő ajánlattétel nem biztosított.
+version https://git-lfs.github.com/spec/v1
+oid sha256:314447b1ec9bfd71a284d48b283e12d786ce640d342a1c6d325be7e964b1318f
+size 596

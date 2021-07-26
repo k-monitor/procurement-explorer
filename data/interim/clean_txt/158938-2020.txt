@@ -1,1 +1,3 @@
-adás-vételi szerződés keret ajánlatkérő az intézmény részére hónap sebészeti varrófonal konszignációs raktár üzemeltetés kíván megvásárol
+version https://git-lfs.github.com/spec/v1
+oid sha256:821efff6bb50ec7f151c2d431435596f5dd9b7c0126a822b6a1ced53e2a014df
+size 160

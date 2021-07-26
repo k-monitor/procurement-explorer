@@ -1,1 +1,3 @@
-INTUT-SAP licencek követése 2017. Az Ajánlatkérő által használt SAP licenszek vonatkozásában az SAP, mint gyártó által deklarált „SAP Standard Support” licenszkövetési szolgáltatás beszerzése szoftverkövetési szerződés keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f079cb02e7dd1f051176b036d36bc81e6fce3fc1d6e4725bb59c800ebc575fe9
+size 256

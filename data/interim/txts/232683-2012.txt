@@ -1,1 +1,3 @@
-FLYGT szivattyúk preventív karbantartása, értéknövelő felújítása, kiszállási idő biztosítása, eseti javítása és üzemzavar elhárítása.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4299df69ba2a73f3db17488ff1c4185b8bff016ffe124013d42920435cb5f536
+size 155

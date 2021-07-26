@@ -1,1 +1,3 @@
-Vállalkozási szerződés keretében 12 + 12 hónap időtartamra az ajánlatkérő egészségügyi intézményben a teljes körű élelmezési szolgáltatás (ajánlatkérő fekvőbetegei és személyzete közétkeztetésének folyamatos) biztosítása kiszállítással, továbbá folyamatos együttműködés, ill. egyeztetés Ajánlatkérő dietetikai szakembereivel a diétás menü kialakítására vonatkozóan.
+version https://git-lfs.github.com/spec/v1
+oid sha256:481f10fce7f017a382769971c57093aca096bdb3637cf384c87dd0ce9346e4c5
+size 418

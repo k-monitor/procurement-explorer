@@ -1,1 +1,3 @@
-Megbízási szerződés a KEOP-1.2.0/2F/09-2010-0077 számú pályázat keretében, Lajosmizse város csatornahálózatának kiépítése és szennyvíztisztító telepének bővítése projekttel kapcsolatos FIDIC mérnöki és műszaki ellenőri feladatok teljes körű ellátására.
+version https://git-lfs.github.com/spec/v1
+oid sha256:892efccc8611342f58f86fd8b19be6043aa3e548d13d1d7194bb04dabe06f041
+size 286

@@ -1,11 +1,3 @@
-vállalkozási szerződés
-önkormányzati koordinációs rendszer
-a további
-ökr
-továbbfejlesztés keret informatikai keretrendszer kialakítás
-a további
-keretrendszer
-a kialakított keretrendszer kapcsolódó
-egyedi megrendelés alap jogszabálykövetés
-szoftvermódosítás
-valamint oktatás
+version https://git-lfs.github.com/spec/v1
+oid sha256:81ecac3bb52a99e398f4f3eefb1c2a29af2754e20234e0484d7cd4ef2526c1e6
+size 299

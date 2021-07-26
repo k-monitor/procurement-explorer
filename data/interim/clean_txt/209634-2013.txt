@@ -1,2 +1,3 @@
-a fertő
-neusiedlersee kultúrtáj világörökségi helyszín és védőövezet vonatkozó világörökségi kezelési terv szakmai előkészítés szolgáló megalapozó dokumentáció és világörökségi kezelési terv elkészítés
+version https://git-lfs.github.com/spec/v1
+oid sha256:8d2e39e12724301619fc9f83004ce18e40ee8aff503fb915de764352aa1fc580
+size 237

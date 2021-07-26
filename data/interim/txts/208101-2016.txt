@@ -1,1 +1,3 @@
-10 300 m³ (+ 15 %) mennyiségű kommunális és építési hulladék (Azonosító kód: 20 03 99 és / vagy 20 03 07) összegyűjtése, elszállítása és kezelése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:648a41537fb527d249220162e0f8f1daecc2040ace6bddaa4ab2593c1a867914
+size 167

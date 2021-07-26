@@ -1,1 +1,3 @@
-Adás-vételi szerződés. Főzési alapanyagok beszerzése 7 „rész”-ben, gyermekélelmezés, egészségügyi, és szociális intézményi élelmezés céljából.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e14fa2f33d75c036157b1ab5ba63ee743be98a355f8038516301df34ff7e3cbf
+size 168

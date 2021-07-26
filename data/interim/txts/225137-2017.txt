@@ -1,1 +1,3 @@
-Az Országos Mentőszolgálat által sürgősségi betegellátáshoz használt, rendszeresített gyógyszerek ATC-kódok szerinti hatóanyagok) beszerzése és az ellátási területekre történő szállítása. Kbt.105.§(2)bekezdés a) pontja szerinti keretmegállapodás megkötésére 9 részajánlati körben.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8ee609cdcdc46e91c105d8d0147b28cac9a6e9de21416d92ca12acef9aac2377
+size 315

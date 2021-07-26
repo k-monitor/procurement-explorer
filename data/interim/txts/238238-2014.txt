@@ -1,1 +1,3 @@
-Szállítási keretszerződés/ Tisztítószerek és higiéniás szerek beszerzése a Budapest Főváros XIV Kerület Zugló Önkormányzata fenntartásában működő intézmények részére.
+version https://git-lfs.github.com/spec/v1
+oid sha256:da3870f027e05c6090b92b17135aaefc4e92cfaab233b254a1aa279dfe3a446d
+size 192

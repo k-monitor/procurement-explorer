@@ -1,1 +1,3 @@
-Szállítási szerződés az MTVA műsorkészítési feladatainak ellátásához szükséges tehergépjárművek szállítására.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b77b896e8de1d92bd6b6ef580fa6da401cfd1ec70a86310064dad895411062b3
+size 130

@@ -1,12 +1,3 @@
-ajánlatkérő és további ajánlatkérő által igényelt
-mindösszesen m³
-mennyiségű
-a magyar földgázhálózat folyamatos rendelkezés álló
-a hatályos magyar szabvány szerinti
-msz
-h minőségű földgáz energia szállítás
-óra és 1.10.2018
-óra közötti időszak
-teljes ellátás alapú földgáz-kereskedelmi szerződés keret
-a megadott alacsony mennyiség
-a opcionálisan igény vehető
+version https://git-lfs.github.com/spec/v1
+oid sha256:4a2861760d15f274fac63196e6841b7cc1ba8457b9eab26ef5953b51f592bc0c
+size 406

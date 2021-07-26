@@ -1,2 +1,3 @@
-vállalkozási szerződés az mnb automata értéktári rendszer elem teljes körű műszaki karbantartási feladat és műszaki segítségnyújtási munkálat ellátás
-valamint teljes körű javítási feladat és alkatrész biztosítás
+version https://git-lfs.github.com/spec/v1
+oid sha256:0584e0e4f98772099deb4937d69216973174c893da8685125c35b4213c2a544d
+size 239

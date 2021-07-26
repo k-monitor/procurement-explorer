@@ -1,1 +1,3 @@
-földgáz beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:815baaf133e3c04d3fe69c8123a426eba71fb1431bb6031a146d405fccab653e
+size 20

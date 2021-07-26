@@ -1,1 +1,3 @@
-Adásvételi szerződés keretében a „Komplex hulladékgazdálkodási rendszer fejlesztése az Abaúj-Zempléni Szilárdhulladék Gazdálkodási Önkormányzati Társulás és a Hernád Völgye és Térsége Szilárdhulladék-kezelési Önkormányzati Társulás területén, különös tekintettel az elkülönített hulladékgyűjtési, szállítási és előkezelő rendszerre” elnevezésű KEHOP-3.2.1-15-2017-00015 azonosítószámú projekt megvalósulásához szükséges gyűjtő- és szállítójármű-vek beszerzése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:90fe4b7dc21519637033e0f807343d332ec6a5b6e66b643d3b567fbfd1eccf39
+size 533

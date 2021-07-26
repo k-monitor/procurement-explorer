@@ -1,1 +1,3 @@
-Fasori fák és közterületi parkfák ápolása, fenntartása vállalkozási szerződés keretében
+version https://git-lfs.github.com/spec/v1
+oid sha256:d65a0f5d3a4ce2e989928c4f682e5be501a561781511047a51e2b3496d4b97c5
+size 100

@@ -1,9 +1,3 @@
-keretmegállapodás a rendészeti továbbképzési feladat ellátás szükséges tananyag fejlesztési szolgáltatás beszerzésére-nettó huf keretösszeg
-ajánlatkérő a közbeszerzés mennyiség a rendelkezés álló keretösszeg
-amely megegyezik a becsült érték
-megadás határoz meg
-a keretösszeg erő megrendelhető teljes mennyiség előre pontos nem határozható meg
-ajánlatkérő a várható mennyiség közöl az
-hogy ajánlatkérő a keretmegállapodás alap előre vállalt beszerzési kötelezettség nincs
-kötelezettség vállalás kizárólag a km eljárás második rész lefolytatás keletkezik
-részletes követelmény a közbeszerzési dokumentum
+version https://git-lfs.github.com/spec/v1
+oid sha256:80a4686240f6e6357a05c79391fd72f5c1994862c22427802bb346ab3862d1b1
+size 674

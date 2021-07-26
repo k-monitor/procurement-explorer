@@ -1,1 +1,3 @@
-A Modern Városok Program keretében megvalósuló Békéscsabai Nyomdaipari Tudás- és Képzőközpont kialakítása elnevezésű projekt megvalósításához a Tanműhelyben elhelyezendő gépek, berendezések beszerzése adásvételi szerződés keretében. (Iktatószám: GF/SZKF/518/7/2017)
+version https://git-lfs.github.com/spec/v1
+oid sha256:2a178727d924631d18b8dbc71b3b7d007354ca4cfa936d54d7a1d0ea5ed284ca
+size 296

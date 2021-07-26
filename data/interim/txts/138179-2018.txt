@@ -1,1 +1,3 @@
-„A Bevándorlási és Menekültügyi Hivatal objektumainak élőerős őrzés-védelmi és portaszolgálati tevékenység ellátása”összesen 8 részben.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7c4841e8baa12e6b297f17415edd0c13e9823f85b7dbc58595ffb24b4bc99f9b
+size 158

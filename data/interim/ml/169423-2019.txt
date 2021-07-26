@@ -1,25 +1,3 @@
-«	«	PUNCT	_	
-A	a	DET	Definite=Def|PronType=Art	
-1021	1021	NUM	Case=Nom|NumType=Card|Number=Sing	
-Budapest	Budapest	PROPN	Case=Nom|Number=Sing	
-,	,	PUNCT	_	
-Völgy	völgy	NOUN	Case=Nom|Number=Sing	
-u.	u.	PROPN	Case=Nom|Number=Sing	
-20-22	20-22	NUM	Case=Nom|NumType[sem]=Result|Number=Sing	
-.	.	PUNCT	_	
-,	,	PUNCT	_	
-hrsz.	hrsz.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
-11403	11403	NUM	Case=Nom|NumType=Card|Number=Sing	
-ingatlanon	ingatlan	NOUN	Case=Sup|Number=Sing	
-meglévő	meglévő	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-épületek	épület	NOUN	Case=Nom|Number=Plur	
-átalakítása	átalakítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-és	és	CONJ	_	
-bővítése	bővítés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-Gyermekek	gyermekek	PROPN	Case=Nom|Number=Sing	
-Háza	Háza	PROPN	Case=Nom|Number=Sing	
-Iskola	Iskola	PROPN	Case=Nom|Number=Sing	
-Tagintézmény	tagintézmény	NOUN	Case=Nom|Number=Sing	
-elhelyezése	elhelyezés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-»	»	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:acc62b92e7f5c6e476658d53247a5c087de101937c419df61c76f96133d6efab
+size 1063

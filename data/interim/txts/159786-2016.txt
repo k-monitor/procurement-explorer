@@ -1,1 +1,3 @@
-Általános felhasználású villamos energia beszerzése a 1.7.2016 00:00 CET – 30.6.2017 24:00 CET közötti időszakban teljes ellátás alapú villamos energia kereskedelmi szerződés keretében, 32 000 000 kWh mennyiségben. Az ajánlatkérő a megadott mennyiségtől pozitív irányba 50 %-kal pótdíjmentesen eltérhet.
+version https://git-lfs.github.com/spec/v1
+oid sha256:818d0bb3b70fbde7f85a5106b601286d3c4bf5d69bce0fee69232d5087d84d87
+size 331

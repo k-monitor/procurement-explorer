@@ -1,26 +1,3 @@
-Fővárosi	Fővárosi	PROPN	Case=Nom|Number=Sing	
-Vízművek	vízmű	NOUN	Case=Nom|Number=Plur	
-Zrt.	Zrt.	PROPN	Case=Nom|Number=Sing	
-által	által	ADP	_	
-iratkezelésre	iratkezelés	NOUN	Case=Sub|Number=Sing	
-használt	használt	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPast	
-ELO	ELO	PROPN	Case=Nom|Number=Sing	
-Professional	Professional	PROPN	Case=Nom|Number=Sing	
-rendszer	rendszer	NOUN	Case=Nom|Number=Sing	
-,	,	PUNCT	_	
-az	az	DET	Definite=Def|PronType=Art	
-OpenText	OpenText	PROPN	Case=Nom|Number=Sing	
-Livelink	Livelink	PROPN	Case=Nom|Number=Sing	
-rendszerek	rendszer	NOUN	Case=Nom|Number=Plur	
-karbantartásának	karbantartás	NOUN	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-és	és	CONJ	_	
-üzemeltetésének	üzemeltetés	NOUN	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-,	,	PUNCT	_	
-továbbfejlesztésének	továbbfejlesztés	NOUN	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-,	,	PUNCT	_	
-valamint	valamint	CONJ	_	
-kapcsolódó	kapcsolódó	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-SAP	SAP	PROPN	Case=Nom|Number=Sing	
-fejlesztések	fejlesztés	NOUN	Case=Nom|Number=Plur	
-biztosítása	biztosítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:08790418c47aa900ab52bd7fa33a14e8f5d0a4c6efb95cec7eacb72ac53668c4
+size 1224

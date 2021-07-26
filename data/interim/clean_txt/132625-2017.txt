@@ -1,2 +1,3 @@
-évi felújítandó útvonal engedélyezési és kiviteli terv elkészítés
-3., 4. és 5. tervezési csomag
+version https://git-lfs.github.com/spec/v1
+oid sha256:455bdd5f76b30da0bd8f69a1627816df94c680773d86f60eb241af5c93a2bbbb
+size 108

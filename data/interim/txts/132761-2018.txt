@@ -1,1 +1,3 @@
-Az EFOP-4.2.1-16-2017-00014 „SZTE ÁOK volt Sebészeti Klinika áttervezése Egészségtudományi Képzési Tömbbé” tárgyú projekt megvalósításához szükséges tervezési szolgáltatások nyújtása.
+version https://git-lfs.github.com/spec/v1
+oid sha256:79264bae23dbfc6271f153f0a58fbb8c8d697981220b5ad0a29014eb0fbad108
+size 211

@@ -1,1 +1,3 @@
-ct beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:3f3b41810bcf0837c60649fa78c974f448257db68b9bee4914e59aae87ee951e
+size 13

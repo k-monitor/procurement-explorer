@@ -1,5 +1,3 @@
-az ajánlatkérő részére a magyar földgáz hálózat folyamatos rendelkezés álló
-szabványos minőségű földgáz energia versenypiaci beszerzés 2018. 10. 1.
-óra és 2019. 10. 1.
-óra közötti időszak vonatkozó
-teljes ellátás alapú földgáz-kereskedelmi szerződés keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:6fa2b9389f1e1e4d8ddf1ab11386790915d0577479654858082bff85c47d86c1
+size 288

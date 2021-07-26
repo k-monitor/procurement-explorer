@@ -1,8 +1,3 @@
-Adásvételi	adásvételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-21	21	NUM	Case=Nom|NumType=Card|Number=Sing	
-darab	darab	NOUN	Case=Nom|Number=Sing	
-személygépjármű	személygépjármű	NOUN	Case=Nom|Number=Sing	
-beszerzésére	beszerzés	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:8844fef7935d94cb6c09cc2b1e078a0383ec5d9c200d9de37546c9f65574ac7a
+size 365

@@ -1,1 +1,3 @@
-Vállalkozási szerződés a Bevándorlási és Állampolgársági Hivatal objektumainak általános őrzés-védelmi és portaszolgálati feladataira.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bddd9630d49f3d0982e896778164b61c8c2bc153b91c7016f9c57ac2049bf08c
+size 151

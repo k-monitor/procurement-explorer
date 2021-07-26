@@ -1,1 +1,3 @@
-Megbízási szerződés, melynek tárgya „Az elővárosi vasútvonalak megállóhelyei megközelítésének fejlesztése, a ráhordás feltételeinek javítása: P+R és B+R parkolók, buszfordulók építéséhez kapcsolódó lebonyolító mérnöki tevékenység ellátása, valamint a kivitelezésre vonatkozó közbeszerzési eljárás előkészítésében és lefolytatásában való szakértői közreműködés”.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b09245b4827a641ab6f3295a67ec03809a1a4fbc679f602b4876b4f508cf72c3
+size 423

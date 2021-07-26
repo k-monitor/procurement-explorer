@@ -1,4 +1,3 @@
-szerződés meghatározás
-adásvételi keretszerződés tárgya
-gépbeszerzés ten út
-univerzális eszközhordozó és adapter beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:c8fb6ecbf384bbe01de69ef996375ca664ab38d7302b3cb0063d02a554b665a0
+size 139

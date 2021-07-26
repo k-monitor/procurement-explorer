@@ -1,10 +1,3 @@
-vállalkozási szerződés a
-budapesti egészségügyi intézmény energetikai korszerűsítés
-című
-kehop-5
-2.2
-16-2016-00107 azonosító számú projekt keret a dél-pesti jahn ferenc kórház
-b
-e
-és
-h
+version https://git-lfs.github.com/spec/v1
+oid sha256:0cdc139824e2241449ea161ba852b86c35aa0107602f36df3735eb93743b4f22
+size 206

@@ -1,1 +1,3 @@
-Békéscsaba Megyei Jogú Város szennyvíztisztításának és csatornázásának fejlesztése című, KEOP-1.2.0/2F-2008-0003 azonosító számú projekthez kapcsolódó közművagyon-értékelés vállalkozási szerződés keretében. Az ajánlattevő feladata egy átfogó vagyonértékelés lefolytatása, illetve vagyonleltár létrehozása, amely lehetővé teszi az üzemeltetett víziközmű törzsvagyon valós műszaki állapotát és pótlási költségét tükröző vagyonérték kimutatását, a fenntartható vagyongazdálkodáshoz szükséges értékcsökkenési tömeg képzését, valamint a hosszú távú rekonstrukciós igények előrejelzését. A vagyonértékelésnek a meglévő és a projekt keretében megvalósult víziközmű vagyonra (szennyvízcsatorna-hálózat és szennyvíztisztító-telep) kell kiterjednie. A feladat részletes leírását az ajánlati dokumentáció tartalmazza.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e875d0db3ef52ef2582eefbf108496ab77996b184aca81d8dcf74d4d226f930c
+size 918

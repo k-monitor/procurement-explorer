@@ -1,1 +1,3 @@
-Különféle kórházi textíliák beszerzése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5d8498d724f7bcf51e9f07c8410e4111af79cf71d439498c934e4dfee3ba625b
+size 47

@@ -1,7 +1,3 @@
-tréler beszerzés adásvételi keretszerződés keret részajánlat az alábbi szerint
-1. részajánlat
-db t hasznos tömegű
-tréler beszerzés
-2. részajánlat
-db t hasznos tömegű
-tréler beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:540c4f0812abab321ba5f1d60cf514f32de9807ce866fe89b7b950ef56788b3f
+size 203

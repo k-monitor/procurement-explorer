@@ -1,1 +1,3 @@
-Vállalkozási szerződés új sportcsarnok és kapcsolódó létesítmények megvalósítására.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e36c8bda16af16ab9af61d43e382c7cc2738dff32594e4e14aa354e57c54dc37
+size 98

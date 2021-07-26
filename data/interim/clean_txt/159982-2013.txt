@@ -1,5 +1,3 @@
-vállalkozási szerződés dánszentmiklós-nyáregyháza szennyvízelvezetés és tisztítás ii
-ütem tárgyú
-keop-1
-2.0
-09-11-2012-0004 azonosító számú projekt kapcsolódó kivitelezési munka elvégzés fidic piros könyv szerint
+version https://git-lfs.github.com/spec/v1
+oid sha256:23e023f8efd0c57a35bbaaa28c88fc17c5ead84783ea41d24295ae06649a5e0c
+size 238

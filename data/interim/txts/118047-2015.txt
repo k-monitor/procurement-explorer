@@ -1,1 +1,3 @@
-Kötszer beszerzése határidős adásvételi szerződés keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cc10116ccf5ef0f3522532e19da0114772638f0676d09feecf8c08e579404d39
+size 69

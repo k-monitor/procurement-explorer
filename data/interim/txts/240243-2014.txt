@@ -1,1 +1,3 @@
-Keretmegállapodás közfoglalkoztatási programok lebonyolításához szállítójárművek bérletére.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fee2f0696d9825b6cc06021554fd62363f3de4de8b3d7e448832724ac1badac7
+size 105

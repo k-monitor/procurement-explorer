@@ -1,1 +1,3 @@
-budakalász város önkormányzat fenntartás levő közintézmény részére közétkeztetési szolgáltatás nyújtás
+version https://git-lfs.github.com/spec/v1
+oid sha256:39d7097b7560fe56f8ef8e2d0b31351797ae05270e2a17f56cda770a59c236c3
+size 120

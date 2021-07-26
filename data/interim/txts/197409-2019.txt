@@ -1,1 +1,3 @@
-Megbízási szerződés keretében „A Békés Megyei Kormányhivatal részére GINOP-5.1.1-15-2015-00001 Út a munkaerőpiacra munkaerőpiaci program keretében karrier tanácsadási, mentori szolgáltatás nyújtása” a munkaerőpiaci szolgáltatásokról, valamint az azokhoz kapcsolódóan nyújtható támogatásokról szóló 30/2000. (IX. 15.) GM rendeletnek megfelelően. A projekt keretében karrier-tanácsadási, mentori szolgáltatás nyújtása a GINOP-5.1.1-15-2015-00001 program célcsoportjába tartozó Békés megyében élő álláskereső és inaktív személyek nyílt munkaerőpiaci elhelyezkedésének támogatása, valamint a közfoglalkoztatásból a versenyszférába való átlépés elősegítése érdekében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:feefbd80ea316ff56e338f177c7631057186dc5ee50271adf40716c0202aeac7
+size 741

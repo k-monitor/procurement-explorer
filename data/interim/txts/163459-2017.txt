@@ -1,1 +1,3 @@
-A 2015. évi CXLIII. törvény (Kbt. 105. § (2) bekezdés c) pontja szerinti Keretmegállapodás megkötésére irányuló eljárás „Az Állami Számvevőszék részére ellenőrzési tevékenység ellátására külső szakértő igénybevétele” tárgyában.
+version https://git-lfs.github.com/spec/v1
+oid sha256:48bc492d7ed7372d3d5cf73adc5e64a14781fa1ed996a07df52efcd99afe2e74
+size 266

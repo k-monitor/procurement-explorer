@@ -1,1 +1,3 @@
-adásvételi szerződés a magyar állami operaház részére kültéri led kijelző és tartozék beszerzés tárgy
+version https://git-lfs.github.com/spec/v1
+oid sha256:5e1a538ee48e1a11c03f57cadbbd0f701ba0f7a0e412f678e2c89489f4f5e702
+size 116

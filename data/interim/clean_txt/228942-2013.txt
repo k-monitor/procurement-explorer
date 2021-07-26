@@ -1,4 +1,3 @@
-vállalkozási szerződés a beregi vízgazdálkodási rendszer és a lónyai árapasztó fióktározó csatlakozó védőerdősáv kialakítás szükséges telepítés megvalósítás
-befejezett erdősítés a keop-2
-1.1
-09-2010-0007 számú beregi komplex árapasztási és ártér-revitalizációs fejlesztés című projekt keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:9e58f2f3005f36cc8677c61f3d2b3cbb4785dceb06e144ede74073127f91e171
+size 333

@@ -1,4 +1,3 @@
-pénzügyi közvetítői szolgáltatás nyújtás a ginop-8
-irinyi tőkeprogram
-tp
-végrehajtás biztosítás érdek
+version https://git-lfs.github.com/spec/v1
+oid sha256:7b6dfeca3aa5f26d73cf57e1836a4c4872b0e52aa7c299119f6a42f0103b8e33
+size 116

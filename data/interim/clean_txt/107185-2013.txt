@@ -1,2 +1,3 @@
-szállítási szerződés
-budapest főváros
+version https://git-lfs.github.com/spec/v1
+oid sha256:a6b2b6af0c4334e72ba59fcaa32697ff59e3c73e5ac26fcda378adeb2528dbea
+size 44

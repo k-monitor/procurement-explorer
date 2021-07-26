@@ -1,6 +1,3 @@
-a központi statisztikai hivatal kérdőív és melléklet
-kiadvány
-egyéb publikáció nyomdai előállítás
-expediálási
-postai feladás történő előkészítési munka elvégzés ajánlattevő által biztosított berendezés
-vállalkozási szerződés keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:bbd80ecf95860b4ec675e0b27e55b9bc3e626688274cbab8a55bf5847a9d9626
+size 265

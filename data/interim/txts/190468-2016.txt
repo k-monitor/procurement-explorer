@@ -1,1 +1,3 @@
-Aggregátorok karbantartása és javítása a Pécsi Tudományegyetem részére szolgáltatási keretszerződés keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1a0d035dea9c61c589639e782d0ef9aeed85ace4aab1f33702d15d790def66c0
+size 124

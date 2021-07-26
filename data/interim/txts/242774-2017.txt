@@ -1,1 +1,3 @@
-DEK-461_Vállalkozási szerződés ciklotron folyamatos működését biztosító karbantartásra, egységek cseréjével együtt.
+version https://git-lfs.github.com/spec/v1
+oid sha256:02652f7d75e08bf32b7f7ff3cf29acb6087330547fb15462d7e4cbd0de36c08e
+size 130

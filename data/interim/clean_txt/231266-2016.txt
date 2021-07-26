@@ -1,1 +1,3 @@
-élelmiszer beszerzés a somogy megyei kaposi mór oktató kórház részére határidős adásvételi szerződés keret rész
+version https://git-lfs.github.com/spec/v1
+oid sha256:433ec990a417eeb8a47b6a40415fd81b5b5cc420df392261c385d842e80f24d0
+size 126

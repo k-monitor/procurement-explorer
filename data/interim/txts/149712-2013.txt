@@ -1,1 +1,3 @@
-Szállítási szerződés - Hulladékhasznosító Mű víz-gőzrendszeréhez, különféle kézi működtetésű szerelvények (átmeneti elzáró szelepek, tolózárak, visszacsapó szelepek, tartalék alkatrészek) szállítása.
+version https://git-lfs.github.com/spec/v1
+oid sha256:67396ee084a03815c88760c88f011f30e1047f4a5bf1b204d3ef84bf70d45224
+size 231

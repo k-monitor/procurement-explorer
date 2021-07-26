@@ -1,1 +1,3 @@
-Magyarországi kiadású, magyarországi kiadóktól közvetlenül beszerezhető, különböző oktatási és tudományos tevékenységhez kapcsolódó, tudományos és szakmai könyvek beszerzése, és a Megrendelő egyes telephelyeire történő kiszállítása, adásvételi (szállítási) keretszerződés keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:29a1c15b539302c344cf5fa230c1844e29b514e79c2e2d4200642c4dc20a148e
+size 322

@@ -1,3 +1,3 @@
-Munkaerőpiaci	munkaerőpiaci	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-felmérés	felmérés	NOUN	Case=Nom|Number=Sing	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:1df4639d945381fcab4a452b55c1c0c37ae7513fee974037f055e15abc44c104
+size 117

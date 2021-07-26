@@ -1,1 +1,3 @@
-1 db Konfokális és STED szuperrezolúciós mikroszkóprendszer beszerzése adásvételi szerződés keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2c0f81243883c8deddf526b0343f7c0269bc95b76c2c10eae14ad9a4e0361058
+size 113

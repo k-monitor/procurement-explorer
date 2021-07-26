@@ -1,1 +1,3 @@
-TOP-6.3.3-16-VP1-2017-00001 pályázat, Dózsaváros, Pápai úti csapadékvíz-elvezető rendszer fejlesztése, kivitelezés.
+version https://git-lfs.github.com/spec/v1
+oid sha256:47975ce8d97d5bda642ead742c347d2c1da76e3531ee79c8165855f8a88b0a8e
+size 126

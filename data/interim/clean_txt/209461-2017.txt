@@ -1,5 +1,3 @@
-adásvételi szerződés keret a szigetszentmiklósi szakorvosi rendelőintézet részére
-1. rész
-laboratóriumi vegyszer beszerzés a szükséges labordiagnosztikai készülék térítésmentes használat adás
-2. rész
-zárt vérvételi rendszer szállítás
+version https://git-lfs.github.com/spec/v1
+oid sha256:1e67b4be38207293fe30474657b776d8f6f4de22e670ff643a2cab5792c29e6e
+size 262

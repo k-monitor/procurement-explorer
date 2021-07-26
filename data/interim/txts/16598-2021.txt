@@ -1,1 +1,3 @@
-Adásvételi szerződés keretében a Fővárosi Csatornázási Művek Zrt. és a Fővárosi Csatornázási Művek Mélyépítő és Karbantartó Kft. Opel gépjárműflottájának bővítése Opel flottával, vagy azzal egyenértékű gépjárműveket tartalmazó flottával.
+version https://git-lfs.github.com/spec/v1
+oid sha256:77bc03cac193cb591d6fd6cfa271d4c636c9727bb3db6e9054fc3d370b7b3ad8
+size 276

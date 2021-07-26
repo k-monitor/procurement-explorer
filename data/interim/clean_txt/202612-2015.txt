@@ -1,5 +1,3 @@
-szerződés meghatározás
-adásvételi keretszerződés tárgya
-gépbeszerzés ten út
-nehéztehergépjármű és adapter beszerzés
-rész
+version https://git-lfs.github.com/spec/v1
+oid sha256:93eaddd58e644b80436c8f1b582f255ba9226f3d7ade43a547ba3cf69a235552
+size 139

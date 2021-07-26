@@ -1,11 +1,3 @@
-az egészséges budapest program keret képalkotó diagnosztikai és sugárterápiai berendezés beszerzés a dél-budai centrum társkórház részére
-az alábbi szerint
-db dsa beszerzés idegsebészeti
-illetve strok ellátás cél a szent jános kórház és észak-budai egyesített kórház részére
-db perifériás dsa beszerzés a szent imre kórház részére
-db mr készülék felnőtt és gyerek vizsgálat beszerzés a szent jános kórház és észak-budai egyesített kórház részére
-db mr t térerejű beszerzés a szent imre kórház részére
-db ct szeletes beszerzés a szent imre kórház részére
-db ct készülék szeletes beszerzés a tüdőgyógyintézet törökbálint részére
-db digitális rtg készülék beszerzés a szent jános kórház és észak-budai egyesített kórház részére
-a részletes leírás a közbeszerzési dokumentum tartalmaz
+version https://git-lfs.github.com/spec/v1
+oid sha256:f26875f9e62f4e65463feeb528690137ae8dbffb47436ad3d57f95744b90cbdb
+size 880

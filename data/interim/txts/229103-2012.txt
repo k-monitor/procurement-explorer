@@ -1,1 +1,3 @@
-Vállalkozási keretszerződés szódagyártó berendezések, szódaballon-hűtők átalánydíjas javítása, karbantartása, állagmegóvása, és cseréje havi szinten.
+version https://git-lfs.github.com/spec/v1
+oid sha256:209dfadd685fcc0952074c4bffb9373b49362937c919421c3ec9aa06509bc1e1
+size 171

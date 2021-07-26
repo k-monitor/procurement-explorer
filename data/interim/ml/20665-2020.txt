@@ -1,17 +1,3 @@
-A	a	DET	Definite=Def|PronType=Art	
-Budapesti	Budapesti	PROPN	Case=Nom|Number=Sing	
-Szent	Szent	PROPN	Case=Nom|Number=Sing	
-Ferenc	Ferenc	PROPN	Case=Nom|Number=Sing	
-Kórház	Kórház	PROPN	Case=Nom|Number=Sing	
-meglévő	meglévő	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-épületének	épület	NOUN	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-felújítása	felújítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-,	,	PUNCT	_	
-korszerűsítése	korszerűsítés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-2.	2.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
-rész	rész	NOUN	Case=Nom|Number=Sing	
-vállalkozási	vállalkozási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:da54bafac5bfae966e261eb97a3e638f2ffa34e023c174522f753e3ea439d36c
+size 856

@@ -1,14 +1,3 @@
-1. rész
-baranya megyei katasztrófavédelmi igazgatóság
-pécsi katasztrófavédelmi kirendeltség és hivatásos tűzoltó parancsnokság építés és meglévő épület átalakítás ütem a kehop-1
-0-15-2016-00013 azonosítószámú projekt keret a pécs
-engel jános u. 1. sz.
-hrsz.
-alatti ingatlan meglévő épület részbeni bontás
-átalakítás és új laktanyaépület építés
-2. rész
-baranya megyei katasztrófavédelmi igazgatóság
-pécsi katasztrófavédelmi kirendeltség és hivatásos tűzoltó parancsnokság építés a kehop-1
-0-15-2016-00013 azonosítószámú projekt keret a pécs
-tüzér u. 30.
-hrsz:3685/39
+version https://git-lfs.github.com/spec/v1
+oid sha256:36659eab46453691db03cb023614837f1b3ea2c5f527fbfaaf6ba7cf36cb596e
+size 637

@@ -1,1 +1,3 @@
-Megbízási szerződés az ÉSZAK- ALFÖLDI TÉSZ részére üzletkötői, kereskedelmi szolgáltatások ellátására.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d5e71cd6c3996c7919c5879ae189e558bcbce536af2e461b894121ed01620c1e
+size 119

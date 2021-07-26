@@ -1,1 +1,3 @@
-Adásvételi szerződés keretében Ajánlatkérő az Intézmény részére 24 hónapra Varrógép és sérvháló beszerzése konszignációs raktár üzemeltetésével kívánja megvásárolni.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e901f665e406258c28e1eb86c9b9d8f950b720098e1342c61ba4e5340689dbbe
+size 195

@@ -1,35 +1,3 @@
-tényleges kihasználható űrtartalom
-liter
-fő méret
-a korábbi din szabvány szereplő adat igazodva
-a teljes hossz
-magasság
-mm
-a teljes szélesség
-mm
-a teljes mélység
-mm közötti
-a bedobó nyílás
-fekvő tájolású
-ovális
-vagy elnyújt lekerekített négyszög alakú és x mm
-magasság
-szélesség
-befoglaló méretű
-a falvastagság
-az alj eset mm
-a tető eset mm
-az edénytest és fedél alapanyag magas molekuláris számú
-speciális alacsony nyomású polietilén
-uv sugárzás ellen stabilizált
-hdpe
-kivitelű
-szín világoszöld
-ral vagy
-az edény gyártás csak új anyag használható fel
-regenerált nem
-az összsúly belül a műanyag edény súly legfeljebb kg
-a felerősítő szerelvény korrózióálló
-magas szilárdságú horganyzott acél anyag készül
-az ajánlattevő minimális hónap jótállás kell nyújt
-az alkatrész utánpótlás legalább év kell biztosít
+version https://git-lfs.github.com/spec/v1
+oid sha256:f4ca229aac164992aa985d3e097a5c74261b86185399e38e21683c550ddd7dbf
+size 902

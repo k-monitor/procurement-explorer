@@ -1,1 +1,3 @@
-Szolgáltatási szerződés keretében a Fővárosi Közterület-fenntartó Zrt. Oracle vállalatirányítási rendszereinek licence vásárlása, Vállalatirányítási és Kontrolling rendszerének üzemeltetésével kapcsolatos szakértői támogatás beszerzése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:538985f4ed8f0432c5eb7542e84af7f72f6ee2e7b5bc08f55e7288cbf9e32489
+size 267

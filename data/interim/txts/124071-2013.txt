@@ -1,1 +1,3 @@
-1. rész: Vállalkozási szerződés az Európai Bizottságnak benyújtandó, Magyarország és Szlovákia határon átnyúló jogosult területeit érintő 2014-2020-as időszakra vonatkozó Operatív Programjának ex-ante értékelésére és stratégiai környezeti vizsgálatára. 2. rész: Vállalkozási szerződés a 2014-2020-as időszakra vonatkozó Operatív Program kidolgozására a jogosult programozási terület kihívásaira, szükségleteire és lehetőségeire valamint a stratégiai iránymutatásokra vonatkozó elemzések alapján.
+version https://git-lfs.github.com/spec/v1
+oid sha256:34bf1acb0aa02c9c32d1f8f3cde4f2f69fafcfb2d32295338b6d46271d509019
+size 552

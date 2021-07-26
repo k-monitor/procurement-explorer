@@ -1,1 +1,3 @@
-Villamos energia szállítása Százhalombatta Város Önkormányzata fenntartásában lévő intézmények részére villamos energia-vásárlási szerződés keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a6afebe5db09333816e18e76ddf047b10ce88d650646b68b1587090276f07e69
+size 171

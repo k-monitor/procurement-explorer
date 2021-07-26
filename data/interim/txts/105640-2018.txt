@@ -1,1 +1,3 @@
-Megbízási szerződés az „Észak-Magyarországi szennyvízelvezetési és -kezelési fejlesztés 5. (ÉMO 5)” elnevezésű (KEHOP-2.2.2-15-2015-00036) projektben műszaki ellenőri tevékenység ellátására.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3d02a5593496dae62048ed451d2be2d3c6da570157b972d74ecb86bf3ddf6562
+size 215

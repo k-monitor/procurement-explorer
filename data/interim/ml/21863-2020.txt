@@ -1,4 +1,3 @@
-MoLaRi	MoLaRi	PROPN	Case=Nom|Number=Sing	
-rendszer	rendszer	NOUN	Case=Nom|Number=Sing	
-üzemeltetése	üzemeltetés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:5aaf5a8bdf424fe2672792ef3f8699a865cfb9e811931cf0f964226d83925a5c
+size 177

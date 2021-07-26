@@ -1,8 +1,3 @@
-általános felhasználású
-1. rész
-és közvilágítási célú
-2. rész
-villamos energia szállítás a 1.9.2015
-cet
-31.8.2016
-cet közötti időszak teljes ellátás alapú villamos energia kereskedelmi szerződés keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:5f7278b2b793f4de0a55995a802a3180d1775402f2b1b7f87a1eaaceadbe2af5
+size 225

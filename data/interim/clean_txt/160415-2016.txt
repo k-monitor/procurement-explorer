@@ -1,2 +1,3 @@
-közétkeztetési szolgáltatás nyújtás ócsa város közigazgatási terület főző
-és tálalókonyha üzemeltetés
+version https://git-lfs.github.com/spec/v1
+oid sha256:256c902be042bf8f3e24c77552e307399cd440baf5111b84d62c9b416bd76d27
+size 120

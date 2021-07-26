@@ -1,1 +1,3 @@
-A Szegedi Vízmű Zrt. szennyvíztisztító telepeinek üzemszerű működése során keletkező kezelt, víztelenített szennyvíziszap (EWC 190805) elszállítása és hasznosítása.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5445dee45332bbdb8348bd8d33ba4042e1c75fa4230c7338800b4cf3db108504
+size 185

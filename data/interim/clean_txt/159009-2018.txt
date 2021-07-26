@@ -1,14 +1,3 @@
-db szivacskézilabda beszerzés
-iskolánként db
-db szivacskézilabda kapu
-iskolánként db
-a felszerelés részletes leírás
-paraméter
-alkalmazási kör a közbeszerzési dokumentum rész kiadás kerülő közbeszerzési műszaki leírás tartalmaz
-a nettó ajánlati ár tartalmaznia kell az összes felmerülő
-járulékos költség független az forma és forrás
-kiszállítás
-csomagolás
-vám
-adó
-illeték stb.
+version https://git-lfs.github.com/spec/v1
+oid sha256:682bcee9f728868eca372f5319f59baf2e5e89991d65ce871e791911acb685da
+size 420

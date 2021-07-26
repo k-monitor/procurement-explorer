@@ -1,6 +1,3 @@
-tervezési szerződés
-az
-m8-m5 autópálya csomópont
-nagykőrös-m5 közötti szakasz
-engedélyezési terv módosítás és új engedélyezési terv készítés
-tárgy
+version https://git-lfs.github.com/spec/v1
+oid sha256:310260c9472ef78e08134d14f9255e255e68931328e225413a8398ef77b465ea
+size 169

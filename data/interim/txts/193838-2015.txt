@@ -1,1 +1,3 @@
-Szállítási szerződés keretében a „Felső-Bácskai Hulladékgazdálkodási Rendszer fejlesztése eszközbeszerzésekkel” című KEOP-1.1.1/C/13-2013-0032 számú projekt megvalósításához szükséges eszközök beszerzése – edényzet beszerzése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:532c5bcb2dd500e2a94fb004bb38441a483a2c86c683fee1bcde164b33f4dbea
+size 261

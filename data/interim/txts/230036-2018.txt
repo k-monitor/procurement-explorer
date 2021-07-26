@@ -1,1 +1,3 @@
-Silótároló kivitelezése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3dbc5802091caa5eb5c6f0c84695c5074c98e1b88874f5dd2234af68ebae4ca3
+size 28

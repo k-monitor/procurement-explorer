@@ -1,14 +1,3 @@
-Szállítási	Szállítási	PROPN	Case=Nom|Number=Sing	
-keretszerződés	keretszerződés	NOUN	Case=Nom|Number=Sing	
-„	„	PUNCT	_	
-Különféle	különféle	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-gyógyszerkészítmények	gyógyszerkészítmény	NOUN	Case=Nom|Number=Plur	
-beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-"	"	PUNCT	_	
-(	(	PUNCT	_	
-Misszió	Misszió	PROPN	Case=Nom|Number=Sing	
-)	)	PUNCT	_	
-szállítása	szállítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-tárgyában	tárgy	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:37ee519db38fcf03b1553ea4e95ec9a6dd5e6116717fccd42b1f5714903d3c8e
+size 622

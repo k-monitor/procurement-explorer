@@ -1,1 +1,3 @@
-1. rész Szállítási szerződés: "A fővárosi házhoz menő szelektív hulladékgyűjtési rendszer kialakításához szükséges hulladékgyűjtő célgépek beszerzése". 2. rész Szállítási szerződés: "A fővárosi házhoz menő szelektív hulladékgyűjtési rendszer kialakításához szükséges tehergépjárművek beszerzése".
+version https://git-lfs.github.com/spec/v1
+oid sha256:efa12688c9944bffba805a92bb38303fde8488c7c3e3db2257915aab23481178
+size 344

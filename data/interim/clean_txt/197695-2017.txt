@@ -1,2 +1,3 @@
-kivitelezési szerződés a gödöllői premontrei perjelség használat lévő zsámbéki zichy-kastély felújítás
-1. b és i. c ütem
+version https://git-lfs.github.com/spec/v1
+oid sha256:70170c16e98fe45c1e1d5ea5560f1ddc4877cb7d9a85d668c12fa5fd9065ab25
+size 138

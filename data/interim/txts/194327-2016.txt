@@ -1,1 +1,3 @@
-Tervezési szerződés a Liget Üzemeltetési Központ épületének megvalósításához szükséges építészeti és szakági tervezésére.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fb85f7a6462e3a32be58b5ef26749bef58f97c2c1c5e565d97d9c2fe91912616
+size 143

@@ -1,1 +1,3 @@
-Megbízási szerződés a KEOP-1.1.1/2F/09-11-2011-0001 azonosítószámú, a „Közép-Duna Vidéke Hulladékgazdálkodási Rendszer fejlesztése” című pályázati program megvalósításához szükséges PR és Szemléletformálási feladatok ellátására.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2e8a24526953a9b08b874f4b204da19978a0723cafdf67a6799b42b51dd3f950
+size 264

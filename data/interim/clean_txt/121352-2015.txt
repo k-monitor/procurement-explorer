@@ -1,6 +1,3 @@
-vállalkozási szerződés
-mezőtúr-szarvas és gyoma-dévaványa becsatlakozó vonal ellenmenet kizárás távközlési átviteli út kiépítés
-optikai lég
-és
-alépítményi
-földkábel vezetés és a kapcsolódó munkálat elvégzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:d6d1d3c24f2480ea3cf4a729bb417679d0c53eed0baa778e6450812dd72a2c69
+size 240

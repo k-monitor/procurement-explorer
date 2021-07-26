@@ -1,1 +1,3 @@
-Struktúraváltoztatást támogató infrastruktúrafejlesztés a Markusovszky Kórházban című TIOP-2.2.4-09/1-2010-0016 azonosító jelű projekt vonatkozásában, a kivitelezési munkák elvégzése vállalkozási szerződés keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:908480092d1119e25aa8746b4c6583478fa15a9c226c5630eee88c71f79eb61c
+size 241

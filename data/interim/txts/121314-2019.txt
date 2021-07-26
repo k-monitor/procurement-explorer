@@ -1,1 +1,3 @@
-«A Józsefvárosi Szent Kozma Egészségügyi Központ részére orvostechnikai eszközök beszerzése (8 részben)» 1. rész: «Kisértékű orvostechnikai eszközök» 2. rész: «Digitális röntgen berendezések» 3. rész: «Ultrahang készülékek» 4. rész: «Sterilizáló készülékek» 5. rész: «Szemészeti készülékek» 6. rész: «Video-gasztroszkóp, -kolonoszkóp és endoszkópmosó-fertőtlenítő automata készülékek» 7. rész: «Rectoscop készülék» 8. rész: «Multifunkcionális elektromos stimuláló berendezés»
+version https://git-lfs.github.com/spec/v1
+oid sha256:790c127c4746c5a986b0ba6297cd9f4c009b4af565e5845e3bee7bbe464123b6
+size 551

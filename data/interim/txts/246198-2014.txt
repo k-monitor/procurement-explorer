@@ -1,1 +1,3 @@
-Megbízási szerződés a „KEOP 1.1.1./2F/09-11-2013-0003 azonosító számú Kelet-Nógrád Térségi Hulladékgazdálkodási Rendszer fejlesztése” elnevezésű projekthez kapcsolódó szemléletformálási feladatok ellátására.
+version https://git-lfs.github.com/spec/v1
+oid sha256:09b0f3f6c876140227da9a227b6862c09e79858969a8c1d5dc73b28b74a10d48
+size 237

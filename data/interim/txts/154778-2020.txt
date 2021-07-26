@@ -1,1 +1,3 @@
-A Bábolna Nemzeti Ménesbirtok részére villamosenergia beszerzése 2020. július 1-től 2021. június 30-ig terjedő időszakra.
+version https://git-lfs.github.com/spec/v1
+oid sha256:830973c0e64120f7b5eb0c12158bc3e782c8f6d702a18ac055d8dcb7365553ce
+size 131

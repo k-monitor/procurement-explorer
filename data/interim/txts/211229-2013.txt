@@ -1,1 +1,3 @@
-Vállalkozási keretszerződés a Nemzeti Fejlesztési Ügynökség 2013. és 2014. évre vonatkozó belső ellenőrzési terve végrehajtása során külső szakértői kapacitás bevonására.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5a035c8eaa14ed0baa2a6a0d46fa7d43f39e950e5a80904b8321f60dcc1277a6
+size 194

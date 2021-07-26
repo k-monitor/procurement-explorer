@@ -1,1 +1,3 @@
-Személygépjárművek beszerzése a NAV részére 8 rész keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:06d62e6a91d04c7daae8cc638b1113defff71272102a03cba25332ca8fef376e
+size 70

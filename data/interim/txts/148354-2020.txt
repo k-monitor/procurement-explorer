@@ -1,1 +1,3 @@
-Vállalkozási keretszerződés Budapest közigazgatási területén belül a fővárosi tulajdonú, illetve kezelésű kiemelt közcélú zöldterületek, fő- és tömegközlekedési utak és villamospálya menti zöldterületek, valamint egyéb ingatlanok zöldterületeinek kaszálási és egyéb gépi, illetve kézi parkfenntartási feladatainak ellátására (ahol Ajánlatkérő a parkfenntartási munkák alatt zöldfelületek, közlekedési zöldsávok kaszálási, sövénynyírási, lombgyűjtési, takarítási, metszési, kapálási munkáit is magában foglaló szolgáltatást ért), az alábbi 2 részajánlati körben: 1. részajánlati kör: Kaszálási munkák 2. részajánlati kör: Egyéb parkfenntartási munkák
+version https://git-lfs.github.com/spec/v1
+oid sha256:bbb4388b2a14795286b31027c5e6833fc7869287a202c595b3940987e12c9ea6
+size 736

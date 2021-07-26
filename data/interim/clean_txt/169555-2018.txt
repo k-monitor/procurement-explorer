@@ -1,1 +1,3 @@
-komplex kommunikációs feladat elvégzés a családbarát ország nonprofit közhasznú kft. számára
+version https://git-lfs.github.com/spec/v1
+oid sha256:8610a91d8f38d212c8a0f28b4e4a5d160963d84739d404ab8bb198b2c4f62846
+size 103

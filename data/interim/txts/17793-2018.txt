@@ -1,1 +1,3 @@
-Adásvételi szerződés 1 db pollenmérő busz szállítására.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3aa52a55452ddd921fbf028e228f8a4a33ad63a1c94d14d50619d891959763ad
+size 65

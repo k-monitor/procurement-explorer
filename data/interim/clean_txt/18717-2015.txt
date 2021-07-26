@@ -1,2 +1,3 @@
-adásvételi szerződés a semmelweis egyetem városmajori szív
-és érgyógyászati klinika részére tételes elszámolású mechanikus keringéstámogató eszköz beszerzés érdek
+version https://git-lfs.github.com/spec/v1
+oid sha256:9a6f8d09624189f27b162148d5de43a0002f3edb041584ff4fb7291d687aadb6
+size 184

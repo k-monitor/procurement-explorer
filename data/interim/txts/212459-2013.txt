@@ -1,1 +1,3 @@
-Szállítási szerződés vegyszerek beszerzése tárgyában az alábbi részek tekintetében: 1. rész: Rothasztott szennyvíziszap víztelenítéséhez használatos polielektrolit beszerzése; 2. rész: A szennyvíztisztításnál foszfor eltávolításához szükséges fémsó és téli üzemhez alkalmazkodó foszforeltávolító és fonalasodást megakadályozó vegyszerek beszerzése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cbcd79774c82dbd2ee31f8c946027082cfcc12f493269e08c2448a848201676d
+size 392

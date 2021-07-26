@@ -1,7 +1,3 @@
-Adásvételi	adásvételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-hemodinamikai	hemodinamikai	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-fogyóanyagok	fogyóanyag	NOUN	Case=Nom|Number=Plur	
-beszerzésére	beszerzés	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:5d4e9a80cf228b572cf83632d7e7344d2d0f84f232932cbd20b85e1176174e8b
+size 332

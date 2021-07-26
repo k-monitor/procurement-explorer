@@ -1,1 +1,3 @@
-Adás-vételi szerződés keretében Ajánlatkérő az Intézmény részére Tej-tejtermékeket 12 hónapra Kecskemét, Kiskunfélegyháza és Kalocsa telephelyekre kívánja megvásárolni.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2887b19490eb2e357023c764341d96671c0b1045facc912a67ebb7a4d985925a
+size 190

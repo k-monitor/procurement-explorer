@@ -1,1 +1,3 @@
-Számítógépes hardver eszközök szállítása Openstack alapú felhőinfrastruktúra bővítéséhez az alábbiaknak megfelelően.
+version https://git-lfs.github.com/spec/v1
+oid sha256:946ac063a3052d8a53716f5518c3d67df5ca61a385d4ed760231b7d6afc59808
+size 134

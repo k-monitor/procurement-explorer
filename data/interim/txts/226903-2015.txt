@@ -1,1 +1,3 @@
-Adásvételi szerződés – 5 db személygépkocsi határidős adásvétele tárgyában.
+version https://git-lfs.github.com/spec/v1
+oid sha256:578d09fdf4c4b786a499247d7c0816bf8d303b168fe8111a80b40bc6c029aa4e
+size 89

@@ -1,1 +1,3 @@
-szolgáltatási szerződés keret középiskolai ebéd beszerzés szakközépiskola és szakiskola részére
+version https://git-lfs.github.com/spec/v1
+oid sha256:2a5955e1f5d3df32ca8ca2f1b0be3cffda07be25b3f4c80008e91521953386ea
+size 108

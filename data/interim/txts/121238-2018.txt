@@ -1,1 +1,3 @@
-Régészeti célú gépjárművek beszerzése (I. rész: 8 db régészeti célú terepjáró gépkocsi (Pick-up) beszerzése, II. rész: 4 db régészeti célú duplafülkés (6 személy+zárt áruszállító) gépkocsi beszerzése, III. rész: 2 db régészeti célú személygépkocsi beszerzése) adásvételi szerződés(ek) keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:df26747d5e0452e71af899844c241a5668b32c4c8bf85d999177549398438695
+size 340

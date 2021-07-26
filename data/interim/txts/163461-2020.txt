@@ -1,1 +1,3 @@
-K2011 Vas, fém, színesfém anyagok szállítása
+version https://git-lfs.github.com/spec/v1
+oid sha256:f8a43468d213b248dd47f7b224720aa110acd8f486b5ca47f32874732e9fc22c
+size 50

@@ -1,1 +1,3 @@
-A projekt megvalósítása során az MFB Zrt. és 9 tagvállalat vonatkozásában kb. 1 400 foglalkoztatott tekintetében kerül sor 6 szakterület esetén szolgáltatási szerződés (SLA) alapon működő Szolgáltató központok és Kompetencia központok implementációjának tervezésére, 2 szakterület esetén az ajánlatkérő által önállóan megvalósításra kerülő implementáció előkészítésének támogatására. Az ajánlattevő feladatai közé tartozik továbbá a jelen kiírás terjedelmébe tartozó projekt tekintetében a projektmenedzsment feladatok ellátása.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e17271edf239d8c9627c5c3203d71692960226d3122b6086675d61d572d1a0e9
+size 594

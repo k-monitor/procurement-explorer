@@ -1,14 +1,3 @@
-„	„	PUNCT	_	
-Primer	primer	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-hidegenergia	hidegenergia	NOUN	Case=Nom|Number=Sing	
-szolgáltatás	szolgáltatás	NOUN	Case=Nom|Number=Sing	
-nyújtása	nyújtás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-a	a	DET	Definite=Def|PronType=Art	
-Városligetben	Városliget	PROPN	Case=Ine|Number=Sing	
-a	a	DET	Definite=Def|PronType=Art	
-VÉSZ	vész	NOUN	Case=Nom|Number=Sing	
-előírásainak	előírás	NOUN	Case=Dat|Number=Plur|Number[psor]=Sing|Person[psor]=3	
-betartásával	betartás	NOUN	Case=Ins|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-"	"	PUNCT	_	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:78b88afd6a63939e1580f786d50d62267061784d25fc2ebaa4768b6777757633
+size 622

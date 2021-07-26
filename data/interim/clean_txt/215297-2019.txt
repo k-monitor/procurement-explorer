@@ -1,1 +1,3 @@
-mikroreaktor rendszer beszerzés a pannon egyetem részére a ginop-2
+version https://git-lfs.github.com/spec/v1
+oid sha256:0f65714d28287fb174415e034921dbc64e4db9aac8fcb665868603c5e6afa94f
+size 69

@@ -1,30 +1,3 @@
-Tervezési	tervezési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-Esztergom	Esztergom	PROPN	Case=Nom|Number=Sing	
--	-	PUNCT	_	
-M1	M1	PROPN	Case=Nom|Number=Sing	
-autópálya	autópálya	PROPN	Case=Nom|Number=Sing	
-közúti	közúti	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-kapcsolat	kapcsolat	NOUN	Case=Nom|Number=Sing	
-fejlesztése	fejlesztés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
--	-	PUNCT	_	
-megvalósíthatósági	megvalósíthatósági	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-tanulmány	tanulmány	NOUN	Case=Nom|Number=Sing	
-,	,	PUNCT	_	
-KHT	KHT	PROPN	Case=Nom|Number=Sing	
-,	,	PUNCT	_	
-valamint	valamint	CONJ	_	
-engedélyezési	engedélyezési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-és	és	CONJ	_	
-kiviteli	kiviteli	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-terv	terv	NOUN	Case=Nom|Number=Sing	
-elkészítése	elkészítés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-(	(	PUNCT	_	
-K001	K001	PROPN	Case=Nom|Number=Sing	
-.	.	PUNCT	_	
-
-09	09	NUM	Case=Nom|NumType=Card|Number=Sing	
-)	)	PUNCT	_	
-tárgyában	tárgy	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:8359151c453147fe4af4a431cdf3accae47ada190adc7fcc3de2591f8db33660
+size 1159

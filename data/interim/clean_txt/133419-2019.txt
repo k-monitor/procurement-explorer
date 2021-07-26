@@ -1,4 +1,3 @@
-mobil
-felszedhető és újra lefektethető
-sportparketta burkolat beszerzés
-felület burkolás
+version https://git-lfs.github.com/spec/v1
+oid sha256:b8db5e33dafbd2b774f3a318e67301ba5d0614aa768da0b92b37bfbe25694084
+size 95

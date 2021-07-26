@@ -1,2 +1,3 @@
-debrecen megyei jogú város közhasználatú zöldfelület fenntartás és növényvédelmi közérdekű védekezés végrehajtás
-vállalkozási szerződés
+version https://git-lfs.github.com/spec/v1
+oid sha256:5564705e9ce605bf0b86d9ae20691d0c4d15eaa7ccada217bcac06ac7b17d81c
+size 158

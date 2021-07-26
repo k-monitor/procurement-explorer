@@ -1,1 +1,3 @@
-Szolgáltatási szerződés - Szerver és hozzá kapcsolódó eszköz karbantartási, szoftverkövetési és -támogatási szolgáltatások beszerzése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a35b3f49e4b0e0ecd503ec994623ed0e7f6e8d4510ad2f0863d2329a4be2410f
+size 152

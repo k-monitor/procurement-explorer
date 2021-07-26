@@ -1,1 +1,3 @@
-Zala Megyei Kórház 8900 Zalaegerszeg, Zrínyi M. u. 1.
+version https://git-lfs.github.com/spec/v1
+oid sha256:13449973a5c7ee0d5b0027ea161c2da17051fd214ac6e6aa37a9fd6fcf210509
+size 56

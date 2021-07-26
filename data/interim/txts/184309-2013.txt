@@ -1,1 +1,3 @@
-Szállítási keretszerződés „Különféle gyógyszerkészítmények beszerzése” (Misszió) szállítása tárgyában.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dd6901b1fab6114cd1249fef97968bcd61615a72396735bb7066270cf39e73ed
+size 125

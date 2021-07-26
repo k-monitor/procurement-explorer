@@ -1,4 +1,3 @@
-óbuda-budapest főváros önkormányzat tulajdon lévő közterületi várakozóhely üzemeltetés szükséges eszköz
-parkolójegy-kiadó automata és tartozék
-és szolgáltatás beszerzés a iii
-kerület közigazgatási terület
+version https://git-lfs.github.com/spec/v1
+oid sha256:bfd4a5988bc29b4fa9df750f7f1fdf2f8f8eab8c679905dfe89e40a52c2af0c3
+size 232

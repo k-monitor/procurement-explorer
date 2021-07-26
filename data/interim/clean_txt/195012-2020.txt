@@ -1,1 +1,3 @@
-pte gyermekgyógyászati klinika felújítás és bővítés kivitelezés
+version https://git-lfs.github.com/spec/v1
+oid sha256:3c645464763178ddd3ff0f465e96bfd77990b902302c5ae3a9aba4cb8c50ce2a
+size 73

@@ -1,6 +1,3 @@
-sebészeti varróanyag
-vérzéscsillapító
-varrógép beszerzés részben adásvételi keretszerződés keret a ii
-2.1
-pont
-valamint a közbeszerzési dokumentum rögzített szerint
+version https://git-lfs.github.com/spec/v1
+oid sha256:16a2812309525d98fb42d74d17ab7982a67323ce7a2f6d79da95350d309e8a41
+size 182

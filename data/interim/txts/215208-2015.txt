@@ -1,1 +1,3 @@
-Szolgáltatási szerződés, gazdálkodó szervezetekkel kapcsolatos települési szilárd hulladékkezelési részfeladatok (laza/előtömörített/tömörített hulladék gyűjtés, szállítás) ellátására, melyet Szolgáltatónak a saját (bérelt vagy lízingelt) célgépeivel, eszközeivel (tartályok, konténerek, tömörítő fej) kell végeznie.
+version https://git-lfs.github.com/spec/v1
+oid sha256:04b86a63be755200f48f8f085e2108e88384376c63cbd4e5c8850561acc1027a
+size 359

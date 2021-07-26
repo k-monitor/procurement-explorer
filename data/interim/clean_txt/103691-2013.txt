@@ -1,2 +1,3 @@
-szállítási szerződés
-különféle orvosi gép-műszer és intenzív ágy szállítás a jelen felhívás és a dokumentáció részletezett szerint
+version https://git-lfs.github.com/spec/v1
+oid sha256:55b3cd9eac5f846b6e444ded9bd8ae91dd0b3c771611596d8fe19716a1c73ee6
+size 152

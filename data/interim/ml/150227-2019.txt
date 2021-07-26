@@ -1,8 +1,3 @@
-«	«	PUNCT	_	
-Útépítési	útépítési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-munkák	munka	NOUN	Case=Nom|Number=Plur	
-Debrecen	Debrecen	PROPN	Case=Nom|Number=Sing	
-Nyugati	nyugati	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-Városrészében	városrész	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-»	»	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:ea1d61f76e1bc36d9547863ebeeabae50c4e7c473654de18b46a9eb53da712cc
+size 325

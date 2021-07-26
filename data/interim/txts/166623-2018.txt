@@ -1,1 +1,3 @@
-Adásvételi szerződés keretében polielektrolit szállítása a Szeged Városi és Algyő Nagyközségi Szennyvíztisztító Telepek számára iszapsűrítés és iszapvíztelenítés céljából.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0dfeb1ade5b63886b1a688973c046d4b9777f176f6d6423ac0eacc02851543bf
+size 199

@@ -1,8 +1,3 @@
-adásvételi szerződés
-a magyar honvédség katasztrófavédelem összefüggő beavatkozási képesség fejlesztés
-vegyivédelmi technikai eszköz beszerzés
-kehop 1.6.0
-készlet sebesül mentesítő rendszer
-utánfutó
-smr
-vagy az egyenértékű eszköz beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:086859f25e4c1af6cae6e1c192be474ccb2fe1bf829190a8a0ca6d1b5d46b62a
+size 268

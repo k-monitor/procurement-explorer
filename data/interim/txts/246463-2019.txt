@@ -1,1 +1,3 @@
-Műszaki eszközök beszerzésének folytatása a Pécsi Tudományegyetem EFOP-3.6.1-16-2016-00004 pályázata keretein belül a közbeszerzési dokumentumokban meghatározottak szerint az alábbi bontásban: 1.ajánlati rész: Energetikai monitoring adatgyűjtéséhez szükséges rendszer bővítése - berendezések, szenzorok 2.ajánlati rész: Autonóm jármű rendszer 3.ajánlati rész: Termikus komfort mérőbábú rendszer
+version https://git-lfs.github.com/spec/v1
+oid sha256:34c41511c0f0a46c59154b584c0546d6a67e84a4c7da7575f1a12e447a9f3d5d
+size 432

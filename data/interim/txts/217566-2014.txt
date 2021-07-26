@@ -1,1 +1,3 @@
-Vállalkozási szerződés - MTVA részére időjárás jelentéshez adatszolgáltatás biztosítása 24 hónap időtartamra.
+version https://git-lfs.github.com/spec/v1
+oid sha256:95e445275fa4a2769d6d486835a58d0eda2998715793c7c18170d161ee510e0c
+size 125

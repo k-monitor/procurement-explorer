@@ -1,33 +1,3 @@
-Közvilágítási	közvilágítási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-célú	célú	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-villamos	villamos	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-energia	energia	NOUN	Case=Nom|Number=Sing	
-értékesítése	értékesítés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-a	a	DET	Definite=Def|PronType=Art	
-1.8.2017	1.8.2017	PROPN	Case=Nom|Number=Sing	
-.	.	PUNCT	_	
-
-00	00	NUM	Case=Nom|NumType=Card|Number=Sing	
-:	:	PUNCT	_	
-00	00	NUM	Case=Nom|NumType=Card|Number=Sing	
-CET	cet	NOUN	Case=Nom|Number=Sing	
--	-	PUNCT	_	
-31.7.2018	31.7.2018	PROPN	Case=Nom|Number=Sing	
-.	.	PUNCT	_	
-
-24	24	NUM	Case=Nom|NumType=Card|Number=Sing	
-:	:	PUNCT	_	
-00	00	NUM	Case=Nom|NumType=Card|Number=Sing	
-CET	cet	NOUN	Case=Nom|Number=Sing	
-közötti	közötti	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-időszakban	időszak	NOUN	Case=Ine|Number=Sing	
-teljes	teljes	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-ellátás	ellátás	NOUN	Case=Nom|Number=Sing	
-alapú	alapú	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-villamos	villamos	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-energia	energia	NOUN	Case=Nom|Number=Sing	
-kereskedelmi	kereskedelmi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:463e183d34a12009b3b91bf437d8e17d0feabeea5d552a5ef2fc652471058982
+size 1318

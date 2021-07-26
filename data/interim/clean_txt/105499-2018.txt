@@ -1,7 +1,3 @@
-megbízási szerződés a
-délkelet-magyarországi szennyvízelvezetési és
-kezelési fejlesztés 2.
-dkmo2
-elnevezésű
-kehop-2
-2-15-2015-00045 azonosítószámú projekt keret műszaki ellenőri tevékenység ellátás
+version https://git-lfs.github.com/spec/v1
+oid sha256:7154504fde61b62488744760ba2c370c24314172d74f857e7e0796aea5f05538
+size 220

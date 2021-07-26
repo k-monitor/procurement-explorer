@@ -1,6 +1,3 @@
-villamos energia szállítás dunántúli gazdasági társaság részére
-31.12.2017
-időszak vonatkozó
-teljes ellátás alapú
-fogyasztói menetrend adás nélküli villamos energia adásvételi szerződés keret
-amely legfeljebb év év év vonatkozó meghosszabbítható
+version https://git-lfs.github.com/spec/v1
+oid sha256:6b87855a8d3384978075dc76ff9448a97ea2c8cd1c643efd112322c2affb348a
+size 274

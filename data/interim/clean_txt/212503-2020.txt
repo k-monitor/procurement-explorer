@@ -1,1 +1,3 @@
-keretmegállapodás tervellenőrzési feladat ellátás
+version https://git-lfs.github.com/spec/v1
+oid sha256:79c3045e6dcfb474828fefe49e14850a33a0a6ce03150e15a72cb7494098a8c5
+size 55

@@ -1,1 +1,3 @@
-A Magyar Államkincstár felvonó és emelő berendezéseinek üzemeltetése, karbantartása és javítása 3 évre a dokumentációban részletezettek szerint.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d78c7ae2b3c3160d25c4d41de8cd57d8434ad79e31b2b0ad3dc3a8171e7496dd
+size 160

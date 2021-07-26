@@ -1,1 +1,3 @@
-FIDIC mérnöki és műszaki ellenőri feladatok ellátása: 1. rész: „Bodrogközi Tisza-felső és a Bodrog bal parti árvízvédelmi rendszer fejlesztése - KEOP-2.1.1/2F/09-11-2011-0005” című pályázathoz kapcsolódóan; 2. rész: „Taktaköz-felső árvízvédelmi rendszer fejlesztése - KEOP-2.1.1/2F/09-11-2011-0006” című pályázathoz kapcsolódóan.
+version https://git-lfs.github.com/spec/v1
+oid sha256:992970b01ddf895439d0140b36490565a59ed432d751401e520673162cf46455
+size 371

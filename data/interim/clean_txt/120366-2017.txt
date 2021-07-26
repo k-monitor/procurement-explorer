@@ -1,14 +1,3 @@
-keretszerződés alap az mnb által
-fogyasztóbarát termék
-nek minősített lakáscélú jelzáloghitel társadalmi megismertetés érdek teljes körű
-szakszerű és határidő történő tájékoztatási feladat megvalósítás
-stratégia és javaslatok összeállítás
-továbbá a nem tervezett
-a kampány feladatleírás megjelenített
-a kampány közvetlen nem kapcsolódó részfeladat
-kreatív tervezés és gyártás
-médiavásárlás
-pr feladat
-ellátás a keretösszeg
-nettó 0000 huf
-kimerülés vagy későn 31.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b51f730db3d35d1d2d19082af41543775e2013995bbbc01b5d95915580077f9e
+size 526

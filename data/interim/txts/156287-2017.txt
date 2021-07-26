@@ -1,1 +1,3 @@
-Vagyon- felelősségbiztosítás, D&O (vezető tisztségviselők felelősségbiztosítása) és csoportos személybiztosítási szolgáltatások beszerzése 3 részfeladatban: 1. részfeladat: D&O felelősségbiztosítás; 2. részfeladat: Csoportos élet- és balesetbiztosítás; 3. részfeladat: Vagyon- és kombinált felelősségbiztosítás.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b756832265e35d913aec5c0e0580a47ce00a3246e87a6fb6ea4293f208a7794d
+size 347

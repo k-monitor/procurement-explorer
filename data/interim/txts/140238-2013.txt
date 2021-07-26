@@ -1,1 +1,3 @@
-Megbízási szerződés a „Szolnok (kiz.)-Szajol (kiz.) vasúti vonalszakasz kivitelezési munkáihoz kapcsolódó mérnöki tevékenység” tárgyában.
+version https://git-lfs.github.com/spec/v1
+oid sha256:48b7d07e48c434cff6c804489d88fbabafc5c8a532dcaaf8eb22943c93ec77a6
+size 156

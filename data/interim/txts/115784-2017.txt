@@ -1,1 +1,3 @@
-Mátrai Gyógyintézet- fűtőolaj beszerzése- 2017.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5b85abe22c374989e8c55729273ec1bacb4451805c67be827401d59bb1ab5663
+size 53

@@ -1,1 +1,3 @@
-győr város terület közvilágítási villamos energia beszerzés 2016. év
+version https://git-lfs.github.com/spec/v1
+oid sha256:ba6b9dec785f0c9baf31c71f71b1fce9cbe31cf364aa930c4687a8519fd3bb2f
+size 77

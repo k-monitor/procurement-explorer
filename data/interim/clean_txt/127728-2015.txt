@@ -1,7 +1,3 @@
-vállalkozási szerződés keret
-üzemlátogatás és iskolabemutató szervezés a támop-2
-2.7
-a-13
-1-2013-0001
-út a szakmaválasztás
-projekt keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:4306016ad411aa89ebc437ca2b085a6312b09707e6e38a93a186e6c6e968913e
+size 150

@@ -1,1 +1,3 @@
-Vállalkozási szerződés megkötése a BTI Zrt. kezelésében lévő temetői épületek és nyilvános illemhelyek takarítása tárgyában a dokumentációban részletezettek szerint.
+version https://git-lfs.github.com/spec/v1
+oid sha256:04ff237e1da63572c9110647bfe751d4bf25881feb27897601563948dc258963
+size 187

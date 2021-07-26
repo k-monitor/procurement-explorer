@@ -1,1 +1,3 @@
-Gépjárművek tartós bérlet keretében történő beszerzése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:891c4fd57f13a06309833fd23a748528cd5661e6de8dff2f81b2a2e65ca5bb05
+size 65

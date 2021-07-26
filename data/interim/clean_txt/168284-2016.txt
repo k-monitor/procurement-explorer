@@ -1,1 +1,3 @@
-adásvételi szerződés keret villamos energia beszerzés 2017. év a budapesti nagybani piac zrt. részére
+version https://git-lfs.github.com/spec/v1
+oid sha256:954140b1261eca996dd24ca6da80f8ce132f91c637c6f19d6948026bfd97377c
+size 109

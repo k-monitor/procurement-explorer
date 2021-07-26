@@ -1,3 +1,3 @@
-Adásvételi	adásvételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:b1612f697f2e7af42a8153b014402467b52acb30d3f6f44ef9b9f98bb6210a6e
+size 115

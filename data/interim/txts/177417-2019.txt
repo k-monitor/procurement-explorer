@@ -1,1 +1,3 @@
-Ajánlatkérő részére 200 db +30 % opció mennyiségben 24 hónap időtartamra MS Office 2019 Home and Business Hungarian EuroZone Medialess szoftvercsomag beszerzése a közbeszerzési dokumentumban meghatározott műszaki leírás szerint.
+version https://git-lfs.github.com/spec/v1
+oid sha256:058bf2d541b817b052b144d94abd5897db333f139df4e40d3413207ab04c15b1
+size 244

@@ -1,1 +1,3 @@
-Vállalkozási szerződés alapján az „Oktatásmenedzsment feladatokat támogató ASP rendszer és kiegészítő moduljainak fejlesztése”.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f4abd038c3286146650dadf4b2528b920b225c62cfa4d2700937ff8a278b4af3
+size 144

@@ -1,1 +1,3 @@
-Az FKF Nonprofit Zrt. Hulladékhasznosító Mű Üzemben üzemelő kazánok segédberendezéseinek gépészeti javítása, karbantartása.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1ffeeca78b5d95f5a9b95a85aedae18aa1d2b7d970cda51f0c93c040dc18c32a
+size 138

@@ -1,1 +1,3 @@
-Debrecen Megyei Jogú Város Egyesített Bölcsődei Intézményének Görgey Utcai Tagintézménye, a Mosolykert Óvoda Kismacsi Telephelye, a Karácsony György Utcai Óvoda és a Sinay Miklós Utcai Óvoda épületének energetikai korszerűsítéséhez szükséges felmérési és kiviteli tervdokumentáció elkészítése tervezési szerződés keretében
+version https://git-lfs.github.com/spec/v1
+oid sha256:46c9286fedae11d1fd6bc9b886622ea03f571706fb0c13eb6d91d3e518f32017
+size 361

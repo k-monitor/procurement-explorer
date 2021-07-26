@@ -1,3 +1,3 @@
-határidős adásvételi szerződés keret a magyar állami operaház és az erkel színház új műhelyház és próbacentrum logisztikai eszköz beszerzés a közbeszerzés pontos tárgy
-mennyiség
-a nyertes ajánlattevő feladat részletes a közbeszerzési dokumentum műszaki leírás fejezet kerül meghatározás
+version https://git-lfs.github.com/spec/v1
+oid sha256:5975398166c14735e1a032e695a7430ca9f49ffcbf4995108d0190400aa8f8fb
+size 319

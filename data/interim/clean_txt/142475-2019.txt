@@ -1,16 +1,3 @@
-a máv csoport személy-és vagyonvédelmi feladat ellátás
-mely keret között közcél átadott
-fizikai védelem nélküli üzemi magánterület ellátott
-kötöttpályás közlekedés biztonsági kockázat maga foglaló
-gördülő
-mozgó
-állomány védelem is kiterjedő személy
-és vagyonvédelmi feladat szükséges teljesít
-a beszerzés mennyiség ajánlatkérő a megkötendő szerződés
-keretmegállapodás
-érték meghatározás közöl a következő szerint
-nettó huf
-áfa
-ajánlatkérő fenntart maga a jog az
-hogy amennyiben a keretösszeg a hónapos időtartam alatt nem merül ki
-a keretmegállapodás időbeli hatály további hónap meghosszabbít
+version https://git-lfs.github.com/spec/v1
+oid sha256:9d600eb61ecb2d058d312d5fe8fc3230b5eba73f470a3ee5ad439c4158370d00
+size 669

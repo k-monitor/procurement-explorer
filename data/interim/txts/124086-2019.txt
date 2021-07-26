@@ -1,1 +1,3 @@
-Szállítási szerződés keretében elektrosebészeti eszközökhöz tartozékok beszerzése konszignációs raktár üzemeltetésével az alábbi részajánlatok szerint: I. rész: Olympus Thunderbeat típusú NF vágóhoz tartozékok II. rész: Medtronic ForceTriad típusú NF vágóhoz tartozékok III rész: Johnson&Johnson Harmonic UH vágóhoz tartozékok
+version https://git-lfs.github.com/spec/v1
+oid sha256:135096ad3d4666a0b9b2da872297e3073d2bc2774eb957895149b290ff2d7d18
+size 363

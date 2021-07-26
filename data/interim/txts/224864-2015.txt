@@ -1,1 +1,3 @@
-Adásvételi szerződés keretében orvostechnikai berendezések beszerzése és kapcsolódó szolgáltatások teljesítése 3 részben: 1. rész: Digitális mennyezeti sínes felvételi röntgen berendezés és digitális mobil röntgen felvételi berendezés beszerzése; 2. rész: Digitális mammográfiás röntgen berendezés beszerzése; 3. rész: Digitális C íves képerősítő berendezés beszerzése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4ae8c5cec369fd1d0220d50c417d3ed713968003310ad5ec284ce6abd7226bda
+size 412

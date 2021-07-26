@@ -1,7 +1,3 @@
-Tűzifa	tűzifa	NOUN	Case=Nom|Number=Sing	
-beszerzés	beszerzés	NOUN	Case=Nom|Number=Sing	
-teljeskörű	teljeskörű	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-logisztikai	logisztikai	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szolgáltatással	szolgáltatás	NOUN	Case=Ins|Number=Sing	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:5c3ab8fdba54711b3e9f40500af0c233bdab76d5f6cb197484199be72ceef038
+size 290

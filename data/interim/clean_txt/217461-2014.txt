@@ -1,2 +1,3 @@
-szolgáltatási szerződés keret a fővárosi közterület-fenntartó zrt. oracle vállalatirányítási rendszer licenc vásárlás
-vállalatirányítási és kontrolling rendszer üzemeltetés kapcsolatos szakértői támogatás beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:96349721582f430756624a359908ee05908ec20e544312e8dd691a56d19d2d58
+size 242

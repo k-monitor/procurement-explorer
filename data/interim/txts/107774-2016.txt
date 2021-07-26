@@ -1,1 +1,3 @@
-Földgáz szállítása 1.7.2016 6:00 CET – 1.10.2018 6:00 CET időszakra vonatkozóan, teljes ellátás alapú földgáz kereskedelmi szerződés keretében Szentendrén. 29 db fogyasztási hely, összesen 613 071 m³/év.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9f3a04eda6108f1f7fff06f251dbf6b2406ed675f7f9c4ff73191b5943b5a3b5
+size 225

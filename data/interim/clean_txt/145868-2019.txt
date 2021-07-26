@@ -1,14 +1,3 @@
-ajánlatkérő az intézmény működő lakossági gyógyszerellátás végző vényforgalmú gyógyszertár részére hónap szükséges különféle gyógyszer
-beleértve a magisztrális készítmény is
-kötszer
-gyógyászati segédeszköz és egyéb készítmény kíván megvásárol a kbt. 104. §
-bekezdés alap ajánlattevő megkötött keretmegállapodás alap
-a kbt. 105. §
-bekezdés a
-pont alap
-az esetenkénti megrendelés
-a 104. §
-bekezdés szerinti keretmegállapodás meghatározott feltétel szerint
-az ajánlatkérő által közvetlen megrendelés útján a 105. §
-bekezdés a
-pont szerint kiválasztott ajánlattevő történik
+version https://git-lfs.github.com/spec/v1
+oid sha256:9b1c14d9ed2caa80189efab21c53d09d077e506788ffa04cd3eccfb32151642e
+size 648

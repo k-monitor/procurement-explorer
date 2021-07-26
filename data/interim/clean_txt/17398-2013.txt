@@ -1,7 +1,3 @@
-szolgáltatási szerződés a nemzeti adó
-és vámhivatal tulajdon lévő oracle licenc frissítés
-megújítás
-reinstatement
-műszaki támogatás és karbantartás
-support
-tárgyú szolgáltatás nyújtás a dokumentáció részletezett szerint
+version https://git-lfs.github.com/spec/v1
+oid sha256:0a32d9a90c5e6dc961c81205c65f22253387f4b799c3914fef6d23077154d891
+size 247

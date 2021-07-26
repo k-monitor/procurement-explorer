@@ -1,1 +1,3 @@
-Vállalkozási szerződés a "Szennyvíz infrastruktúra-fejlesztés Cegléden, a fenntartható fejlődésért elnevezésű" projekt (Kódszám: KEOP-1.2.0/09-11-2011-0032) keretében, (FIDIC piros könyv szerint) kivitelezési munkák elvégzése tárgyában.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7396058d4920475ef3be67461011ec2a418b7b1f82706dddba7c7d952abd3893
+size 260

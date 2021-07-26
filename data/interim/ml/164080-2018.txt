@@ -1,28 +1,3 @@
-Adás-vételi	Adás-vételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-az	az	DET	Definite=Def|PronType=Art	
-Intézmény	intézmény	NOUN	Case=Nom|Number=Sing	
-részére	rész	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-36	36	NUM	Case=Nom|NumType=Card|Number=Sing	
-hónapban	hónap	NOUN	Case=Ine|Number=Sing	
-szükséges	szükséges	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-különféle	különféle	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szemlencsék	szemlencse	NOUN	Case=Nom|Number=Plur	
-,	,	PUNCT	_	
-és	és	CONJ	_	
-tartozékainak	tartozék	NOUN	Case=Gen|Number=Plur|Number[psor]=Sing|Person[psor]=3	
-beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-,	,	PUNCT	_	
-konszignációs	konszignációs	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-raktár	raktár	NOUN	Case=Nom|Number=Sing	
-,	,	PUNCT	_	
-valamint	valamint	CONJ	_	
-beültető	beültető	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-műszerkészlet	műszerkészlet	NOUN	Case=Nom|Number=Sing	
-biztosításával	biztosítás	NOUN	Case=Ins|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-és	és	CONJ	_	
-készülékek	készülék	NOUN	Case=Nom|Number=Plur	
-kihelyezésével	kihelyezés	NOUN	Case=Ins|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:3691d32486ae7fee0711a3ed963376b794597d41767908bb27e513abe24f2211
+size 1381

@@ -1,1 +1,3 @@
-Szállítási szerződés - Budapest Főváros XVI. Kerületi Önkormányzat és intézményei részére vezetékes földgáz beszerzése 2013.
+version https://git-lfs.github.com/spec/v1
+oid sha256:194c9c3dcf5d6d0c43cad5482108e219dc1ce54322ab0e60c52201cc13033175
+size 143

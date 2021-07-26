@@ -1,1 +1,3 @@
-Medikai informatikai szoftverrendszer telepítése, bevezetése, karbantartása (szupport, szoftverkövetés, jogszabálykövetés) és üzemeltetés támogatása (távoli) komplex szolgáltatás formájában az ajánlatkérő számára, az ajánlatkérő valamennyi telephelyén egységesen, a Közbeszerzési Dokumentumokban meghatározott feltételekkel.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9fe311c07632c69794cb69e243de6c9d14395fa8ec91ffcfac13354b11c61fbf
+size 357

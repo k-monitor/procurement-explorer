@@ -1,2 +1,3 @@
-szállítási szerződés
-mobil laboratóriumi eszköz beszerzés a debreceni egyetem részére
+version https://git-lfs.github.com/spec/v1
+oid sha256:76ab5b4c78d2a51cf5351ebb19abac56a1e7e484f3bb15f3037308bbedebcc51
+size 95

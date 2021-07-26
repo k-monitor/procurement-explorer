@@ -1,1 +1,3 @@
-Szállítási szerződés különböző típusú koporsók beszerzésére.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2525c4d5e8bedca07ff096b752dbb2d7d873585a07c1abe94ba214f7100e2870
+size 74

@@ -1,1 +1,3 @@
-Étkeztetési szolgáltatás biztosítása a Békéscsabai Kistérségi Egyesített Szociális Központ 14 telephelye számára. 1. rész: Ebéd biztosítása 12 telephelyen. 2. rész: Bentlakásos ellátás biztosítása napi öt étkezéssel 2 telephelyen. 3. rész: Diétás étkeztetés biztosítása 14 telephelyen.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f59500085d150607bff13566b7dd490d5ead2da0c5fe407c3d3a41f6e293ed36
+size 320

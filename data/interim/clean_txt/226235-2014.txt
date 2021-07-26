@@ -1,1 +1,3 @@
-szállítási szerződés aneszteziológiai eszköz beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:bea49b7836ffde3b0b2b140140f67499fbb71933943ff84704d8b672dec452b2
+size 62

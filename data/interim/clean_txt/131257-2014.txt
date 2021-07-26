@@ -1,15 +1,3 @@
-adásvételi keretszerződés
-az e-út 05. 02.
-út
-útügyi műszaki előírás megfelelő ac alap
-ac 11 kötő
-ac kötő
-ac kötő
-ac kötő
-f
-ac 4 kopó
-ac kopó
-ac11 kopó
-ac kopó
-f
-típusú melegaszfalt beszerzés keverőtelepi átvétel
+version https://git-lfs.github.com/spec/v1
+oid sha256:a505617c3761241e8b032378e90f5732a62069cf179d1fb32171f5541fdf2add
+size 242

@@ -1,1 +1,3 @@
-Gyógyszerek beszerzése 322 rész tekintetében a Pest Megyei Flór Ferenc Kórház számára. Gyógyszerek és infúziók 168 986 (db, doboz,) 144 600 adag LMWH, magisztrális alapanyagok 2 498 810 gramm.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ceffbc66facfe3a44dbcd8b13b2ada52e88a716c312cf4988a71df6b322c3db9
+size 206

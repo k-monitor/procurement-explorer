@@ -1,3 +1,3 @@
-szállítási szerződés a nyugat-magyarországi egyetem 4.2.2
-a-11
-konv-2012-0004 támogatás megvalósuló projekt kapcsolódó kutatási eszköz
+version https://git-lfs.github.com/spec/v1
+oid sha256:f68dcf52485a7c54d46dd1b7465868d588102e750cd5243d83431deeb064292f
+size 148

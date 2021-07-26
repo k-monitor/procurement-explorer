@@ -1,5 +1,3 @@
-megbízási szerződés a
-madaras és katymár település szennyvízhálózat és szennyvíztisztító telep építés
-elnevezésű
-kehop-2
-2-15-2015-00012 azonosítószámú projekt keret műszaki ellenőri tevékenység ellátás
+version https://git-lfs.github.com/spec/v1
+oid sha256:1bb69ca5854f2960eec93ed9b4d4484c72e7092eee4e600871097e040548cfc8
+size 232

@@ -1,10 +1,3 @@
-1. rész
-debreceni református kollégium gimnázium és általános iskola kialakítás a debrecen
-péterfia u.
-sz. alatti épület
-2. rész
-kölcsey ferenc református gyakorló általános iskola tornaterem bővítés
-épület kivitelezési munkái vállalkozási szerződés keret
-a szerződés egyösszegű
-átalányáras
-típusú
+version https://git-lfs.github.com/spec/v1
+oid sha256:d881bf0a96f895eeaf4b6c8b19ba6b1096a8c1ae78228eb367709380f323bd2a
+size 335

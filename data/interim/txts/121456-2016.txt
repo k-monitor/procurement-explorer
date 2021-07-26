@@ -1,1 +1,3 @@
-Összességében nettó 120 000 000 HUF – 30 % keretösszeg erejéig adásvételi szerződés keretében nyári úttisztító felépítmény-, adapterek-, és felépítmény motor gyári eredeti új, és gyári felújított alkatrészek beszerzése és szállítása.
+version https://git-lfs.github.com/spec/v1
+oid sha256:82f114b3d846e991d3b7ebda68fef4f0c9e24935884ab4042fffe4fa4ecc8891
+size 269

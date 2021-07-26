@@ -1,4 +1,3 @@
-szállítási szerződés rászorultsági alap pályázat alap
-valamint köznevelési intézmény kiosztás kerülő notebook és kapcsolódó szoftver szállítás
-illetve szolgáltatás teljesítés a dnfp nyíregyházi település-központú kísérleti alprogram c
-projekt keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:cae35daac0e2c7529d0732eef97e347b7713efaaaa33d861033d86c8519f336c
+size 282

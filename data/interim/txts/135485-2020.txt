@@ -1,1 +1,3 @@
-Fordított ozmózisos technológiával működő csurgalékvíztisztító berendezés bérlete.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7e3893019f7c16ebc380cc3b6ba135bb452bc33e33aaf94e674681babcae29e2
+size 95

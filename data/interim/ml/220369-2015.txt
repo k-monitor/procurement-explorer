@@ -1,25 +1,3 @@
-Adásvételi	adásvételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződéssel	szerződés	NOUN	Case=Ins|Number=Sing	
-vegyes	vegyes	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szolgáltatási	szolgáltatási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-CT	CT	NOUN	Case=Nom|Number=Sing	
-,	,	PUNCT	_	
-beépített	beépített	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPast	
-és	és	CONJ	_	
-mobil	mobil	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-röntgen	röntgen	NOUN	Case=Nom|Number=Sing	
-,	,	PUNCT	_	
-valamint	valamint	CONJ	_	
-mammográf	mammográf	NOUN	Case=Nom|Number=Sing	
-beszerzésére	beszerzés	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-KEOP	KEOP	PROPN	Case=Nom|Number=Sing	
-5.6.0	5.6.0	PROPN	Case=Nom|Number=Sing	
-/	/	PUNCT	_	
-E	e	PRON	Case=Nom|Number=Sing|Person=3|PronType=Dem	
-/	/	PUNCT	_	
-15	15	NUM	Case=Nom|NumType=Card|Number=Sing	
-pályázati	pályázati	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-forrásból	forrás	NOUN	Case=Ela|Number=Sing	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:4a923531a8455481d3beba45a6021e78c4fa5956dc5d8c6078d3997e15760f62
+size 1021

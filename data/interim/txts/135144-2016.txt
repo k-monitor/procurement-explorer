@@ -1,1 +1,3 @@
-Paksi Vízi színpad létesítése vállalkozási szerződés keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a97d16ab5a93ff24f9f7efeee44b413b2fde523145374c96d8400b51a0581a6d
+size 73

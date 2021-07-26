@@ -1,1 +1,3 @@
-I. rész: Híd fővizsgálati feladatok elvégzése (M3) vállalkozási keretszerződés alapján; II. rész: Híd fővizsgálati feladatok elvégzése (M1, M3, M9, M30) vállalkozási keretszerződés alapján; III. rész: Hidak célvizsgálata (M2) vállalkozási keretszerződés alapján; IV. rész: Hidak célvizsgálata (M1) vállalkozási keretszerződés alapján.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bb2e3e396ae2232c1bcceb6d7e8628dc258a66d1c3b9c1057cc8b5dc3139163b
+size 372

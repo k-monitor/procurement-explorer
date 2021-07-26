@@ -1,1 +1,3 @@
-Faátültetési és előkészítési munkák elvégzése a Városliget területén
+version https://git-lfs.github.com/spec/v1
+oid sha256:38130d021f7334acb1449467f8fb1d762e3bcbaac6bbc0b7844c9177cf70a7f8
+size 82

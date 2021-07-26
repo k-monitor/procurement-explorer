@@ -1,36 +1,3 @@
-A	a	DET	Definite=Def|PronType=Art	
-Debreceni	debreceni	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-Egyetem	Egyetem	PROPN	Case=Nom|Number=Sing	
-Debrecen	Debrecen	PROPN	Case=Nom|Number=Sing	
-,	,	PUNCT	_	
-Egyetem	Egyetem	PROPN	Case=Nom|Number=Sing	
-tér	tér	PROPN	Case=Nom|Number=Sing	
-1.	1.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
-sz.	sz.	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-alatti	alatti	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-Élettudományi	élettudományi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-Épület	épület	NOUN	Case=Nom|Number=Sing	
-és	és	CONJ	_	
-Könyvtár	könyvtár	NOUN	Case=Nom|Number=Sing	
-műszaki	műszaki	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-üzemeltetésére	üzemeltetés	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-(	(	PUNCT	_	
-felügyelet	felügyelet	NOUN	Case=Nom|Number=Sing	
-,	,	PUNCT	_	
-karbantartás	karbantartás	NOUN	Case=Nom|Number=Sing	
-,	,	PUNCT	_	
-hibaelhárítás	hibaelhárítás	NOUN	Case=Nom|Number=Sing	
-,	,	PUNCT	_	
-kivétel	kivétel	NOUN	Case=Nom|Number=Sing	
-a	a	DET	Definite=Def|PronType=Art	
-hőellátó	hőellátó	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-és	és	CONJ	_	
-az	az	DET	Definite=Def|PronType=Art	
-informatikai	informatikai	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-rendszer	rendszer	NOUN	Case=Nom|Number=Sing	
-üzemeltetése	üzemeltetés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-)	)	PUNCT	_	
-üzemeltetési	üzemeltetési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:b8a13fa7a1bd61bcad0318ccda51fa61ed89e4114ac5f1e199e228fc2e338293
+size 1516

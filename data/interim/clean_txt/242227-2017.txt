@@ -1,2 +1,3 @@
-adásvételi szerződés a jelenlegi tároló és mentési rendszer fejlesztés
-az eszköz műszaki követelmény és konfiguráció részletes a közbeszerzési műszaki leírás tartalmaz
+version https://git-lfs.github.com/spec/v1
+oid sha256:1324f256aef0df169a8e8d8c5461c67789b278512b55e6b9d83e7801c9f099d8
+size 189

@@ -1,1 +1,3 @@
-Veszettség elleni orális vakcina beszerzése, vakcinázás és kapcsolódó szolgáltatások ellátása
+version https://git-lfs.github.com/spec/v1
+oid sha256:2e360998da6d4b69c5853af5cbdd9121c207625087adafca4e13acc5a6518b95
+size 105

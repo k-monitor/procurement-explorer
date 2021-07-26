@@ -1,5 +1,3 @@
-vállalkozási szerződés bp. főv
-ker
-önk
-gondozóház részére ételkészítési és szállítási szolgáltatás biztosítás
-hónapos határozott időtartam
+version https://git-lfs.github.com/spec/v1
+oid sha256:be31b869be3db38e06a9f3a2589d3d4010b434219127aa0dfea4044e4e074181
+size 163

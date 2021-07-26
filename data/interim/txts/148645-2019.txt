@@ -1,1 +1,3 @@
-Száraz- és konzerváru, valamint cukrászsütemények beszerzése adásvételi szerződés keretében
+version https://git-lfs.github.com/spec/v1
+oid sha256:39c8fc43b0ea24a9881282b70cf2a37191d41c01febb4e8a92436a3419272d01
+size 103

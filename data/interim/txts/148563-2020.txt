@@ -1,1 +1,3 @@
-Vállalkozási keretszerződés keretében a Gyöngyösoroszi Bányavíz-kezelő Üzem I. számú, 14 000 m3 kapacitású puffertározójában lévő híg iszap kitermelése, részleges víztelenítése és a Megrendelő által biztosított konténerekbe történő rakodása (mintegy: 2 000 – 2500 tonna);
+version https://git-lfs.github.com/spec/v1
+oid sha256:933632343e0695e1e8724221425e99c7471c26576049a8106bcaf167ed7cdd7a
+size 308

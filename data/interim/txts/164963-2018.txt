@@ -1,1 +1,3 @@
-A Zánkai Erzsébet-tábor és a Fonyódligeti Erzsébet-tábor megvalósításához kapcsolódó sportlétesítmények tervezési és beruházás lebonyolítói feladatok ellátása megbízási szerződés keretében EFOP-1.2.12-17-2017-00006 pályázati forrásból.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fd0ca84628e267abf5294edb666ba15ec4b89a8824ab829e4d6c29720bbd9501
+size 268

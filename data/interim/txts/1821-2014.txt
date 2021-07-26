@@ -1,1 +1,3 @@
-A Nemzeti Adó- és Vámhivatal Közép-dunántúli Regionális Adó Főigazgatósága telephelyeire beérkező adóbevallások számítógépes adatrögzítése és a feldolgozásához kapcsolódó adminisztratív feladatok ellátása.
+version https://git-lfs.github.com/spec/v1
+oid sha256:acb35bdb4058518d39a8a634c50dbf7247bf8d4501fe9d13016d311a5254d7da
+size 236

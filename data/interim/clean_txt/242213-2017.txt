@@ -1,1 +1,3 @@
-élelmiszer beszerzés az 1. sz. gazdasági működtető központ részére adásvételi keretszerződés keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:b294cde642edda8b69fc9cb3a1d8cb68ab99915914e34ea7519674e251541bed
+size 111

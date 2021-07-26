@@ -1,4 +1,3 @@
-szerződés meghatározás
-hitelszerződés
-szerződés tárgy
-működési célú hitelkeret biztosítás
+version https://git-lfs.github.com/spec/v1
+oid sha256:37f25b49db35cebd2832934d8ae675879a3ff5e1c7f18ba8bf6666718850b37f
+size 105

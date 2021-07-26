@@ -1,1 +1,3 @@
-Szállítási keretszerződés a MÁV-START Zrt munkavállalói részére a társaság VBKJ rendszere keretében nyújtott iskolakezdési értékutalványok beszerzésére.
+version https://git-lfs.github.com/spec/v1
+oid sha256:04d5ba34716db2ecb759dec184037bcc230d21581b2de40d3c5f7274059d8273
+size 172

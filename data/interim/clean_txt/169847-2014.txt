@@ -1,4 +1,3 @@
-pr és szakmai kiadvány nyomdai munka elvégzés és kiadói gondozás rész a nav részére év
-1. rész legfeljebb nettó m huf keretösszeg
-a 2. rész legfeljebb nettó m huf keretösszeg teljesülés
-a szerződéskötés időpont számítva éves időtartam
+version https://git-lfs.github.com/spec/v1
+oid sha256:166e92313c138b49963343090bee0ebd620a5658941a72059445cce99707b26b
+size 262

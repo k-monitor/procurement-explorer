@@ -1,12 +1,3 @@
-A	a	DET	Definite=Def|PronType=Art	
-Debreceni	debreceni	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-Nemzetközi	Nemzetközi	PROPN	Case=Nom|Number=Sing	
-Repülőtér	repülőtér	NOUN	Case=Nom|Number=Sing	
-technikai	technikai	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-fejlesztése	fejlesztés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-projekt	projekt	NOUN	Case=Nom|Number=Sing	
-tervezési	tervezési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-feladatainak	feladat	NOUN	Case=Gen|Number=Plur|Number[psor]=Sing|Person[psor]=3	
-ellátása	ellátás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:b142ea03a4e3710e532c428c11ca8621b00f4d6d761ee77d6846e3922383cc36
+size 617

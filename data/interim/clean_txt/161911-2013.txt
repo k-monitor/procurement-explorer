@@ -1,1 +1,3 @@
-em-559 deoec részére db ultrahang diagnosztikai készülék beszerzés irányuló szállítási szerződés
+version https://git-lfs.github.com/spec/v1
+oid sha256:1fa12f80ee58f6ffb64f6b3b23bcc858235edc3a43542f87dbd858cc4bb65df7
+size 109

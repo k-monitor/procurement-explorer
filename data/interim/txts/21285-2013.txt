@@ -1,1 +1,3 @@
-Biztosítási szolgáltatás nyújtása az NMHH részére, határozott idejű (12 hónapos) biztosítási szerződés keretében a következő részajánlattételi lehetőségekkel: I. részajánlat: Vagyonbiztosítás, Üvegbiztosítás, II. részajánlat: Felelősségbiztosítás, III. részajánlat: Casco, IV. részajánlat: Elektronikus berendezések biztosítása.
+version https://git-lfs.github.com/spec/v1
+oid sha256:eb0a874a47ebf3fa8a657e8ca69b7f85dc3562a2aabffabb7a68a3599c160806
+size 371

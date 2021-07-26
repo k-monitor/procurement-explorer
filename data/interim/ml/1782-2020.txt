@@ -1,25 +1,3 @@
-Légalkoholmérők	légalkoholmérö	NOUN	Case=Nom|Number=Plur	
-javítása	javítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-,	,	PUNCT	_	
-előírás	előírás	NOUN	Case=Nom|Number=Sing	
-szerinti	szerinti	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-kalibrálása	kalibrálás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-,	,	PUNCT	_	
-hitelesítésre	hitelesítés	NOUN	Case=Sub|Number=Sing	
-történő	történő	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-felkészítése	felkészítés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
--	-	PUNCT	_	
-szolgáltatási	szolgáltatási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-keretszerződés	keretszerződés	NOUN	Case=Nom|Number=Sing	
-A	a	DET	Definite=Def|PronType=Art	
-megnevezésben	megnevezés	NOUN	Case=Ine|Number=Sing	
-szereplő	szereplő	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-termék	termék	NOUN	Case=Nom|Number=Sing	
-pontos	pontos	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-paramétereit	paraméter	NOUN	Case=Acc|Number=Plur|Number[psor]=Sing|Person[psor]=3	
-a	a	DET	Definite=Def|PronType=Art	
-műszaki	műszaki	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-leírás	leírás	NOUN	Case=Nom|Number=Sing	
-tartalmazza	tartalmaz	VERB	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:82a4c6a9a50a6cbeea2f11b1f7f41a2a29511a33bbdc5c59d69c4e29c74aa77a
+size 1327

@@ -1,1 +1,3 @@
-Szerződés meghatározása: Hitelszerződés. Szerződés tárgya: Működési célú hitelkeret biztosítása.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ff0dd6373abac9303e5cec941b7d9f0a7e2bc6d7ff73f83a584faaa6f9f62808
+size 112

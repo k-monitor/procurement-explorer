@@ -1,1 +1,3 @@
-A Bábolna Nemzeti Ménesbirtok Kft. részére földgáz energia szállítása, teljes ellátás alapú földgáz energia szállítási szerződés keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a5d3634c13dc8f1a76ffb848051df400fd016e9eaa3b422e559cba0b756bb49a
+size 159

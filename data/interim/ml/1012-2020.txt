@@ -1,26 +1,3 @@
-Dunakiliti-Dobrohošt	Dunakiliti-Dobrohošt	PROPN	Case=Nom|Number=Sing	
-'	'	PUNCT	_	
-(	(	PUNCT	_	
-Doborgaz	doborgaz	NOUN	Case=Nom|Number=Sing	
-)	)	PUNCT	_	
-gyalogos-kerékpáros	gyalogos-kerékpáros	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-Duna-híd	Duna-híd	NOUN	Case=Nom|Number=Sing	
-kiépítése	kiépítés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-a	a	DET	Definite=Def|PronType=Art	
-hozzá	ő	PRON	Case=All|Number=Sing|Person=3|PronType=Prs	
-vezető	vezető	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-szakaszokkal	szakasz	NOUN	Case=Ins|Number=Plur	
-,	,	PUNCT	_	
-műtárgyakkal	műtárgy	NOUN	Case=Ins|Number=Plur	
-fejlesztés	fejlesztés	NOUN	Case=Nom|Number=Sing	
-keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-a	a	DET	Definite=Def|PronType=Art	
-magyar	magyar	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-oldali	oldali	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-megközelítő	megközelítő	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-út	út	NOUN	Case=Nom|Number=Sing	
-és	és	CONJ	_	
-ártéri	ártéri	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-híd	híd	NOUN	Case=Nom|Number=Sing	
-kivitelezése	kivitelezés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:530c835bc9227dc33840f504b4332374012b7e6beae0da5314cf2443714304fc
+size 1228

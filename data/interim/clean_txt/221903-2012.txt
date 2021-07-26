@@ -1,13 +1,3 @@
-fidic mérnöki és műszaki ellenőri feladat ellátás
-1. rész
-bodrogközi tisza-felső és a bodrog bal parti árvízvédelmi rendszer fejlesztés
-keop-2
-1.1
-09-11-2011-0005
-című pályázat kapcsolódó
-2. rész
-taktaköz-felső árvízvédelmi rendszer fejlesztés
-keop-2
-1.1
-09-11-2011-0006
-című pályázat kapcsolódó
+version https://git-lfs.github.com/spec/v1
+oid sha256:8bd81de1a23b762a905a812557e9742ea392352dfcc680fe752acaa75e0cac7d
+size 329

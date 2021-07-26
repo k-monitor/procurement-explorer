@@ -1,18 +1,3 @@
-Folyószámlahitel	folyószámlahitel	NOUN	Case=Nom|Number=Sing	
-biztosítása	biztosítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-összesen	összesen	ADV	_	
-5	5	NUM	Case=Nom|NumType=Card|Number=Sing	
-100	100	NUM	Case=Nom|NumType=Card|Number=Sing	
-000	000	NUM	Case=Nom|NumType=Card|Number=Sing	
-000	000	NUM	Case=Nom|NumType=Card|Number=Sing	
-HUF	HUF	PROPN	Case=Nom|Number=Sing	
-,	,	PUNCT	_	
-azaz	azaz	CONJ	_	
-ötmilliárd-egyszázmillió	ötmilliárd-egyszázmillió	NUM	Case=Nom|NumType=Card|Number=Sing	
-forint	forint	NOUN	Case=Nom|Number=Sing	
-értékben	érték	NOUN	Case=Ine|Number=Sing	
-,	,	PUNCT	_	
-hitelszerződés	hitelszerződés	NOUN	Case=Nom|Number=Sing	
-formájában	forma	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:d55b6ce803eefb361b24fc871814825a16444a0b5179520f575ee6b03cc0bdbe
+size 781

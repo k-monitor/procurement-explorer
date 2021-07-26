@@ -1,1 +1,3 @@
-Határidős adásvételi szerződés automatikus termikus deszorber, valamint gáz- és folyadékkromatográf-tömegspektrométer rendszerek beszerzésére.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0a27de55462259b7477d9c4ac778b0192d16de6061e5f2bf3ece1c8123631479
+size 156

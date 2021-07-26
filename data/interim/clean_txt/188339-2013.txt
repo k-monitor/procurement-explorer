@@ -1,1 +1,3 @@
-budapest főváros
+version https://git-lfs.github.com/spec/v1
+oid sha256:a7542171a861865a2ec065839073782fc4074fbca2dafb489b71863b93296a0e
+size 18

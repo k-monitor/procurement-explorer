@@ -1,8 +1,3 @@
-magyarországi kiadású
-magyarországi kiadó közvetlen beszerezhető
-különböző oktatási és tudományos tevékenység kapcsolódó
-tudományos és szakmai könyv beszerzés
-és a megrendelő egyes telephely történő kiszállítás
-adásvételi
-szállítási
-keretszerződés keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:012d5da7e122c8bda52c948ae1c2a723a4b7542c9b9aa66445f7d424538da32b
+size 290

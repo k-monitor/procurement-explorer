@@ -1,2 +1,3 @@
-a nemzeti adó
-és vámhivatal szakértői intézete részére mérőműszer beszerzés rész
+version https://git-lfs.github.com/spec/v1
+oid sha256:99cba55cf1b6d1979012b11bb85b7e87708b723959ded138142b1c30fa851b13
+size 93

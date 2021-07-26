@@ -1,1 +1,3 @@
-Orvostechnikai eszközök beszerzésére vonatkozó adásvételi szerződés a TIOP-2.2.6-12/1B-2013-0027 azonosítószámú „Infrastruktúra fejlesztés a Jászberényi Szent Erzsébet Kórházban” c. pályázat keretei között.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4b08283a1d35a0a3c8001ab57d50acdac0db8159d972c74ce01f854c39447c1a
+size 234

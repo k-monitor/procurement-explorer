@@ -1,4 +1,3 @@
-Közétkeztetés	közétkeztetés	NOUN	Case=Nom|Number=Sing	
-Székesfehérvár	Székesfehérvár	PROPN	Case=Nom|Number=Sing	
-2020	2020	NUM	Case=Nom|NumType=Card|Number=Sing	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:82f199635fe82cea7beedeed446c4e219fdf3975f4a867bdec58e77fcb476371
+size 175

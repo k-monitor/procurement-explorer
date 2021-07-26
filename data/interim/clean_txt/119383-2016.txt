@@ -1,4 +1,3 @@
-a duna transznacionális program lebonyolítás támogató monitoring és információs rendszer
-danube monitoring system dms
-fejlesztés
-bevezetés és működés-támogatás
+version https://git-lfs.github.com/spec/v1
+oid sha256:766f3c5fefa65f879b97757cc8b473c1cdaf351921bae3233fa0b742100458d6
+size 175

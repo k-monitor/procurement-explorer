@@ -1,1 +1,3 @@
-Vállalkozási szerződés „Mosonmagyaróvár oktatási intézményei és óvodái részére takarítási és portaszolgálati tevékenység ellátása” 36 hónap időtartamban.
+version https://git-lfs.github.com/spec/v1
+oid sha256:618ee2fc885ffc0d5bc89ac819bafedbb8ce636a8b82b0e1afa55892bc434143
+size 181

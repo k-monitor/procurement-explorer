@@ -1,1 +1,3 @@
-Sárvár Város közigazgatási területén a közterület-fenntartási feladatok ellátása.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ac503b98727982548282492e4de7e302c4aa61b37981db7b964f63e07effecb8
+size 93

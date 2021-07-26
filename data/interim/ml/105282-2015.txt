@@ -1,31 +1,3 @@
-Vállalkozási	Vállalkozási	PROPN	Case=Nom|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-megkötése	megkötés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-„	„	PUNCT	_	
-Megvalósíthatósági	megvalósíthatósági	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-tanulmány	tanulmány	NOUN	Case=Nom|Number=Sing	
-készítése	készítés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-és	és	CONJ	_	
-tervezési	tervezési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-feladatok	feladat	NOUN	Case=Nom|Number=Plur	
-elvégzése	elvégzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-"	"	PUNCT	_	
-a	a	DET	Definite=Def|PronType=Art	
-Honvédelmi	Honvédelmi	PROPN	Case=Nom|Number=Sing	
-Minisztérium	Minisztérium	PROPN	Case=Nom|Number=Sing	
-Védelemgazdasági	védelemgazdasági	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-Hivatal	Hivatal	PROPN	Case=Nom|Number=Sing	
-KEOP	KEOP	PROPN	Case=Nom|Number=Sing	
-7.9.0	7.9.0	PROPN	Case=Nom|Number=Sing	
-/	/	PUNCT	_	
-12	12	NUM	Case=Nom|NumType=Card|Number=Sing	
-/	/	PUNCT	_	
-A	a	DET	Definite=Def|PronType=Art	
-konstrukcióban	konstrukció	NOUN	Case=Ine|Number=Sing	
-támogatást	támogatás	NOUN	Case=Acc|Number=Sing	
-nyert	nyer	VERB	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	
-13	13	NUM	Case=Nom|NumType=Card|Number=Sing	
-pályázat	pályázat	NOUN	Case=Nom|Number=Sing	
-keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:848da813f74b70c6394f1da2445a5fb8627018d99a454b3ebd2d54182caa441a
+size 1475

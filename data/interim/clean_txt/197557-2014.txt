@@ -1,1 +1,3 @@
-megbízási szerződés keret a somogy megyei kaposi mór oktató kórház részére takarítási szolgáltatás ellátás
+version https://git-lfs.github.com/spec/v1
+oid sha256:5b8e671ff2ad36c6f9c208a57835eff8948dc990c24f6864526a90eea756ce27
+size 122

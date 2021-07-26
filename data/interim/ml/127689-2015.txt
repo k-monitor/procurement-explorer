@@ -1,8 +1,3 @@
-Forgalmi	forgalmi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
--	-	PUNCT	_	
-és	és	CONJ	_	
-utasellenőrzési	utasellenőrzési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-tevékenység	tevékenység	NOUN	Case=Nom|Number=Sing	
-ellátása	ellátás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:423ea189d3da31118349a5f3919dfe3932453b6ffb36d0b762114cb659ea556f
+size 307

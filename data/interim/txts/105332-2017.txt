@@ -1,1 +1,3 @@
-Adás-vételi szerződés keretében az Intézmény részére 24 hónapban szükséges különféle laboratóriumi diagnosztikumok leszállítása, egyrészt a saját tulajdonában lévő laboratóriumi készülékek működtetéséhez, másrészt pedig az V. rész esetében gyárilag új vagy 2 évesnél nem régebbi demo laboratóriumi készülékek kihelyezésével együtt, továbbá a használatba adásra kerülő készülékek on-line csatlakozásának biztosítása Ajánlatkérő mindenkori informatikai rendszeréhez. Jelenleg Ajánlatkérőnél Hospitaly ® medMátrix integrált szakmai szoftver rendszer illetve, ANDROMÉDA laboratóriumi információs rendszer működik.
+version https://git-lfs.github.com/spec/v1
+oid sha256:764fb3209e84b3081a3b0b6c23a4cd50dcb7965804abccb73b2c52bdeda97073
+size 687

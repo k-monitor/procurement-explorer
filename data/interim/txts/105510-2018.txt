@@ -1,1 +1,3 @@
-Megbízási szerződés az „Észak- és Közép-Dunántúli szennyvízelvezetési és -kezelési fejlesztés 2. (ÉKDU 2)” elnevezésű (KEHOP-2.2.2-15-2015-00044) projektben műszaki ellenőri tevékenység ellátására.
+version https://git-lfs.github.com/spec/v1
+oid sha256:992efab23e47be28ba4954e937324602b0f75f86ad5a436f9832009987ec0103
+size 226

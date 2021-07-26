@@ -1,1 +1,3 @@
-2 db pipettázó robot beszerzése Pre és Post PCR NGS applikációkhoz — 1. robot (PostPCR): a támogatás forrásának ÁHT-azonosítója: 380562, — 2. robot (PrePCR): a támogatás forrásának ÁHT-azonosítója: 379640. A beszerzés magában foglalja a robotok ajánlatkérő székhelyére történő szállítását, üzembe helyezését és az ajánlatkérő által kijelölt személyek (min. 4 fő, max. 8 fő) felhasználói szintű betanítását legalább 12 óra időtartamban. Ld. még II.2.4) pont
+version https://git-lfs.github.com/spec/v1
+oid sha256:4a7a2eaee0c3dd1cfa403f00ba62ee99e5abe85e6f98432c901184b9cfe9ec39
+size 516

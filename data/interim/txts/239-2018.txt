@@ -1,1 +1,3 @@
-„Borászat termékfejlesztésének és erőforrás-hatékonyságának támogatása” című, VP3-4.2.2-16 számú pályázat keretében borászati állvány- és tároló eszközök beszerzése a Heimann Családi Birtok részére. 116 db 300 literes hordóhoz tartó állvány és 50 db palacktároló fém konténer
+version https://git-lfs.github.com/spec/v1
+oid sha256:8f4918b2c04718b127fc2e5c123310defe7e3b9643ad64dc7d5cd82b3d76282a
+size 319

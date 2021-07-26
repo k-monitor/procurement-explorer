@@ -1,7 +1,3 @@
-vállalkozási szerződés alap
-vekop-5
-1-15-2016-00010
-budapest-fót kerékpárút
-kerület belüli szakasz
-tárgyú projekt keret engedélyezési és kiviteli terv készítés
-valamint tender dokumentáció készítés és engedély megszerzés ii
+version https://git-lfs.github.com/spec/v1
+oid sha256:4c64437b100f2a407db29d45a41014f2a8545faf3abe451d1385fb34b1ee1c89
+size 249

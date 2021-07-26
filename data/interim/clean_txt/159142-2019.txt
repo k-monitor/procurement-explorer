@@ -1,2 +1,3 @@
-egyszerhasználatos tű
-fecskendő
+version https://git-lfs.github.com/spec/v1
+oid sha256:e54ad801cb2580cf03710587615901c988ddf0b49f73eb91f26b564bece56991
+size 34

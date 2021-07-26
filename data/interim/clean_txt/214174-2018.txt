@@ -1,3 +1,3 @@
-ajánlatkérő által üzemeltetett sportlétesítmény őrzés-védelmi
-rendezvénybiztosítási
-távfelügyeleti és vonuló-szolgálati feladat ellátás
+version https://git-lfs.github.com/spec/v1
+oid sha256:be9d5808855c1b4da0cc498eebeedfd4278740e636ed54c3923b97ddd02bd76a
+size 156

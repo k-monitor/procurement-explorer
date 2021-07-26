@@ -1,28 +1,3 @@
-TOP-6	TOP-6	PROPN	Case=Nom|Number=Sing	
-.	.	PUNCT	_	
-
-3.2	3.2	PROPN	Case=Nom|Number=Sing	
-Vállalkozási	Vállalkozási	PROPN	Case=Nom|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-a	a	DET	Definite=Def|PronType=Art	
-Kaposvár	Kaposvár	PROPN	Case=Nom|Number=Sing	
-egykori	egykori	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-Kórház	Kórház	PROPN	Case=Nom|Number=Sing	
-déli	déli	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-tömbrekonstrukciója	tömbrekonstrukció	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-,	,	PUNCT	_	
-kulturális	kulturális	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-és	és	CONJ	_	
-környezettudatos	környezettudatos	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-fejlesztését	fejlesztés	NOUN	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-célzó	célzó	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-munkákra	munka	NOUN	Case=Sub|Number=Plur	
-az	az	DET	Definite=Def|PronType=Art	
-engedélyezési	engedélyezési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-és	és	CONJ	_	
-kivitelezési	kivitelezési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-tervek	terv	NOUN	Case=Nom|Number=Plur	
-elkészítésével	elkészítés	NOUN	Case=Ins|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-együtt	együtt	ADP	_	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:837f4a56d8c4fc001272a756ff3071bf7e329f59088e8ae170234012722596aa
+size 1252

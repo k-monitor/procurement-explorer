@@ -1,1 +1,3 @@
-keretmegállapodás keret az mnv zrt. érdekkör tartozó ingatlan értékbecslés elkészítés
+version https://git-lfs.github.com/spec/v1
+oid sha256:b7878c92e071f3fcb81d7d8e7ae2b506cbc62da7176cc78abd2f5dd646af521a
+size 96

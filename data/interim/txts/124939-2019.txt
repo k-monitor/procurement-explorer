@@ -1,1 +1,3 @@
-Vállalkozási keretszerződés nyugdíjasok toborzására és foglalkoztatására
+version https://git-lfs.github.com/spec/v1
+oid sha256:940d05927faa07f81169019749325e8d5d33c67021c625067748b4646db94944
+size 82

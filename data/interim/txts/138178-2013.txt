@@ -1,1 +1,3 @@
-Vállalkozási szerződés: A KÖZOP-4.3.0-08-2008-0002 megnevezésű program zárásához költség-haszon elemzés (CBA) készítése a Záhony térségi vasúti infrastruktúra fejlesztése projekt kapcsán. A beszerzés projekt és PST kódja/KVM jele: V100.21 és V100.28
+version https://git-lfs.github.com/spec/v1
+oid sha256:b39f08380b7a5a762d97648ee4b11b075fd91edb1f76c76d809a7a18608fc25d
+size 276

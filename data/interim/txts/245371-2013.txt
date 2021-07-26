@@ -1,1 +1,3 @@
-Nagy kapacitású léghűtéses hűthető vérzsák centrifuga beszerzése, valamint az ajánlati dokumentációban részletezettek szerinti leszállítása, telepítése, üzembe helyezése, a kezelőszemélyzet betanítása és a 24 hónapos jótállási idő alatti karbantartása és javítása. A termékeket külföldi Szállító DDP (INCOTERMS 2000.) paritáson, belföldi Szállító költségmentesen köteles leszállítani.
+version https://git-lfs.github.com/spec/v1
+oid sha256:995caff72ded82cf5410081ce26a008c10e052e94d6445dba89cc6aaf016d10f
+size 435

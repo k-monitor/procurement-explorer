@@ -1,4 +1,3 @@
-keop5
-6.0
-e
-egészségügyi eszközök energia megtakarítás célzó beszerzés támogatás pályázat kapcsolódó hagyományos képalkotó berendezés csere digitális képalkotó berendezés adás vételi szerződés keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:b2f887c169ddd0e67ecc597d034589dc16f0654bebc5776f65cba6f222032718
+size 226

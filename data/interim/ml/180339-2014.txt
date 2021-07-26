@@ -1,18 +1,3 @@
-TETRA	tetra	NOUN	Case=Nom|Number=Sing	
-rendszerben	rendszer	NOUN	Case=Ine|Number=Sing	
-működő	működő	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-beépíthető	beépíthető	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-(	(	PUNCT	_	
-mobil	mobil	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-)	)	PUNCT	_	
-EDR	EDR	PROPN	Case=Nom|Number=Sing	
-rádióterminálok	rádióterminál	NOUN	Case=Nom|Number=Plur	
-és	és	CONJ	_	
-kézi	kézi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-terminálok	terminál	NOUN	Case=Nom|Number=Plur	
-beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-szállítási	szállítási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-keretszerződés	keretszerződés	NOUN	Case=Nom|Number=Sing	
-keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:48114e73f244d649c78e83e1ab6a8c6ba71e86e0bfc64bcd765d8dd487e4bfa6
+size 833

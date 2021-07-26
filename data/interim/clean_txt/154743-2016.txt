@@ -1,4 +1,3 @@
-vállalkozási keretszerződés járműjavítási szolgáltatás nyújtás a kef által üzemeltetett
-a minisztérium
-miniszterelnökség
-és háttérintézmény ellátás biztosító gépjármű részére
+version https://git-lfs.github.com/spec/v1
+oid sha256:afd989a4fb17ba2a95c08d3754b023a45047afea3023041987966560150dd6d7
+size 205

@@ -1,7 +1,3 @@
-vállalkozási szerződés a
-k008
-20. 8. sz. főút 131+550
-143+350 km sz. közötti szakasz kn burkolat-megerősítési
-korszerűsítési
-valamint kapcsolódó létesítmény kivitelezési feladat ellátás
-tárgy
+version https://git-lfs.github.com/spec/v1
+oid sha256:fc699f726240789cae51b39ad7bb3b753c604961b9d6928751abb4b62495122f
+size 214

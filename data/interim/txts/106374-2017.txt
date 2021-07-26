@@ -1,1 +1,3 @@
-Szociális közétkeztetés biztosítása étel készítésével és kiszállításával, 12 + 24 hónapos határozott időtartamú szerződés keretében. Intézménybe szállítva: — egy intézménybe napi 3-szori étkezés (reggeli, ebéd, uzsonna), — 9 intézménybe napi egyszeri étkezés (ebéd). Lakásra szállítva: napi 1-szeri étkezés (ebéd). Napi várható adagszám: 900 adag. A szerződés határozott időre, a szerződés aláírásának napjától 12 + 24 hónapra kerül megkötésre. A szerződéskötést követő 12 hónap letelte előtt 90 nappal a Felek a szerződés további 24 hónapos meghosszabbításában állapodhatnak meg.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3314981834cb1d6c1906e42a5e73fe275a9939c4ca12d7a3730ea6cebcf6268e
+size 662

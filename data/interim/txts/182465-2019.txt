@@ -1,1 +1,3 @@
-Keretmegállapodás keretében vállalkozási szerződés a Főváros területén lévő közcsatornák rekonstrukciós munkáinak elvégzésére, a keretmegállapodásban meghatározott feltételek, illetőleg a konkrét munkákra vonatkozóan a verseny újranyitásával lefolytatott eljárást követően megkötött, egyedi szerződésekben meghatározottak szerint. A rekonstrukciós munkákat nyílt feltárással vagy feltárás nélküli építési technológiával, a lakossági szolgáltatás fenntartása mellett, üzem alatt lévő csatornahálózaton, illetőleg az ahhoz tartozó bekötővezetékeken, víznyelőkön, tetőlefolyókon, aknákon és egyéb műtárgyakon, szükséges mértékben az útburkolat megbontásával, majd helyreállításával együtt kell elvégezni.
+version https://git-lfs.github.com/spec/v1
+oid sha256:42faf90cf3a05fa7feed82c8accf15ccb7f794dd65bac5a5924ab3ba5a51658b
+size 792

@@ -1,1 +1,3 @@
-Kereskedelmi szerződés „Villamos energia szabadpiaci beszerzése 2019.01.01. – 2019.12.31. időszakra vonatkozóan” tárgyban.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5f1a0b08fcd4405c22e2086b4b1272f6956adc5a8621e841540906e50459fda5
+size 134

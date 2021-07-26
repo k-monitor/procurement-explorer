@@ -1,1 +1,3 @@
-Meglévő szerverek cseréje és bővítése: 1. rész – ÜVP (Üzemeltetői Virtualizált Platform) rendszer bővítése; 2. rész – Elöregedett HVR naplógyűjtő szerverek kiváltása; 3. rész – Elöregedett Hyper-V szerverek kiváltása; 4. rész – Meglévő blade szerverek memória bővítése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:33a0db9a3b9d6d7e895898aa7e5396d37621d38722195ee0c312d782cf2de328
+size 310

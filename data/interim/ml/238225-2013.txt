@@ -1,18 +1,3 @@
-Biztosítási	Biztosítási	PROPN	Case=Nom|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-a	a	DET	Definite=Def|PronType=Art	
-Radioaktív	radioaktív	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-Hulladékokat	hulladék	NOUN	Case=Acc|Number=Plur	
-Kezelő	Kezelő	PROPN	Case=Nom|Number=Sing	
-Közhasznú	Közhasznú	PROPN	Case=Nom|Number=Sing	
-Nonprofit	nonprofit	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-Kft.	kft.	NOUN	Case=Nom|Number=Sing	
-részére	részére	ADP	_	
-Építés-szerelésbiztosítási	Építés-szerelésbiztosítási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-(	(	PUNCT	_	
-CAR	CAR	PROPN	Case=Nom|Number=Sing	
-)	)	PUNCT	_	
-szolgáltatások	szolgáltatás	NOUN	Case=Nom|Number=Plur	
-nyújtására	nyújtás	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:e74912a09a8d55d631003f990838610b69fcfadc280bba45226511719e8971df
+size 793

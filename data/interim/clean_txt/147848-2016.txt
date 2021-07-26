@@ -1,5 +1,3 @@
-kereskedelmi
-szállítási
-szerződés
-budapest főváros
-kerület hegyvidéki önkormányzat és egyes intézmény földgáz-energia versenypiaci beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:0556399f7202bf46e80701c87d3e36df344b21e0172c432654958c22f8aebd67
+size 157

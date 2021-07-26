@@ -1,8 +1,3 @@
-Útépítés	útépítés	NOUN	Case=Nom|Number=Sing	
-,	,	PUNCT	_	
-útfenntartás	útfenntartás	NOUN	Case=Nom|Number=Sing	
-és	és	CONJ	_	
-mélyépítés	mélyépítés	NOUN	Case=Nom|Number=Sing	
-keretmegállapodás	keretmegállapodás	NOUN	Case=Nom|Number=Sing	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:ef6dc83fcdad25a484b614d05ee259c8e5153964753ca029bf69ed31594f36e3
+size 277

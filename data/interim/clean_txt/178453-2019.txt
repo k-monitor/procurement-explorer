@@ -1,24 +1,3 @@
-az exportfejlesztési és promóciós partneriroda-hálózat kialakítás elsődleges cél
-hogy a hepa
-ajánlatkérő
-ország specifikus kereskedelem-fejlesztési szolgáltatás keret elősegít az exportképes termék
-technológia
-szolgáltatás rendelkező magyar vállalkozás külpiac jutás
-a partner elsődleges feladat
-hogy az adott ország tekintet meghatározás kerül az a szektor
-piaci szegmens
-amely a magyar kkv versenyképes lesz és ahol exportnövekedés érhető el
-ez összefüggés a partner kiemelt feladat
-hogy olyan kapcsolati háló alakít ki az adott ország
-amely révén lehetőség nyílik a magyar kkv releváns technológia
-termék bemutatás
-at tevékenység illetékességi terület
-oroszország
-kazahsztán
-fehéroroszország
-grúzia
-azerbajdzsán
-at tevékenység célország
-oroszország
-amely a lenti szerinti központ földrajzi elhelyezkedési terület
-ahonnan ajánlattevő tevékenység végez köteles
+version https://git-lfs.github.com/spec/v1
+oid sha256:ab14a7698e33339f36795f99305a87ab16a9cf6598f992a398dcd389305f285c
+size 943

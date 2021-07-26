@@ -1,18 +1,3 @@
-Biztosítási	Biztosítási	PROPN	Case=Nom|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-,	,	PUNCT	_	
-vagyon	vagyon	NOUN	Case=Nom|Number=Sing	
--	-	PUNCT	_	
-és	és	CONJ	_	
-felelősségbiztosítás	felelősségbiztosítás	NOUN	Case=Nom|Number=Sing	
-Budapest	Budapest	PROPN	Case=Nom|Number=Sing	
-Főváros	főváros	NOUN	Case=Nom|Number=Sing	
-XIV	14	NUM	Case=Nom|NumType=Card|Number=Sing	
-.	.	PUNCT	_	
-
-Kerület	Kerület	PROPN	Case=Nom|Number=Sing	
-Zugló	zugló	NOUN	Case=Nom|Number=Sing	
-Önkormányzat	Önkormányzat	PROPN	Case=Nom|Number=Sing	
-részére	részére	ADP	_	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:7c207a408cad1957ce4109d91518a9ddf43159123cce5e2cc13fbdd7df6d29e5
+size 606

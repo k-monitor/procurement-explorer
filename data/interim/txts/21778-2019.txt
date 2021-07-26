@@ -1,1 +1,3 @@
-2019. évi haszonanyag energetikai hasznosítás - „SRF/RDF haszonanyag energetikai hasznosítás beszerzés keretmegállapodás alapján”
+version https://git-lfs.github.com/spec/v1
+oid sha256:85727d2f7ca2253492be244358921c4eb3b9111229fc687148201664fdfa8648
+size 142

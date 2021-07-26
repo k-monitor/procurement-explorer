@@ -1,1 +1,3 @@
-Keretmegállapodások kötése a 168/2004. (V.25.) Korm. rendelet hatálya alá tartozó, illetve a központosított közbeszerzési eljáráshoz önként csatlakozó intézményeknél elérhető szoftverlicencekhez kapcsolódó emelt szintű konzultációs, frissítési és terméktámogatási szolgáltatások biztosítására az alábbi részek szerint: 1. Microsoft vagy azzal egyenértékű fejlesztői platformú szoftverlicencekhez kapcsolódó emelt szintű konzultációs és terméktámogatási szolgáltatások; 2. Novell vagy azzal egyenértékű fejlesztői platformú szoftverlicencekhez kapcsolódó konzultációs és terméktámogatási szolgáltatások; 3. Oracle vagy azzal egyenértékű fejlesztői platformú szoftverlicencekhez kapcsolódó frissítési és terméktámogatási szolgáltatások.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7d5f9cd95e1a9f64a5f412653c93db4d85a774ef9ed8ac58d8de53feab231dc3
+size 819

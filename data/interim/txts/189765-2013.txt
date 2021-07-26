@@ -1,1 +1,3 @@
-Hitelszerződés infrastrukturális fejlesztésekhez: 1. rész: Zalaegerszeg belváros közlekedési rendszerének komplett átalakítása I. ütem; 2. rész: Ipari Park fejlesztése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:46dee437844705f872a27de7c5332e723eab16571479f95b7d1a7939a54805ab
+size 183

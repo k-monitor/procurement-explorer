@@ -1,1 +1,3 @@
-Vállalkozási szerződés a részarány földkiadás során keletkezett osztatlan közös tulajdon megszüntetésének részletes szabályairól szóló 405/2012. (XII. 28.) Korm. rendeletben foglalt földmérési munkák elvégzésére a Vas Megyei Kormányhivatal Vasvári Járási Hivatal Járási Földhivatala, Celldömölki Járási Hivatal Járási Földhivatala és a Szombathelyi Járási Hivatal Járási Földhivatala illetékességi területén.
+version https://git-lfs.github.com/spec/v1
+oid sha256:528bc413d2604baa9903e8e5b774bad4364c2a7cb233caaaf1890152d2331015
+size 458

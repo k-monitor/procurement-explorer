@@ -1,1 +1,3 @@
-Nyertes ajánlattevő feladata valamennyi közbeszerzési rész vonatkozásában az ajánlati felhívás, a szerződés mellékletében szereplő - a kiviteli terveket is tartalmazó - műszaki dokumentációban (a továbbiakban: műszaki dokumentáció) meghatározottak, a nyertes ajánlattevő ajánlata és ajánlatkérő utasításai, valamint egyéb szakmai szokásoknak, hatályos jogszabályoknak megfelelően az EFOP-4.2.2-16-2017-00001 azonosítószámú „Skill laborok fejlesztése” projektben oktató kórházakban skill laborok kialakításához szükséges helyiségek felújítása.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d4fb19015b05fa3cfdac01893edb3fb491ffc95dc575fc9f51bd2b23a8e75616
+size 601

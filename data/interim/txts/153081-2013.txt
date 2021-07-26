@@ -1,1 +1,3 @@
-Földgáz energia szállítása az ajánlatkérő részére 2013.8.01. 06.00 CET - 2014.8.1. 06.00 CET időszakra vonatkozóan, teljes ellátás alapú földgáz energia kereskedelmi szerződés keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5c13b7080a2092cbc4fc12d93f248414f61ad8b94bf3be41bac146f00471d1f0
+size 206

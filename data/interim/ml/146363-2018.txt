@@ -1,11 +1,3 @@
-3,5	3,5	NUM	Case=Nom|NumType=Frac|Number=Sing	
-tonna	tonna	NOUN	Case=Nom|Number=Sing	
-feletti	feletti	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-köztisztasági	köztisztasági	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-feladatot	feladat	NOUN	Case=Acc|Number=Sing	
-ellátó	ellátó	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-célgépek	célgép	NOUN	Case=Nom|Number=Plur	
-szállítása	szállítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-,	,	PUNCT	_	
-beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:6944a5b5e1ba02ff1dc09a07453961ca2cb96b06d2e32a3336bc87018fa035fe
+size 557

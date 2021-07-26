@@ -1,4 +1,3 @@
-Biztosítási	Biztosítási	PROPN	Case=Nom|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:a6f92516a458eeb3dbb2835e64707ce127da1515e1198c31b3344bde5c8e7464
+size 121

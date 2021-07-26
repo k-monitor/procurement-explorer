@@ -1,35 +1,3 @@
-budapest
-kerület csepel önkormányzata közigazgatási terület működő köznevelési és szociális intézmény közétkeztetési szolgáltatás ellátás vállalkozási szerződés keret
-folyik
-8. értékelés
-minőségi szempont
-élelmezési nap vonatkozó melegebe étlap változatosság
-változatossági mutatószám
-s
-szám
-nettó ajánlati ár
-nettó huf
-s
-szám
-9. értékelés pontszám
-értékelés mód
-minőségi szempont
-arányosítás
-aránypár
-egyéb közbesz
-d
- részletezett feltétel szerint
-ak szakmai ajánlat az egyéb közbesz
-d
- meghatározott mintaétlap kér benyújt
-ár szempont
-fordított arányosítás az egyéb közbesz
-d
- részletezett feltétel szerint
-ak kbt. 77. §
-és
-alap állapít meg az értékelés eredmény
-10. részajánlat eset szerz
-az egyes ellátási helyek von
- jóval alacsony létszám vonatkozik
-ez magas adag-egységár eredményez
+version https://git-lfs.github.com/spec/v1
+oid sha256:990e4f851af65ff33715212cde7519cd9430f9e2643a03a0dfadbbdfd78889fc
+size 889

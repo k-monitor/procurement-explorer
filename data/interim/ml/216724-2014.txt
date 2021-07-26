@@ -1,9 +1,3 @@
-Szállítási	Szállítási	PROPN	Case=Nom|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-katéterek	katéter	NOUN	Case=Nom|Number=Plur	
-és	és	CONJ	_	
-katéter	katéter	NOUN	Case=Nom|Number=Sing	
-tartozékok	tartozék	NOUN	Case=Nom|Number=Plur	
-beszerzésére	beszerzés	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:38013b63310a506571925c3419103be2d28257b2bcc9f6e9ff5b1f335e69c2c0
+size 364

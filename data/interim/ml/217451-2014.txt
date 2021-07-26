@@ -1,10 +1,3 @@
-Hitelszerződés	hitelszerződés	NOUN	Case=Nom|Number=Sing	
-Eger	Eger	PROPN	Case=Nom|Number=Sing	
-MJV	MJV	PROPN	Case=Nom|Number=Sing	
-Önkormányzata	Önkormányzata	PROPN	Case=Nom|Number=Sing	
-közműfejlesztést	közműfejlesztés	NOUN	Case=Acc|Number=Sing	
-szolgáló	szolgáló	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-beruházás	beruházás	NOUN	Case=Nom|Number=Sing	
-finanszírozásához	finanszírozás	NOUN	Case=All|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:efe2160b4901b014ae9c397f52ce83c9a3685a4316964d2a3a50f3e905580ce0
+size 500

@@ -1,5 +1,3 @@
-szállítási szerződés vegyszer beszerzés tárgy az alábbi rész tekintet
-1. rész
-rothasztott szennyvíziszap víztelenítés használatos polielektrolit beszerzés
-2. rész
-a szennyvíztisztítás foszfor eltávolítás szükséges fémsó és téli üzem alkalmazkodó foszforeltávolító és fonalasodás megakadályozó vegyszer beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:3bdde8c3231a486b62a749bf7f168486bbc5946a51646d6bd02800f31e741e22
+size 350

@@ -1,1 +1,3 @@
-Élelmezési szolgáltatás a központ 4033 Debrecen, Sámsoni út 149. szám alatti telephelye számára.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6f41d5922cc8532747c53b70f5ddf0f97947485c1b214894cbc5613d1b99ac86
+size 106

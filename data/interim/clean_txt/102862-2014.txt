@@ -1,1 +1,3 @@
-szállítási szerződés az mtva műsorkészítési feladat ellátás szükséges tehergépjármű szállítás
+version https://git-lfs.github.com/spec/v1
+oid sha256:4d97a6eb38d243edb0e790a9086d8be62c39b16b8b20c69402b44ef62269f0b6
+size 112

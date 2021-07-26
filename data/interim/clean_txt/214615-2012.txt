@@ -1,2 +1,3 @@
-éves szint
-darab kincstári takarékjegy nyomdai előállítás és leszállítás a dokumentáció részletezett szerint
+version https://git-lfs.github.com/spec/v1
+oid sha256:dea3d42048cc67ad49b327572cd7cebe28959ae5de623b25261b6ece58438934
+size 122

@@ -1,4 +1,3 @@
-adásvételi szerződés a tiop-2
-1a-2013-0005 azonosítószámú
-onkológiai diagnosztikai eszköz fejlesztés nyíregyháza
-című projekt keret szabolcs-szatmár-bereg megyei kórház és egyetemi oktatókórház részére darab mr berendezés beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:07a88ef48952cb9b682e97c0da8dcc18cdcd0c699b77903e7493f2d43a464e4e
+size 257

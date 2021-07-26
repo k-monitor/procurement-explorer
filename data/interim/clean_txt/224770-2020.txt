@@ -1,1 +1,3 @@
-telepített növény év keresztül történő ápolás és pótlás
+version https://git-lfs.github.com/spec/v1
+oid sha256:5b2a8e5140a6997ace4da37dab500e8b796cd39c3dd3cd4c84b19f0baf482ee0
+size 68

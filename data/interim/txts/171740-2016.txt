@@ -1,1 +1,3 @@
-Keretmegállapodás a 339/2014. (XII.19.) Korm. rendelet 1. § b) pontja szerinti víziközmű projektekhez kapcsolódó FIDIC mérnöki és műszaki ellenőri feladatok ellátására.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0902a910c6eae1f1bd51b60f7f391a5c9bb8513a1e5e164a814630747b953eed
+size 184

@@ -1,7 +1,3 @@
-vállalkozási szerződés keret a magyar nemzeti bank épület meglévő stúdió
-vetítés
-és hangtechnikai berendezés rendszeres karbantartási feladat elvégzés
-a felmerülő javítási munka
-pótló beruházás előkészítés és végrehajtás
-munkanap munkaidő a székház hangtechnikus szakfelügyelet biztosítás
-továbbá az mnb rendezvény való közreműködés
+version https://git-lfs.github.com/spec/v1
+oid sha256:fad6bf3ba9db0e4460981d6d353564816b1cac570366731dd87444f3131428b2
+size 378

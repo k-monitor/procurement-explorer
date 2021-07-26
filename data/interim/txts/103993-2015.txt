@@ -1,1 +1,3 @@
-Vállalkozási szerződés takarítási és higiéniai feladatok ellátására a Nagykőrösi Szolgáltató Központ részére.
+version https://git-lfs.github.com/spec/v1
+oid sha256:51cd0a40218f79a06241fe94b4397da30a32c39c66e4a6f664e01a5f0091f0ed
+size 127

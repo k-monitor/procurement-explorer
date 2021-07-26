@@ -1,1 +1,3 @@
-1 db homlokrakodógép, 1 db dózer, 1 db teleszkópos rakodógép beszerzése. A részletes műszaki előírásokat a műszaki leírás tartalmazza.
+version https://git-lfs.github.com/spec/v1
+oid sha256:aea2d7cbd086be6eb831e8afe0442c813172924e805f7a53f9aeb22709551b0a
+size 149

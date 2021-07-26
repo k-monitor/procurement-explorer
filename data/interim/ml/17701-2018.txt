@@ -1,7 +1,3 @@
-Automatizált	automatizált	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPast	
-betegazonosító	betegazonosító	NOUN	Case=Nom|Number=Sing	
-és	és	CONJ	_	
-betegkövető	betegkövető	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-rendszer	rendszer	NOUN	Case=Nom|Number=Sing	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:6e3054579d0fb7da81388e2b30aeec8bb87c7c7af01214f06a12d259e7a6c45f
+size 284

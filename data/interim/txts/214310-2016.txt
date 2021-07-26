@@ -1,1 +1,3 @@
-A Kisvárdai UEFA 3-as, MLSZ C kategóriájú labdarúgó- sportlétesítmény (Stadion) kivitelezése vállalkozási szerződés keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bc852716438383dc8b9d6d27683c8d6a4c9937b036b40de788e08d11d4cfc598
+size 141

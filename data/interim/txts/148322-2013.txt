@@ -1,1 +1,3 @@
-Megbízási szerződés a 338. sz. főút Nyíregyháza nyugati elkerülő (0+000 - 6+950 km. sz. között) szakasz építés kivitelezési munkáinak lebonyolító mérnöki és műszaki ellenőri feladatainak ellátására. A beszerzés projekt és PST kódja: A003.12
+version https://git-lfs.github.com/spec/v1
+oid sha256:f0376bc1712e0c1567cd5597caacc9a9e0ee136f717b49e36fbbf611b3fbbc3d
+size 270

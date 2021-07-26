@@ -1,1 +1,3 @@
-dek-738 a debreceni egyetem felsőoktatási infrastruktúra fejlesztés a gyakorlati és szakmai képzés megújítás az efop-4
+version https://git-lfs.github.com/spec/v1
+oid sha256:400a037bd94a9a0d6a4b6d6a709870721177abd7f9af0be44afc5a477223e898
+size 128

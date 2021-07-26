@@ -1,2 +1,3 @@
-kossuth lajos középiskola főzőkonyha üzemeltetés
-készétel kiszállítás vállalkozási szerződés keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:7639ccb19eb8989117916d4149278b3146b1d822ea041700db987432f1d7fd7a
+size 113

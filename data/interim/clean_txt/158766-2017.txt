@@ -1,1 +1,3 @@
-vállalkozási szerződés a van peremartoni vegyipari vállalat kármentesítés sor kiépített talajvíz-kitermelő és kezelő rendszer üzemeltetés
+version https://git-lfs.github.com/spec/v1
+oid sha256:2fa1dfcc6fa16029e7bc9dfb9cfab88e5cd8a834bb3d1f30c5b7564c98013fcc
+size 153

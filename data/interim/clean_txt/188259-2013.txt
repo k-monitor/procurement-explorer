@@ -1,2 +1,3 @@
-folyószámlahitel biztosítás hitelszerződés forma
-huf érték
+version https://git-lfs.github.com/spec/v1
+oid sha256:dcdb49a855e50868ee126731f98a6d125bfa7c882fe6dd2bc4e85b4a9b22dacf
+size 66

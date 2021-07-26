@@ -1,1 +1,3 @@
-közétkeztetés ellátás dombóvár város vállalkozási szerződés keret belül infrastrukturális beruházás elvégzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:864b6a55eec0a414cede46585f71f69a8f218169c5005a467a588187af839189
+size 126

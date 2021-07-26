@@ -1,1 +1,3 @@
-adásvételi szerződés db direkt digitális röntgen berendezés beszerzés érdek
+version https://git-lfs.github.com/spec/v1
+oid sha256:5cdae2b0638a7718ea138b5eb1f137760977e0d226d8fb291bb156331922ee61
+size 84

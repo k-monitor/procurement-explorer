@@ -1,8 +1,3 @@
-megállapodás hibaelhárítási
-karbantartási
-valamint ingatlanfenntartási
-park-gondozási
-továbbá költöztetés
-szállítási szolgáltatás nyújtás
-rövid hivatkozás
-karbantartási szolgáltatás
+version https://git-lfs.github.com/spec/v1
+oid sha256:e864050701d65489423910c58768ed0e1acd9edb528b3943512a0f3757d02f81
+size 206

@@ -1,1 +1,3 @@
-Megbízási szerződés az „Eger város szennyvízcsatorna-hálózatának fejlesztése és a szennyvíztisztító telep korszerűsítése (ÉMO 8)” elnevezésű, KEHOP-2.2.2-15-2016-00090 azonosítószámú projekt keretében műszaki ellenőri tevékenység ellátására.
+version https://git-lfs.github.com/spec/v1
+oid sha256:946c5d41bff0d88b89adece6ee5731ad929086eb0001d23ca3396bc9ffdba011
+size 277

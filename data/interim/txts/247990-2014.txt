@@ -1,1 +1,3 @@
-Vállalkozási keretszerződés Mercedes-Benz Axor és Actros típusú tehergépjárművek garanciális időszak alatti, javítására, szervizelésére és alkatrész ellátására, valamint Mercedes-Benz Unimog típusú eszközhordozók garanciális időszak alatti és garanciális időszakon túli javítására, szervizelésére és alkatrész ellátására a Magyar Közút Nonprofit Zrt. számára az ajánlati felhívás II.2.1) pontjában megjelölt részekben a részenként megjelölt nettó keretösszeg erejéig.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cadb0af2986efdc82039ac28a49b1c95e1465cfc7bc0661b102bed7f0d8a2b68
+size 525

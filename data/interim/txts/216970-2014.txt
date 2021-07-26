@@ -1,1 +1,3 @@
-Papíráruk és irodaszerek beszerzése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:26a7ec2c29a55dad5dc1d4a27a2b58afad33bb8d3ef884e6d1c95e444efa821c
+size 40

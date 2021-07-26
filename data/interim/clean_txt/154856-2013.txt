@@ -1,15 +1,3 @@
-szállítási szerződés
-a semmelweis egyetem szervezeti egység részére
-hónap szükséges raktári fogyóanyag beszerzés
-részteljesítés
-1. részteljesítés
-általános szappan
-mosó és tisztítószer
-háztartási és egészségügyi papíráru és műanyag termék
-ii
-részteljesítés
-műanyag zsák
-szerződéskötés után
-a megrendelés kerülő mennyiség
-az ajánlati dokumentáció foglalt
- felfelé eltér
+version https://git-lfs.github.com/spec/v1
+oid sha256:34c98af18ef38df0199071b57c73ba3a71d4a7bd73373352ab8341c6ce3d5db3
+size 424

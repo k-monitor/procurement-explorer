@@ -1,1 +1,3 @@
-Műszaki szakértői szolgáltatás nyújtás a Terület- és településfejlesztési Operatív Program (TOP) és a Versenyképes Közép-MAGYARORSZÁGi Operatív Program (VEKOP) keretében megvalósuló projektek műszaki szempontú ellenőrzéseihez - megbízási keretszerződés keretében
+version https://git-lfs.github.com/spec/v1
+oid sha256:7717d6af62f1bddfb448fba4693c1c590898fbb15931b88b14c96b3ee43c87a2
+size 293

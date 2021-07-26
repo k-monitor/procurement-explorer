@@ -1,30 +1,3 @@
-A	a	DET	Definite=Def|PronType=Art	
-Fővárosi	Fővárosi	PROPN	Case=Nom|Number=Sing	
-Közterület-fenntartó	Közterület-fenntartó	PROPN	Case=Nom|Number=Sing	
-Zártkörűen	zártkörű	ADJ	Case=Ess|Degree=Pos|Number=Sing	
-Működő	működő	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-Nonprofit	nonprofit	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-Részvénytársaság	részvénytársaság	NOUN	Case=Nom|Number=Sing	
-Hulladékhasznosító	hulladékhasznosító	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-Mű-ben	Mű-ben	NOUN	Case=Nom|Number=Sing	
-üzemelő	üzemelő	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-4	4	NUM	Case=Nom|NumType=Card|Number=Sing	
-db	db	NOUN	Case=Nom|Number=Sing	
-hulladéktüzelésű	hulladéktüzelésű	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-kazán	kazán	NOUN	Case=Nom|Number=Sing	
-fűtőfelületeinek	fűtőfelület	NOUN	Case=Dat|Number=Plur|Number[psor]=Sing|Person[psor]=3	
-és	és	CONJ	_	
-az	az	DET	Definite=Def|PronType=Art	
-összekötő	összekötő	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-füstgáz	füstgáz	NOUN	Case=Nom|Number=Sing	
-csatornáknak	csatorna	NOUN	Case=Gen|Number=Plur	
-a	a	DET	Definite=Def|PronType=Art	
-hatásfokjavító	hatásfokjavító	NOUN	Case=Nom|Number=Sing	
-és	és	CONJ	_	
-munkavédelmi	munkavédelmi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-tisztítása	tisztítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-,	,	PUNCT	_	
-alpin	alpin	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-technikával	technika	NOUN	Case=Ins|Number=Sing	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:7f275411110508e1c4daed9e3e6562f20078b3350c98760a454df42d96a52de9
+size 1553

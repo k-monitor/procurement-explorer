@@ -1,1 +1,3 @@
-Őrzés-védelmi szolgálat ellátása az Országos Mentőszolgálat Budapest V. ker. Markó utcai központjában, a XIII. ker. Róbert Károly körúti és a XII. ker. Alkotás utcai telephelyein.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3d67151bca5b381fc5023b87c9dc72956fccada50c2e3b06a29880d25d9ca832
+size 197

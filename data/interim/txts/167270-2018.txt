@@ -1,1 +1,3 @@
-A NAV vagyonkezelésében lévő 3,5 tonna össztömeget meg nem haladó VW csoport (VW, SKODA, SEAT) gyártmányú gépjárművek kisjavítása, karbantartása és műszaki vizsgáztatása 3 részben 36 hónap időtartamra vagy a szerződéses keretösszeg kimerüléséig.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7097740c9fcd5d197fb170a88080c4e789260caf4a4836089c5a295cd69db36f
+size 274

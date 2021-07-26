@@ -1,1 +1,3 @@
-A Lenti Termálfürdő és Szent György Energiapark fejlesztésének előkészítéséhez szükséges engedélyezési és kivitelezési tervdokumentáció elkészítése, tervezési szerződés keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:eecc1f670836367a67129d9fc0ed499ff93859c451b6f299bdcb83da0c0ae43d
+size 206

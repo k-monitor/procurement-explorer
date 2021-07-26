@@ -1,3 +1,3 @@
-vezetékes hang távközlési szolgáltatás beszerzés az mtva részére
-hónapos határozott időtartam
-szolgáltatási szerződés keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:845c304c4ee217c07c8a345610f1c187bbd3a35df5f8f132b3be5541cdabe55c
+size 139

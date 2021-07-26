@@ -1,1 +1,3 @@
-megbízási szerződés a kecskeméti campus beruházás 1. ütem műszaki ellenőri és lebonyolító feladat ellátás
+version https://git-lfs.github.com/spec/v1
+oid sha256:33726d679667d9595b0c5e487ff3343be4011a353b1de8249c0177ed588b363f
+size 120

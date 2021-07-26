@@ -1,5 +1,3 @@
-vállalkozási keretszerződés keret élőerős őrzési és vagyonvédelmi szolgáltatás ellátás az állami egészségügyi ellátó központ feladatellátás biztosító
-részben nemzeti létfontosságú rendszerelem minősülő ingatlan
-valamint a vagyongazdálkodás tartozó egyes ingatlan vonatkozás a közbeszerzési dokumentáció rész képező műszaki leírás szerint
-a szerződés a hatálybalépés nap a beszerez kívánt összmennyiség kimerülés
-de későn hónap tartó időtartam
+version https://git-lfs.github.com/spec/v1
+oid sha256:fb74e0e49991e80309c98fa6bce4fd49d14d576d71ca152f22f9a68bd0edef30
+size 505

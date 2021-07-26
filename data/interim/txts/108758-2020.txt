@@ -1,1 +1,3 @@
-Könyvvizsgálói szolgáltatások a Magyar Posta Zrt. és leányvállalatai részére a 2020–2022 évekre vonatkozóan
+version https://git-lfs.github.com/spec/v1
+oid sha256:3c19f54c5db0a60347642b534ad73152d7f2198263a5fed2fa257a4a7df62021
+size 121

@@ -1,3 +1,3 @@
-műszaki vizsgálati és elemzési szolgáltatás
-vállalkozási szerződés keret az ajánlatkérő részére a műszaki dokumentáció pontos meghatározott paraméter szerinti mérési feladat elvégzés
-a mérési feladat ellátás vonatkozó részletes műszaki elvárás a közbeszerzési dokumentumok melléklet képző műszaki leírás tartalmaz
+version https://git-lfs.github.com/spec/v1
+oid sha256:db17d0388febfb15ad6eef000e9b7e13c9de6b2ae7b5a434eaec3e2075eaba24
+size 354

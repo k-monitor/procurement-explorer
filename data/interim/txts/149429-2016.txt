@@ -1,1 +1,3 @@
-A Magyar Zene Háza mélyépítési munkáinak elvégzése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:74b5e60c3008b9e8ec54ca7464030e9130ff3796742c42f77ce3d31018d02c4f
+size 59

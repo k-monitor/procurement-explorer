@@ -1,1 +1,3 @@
-Eszközök beszerzése a Pécsi Tudományegyetem részére 5 ajánlati részben a Közbeszerzési Dokumentumokban meghatározottak szerint. Ajánlatkérő támogatási szerződés módosítás iránti kérelmet nyújtott be a fenti pályázati forrás vonatkozásában az 1. és a 3. ajánlati rész tekintetében. Ajánlatkérő a Kbt. 53. § (6) bekezdés alapján felhívja a gazdasági szereplők figyelmét arra, hogy Ajánlatkérő a módosításra irányuló igény el nem fogadását, vagy az igényeltnél kisebb összegben történő elfogadását olyan körülménynek tekinti, amely miatt az 1. és a 3. ajánlati részeket eredménytelenné nyilváníthatja (feltételes közbeszerzés).
+version https://git-lfs.github.com/spec/v1
+oid sha256:81408ec0f81e18bd30085575451a981954859f9408f38ea7334569be3dff98b9
+size 700

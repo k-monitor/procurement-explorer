@@ -1,4 +1,3 @@
-új tömb kialakítás a békés megyei képviselő-testület pándy kálmán kórház című tiop-2
-1-2010-0026 azonosító jelű projekt vonatkozás a kivitelezési és ez összefüggő bontási
-költöztetési-felújítási munka elvégzés
-vállalkozási szerződés
+version https://git-lfs.github.com/spec/v1
+oid sha256:fde35a152d5f00741374af5e76286bf045dc67143051b7cc6921a5df6792d381
+size 270

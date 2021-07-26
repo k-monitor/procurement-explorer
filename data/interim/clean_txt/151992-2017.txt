@@ -1,11 +1,3 @@
-db új
-emelt komfortfokozatú t100 m3
-iii
-as kategóriájú autóbusz beszerzés pénzügyi lízingszerződés
-rész-ajánlattételi lehetőség nélkül
-figyelem az
-hogy az ajánlattevő azonos gyártmányú autóbusz kíván beszerez
-az eljárás közreműködő felelős akkreditált közbeszerzési szaktanácsadó
-dr. miklós katalin
-reg
-szám
+version https://git-lfs.github.com/spec/v1
+oid sha256:f66409cfd549bb6ddfa2022ea53adb492f85163a85b86f97e5fefe13945dad75
+size 348

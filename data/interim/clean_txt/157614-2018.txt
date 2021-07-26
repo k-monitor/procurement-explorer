@@ -1,22 +1,3 @@
-mkb15
-kg magyarország közigazgatási terület keletkező lakossági gyűjtés származó üveg csomagolási hulladék hasznosítás
-kezelési kód
-r5
-kivéve
-r12 és r13
-szolgáltatás-megrendelési szerződés keret
-a környezetvédelmi termékdíj szóló
-2011. évi
-törvény 22. §
-bekezdés alap
-1. rész
-kg 2. rész
-kg 3. rész
-kg 4. rész
-kg 5. rész
-kg 6. rész
-kg 7. rész
-kg 8. rész
-kg 9. rész
-kg 10. rész
-kg 11. rész
+version https://git-lfs.github.com/spec/v1
+oid sha256:c778e5edaca390e835dca136821fd54b928afebec2acd39d3a2e6ffc44fa0bb8
+size 433

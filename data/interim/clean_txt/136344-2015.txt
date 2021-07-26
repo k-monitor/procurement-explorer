@@ -1,3 +1,3 @@
-vállalkozási szerződés
-nyomdai kivitelezési szolgáltatás
-a megrendelő által megjelölt helyszín történő szállítás
+version https://git-lfs.github.com/spec/v1
+oid sha256:9625835881ef2826285ba38298245e69d60750fdd57fa798e8e1512a0e7b6046
+size 129

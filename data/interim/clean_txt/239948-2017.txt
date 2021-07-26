@@ -1,3 +1,3 @@
-vállalkozási szerződés
-simi mérésvezérlő rendszer továbbfejlesztés ii
-ütem tárgy
+version https://git-lfs.github.com/spec/v1
+oid sha256:656ba4e0a8e58f5553859513b0544a269e2872f185a5c0e8cba73ea828ebf653
+size 92

@@ -1,1 +1,3 @@
-tata város önkormányzata részére huf összegű hitelfelvétel az európai unió támogatás és az európai unió támogatás nélkül megvalósuló projekt önerő finanszírozás
+version https://git-lfs.github.com/spec/v1
+oid sha256:6b68531c1a21a2a6a780e1046641c063e880d5e0399833fadfd096b54c4994eb
+size 185

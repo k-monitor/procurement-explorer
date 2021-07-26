@@ -1,1 +1,3 @@
-A NEAK által jelenleg természetben nem biztosított tételes elszámolás alá eső adalimumab hatóanyagot tartalmazó, e hatóanyagra történő váltás céljából szükséges gyógyszermennyiség beszerzése 2019. október 31-ig terjedő aktív időszakra szóló beszerzése keretmegállapodás megkötésére irányuló nyílt eljárás keretében
+version https://git-lfs.github.com/spec/v1
+oid sha256:9b6725436d887955200d39d6b13b1b4cef419816a4b6becdf1cad2120b46d1d3
+size 356

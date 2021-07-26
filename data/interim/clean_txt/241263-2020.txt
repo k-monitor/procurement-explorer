@@ -1,7 +1,3 @@
-villamos energia és földgáz elosztó
-egyetemes szolgáltató és a villamos energia átviteli rendszerirányító eszköz
-és költségfelülvizsgálat a mekh részére rész
-1. rész
-a villamos energia és földgáz elosztó
-valamint a villamos energia átviteli rendszerirányító 2019. évi tárgyi eszköz és immateriális jó értékelés 2. rész
-a villamos energia és földgáz elosztó 2019. évi működési költség indokoltsági vizsgálat 3. rész
+version https://git-lfs.github.com/spec/v1
+oid sha256:bc7e2bd8058edb86b6683eedc45f3cde1e5ba49e6fcee9312e19b792dca24e88
+size 466

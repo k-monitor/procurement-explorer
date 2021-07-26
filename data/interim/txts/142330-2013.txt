@@ -1,1 +1,3 @@
-Vállalkozási szerződés Szent Lázár Megyei Kórházban étkeztetés biztosítása, ellátottak és alkalmazottak étkeztetése, valamint konyha működtetése
+version https://git-lfs.github.com/spec/v1
+oid sha256:acd96ce76b8119701785b4fe5e2c828888d3bb44c068ce7dad23d289ff2de80d
+size 163

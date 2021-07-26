@@ -1,13 +1,3 @@
-Szemészeti	szemészeti	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-műlencsék	műlencse	NOUN	Case=Nom|Number=Plur	
-és	és	CONJ	_	
-egyszer	egy	ADV	_	
-használatos	használatos	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-műtéti	műtéti	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-csomagok	csomag	NOUN	Case=Nom|Number=Plur	
-beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-26	26	NUM	Case=Nom|NumType=Card|Number=Sing	
-részajánlattételi	részajánlattételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-körben	kör	NOUN	Case=Ine|Number=Sing	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:bc290983b6d172b8167da7fc9358be8fcf6e0fee68023c80d3f2d4db2f8641af
+size 567

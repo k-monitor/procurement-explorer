@@ -1,1 +1,3 @@
-Tervezési szerződés keretében Ajánlatkérő Mosdósi telephelyén található 140 ágyas Pavilon épület rekonstrukciójához szükséges kiviteli tervek megrendelése. A részajánlattétel lehetőségét Ajánlatkérő nem biztosítja, tekintettel arra, hogy a jelen közbeszerzési eljárás tárgya egy épület rekonstrukciójának kiviteli tervezésére vonatkozik, amelynek egysége és összhangja elengedhetetlen a megfelelő kivitelezés érdekében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2c81910ce9b10e3873ec0d34b8ae1860906b5206cdbaba5f998d64f05d97b5ec
+size 466

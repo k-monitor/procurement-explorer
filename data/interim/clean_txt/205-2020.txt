@@ -1,24 +1,3 @@
-adás-vételi szerződés keret ajánlatkérő
-a további ak
-rész rt.
-darab gyári új legalább független adattartalmú detektor
-szeletes
-és dicom 3.0 szabvány szerinti kommunikáció rendelkező ct berendezés és kiegészítő berendezés szállítás
-valamint a kapcsolódó szolgáltatás
-nevezetesen
-üzem helyezés
-munka napos próbaüzem lefolytatás
-kezelő személyzet
-fő
-2+2 naptári nap keresztül tartó betanítás
-nap
-majd nap belül új nap ismétlő
-follow-up tréning
-az ak által használt divas klinikai pacs rendszer történő illesztés
-a betanítás előzetes egyeztetett időpont
-a próbaüzem befejezés időpont kell megtart
-az naptári napos próbaüzem a teljesítési határidő beleértendő
-kiegészítő eszköz
-vezeték nélküli működtetésű
-kétfejes kontrasztanyag injektor
-ak hónap időtartam alatt naptári nap ér
+version https://git-lfs.github.com/spec/v1
+oid sha256:720550b2c77a57e3200dc2d19f51e2a44c7fc1b581b49694ea037458fcb94f12
+size 862

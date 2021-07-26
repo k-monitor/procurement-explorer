@@ -1,1 +1,3 @@
-„Élelmiszerek beszerzése Budapest Főváros, XVIII. ker. Pestszentlőrinc – Pestszentimre Önkormányzata Egyesített Bölcsődék részére 2016.” adásvételi szerződés alapján.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ede270e67b09b837aa978d035d7adf72b0f40badfee6ef2266b2942308c0d233
+size 190

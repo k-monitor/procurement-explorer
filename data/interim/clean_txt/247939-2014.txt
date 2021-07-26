@@ -1,1 +1,3 @@
-nagyvízi mederkezelési terv készítés
+version https://git-lfs.github.com/spec/v1
+oid sha256:34ad764fecb037beb8ad7e2ebda9f471b4183b42514da71baf5b4c6d2f23948a
+size 41

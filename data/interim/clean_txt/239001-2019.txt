@@ -1,4 +1,3 @@
-adásvételi szerződés
-áramfejlesztő beszerzés a kehop-1
-0-15-2016-00021 azonosító számú
-eu polgári védelmi komplex modul létrehozás
+version https://git-lfs.github.com/spec/v1
+oid sha256:807bb68f2ed579c32df842694de1c951bb8a2f911caa1deeb0244a7f0d9bc196
+size 145

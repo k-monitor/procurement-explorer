@@ -1,1 +1,3 @@
-Egységcsomagok biztosítása tárgyú beszerzés az EFOP-1.2.12-17-2017-00006 azonosító számú projekt keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:13b710e19a8f60db9de9ba1fd805a1fff1bbac6dce8cf612216d20283e8eb9d8
+size 118

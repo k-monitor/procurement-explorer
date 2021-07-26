@@ -1,1 +1,3 @@
-Kerepesi úti Sportpark fejlesztése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:98df5554384a3edd88535f50d83f00ac602830966b6a5d21f8aaa9927fb15506
+size 37

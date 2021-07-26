@@ -1,1 +1,3 @@
-Közszolgáltatási szerződés, települési szilárd (kommunális) hulladék begyűjtésére és ártalmatlanítás helyére történő elszállítására, kezelésére és ártalmatlanítására Telki Község közigazgatási területén.
+version https://git-lfs.github.com/spec/v1
+oid sha256:da7250b2ccabf045a8a1e0bc66950f9d9ed9293296cfe8c608a4aee9eb9a973b
+size 241

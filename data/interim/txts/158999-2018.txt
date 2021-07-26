@@ -1,1 +1,3 @@
-Adásvételi szerződés „Egyszer használatos sebészeti varrógépek és hozzá tartozó tárak beszerzése II”, konszignációs raktárkészlet kihelyezésével egy éves időtartamra.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6025f03df6f1cb43010a0b5aa0a63bbaa42b12c4ab75a40687e94592bfe6663d
+size 191

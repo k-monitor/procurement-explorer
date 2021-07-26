@@ -1,1 +1,3 @@
-KK – Szabó Lőrinc Gimnázium – Budapest Szabó Lőrinc Kéttannyelvű Általános Iskola és Gimnázium 1026 Budapest, Pasaréti út 191–193. hrsz.: 11658/12. Tulajdoni lapon szereplő cím: 1025 Budapest, Battai lépcső 2-6. "felülvizsgálat alatt"
+version https://git-lfs.github.com/spec/v1
+oid sha256:f72497b80b5639e3f547fd356e0582ac66c09301aff7153d85c336d598aeb47d
+size 259

@@ -1,1 +1,3 @@
-Vállalkozási szerződés keretében új szennyvízcsatorna hálózat építése és a meglevő szennyvízcsatorna hálózat rekonstrukciója a FIDIC Piros könyv szerződéses feltételei alkalmazásával - KEOP-1.2.0/2F/09-2010-0029.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6d3d67ace0b830f893bc2cbba76b0301ca53b1a7c5d9446120ae87808a760c66
+size 236

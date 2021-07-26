@@ -1,27 +1,3 @@
-vállalkozási szerződés keret budapest
-kerület leövey klára gimnázium és a telepy károly testnevelés szakosított általános iskola és gimnázium közétkeztetés biztosítás
-nyertes ajánlattevő a tanuló részére tanítási nap napi egyszeri főétkezés
-ebéd
-és kétszeri kis étkezés
-tízórai
-uzsonna
-a középiskolás korú gyermek tanítási nap egyszeri főétkezés
-ebéd
-biztosít
-vállalkozó a szolgáltatás nyújtás hétfő péntek
-illetve egyéb tanítási nap köteles
-a szolgáltatás érintett tanítási nap szám az elmúlt év adat alap
-nap
-év
-tízórai biztosítás tanuló részére
-adag
-nap
-ebéd biztosítás tanuló részére
-adag
-nap
-uzsonna biztosítás tanuló részére
-adag
-nap
-ebéd biztosítás alkalmazott részére
-adag
-nap
+version https://git-lfs.github.com/spec/v1
+oid sha256:ac48220a5fe1f92c4eaca8ec59635c489e577f02acd3b0bd8dcb5299c4910f03
+size 778

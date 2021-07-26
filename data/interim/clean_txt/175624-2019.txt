@@ -1,6 +1,3 @@
-műszaki szakértői szolgáltatás nyújtás a terület
-és településfejlesztési operatív program
-top
-és a versenyképes közép-magyarországi operatív program
-vekop
-keret megvalósuló projekt műszaki szempontú ellenőrzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:49fc8a1b7dc0226bf8b2009ddbfa688660e129486abca3b6e67f4a1121f0a584
+size 234

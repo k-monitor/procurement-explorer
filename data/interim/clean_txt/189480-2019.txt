@@ -1,9 +1,3 @@
-adásvételi keretszerződés kardiológiai elektrofiziológiai eszköz beszerzés hónap
-beszerzés tervezett mennyiség
-összesen db
-hó
-a szerződés a keretösszeg kimerülés
-mely mindösszesen nettó ft
-hó
-de legfeljebb hó időtartam jön lét
-a teljes mennyiség ez meg+felelő a keretösszeg mérték képez
+version https://git-lfs.github.com/spec/v1
+oid sha256:e7cffd284aa72895040732f3b08ba25ffbde4c74c0c627b477005399499589ed
+size 317

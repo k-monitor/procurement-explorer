@@ -1,1 +1,3 @@
-TOP-6.2.1-16-DE1-2017-00002 azonosítószámú projekt keretében „A Károlyi Mihály utcai Bölcsődei tagintézmény infrastrukturális fejlesztése”
+version https://git-lfs.github.com/spec/v1
+oid sha256:102920ff1b58c0ea1ed4679c53cec139c006b5fcdca532495de6e9bf0efd622a
+size 155

@@ -1,5 +1,3 @@
-központi nagyteljesítményű szünetmentes áramforrás
-ups
-karbantartás és javítás
-hibaelhárítás
-a pécsi tudományegyetem részére szolgáltatási keretszerződés keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:687843430b4d6e84be65e5fc9c3e4ab0e090dbeabf38e2fbd7defc8b3d2ac66f
+size 181

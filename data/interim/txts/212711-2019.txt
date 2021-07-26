@@ -1,1 +1,3 @@
-Quad Guard energiaelnyelő berendezésekhez alkatrészek szállítása a dokumentációban meghatározottak szerint a szerződés teljesítéséhez ajánlatkérő rendelkezésére álló nettó 130 000 000,- Ft keretösszeg erejéig, az ajánlatkérő általi közvetlen megrendelés útján, ajánlatkérő által meghatározott teljesítési helyekre.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6cb9843a6d9d4464e851e7bedabfbc5b45cac14b863557902ccdceec14e4ce4d
+size 353

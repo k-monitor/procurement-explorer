@@ -1,1 +1,3 @@
-hulladékgyüjtő és szállító célgép beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:93251969796368dd9576abc08aa66cfd8eb1b373af476d7ac40363becb902581
+size 53

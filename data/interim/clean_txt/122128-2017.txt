@@ -1,18 +1,3 @@
-traumatológia osztály
-a teljes mennyiség
-megnevezés mennyiség
-darab
-1. cementes csípőizületi totál protézis 70. csontcement grammos 210. ii
-cement nélküli csípőízületi totál protézis 30. iii
-totál felszínpótló és revíziós térdprotézis 80. fémtálcás tibiális komponens 80. csontcement grammos 80. ortopédiai osztály
-a teljes mennyiség
-megnevezés mennyiség
-darab
-1. cementes csípőizületi totál protézis
-secundaer coxarthrosis megoldás 100. csontcement grammos 200. csontcement grammos 100. ii
-cementes csípőízületi totál protézis
-primer coxarthrosis megoldás 50. csontcement grammos 50. csontcement grammos 50. iii
-cement nélküli csípőízületi totál protézis 80.
-total felszínpótló és revíziós térdprotézis 150. csontcement grammos 150. az ajánlattevő kihelyezett konszignációs raktár kell a szerződés idő alatt fenntart az ajánlatkérő telephely
-a megrendelés kerülő mennyiség részajánlatonként a dokumentáció foglalt
- lefelé tér el
+version https://git-lfs.github.com/spec/v1
+oid sha256:bcefe55ac89719756e43cadad9101a3890d602890339ec197899e61d86fa0134
+size 1016

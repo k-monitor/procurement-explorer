@@ -1,1 +1,3 @@
-Egységes betegazonosító rendszer bevezetése a Heim Pál Országos Gyermekgyógyászati Intézetben. Szállításra kerülő eszközök: Beteg leolvasók (mobil) Beteg érzékelő kapuk (RFID) Beteg érzékelő kapu vezérlőegység Betegazonosító rendszer Kamera rendszer Labor rendszer Vérvételi csövek szállítása Nyertes ajánlattevő feladata a teljes rendszer leszállítása, illesztése, beüzemelése, valamint működésének betanítása.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2af7f5f6d42f77da1138d795859fca2e910e6fdb8e1440d6eb6bc7d074f32524
+size 459

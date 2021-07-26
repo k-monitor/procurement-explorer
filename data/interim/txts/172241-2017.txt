@@ -1,1 +1,3 @@
-Keretmegállapodás a rendészeti továbbképzési feladatok ellátásához szükséges tananyag fejlesztési szolgáltatások beszerzésére-nettó 60 000 000 HUF keretösszegben. Ajánlatkérő a közbeszerzés mennyiségét a rendelkezésre álló keretösszeg (amely megegyezik a becsült értékkel) megadásával határozza meg, a keretösszeg erejéig megrendelhető teljes mennyiség előre pontosan nem határozható meg. Ajánlatkérő a várható mennyiségeket közli azzal, hogy Ajánlatkérőnek a keretmegállapodás alapján előre vállalt beszerzési kötelezettsége nincs, kötelezettség vállalás kizárólag a KM eljárás második részének lefolytatásakor keletkezik. Részletes követelmények a közbeszerzési dokumentumokban.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8e798033e35fcf66a3b078751587279ffd2a79b52a1b6086dea947796af624ff
+size 757

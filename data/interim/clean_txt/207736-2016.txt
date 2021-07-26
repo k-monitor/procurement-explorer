@@ -1,11 +1,3 @@
-szerződés meghatározás
-adásvételi szerződés
-tárgy
-microsoft enterprise agreement licenc beszerzés
-a bkk zrt. éves microsoft nagyvállalati megállapodás
-enterprise agreement
-köt a microsoft corporation
-további
-microsoft
-mely alapmegállapodás alap a microsoft a dobozos termék ár képest jelentős kedvezmény biztosít a bkk zrt. részére szükséges szoftver
-nyertes ajánlattevő feladat a megkötött ea keret között az alábbi szoftverlicenc beszerzés és ajánlatkérő rendelkezés bocsátás
+version https://git-lfs.github.com/spec/v1
+oid sha256:62cb242c5ea6e54ad665e26325eea0bd991bb8ef5d5f8089483b6ed1cb61d566
+size 520

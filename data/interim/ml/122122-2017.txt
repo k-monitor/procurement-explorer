@@ -1,4 +1,3 @@
-Tömegspektrométerek	Tömegspektrométerek	PROPN	Case=Nom|Number=Sing	
-szállítása	szállítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:3e5e66b3c36070107b4a7efaf84954d840ecf67fd31072c73a447c045637bc79
+size 173

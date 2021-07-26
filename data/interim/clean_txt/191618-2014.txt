@@ -1,3 +1,3 @@
-adásvételi keretszerződés
-labor-igazgatóság színes forgatási negatív beszerzés
-tárgy
+version https://git-lfs.github.com/spec/v1
+oid sha256:d4c68d5213b926f5306af9b4a098c0db86e70f5ef1ee1e34cb79b6417205137c
+size 95

@@ -1,21 +1,3 @@
-ajánlatkérő az intézmény részére hónap szükséges egészségügyi gáz kíván megvásárol
-az árubeszerzés kapcsolódó
-a nyertes ajánlattevő által elvégzendő szolgáltatás kör
-gyógyszertári rendelés alap palackos gáz szállítás a kórházi terület lévő depó raktár
-fekvőbeteg osztály és az integrált intézmény palackos gáz szállítás a raktár
-osztályos rendelés alap munkaidő és ügyeleti idő
-cseppfolyós oxigén szállítás és lefejtés a cseppfolyós oxigén tároló
-lefejtés az intézmény által kijelölt munkatárs jelenlét
-cseppfolyós nitrogén tartály töltés és szállítás az osztály munkaidő
-a palackos orvosi gáz hálózat
-központ eset
-történő kötés az ajánlattevő feladat
-mely az intézmény által kijelölt munkatárs felügyel
-a hálózat történő kötés eset az ún. ostor karbantartás is a szolgáltató terhel
-a cseppfolyós oxigén tárolás lehetőség
-az ajánlattevő tartály telepít le
-mely minden költség az ajánlattevő terhel
-a szerződés lejárta az ajánlattevő által telepített tartály ajánlatkérő tulajdon kerül térítésmentesen
-ajánlatkérő olyan tartály telepítés vár el nyertes ajánlattevő
-mely kapacitás ajánlatkérő felhasználás figyelem véve megfelelő
-továbbá valamennyi piaci szereplő általi töltés megoldható
+version https://git-lfs.github.com/spec/v1
+oid sha256:aeddb55ff7186019d83369c19e40afa216e98f7fcf01287a4cafe78f273911c1
+size 1357

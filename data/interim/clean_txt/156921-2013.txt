@@ -1,4 +1,3 @@
-alvállalkozói szerződés a máv zrt. számlabefogadási és beszerzés támogatási rendszer
-szbbt
-basware
-és eflow szoftver komponens vonatkozó karbantartási támogatási szolgáltatás megújítás
+version https://git-lfs.github.com/spec/v1
+oid sha256:4c44f1bb5c6763ad5680b66768c692ef4c22473a088039a8bd91431478e1aaff
+size 205

@@ -1,1 +1,3 @@
-Darabszám: 2 db; A személygépkocsi előírt paraméterei: Karosszéria: ötajtós, Hajtóanyag: Benzin, Vegyes átlagfogyasztás ≤ 6,5l/100 km, Hengerűrtartalom: 1350 ≤ cm3, Teljesítmény: 95≤kW, Sebességváltó: manuális, Hajtás: kapcsolható négykerék-hajtás Környezetvédelmi besorolás: min. EURO 6, Gépjármű magassága: 1600 mm ≤, Gépjármű szélessége tükrök nélkül: 1750 mm ≤, Gépjármű hossza: 4150 mm ≤ A dokumentációban gyártmány/típus szerint megadott, vagy műszaki paramétereiből azonosítható gyártmány/típus megadása kizárólag a közbeszerzés tárgyának egyértelmű meghatározása érdekében történt. Bármely, funkcionalitásában és műszaki tartalmában legalább ezzel egyenértékű gépjárművek megajánlhatók.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b70d4dccdf70f08f6baf7e936439633266fe1bfe0b59ca8c1f4de0f6fe157316
+size 792

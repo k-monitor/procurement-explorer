@@ -1,1 +1,3 @@
-egér agyi aktivitás mérés alkalmas mikroszkóp beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:e7498142ad74e80a01aa171611e3218ce92f3f52dc01154235bd49a3611b1c8a
+size 61

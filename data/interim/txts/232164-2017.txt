@@ -1,1 +1,3 @@
-Élelmezési szolgáltatások beszerzése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:108b96ea728a4288f44a86ac6be3427605c9269d8be5f513af8f244733c6e411
+size 42

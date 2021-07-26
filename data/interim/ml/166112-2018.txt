@@ -1,17 +1,3 @@
-Nyíregyházi	nyíregyházi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-Bujtosi	bujtosi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-sportuszoda	sportuszoda	NOUN	Case=Nom|Number=Sing	
-teljes	teljes	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-körű	körű	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-megvalósítása	megvalósítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-a	a	DET	Definite=Def|PronType=Art	
-kiviteli	kiviteli	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-tervdokumentációban	tervdokumentáció	NOUN	Case=Ine|Number=Sing	
-és	és	CONJ	_	
-az	az	DET	Definite=Def|PronType=Art	
-építési	építési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-engedélyben	engedély	NOUN	Case=Ine|Number=Sing	
-előírtaknak	előírt	ADJ	Case=Dat|Degree=Pos|Number=Plur|VerbForm=PartPast	
-megfelelően	meg+felelő	ADJ	Case=Ess|Degree=Pos|Number=Sing|VerbForm=PartPres	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:61c15cd714bff0ce34fbc628ac56cfa4cd2f3f6ee48f9714ddc57133425dae3a
+size 856

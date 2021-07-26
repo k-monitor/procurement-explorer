@@ -1,2 +1,3 @@
-vállalkozási szerződés a nemzeti tengelysúly
-és kapcsolódó ellenőrzés támogató hálózat kialakítás elnevezésű projekt független műszaki ellenőri feladat ellátás tárgy
+version https://git-lfs.github.com/spec/v1
+oid sha256:e775a68293f905bd2288003af5a7c0925379b2d75df0fc1f8626dda286de2ae0
+size 189

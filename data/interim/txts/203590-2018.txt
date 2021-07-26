@@ -1,1 +1,3 @@
-On-line bankkártyás fizetéshez (VPOS) szükséges szolgáltatások nyújtása.
+version https://git-lfs.github.com/spec/v1
+oid sha256:782904d029df27b83377186d10f4b32d9f56e2c0d2459b73a68e2d2839a67671
+size 81

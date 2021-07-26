@@ -1,1 +1,3 @@
-Építési szerződés keretében "Struktúraváltoztatást támogató infrastruktúrafejlesztés és kapcsolódó eszközbeszerzés a Fejér Megyei Szent György Kórházban" című, TIOP-2.2.4-09/1-2010-0002 azonosítószámú projekt kivitelezői feladatainak ellátása.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2a77d8dded454022a5009f9435eadbd902f773b75e4b9f782837c4d7ed88adce
+size 274

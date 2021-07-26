@@ -1,1 +1,3 @@
-Hitelszerződés, melynek tárgya Nagyszénás Nagyközség Önkormányzata részére összesen 480 millió HUF összegű, hosszú lejáratú, beruházási hitel biztosítása
+version https://git-lfs.github.com/spec/v1
+oid sha256:3c87fc49adf0814698b6b2c5bc18fec2bb402c12c99538114dd335add856eaad
+size 175

@@ -1,9 +1,3 @@
-intel és alpha szerver
-mentőegység
-tároló
-lan és san eszköz hardver szintű támogatás érdek nyújtott üzemeltetés biztosító szakértői szolgáltatás
-hardver hibajavítás
-hardverkarbantartás
-tanácsadás
-firmware frissítés legalább alkalom történő telepítés
-meghatározott szolgáltatási szint biztosítás mellett
+version https://git-lfs.github.com/spec/v1
+oid sha256:8152f51bf534e9c662b6e5ad3e5b8bb77594ab36708ebffac6d1566b918961bd
+size 340

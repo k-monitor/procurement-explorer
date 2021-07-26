@@ -1,6 +1,3 @@
-vállalkozási keretszerződés keret tűzszerészeti
-vegyvédelmi és környezetvédelmi mentesítés tárgy megindított eljárás
-1. tűzszerészeti átvizsgálás és robbanószerkezet 2. vegyivédelmi
-vegyi harci anyag való
-mentesítés 3. környezetvédelmi tényfeltárás készítés 4. a felszín talált szennyezőanyag hulladék és a környezetvédelmi szempont veszélyes anyag eltávolítás
-hulladéklerakó való elhelyezés
+version https://git-lfs.github.com/spec/v1
+oid sha256:cf9dffd05726924c89f2acc9a9cbc6ed344b8bfbc090c795dcba63bd166498b1
+size 441

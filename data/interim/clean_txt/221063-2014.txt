@@ -1,8 +1,3 @@
-vállalkozási keretszerződés vw
-skoda
-seat gyártmányú kistehergépjármű és személygépjármű garanciális időszak alatti illetve garanciális időszak túli javítás
-szervizelés és alkatrész ellátás
-a magyar közút nonprofit zrt. számára valamennyi rész vonatkozás összesen huf nettó keretösszeg erő
-az egyes rész vonatkozó keretösszeg ii
-2.1
-pont kerül részletezés
+version https://git-lfs.github.com/spec/v1
+oid sha256:05b49e73725f671292adbd385e2f7f9048a0db0ebda607d1bce89036f57f2a8f
+size 398

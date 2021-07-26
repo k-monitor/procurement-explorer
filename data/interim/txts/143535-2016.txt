@@ -1,1 +1,3 @@
-Győri Fekete István Általános Iskola főzőkonyhájának üzemeltetése, készétel kiszállítással vállalkozási szerződés keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a61f895da252dc11e8ad4e45300327f2595fb5bfe30a2c11ea39cb20593e46d6
+size 144

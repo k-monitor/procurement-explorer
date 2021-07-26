@@ -1,1 +1,3 @@
-szállítási szerződés kéttengelyes nyerges vontató és tengelyes hátra billenő félpótkocsi álló járműszerelvény szállítás
+version https://git-lfs.github.com/spec/v1
+oid sha256:d035ae2147a8068b498539f6aacce1de10f2748a21471657c18d54b7c53749b4
+size 139

@@ -1,11 +1,3 @@
-ajánlatkérő részére db egyező színű
-új
-első üzem helyezésű
-napozóágy szállítás
-valamint összesen férőhelyes öltözőszekrény ajánlatkérő által meghatározott méret és elrendezés történő legyártás és szállítás
-a beszerez kívánt eszköz meg kell felel a vonatkozó európai irányelv
-szabvány
-illetve az az harmonizáló magyar rendelet
-szabvány
-környezetvédelmi előírás
-az eszköz új kell lenniük
+version https://git-lfs.github.com/spec/v1
+oid sha256:082e64ec5232c66b813a9797c338d645c1836ca1b176a5bcb3e527996f728628
+size 445

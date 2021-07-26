@@ -1,1 +1,3 @@
-Szállítási szerződés villamos energia beszerzése tárgyában az MTA Wigner Fizikai Kutatóközpont részére, a magyar átviteli hálózaton folyamatosan rendelkezésre álló, szabványos minőségű villamos energia versenypiaci beszerzésére teljes ellátásalapú szerződés keretében, menetrendadási kötelezettség nélkül.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5a0ba8a9d841ed5fb75ed91d92c1c1e9be0baba189f2b13dc110b1bd8d89a1c7
+size 340

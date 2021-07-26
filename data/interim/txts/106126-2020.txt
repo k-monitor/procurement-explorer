@@ -1,1 +1,3 @@
-DEK-824_Adásvételi szerződés fizioterápiás eszközök beszerzésére EFOP-4.2.1-16-2017-00015 sz. pályázat keretein belül
+version https://git-lfs.github.com/spec/v1
+oid sha256:345837d81fa7a725f4fa1ec5d96d20e1dbdbd273c86b386cd6e561025225503a
+size 130

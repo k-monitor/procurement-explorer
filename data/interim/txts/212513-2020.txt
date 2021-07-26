@@ -1,1 +1,3 @@
-A beszerzés tárgya a Magyar Nemzeti Bank (Ajánlatkérő) KAR ITER (azaz Közös Adatgyűjtő és Integrált Előfeldolgozó Rendszer, a továbbiakban: Rendszer) üzemeltetési támogatása és szoftverfejlesztési támogatása (felmerülő új igények megvalósítása, azaz a kifejlesztett Rendszer továbbfejlesztése, módosítása vagy összekapcsolása más informatikai rendszerekkel).
+version https://git-lfs.github.com/spec/v1
+oid sha256:0c6aa1f3c843a55f57e22127189ec2f52fb5c47b4505d898a22e9263a9823307
+size 395

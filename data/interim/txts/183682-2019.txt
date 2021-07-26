@@ -1,1 +1,3 @@
-Vállalkozási keretmegállapodás Józsefváros közigazgatási határain belül a Józsefvárosi önkormányzat tulajdonában álló és a JGK Zrt. fenntartásában és kezelésében lévő zöld felületek, fák és fasorok ápolása, fenntartása tárgyában
+version https://git-lfs.github.com/spec/v1
+oid sha256:4374be9b051c58a2aff01484f28dfe435d86cf1f4eb986ef51e566b83501b9a3
+size 262

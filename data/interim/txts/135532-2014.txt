@@ -1,1 +1,3 @@
-Új, bontatlan csomagolású karbantartási segédanyagok, festékek, fényezési segédanyagok, csiszoló anyagok beszerzése és szállítása.
+version https://git-lfs.github.com/spec/v1
+oid sha256:92b2940312830fad6d62e5d918affc6fcd151c7258f9f34ad25c387b558c06a5
+size 145

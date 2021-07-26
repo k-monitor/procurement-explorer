@@ -1,1 +1,3 @@
-Belügyminisztérium alá tartozó szervek részére földgázenergia beszerzése a 2018/2019. gázévre, teljes ellátás alapú földgázenergia-kereskedelmi szerződés keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d884a10e24a1acc5558f543f6d2fce5bf0e3d71c72270d2df45f97a094711e82
+size 183

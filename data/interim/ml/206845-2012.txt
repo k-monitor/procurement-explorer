@@ -1,34 +1,3 @@
-Építési	építési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-"	"	PUNCT	_	
-Körösladány	körösladány	NOUN	Case=Nom|Number=Sing	
-Város	Város	PROPN	Case=Nom|Number=Sing	
-szennyvízcsatornázása	szennyvízcsatornázás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-II	II	PROPN	Case=Nom|Number=Sing	
-.	.	PUNCT	_	
-ütem	ütem	NOUN	Case=Nom|Number=Sing	
-és	és	CONJ	_	
-a	a	DET	Definite=Def|PronType=Art	
-szennyvíztisztító	szennyvíztisztító	NOUN	Case=Nom|Number=Sing	
-telep	telep	NOUN	Case=Nom|Number=Sing	
-bővítése	bővítés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-"	"	PUNCT	_	
-(	(	PUNCT	_	
-pályázat	pályázat	NOUN	Case=Nom|Number=Sing	
-azonosító	azonosító	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-száma	szám	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-:	:	PUNCT	_	
-KEOP-1	KEOP-1	PROPN	Case=Nom|Number=Sing	
-.	.	PUNCT	_	
-
-2.0	2.0	PROPN	Case=Nom|Number=Sing	
-/	/	PUNCT	_	
-09-11-2011-0022	09-11-2011-0022	PROPN	Case=Nom|Number=Sing	
-)	)	PUNCT	_	
-FIDIC	FIDIC	PROPN	Case=Nom|Number=Sing	
-Könyv	könyv	NOUN	Case=Nom|Number=Sing	
-szerződéses	szerződéses	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-feltételei	feltétel	NOUN	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3	
-szerint	szerint	ADP	_	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:97f40941a11f7434993e36dff0ddb6faa47f0c66f2a188c64d40a8b1bef1a3df
+size 1342

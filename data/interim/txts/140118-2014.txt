@@ -1,1 +1,3 @@
-Tervezési szerződés Békéscsaba (kiz.) – Lőkösháza (oh.) országos közforgalmú vasútvonalszakasz meglévő engedélyezési terveinek felülvizsgálatára és új engedélyezési terveinek elkészítésére, továbbá kiviteli tervek és tenderdokumentáció elkészítésére.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ddc1e2718a8e1517cd7b560c823fe3a2e36379a4572bee92869c4b53898cead7
+size 288

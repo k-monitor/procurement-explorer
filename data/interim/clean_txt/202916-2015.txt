@@ -1,5 +1,3 @@
-az állampapír értékesítés támogató rendezvény történő megjelenés
-és egyedi
-illetve rendezvény kapcsolódó promóciós kampány lebonyolítás
-rendezvényszervezési feladat ellátás és az ez kapcsolódó támogató
-előkészítő és lebonyolító munka elvégzés irányuló vállalkozási keretszerződés
+version https://git-lfs.github.com/spec/v1
+oid sha256:195a1300cd8844e2c2aae091979809e0e2a86201bf916b33ad7ca9964bf1af2f
+size 325

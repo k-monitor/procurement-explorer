@@ -1,2 +1,3 @@
-élelmiszeripari termék beszerzés a sopronkőhidai fegyház és börtön részére
-szállítási szerződés keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:81ca781ad2923c1efcb2988c8ac5261304b31781cb0c2056e1bc9b8346954e82
+size 116

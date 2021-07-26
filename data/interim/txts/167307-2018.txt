@@ -1,1 +1,3 @@
-COMPASS+ országos felhasználású, tudományos tartalmú elektronikus adatbázis és keresőfelület kialakítása vállalkozási szerződés keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9981df9790eb8f5292199f07379c7b0ed13a48dffa79db600cb26d88e1c2c7a0
+size 155

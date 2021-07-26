@@ -1,18 +1,3 @@
-határidős adásvételi szerződés különféle élelmiszer beszerzés
-részajánlati tételi kör
-termékcsoport
-1. felvágott 2. mirelit 3. száraz áru keretösszeg összesen
-nettó
-ft keretösszeg rész
-1. részajánlat
-felvágott
-nettó
-ft 2. részajénlat
-mirelit
-nettó
-ft 3. részajánlat
-száraz áru
-nettó
-ft 4. részajánlat
-tejtermék
-nettó
+version https://git-lfs.github.com/spec/v1
+oid sha256:b2bafb6045dd527ed827e05ff9f9a4434924e6bf78d5605b0f50aaa794f27c9d
+size 356

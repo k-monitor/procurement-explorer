@@ -1,5 +1,3 @@
-Keretmegállapodás	keretmegállapodás	NOUN	Case=Nom|Number=Sing	
-tanuszodák	tanuszoda	NOUN	Case=Nom|Number=Plur	
-üzemeltetésére	üzemeltetés	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:7f5ae52ea068ff54a55a6f313d504d7799944fb6305799cf9f6778deea2d9f50
+size 222

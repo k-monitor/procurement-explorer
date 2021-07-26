@@ -1,1 +1,3 @@
-Nemzeti Sportközpontok bútorbeszerzése (5 részben) adásvételi szerződés keretében: 1. rész: A Lágymányosi Versenyuszodába bútorok beszerzése; 2. rész: Budapesti Olimpiai Központ Gerevich Aladár Nemzeti Sportcsarnokba bútorok beszerzése; 3. rész: Nemzeti Sportközpontokba bútorok beszerzése; 4. rész: Budapesti Olimpiai Központ Központi Sport és Ifjúsági Egyesület (BOK KSI) Ökölvívó terembe bútorok beszerzése; 5. rész: Nemzeti Lőtérre bútorok beszerzése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a0fa81031f0aef8042f188097a6ccf40c3b4791ca61b459fad292088118ee5ce
+size 497

@@ -1,1 +1,3 @@
-Adásvételi szerződés: A KEOP-5.6.0/E/15 azonosítószámú „Egészségügyi eszközök energia-megtakarítást célzó beszerzésének támogatása” elnevezésű projekt keretében radiológiai eszközök beszerzése, az üzemeltetéséhez szükséges betanítás elvégzése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2299dcf4da1684d0f9b41ab25cf9f97ebcdf07ed17c83005a3e2a33a506d2b3c
+size 284

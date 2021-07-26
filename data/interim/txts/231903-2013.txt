@@ -1,1 +1,3 @@
-Szállítási szerződés keretében cseppfolyós oxigén szállítása, valamint vákuumszigetelt cseppfolyós tárolótartályok és a hozzájuk tartozó szerelvények és légfűtésű elpárologtató berendezések (együttesen: ellátóberendezés) bérleti díj ellenében történő üzemeltetése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:522163e904aba38c0c59c8b1cc870f447d1bc7e6f753315ee69e38be1ba8ce01
+size 304

@@ -1,1 +1,3 @@
-Adásvételi szerződés oltóanyagok beszerzésére az Országos Epidemiológiai Központ (OEK) számára.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3b2abb9cd9121f14a67ef0ac49c885d6c8d3db39b6237c18deb9e65872c15140
+size 107

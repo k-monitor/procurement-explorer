@@ -1,1 +1,3 @@
-szállítási szerződés egyedi szoftver beszerzés tárgy
+version https://git-lfs.github.com/spec/v1
+oid sha256:54dcaf73a22ca45c23af70a0a0581b093fc535c287669b820a4ba79ac6c978c0
+size 59

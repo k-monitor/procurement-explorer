@@ -1,21 +1,3 @@
-a magyar állami operaház és az erkel színház új műhelyház és próbacentrum létrehozás szóló kormányhatározat
-2014.
-korm
-határozat a magyar állami operaház és az erkel színház új műhelyház és próbacentrum létrehozás szükséges beruházás előkészítés
-2015.
-7.
-korm
-határozat a magyar állami operaház és erkel színház műhelyház és próbacentrum létrehozás célzó beruházás és a magyar állami operaház korszerűsítés előkészítés
-foglalt összhang a budapest
-10. kerület
-belterület 38920. helyrajzi számú
-természet a budapest
-kőbányai út 30. szám alatt található ingatlan lévő 23. sz. villamosmozdony-javító csarnok
-un
-eiffel-csarnok
-és az kötődő további épült az operaház egyes funkció elhelyezés szolgáló vegyes használatú új műhelyház és próbacentrum projekt
-a további
-projekt
-megvalósítás szükséges bontási
-acélszerkezet
-és tetőfelújítási munka elvégzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:37a65d15e35fa5effea46c1e8e7bc8661560c2308bdedd600aa2637c97d87942
+size 958

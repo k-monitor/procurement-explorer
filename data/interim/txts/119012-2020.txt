@@ -1,1 +1,3 @@
-Vállalkozási Szerződés keretében a „Zalaegerszeg Alsóerdő komplex turisztikai fejlesztése” című TOP-6.1.4-16-ZL1-2017-00001 azonosító számú projekt keretében közúti kapcsolatok tervezési, engedélyeztetési, tervezői művezetési feladatainak ellátása
+version https://git-lfs.github.com/spec/v1
+oid sha256:01f63f4847c00fe594d7ff1d9417eddee590a57615a98b1f7e96afbda4335d1a
+size 276

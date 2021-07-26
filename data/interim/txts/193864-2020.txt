@@ -1,1 +1,3 @@
-Vállalkozási szerződés „PannonRIS rendszer supportja” tárgyban
+version https://git-lfs.github.com/spec/v1
+oid sha256:1cfc925140bce921f5e076d1eeda42b96903d4daecf4fa54b49d34bf45048aac
+size 71

@@ -1,1 +1,3 @@
-A Budapest XIII. kerület Jász utca 72. szám alatti 26354 helyrajzi számú telken új 35 lakásos önkormányzati lakóépület kivitelezése
+version https://git-lfs.github.com/spec/v1
+oid sha256:28c5867970a83f704a6ba92f0dbd9e057049ce23889f7bf129549a000f405d8c
+size 144

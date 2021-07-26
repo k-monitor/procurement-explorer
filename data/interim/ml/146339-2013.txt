@@ -1,14 +1,3 @@
-Szolgáltatási	szolgáltatási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-keretszerződés	keretszerződés	NOUN	Case=Nom|Number=Sing	
--	-	PUNCT	_	
-HHM	HHM	PROPN	Case=Nom|Number=Sing	
-területén	terület	NOUN	Case=Sup|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-lévő	lévő	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-különféle	különféle	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-SIGMA	SIGMA	PROPN	Case=Nom|Number=Sing	
-típusú	típusú	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szivattyúk	szivattyú	NOUN	Case=Nom|Number=Plur	
-helyszíni	helyszíni	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-javítása	javítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:cfeb7fbc9041e1711510ad3f915dbf61df1b51f24a51752b4963a8713c1ff56b
+size 691

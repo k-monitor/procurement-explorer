@@ -1,1 +1,3 @@
-Megbízási keretszerződés keretében a Miniszterelnökség, illetőleg a mindenkor hatályos jogszabályok szerinti, az államháztartás alrendszereiből származó pénzeszközök felhasználásával történő közbeszerzési eljárások, illetve szerződések felügyeletét ellátó szerv tevékenységét segítő, a mindenkor hatályos jogszabályok alapján fennálló feladataihoz kapcsolódó közbeszerzési és jogi szakértői tanácsadás.
+version https://git-lfs.github.com/spec/v1
+oid sha256:32450db7cebf4add31f959deb435c98efa35409d26316b987f97c00312d8e1b8
+size 456

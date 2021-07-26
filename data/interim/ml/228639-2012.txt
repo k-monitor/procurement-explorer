@@ -1,20 +1,3 @@
-Túlsúlyos	túlsúlyos	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-járművek	jármű	NOUN	Case=Nom|Number=Plur	
-kiszűrését	kiszűrés	NOUN	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-támogató	támogató	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-rendszer	rendszer	NOUN	Case=Nom|Number=Sing	
-kiépítése	kiépítés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-az	az	DET	Definite=Def|PronType=Art	
-EU	EU	PROPN	Case=Nom|Number=Sing	
-belső	belső	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-határok	határ	NOUN	Case=Nom|Number=Plur	
-megszűnése	megszűnés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-miatt	miatt	ADP	_	
-(	(	PUNCT	_	
-M7	M7	PROPN	Case=Nom|Number=Sing	
-Zalakomár	zalakomár	NOUN	Case=Nom|Number=Sing	
-iker-mérőállomás	iker-mérőállomás	NOUN	Case=Nom|Number=Sing	
-létesítése	létesítés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-)	)	PUNCT	_	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:b06e0e91c102f67f18dc9cdcfd72702b660b5295455a735fed8d3a2fe5275025
+size 947

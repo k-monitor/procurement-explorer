@@ -1,1 +1,3 @@
-Tablet és dokkoló eszköz beszerzés 1. rész: 59 db Panasonic FZ-M1 táblagép Base alapkiépítés: FZ-M1CCAAYZZ, vagy azzal műszakilag egyenértékű más típusú eszköz és 35 db Panasonic FZVEBM11AU Lite Cradle Dokkoló vagy azzal műszakilag egyenértékű más típusú eszköz. 2. rész: 171 db Zebra ET50, 8.3", WLAN ONLY, WIN10, Z3795, 4GB RAM, 64GB FLASH, ENG tablet vagy azzal műszakilag egyenértékű más típusú eszköz, 91 db Zebra crd-et5x-1scom1r dokkoló vagy azzal műszakilag egyenértékű dokkoló, Tablet Szoftver támogatása 3 évre, 167 db csuklópánt, 35 csomag 8”-os Zebra Tablet hátlaphoz csatlakoztatható fólia, forgó kézi hevederrel akkumulátor tartóval (5db/cs), 167 db védőkeret 8”-os Zebra táblagéphez, 100 db 4-es akkutöltő adapterrel és kábellel, 200 db 6800 mAh kiegészítő akkumulátor.
+version https://git-lfs.github.com/spec/v1
+oid sha256:293db545da670ae05813336ca600ff12b10dfc9b2e890a3b25d52842e9bef047
+size 855

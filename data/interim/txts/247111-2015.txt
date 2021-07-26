@@ -1,1 +1,3 @@
-Ajánlatkérő az Intézmény részére 24 hónapban szükséges különféle laboratóriumi diagnosztikumokat kívánja megvásárolni, egyrészt a saját tulajdonában lévő laboratóriumi készülékek működtetéséhez, másrészt pedig a 2. rész (VIII. és IX. fejezet) esetében gyárilag új vagy legfeljebb 4 évesnél nem régebbi demo különféle laboratóriumi készülékek kihelyezésével együtt, továbbá a használatba adásra kerülő készülékek on-line csatlakozásának biztosításával Ajánlatkérő mindenkori informatikai rendszeréhez. Jelenleg Ajánlatkérőnél Medworks informatikai rendszer működik.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7ab7f63c407facf6958b96413268fb85fac45b5d4056e06cf8c519055bb909bd
+size 639

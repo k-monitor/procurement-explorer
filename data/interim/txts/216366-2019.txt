@@ -1,1 +1,3 @@
-Törökbálint - Hulladékszállítás
+version https://git-lfs.github.com/spec/v1
+oid sha256:0d80c6fa48ddc29acda56ff1ddfd9690fd6ca3432501bdc18182cdc66d8a5953
+size 38

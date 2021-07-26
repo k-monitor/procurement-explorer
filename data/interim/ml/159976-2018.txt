@@ -1,4 +1,3 @@
-Különféle	különféle	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződések	szerződés	NOUN	Case=Nom|Number=Plur	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:290a65f7d953ef90da2dada568e6af31e411f2a7b1c230923719d00242c3311a
+size 130

@@ -1,1 +1,3 @@
-Megbízási szerződés az „Észak- és Közép-Dunántúli szennyvízelvezetési és -kezelési fejlesztés 6. (ÉKDU 6)”, KEHOP-2.2.2-15-2016-00085 projekt keretében műszaki ellenőri tevékenység ellátására.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1490981bd633a98e412137127b3913d7b7579539765c878dd61062a952e93495
+size 220

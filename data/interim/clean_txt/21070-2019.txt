@@ -1,8 +1,3 @@
-új kommunális haszongépjármű beszerzés zár végű pénzügyi lízing keret belül
-1. rész
-db új
-m3 tartályosztású kombinált csatornatisztító célgép szállítás az ajánlatkérési dokumentáció műszaki leírás foglalt szerint
-és forgalom helyezés történő átadás lízingszerződés keret
-2. rész
-db új m3 tartályú szippantó célgép szállítás az ajánlatkérési dokumentáció műszaki leírás foglalt szerint
-és forgalom helyezés történő átadás lízingszerződés keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:bb0497bddb1e76bdc21e356d5c88f9e26634018a5e269b42b48e8975786d9766
+size 514

@@ -1,1 +1,3 @@
-1. rész: Fókuszcsoportos (kvalitatív) vizsgálat szolgáltatás megrendelés vállalkozási szerződés alapján a TÁMOP-6.1.3.B-12/1-2013-0001 „Népegészségügyi kommunikáció fejlesztése” című pályázat keretében. 2. rész: Kommunikációs hatásosság felmérés (KHF) szolgáltatás megrendelés vállalkozási szerződés alapján a TÁMOP-6.1.3.B-12/1-2013-0001 „Népegészségügyi kommunikáció fejlesztése” című pályázat keretében. 3. rész: Egészségkommunikációs sajátosságok felnőtt felmérés (ESF) szolgáltatás megrendelés vállalkozási szerződés alapján a TÁMOP-6.1.3.B-12/1-2013-0001 „Népegészségügyi kommunikáció fejlesztése” című pályázat keretében. 4. rész: Egészségkommunikációs sajátosságok iskolai felmérés (iESF) szolgáltatás megrendelés vállalkozási szerződés alapján a TÁMOP-6.1.3.B-12/1-2013-0001 „Népegészségügyi kommunikáció fejlesztése” című pályázat keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2e855a9419d507850ac77fed030a58dbac025de313a79d8c778c99f1e63ea144
+size 981

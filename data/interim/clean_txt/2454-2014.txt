@@ -1,1 +1,3 @@
-különféle élelmiszer beszerzés rész szállítási szerződés keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:348883b46a2565cddf5f12d32bf6ccccd469134bdd8c9b287ebbef2a7910a2a3
+size 73

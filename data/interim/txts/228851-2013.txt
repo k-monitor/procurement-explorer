@@ -1,1 +1,3 @@
-Vállalkozási szerződés a „Nemzeti Közszolgálati Egyetem Rendészettudományi Kar részére objektumtakarítási szolgáltatás” nyújtására, határozatlan időre.
+version https://git-lfs.github.com/spec/v1
+oid sha256:78c0e28085ec486fdb01ff9f6cc97d553e94b8c2b422f62a893e652c8499fc7d
+size 174

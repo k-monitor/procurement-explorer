@@ -1,3 +1,3 @@
-rehabilitációs orvostechnológiai berendezés beszerzés az efop-2
-19-17-2017-00006 azonosítószámú
-járóbeteg szakellátó szolgáltatás fejlesztés az szszbmk című projekt keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:64bd5ec4a97970598253fbfa2a172bfb7683c33602cb9d8ba07634b9a5eab502
+size 188

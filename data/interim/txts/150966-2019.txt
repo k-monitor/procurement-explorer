@@ -1,1 +1,3 @@
-Villamos energia szállítása az ajánlatkérő részére 1.7.2019. 00:00 órától 30.6.2020. 24:00 óráig, teljes ellátás alapú villamos energia kereskedelmi szerződés keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:13d5cf425075a1570f6db486a9eaaeb6faf1781eceb03f27079e8bbb96a87fcc
+size 188

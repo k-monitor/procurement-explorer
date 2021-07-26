@@ -1,1 +1,3 @@
-adásvételi szerződés keret hangszer beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:f07b14b39e676793a7439266aa402e86a0f881b95bb857d9ae32ad258a6f7b8a
+size 50

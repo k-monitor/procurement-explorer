@@ -1,1 +1,3 @@
-Hitelszerződés forinthitelkeret nyújtására.
+version https://git-lfs.github.com/spec/v1
+oid sha256:89cd067221763656237fa4ad80125f599f9ebc1612e971c0f3a0c447ffad3084
+size 48

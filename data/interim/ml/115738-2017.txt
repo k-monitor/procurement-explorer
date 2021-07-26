@@ -1,18 +1,3 @@
-Adásvételi	adásvételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-/	/	PUNCT	_	
-ABV	ABV	PROPN	Case=Nom|Number=Sing	
-felderítő	felderítő	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-és	és	CONJ	_	
-azonosító	azonosító	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-műszer	műszer	NOUN	Case=Nom|Number=Sing	
--	-	PUNCT	_	
-HAPSITE	hapsite	PRON	Case=Nom|Number=Sing|Person=2|PronType=Prs	
-ER	ER	PROPN	Case=Nom|Number=Sing	
-hordozható	hordozható	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-vegyi	vegyi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-azonosító	azonosító	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-műszer	műszer	NOUN	Case=Nom|Number=Sing	
-beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:ac097c160413d5618676c12ca161874d33bfd132a9ab42091dd93aa632752a91
+size 821

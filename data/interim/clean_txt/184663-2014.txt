@@ -1,5 +1,3 @@
-egy használatos
-steril
-trombocita készítmény tárolás alkalmas transzferzsák
-granulocita készítmény tárolás alkalmas transzferzsák
-továbbá plazma készítmény tárolás alkalmas transzferzsák beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:89befb81ac4b69927f069bf5bdad68ac66cddd4c3e4c24af914eb156347ccbbd
+size 218

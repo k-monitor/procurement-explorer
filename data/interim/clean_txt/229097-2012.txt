@@ -1,4 +1,3 @@
-vállalkozási szerződés keret a körözési információs rendszer
-herm
-továbbfejlesztés
-központi sis ii és n-sis ii fejlesztés igazítás
+version https://git-lfs.github.com/spec/v1
+oid sha256:8ecad9e4c72f4c570a555d60dff4487d30c3b9594ac7f8c0be629c33ce186c4d
+size 146

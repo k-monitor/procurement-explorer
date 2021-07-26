@@ -1,18 +1,3 @@
-nyertes ajánlattevő köteles az által megajánlott ellenérték
-havidíj
-fejében a szerződés hatálybalépés nap
-óra a rendszerüzemeltetési feladat hónap
-azaz a 365. nap
-óra
-ellát
-továbbá nyertes ajánlattevő az ajánlatkérő eseti lehívás megfelelő kell elvégeznie a műszaki leírás foglalt rendszerfejlesztési feladat és változáskövetés a keretösszeg erő
-a rendszerfejlesztési feladat és változáskövetés fordítható keretösszeg
-a havi rendszerüzemeltetési szolgáltatási díj összeg csökkentett teljes nettó keretösszeg
-ajánlatkérő
-ak
-a teljes nettó keretösszeg
-ár
-azaz nettó ft erő vállal lehívási kötelezettség
-az
-hogy a rendszerüzemeltetési feladat vonatkozás ak
-os lehívási kötelezettség vállal
+version https://git-lfs.github.com/spec/v1
+oid sha256:6b7227e009d2b69466baba47dce11661e4b4095c96ac916931eb055894f3eacc
+size 767

@@ -1,1 +1,3 @@
-Megbízási szerződés a 62. sz. főút 11,5 t burkolat-megerősítés kivitelezéséhez kapcsolódó mérnöki munkák elvégzésére az M8 (új Duna híd) Székesfehérvár között A beszerzés projekt és PST kódja: K062.01
+version https://git-lfs.github.com/spec/v1
+oid sha256:021c5893707279b971cb9d579dad92b1988c4184a73b9f59d9877e89ae821fc3
+size 229

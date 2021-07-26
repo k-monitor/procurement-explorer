@@ -1,1 +1,3 @@
-1 db új ALD reaktor beszerzése a műszaki leírásban részletezett műszaki tartalommal, az ALD reaktor telepítése (installálása) és 3 nap alatt napi 8 órában 6 személy betanítása, minimum 1 év jótállással.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7ee6fab10d05edb1f83adbcec08bd63e8d782dd0e7f8231a62b0c6b12a1d4157
+size 223

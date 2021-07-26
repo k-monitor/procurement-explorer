@@ -1,1 +1,3 @@
-Kézi és gépi burkolatjel festés az országos közutakon vállalkozási szerződés keretében (továbbiakban: „Burkolatjel-festés 2013”).
+version https://git-lfs.github.com/spec/v1
+oid sha256:00f3db0c5a7a46a3cb7b0309626aea78d77f2e4111b4305fdcf1ad32edc71244
+size 146

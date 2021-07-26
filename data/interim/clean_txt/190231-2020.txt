@@ -1,1 +1,3 @@
-földgáz közbeszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:d5e16a7701a51703d70d273775dd48a6dfa778d2ad51de22aad4fcea45312559
+size 24

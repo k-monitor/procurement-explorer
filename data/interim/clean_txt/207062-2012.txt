@@ -1,7 +1,3 @@
-1. műszercsomag
-szállítási szerződés műtői és technológiai berendezés beszerzés
-üzem helyezés együtt
-ii
-műszercsomag
-szállítási szerződés intenzív terápiás és medikai elektronikai berendezés beszerzés
-üzem helyezés együtt
+version https://git-lfs.github.com/spec/v1
+oid sha256:83fdb76aa183e6932a0a085f40574355c902008fa0e127829a3c55805d33fd2c
+size 251

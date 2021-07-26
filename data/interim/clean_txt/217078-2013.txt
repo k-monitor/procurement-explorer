@@ -1,2 +1,3 @@
-útépítés
-útfenntartás és mélyépítés keretmegállapodás
+version https://git-lfs.github.com/spec/v1
+oid sha256:f6be3a940090e4c5fe1119cc1b24c90f09eee8a4d4d5eae025acaaba40be13e1
+size 66

@@ -1,1 +1,3 @@
-Megállóhelyek akadálymentesítése az 50-es villamos vonalán — engedélyezési és kiviteli tervek, tenderdokumentáció készítése, és a szükséges jóváhagyások megszerzése vállalkozási szerződés keretében
+version https://git-lfs.github.com/spec/v1
+oid sha256:9453e977be5a0ef51287a98b30090d5dc8ccdb95e07b5888a84b823dc3ee1d52
+size 225

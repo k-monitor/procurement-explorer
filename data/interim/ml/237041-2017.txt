@@ -1,16 +1,3 @@
-Az	az	DET	Definite=Def|PronType=Art	
-FKF	FKF	PROPN	Case=Nom|Number=Sing	
-Nonprofit	nonprofit	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-Zrt.	Zrt.	PROPN	Case=Nom|Number=Sing	
-Hulladékhasznosító	hulladékhasznosító	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-Mű	mű	PROPN	Case=Nom|Number=Sing	
-Üzemben	üzem	NOUN	Case=Ine|Number=Sing	
-üzemelő	üzemelő	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-kazánok	kazán	NOUN	Case=Nom|Number=Plur	
-segédberendezéseinek	segédberendezés	NOUN	Case=Gen|Number=Plur|Number[psor]=Sing|Person[psor]=3	
-gépészeti	gépészeti	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-javítása	javítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-,	,	PUNCT	_	
-karbantartása	karbantartás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:230af71766ad25224ca350a803d9334902d4c621cd333de8e3b33c015ad92346
+size 822

@@ -1,1 +1,3 @@
-laboratóriumi mérőműszer beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:7813cbb513ead3a8ba315fbbeca13e6a274cda5f4ab1ae1a3bfa67c77cf11485
+size 39

@@ -1,1 +1,3 @@
-A KEOP – 5.6.0/E/15. „Egészségügyi eszközök energia megtakarítást célzó beszerzésének támogatása” című konstrukcióhoz kapcsolódóan 1 db Perifériás és kardiológiai intervenciós DSA röntgen berendezés beszerzése, szállítással,telepítéssel, üzembehelyezéssel és 5 év jótállás biztosításával.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a25a922924a6c0e650df51b1be6a0a8e7bf14f40240b59e205a65efa7f6b66c3
+size 335

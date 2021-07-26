@@ -1,9 +1,3 @@
-Adásvételi	adásvételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-/	/	PUNCT	_	
-MH	MH	PROPN	Case=Nom|Number=Sing	
-HAVARIA	havaria	NOUN	Case=Nom|Number=Sing	
-laboratórium	laboratórium	NOUN	Case=Nom|Number=Sing	
-képességének	képesség	NOUN	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-fenntartása	fenntartás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:e1fbbd13d7810bdd708ef1acb0da0c2676e39a29b0054b106e74d36678f1e76a
+size 432

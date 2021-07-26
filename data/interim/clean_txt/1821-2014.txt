@@ -1,2 +1,3 @@
-a nemzeti adó
-és vámhivatal közép-dunántúli regionális adó főigazgatósága telephely beérkező adóbevallás számítógépes adatrögzítés és a feldolgozás kapcsolódó adminisztratív feladat ellátás
+version https://git-lfs.github.com/spec/v1
+oid sha256:b9daf3e50cd82f8da0cc35320062b2777e23960362a42689227e1f9eab8bf53c
+size 219

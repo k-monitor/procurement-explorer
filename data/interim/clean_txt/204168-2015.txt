@@ -1,4 +1,3 @@
-szerződés meghatározás
-adásvételi keretszerződés tárgya
-gépbeszerzés ten út
-kotró-rakodó gép beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:a5c1f97f222451c6eb72387285818e13935dc469a3536365f21ce01d9a1807f0
+size 118

@@ -1,1 +1,3 @@
-Megbízási szerződés Élőerős őrzés-védelmi, vagyonvédelmi, információs és portaszolgálati feladatok ellátása az Országos Vérellátó Szolgálat részére.
+version https://git-lfs.github.com/spec/v1
+oid sha256:70d46e07aa7b1e3eb0347217f7818f66b4080f72a1cad97bce7b4e3d4dad63c4
+size 172

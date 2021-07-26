@@ -1,1 +1,3 @@
-Zöldkarikás Játékok – Komplex szemléletformálási program című projekthez kapcsolódó integrált marketing-, kreatív és médiaügynökségi szolgáltatás (médiatervezési és médiavásárlási, kreatív tervezési, kivitelezési és gyártási, PR és promóciós feladatok, egyéb kapcsolódó ügynökségi szolgáltatásoknak ellátása) vállalkozási keretszerződés keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:50b39cc3c17250bc75dacd69c599c26def79a096cfed463cc05890ecca37773d
+size 400

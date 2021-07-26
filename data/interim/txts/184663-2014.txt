@@ -1,1 +1,3 @@
-Egyszer használatos, steril, trombocita készítmény tárolására alkalmas transzferzsák, granulocita készítmény tárolására alkalmas transzferzsák, továbbá plazma készítmény tárolására alkalmas transzferzsák beszerzése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9e3441d954068f6b42d638791f89b751445e2f7f10d1f53138d86f938752b7ad
+size 240

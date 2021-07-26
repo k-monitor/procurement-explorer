@@ -1,11 +1,3 @@
-vállalkozási szerződés keret az mnb új
-legalább felhasználó kiszolgáló közös adatbefogadó rendszeré
-a további
-rendszer
-kifejlesztés microsoft
-net környezet
-a kifejlesztett pénzügyi intézményi informatikai rendszer üzemeltetési támogatás és szoftverfejlesztési támogatás
-az évente felmerülő új igény megvalósítás
-azaz a kifejlesztett közös adatbefogadó rendszer továbbfejlesztés
-módosítás vagy összekapcsolás más informatikai rendszer
-dokumentáció rész képező követelményspecifikáció részletezett szerint
+version https://git-lfs.github.com/spec/v1
+oid sha256:7f64c4a58137ab342219a90489d8ccc4c8883bd324ca39c996c9dbba3ec8a6b8
+size 561

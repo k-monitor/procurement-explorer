@@ -1,1 +1,3 @@
-a batthyány kázmér általános iskola és a kanizsai dorottya általános iskola bővítés és részleges felújítás siklós
+version https://git-lfs.github.com/spec/v1
+oid sha256:e80ec82b3d94131d9a7fcb3c048e1ec95019bc00194d3d3f577d985c71d06764
+size 130

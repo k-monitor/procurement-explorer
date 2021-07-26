@@ -1,4 +1,3 @@
-elektrofiziológiai fogyóanyag beszerzés a pécsi tudományegyetem részére a közbeszerzési dokumentum meghatározott szerint ft keretösszeg erő ajánlati rész
-ajánlatkérő a nyertes ajánlattevő részére előír konszignációs raktár kihelyezés
-nyertes ajánlattevő köteles a szerződés megkötés számított naptári nap belül a teljesítés hely a termék a szerződés 1. számú melléklet meghatározott méretű raktárkészlet létrehoz
-és a szerződés teljes időtartam alatt biztosít
+version https://git-lfs.github.com/spec/v1
+oid sha256:8186b7d8d51e7cb38da592aff7b3bad88aebfd74a0290610fbc6c9bfc89efa7a
+size 516

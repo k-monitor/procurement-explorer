@@ -1,1 +1,3 @@
-Keretmegállapodás kötése a központosított közbeszerzési rendszerről, valamint a központi beszerző szervezet feladat- és hatásköréről szóló 168/2004. (V.25.) Korm. rendelet hatálya alá tartozó, illetve a központosított közbeszerzési eljáráshoz önként csatlakozó intézmények részére a Költségvetési Gazdálkodási Rendszer (KGR) alrendszerét képező Intézményi Könyvelési Modul (IKM) szoftverelemeinek támogatási, jogszabály követési és fejlesztési feladatainak ellátására.
+version https://git-lfs.github.com/spec/v1
+oid sha256:02ce72c6e4393f2e9805354b144ef6222c05b61ac92e2aeed23ffe4f68669e82
+size 524

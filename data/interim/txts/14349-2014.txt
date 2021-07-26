@@ -1,1 +1,3 @@
-Vállalkozási szerződés / Belváros-Lipótváros Budapest Főváros V. kerületének területén útépítési/felújítási munkák, és a szükségszerűen ehhez kapcsolódó járda felújítási munkák elvégzése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ada81dcc4f1a8ad1d0ea875181b4715d345c22533184bfa325a62271b8aec201
+size 221

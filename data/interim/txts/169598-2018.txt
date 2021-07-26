@@ -1,1 +1,3 @@
-Életpályatervezés gemifikálása az EFOP-1.2.3-VEKOP-15-2015-00001 Komplex ifjúsági fejlesztések - Új Nemzedék Újratöltve című projekt keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d77338bf26ebfb9b022a43a7e5c7f6fa21211754c8bab19e30321aa345e1a326
+size 158

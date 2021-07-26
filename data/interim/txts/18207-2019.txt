@@ -1,1 +1,3 @@
-Adás-vételi szerződés keretében Ajánlatkérő részére a klinikák napi működéséhez szükséges sterilizációs és csomagoló anyagok beszerzése 48 hónap időtartamra
+version https://git-lfs.github.com/spec/v1
+oid sha256:a7021900d5d5046f0e6e991c4197d437102cba58d8b7375f9f530e1545e867cf
+size 180

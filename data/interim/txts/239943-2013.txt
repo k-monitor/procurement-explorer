@@ -1,1 +1,3 @@
-Vállalkozási szerződés nyugdíjadat alfanumerikussá tételére az ÁROP-1.A.4-2012-2012-0002 azonosítószámú projekt keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dc4d08fd4efd755968ef391f89eab72124b32a20ab12e04ffda8fe3cc5babe34
+size 136

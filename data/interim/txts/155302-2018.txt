@@ -1,1 +1,3 @@
-Intézményirányítási folyamatok újraszervezése, intézményirányítási folyamatokat támogató, egységes alapokon és megoldásokon nyugvó, integrált intézményirányítási szakrendszerek megvalósítása, felsőoktatási intézményekhez bevezetése és kapcsolódó szolgáltatások nyújtása.
+version https://git-lfs.github.com/spec/v1
+oid sha256:349b48cb5d5fb9660410067c634df9bc3ab2b1f975620e241310118db5f06c5d
+size 309

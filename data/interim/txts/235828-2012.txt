@@ -1,1 +1,3 @@
-Tata Város Önkormányzata részére 957 557 000 HUF összegű hitelfelvétel az Európai Unió támogatásával és az Európai Unió támogatása nélkül megvalósuló projektek önerő finanszírozására.
+version https://git-lfs.github.com/spec/v1
+oid sha256:89e0788f50386ac09f727f387d9d3acb03f98cc12bd2a9db3a0ece4ef3b405d4
+size 210

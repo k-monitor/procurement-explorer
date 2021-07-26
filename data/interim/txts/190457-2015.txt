@@ -1,1 +1,3 @@
-Földgáz energia szállítása 1.10.2015–1.10.2016. teljesítési időszakra vonatkozóan, teljes ellátás alapú földgáz energia szállítási szerződés keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:284941d01b5ef6b279f0685b83a583277e3b7e7870e489fd9675facb8b2f392b
+size 173

@@ -1,8 +1,3 @@
-földgáz adás-vételi szerződés a győr-moson-sopron megyei intézményfenntartó központ és az által irányított
-a dokumentáció meghatározott intézmény részére a magyar földgáz hálózat folyamatos rendelkezés álló
-szabványos minőségű földgáz energia versenypiaci beszerzés
-közötti időszak vonatkozó
-teljes ellátásalapú földgáz-kereskedelmi szerződés keret
-mely maga foglal a rendszerhasználati díj elszámolás is
-földgázkereskedő kiválasztás
-gázév
+version https://git-lfs.github.com/spec/v1
+oid sha256:7f3bd1c1cb6199cb15c750ff18de188b6e01b392ed8d790b798ad47b1a0781cd
+size 497

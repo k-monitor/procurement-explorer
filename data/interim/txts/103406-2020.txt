@@ -1,1 +1,3 @@
-„Keretszerződés megkötése sportcikkek és felszerelések szállítására az OTP Bozsik-program részére”
+version https://git-lfs.github.com/spec/v1
+oid sha256:5fed1d623e72136d3120c88142cd53fd5eb63c2066bc0c0937ff73a67a4c2cf6
+size 114

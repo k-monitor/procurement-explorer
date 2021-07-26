@@ -1,1 +1,3 @@
-Vagyon- és felelősségbiztosítás Józsefvárosi Önkormányzat és intézményei részére.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9ad6a5ea49f51fc5d3d1a2bcbc2e3d083f4e57ea797c5fa556e98d34ae124544
+size 95

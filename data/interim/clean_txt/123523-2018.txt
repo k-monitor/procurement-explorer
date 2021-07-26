@@ -1,2 +1,3 @@
-adásvételi szerződés
-orvosi és ipari gáz beszerzés a borsod-abaúj-zemplén megyei központi kórház és egyetemi oktatókórház részére
+version https://git-lfs.github.com/spec/v1
+oid sha256:cc5799c07f4ab128b01da358c00c844b512cbe0c6c46a64a6056ac1ecc4bb7b3
+size 147

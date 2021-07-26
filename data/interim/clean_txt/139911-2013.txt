@@ -1,8 +1,3 @@
-db újszerű
-mentés még nem használ
-nem régi a forgalom helyezés év
-valamint a futásteljesítmény nem halad meg az km
-neonatális
-c
-típusú neonatológiai mentőgépjármű beszerzés a dokumentáció meghatározott felszerelés
-eszköz
+version https://git-lfs.github.com/spec/v1
+oid sha256:a87c4cccbc5481a5d204c6f24d128055822815f10965d4bf989067a75b521f6b
+size 245

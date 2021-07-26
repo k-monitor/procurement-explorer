@@ -1,1 +1,3 @@
-Szállítási keretszerződés keretében az FKF Nonprofit Zrt.-nél üzemeltetett Kommunális gépjármű gyári, új vagy ezekkel egyenértékű után gyártott új alkatrészek beszerzése és szállítása.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ea7f2aa0bfa63eaa34c13d72fe85ab4908b70e7e52367c55ba1e2ec8c9e59d0c
+size 210

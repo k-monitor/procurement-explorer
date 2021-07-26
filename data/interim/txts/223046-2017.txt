@@ -1,1 +1,3 @@
-Az Országos Mentőszolgálat – továbbiakban Ajánlatkérő – által a sürgősségi betegellátáshoz használt egyedi import gyógyszerek beszerzése és szállítása keretmegállapodás keretében keretében a sürgősségi betegellátáshoz szükséges hatóanyag tartalommal és kiszerelésben, amelyek az azonnali életmentés szakmai szabályainak megfelelőn kerültek meghatározásra a mentőgépjárművekben történő elhelyezés érdekében KM második része verseny újranyitásával.
+version https://git-lfs.github.com/spec/v1
+oid sha256:34fb6fea144f0ac35e139f96baf635f2975437068ec2bb5ce0d86c4d8de0121c
+size 506

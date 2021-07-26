@@ -1,1 +1,3 @@
-Előleg és beruházási hitelek biztosítása hitelszerződések formájában, villamos mozdonyok beszerzésének finanszírozására négy részben.
+version https://git-lfs.github.com/spec/v1
+oid sha256:92a4d30c11865bf452fd449deeff3847fdfe26974a626dfeceb68e8c5cc54c08
+size 150

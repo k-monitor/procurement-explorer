@@ -1,1 +1,3 @@
-Adásvételi szerződés az Erkel színház részére hangtechnikai eszközök beszerzése tárgyában.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1ce55d232788e8d0d14de73b67923329075f7506f82fb256e8ba6b7046b14ab8
+size 103

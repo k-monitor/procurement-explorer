@@ -1,1 +1,3 @@
-Egyedi vákuum kamrák beszerzése HHG nyalábvonalakhoz adásvétellel vegyes vállalkozási szerződés keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6e161dc4d2c3be3f4a760d1f69ce15c6e12f20960d0a28d9a9c495e822378ce7
+size 117

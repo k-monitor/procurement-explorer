@@ -1,1 +1,3 @@
-Vállalkozási szerződés keretében hőtermelő, légkezelő, melegvízellátó és elosztórendszerek karbantartása és üzemeltetése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4f21977a4d6c86221ce305aaf3762f284f94cec55eecbb3bce16dda2c80ccd97
+size 139

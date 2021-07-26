@@ -1,2 +1,3 @@
-compass országos felhasználású
-tudományos tartalmú elektronikus adatbázis és keresőfelület kialakítás vállalkozási szerződés keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:1d952c5802fb10086dce563f11a66dde01470d9e7db61a1bc02fe62efe163adb
+size 146

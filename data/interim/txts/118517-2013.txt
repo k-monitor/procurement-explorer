@@ -1,1 +1,3 @@
-Debrecen város útjainak, egyes járdáinak gépi, kézi úttisztítása, azok téli síktalanítási és hóeltakarítási munkái, valamint az illegális szemétlerakóba elhelyezett hulladékok szeméttelepre való szállítási munkái. Vállalkozási szerződés.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b143bcda0c56a0242484e60e964bf797437e3e9efa44c5b5e54cee34cd1005a5
+size 269

@@ -1,34 +1,3 @@
-Modern	Modern	PROPN	Case=Nom|Number=Sing	
-igazságügyi	igazságügyi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-toxikológiai	toxikológiai	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-vizsgáló	vizsgáló	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-műszerek	műszer	NOUN	Case=Nom|Number=Plur	
-és	és	CONJ	_	
-laboratóriumi	laboratóriumi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-eszközök	eszköz	NOUN	Case=Nom|Number=Plur	
-beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-1.	1.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
-rész	rész	NOUN	Case=Nom|Number=Sing	
-:	:	PUNCT	_	
-1	1	NUM	Case=Nom|NumType=Card|Number=Sing	
-darab	darab	NOUN	Case=Nom|Number=Sing	
-automata	automata	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-mintaelőkészítési	mintaelőkészítési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-robotrendszer	robotrendszer	NOUN	Case=Nom|Number=Sing	
-2.	2.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
-rész	rész	NOUN	Case=Nom|Number=Sing	
-:	:	PUNCT	_	
-1	1	NUM	Case=Nom|NumType=Card|Number=Sing	
-darab	darab	NOUN	Case=Nom|Number=Sing	
-UHPLC	UHPLC	PROPN	Case=Nom|Number=Sing	
-MS	MS	PROPN	Case=Nom|Number=Sing	
-/	/	PUNCT	_	
-MS	MS	PROPN	Case=Nom|Number=Sing	
-3.	3.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
-rész	rész	NOUN	Case=Nom|Number=Sing	
-:	:	PUNCT	_	
-1	1	NUM	Case=Nom|NumType=Card|Number=Sing	
-darab	darab	NOUN	Case=Nom|Number=Sing	
-UHPLC	UHPLC	PROPN	Case=Nom|Number=Sing	
-HRMS	HRMS	PROPN	Case=Nom|Number=Sing	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:d0bbc12a0345d7753c86822969c47d20dcc59665a48692f9c74c329d37d2c6ef
+size 1431

@@ -1,4 +1,3 @@
-pásztázó elektronmikroszkóp
-fe
-integrált energiadiszperzív röntgen mikroszonda
-eds
+version https://git-lfs.github.com/spec/v1
+oid sha256:8faf33d8e9d40047eb4342e66b88eb778a867d0f5608b24c9b37f3fcc7d5d310
+size 89

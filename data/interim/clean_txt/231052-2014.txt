@@ -1,3 +1,3 @@
-szolgáltatási keretszerződés keret a hhm található db
-bhs sap atomizer típusú
-mésztej befecskendezésű abszorber egység szervizelés
+version https://git-lfs.github.com/spec/v1
+oid sha256:44dbc7c2818d04ed9e986132658831a796c6fbfd8d33cc8e68817a06f5730795
+size 143

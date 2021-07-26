@@ -1,9 +1,3 @@
-vállalkozási szerződés röntgen berendezés szállítás
-üzem helyezés
-javítás a jótállási idő belül
-a felhasználó betanítás az
-egészségügyi eszközök energia-megtakarítás célzó beszerzés támogatás
-elnevezésű
-keop
-5.6.0
-e számú projekt keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:1a5b84e9c40334ead024a188f1c0f861aad346899512d1acdaa14c5ec879307e
+size 273

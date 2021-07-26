@@ -1,1 +1,3 @@
-Adásvételi keretszerződés alapján "Általános és különleges gumitermékek beszerzése a BKV Vasúti Járműjavító Kft. részére".
+version https://git-lfs.github.com/spec/v1
+oid sha256:cd2e78e036d2d14debdede70b79809637e31c493cd6343b4f537728b438e5db8
+size 141

@@ -1,1 +1,3 @@
-A BKV Vasúti Járműjavító Kft. részére. 1. rész: Vasúti sínek (4 féle) 2. rész: Darupályasínek (3 féle) Beszerzése a Közbeszerzési dokumentumban részletesen meghatározott műszaki leírás szerint. A műszaki leírásban esetlegesen előforduló, nevesített típus név, márkanév stb. a termék jellegének egyértelmű meghatározása érdekében történt, a 321/2015. Korm. rendelet 46.§ (3) bekezdés alapján az azzal egyenértékű minőségű terméket ajánlatkérő elfogadja.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4fab9f41dc9df2be207320910469167c697bb6801ff78b5ceb80534d2f6d533d
+size 508

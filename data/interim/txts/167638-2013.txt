@@ -1,1 +1,3 @@
-Komárom és Révkomárom (Komárno) közötti új közúti Duna-híd és kapcsolódó létesítmények tervezési feladatai. Projekt kód: K013.01. HUSK/1101/2.4.2/0216 1. rész: Komárom és Révkomárom (Komárno) közötti új közúti Duna-híd megvalósíthatósági tanulmány, környezeti hatástanulmány, engedélyezési és kiviteli terv, támogatási kérelem elkészítése, a szükséges engedélyek megszerzése. 2. rész: Komárom és Révkomárom (Komárno) közötti új közúti Duna-hídhoz csatlakozó magyar oldali út engedélyezési és kiviteli terveinek elkészítése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1e291d390dc4b51f271a6412817936b9ff90dd422113685baec0c8fcf49fb7bd
+size 595

@@ -1,1 +1,3 @@
-Román Csarnok és kapcsolódó tereinek rekonstrukciója az ajánlati dokumentációban részletezettek szerint.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ff6cf1a66d6eac15dc5d38bc7e90680b5003f5afd7a637643141ca7939194910
+size 113

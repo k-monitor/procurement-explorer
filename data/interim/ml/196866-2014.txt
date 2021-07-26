@@ -1,24 +1,3 @@
-Adásvételi	adásvételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-„	„	PUNCT	_	
-A	a	DET	Definite=Def|PronType=Art	
-Semmelweis	Semmelweis	PROPN	Case=Nom|Number=Sing	
-Egyetem	Egyetem	PROPN	Case=Nom|Number=Sing	
-Genomikai	genomikai	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-Medicina	medicina	NOUN	Case=Nom|Number=Sing	
-és	és	CONJ	_	
-Ritka	ritka	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-Betegségek	betegség	NOUN	Case=Nom|Number=Plur	
-Intézete	Intézete	PROPN	Case=Nom|Number=Sing	
-részére	részére	ADP	_	
-nagy	nagy	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-teljesítményű	teljesítményű	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-újgenerációs	újgenerációs	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szekvenáló	szekvenáló	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-készülék	készülék	NOUN	Case=Nom|Number=Sing	
-és	és	CONJ	_	
-kiegészítői	kiegészítő	NOUN	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3	
-"	"	PUNCT	_	
-beszerzésére	beszerzés	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:e46f184a9738bc27b3070d17e12fdf07fed2acfa7ebd283359c63e5cc7c179e7
+size 1088

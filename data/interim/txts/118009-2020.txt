@@ -1,1 +1,3 @@
-Adás-vételi szerződés keretében Ajánlatkérő az Intézmény részére 24 hónapra szükséges, a saját tulajdonában lévő készülékekhez szükséges Apheresis szerelékeket kívánja megvásárolni 4 db apheresis készülék használatba adásával együtt. Új vagy legfeljebb 6 éves készülék helyezhető ki.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d19d101d56b07a214fe4dcc8c5f847ae7a823d99d64d9cfd20fcbe07ed88eebe
+size 325

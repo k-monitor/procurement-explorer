@@ -1,4 +1,3 @@
-szerződés meghatározás
-adásvételi szerződés
-oldatkészítő és tároló berendezés beszerzés
-a dokumentáció leírt meg+felelő
+version https://git-lfs.github.com/spec/v1
+oid sha256:cc05c172c7e431c7536587ebd9f5deae31f9ad05eaf8d37194f1a37e50493960
+size 139

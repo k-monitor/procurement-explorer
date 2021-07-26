@@ -1,17 +1,3 @@
-határozott idejű adás-vételi szerződés keret között db ct berendezés és tartozék beszerzés
-amely maga foglal az eszköz helyszín szállítás
-üzem helyezés
-a helyiség az eszköz beszerelés
-telepítés és működtetés szükséges épület
-technikai és komfort hűtés tervezés
-kivitelezés
-az ajánlatkérő által jelenleg használt informatikai és a pacs rendszer az együttműködés megoldás
-a rendszer használat betanítás az ajánlatkérő által kijelölt max
-fő részére
-betanítási jegyzőkönyv felvétel
-valamint órás próbaüzem megtartás
-ez jegyzőkönyv felvétel
-a garanciaidő belül teljeskörű karbantartás nyújtás a megajánlott berendezés és a vele szállított perifériális eszköz vonatkozó
-a garancia idő mind az elvégzett munka
-mind a leszállított ct berendezés és kiegészítő tartozék eset
-legalább hónap
+version https://git-lfs.github.com/spec/v1
+oid sha256:a1f13593ec39bb7a7838f9d332c8f51f15de7e7b63e07953dc132b7a9b26ccf8
+size 879

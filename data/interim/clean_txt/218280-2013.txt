@@ -1,6 +1,3 @@
-megbízási szerződés keret a
-miskolc és térsége települési szilárdhulladék-kezelési rendszer továbbfejlesztés
-elnevezésű keop-1
-1.1
-b
-10-11-2011-0001 számú projekt megvalósítás kapcsolódó lakossági tájékoztatás segítő kommunikációs szolgáltatás nyújtás rész
+version https://git-lfs.github.com/spec/v1
+oid sha256:e66c566b2984f8a8d1e22278526dd212a62a56925ba579556cd2ed8eda6488a4
+size 292

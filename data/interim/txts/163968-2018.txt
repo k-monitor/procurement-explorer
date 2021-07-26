@@ -1,1 +1,3 @@
-Tételesen finanszírozott egyszer használatos szívsebészeti eszközök beszerzése a Városmajori Szív- és Érgyógyászati Klinika részére. 1. rész: Egyszer használatos vákuumos szívstabilizátor (összesen 160 db) adásvétellel történő beszerzése; 2. rész: Kis membránfelületű (1,7-1,99 m²) egyszer használatos oxigenátorok (összesen 1000 db) adásvétellel történő beszerzése; 3. rész: Nagy membránfelületű (2,0-2,5 m²) egyszer használatos oxigenátorok (összesen 200 db) adásvétellel történő beszerzése; 4. rész: Egyszer használatos membrán oxigenátorok hosszú távú testen kívüli oxigenizáció biztosítására (összesen 20 db) adásvétellel történő beszerzése; 5. rész: Egyszer használatos oxigenátor-csőkészletek (összesen: 1200 db) adásvétellel történő beszerzése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2bd602d3c962f6620972c093745f8710c85fb763aff3c7f2360ad76db81227aa
+size 841

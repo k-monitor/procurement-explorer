@@ -1,1 +1,3 @@
-biztosítási keretszerződés a budapesti corvinus egyetem hallgatói jogviszony álló külföldi hallgató
+version https://git-lfs.github.com/spec/v1
+oid sha256:8267ba331779ea196788a2f371b6b4e422b548caa8920b523b9526a244230a66
+size 109

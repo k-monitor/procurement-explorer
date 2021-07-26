@@ -1,1 +1,3 @@
-Szállítási szerződés 9 db + 4 db új, Magyarországon forgalomba helyezett tehergépjármű beszerzésére.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2cba2ec91610e6b1b782d64ea27203611a3315b6f56db837e76eb21dff4af5d4
+size 112

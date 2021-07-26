@@ -1,2 +1,3 @@
-közétkeztetési szolgáltatás ellátás az 1. és a ii
-számú gazdasági működtető központ részére vállalkozási szerződés keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:dcec2cffddbcded1c97c96515fc6f1a4c10b0711b09a50606ccb7097d0ae6f8f
+size 141

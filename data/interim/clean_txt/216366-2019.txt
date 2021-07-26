@@ -1,1 +1,3 @@
-törökbálint
+version https://git-lfs.github.com/spec/v1
+oid sha256:a00f07ee5ca146c61512dbd1e6a906065a340eb9efc66a5bbbca0d457c5788dd
+size 14

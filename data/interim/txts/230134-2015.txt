@@ -1,1 +1,3 @@
-Adásvételi szerződés a „Struktúraváltás támogatása a járó- és fekvőbeteg-ellátás fejlesztésével” elnevezésű TIOP 2.2.6. – 12/1B-2013-0041 azonosítójú „A Kanizsai Dorottya Kórház járóbeteg ellátásának fejlesztése” című pályázati konstrukcióhoz kapcsolódóan, különféle orvostechnikai eszközök, egyéb eszközök, medikai bútorzat beszerzésére, üzembe helyezési és betanítási kötelezettséggel. Rövid hivatkozás: Adásvételi szerződés különféle orvostechnikai eszközök, egyéb eszközök, medikai bútorzat beszerzésére, üzembe helyezési és betanítási kötelezettséggel.
+version https://git-lfs.github.com/spec/v1
+oid sha256:074e0212ed1f632bd45b4c0b10d06892bad409ce27d74dc67fc2adc51813e667
+size 646

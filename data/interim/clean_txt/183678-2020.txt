@@ -1,10 +1,3 @@
-protézis beszerzés konszignációs raktárkészlet biztosítás
-az egyes részajánlati kör
-azaz a különféle protézis részletes műszaki leírás a közbeszerzési dokumentum rész képező szakmai követelmény tartalmaz
-valamennyi rész eset ajánlatkérői követelmény a protézis rendszer
-a protézis minimál invazív műszerkészlet is beültethető lesz
-a revíziós műszerkészlet a primer műszerkészlet épül a műtét közbeni szabad átjárhatóság érdek
-konszignációs raktárkészlet kihelyezés méretenként minimum
-revíziós műszerkészlet biztosítás utazó készlet forma
-a protézis beültetés szükséges műszerkészlet kihelyezés
-implantátum pótlás a jelentés követő óra belül történik meg
+version https://git-lfs.github.com/spec/v1
+oid sha256:0a0bae0047ff8ec9435a9393969a88c982c0cd8d6a68a458b7a6abce8aaedca1
+size 743

@@ -1,1 +1,3 @@
-Adásvételi keretszerződés alapján „TW6000 és KCSV típusú vasúti járművekhez ajtóalkatrész és ajtó beszerzése a BKV Vasúti Járműjavító Kft. részére". 1. részfeladat: TW 6000 járművekhez gumielemek, takarólécek és utasajtó üvegek beszerzése 2. részfeladat: KCSV villamosokhoz ajtószárnyak beszerzése kapaszkodóval és anélkül
+version https://git-lfs.github.com/spec/v1
+oid sha256:46301d429227ff29c850f8612032b4096c5928e2293eb596dbb940532feeb3be
+size 364

@@ -1,1 +1,3 @@
-Munkagépek és haszongépjárművek karbantartása, javítása és ehhez kapcsolódóan alkatrész és csere munkagépek illetve gépjárművek biztosítása 2016–2018 évre.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b0f052b00248ad1c6b61125c9f5f1709824d9661a582af7285ebd128ef764bbc
+size 177

@@ -1,4 +1,3 @@
-1. rész szállítási szerződés
-a fővárosi ház menő szelektív hulladékgyűjtési rendszer kialakítás szükséges hulladékgyűjtő célgép beszerzés
-2. rész szállítási szerződés
-a fővárosi ház menő szelektív hulladékgyűjtési rendszer kialakítás szükséges tehergépjármű beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:4521c0835e098b7f55fab6fe8d13a056c6b6fb4b0445583f4eaed1a1d68166a4
+size 313

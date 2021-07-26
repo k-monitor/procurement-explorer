@@ -1,4 +1,3 @@
-CT	CT	PROPN	Case=Nom|Number=Sing	
-beszerzés	beszerzés	NOUN	Case=Nom|Number=Sing	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:d17c5d7ce185d1a0e347e9db8bad92b461baef8f97fb68622730b61e957a9ea3
+size 97

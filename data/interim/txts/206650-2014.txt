@@ -1,1 +1,3 @@
-Az ÉBH Észak-Balatoni Hulladékgazdálkodási Kft. részére 1 db aprítógép bérlése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b403ee2f265ca3036d0b976f035cf96731bf67d7c5135b516664e1f90d2e9dff
+size 91

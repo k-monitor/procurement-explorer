@@ -1,1 +1,3 @@
-Adás-vételi szerződés – Különféle orvostechnikai gép-műszerek beszerzése. 1. ajánlati rész: Orvostechnikai gép-műszerek, 2. ajánlati rész: Betegellátást segítő készülékek. A további információkat, a részletes specifikációt, az ajánlatkérő elvárásait, egyéb információkat a Közbeszerzési Dokumentum részletezi.
+version https://git-lfs.github.com/spec/v1
+oid sha256:db5fe696d3f685050a88e6017f225b73ba5cf38f6225bdb2f265dde1f09cfba4
+size 351

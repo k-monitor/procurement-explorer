@@ -1,14 +1,3 @@
-általános felhasználású 1.
-1. rész
-villamos energia beszerzés a 2019.01.01
-cet
-2019.12.31
-cet közötti időszak
-valamint általános felhasználású ii
-2. rész
-és közvilágítási célú
-3. rész
-villamos energia beszerzés a 2020.01.01
-cet
-2020.12.31
-cet közötti időszak teljes ellátás alapú villamosenergia-kereskedelmi szerződés keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:f50f852973affb4173dfc53e55c975ddef27a6ca5521b2d6d10e0ed9568806c1
+size 357

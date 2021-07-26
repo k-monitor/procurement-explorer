@@ -1,1 +1,3 @@
-Földgázbeszerzés 2013-2014-es gázévre a Mezőberény Város Önkormányzata és Intézményei részére.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f3711a0481a3b5b8ed35c1f8a98b7b0347c83ec97a14988ad37ca615101a7c9d
+size 109

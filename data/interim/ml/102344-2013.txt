@@ -1,9 +1,3 @@
-Szállítási	Szállítási	PROPN	Case=Nom|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-tételes	tételes	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-elszámolás	elszámolás	NOUN	Case=Nom|Number=Sing	
-alá	alá	ADP	_	
-eső	eső	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-gyógyszerkészítményekre	gyógyszerkészítmény	NOUN	Case=Sub|Number=Plur	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:6c6d4bfddd4fd529193031a652485095957c5a2264a259b83e1cc2d971ae6fd9
+size 390

@@ -1,22 +1,3 @@
-a diákhitel központ zrt. finanszírozási biztonság szükséges készenléti hitel megállapodás 2013. március 12. nap 2014. március 11. nap
-1. rész tekintet
-huf
-azaz forint keretösszegű
-újrafeltöltődő jellegű
-készenléti hitel nyújtás
-állami készfizető kezességvállalás
-hitelszerződés keret
-2. rész tekintet
-huf
-azaz forint keretösszegű
-újrafeltöltődő jellegű
-készenléti hitel nyújtás
-állami készfizető kezességvállalás
-hitelszerződés keret
-3. rész tekintet
-huf
-azaz forint keretösszegű
-újrafeltöltődő jellegű
-készenléti hitel nyújtás
-állami készfizető kezességvállalás
-hitelszerződés keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:3d4078ef98390d28b6e8ab743d6b2c77f076bf23b7116a30dfdf10a22d604187
+size 656

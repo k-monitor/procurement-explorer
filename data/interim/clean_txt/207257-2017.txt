@@ -1,2 +1,3 @@
-szegező robot
-szegező gépsor és csavarkompresszor beszerzés szállítási szerződés keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:61a628f5fe69f1c804ed46bf0da416027988ae8f24ff66892d10cf6e92d382fa
+size 96

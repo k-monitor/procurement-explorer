@@ -1,12 +1,3 @@
-földgáz energia szállítás teljes ellátás alapú földgáz-kereskedelmi szerződés keret
-év
-szeged megyei jogú város önkormányzata
-mint ajánlatkérő gesztor
-egyes
-os tulajdon levő gazdasági társaság és a fenntartás alatt álló
-az által működtetett intézmény
-valamint a szegedi kistérség szociális intézmény részére
-1.10.2016
-cet
-1.10.2017
-cet időszak vonatkozó
+version https://git-lfs.github.com/spec/v1
+oid sha256:180d2f018390dcc2ae9bf60ab3253aef4534e57bf60cc212a5bce03ca526d92e
+size 395

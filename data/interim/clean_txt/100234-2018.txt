@@ -1,10 +1,3 @@
-keretmegállapodás győr megyei jogú város önkormányzati tulajdonú
-kezelésű 
-és külterületi közút
-kerékpárút
-járda
-és az út tartozó csapadékvíz elvezető létesítmény illetve műtárgy
-híd
-folyamatos fenntartás
-karbantartás
-és felújítás illetve átépítés
+version https://git-lfs.github.com/spec/v1
+oid sha256:988606870c8b9f0b21f403b4ecf11980f31e37f96e1afbe0721925a251ae749f
+size 288

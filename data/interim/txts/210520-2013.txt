@@ -1,1 +1,3 @@
-Szállítási szerződés alapján villamos energia beszerzése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:baf60f7912e787068761975d05a6c20bd11ec84766f46178472ec8d975290c14
+size 64

@@ -1,1 +1,3 @@
-A beszerzés tárgya: Szolgáltatási szerződés alapján on-line bankkártyás fizetéshez (VPOS) szükséges banki szolgáltatások megrendelése. A részletes követelményeket a közbeszerzési műszaki leírás tartalmazza. A beszerzés mennyisége: On-line bankkártyás fizetéshez (VPOS) szükséges banki szolgáltatások megrendelése (minősített banki fizető oldal biztosítása, kiemelt támogatás nyújtása a szolgáltatás tesztelése és bevezetése során, helpdesk szolgáltatás, konzultációs lehetőség biztosítása). Becsült tranzakciók száma a szerződés tervezett időtartama alatt: 652 780.
+version https://git-lfs.github.com/spec/v1
+oid sha256:10634bddd178832f9122197550cc3016683f9988e4689db2b3ccf1d01c7aef80
+size 627

@@ -1,1 +1,3 @@
-Nagy számítási kapacitású (min. 14 Tflops) szerver és a hozzá kapcsolódó diszk alrendszer (storage) beszerzése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9e28f6df80a6ed4003523131f3ff6e6d065b1005bb30c7fa56f14945d0915bab
+size 121

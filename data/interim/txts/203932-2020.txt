@@ -1,1 +1,3 @@
-Laboratóriumi fehérvérsejt mentesítő szűrő és hozzá kapcsolódó tároló zsák (fehérvérsejt mentesítő szűrő szett) beszerzése trombocita koncentrátumhoz adásvételi szerződés keretében
+version https://git-lfs.github.com/spec/v1
+oid sha256:5065e28e03f9f844cfcb747a00bccd5b76a2338c64eb6cf005430099315a2a2a
+size 207

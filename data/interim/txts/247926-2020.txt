@@ -1,1 +1,3 @@
-Családbarát szülészet fejlesztése – eszközbeszerzés 3 részben, összesen 228 db, 29-féle, határozott idejű adásvételi szerződés keretei között. 1. rész: Szüléssel kapcsolatos orvostechnikai eszközök összesen 23 db, 9-féle 2. rész: Szüléssel kapcsolatos egyéb eszközök összesen 50 db, 13-féle 3. rész: Egyéb kiegészítők anyaszobákhoz összesen 155 db, 7-féle Részletesen a Közbeszerzési Dokumentumban szereplő Műszaki Leírásban meghatározottak szerint. A beszerzés az Emberi Erőforrások Minisztériuma által biztosított vissza nem térítendő támogatásból valósul meg. A támogatói okirat száma: ÁEEK/73652-2/2019.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1efe0861283f15a46db33298a406b4659e804610e99b35ee98549f6aa0a30b43
+size 675

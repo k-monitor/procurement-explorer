@@ -1,11 +1,3 @@
-Adásvételi	adásvételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-,	,	PUNCT	_	
-amelynek	amely	PRON	Case=Gen|Number=Sing|Person=3|PronType=Rel	
-tárgya	tárgy	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-Hálózati	Hálózati	PROPN	Case=Nom|Number=Sing	
-LAN	LAN	PROPN	Case=Nom|Number=Sing	
-eszközök	eszköz	NOUN	Case=Nom|Number=Plur	
-beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:97556b3826dc1665b1e8848c4ccc44625147a9d11e77d963c5dc75700c18a0fe
+size 495

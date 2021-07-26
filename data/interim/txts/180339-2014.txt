@@ -1,1 +1,3 @@
-TETRA rendszerben működő beépíthető (mobil) EDR rádióterminálok és kézi terminálok beszerzése szállítási keretszerződés keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fa84bef03ed15928619a6faebca2ac600df8b65715223af05bb947a2562cb7c5
+size 149

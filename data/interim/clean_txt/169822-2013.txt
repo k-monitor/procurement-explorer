@@ -1,1 +1,3 @@
-biztosítási szerződés a fővárosi ház menő szelektív hulladékgazdálkodási rendszer rész a fővárosi közterület-fenntartó zrt. üzemeltetés lévő hulladéktároló edényzet all risk vagyonbiztosítás érdek
+version https://git-lfs.github.com/spec/v1
+oid sha256:fd386da4d0220d01d76f35f32b5212bab9a0b6d8bb389be27e25587e7e18c8e3
+size 225

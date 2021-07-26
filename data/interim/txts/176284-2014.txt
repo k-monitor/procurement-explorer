@@ -1,1 +1,3 @@
-Digitális röntgengép 60 havi bérlése a Semmelweis Egyetem ÁOK II. Belgyógyászati Klinika részére valamint a röntgenhelyiség kialakítása, a berendezés szállítása, telepítése és üzembe helyezése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:517d354fc8938706928300a0d2f30898cde273b69de55c574139492b2d4e40e1
+size 216

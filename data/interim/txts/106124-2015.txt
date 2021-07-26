@@ -1,1 +1,3 @@
-Földgáz energia szállítása Budapest Főváros XVII. kerület Rákosmente Önkormányzata részére 30.6.2015. 6:00 – 1.7.2016. 6:00 időszakra vonatkozóan, teljes ellátás alapú földgáz energia kereskedelmi szerződés keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c890506cd4c0b559761c768e64b79be7e8ea1e41582da2dec0c9fd18832c5572
+size 242

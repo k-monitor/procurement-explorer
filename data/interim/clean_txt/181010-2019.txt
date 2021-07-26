@@ -1,5 +1,3 @@
-a közbeszerzési eljárás tárgy
-a nemzeti távközlési gerinc védelem biztosító ddos védelmi rendszer hardver és szoftver elem gyártói szolgáltatás előfizetés és gyártói támogatás
-valamint szállító támogatás vállalkozási szerződés 1. rész
-nemzeti távközlési gerinc védelem biztosító ddos védelmi rendszer hardver és szoftver elem gyártói szolgáltatás-előfizetés
-valamint gyártói támogatás 2. rész
+version https://git-lfs.github.com/spec/v1
+oid sha256:9a31fef011bb5bd0169af2410dd35a34a69b7a287ae39d1b0bb096dc96a9b5fe
+size 445

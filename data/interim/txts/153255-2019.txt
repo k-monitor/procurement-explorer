@@ -1,1 +1,3 @@
-Bács-Kiskun Megyei Katasztrófavédelmi Igazgatóság, Kecskeméti Katasztrófavédelmi Kirendeltség és Hivatásos Tűzoltó parancsnokság új épületének építése a KEHOP-1.6.0.-15-2016-00012 azonosítószámú projekt keretében a Kecskemét 8550/29 hrsz. alatti ingatlanon.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1afb7ffe80819fec8aafe7ad5fe388bad5663f97816794334860b4ece78db632
+size 284

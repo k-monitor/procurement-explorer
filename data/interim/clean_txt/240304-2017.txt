@@ -1,7 +1,3 @@
-tervezési szerződés esztergom
-m1 autópálya közúti kapcsolat fejlesztés
-megvalósíthatósági tanulmány
-kht
-valamint engedélyezési és kiviteli terv elkészítés
-k001
-tárgy
+version https://git-lfs.github.com/spec/v1
+oid sha256:4ed156869ca975c75d75f8f3b5c00bbbbd2a8a72484edd9308e534e74bdc7bba
+size 185

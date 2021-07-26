@@ -1,1 +1,3 @@
-Vállalkozási keretszerződés a NIF Zrt. beruházásában megvalósuló vonalas közlekedési létesítményekre vonatkozó projektek régészeti lelőhelyek feltárási feladatainak ellátásához szükséges, minimum 3 méter mélységig végzett, műszeres talajvizsgálat és hadieredetű robbanótestek, robbanószerkezetek felkutatása, feltárása, beazonosítása az esetlegesen előkerülő robbanószerkezetek biztonságba helyezése és elszállíttatása, megsemmisíttetése, típusainak, technikai paramétereinek rendszerezése, valamint az elvégzett munka dokumentálása (lőszermentesítés) tárgyában.
+version https://git-lfs.github.com/spec/v1
+oid sha256:15b56e34b8f187fd031fcce820ba15b949c556b3f7e5e19b1ceda5e55c300175
+size 625

@@ -1,7 +1,3 @@
-it-biztonsági szaktanácsadási feladat
-a megrendelő által megjelölt információbiztonsági téma átfogó
-kockázatelemzés egybekötött
-független szakértő által végrehajtott vizsgálat végrehajtás eseti megrendelés alap
-etikus hackelési feladat
-a megrendelő kritikus vagy bizalmas adat tároló rendszer vonatkozó
-független szakértő által végre-hajt információbiztonsági sérülékenységi vizsgálat végrehajtás eseti megrendelés alap
+version https://git-lfs.github.com/spec/v1
+oid sha256:516d97ffecb3f78f3c452c35114b7b12b95098608b01afb2eb574169264a9e9a
+size 465

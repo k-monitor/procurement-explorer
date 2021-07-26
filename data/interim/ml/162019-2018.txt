@@ -1,23 +1,3 @@
-Modern	Modern	PROPN	Case=Nom|Number=Sing	
-Városok	város	NOUN	Case=Nom|Number=Plur	
-Program	Program	PROPN	Case=Nom|Number=Sing	
-keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-a	a	DET	Definite=Def|PronType=Art	
-szegedi	szegedi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-4-es	4-es	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-villamos	villamos	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-rekonstrukció	rekonstrukció	NOUN	Case=Nom|Number=Sing	
-,	,	PUNCT	_	
-valamint	valamint	CONJ	_	
-a	a	DET	Definite=Def|PronType=Art	
-kísérleti	kísérleti	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-önjáró	önjáró	NOUN	Case=Nom|Number=Sing	
-trolibusz	trolibusz	NOUN	Case=Nom|Number=Sing	
-üzem	üzem	NOUN	Case=Nom|Number=Sing	
-infrastruktúrájának	infrastruktúra	NOUN	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-engedélyes	engedélyes	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-és	és	CONJ	_	
-kiviteli	kiviteli	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-tervezése	tervezés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:3f3c63aa45a6818abf67eacfaf05496f679cfd79a48e8df288c282e15d6658f2
+size 1047

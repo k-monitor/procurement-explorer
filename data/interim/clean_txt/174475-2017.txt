@@ -1,1 +1,3 @@
-vállalkozási szerződés légi fényképezés magyarország km2 nagyságú terület és db ortofotó készítés
+version https://git-lfs.github.com/spec/v1
+oid sha256:e8ea1e8d0926c1afaf95b418144b90215d3db884852a13a41fcfc3b056274853
+size 114

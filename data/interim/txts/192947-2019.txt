@@ -1,1 +1,3 @@
-Kivitelezési közbeszerzés eljárás lefolytatása az ÁEEK Projektirányítási Igazgatóság által megvalósítandó nyugat-magyarországi_2/2 kivitelezési eljárások tekintetében - 7 részben
+version https://git-lfs.github.com/spec/v1
+oid sha256:d79f986b8b6d8df695b3a9fbb36fbe7d23376f853b8616cc57e9d0539bcfdcab
+size 200

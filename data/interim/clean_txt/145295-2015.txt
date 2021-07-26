@@ -1,2 +1,3 @@
-adásvételi szerződés havi tej
-tejtermék beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:e835ab8c45a0a063123190d4970aca96826fa997aa760194ac85875aaeaf411b
+size 55

@@ -1,9 +1,3 @@
-KLIK	KLIK	PROPN	Case=Nom|Number=Sing	
-DELL	dell	NOUN	Case=Nom|Number=Sing	
-szerverekhez	szerver	NOUN	Case=All|Number=Plur	
-gyártói	gyártói	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-garancia	garancia	NOUN	Case=Nom|Number=Sing	
-kiterjesztés	kiterjesztés	NOUN	Case=Nom|Number=Sing	
-beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:3189cd4c7b27b8473222db84ce2530b3bb971d367229fc8ccb8c1757eb261c7c
+size 377

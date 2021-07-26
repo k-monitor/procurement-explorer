@@ -1,1 +1,3 @@
-Keretmegállapodás alapján mintaszállító dízel gépjárművek beszerzése szigetelt, hűtött raktérrel.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7907d51cc0c3f2184be91a9c950e48135b2ce2503756180b1d65b65b9f2865e2
+size 111

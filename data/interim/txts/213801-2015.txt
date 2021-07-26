@@ -1,1 +1,3 @@
-„Földgáz energia beszerzése a Fővárosi és Megyei Kormányhivatalok és a Közigazgatási és Igazságügyi Hivatal részére a 2015/2016. gázévre” [1. rész – 20m3/h alatti fogyasztási helyek, 2. rész – 20m3/h feletti fogyasztási helyek], teljes ellátás alapú földgáz szállítási szerződés keretében. A felhasználási helyek részletes adatait a dokumentáció tartalmazza.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e598b4c8b314f3877d9a15b269a4940f58e630293f9f744b651b032a53c68aee
+size 403

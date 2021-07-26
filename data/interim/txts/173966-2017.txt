@@ -1,1 +1,3 @@
-Pékáru beszerzése a Büntetés-végrehajtás Országos Parancsnoksága által a Szegedi Fegyház és Börtön részére fajta és mennyiség szerint meghatározott dolog határidős adásvétele keretében a lent szerepeltetett mennyiségben 2 évre.
+version https://git-lfs.github.com/spec/v1
+oid sha256:746275730ee8008b7fae28a5bb2cca80c2320f8798b1390bbfbf35cb051fb185
+size 253

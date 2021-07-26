@@ -1,1 +1,3 @@
-Szerződés meghatározása: Adásvételi szerződés. Útjavítás gépeinek beszerzése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:da8db2ab221665aa2a8e127526a8900c9b6a93a92f0940f2e4cb530a7bba17e8
+size 90

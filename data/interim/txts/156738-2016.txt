@@ -1,1 +1,3 @@
-Vállalkozási szerződés alapján Kondoros Város Önkormányzata részére közétkeztetési feladatok, továbbá vendéglátóhely-üzemeltetési szolgáltatások ellátása.
+version https://git-lfs.github.com/spec/v1
+oid sha256:637bcd180332402eca6ba19e2399c72b0bae3811bf72ca82e93d7f7f686da45a
+size 178

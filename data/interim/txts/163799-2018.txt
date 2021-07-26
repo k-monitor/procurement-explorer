@@ -1,1 +1,3 @@
-Exchange és Sharepoint licencek beszerzése adásvételi szerződés keretében a közbeszerzési dokumentumokban meghatározottak szerint.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b768afbe75e1836483313c259b5e9275ffd70029537ecb356dbb9dc523e9fcb2
+size 140

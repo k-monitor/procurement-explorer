@@ -1,1 +1,3 @@
-A debreceni déli gazdasági övezet feltáró úthálózatának megépítése a hozzá kapcsolódó közművekkel.
+version https://git-lfs.github.com/spec/v1
+oid sha256:72ade871023fedaeb494ced0fef27733c7f55e8c274dde7a23c279105655aec4
+size 115

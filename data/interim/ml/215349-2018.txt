@@ -1,36 +1,3 @@
-Navigált	navigált	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPast	
-transzkraniális	transzkraniális	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-mágneses	mágneses	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-agyi	agyi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-stimulációs	stimulációs	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-rendszer	rendszer	NOUN	Case=Nom|Number=Sing	
-(	(	PUNCT	_	
-nTMS	nTMS	PROPN	Case=Nom|Number=Sing	
-)	)	PUNCT	_	
-idegsebészeti	idegsebészeti	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-navigációval	navigáció	NOUN	Case=Ins|Number=Sing	
-beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-a	a	DET	Definite=Def|PronType=Art	
-Pécsi	Pécsi	PROPN	Case=Nom|Number=Sing	
-Tudományegyetem	Tudományegyetem	PROPN	Case=Nom|Number=Sing	
-részére	részére	ADP	_	
-az	az	DET	Definite=Def|PronType=Art	
-EFOP-3	EFOP-3	PROPN	Case=Nom|Number=Sing	
-.	.	PUNCT	_	
-
-6	6	NUM	Case=Nom|NumType=Card|Number=Sing	
-.	.	PUNCT	_	
-2-16-2017-00008	2-16-2017-00008	PROPN	Case=Nom|Number=Sing	
-jelű	jelű	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-pályázat	pályázat	NOUN	Case=Nom|Number=Sing	
-keretein	keret	NOUN	Case=Sup|Number=Plur|Number[psor]=Sing|Person[psor]=3	
-belül	belül	ADP	_	
-.	.	PUNCT	_	
-
-A	a	DET	Definite=Def|PronType=Art	
-közbeszerzési	közbeszerzési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-dokumentációban	dokumentáció	NOUN	Case=Ine|Number=Sing	
-részletezettek	részletezett	NOUN	Case=Nom|Number=Plur	
-szerint	szerint	ADP	_	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:4658ccef61027f776988fa65e33b32df20e84a1d654b07c53d4dc708f999dc22
+size 1469

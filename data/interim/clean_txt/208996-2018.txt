@@ -1,2 +1,3 @@
-a nav vagyonkezelés lévő t össztömeg meg nem haladó márkafüggetlen gépjármű kisjavítás
-karbantartás és műszaki vizsgáztatás rész hónap időtartam vagy a szerződéses keretösszeg kimerülés
+version https://git-lfs.github.com/spec/v1
+oid sha256:5487937daf15e3f2314b6cc37c62413b6152b660413b1ef064c5680296a0e88e
+size 211

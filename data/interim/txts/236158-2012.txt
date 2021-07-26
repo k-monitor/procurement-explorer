@@ -1,1 +1,3 @@
-Megbízási szerződés „Miskolc város ivóvízellátás biztonságának javítása korszerű víztisztítási technológia kiépítésével, Miskolc-Tapolca vízbázisának súlyos veszélyeztetése miatt” tárgyú projekt keretében projektmenedzseri feladatok ellátására (KEOP-1.3.0/B/2F/09-2010-0001).
+version https://git-lfs.github.com/spec/v1
+oid sha256:dfa65b40e063a14fa6fd687148e0cc721ea884d6f356cb02d880a9269ab47cac
+size 313

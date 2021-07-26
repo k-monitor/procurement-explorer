@@ -1,1 +1,3 @@
-adásvételi szerződés hemodinamikai fogyóanyag beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:06c42b728f63c040310efb203cc748613bb46b60d81233069ec0f74f034a4450
+size 61

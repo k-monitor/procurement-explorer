@@ -1,1 +1,3 @@
-K1969 MAN alkatrész beszerzése és szállítása
+version https://git-lfs.github.com/spec/v1
+oid sha256:997a9785583af96cec0bd44ff594d5f406bf24bb0bd39592b482612524f53b21
+size 50

@@ -1,9 +1,3 @@
-vállalkozási szerződés ct berendezés szállítás
-üzem helyezés
-javítás a jótállási idő belül
-a felhasználó betanítás az
-egészségügyi eszközök energia-megtakarítás célzó beszerzés támogatás
-elnevezésű
-keop
-5.6.0
-e számú projekt keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:7cba15676730e283d48fd51272dd0ea4f4bfbad5f3a8212ddabc70b79aaf9353
+size 267

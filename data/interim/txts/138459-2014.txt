@@ -1,1 +1,3 @@
-Bérleti szerződés keretében a MiReHuKöz Nonprofit Kft. hulladékgyűjtési- és szállítási közszolgáltatási feladatainak teljesítéséhez szükséges gépjárművek flottakezelés keretében történő biztosítása
+version https://git-lfs.github.com/spec/v1
+oid sha256:38f8b7c63a627496093872b53e2e6311d3c81e32f065b6feb78a6033b1a18994
+size 227

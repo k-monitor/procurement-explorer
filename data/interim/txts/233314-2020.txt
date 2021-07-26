@@ -1,1 +1,3 @@
-Földgáz adásvételi szerződés keretében az ajánlatkérők részére a magyar földgáz hálózaton folyamatosan rendelkezésre álló, szabványos minőségű földgáz energia versenypiaci beszerzése a Szerződéses időszakra (2020.10.1. 6:00 óra – 2021.10.1. 6:00 óra) vonatkozóan összesen 93 264 101 kWh mennyiségben, mely opciós mennyiséggel növekedhet (27 979 228 kWh). Az I.1. pontban meghatározott ajánlatkérők külön-külön kötnek szerződést. Az egyes ajánlatkérők a saját mennyiségeik vonatkozásában kötnek szerződést. Az ajánlatkérőnként megbontott mennyiségeket a Közbeszerzési dokumentumok mellékletét képező szerződéstervezet tartalmazza.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1ab5e6cc3ac50adc72775d806b9841c6d350eb537bd10e4a0fcef684630c9487
+size 702

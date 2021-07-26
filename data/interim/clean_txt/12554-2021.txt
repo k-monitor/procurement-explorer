@@ -1,6 +1,3 @@
-vállalkozási szerződés keret
-hónap időtartam az ajánlatkérő egészségügyi intézmény a teljes körű élelmezési szolgáltatás
-ajánlatkérő fekvőbeteg és személyzet közétkeztetés folyamatos
-biztosítás kiszállítás
-továbbá folyamatos együttműködés
-ill. egyeztetés ajánlatkérő dietetikai szakember a diétás menü kialakítás vonatkozó
+version https://git-lfs.github.com/spec/v1
+oid sha256:0ac72f8572937c11ddbd5f7ca96a640cf1a19abe6e359fc79d8e7ed219884bd7
+size 372

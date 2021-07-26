@@ -1,1 +1,3 @@
-Megbízási szerződés a KEOP-1.2.0/B/10-2010-0065 számú pályázat keretében, Doboz szennyvízcsatornázása és szennyvíztisztító telep tervezése és építése projekttel kapcsolatos FIDIC mérnök felügyeleti és műszaki ellenőri feladatok teljes körű ellátására.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ab85da2325994a0f8e98a63a202399f95a0b69fedbaf844b5744e55802fb593e
+size 283

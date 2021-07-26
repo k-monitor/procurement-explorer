@@ -1,1 +1,3 @@
-Szállítási szerződés szívsebészeti és aneszteziológiai anyagok beszerzésére.
+version https://git-lfs.github.com/spec/v1
+oid sha256:957ee4ef37f95f6b33f60aa48cbc1b3708c6ddbabfab5896d976c53ddb75ba10
+size 87

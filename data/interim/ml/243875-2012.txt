@@ -1,36 +1,3 @@
-Földgáz	földgáz	NOUN	Case=Nom|Number=Sing	
-energia	energia	NOUN	Case=Nom|Number=Sing	
-szállítása	szállítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-az	az	DET	Definite=Def|PronType=Art	
-ajánlatkérő	ajánlatkérő	NOUN	Case=Nom|Number=Sing	
-részére	részére	ADP	_	
-2012.	2012.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
-11.01	11.01	NUM	Case=Nom|NumType[sem]=Time|Number=Sing	
-.	.	PUNCT	_	
-
-6	6	NUM	Case=Nom|NumType=Card|Number=Sing	
-:	:	PUNCT	_	
-00	00	NUM	Case=Nom|NumType=Card|Number=Sing	
-CET-2013	CET-2013	NOUN	Case=Nom|Number=Sing	
-.	.	PUNCT	_	
-
-07.01	07.01	NUM	Case=Nom|NumType[sem]=Time|Number=Sing	
-.	.	PUNCT	_	
-
-6	6	NUM	Case=Nom|NumType=Card|Number=Sing	
-:	:	PUNCT	_	
-00	00	NUM	Case=Nom|NumType=Card|Number=Sing	
-CET	cet	NOUN	Case=Nom|Number=Sing	
-időszakra	időszak	NOUN	Case=Sub|Number=Sing	
-vonatkozóan	vonatkozó	ADJ	Case=Ess|Degree=Pos|Number=Sing|VerbForm=PartPres	
-,	,	PUNCT	_	
-teljes	teljes	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-ellátás	ellátás	NOUN	Case=Nom|Number=Sing	
-alapú	alapú	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-földgáz	földgáz	NOUN	Case=Nom|Number=Sing	
-energia	energia	NOUN	Case=Nom|Number=Sing	
-kereskedelmi	kereskedelmi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:101225a25a42ca15ef7ea9a075337773f96d866984a40eabb6f269f23b11b77e
+size 1367

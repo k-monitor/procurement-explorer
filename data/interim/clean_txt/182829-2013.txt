@@ -1,2 +1,3 @@
-állami légiszállító flotta
-szállítógép beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:0592f115d58352d98aaa473bcf570025e03c6fabe9a714f69f31d3e91ae9a404
+size 58

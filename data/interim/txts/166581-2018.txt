@@ -1,1 +1,3 @@
-Az 1527/2016. (IX. 29.) Korm. határozat szerinti infrastruktúrafejlesztés megvalósítására mobíliák beszerzése a Testnevelési Egyetem részére adásvételi szerződés keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a62346b3d13da2a147c70eac862c832b4ddb38280d9cc60866952ffc3efc40f1
+size 190

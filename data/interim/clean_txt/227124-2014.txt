@@ -1,4 +1,3 @@
-vállalkozási szerződés médiavásárlási és rendezvényszervezési feladat megvalósítás a lakó-park és park-lakó című
-keop-6
-1.0
-c
+version https://git-lfs.github.com/spec/v1
+oid sha256:e27b1361b75dd06ba055fb108a2787417e69a844ea74ce71a19330c355722947
+size 144

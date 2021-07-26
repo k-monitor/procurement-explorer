@@ -1,1 +1,3 @@
-A hitelintézetekről és a pénzügyi vállalkozásokról szóló 1996. évi CXII. törvényben szabályozott, fizetési számlára történő készpénzbefizetést lehetővé tevő szolgáltatás nyújtása postai számla befizetési megbízás (fehér csekk) keretében 1 éves + további 2 éves (egész év vagy annak egy része, opciós) határozott időre szóló vállalkozási szerződés alapján.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5cd1884860c3bad9ef193551bbcb9506dd2bb6c98aadd89ffc416071c4b80cd1
+size 407

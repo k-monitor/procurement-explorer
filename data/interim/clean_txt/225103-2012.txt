@@ -1,2 +1,3 @@
-szállítási szerződés
-új literes fém hulladékgyűjtő tartály beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:776f983a02f6e0a0e25814cdda15ed8e01b8a05be0019eb3d5776be9e74641d1
+size 80

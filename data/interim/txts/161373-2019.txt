@@ -1,1 +1,3 @@
-EFOP-2.2.2-17-2017-00014 azonosítószámú projekt keretében 1 db támogatott lakhatást biztosító lakás építése Maklár területén és a kiváltandó szociális otthon egyes részlegeinek felújítása, átalakítása Andornaktálya területén. Ajánlatkérő a Kbt. 61. § (4)–(5) bekezdése alapján rögzíti, hogy a beszerzés kettő (2) Részajánlati körben valósul meg jelen eljárásban. 1. rész: 1 db támogatott lakhatást biztosító lakás építése 2. rész: 1 db szociális otthon felújítás, átalakítás
+version https://git-lfs.github.com/spec/v1
+oid sha256:2dd06d8a4461d30696815d397abea676c159fe216036e60d494f3ced7d20e1fb
+size 539

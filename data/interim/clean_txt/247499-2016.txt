@@ -1,4 +1,3 @@
-a nif zrt. beruházás megvalósuló
-a transzeurópai közlekedési hálózat
-ten belvízi út fejlesztés kapcsolódó tervezői feladat ellátás tervezési szerződés keret
-2014-hu-tmc-0606-s
+version https://git-lfs.github.com/spec/v1
+oid sha256:b03fc33896bd4b965a64da743b7c2a6f9b869c88534db77175e63db907ed86b2
+size 195

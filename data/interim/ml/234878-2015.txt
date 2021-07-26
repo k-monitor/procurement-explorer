@@ -1,28 +1,3 @@
-Szállítási	Szállítási	PROPN	Case=Nom|Number=Sing	
-keretszerződés	keretszerződés	NOUN	Case=Nom|Number=Sing	
-keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-az	az	DET	Definite=Def|PronType=Art	
-FKF	FKF	PROPN	Case=Nom|Number=Sing	
-Nonprofit	nonprofit	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-Zrt.	Zrt.	PROPN	Case=Nom|Number=Sing	
-
--	-	PUNCT	_	
-nél	Rt.	PROPN	Case=Ade|Number=Sing	
-üzemeltetett	üzemeltetett	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPast	
-Kommunális	Kommunális	PROPN	Case=Nom|Number=Sing	
-gépjármű	gépjármű	NOUN	Case=Nom|Number=Sing	
-gyári	gyári	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-,	,	PUNCT	_	
-új	új	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-vagy	vagy	CONJ	_	
-ezekkel	ez	PRON	Case=Ins|Number=Plur|Person=3|PronType=Dem	
-egyenértékű	egyenértékű	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-után	után	ADP	_	
-gyártott	gyártott	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPast	
-új	új	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-alkatrészek	alkatrész	NOUN	Case=Nom|Number=Plur	
-beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-és	és	CONJ	_	
-szállítása	szállítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:ed165e9c5175c49a6a7a95956112b90d085a3d4ae90b5154c998aa5c96f0da5d
+size 1243

@@ -1,1 +1,3 @@
-Az állampapírok értékesítését támogató rendezvényeken történő megjelenések, és egyedi, illetve rendezvényekhez kapcsolódó promóciós kampányok lebonyolítására, rendezvényszervezési feladatok ellátására és az ezekhez kapcsolódó támogató, előkészítő és lebonyolító munkák elvégzésére irányuló vállalkozási keretszerződés.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9284984f654c34ef0c8762e977661212299ca3f51db8983c66dcb40d3c49cf3f
+size 369

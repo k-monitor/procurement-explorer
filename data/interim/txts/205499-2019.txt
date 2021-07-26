@@ -1,1 +1,3 @@
-Ajánlatkérők által üzemeltetett fogyasztási helyek részére 30 296 223 kWh + 30 % opció (összesen: 39 385 089 KWh) mennyiségű villamos energia teljes ellátás alapú szerződés keretében történő adásvétele 1.8.2019. 00:00 óra és 31.7.2020. közötti időszakban. Nyertes ajánlattevő a teljes szerződéses mennyiséget 30 296 223 kWh + 30 % opció a közbeszerzési eljárásba bevont valamennyi A Közbeszerzési dokumentumok B. mellékletében felsorolt intézmények valamennyi felhasználási helyei vonatkozásában összevontan kell kezelje.
+version https://git-lfs.github.com/spec/v1
+oid sha256:33330c916349794c3bf1952ddf9166632eae6bbc27a1ce7f92b12ad8aa1006ce
+size 570

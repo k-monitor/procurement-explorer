@@ -1,23 +1,3 @@
-„	„	PUNCT	_	
-Budapest	Budapest	PROPN	Case=Nom|Number=Sing	
-Főváros	főváros	NOUN	Case=Nom|Number=Sing	
-XIII	13	NUM	Case=Nom|NumType=Card|Number=Sing	
-.	.	PUNCT	_	
-
-Kerületi	Kerületi	PROPN	Case=Nom|Number=Sing	
-Önkormányzat	Önkormányzat	PROPN	Case=Nom|Number=Sing	
-fenntartása	fenntartás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-alatt	alatt	ADP	_	
-álló	álló	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-sportlétesítmények	sportlétesítmény	NOUN	Case=Nom|Number=Plur	
-és	és	CONJ	_	
-közművelődési	közművelődési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-intézmények	intézmény	NOUN	Case=Nom|Number=Plur	
-napi	napi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-,	,	PUNCT	_	
-havi	havi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-és	és	CONJ	_	
-nagytakarítása	nagytakarítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-"	"	PUNCT	_	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:7ab58a4523d6ddc0d2628a1419747d74d6f81b24a0638e10863be9de2ef7459d
+size 904

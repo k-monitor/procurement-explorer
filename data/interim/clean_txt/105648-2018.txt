@@ -1,8 +1,3 @@
-megbízási szerződés az
-északkelet-magyarországi szennyvízelvezetési és
-kezelési fejlesztés 4.
-ékmo 4
-elnevezésű
-kehop-2
-2-15-2016-00050
-projekt műszaki ellenőri tevékenység ellátás
+version https://git-lfs.github.com/spec/v1
+oid sha256:4730212ac7319a7db887fd55dbf96b565cc5661572f190acc274c3ca56afe748
+size 200

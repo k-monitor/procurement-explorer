@@ -1,1 +1,3 @@
-Adás-vételi szerződés 12 havi hús, húskészítmények beszerzésére.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d5a406a816b08cbe5f4783f436c861a36f451ffa2ddff9de0e6533599d84effe
+size 75

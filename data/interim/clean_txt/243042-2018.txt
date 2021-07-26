@@ -1,2 +1,3 @@
-termelő istálló
-tejház kivitelezés
+version https://git-lfs.github.com/spec/v1
+oid sha256:f54440977f56e4857b70ab29654991c406255efc3b9968074f744e91c67c4449
+size 39

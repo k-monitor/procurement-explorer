@@ -1,1 +1,3 @@
-Adásvételi szerződés a közbeszerzési Műszaki leírásban részletezett műszaki tartalmú és mennyiségű fogászati kezelőegységek beszerzésére. A műszaki leírásban részletezett minőségű, azzal egyenértékű terméket is elfogad az ajánlatkérő. Az egyenértékűség megállapításához az ajánlatban be kell mutatni, hogy a műszaki leírás szerinti mely elemek helyett milyen elemet ajánl az ajánlattevő. Az eszközök részletes műszaki tartalmát a közbeszerzési dokumentum Műszaki Leírás része (KD VIII. része) tartalmazza. A megajánlott eszközöknek újaknak kell lenniük, használt eszközök megajánlását az Ajánlatkérő nem fogadja el!
+version https://git-lfs.github.com/spec/v1
+oid sha256:dacadc7abc67fae0da7485c4158bbb496eb719093b632f08e25befb74e51d119
+size 690

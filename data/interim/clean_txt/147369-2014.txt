@@ -1,1 +1,3 @@
-villamos energia vásárlási szerződés
+version https://git-lfs.github.com/spec/v1
+oid sha256:3725aaef71fbff0ebe6e635f89e481a059d70c2d7ba8ca9d207b2f74065619f8
+size 41

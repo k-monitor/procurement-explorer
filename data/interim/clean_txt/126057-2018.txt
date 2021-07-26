@@ -1,2 +1,3 @@
-vállalkozási szerződés keret a fővárosi csatornázási művek zrt. kerepesi út
-szám alatti telephely szennyvízkivételi mű és szennyvízhő hasznosító hőszivattyú gépház üzemeltetés
+version https://git-lfs.github.com/spec/v1
+oid sha256:895375c561ba996853293c538bef55bf8652b7a8e66868d13e26a13c1752a563
+size 200

@@ -1,1 +1,3 @@
-Rendszerszervezői és üzleti elemzői feladatok ellátása
+version https://git-lfs.github.com/spec/v1
+oid sha256:a6e6067f16071b0e8f1b3e92b1a0c5bed4f193bb82936837d07c9efecee76605
+size 60

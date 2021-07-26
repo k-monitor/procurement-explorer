@@ -1,8 +1,3 @@
-szivattyú szállítás
-állami tulajdonú árvízvédelmi konstrukció keop-2
-1.1
-b
-számú
-a víz kártétel elhárítás szolgáló létesítmény fenntartás és az az történő védekezés végrehajtás szolgáló eszköz
-gép és műszer beszerzés
-egyedi adásvételi szerződés keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:80ca224bbfe9adb357d345c97cb52de0289f2da8204f08cbb93516798d21caa4
+size 293

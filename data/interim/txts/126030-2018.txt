@@ -1,1 +1,3 @@
-Vállalkozási szerződés az MTA Székház rekonstrukciójának előkészítéséhez faanyagvédelmi és statikai szakvélemény elkészítésének II. üteme tárgyában.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1eddee06e2ff4f1a938c873ebf37287de539ad639e2486ab53df26b921410fd9
+size 172

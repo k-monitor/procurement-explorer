@@ -1,1 +1,3 @@
-Határozott idejű 1 éves szállítási szerződés keretei között élelmezési alapanyagok és élelmiszerek szállítása.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7296c04cd87a417e70fbaf0f76be15eb903cb012f51018e84f782584e80360fd
+size 127

@@ -1,1 +1,3 @@
-vállalkozási szerződés élőhely-kezelési és fenntartási feladat ellátás
+version https://git-lfs.github.com/spec/v1
+oid sha256:856e9442ce0fc170e3f099775c0f2c54855492629ce03ec9c81799a7886df04f
+size 81

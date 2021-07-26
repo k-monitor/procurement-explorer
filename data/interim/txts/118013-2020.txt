@@ -1,1 +1,3 @@
-Az ajánlatkérő tulajdonában álló és alkalmazott SC-201 AH és SC-203 AH típusú TSCD (gyártó: Terumo BCT, Inc., 10811 West Collins Avenue, Lakewood, Colorado, 80215 USA) csőszakaszokat sterilen egyesítő készülékekkel kompatibilis vágópengék beszerzése
+version https://git-lfs.github.com/spec/v1
+oid sha256:1ab25bcc34e0cd825d28d7b9e1d56b003dd56bfa8b935bdaf0a3f0fb55b4408d
+size 271

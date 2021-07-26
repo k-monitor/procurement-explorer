@@ -1,1 +1,3 @@
-Legalább 22 db, a Dokumentációban meghatározott módon felszerelt összkerék meghajtású mentőorvosi gépkocsi (MOK) beszerzése – a dokumentációban meghatározott felszereléssel, eszközökkel – tárgyú adásvételi szerződés az Országos Mentőszolgálat részére TIOP-2.2.1-11/1-2012-0001 azonosító számú projekt keretén belül.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f9d693b758628eeb852bb0066ab53fb1d79da4ea0337e9073560458306217aaa
+size 354

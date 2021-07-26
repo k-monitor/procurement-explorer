@@ -1,8 +1,3 @@
-általános felhasználású
-1. rész
-és közvilágítási célú
-2. rész
-villamos energia értékesítés a 2018.01.01
-cet
-2019.12.31
-cet közötti időszak teljes ellátás alapú villamos energia kereskedelmi szerződés keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:d32ac5ab4e7f52ff13d06ae447e127022693202db9cbb292f579ac8904bc123f
+size 231

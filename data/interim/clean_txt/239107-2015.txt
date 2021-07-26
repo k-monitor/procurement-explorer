@@ -1,3 +1,3 @@
-ingó adásvételi szerződés alap a tiop-3
-1-2013-0001 projekt bútor beszerzés
-szállítás és összeszerelés
+version https://git-lfs.github.com/spec/v1
+oid sha256:8ff66b01ad72e982ed7fc4573577b7d0252b84d1b5013efb1489da50c03c73a0
+size 115

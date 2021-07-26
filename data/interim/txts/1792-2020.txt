@@ -1,1 +1,3 @@
-„Toxikológiai Szakértői Intézetben található Shimadzu gyártmányú analitikai készülékek (kromatográfok) és a hozzájuk kapcsolódó nitrogén-generátorok karbantartási és verifikálási feladatainak ellátása” (1. rész) „Toxikológiai Szakértői Intézetben található Shimadzu gyártmányú analitikai készülékek (kromatográfok) és a hozzájuk kapcsolódó nitrogén-generátorok javítási feladatainak ellátása” (2. rész)
+version https://git-lfs.github.com/spec/v1
+oid sha256:9153587ca848fdf5200fe35385693785cdb7ca019575a6bea86d872dd78c8f0c
+size 460

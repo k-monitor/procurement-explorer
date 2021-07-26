@@ -1,1 +1,3 @@
-Szerződés meghatározása: Tervezési szerződés. Tárgya: „A piliscsabai Iosephinum a „Makovecz Imre Bástyája” nagyprojekten belül, az OSZK Archivális Raktárépületének teljes körű tervezése, valamint a kapcsolódó infrastruktúra (külső közmű, út, karsztkút, tűzivízhálózat, tározók, optikai VAN-hálózat, felszíni vízelvezetés) teljes körű tervezői feladatainak ellátása tervezési szerződés keretében”.
+version https://git-lfs.github.com/spec/v1
+oid sha256:721c2b180b4e01df021f44482fef919e710d4ddd5fb7e5472a243c4987e102c6
+size 452

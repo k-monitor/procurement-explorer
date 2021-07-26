@@ -1,3 +1,3 @@
-kombinált célgép beszerzés
-1. rész kombinált célgép beszerzés
-2. rész ügyeleti kombinált célgép beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:a6151adaf88cd07b17c2425dde10e4495076385442c1621bad0b317d582c72df
+size 120

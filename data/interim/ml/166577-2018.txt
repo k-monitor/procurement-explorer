@@ -1,7 +1,3 @@
-1	1	NUM	Case=Nom|NumType=Card|Number=Sing	
-db	db	NOUN	Case=Nom|Number=Sing	
-alsó-középkategóriás	alsó-középkategóriás	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-függőleges	függőleges	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-hátfalú	hátfalú	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-személygépjármű	személygépjármű	NOUN	Case=Nom|Number=Sing	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:4ea01f521ad82b50b79a564c8653f117a55a6a9d7ec0ab22093b81fe39e7014a
+size 353

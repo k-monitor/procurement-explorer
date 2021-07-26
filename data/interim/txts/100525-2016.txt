@@ -1,1 +1,3 @@
-Adásvételi szerződés 21 darab személygépjármű beszerzésére.
+version https://git-lfs.github.com/spec/v1
+oid sha256:04305cc43d40f035b440fb8f65fa1c1104e9d2cc853f58543f05f78dc6838349
+size 69

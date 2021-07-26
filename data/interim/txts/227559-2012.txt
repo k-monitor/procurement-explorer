@@ -1,1 +1,3 @@
-Vállalkozási szerződés - az MTVA televíziós műsoraihoz és image hirdetéseihez kapcsolódó, valamint egyéb közérdekű tájékoztatás céljából történő médiavásárlás és szponzorált, tájékoztató jellegű hirdetések megjelentetése az ajánlattételi dokumentációban meghatározottak szerint.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e58de0e99ba6c94e001b1ade598db21bd8da6511b1008bae06f2e0f599f37f0e
+size 319

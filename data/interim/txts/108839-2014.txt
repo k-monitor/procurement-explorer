@@ -1,1 +1,3 @@
-Adásvételi szerződés Biochar gép beszerzésére.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b9a748e45b04e41e318b1d51f18d1e6e6f434151b7839303bfa46d03f899e59b
+size 53

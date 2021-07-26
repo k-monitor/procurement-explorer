@@ -1,9 +1,3 @@
-fiber lézervágó gép
-db
-tandem élhajlító gép min. 2x320 tonna
-2x3000 mm
-db
-élhajlító gép mi tonna
-mm
-mobil élhajlító robot
-db
+version https://git-lfs.github.com/spec/v1
+oid sha256:af8b86e9faf20a0357c23c377390451f3204583c4f1942b2324fa8bc3dd226aa
+size 139

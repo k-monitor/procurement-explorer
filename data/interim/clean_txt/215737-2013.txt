@@ -1,1 +1,3 @@
-háztartás-vegyipari és kiegészítő termék beszerzés keretjellegű letéti raktárszerződés keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:d38699864d2ae5e4c823e8e4207564a892542cd86042acb32fbd8390a29c8aae
+size 105

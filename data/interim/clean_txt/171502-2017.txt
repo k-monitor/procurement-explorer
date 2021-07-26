@@ -1,2 +1,3 @@
-adás-vételi szerződés keret ajánlatkérő az intézmény részére hónap szükséges hemodinamikai anyag
-konszignációs raktár biztosítás kíván megvásárol
+version https://git-lfs.github.com/spec/v1
+oid sha256:633804e88752ec1c692a261dc37f337ef148f720f69698539c7c93f2e1d8bb43
+size 168

@@ -1,1 +1,3 @@
-1. rész: Adásvételi keretszerződés „Szivárgási-érték mérőműszer túlnyomásos éréstermék-elvezetőkhöz” tárgyban. 2. rész: Adásvételi keretszerződés „Szivárgási-érték mérőműszer valamennyi nyomás osztályú égéstermék-elvezetőhöz” tárgyban. 3. rész: Adásvételi keretszerződés „Tüzeléstechnikai mérőműszer” tárgyban.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a11003918cde056b9bfba1b3d61da5c2443d9715bb5bd247c0a09de08e84450e
+size 374

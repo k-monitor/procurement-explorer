@@ -1,1 +1,3 @@
-Eszközbeszerzés a Pécsi Tudományegyetem GINOP-2.3.2-15-2016-00021 jelű, „Chip-technológia alkalmazása a humán in vitro fertilizáció eredményességének javításában” pályázata keretein belül adásvételi szerződés alapján a közbeszerzési dokumentációban meghatározott paraméterekkel, az alábbiak szerint: 1. ajánlati rész: Meddőségi kutatásokhoz kapcsolódó eszközök; 2. ajánlati rész: Minta előkészítés és tárolás tevékenységekhez szükséges eszközök; 3. ajánlati rész: Nagynyomású folyadékkromatográfiás-tömegspektrometriás rendszer; 4. ajánlati rész: Digitális PCR rendszer.
+version https://git-lfs.github.com/spec/v1
+oid sha256:56d3f245af1df2ed03ee3bc9c47e59bfc8d671ca680d3aaa0d93ed8f4b9ab0cc
+size 641

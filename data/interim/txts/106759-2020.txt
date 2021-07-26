@@ -1,1 +1,3 @@
-Takarítási szolgáltatások beszerzése az ÉDV Zrt. részére, 36 hónapra. A víziközmű társaság elhelyezésére szolgáló épületek takarítása 9 részben (Az ÉDV Zrt. működési területén - Komárom-Esztergom megye, Fejér megye, Pest megye - összesen 26 telephely / összesen 9537 m2 takarítandó alapterület tekintetében) az ajánlatkérési dokumentáció részét képező Műszaki leírásban foglaltaknak megfelelően. A takarítási feladatokat munkaidőn kívül kell végezni 15:30 és 6:00 óra közötti időszakban. Karakterkorlátozás miatt folytatás a VI.4.3) Jogorvoslati kérelmek benyújtása pontban.
+version https://git-lfs.github.com/spec/v1
+oid sha256:45fb66a72b4ca304fe421d27621cd998ed9b737629ca05fdc0483239c4964027
+size 641

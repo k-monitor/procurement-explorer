@@ -1,11 +1,3 @@
-vállalkozási szerződés
-k008
-16. sz. főút várpalota
-veszprém között 1. szakasz 33+100
-39+600 km sz.
-pétfürdő
-hajmáskér
-kn burkolat-megerősítési
-útkorszerűsítési
-valamint a kapcsolódó létesítmény kivitelezési feladat elvégzés
-tárgy
+version https://git-lfs.github.com/spec/v1
+oid sha256:2663e984d70e64f2e05059a8e6c1999ea1031a63e2db1d2540bdce070d45daf6
+size 260

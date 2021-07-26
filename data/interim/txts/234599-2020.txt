@@ -1,1 +1,3 @@
-Takarítási feladatok ellátása 5 részben az alábbiak szerint: 1. rész: Az Újpesti Szakorvosi Rendelőintézet takarítási feladatainak ellátása 2. rész: Újpesti egészségügyi intézmények (védőnői szolgálati helyiség, fogászati rendelők és mentálhigiéniás gondozói helyiség) takarítási feladatainak ellátása 3. rész: Újpesti önkormányzati intézmények (Régi és új Városháza) takarítási feladatainak ellátása 4. rész: Újpesti önkormányzati intézmények (IV. Kerületi Hivatal Gyámügyi és Igazságügyi Osztály; Újpesti Közterület-felügyelet; Közrendvédelmi Szálló; Káposztásmegyeri ügyfélszolgálat) takarítási feladatainak ellátása 5. rész: Az Újpesti Vásárcsarnok, Virágcsarnok és kapcsolódó helyszínek takarítási feladatainak ellátása
+version https://git-lfs.github.com/spec/v1
+oid sha256:0b2f3975e1b8b2555493bc1c8be5a36bba9d8532004ff457acefc2cf1519ffad
+size 820

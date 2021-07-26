@@ -1,2 +1,3 @@
-adás-vételi szerződés keret ajánlatkérő az intézmény részére tej-tejtermék hónap kecskemét
-kiskunfélegyháza és kalocsa telephely kíván megvásárol
+version https://git-lfs.github.com/spec/v1
+oid sha256:19e51d7652cb37175ed6f8dbfb0b1cbd0908ce4735f8a7256776f59b78c1cd49
+size 166

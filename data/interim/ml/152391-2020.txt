@@ -1,10 +1,3 @@
-Licenszkövetési	Licenszkövetési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-megállapodás	megállapodás	NOUN	Case=Nom|Number=Sing	
-ESB	ESB	PROPN	Case=Nom|Number=Sing	
-licenszek	licenszek	NOUN	Case=Nom|Number=Sing	
-beszerzésére	beszerzés	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-az	az	DET	Definite=Def|PronType=Art	
-MVMI	MVMI	PROPN	Case=Nom|Number=Sing	
-Zrt.	Zrt.	PROPN	Case=Nom|Number=Sing	
-részére	részére	ADP	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:8f70bef2f0f6c708902b3dbdf75d7be08a068465c40febf8284db04fb8ef20cd
+size 440

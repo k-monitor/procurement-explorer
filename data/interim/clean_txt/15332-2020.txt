@@ -1,30 +1,3 @@
-az építtető a segesd
-széchenyi i. u.
-hrsz.
-243.
-és a segesd
-arany j. u.
-hrsz.
-997.
-alatt lévő telek kíván fő elhelyezés szolgáló lakásotthon funkcionáló lakás épít
-243. hrsz. beépítési adat
-övezeti besorolás
-lf beépítési mód
-oldalhatáros telekméret
-beépített bruttó alapterület
-tervez épület beépítettség
-burkolt terület
-zöldfelület
-zöldterület arány
-építménymagasság
-m 997. hrsz.
-beépítési adat övezeti besorolás
-lf beépítési mód
-oldalhatáros telekméret
-beépített bruttó alapterület
-tervez épület
-beépítettség
-burkolt terület
-zöldfelület
-zöldterület arány
-építménymagasság
+version https://git-lfs.github.com/spec/v1
+oid sha256:75433d97907a50a42a79d197cea38e1ab519ae4570555692f22b13a19179d481
+size 652

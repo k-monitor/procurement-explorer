@@ -1,2 +1,3 @@
-határozott időtartam szóló vállalkozási keretszerződés keret a 2013-as felsőoktatási felvételi eljárás hivatalos és tájékoztató kiadvány
-valamint jelentkezési lap nyomdai kivitelezés
+version https://git-lfs.github.com/spec/v1
+oid sha256:39e3c75e3fbffcab0dc3bce37a3c2c2b0d319dcee2a8d1284b758015b0069a81
+size 202

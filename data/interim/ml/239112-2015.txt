@@ -1,29 +1,3 @@
-Képalkotó	képalkotó	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-berendezések	berendezés	NOUN	Case=Nom|Number=Plur	
-adásvétele	adásvétel	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-és	és	CONJ	_	
-a	a	DET	Definite=Def|PronType=Art	
-meglévő	meglévő	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-elavult	elavult	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-berendezések	berendezés	NOUN	Case=Nom|Number=Plur	
-cseréje	csere	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-a	a	DET	Definite=Def|PronType=Art	
-Szent	Szent	PROPN	Case=Nom|Number=Sing	
-Rókus	rókus	NOUN	Case=Nom|Number=Sing	
-Kórház	Kórház	PROPN	Case=Nom|Number=Sing	
-részére	részére	ADP	_	
-a	a	DET	Definite=Def|PronType=Art	
-KEOP-5	KEOP-5	PROPN	Case=Nom|Number=Sing	
-.	.	PUNCT	_	
-
-6.0	6.0	PROPN	Case=Nom|Number=Sing	
-/	/	PUNCT	_	
-E	e	PRON	Case=Nom|Number=Sing|Person=3|PronType=Dem	
-/	/	PUNCT	_	
-15	15	NUM	Case=Nom|NumType=Card|Number=Sing	
-számú	számú	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-pályázati	pályázati	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-konstrukció	konstrukció	NOUN	Case=Nom|Number=Sing	
-keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:cc52e49e0e3020021c100c625d924d169f1275c73922d5cfc53673c76e4f4442
+size 1204

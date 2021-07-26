@@ -1,1 +1,3 @@
-Szállítási szerződés édesipari gépek beszerzése tárgyában.
+version https://git-lfs.github.com/spec/v1
+oid sha256:df7fcafb9ded5c3376fd5256481cae1053d7e08fa3da4b351db34cdaa816904a
+size 68

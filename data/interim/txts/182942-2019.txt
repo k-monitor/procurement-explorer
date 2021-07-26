@@ -1,1 +1,3 @@
-Adásvételi szerződés szemészeti műlencse szállítására konszignációs raktár rendszerén keresztül 1. rész Hidrofil akrilát alapanyagú egytestű aszférikus mikroincíziós hátsócsarnoki műlencse (1200 db/24 hónap) 2. rész: Hidrofob akrilát aszférikus, aberráció mentes összehajtható lencsék előre töltött injektorban (400 db/24 hónap) 3. rész: Hidrofil akrilát alapanyagú aszférikus négy lábú egytestű lencse (200 db/24 hónap) 4. rész: Hidrofób akrilát alapanyagú egytestű glistening-free hátcsócsarnoki műlencse (100 db/24 hónap) 5. rész: Hidrofób akrilát alapanyagú egytestű glistening-free tórikus hátcsócsarnoki műlencse (100 db/24 hónap) 6. rész: Háromtestű hajlékony hidrofób akril alapanyagú műlencse PMMA haptikával, speciális, káprázást csökkentő él kiképzéssel (40 db/24 hónap) Mindösszesen 1-6. részre: 2040 db. szemlencse
+version https://git-lfs.github.com/spec/v1
+oid sha256:72109ac3346e060b4760966def083758c3ee56d934e9af8600c7094b547d6745
+size 913

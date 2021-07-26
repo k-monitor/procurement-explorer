@@ -1,1 +1,3 @@
-adásvételi szerződés alap különféle élelmiszer alapanyag beszerzés részajánlattételi kör
+version https://git-lfs.github.com/spec/v1
+oid sha256:715ca6f326d97adaec9c0c687e2b520a91a792de7ee574226781e32d7475353c
+size 101

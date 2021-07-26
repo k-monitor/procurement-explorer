@@ -1,1 +1,3 @@
-a tócóvölgy gazdaságélénkítő környezeti megújítás
+version https://git-lfs.github.com/spec/v1
+oid sha256:ab9dd3f228e24372988834c57a960414b6b110671d44fbd4612e5e83fe072651
+size 61

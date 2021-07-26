@@ -1,1 +1,3 @@
-«Villamos energia beszerzés a Belváros-Lipótváros Budapest Főváros V. kerületi Önkormányzat részére 2019–2020.»
+version https://git-lfs.github.com/spec/v1
+oid sha256:f1e17a651ff2835f19951ca5444bf6c0f67643eeb1a975b25ff496122ee44a70
+size 126

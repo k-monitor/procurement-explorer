@@ -1,1 +1,3 @@
-ajánlatkérő jelen közbeszerzési eljárás keret kíván megrendel a műszaki leírás részletezett alap győr városrész fűnyírási feladat ellátás
+version https://git-lfs.github.com/spec/v1
+oid sha256:b1afb8526890a7e95df93f20d7ece02cd9781213e6f9aa2f761f1def1823ac24
+size 158

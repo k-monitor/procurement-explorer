@@ -1,5 +1,3 @@
-vállalkozási keretszerződés keret a gyöngyösoroszi bányavíz-kezelő üzem 1. számú
-m3 kapacitású puffertározó lévő híg iszap kitermelés
-részleges víztelenítés és a megrendelő által biztosított konténer történő rakodás
-mintegy
-tonna
+version https://git-lfs.github.com/spec/v1
+oid sha256:1e863e1ac460364f952c9cb42c146ef673dc7cad96a2f33775377db00a6ec048
+size 262

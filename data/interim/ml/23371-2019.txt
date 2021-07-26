@@ -1,5 +1,3 @@
-Gépek	gép	NOUN	Case=Nom|Number=Plur	
-beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-mezőgazdasági	mezőgazdasági	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-célból	cél	NOUN	Case=Ela|Number=Sing	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:0f35609fda8ee70881030428381d1ba28883be01983c198bfa69c711833f5ad3
+size 233

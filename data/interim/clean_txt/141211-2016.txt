@@ -1,5 +1,3 @@
-a projekt megvalósítás sor az mfb zrt. és tagvállalat vonatkozás kb. foglalkoztatott tekintet kerül sor szakterület eset szolgáltatási szerződés
-sla
-alap működő szolgáltató központ és kompetencia központ implementáció tervezés
-szakterület eset az ajánlatkérő által önálló megvalósítás kerülő implementáció előkészítés támogatás
-az ajánlattevő feladat közé tartozik továbbá a jelen kiírás terjedelem tartozó projekt tekintet a projektmenedzsment feladat ellátás
+version https://git-lfs.github.com/spec/v1
+oid sha256:040e0c7f9c5c1f8618947a71f998223154b0cf145556665debcbe3cfb4e9052c
+size 515

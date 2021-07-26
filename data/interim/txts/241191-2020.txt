@@ -1,1 +1,3 @@
-Biztosítási keretszerződés a Budapesti Corvinus Egyetemmel hallgatói jogviszonyban álló külföldi hallgatók, mint biztosítottak részére csoportos szolgáltatásfinanszírozó egészségbiztosítás nyújtására
+version https://git-lfs.github.com/spec/v1
+oid sha256:aa14ebb43e96c5cdcb06071c036a9777997e95001b799e995e96942fc5abec03
+size 223

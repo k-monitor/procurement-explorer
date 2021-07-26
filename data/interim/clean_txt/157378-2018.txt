@@ -1,2 +1,3 @@
-rendezvényszervezési szolgáltatás beszerzés a ginop-1
-3-16-2017-00001 sz. projekt keret ii
+version https://git-lfs.github.com/spec/v1
+oid sha256:75f98bd3d0723cdd02867a4ec99adea3e6590c82f3cd992b48bb704675cdbf89
+size 95

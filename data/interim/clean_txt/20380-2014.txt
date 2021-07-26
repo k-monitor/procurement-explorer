@@ -1,5 +1,3 @@
-általános felhasználású villamos energia szállítás a 1.4.2014.,
-cet
-31.12.2014.,
-cet közötti időszak teljes ellátás alapú
-menetrend adási kötelezettség nélküli villamos energia kereskedelmi szerződés keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:72ad1d0b6ff90e46ad30b81922f1306221739d764df1dc2dda4fb57988cda545
+size 226

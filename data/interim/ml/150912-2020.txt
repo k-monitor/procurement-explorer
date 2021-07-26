@@ -1,6 +1,3 @@
-Rendszertámogatásra	rendszertámogatás	NOUN	Case=Sub|Number=Sing	
-irányuló	irányuló	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-szoftver	szoftver	NOUN	Case=Nom|Number=Sing	
-szolgáltatás	szolgáltatás	NOUN	Case=Nom|Number=Sing	
-2020	2020	NUM	Case=Nom|NumType=Card|Number=Sing	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:9b8cd70ae8426f6590431f761173fe6d2215071e9de18033e64ea8c76abf0dc5
+size 298

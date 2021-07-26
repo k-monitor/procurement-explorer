@@ -1,1 +1,3 @@
-A NAV vagyonkezelésében lévő 3,5 tonna össztömeget meg nem haladó Suzuki gyártmányú gépjárművek kisjavítása, karbantartása és műszaki vizsgáztatása 36 hónap időtartamra vagy a szerződéses keretösszeg kimerüléséig.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bec45c99a4ce0d560ed1eb3ab8083c2dd4c31ed76cbd145a304e3c88fbfc9f3a
+size 241

@@ -1,1 +1,3 @@
-„Karbantartási szerződés Cyclotron berendezés teljeskörű karbantartására, folyamatos üzemképességének biztosítására vonatkozóan.”
+version https://git-lfs.github.com/spec/v1
+oid sha256:3f0661f91dd81032ea4d22ceee874627fb92c15bdbe354211ff500793b63808f
+size 149

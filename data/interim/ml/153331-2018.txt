@@ -1,18 +1,3 @@
-A	a	DET	Definite=Def|PronType=Art	
-Pázmány	Pázmány	PROPN	Case=Nom|Number=Sing	
-Péter	Péter	PROPN	Case=Nom|Number=Sing	
-Katolikus	Katolikus	PROPN	Case=Nom|Number=Sing	
-Egyetem	Egyetem	PROPN	Case=Nom|Number=Sing	
-„	„	PUNCT	_	
-Bródy	bródy	NOUN	Case=Nom|Number=Sing	
-projekt	projekt	NOUN	Case=Nom|Number=Sing	
-"	"	PUNCT	_	
-megvalósításához	megvalósítás	NOUN	Case=All|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-kapcsolódó	kapcsolódó	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-építési	építési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-beruházás	beruházás	NOUN	Case=Nom|Number=Sing	
-lebonyolítói	lebonyolító	ADJ	Case=Nom|Degree=Pos|Number=Plur|Number[psor]=Sing|Person[psor]=3|VerbForm=PartPres	
-feladatainak	feladat	NOUN	Case=Gen|Number=Plur|Number[psor]=Sing|Person[psor]=3	
-ellátása	ellátás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:4c8fb0320924cb2b8e5131de5efc0f6c3959e02346c9072e9407c056b924c05b
+size 912

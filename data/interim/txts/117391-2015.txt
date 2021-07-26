@@ -1,1 +1,3 @@
-Vállalkozási keretszerződés alapján „A Széchenyi Gyógyfürdő és Uszoda gépészeti korszerűsítése”.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ed173f77964bae53563998453e7c9523d7745f62a61030e79353f65c94e72706
+size 115

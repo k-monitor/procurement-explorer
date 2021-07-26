@@ -1,26 +1,3 @@
-Villamos	Villamos	PROPN	Case=Nom|Number=Sing	
-energia	energia	NOUN	Case=Nom|Number=Sing	
-szállítása	szállítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-a	a	DET	Definite=Def|PronType=Art	
-1.	1.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
-
-1	1	NUM	Case=Nom|NumType=Card|Number=Sing	
-.	.	PUNCT	_	
-2020-31.12.2020	2020-31.12.2020	PROPN	Case=Nom|Number=Sing	
-időszakra	időszak	NOUN	Case=Sub|Number=Sing	
-vonatkozóan	vonatkozó	ADJ	Case=Ess|Degree=Pos|Number=Sing|VerbForm=PartPres	
-,	,	PUNCT	_	
-teljes	teljes	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-ellátás	ellátás	NOUN	Case=Nom|Number=Sing	
-alapú	alapú	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-,	,	PUNCT	_	
-fogyasztói	fogyasztói	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-menetrend	menetrend	NOUN	Case=Nom|Number=Sing	
-adás	adás	NOUN	Case=Nom|Number=Sing	
-nélküli	nélküli	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-villamos	villamos	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-energia	energia	NOUN	Case=Nom|Number=Sing	
-adásvételi	adásvételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:1c24a385c284de8361dbf6a5c4dc176b0bfa9ff72c1696c7aec5d191a4629133
+size 1167

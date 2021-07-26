@@ -1,2 +1,3 @@
-a keretmegállapodás teljes időtartam vonatkozó maximum reakció afrikai sertéspestis vírus kimutatás szolgáló real-time pcr készlet hívható le
-a közbeszerzési dokumentumok rész képező műszaki leírás részletezett szerint
+version https://git-lfs.github.com/spec/v1
+oid sha256:12e69a34fb4cea13ed0cde8bee8e352f5e1860a5831e5a317c540c36d4280203
+size 240

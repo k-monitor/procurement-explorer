@@ -1,1 +1,3 @@
-Megbízási szerződés a „Dunavarsány szennyvíztisztító telep technológiájának korszerűsítése (ÉMO4)” elnevezésű, KEHOP-2.2.2-15-2015-00039 projekt keretében műszaki ellenőri tevékenység ellátására.
+version https://git-lfs.github.com/spec/v1
+oid sha256:df786395010dc0dd0220c634327eeb67ce5d1dd89e06122a3e0aba10c98602a7
+size 224

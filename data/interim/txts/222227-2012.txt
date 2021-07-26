@@ -1,1 +1,3 @@
-Települési szilárd, szelektíven gyűjtött, zöldhulladék, veszélyes hulladék begyűjtése, elszállítása, ártalmatlanítása, illetve lomtalanítás Leányfalu, Visegrád, Dunabogdány, Kisoroszi és Tahitótfalu településeken. Ügyfélszolgálat létrehozása és ügyeleti rendszer működtetése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4119ffa8f205e53938b65a0319e420c100c07e462b0376aadbf92a7c1c88d5a0
+size 312

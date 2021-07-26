@@ -1,1 +1,3 @@
-Erdőművelési munkák elvégzése keretszerződések keretében, 7 részben Feladatok: Elvégzendő erdőművelési kézi munkálatok: ültetések (ékásós, gödörfúrós), ápolások (sorkapálás, sorok sarlózása, sorok gyomlálása, sorközkaszálás (kézi v. motoros), egyszálazás, sarjleverés. Elegyarányszabályzó munkák: befejezett ápolás, tisztítás. Elvégzendő erdőművelési gépi munkáltok: tuskóeltávolítás, barázdás ültetés mélyszántással egybekötve (szántás, ültetőgépes ültetés), pásztás talajelőkészítés, gépi sorközápolás (tárcsázás, zúzás)
+version https://git-lfs.github.com/spec/v1
+oid sha256:9d3d8c0acdfad45044f4dd14584407f54f3962c380ebe8bef4a4402d0c066575
+size 612

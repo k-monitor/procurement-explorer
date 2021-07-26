@@ -1,8 +1,3 @@
-dek-467
-2017.
-adásvételi keretszerződés a debreceni egyetem klinikai központ kardiológiai és szívsebészeti klinika részére gyógyszerkibocsátó stent beszerzés konszignációs raktár üzemeltetés
-beszerzés tárgy
-1. típusú gyógyszerkibocsátó sten
-mennyiség
-db
-év
+version https://git-lfs.github.com/spec/v1
+oid sha256:e49b763674b2b348e0bca4b409176ec8281a54c142b4889bbe2aee2ea720f1c3
+size 285

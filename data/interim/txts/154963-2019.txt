@@ -1,1 +1,3 @@
-Győr Nagytérségi Hulladékgazdálkodási Önkormányzati Társulás működési területén hulladékgazdálkodási közszolgáltatás ellátása, valamint a kialakított települési hulladék-gazdálkodási rendszer eszközeinek, berendezéseinek és létesítményeinek üzemeltetésére irányuló hulladékgazdálkodási közszolgáltatási szerződés
+version https://git-lfs.github.com/spec/v1
+oid sha256:d48c7d34ca1e1a8c1d9a9d790b01094893180aaa5293b44edb6096530c25944c
+size 360

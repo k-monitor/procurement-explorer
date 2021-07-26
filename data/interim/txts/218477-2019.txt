@@ -1,1 +1,3 @@
-UDPR-01/2019.: BGP-15 Speciális vegyület beszerzése humán klinikai vizsgálathoz
+version https://git-lfs.github.com/spec/v1
+oid sha256:4d33e247211606469bc20c232ca7d5f46abeb6486dbef617b756af8329c9f53a
+size 84

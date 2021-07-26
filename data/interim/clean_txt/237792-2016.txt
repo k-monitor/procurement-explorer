@@ -1,9 +1,3 @@
-közétkeztetés biztosítás étel készítés és kiszállítás
-határozott időtartamú szerződés keret
-telephely szállítva
-jelen közbeszerzési eljárás alap kötendő szerződés határozott idő
-a szerződés aláírás nap
-hónap kerül megkötés
-a szerződéskötés követő hónap letelte előtt nap a fél a szerződés további hónapos meghosszabbítás állapodik meg
-amennyiben a szerződés teljesítés megfelel szerződés
-és a vonatkozó jogszabály előírás
+version https://git-lfs.github.com/spec/v1
+oid sha256:9681a3101694f71a52ddcd247abf625fc19730e15f64661d8028bf820d4bd4fa
+size 488

@@ -1,1 +1,3 @@
-Megbízási szerződés a 33. sz. főút Heves és Jász-Nagykun_Szolnok megyei szakasz (0+000 - 37+780 km. sz. között) 11,5 tonnás burkolaterősítés tárgyú kivitelezési munkáihoz kapcsolódó lebonyolító mérnöki és műszaki ellenőri feladatok ellátására A beszerzés projekt és PST kódja: K033.01, K033.02.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fff22a2c3853e274208bc17813c18bc3d7114af4535abafa31b723b73816931e
+size 327

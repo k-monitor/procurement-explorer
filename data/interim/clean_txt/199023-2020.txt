@@ -1,27 +1,3 @@
-1. rész
-folyóirat évfolyam bekötés
-szállítás
-összesen db 2. rész
-kiadvány nyomdai előállítás
-keretösszeg
-ft 3. rész
-ökocimk kapcsolatos termék előállítás
-keretösszeg
-ft 4. rész
-egyéb nyomdai termék előállítás
-keretösszeg
-ft a
-rész eset ajánlatkérő
-os lehívási kötelezettség vállal az
-hogy amennyiben a keretszerződés időbeli hatály alatt a keretszerződés
-át nem hív le ajánlatkérő
-úgy a nyertes ajánlattevő intézett egyoldalú írásbeli nyilatkozat a keretszerződés időbeli hatály hónap meghosszabbodik
-az 1. rész teljesítési határidő
-2020.08.31
-a
-rész teljesítési határidő
-2020.12.31
-amely opcionálisan meghosszabbítható 2021.6.30
-nap
-valamennyi rész eset a szolgáltatás tartalmaz a helyszín szállítás is
-a részletes mennyiségi és műszaki adat a műszaki leírás és az árazatlan költségvetés tartalmaz
+version https://git-lfs.github.com/spec/v1
+oid sha256:b79774207d3bd992bc4c34b738c8572e9b3b30368db5ade45ca595e7241a3dbc
+size 894

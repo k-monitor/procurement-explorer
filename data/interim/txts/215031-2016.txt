@@ -1,1 +1,3 @@
-Meglévő Symantec végpontvédelmi és titkosító licencek érvényességének meghosszabbítása 31.3.2017-ig. 1. rész – Meglévő Symantec végpontvédelmi licencek hosszabbítása. 2. rész – Meglévő Symantec titkosító szoftverlicencek hosszabbítása.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4409cdfc65a6a1a2188cb2c527c6ef149144d21a9791dc64c42b438f0dde2b97
+size 266

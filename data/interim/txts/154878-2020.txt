@@ -1,1 +1,3 @@
-Szolgálati járművek és kiegészítő eszközök beszerzése az alábbiak szerint: 1. rész: Járműfelépítmény (SMM V2 Full Prémium acél felépítmény, vagy azzal egyenértékű, Toyota Hilux 2017-2019 évjáratú gépjárműre) 18 darab + 2 darab opció 2. rész: Halőri robogó (Piaggio Typhoon 50 2t E4 vagy azzal egyenértékű) 39 darab + 4 darab opció 3. rész: Személygépkocsi (Suzuki Vitara 1,4 Boosterjet GL+ 4WD 6MT vagy azzal egyenértékű) 14 darab + 1 darab opció 4. rész: Utánfutó 1. (ALFA 12515MN.75 vagy azzal egyenértékű) 25 darab + 2 darab opció 5. rész: Utánfutó 2. (ALFA 13616MN.75 L vagy azzal egyenértékű) 15 darab + 1 darab opció A további műszaki előírásokat dokumentáció IV. Műszaki leírás fejezete tartalmazza.
+version https://git-lfs.github.com/spec/v1
+oid sha256:963d170c0033ffdd244cee78910e6f71140dff738bc32f9f3f3e0017655877ad
+size 776

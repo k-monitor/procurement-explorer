@@ -1,1 +1,3 @@
-tűzifa beszerzés teljeskörű logisztikai szolgáltatás
+version https://git-lfs.github.com/spec/v1
+oid sha256:15345890cb969454fb3599c4a4a13c43f737204b26d92535d6f66759332a1569
+size 58

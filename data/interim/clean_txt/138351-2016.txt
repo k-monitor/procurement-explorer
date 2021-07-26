@@ -1,16 +1,3 @@
-ajánlatkérő székhely takarítási munka elvégzés a szerződés teljes időtartam alatt
-az alábbi szerint
-1. napi takarítási munka folyamatos végzés
-2. ajánlatkérő eseti megrendelés alap nagytakarítási munka elvégzés
-3. ajánlatkérő eseti megrendelés alap egyéb takarítási munka elvégzés
-a fenti munka elvégzés ajánlattevő folyamatos rendelkezés kell állnia a szerződés időtartam alatt
-a takarítandó terület nagyság
-összesen m²
-a szerződés időtartam alatt a takarítandó felület változik
-csökken vagy növekedik az ajánlatkérő által bérelt terület nagyság változás ok
-mely eset a mennyiség
-és az ellenszolgáltatás automatikus
-arányos módosul új közbeszerzési eljárás lefolytatás nélkül a kbt. 141. §
-bekezdés a
-pont alap
-a nagytakarítás és az eseti takarítás sor takarítandó mennyiség ajánlatkérő az eseti megrendelés ad meg
+version https://git-lfs.github.com/spec/v1
+oid sha256:671a6ea07c24f20995dc597b2347eae6c21fc6538a8aa755fddc46545f48babf
+size 909

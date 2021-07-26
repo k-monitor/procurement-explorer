@@ -1,1 +1,3 @@
-Mezőgazdasági szolgáltatások nyújtása a Kaposvári Egyetem részére.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e52424e68f216d677cfba5a30dc2f215cdbd3cf7c37909f38a44cc4bb07e2184
+size 75

@@ -1,1 +1,3 @@
-Vállalkozási szerződés megkötése „Megvalósíthatósági tanulmány készítése és tervezési feladatok elvégzése” a Honvédelmi Minisztérium Védelemgazdasági Hivatal KEOP 7.9.0/12/A konstrukcióban támogatást nyert 13 pályázat keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1666925ec6a08ce5688271e97f674e032f3575818079e3a8a65281d486d45edc
+size 260

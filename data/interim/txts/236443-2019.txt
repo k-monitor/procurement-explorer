@@ -1,1 +1,3 @@
-Mohács térségi általános iskola bővítése
+version https://git-lfs.github.com/spec/v1
+oid sha256:939e7826b0bac76e6cf3a3d7704329c7ce5c2f0b7115c99127fd87d1ef51ebb8
+size 48

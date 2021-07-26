@@ -1,2 +1,3 @@
-az észak-közép-budai centrum új szent jános kórház és szakrendelő
-rendelőintézet fejlesztés
+version https://git-lfs.github.com/spec/v1
+oid sha256:b8701bc64259f76c760d0bbe14a89f0064e35423d84bfb4b0be9e82be19d116e
+size 103

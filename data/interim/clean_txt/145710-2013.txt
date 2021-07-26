@@ -1,6 +1,3 @@
-vállalkozási szerződés az m86 gyorsforgalmi út szeleste
-csorna szakasz 1. ütem
-szeleste
-hegyfalu szakasz
-84. sz. főúti csomópont
-kivitelezési munka elvégzés tárgy
+version https://git-lfs.github.com/spec/v1
+oid sha256:84573d132607fa187a32b2e9ca3e2ba81824c44634ad3c402a1582b109eef1b5
+size 175

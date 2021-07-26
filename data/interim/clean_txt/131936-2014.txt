@@ -1,6 +1,3 @@
-meghatározás
-vállalkozási szerződés tárgya
-a vígszínház és pesti színház helyiség takarítás és szaniter helyiség feltöltés a megrendelő által biztosítandó higiéniás anyag
-wc-papír
-kéztörlő
-folyékony szappan
+version https://git-lfs.github.com/spec/v1
+oid sha256:1206d031eb2cd9cf6440b671565f7939cd5b80e62d3a85467d20b4e8606e8f75
+size 237

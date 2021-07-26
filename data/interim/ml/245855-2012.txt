@@ -1,30 +1,3 @@
-Szállítási	Szállítási	PROPN	Case=Nom|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-a	a	DET	Definite=Def|PronType=Art	
-CERN@WIGNER	CERN@WIGNER	PROPN	Case=Nom|Number=Sing	
-Adatközpont	adatközpont	NOUN	Case=Nom|Number=Sing	
-és	és	CONJ	_	
-a	a	DET	Definite=Def|PronType=Art	
-GÉANT	GÉANT	PROPN	Case=Nom|Number=Sing	
-európai	európai	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-kutatói	kutatói	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-gerinchálózat	gerinchálózat	NOUN	Case=Nom|Number=Sing	
-budapesti	budapesti	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-PoP-ja	PoP	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-közötti	közötti	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-hálózati	hálózati	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-összeköttetéshez	összeköttetés	NOUN	Case=All|Number=Sing	
-szükséges	szükséges	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-eszközök	eszköz	NOUN	Case=Nom|Number=Plur	
-beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-,	,	PUNCT	_	
-az	az	DET	Definite=Def|PronType=Art	
-összeköttetés	összeköttetés	NOUN	Case=Nom|Number=Sing	
-kiépítése	kiépítés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-és	és	CONJ	_	
-kapcsolódó	kapcsolódó	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-szolgáltatások	szolgáltatás	NOUN	Case=Nom|Number=Plur	
-nyújtása	nyújtás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:eed06ab1e5c34a8fa36d08a0a91f205bfb470b2d0c5a39a00506a56291bcf03d
+size 1531

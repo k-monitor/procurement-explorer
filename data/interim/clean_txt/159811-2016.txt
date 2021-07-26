@@ -1,1 +1,3 @@
-szállítási keretszerződés keret marrel felépítmény gyári új és gyári felújított alkatrész beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:e93e744da915f3379f454708c6b17e61e1da1d0dc19e11cce9a5a2a7b346824d
+size 115

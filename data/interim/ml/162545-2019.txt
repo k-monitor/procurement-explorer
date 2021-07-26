@@ -1,13 +1,3 @@
-Meglévő	meglévő	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-EJBCA	EJBCA	PROPN	Case=Nom|Number=Sing	
-szoftverekhez	szoftver	NOUN	Case=All|Number=Plur	
-licensz	licensz	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-követés	követés	NOUN	Case=Nom|Number=Sing	
-és	és	CONJ	_	
-támogatási	támogatási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szolgáltatások	szolgáltatás	NOUN	Case=Nom|Number=Plur	
-(	(	PUNCT	_	
-support	support	NOUN	Case=Nom|Number=Sing	
-)	)	PUNCT	_	
-beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:3a43e1f8225a1c9e219d88cca044cc6df9987c73ca0c683aeecb080eb0218cf8
+size 556

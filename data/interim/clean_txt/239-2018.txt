@@ -1,5 +1,3 @@
-borászat termékfejlesztés és erőforrás-hatékonyság támogatás
-című
-vp3-4
-számú pályázat keret borászati állvány
-és tároló eszköz beszerzés a heimann családi birt részére
+version https://git-lfs.github.com/spec/v1
+oid sha256:8a5010490ad5b93a965326b22578611b9011e3637482c4569925baadbcc8cc28
+size 195

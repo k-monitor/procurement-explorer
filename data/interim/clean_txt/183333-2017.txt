@@ -1,3 +1,3 @@
-adásvételi szerződés db egysejt tömeg citométer beszerzés
-beállítás
-beüzemelés és fő kezelőszemélyzet betanítás tárgy
+version https://git-lfs.github.com/spec/v1
+oid sha256:dda29379107d1fdc9b56945be4dba5aa8cf5bf88bd885bdaa178d34d66dbce8e
+size 136

@@ -1,7 +1,3 @@
-budapest főváros
-kerület ferencváros önkormányzata részére hosszú lejáratú
-mindösszesen huf összegű banki hitel biztosítás az önkormányzat közigazgatási terület megvalósuló bérlakás-felújítás finanszírozás cél
-a
-2001.
-1. 31.
-kormányrendelet 22. § által biztosított kamattámogatás szerint
+version https://git-lfs.github.com/spec/v1
+oid sha256:0b3b321c1b3d3bd9c3d85fb4b43e6bee3da3451b4fc4ca7dafc89b68bad93254
+size 324

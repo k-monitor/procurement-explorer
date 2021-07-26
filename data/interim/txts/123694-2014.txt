@@ -1,1 +1,3 @@
-Adásvételi szerződés földgáz beszerzésére kulturális szervezetek részére ez emberi erőforrások minisztere 6/2013. (II. 28.) EMMI utasítása alapján a 1.7.2014., 06:00 óra és a 30.6.2015., 06:00 óra közötti időszakban.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bb07df2186140e8752ca8dabca64a63f954b5622370e893b36aa653215056a49
+size 238

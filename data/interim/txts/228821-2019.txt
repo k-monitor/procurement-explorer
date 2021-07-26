@@ -1,1 +1,3 @@
-Általános felhasználású (1. rész) és közvilágítási célú (2. rész) villamos energia értékesítése a 1.1.2020. 00:00 CET – 31.12.2021. 24:00 CET közötti időszakban teljes ellátás alapú villamos energia kereskedelmi szerződés keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:df59a1c741222a8e9c8c9377183d89af24d3cc87325ff567432074f5700cef9a
+size 261

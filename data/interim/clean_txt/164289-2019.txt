@@ -1,20 +1,3 @@
-a semmelweis egyetem mellkassebészeti klinika részére egy darab in vivo imaging berendezés szállítás
-telepítés
-üzem helyezés és kezelés betanítás
-továbbá hónap keresztül jótállás
-valamint szervizszolgáltatás biztosítás
-a nyertes ajánlattevő feladat lesz
-hogy az áru telepítés
-üzem helyezés
-technikai próbaüzem követő az használat
-az ajánlatkérő által előzetes megjelölt fő
-nap időtartam betanít
-az in vivo imaging berendezés
-azaz a sokfunkciós kisáll képalkotó készülék
-között biolumineszcens
-fluoreszcens
-optikai denzitás alapuló detektálás
-valós 3d tomográfia
-röntgen
-illetve mikro ct alapú anatómiai képalkotás vonatkozó funkció kell rendelkeznie
-további információ a közbeszerzési dokumentáció részletes tartalmaz
+version https://git-lfs.github.com/spec/v1
+oid sha256:7349e4c06181db0f22a906eee1977bc4dd06bfac61f2ed636090d9d5f838d013
+size 795

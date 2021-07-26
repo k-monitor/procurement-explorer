@@ -1,5 +1,3 @@
-dek-347
-2016.
-veszélyes hulladék gyűjtő
-badella
-és tűgyűjtő beszerzés a debreceni egyetem klinikai központ részére
+version https://git-lfs.github.com/spec/v1
+oid sha256:2ab36edfd5c360d81fc3ebff34273f75227852cfc13e5fa514fd99044fd98ac9
+size 126

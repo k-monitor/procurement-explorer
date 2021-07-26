@@ -1,2 +1,3 @@
-monor város önkormányzata részére
-ft összegű hosszú lejáratú működési hitel nyújtás év időtartam
+version https://git-lfs.github.com/spec/v1
+oid sha256:cec2cd3e4edf29b4497f77fbe75b9752b473b78c6b7306683051dea01011b04e
+size 113

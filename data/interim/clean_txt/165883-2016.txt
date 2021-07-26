@@ -1,4 +1,3 @@
-1. rész
-db bútor szállítás különféle ülés és szék kivétel a dokumentáció meghatározott szerint
-2. rész
-db különféle ülés és szék szállítás a dokumentáció meghatározott szerint
+version https://git-lfs.github.com/spec/v1
+oid sha256:39c68e9095d2a7b8330b6d33a70397c393b07d140c2ab3bcb87a896304bc321f
+size 205

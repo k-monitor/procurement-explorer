@@ -1,4 +1,3 @@
-villamos energia szállítás makó a hely központosított beszerzési rendszer hatály alá tartozó intézmény és szervezet részére 2013.9.1
-cet
-2014.8.31
-cet időszak vonatkozó kereskedelmi szerződés keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:8826e2be6fd6eebf7820fdd54bf5b99719cfd91c3ddf49cf3b4759c34fb30a78
+size 216

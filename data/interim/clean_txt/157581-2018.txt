@@ -1,11 +1,3 @@
-ajánlatkérő pénzügyi
-számviteli
-bér és munkaügyi szolgáltatás feladat
-gazdasági esemény könyvelés és mérleg készítés
-pénzügyi
-munkaügyi feladat
-folyamatos ellátás
-határidő történő elvégzés
-a törvényi előírás meg+felelő az ajánlatkérő által kialakított ügy
-és számviteli rend alap
-részletes a specifikáció meghatározott szerint
+version https://git-lfs.github.com/spec/v1
+oid sha256:a449a392c2b4dcd7e97836f44034810d8076b01636ade65368814b9827a9b475
+size 376

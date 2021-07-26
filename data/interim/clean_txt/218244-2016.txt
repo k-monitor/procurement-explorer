@@ -1,1 +1,3 @@
-budapesti rendőr-főkapitányság kezelés lévő szolgálati jármű üzemeltetés szükséges nyári és téli gumiabroncs beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:77fb297180b4a73afade1b46420b92192af2acec88ec376a79eeee9c5a940974
+size 136

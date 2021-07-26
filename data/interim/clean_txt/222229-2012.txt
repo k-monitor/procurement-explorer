@@ -1,3 +1,3 @@
-vállalkozási keretszerződés a közút
-gyorsforgalmi út és vasút fejlesztés kapcsolatos beruházás
-valamint a nif zrt. kommunikációs tevékenység támogató pr és médiavásárlási feladat ellátás
+version https://git-lfs.github.com/spec/v1
+oid sha256:e7a02253c609866a9abcf8b03bc8bbeaa6c0bef79785bfcac5cc141dece52f82
+size 211

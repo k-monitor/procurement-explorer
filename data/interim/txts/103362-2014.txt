@@ -1,1 +1,3 @@
-Kölcsönszerződés beruházási hitel felvételére az MFB Önkormányzati Infrastruktúrafejlesztési Program keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8b4c3642e820fe1e2de18f9902dfdfe2af64b9791a8b6c18eb7f21d9574d86eb
+size 124

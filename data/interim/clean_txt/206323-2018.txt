@@ -1,3 +1,3 @@
-adásvételi szerződés
-adn járőrhajó beszerzés
-tárgy
+version https://git-lfs.github.com/spec/v1
+oid sha256:3c0d91b25d933ca2a75bb30ae104b79f1b4bf1cad5ce2f20e6aab872ebf208f3
+size 59

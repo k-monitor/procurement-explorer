@@ -1,29 +1,3 @@
-Megbízási	megbízási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-a	a	DET	Definite=Def|PronType=Art	
-„	„	PUNCT	_	
-Dunavarsány	dunavarsány	NOUN	Case=Nom|Number=Sing	
-szennyvíztisztító	szennyvíztisztító	NOUN	Case=Nom|Number=Sing	
-telep	telep	NOUN	Case=Nom|Number=Sing	
-technológiájának	technológia	NOUN	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-korszerűsítése	korszerűsítés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-(	(	PUNCT	_	
-ÉMO4	ÉMO4	PROPN	Case=Nom|Number=Sing	
-)	)	PUNCT	_	
-"	"	PUNCT	_	
-elnevezésű	elnevezésű	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-,	,	PUNCT	_	
-KEHOP-2	KEHOP-2	PROPN	Case=Nom|Number=Sing	
-.	.	PUNCT	_	
-
-2	2	NUM	Case=Nom|NumType=Card|Number=Sing	
-.	.	PUNCT	_	
-2-15-2015-00039	2-15-2015-00039	PROPN	Case=Nom|Number=Sing	
-projekt	projekt	NOUN	Case=Nom|Number=Sing	
-keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-műszaki	műszaki	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-ellenőri	ellenőri	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-tevékenység	tevékenység	NOUN	Case=Nom|Number=Sing	
-ellátására	ellátás	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:413d2d6288f8c528c27e41ea7b7580cfd8204132b84473bceae38e4efdb6a8da
+size 1227

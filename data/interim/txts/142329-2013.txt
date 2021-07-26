@@ -1,1 +1,3 @@
-Megbízási szerződés. Tárgya: a „Kisdelta árvízi szükségtározó korszerűsítése, azonosító szám: KEOP-2.1.1/2F/09-11-2011-0004” projekt megvalósításához szükséges mérnöki és műszaki ellenőri tevékenység ellátása FIDIC szerződéses feltételek szerint.
+version https://git-lfs.github.com/spec/v1
+oid sha256:27268c4dee39f4a9db861e5b3a1f0de336407a0f15da8128a9ce1d49acb9833d
+size 285

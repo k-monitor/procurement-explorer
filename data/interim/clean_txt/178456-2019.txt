@@ -1,5 +1,3 @@
-a welcome havária fürdőirányítási rendszer távprogramozás útján történő továbbfejlesztés
-a rendszer üzemelés szükséges hardver eszköz szállítás
-beüzemelés
-a szükséges infrastruktúra kialakítás
-a meglévő eszköz integrálás
+version https://git-lfs.github.com/spec/v1
+oid sha256:71c72e5ff6db3597211bdde9544ea882443f678b4fb4cd2e338adb69e359ab55
+size 255

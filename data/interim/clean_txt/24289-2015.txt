@@ -1,4 +1,3 @@
-kereskedelmi szerződés szabványos minőségű msz en
-és az msz
-2002 szabvány előírás megfelelő villamos energia beszerzés az mtva csatlakozási pont részére
-fogyasztói menetrend-adás nélkül
+version https://git-lfs.github.com/spec/v1
+oid sha256:a5e59388a1c3c11de072d5749869ea8787e7795403d4d73d67eb43950b1e252c
+size 205

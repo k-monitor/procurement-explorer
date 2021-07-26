@@ -1,24 +1,3 @@
-SC-203	SC-203	PROPN	Case=Nom|Number=Sing	
-AH	AH	PROPN	Case=Nom|Number=Sing	
-típusú	típusú	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-TSCD	TSCD	NOUN	Case=Nom|Number=Sing	
-steril	steril	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-csőhegesztő	csőhegesztő	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-berendezések	berendezés	NOUN	Case=Nom|Number=Plur	
-(	(	PUNCT	_	
-gyártó	gyártó	NOUN	Case=Nom|Number=Sing	
-:	:	PUNCT	_	
-TERUMO	TERUMO	PROPN	Case=Nom|Number=Sing	
-BCT	BCT	PROPN	Case=Nom|Number=Sing	
-Europe	Europe	PROPN	Case=Nom|Number=Sing	
-N.V.	N.V.	PROPN	Case=Nom|Number=Sing	
-)	)	PUNCT	_	
-jótállási	jótállási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-időn	idő	NOUN	Case=Sup|Number=Sing	
-túli	túli	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-karbantartása	karbantartás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-és	és	CONJ	_	
-eseti	eseti	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-javítása	javítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:7a8cacb5cead71bc0b60e10ee1c29b67fe7263a7d1a24f0fe00102b007bba096
+size 978

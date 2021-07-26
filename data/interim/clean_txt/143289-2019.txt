@@ -1,34 +1,3 @@
-a veleszületett vérzékenység kezelés szolgáló fejlett rekombináns készítmény 2019. évi beszerzés
-keretmegállapodás megkötés irányuló gyorsított tárgyalásos eljárás rész
-rész
-rekombináns technológia előállított iii
-generációs teljes molekulaméretű faktor koncentrátum pk dozírozás segítő orvostechnikai eszköz biztosítás
-atc
-b02bd02
-rész
-recombináns technológia előállított 3. generációs b-domain rövidített
-teljes tirozin-szulfatált
-faktor koncentrátum
-korán már kezelt
-ún. ptp beteg részére
-atc
-b02bd02
-3
-rész
-recombináns technológia humán sejtvonal előállított 3. generációs b-domain-rövidített
-faktor koncentrátum
-atc
-b02bd02
-rész
-recombináns technológia előállított 3. generációs teljes molekulaméretű
-faktor koncentrátum
-atc
-b02bd02
-rész
-rekombináns technológia
-humán sejtvonal előállított
-4. generációs
-elnyújtott felezési idejű
-faktor koncentrátum
-fc fúziós fehér
-atc:b02bd02
+version https://git-lfs.github.com/spec/v1
+oid sha256:f9cbc8bc05c0ecaaf91d96de7e3f89942465a747ab3f6685d09997b73e4fa3ba
+size 981

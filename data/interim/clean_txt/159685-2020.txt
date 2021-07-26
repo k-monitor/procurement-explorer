@@ -1,5 +1,3 @@
-a püspökszilágyi radioaktív hulladék feldolgozó és tároló
-rhft
-takarítás
-hó
-és síkosságmentesítés
+version https://git-lfs.github.com/spec/v1
+oid sha256:1ec33eb65698cf4f943ed698d57eb22a3f72d22df8aadc29bdfb473ad0b8e0e4
+size 114

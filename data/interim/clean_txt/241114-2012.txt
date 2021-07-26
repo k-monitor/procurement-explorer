@@ -1,15 +1,3 @@
-1. rész
-megvalósíthatósági tanulmány készítés ajánlatkérő üzemeltetés lévő gyorsforgalmi úthálózat
-a közop-1
-5-0-09-11-2011-0010 számú támogatási szerződés keret
-megvalósítandó
-építési engedélyezési eljárás nélküli
-közlekedésbiztonsági beruházás
-ii
-rész
-megvalósíthatósági tanulmány készítés ajánlatkérő üzemeltetés lévő gyorsforgalmi úthálózat
-a közop-1
-5-0-09-11-2011-0011 számú támogatási szerződés keret
-megvalósítandó
-építési engedélyköteles
-közlekedésbiztonsági beruházás
+version https://git-lfs.github.com/spec/v1
+oid sha256:02053edbaf9bb5cd76510c6a7ba1bb78fb2074f268b06ad3048ab8c10f4b198e
+size 559

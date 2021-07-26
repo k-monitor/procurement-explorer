@@ -1,5 +1,3 @@
-vállalkozási szerződés a
-központi technológiai tömb és integrált aktív ellátás fejlesztés a tatabányai szent borbála kórház
-című
-tiop-2
-1-2010-0009 azonosítószámú projekt kivitelezési munkálat elvégzés ii
+version https://git-lfs.github.com/spec/v1
+oid sha256:b8c4db59992fc8ca360f91b8e3dbb501fff179a39fd6ca10b72c8164f9331b85
+size 231

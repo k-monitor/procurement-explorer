@@ -1,29 +1,3 @@
-Adásvételi	adásvételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-1	1	NUM	Case=Nom|NumType=Card|Number=Sing	
-db	db	NOUN	Case=Nom|Number=Sing	
-FFS	FFS	PROPN	Case=Nom|Number=Sing	
--	-	PUNCT	_	
-mozgató	mozgató	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-mechanizmussal	mechanizmus	NOUN	Case=Ins|Number=Sing	
-ellátott	ellátott	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPast	
-szimulátor	szimulátor	NOUN	Case=Nom|Number=Sing	
-és	és	CONJ	_	
-1	1	NUM	Case=Nom|NumType=Card|Number=Sing	
-db	db	NOUN	Case=Nom|Number=Sing	
-FTD	FTD	PROPN	Case=Nom|Number=Sing	
--	-	PUNCT	_	
-mozgató	mozgató	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-mechanizmussal	mechanizmus	NOUN	Case=Ins|Number=Sing	
-még	még	ADV	_	
-nem	nem	ADV	PronType=Neg	
-ellátott	ellátott	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPast	
-,	,	PUNCT	_	
-de	de	CONJ	_	
-FFS	FFS	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szintre	szint	NOUN	Case=Sub|Number=Sing	
-fejleszthető	fejleszthető	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-szimulátor	szimulátor	NOUN	Case=Nom|Number=Sing	
-beszerzésére	beszerzés	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:1a7c10ba1e83da35d4f496b5be19cee21ef0f5ea413004e741dfaaa25dec1463
+size 1225

@@ -1,4 +1,3 @@
-1. rész
-android mobiltelefon beszerzés
-2. rész
-ios mobiltelefon beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:1e45378b5fbab887108ee5a158fa64effa101ac783d01fb39966e0ae9e408c61
+size 77

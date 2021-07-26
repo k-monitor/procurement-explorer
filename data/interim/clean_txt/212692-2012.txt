@@ -1,22 +1,3 @@
-megbízási keretszerződés az ajánlatkérő által kezelt európai uniós támogatási konstrukció keret beérkezett pályázat szakmai és pénzügyi értékelési feladat ellátás rész
-az alábbi szerint
-1. részajánlat
-a társadalmi megújulás operatív program
-támop
-1., 2., 3., 4., 5. és 6. prioritás keret beérkezett pályázat szakmai és pénzügyi értékelési feladat ellátás
-2. részajánlat
-a társadalmi infrastruktúra operatív program
-tiop
-1., 2., 3. prioritás keret beérkezett pályázat szakmai és pénzügyi értékelési feladat ellátás
-nyertes ajánlattevő feladat részajánlat eset
-részvétel az adott támogatási konstrukció és az eljárásrend fő pont szóló felkészítő képzés
-a pályázat szakmai tartalom
-ütemezés és pénzügyi terv értékelés megadott szempontrendszer alap
-az előkészítési szakasz lebonyolított közbeszerzési eljárás értékelés
-amennyiben az a pályázai útmutató szerint kötzelezően és a pályázat egy idő beadandó dokumentáció rész képez
-a pályázat tartalom az operatív program stratégiai célrendszer való illeszkedés vizsgálat
-megbízó igény eset a döntés-előkészítő bizottsági ülés való részvétel
-ajánlatkérő felkérés alap
-amennyiben az adott pályázat értékelő értékel
-az értékelés egyeztetés
-a feladat részletes ismertetés az ajánlati dokumentáció tartalmaz
+version https://git-lfs.github.com/spec/v1
+oid sha256:315d2cb3cafa66abfcbcd9bc950328e1199b1d2344ba830621d09150252f7b49
+size 1410

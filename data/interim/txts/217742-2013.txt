@@ -1,1 +1,3 @@
-Részajánlatonként szállítási szerződés a II.2.1.) pont szerinti mezőgazdasági gépek szállítására.
+version https://git-lfs.github.com/spec/v1
+oid sha256:600637754793a59c3ae48d0c883b0ce65557317fb06784eae6aa63e9578241dd
+size 112

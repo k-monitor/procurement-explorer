@@ -1,7 +1,3 @@
-adásvételi szerződés
-mely tárgy
-orosháza város önkormányzata és intézmény
-fogyasztási hely
-földgáz történő ellátás 1.
-1.
-teljes ellátásalapú szerződés keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:93b519530b2876d62be301df1d46275e31b9eddd86d0c0c45f9b38ffc8964283
+size 181

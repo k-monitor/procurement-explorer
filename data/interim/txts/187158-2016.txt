@@ -1,1 +1,3 @@
-Intel és Alpha szerverek, mentőegységek, tárolók, LAN és SAN eszközök hardver szintű támogatása érdekében nyújtott üzemeltetést biztosító szakértői szolgáltatás (hardver hibajavítás, hardverkarbantartás, tanácsadás, Firmware frissítések legalább egy alkalommal történő telepítése) meghatározott szolgáltatási szint biztosítása mellett.
+version https://git-lfs.github.com/spec/v1
+oid sha256:48f506ae042c8025a1545a807820b3919e10ec297e59c7e0618420066d12dda6
+size 375

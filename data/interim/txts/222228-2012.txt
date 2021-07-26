@@ -1,1 +1,3 @@
-A Nemzeti Adó- és Vámhivatal Dél-alföldi Regionális Adó Főigazgatósága kezelésében lévő Békés megyei objektumok takarítása.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fa285ab0cb7838af3ba57d3cd396ff2c46cd801faec356f045382279bb89e1ca
+size 141

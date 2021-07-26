@@ -1,1 +1,3 @@
-Az Idősügyi Infokommunikációs Modellprogram keretében idős gondozottak ellátására alkalmas vészjelző-segélyhívó karperecek és hozzákapcsolódó rendszer szállítása.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2cf2fddc1c61594881e5370500ef28d5d2850d472a7ea0c4b1909857ea865d9f
+size 183

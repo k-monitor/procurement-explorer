@@ -1,1 +1,3 @@
-Földgáz-értékesítési szerződés alapján földgáz beszerzése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f2970c206a7859ab95c3f5ffc7348aec68c0945e1df63edbf3b8ba6d275ce9dc
+size 70

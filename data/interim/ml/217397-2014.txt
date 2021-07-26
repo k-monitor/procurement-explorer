@@ -1,29 +1,3 @@
-Szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-meghatározása	meghatározás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-:	:	PUNCT	_	
-Vállalkozási	Vállalkozási	PROPN	Case=Nom|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-Tárgya	tárgya	PROPN	Case=Nom|Number=Sing	
-:	:	PUNCT	_	
-„	„	PUNCT	_	
-Budai	Budai	PROPN	Case=Nom|Number=Sing	
-Vár	Vár	PROPN	Case=Nom|Number=Sing	
-és	és	CONJ	_	
-környéke	környék	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-közlekedés	közlekedés	NOUN	Case=Nom|Number=Sing	
-fejlesztése	fejlesztés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-"	"	PUNCT	_	
-keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-gyalogos	gyalogos	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-információs	információs	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-és	és	CONJ	_	
-tájékoztató	tájékoztató	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-rendszer	rendszer	NOUN	Case=Nom|Number=Sing	
-kiépítése	kiépítés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-,	,	PUNCT	_	
-valamint	valamint	CONJ	_	
-support	support	NOUN	Case=Nom|Number=Sing	
-tevékenység	tevékenység	NOUN	Case=Nom|Number=Sing	
-ellátása	ellátás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:f6f12201a00f0e1a18fe701dfd10e1720bec45a830ed89cbc906b5a5dd74813c
+size 1324

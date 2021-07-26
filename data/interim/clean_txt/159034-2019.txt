@@ -1,2 +1,3 @@
-adás-vételi szerződés keret ajánlatkérő az intézmény részére füsz áru-kényelmi termékek-mirelit termék hónap kecskemét
-kiskunfélegyháza és kalocsa telephely kíván megvásárol
+version https://git-lfs.github.com/spec/v1
+oid sha256:f92ef4046fca070269e874c33fd89206469ce25ce6ecbbbc9a25e4bbcc71f1d3
+size 198

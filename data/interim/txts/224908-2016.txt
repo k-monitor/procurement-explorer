@@ -1,1 +1,3 @@
-Szállítási szerződés alapján a villamos energia beszerzése 1.1.2017–31.12.2017. közötti időszakra.
+version https://git-lfs.github.com/spec/v1
+oid sha256:697d4aa5ab94028cbbce99fa93f4bf9ce20ed846f2dfa62305504a06b3130895
+size 110

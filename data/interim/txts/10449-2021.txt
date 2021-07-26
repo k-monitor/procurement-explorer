@@ -1,1 +1,3 @@
-Debrecen, Déli Gazdasági Övezet belső úthálózat II. ütem
+version https://git-lfs.github.com/spec/v1
+oid sha256:80bded039e5309848c34c73c5120353c04be528ade260e1949ddd38e88eae28d
+size 64

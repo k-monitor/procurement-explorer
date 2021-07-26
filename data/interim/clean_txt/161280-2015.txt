@@ -1,2 +1,3 @@
-földgáz beszerzés a pécsi tudományegyetem és pécs megyei jogú város önkormányzata részére a
-2016-os gázév teljes ellátásalapú földgáz-kereskedelmi szerződés keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:9619c2a61fe49208613ef72cc84039939c40829e3d0f3c7aea29548a44680f38
+size 184

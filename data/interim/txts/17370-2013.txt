@@ -1,1 +1,3 @@
-Megvalósíthatósági tanulmány készítése Miskolc Megyei Jogú Város Önkormányzata részére vállalkozási szerződés keretében a KÖZOP-5.5.0-09-2010-0026 kódszámú „Városi és elővárosi kötöttpályás közösségi közlekedési rendszerek fejlesztése Miskolcon és térségében” című projekt keretén belül.
+version https://git-lfs.github.com/spec/v1
+oid sha256:75b9efb5c32f574cf95ffd4040f1661fd1b44dadffe7c7242cba4912debceffb
+size 336

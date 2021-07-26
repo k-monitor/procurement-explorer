@@ -1,6 +1,3 @@
-efop-1
-6-16-2017-00001
-elektronikus egészségügyi ágazati fejlesztés
-c
-kiemelt projekt információbiztonsági munkacsomag szereplő eszköz
-szolgáltatás és licenc beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:14d284e924c6d7ccd233c8a1d831aa485c42c826ce52aacfb6b9066c69c5f52b
+size 181

@@ -1,1 +1,3 @@
-Megbízási szerződés „Bordány, Forráskút, Üllés, Zsombó települések szennyvízcsatorna hálózatának és szennyvíztisztításának megvalósítása” tárgyú KEOP-1-2-0/2F/09-2010-0083 kódszámú projekthez kapcsolódó FIDIC mérnöki és műszaki ellenőri feladatok ellátása tárgyában.
+version https://git-lfs.github.com/spec/v1
+oid sha256:386d1885a50b8586b0f2070a7a0d3ea9a98af187095cef06627d7f5373360ce6
+size 310

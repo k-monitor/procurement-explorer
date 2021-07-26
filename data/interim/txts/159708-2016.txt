@@ -1,1 +1,3 @@
-Spektrális lézerdiagnosztikai eszközök beszerzése a GINOP-2.3.6-15-2015-00001 – GINOP – ELI lézer kutatóközpont megvalósítása (ELI-ALPS) nagyprojekt, 2. fázis (P4) keretében három részben adásvételi szerződés alapján.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b5146a3f9e640cee2e52aff98b5ea172fe978abf75e9011249804d4c87adf153
+size 241

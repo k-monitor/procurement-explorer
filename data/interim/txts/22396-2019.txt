@@ -1,1 +1,3 @@
-Megbízási keretszerződés Budapest, V. Kerület Belváros-Lipótváros területén közterület-felügyeleti rendszer működtetése keretében felmerülő biztonsági szolgáltatások nyújtására 2019–2020 években (Keretösszeg 400 millió HUF/2 év)
+version https://git-lfs.github.com/spec/v1
+oid sha256:bd9c37df16ec1d3ece5b427f658e0c1fba5370f1e6399d2e6e195f552f6d71fd
+size 259

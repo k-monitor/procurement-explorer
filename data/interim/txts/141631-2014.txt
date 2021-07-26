@@ -1,1 +1,3 @@
-Vállalkozási keretszerződés, Ajánlatkérő által üzemeltetett országos közutakon keresztmetszeti forgalomszámlálás elvégzésére.
+version https://git-lfs.github.com/spec/v1
+oid sha256:662b1ec3943145606e39d2a995b8860ea04f03f97114b6ac91b599ba53e6f081
+size 142

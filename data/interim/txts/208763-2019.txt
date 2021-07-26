@@ -1,1 +1,3 @@
-Mellkasi szívók, szűrők, filterek beszerzése, összesen 68100 db/24 hónap eszköz. Ajánlatkérő minden Termék esetében egyesével csomagolt, steril termékek szállítását követeli meg. Amennyiben az adott részben több termék szerepel, úgy a részben szereplő összes termékre ajánlatot kell tenni.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f6837ec9470ec706d88e7771184d144552fa5e9c151e18743a010484f9ace90a
+size 318

@@ -1,1 +1,3 @@
-2020–2023 évekhez kapcsolódóan hazai forrásból finanszírozott, az országos közúthálózat fejlesztési és felújítási munkái kapcsán keretmegállapodások megkötése 6 részben. Érintett régiók: 1. rész: Észak-Alföld régió (Szabolcs-Szatmár-Bereg; Hajdú-Bihar; Jász-Nagykun-Szolnok megye) 2. rész: Észak-MAGYARORSZÁG (Borsod-Abaúj-Zemplén; Heves; Nógrád megye) 3. rész: Dél-Alföld (Bács-Kiskun; Békés; Csongrád megye) 4. rész: Dél-Dunántúl (Baranya; Somogy; Tolna megye) 5. rész: Közép-Dunántúl és Közép-MAGYARORSZÁG (Fejér; Komárom-Esztergom; Veszprém; Pest megye) 6. rész: Nyugat-Dunántúl (Győr-Moson-Sopron; Vas; Zala megye).
+version https://git-lfs.github.com/spec/v1
+oid sha256:d6f388a591157703605f4ef96f2a8b106fe60f0cfcee5869d0e1d4b7d6d63515
+size 690

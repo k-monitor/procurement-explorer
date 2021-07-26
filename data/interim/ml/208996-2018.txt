@@ -1,30 +1,3 @@
-A	a	DET	Definite=Def|PronType=Art	
-NAV	NAV	PROPN	Case=Nom|Number=Sing	
-vagyonkezelésében	vagyonkezelés	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-lévő	lévő	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-3,5	3,5	NUM	Case=Nom|NumType=Frac|Number=Sing	
-t	t	NOUN	Case=Nom|Number=Sing	
-össztömeget	össztömeg	NOUN	Case=Acc|Number=Sing	
-meg	meg	PART	_	
-nem	nem	ADV	PronType=Neg	
-haladó	haladó	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-márkafüggetlen	márkafüggetlen	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-gépjárművek	gépjármű	NOUN	Case=Nom|Number=Plur	
-kisjavítása	kisjavítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-,	,	PUNCT	_	
-karbantartása	karbantartás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-és	és	CONJ	_	
-műszaki	műszaki	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-vizsgáztatása	vizsgáztatás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-3	3	NUM	Case=Nom|NumType=Card|Number=Sing	
-részben	rész	NOUN	Case=Ine|Number=Sing	
-36	36	NUM	Case=Nom|NumType=Card|Number=Sing	
-hónap	hónap	NOUN	Case=Nom|Number=Sing	
-időtartamra	időtartam	NOUN	Case=Sub|Number=Sing	
-vagy	vagy	CONJ	_	
-a	a	DET	Definite=Def|PronType=Art	
-szerződéses	szerződéses	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-keretösszeg	keretösszeg	NOUN	Case=Nom|Number=Sing	
-kimerüléséig	kimerülés	NOUN	Case=Ter|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:d4ad6fb3c7403b6333d2c7e4048c8e1b93b8431dd657e8ec0950c0bb30118607
+size 1450

@@ -1,1 +1,3 @@
-Közúti gépjárművekhez kapcsolódó anyagbeszerzés nettó 7 000 000 HUF (mely a teljesítés során - 30 %-kal eltérhet) értékben az ajánlati dokumentáció 5. számú melléklete szerint.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1ba55e2511234a3f3a2ea378b6e4446eb98bc741bd66ff1a4d27a46daa858756
+size 197

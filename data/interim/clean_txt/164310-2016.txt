@@ -1,2 +1,3 @@
-tervezési szerződés a soproni lőver fürdő
-csík ferenc uszoda strandmedence és kiszolgáló épület felújítási terv elkészítés tárgy
+version https://git-lfs.github.com/spec/v1
+oid sha256:bdcd9a1c42226bd004b8c441c1026c1bf47c5a3698cd1dbd5f8d027a07dea0ba
+size 147

@@ -1,2 +1,3 @@
-adásvételi keretszerződés alap
-általános és különleges gumitermék beszerzés a bkv vasúti járműjavító kft. részére
+version https://git-lfs.github.com/spec/v1
+oid sha256:6f6a3a9d9975cf493658d5cfa3cca4cefca38e33ef0f4e196dc09e71f69486dd
+size 131

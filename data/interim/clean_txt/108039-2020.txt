@@ -1,2 +1,3 @@
-szolgáltatás vegyes bérleti szerződés a pécsi tudományegyetem részére db személygépjármű beszerzés tartós bérleti szerződés keret
-a ő kapcsolódó flottakezelési szolgáltatás biztosítás
+version https://git-lfs.github.com/spec/v1
+oid sha256:9684741db516989eef4f7e6a9a5f1e20a67553d5d868ae35b1c57766f39753b8
+size 209

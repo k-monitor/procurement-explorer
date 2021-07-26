@@ -1,6 +1,3 @@
-az ajánlatkérő által kijelölt palack bor
-a bor tárolási hely a műszaki leírás részletezett szerint mintavétel
-a minta laboratórium történő szállítás
-a minta wine profiling módszerű analitikai vizsgálat teljes ujjlenyomat alapú azonosítás
-ill. sokparaméteres analitikai elemzés
-a megvizsgált minta riport készítés
+version https://git-lfs.github.com/spec/v1
+oid sha256:2d54dab2bd99e47e5fbf78e16b9cb26cd76c7f136396068f2584ea69cf91c892
+size 343

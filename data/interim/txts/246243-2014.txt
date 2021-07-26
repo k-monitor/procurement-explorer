@@ -1,1 +1,3 @@
-Vállalkozási szerződés a FKF Nonprofit Zrt. Hulladékhasznosító Művében keletkező pernye (EWC kód: 19 01 13) és füstgáztisztítási maradékanyag (EWC 19 01 07) elszállítása és ártalmatlanítása és/vagy hasznosítása érdekében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:aa686f6934febd80500d39225fe817e157abc89499ada9e210b8e1865ba08093
+size 250

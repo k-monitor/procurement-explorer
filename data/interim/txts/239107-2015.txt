@@ -1,1 +1,3 @@
-Ingó adásvételi szerződés alapján a TIOP-3.2.3-12/1-2013-0001 projektben bútorok beszerzése, szállítása és összeszerelése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:94088c41bcdd07029cdf6036f965fb34c99c6205d6c03cb887c7500a4abbd48d
+size 136

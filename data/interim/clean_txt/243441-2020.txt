@@ -1,5 +1,3 @@
-tolna megyei oktatási intézmény épületenergetikai fejlesztés
-című
-kehop-5
-2.2
-16-2016-00027 azonosító számú projekt kivitelezési munka megvalósítás
+version https://git-lfs.github.com/spec/v1
+oid sha256:3e0e417e7566bbf03bf958d922e9d92194ceedb35471c02e478fd35df4574a21
+size 163

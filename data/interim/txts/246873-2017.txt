@@ -1,1 +1,3 @@
-Keretre szerelt biológiai aorta műbillentyűből és egy, a billentyű implantátum bevezetését és elhelyezését elősegítő előre szerelt bevezető rendszer és tartozékaiból álló szett beszerzése Ajánlatkérő eseti megrendelései szerint, legfeljebb nettó 34 340 157 HUF keretösszeg erejéig adásvételi keretszerződés keretében. A nyertes ajánlattevő feladata az Ajánlatkérő eseti megrendelései szerinti keretre szerelt biológiai aorta műbillentyűből és egy, a billentyű implantátum bevezetését és elhelyezését elősegítő előre szerelt bevezető rendszer és tartozékaiból álló szett szállítása az Ajánlatkérő részére.
+version https://git-lfs.github.com/spec/v1
+oid sha256:31ed492cda02a1caeab3d378d7909cdd33ccb9a3716fbe384423ce1515abb789
+size 675

@@ -1,1 +1,3 @@
-A Magyar Turizmus Zrt. részére belföldi kommunikációhoz kapcsolódó médiaügynökségi feladatok elvégzése a szerződés megkötésétől számított 24 hónapra.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5d9929a744c656afbfc7c86e3b880d60cded0ba5722cddeb852f7c0203c14af7
+size 171

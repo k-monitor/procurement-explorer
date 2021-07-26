@@ -1,27 +1,3 @@
-szolgálati jármű és kiegészítő eszköz beszerzés az alábbi szerint
-1. rész
-járműfelépítmény
-smm v2 full prémium acél felépítmény
-vagy az egyenértékű
-toyota hilux évjáratú gépjármű
-darab
-darab opció 2. rész
-halőri robogó
-piaggio typhoon e4 vagy az egyenértékű
-darab
-darab opció 3. rész
-személygépkocsi
-suzuki vita boosterjet gl vagy az egyenértékű
-darab
-darab opció 4. rész
-utánfutó 1.
-alfa
-vagy az egyenértékű
-darab
-darab opció 5. rész
-utánfutó 2.
-alfa
-vagy az egyenértékű
-darab
-darab opció a további műszaki előírás dokumentáció
-műszaki leírás fejezet tartalmaz
+version https://git-lfs.github.com/spec/v1
+oid sha256:9acdc0ad864e1ac0bf2542121340dc0e1a6188f790be7ff3fe09fdcb7f25ffd5
+size 630

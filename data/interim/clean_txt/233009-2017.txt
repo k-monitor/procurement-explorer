@@ -1,3 +1,3 @@
-top-6
-3.2 vállalkozási szerződés a kaposvár egykori kórház déli tömbrekonstrukció
-kulturális és környezettudatos fejlesztés célzó munka az engedélyezési és kivitelezési terv elkészítés együtt
+version https://git-lfs.github.com/spec/v1
+oid sha256:e1e954b2a851812ee8043bd29ab989f78830b9f785fb56268c17584b0e28d8e4
+size 215

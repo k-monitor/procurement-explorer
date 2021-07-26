@@ -1,35 +1,3 @@
-Adásvételi	adásvételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-,	,	PUNCT	_	
-melynek	mely	PRON	Case=Gen|Number=Sing|Person=3|PronType=Rel	
-tárgya	tárgy	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-:	:	PUNCT	_	
-Orosháza	orosháza	NOUN	Case=Nom|Number=Sing	
-Város	Város	PROPN	Case=Nom|Number=Sing	
-Önkormányzata	Önkormányzata	PROPN	Case=Nom|Number=Sing	
-és	és	CONJ	_	
-intézményeinek	intézmény	NOUN	Case=Gen|Number=Plur|Number[psor]=Sing|Person[psor]=3	
-(	(	PUNCT	_	
-16	16	NUM	Case=Nom|NumType=Card|Number=Sing	
-fogyasztási	fogyasztási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-helyen	hely	NOUN	Case=Sup|Number=Sing	
-)	)	PUNCT	_	
-földgázzal	földgáz	NOUN	Case=Ins|Number=Sing	
-történő	történő	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-ellátása	ellátás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-1.	1.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
-
-9	9	NUM	Case=Nom|NumType=Card|Number=Sing	
-.	.	PUNCT	_	
-2014-től	2014	NUM	Case=Abl|NumType=Card|Number=Sing	
-1.	1.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
-
-9	9	NUM	Case=Nom|NumType=Card|Number=Sing	
-.	.	PUNCT	_	
-2015-ig	2015	NUM	Case=Ter|NumType=Card|Number=Sing	
-teljes	teljes	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-ellátásalapú	ellátásalapú	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:1e44ec4ab56e0be3ed3a60a460ce798745e79a1378a91a0725f45339a9b31180
+size 1482

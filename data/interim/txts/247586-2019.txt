@@ -1,1 +1,3 @@
-Magyarország közigazgatási területén keletkező ipari-kereskedelmi fa csomagolási hul-ladék gyűjtése és anyagában történő hasznosítása (kezelési kód: R3, kivéve: R12 és R13 kód) szolgáltatás-megrendelési szerződés keretében a II.2.4) pontban és közbeszerzési dokumentumokban (KD) foglaltak szerint, a környezetvédelmi termékdíjról szóló 2011. évi LXXXV. törvény 22. § (1) bekezdése alapján, az alábbi részajánlattételi körökben: I-IV. részek - fa csomagolási hulladék gyűjtése és anyagában történő hasznosítása (ré-szenként) 3 500 tonna mennyiségben V-X. részek - fa csomagolási hulladék gyűjtése és anyagában történő hasznosítása (ré-szenként) 2 800 tonna mennyiségben XI-XV. részek - fa csomagolási hulladék gyűjtése és anyagában történő hasznosítása (részenként) 2 000 tonna mennyiségben
+version https://git-lfs.github.com/spec/v1
+oid sha256:7ab84dfcb92d2871ead91f45b4acbbe027907f62e1f549be58deb9961e6976c8
+size 884

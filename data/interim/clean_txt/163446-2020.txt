@@ -1,2 +1,3 @@
-zárt rendszerű gyógyszerátviteli eszköz
-cstd
+version https://git-lfs.github.com/spec/v1
+oid sha256:275bc9ff09b4b46396b2cb1a8b2c2b19d5492ee806753143b5aee2c889c936fd
+size 49

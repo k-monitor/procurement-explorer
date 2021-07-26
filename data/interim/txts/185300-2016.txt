@@ -1,1 +1,3 @@
-Cisco hálózati eszközök szállítása: — 2 db Catalyst 4500-X és alkatrészei, — 24 db LX4 XENPAK modul cseréje, — 4 db SAN Supervisor kártya cseréje, — 4 db DWDM készülék bővítése, — 4 db SAN Director 8G FC bővítése, Opcionálisan, külön megrendelés alapján szállítandó eszközök és tartozékaik: 206 db.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fae463b1f8e6dfb75d687ac795d39f20110de09f5198d3417ebee8743c7581b9
+size 341

@@ -1,1 +1,3 @@
-Szállítási szerződés - Irodai papíráruk, írószerek, irodaszerek, nyomtatványok beszerzése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ccbe7b8e3b90c6807d2a3f201d0f0ebc91d91bd492afb0c32a6479e0de7ba94a
+size 101

@@ -1,6 +1,3 @@
-adásvételi szerződés alap az alábbi orvosi gép beszerzés
-telepítés és üzem helyezés
-db telemetriás készülék
-db elektrofiziológiai készülék
-db echocardiographiás készülék
-a készülék kapcsolatos műszaki elvárás a dokumentáció részletezett
+version https://git-lfs.github.com/spec/v1
+oid sha256:e051520274bbe219115c80539438aae27e78d427efa0fa0b1459bf64caabf5bd
+size 269

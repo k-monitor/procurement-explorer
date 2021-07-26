@@ -1,9 +1,3 @@
-villamosenergia-vásárlási szerződés a budapesti műszaki és gazdaságtudományi egyetem részére
-a magyar átviteli hálózat folyamatos rendelkezés álló
-szabványos minőségű villamos energia versenypiaci beszerzés
-rendszerhasználat biztosítás együtt
-a 1.5.2014
-30.4.2015
-közötti időszak vonatkozó
-teljes ellátásalapú szerződés keret
-menetrendadási kötelezettség nélkül
+version https://git-lfs.github.com/spec/v1
+oid sha256:4331328001acb2ad9a6789819448bec74312de4de81667a08e3ad34dfb38e7cf
+size 401

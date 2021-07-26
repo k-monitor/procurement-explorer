@@ -1,12 +1,3 @@
-Szállítási	Szállítási	PROPN	Case=Nom|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-1	1	NUM	Case=Nom|NumType=Card|Number=Sing	
-db	db	NOUN	Case=Nom|Number=Sing	
-Folyadékkromatográffal	Folyadékkromatográff	NOUN	Case=Ins|Number=Sing	
-kapcsolt	kapcsolt	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPast	
-tömegspekrometer	tömegspekrometer	NOUN	Case=Nom|Number=Sing	
-rendszer	rendszer	NOUN	Case=Nom|Number=Sing	
-beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-vonatkozásában	vonatkozás	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:45b315f470d693c6bf9f3196c5eb1ef89b44a82f38ac4a6437c2b13005eefc4f
+size 625

@@ -1,1 +1,3 @@
-Szállítási szerződés keretében az FKF Nonprofit Zrt. Hulladékhasznosító Műben üzemelő kazánok rostélyhengereihez különféle öntvényelemek beszerzése és szállítása.
+version https://git-lfs.github.com/spec/v1
+oid sha256:288771e1e53550dec4d77d29ee6c6377b3dac3cbd88b7b5d2466448a65dfc07b
+size 186

@@ -1,1 +1,3 @@
-Telepített növények három éven keresztül történő ápolása és pótlása.
+version https://git-lfs.github.com/spec/v1
+oid sha256:008373d1874866b9c166c4807fa627765cb084b4f53af99e306d4e4d56d6796f
+size 82

@@ -1,9 +1,3 @@
-szállítási szerződés
-intézményfejlesztés a pásztói margit kórház című tiop-2
-1b-2013-0022 azonosítószámú pályázat keret eszközszállítás
-telepítés
-üzem helyezés
-a kezelőszemélyzet betanítás
-próbaüzem lefolytatás
-jótállási kötelezettségvállalás
-tárgy
+version https://git-lfs.github.com/spec/v1
+oid sha256:8bda52e18e7412aad8b31fcb6a9a79709af2602b7d7bb7d8dccd064fb5ab8833
+size 291

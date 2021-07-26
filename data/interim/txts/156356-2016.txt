@@ -1,1 +1,3 @@
-Magyar Ifjúság Kutatás 2016/2020, illetőleg önkéntességkutatás 2018 teljes körű lebonyolítása és szakmai összefoglalása az EFOP-1.2.3-VEKOP-15-2015-00001 azonosítószámú kiemelt projekt keretein belül az ajánlattételi dokumentációban részletezettek szerint, vállalkozási szerződés keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:98b9186e0513621089a611e123592b033f4539d3bef823621f88d65dc3d37657
+size 320

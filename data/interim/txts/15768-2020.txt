@@ -1,1 +1,3 @@
-Képalkotó és orvostechnikai eszközök beszerzése 4 rt. 1. részterület: Röntgen diagnosztikai eszközök 2. részterület: MRI és Csontsűrűség diagnosztikai eszközök 3. részterület: Ultrahang diagnosztikai eszközök 4. részterület: Sugárterápiás eszközök
+version https://git-lfs.github.com/spec/v1
+oid sha256:9156b3687e7b09b5ef4885c4f25122ca5368635c29955ea5fbaaef5cb16c3164
+size 277

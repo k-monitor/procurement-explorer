@@ -1,1 +1,3 @@
-Szállítási szerződés, Tiszavasvári, élelmiszer nyersanyagok beszerzése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b3cfd2cf7b03c0ba469172bfd189b374b9c213eb3f67f46289e0605deeb08e9d
+size 79

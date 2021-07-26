@@ -1,1 +1,3 @@
-dek-567 _ adásvételi szerződés db ultrahang készülék beszerzés a debreceni egyetem klinikai központ sürgősségi klinika részére
+version https://git-lfs.github.com/spec/v1
+oid sha256:64297818e55339b298aeebb2ae19ec4d7aedb142f31ad9a75a3bbe71e709468d
+size 140

@@ -1,1 +1,3 @@
-Szerződés meghatározása: Szállítási szerződés. Tárgya: „A „Budapest villamos és trolibusz járműfejlesztés I. ütem” keretében a műszaki leírásnak megfelelő, 100 %-ban alacsonypadlós, azonos típuscsaládba tartozó, új, min. 4 km folyamatos felsővezeték nélküli utasforgalmi üzemre alkalmas személyszállító csuklós és szóló trolibuszok beszerzése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e5b4f65bb9d64fdbfe8f12bbf83ef1590bd2eae3b2c9f3e47317de45a604823e
+size 388

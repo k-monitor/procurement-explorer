@@ -1,1 +1,3 @@
-audiovizuális rendszer létesítés a pécsi tudományegyetem általános orvostudományi kar részére modern város program keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:7a2d60b4ee7e29da2fde60440df1f362d639b897f260358b06700ca90b83f3ae
+size 132

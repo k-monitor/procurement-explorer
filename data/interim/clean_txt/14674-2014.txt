@@ -1,2 +1,3 @@
-évi
-liter gázolaj szállítás a jászberényi vagyonkezelő és városüzemeltető nonprofit zrt. részére
+version https://git-lfs.github.com/spec/v1
+oid sha256:52cce70c82307a6cee13529df48a801d8fd8f9b38c57600d53689eaa64def3f3
+size 110

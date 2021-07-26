@@ -1,16 +1,3 @@
-Szállítási	Szállítási	PROPN	Case=Nom|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-a	a	DET	Definite=Def|PronType=Art	
-Kardiológiai	kardiológiai	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szakanyagok	szakanyag	NOUN	Case=Nom|Number=Plur	
-(	(	PUNCT	_	
-Ablációs	Ablációs	PROPN	Case=Nom|Number=Sing	
-és	és	CONJ	_	
-elektroanatómiai	elektroanatómiai	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-térképező	térképező	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-katéterek	katéter	NOUN	Case=Nom|Number=Plur	
-)	)	PUNCT	_	
-beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-tárgyban	tárgy	NOUN	Case=Ine|Number=Sing	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:2455217ae25e5799283146fec0a215121c1351e9edfd6432e62e629c43ca19e1
+size 690

@@ -1,17 +1,3 @@
-gyorsított nyílt
-egy ajánlattevő megkötött keretmegállapodás megkötés irányuló eljárás alap tételes elszámolás alá eső venetoklax hatóanyag tartalmazó
-természet biztosítandó gyógyszerkészítmény beszerzés hónap aktív
-további hónap passzív időszak
-amely meghosszabbítható további hónap aktív időtartam
-részletes feltétel a keretmegállapodás-tervezet
-km tervezet
-tartalmaz
-ajánlatkérő a kbt. 105. §
-bekezdés a
-pont szerint jár el
-figyelem
-kbt. 73. §
-c
-pont tekintet tájék ajánlattevő
-hogy a megajánlott konkrét gyógyszer vonatkozó
-az ajánlattételi határidő nap hatályos pupha ár a keretmennyiség számított összár magas ár érvényes ajánlat nem tehető
+version https://git-lfs.github.com/spec/v1
+oid sha256:fe5350d2308b377d129b3908c8fce6d4caeeee260ab0e9a0aeb0d2205a6ea25b
+size 722

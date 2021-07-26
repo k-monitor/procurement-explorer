@@ -1,1 +1,3 @@
-Adásvételi szerződés szívbillentyűk, érprotézisek beszerzésére a Szegedi Tudományegyetem részére 22. részben: Mechanikus Aorta Bill (MAoB) -Kétlemezes mechanikus aorta műbillentyűk 1-4. rész. Mechnikus Mitrális Bill (MMB) - Kétlemezes mechanikus mitralis műbillentyűk 5-7. rész. Biológiai Aorta Bill (BAoB) - Biológiai (stentelt és stentless) aorta billenytűk 8-11. rész. Biológiai Mitrális Bill (BMB) -Biológiai (stentelt és stentless) mitralis billenytűk 12-14. rész. Speciális Biológiai Aorta Bill (SAoMB) - Biológiai (stentelt és stentless) aorta billenytűk 15. rész. Billentyűs Conduit (Bentall) - Annuloplasztikus ring 16-18. rész. Érprotézisek 19-22. rész. Az egyes termékek paramétereit a Közbeszerzési Dokumentum részét képező műszaki leírás tartalmazza.
+version https://git-lfs.github.com/spec/v1
+oid sha256:843ee3150a49267339aa295ca44aa4ef4d9d4926f6c1f94c1d79f8f1ceed8cc9
+size 819

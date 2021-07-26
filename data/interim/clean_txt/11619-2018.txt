@@ -1,4 +1,3 @@
-1. rész
-direkt
-és folyadékhűtő és hőszivattyú karbantartás és eseti hibajavítás a pte szentágothai kutatóközpont telephely huf keretösszeg erő 2. rész
-direkt
+version https://git-lfs.github.com/spec/v1
+oid sha256:f0b182696420991688cf9224bede7fdf3449ad00e1de53d5dddc46bd774cd4e3
+size 175

@@ -1,1 +1,3 @@
-Szállítási szerződés – Nadrágpelenka beszerzése a Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház részére.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ddc08f8c4bffbc3ea03ac832be8dd069323548b1118b2222cea088de8c17125e
+size 147

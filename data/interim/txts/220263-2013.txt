@@ -1,1 +1,3 @@
-Vállalkozási szerződés, melynek tárgya: Szellemitulajdon-védelmi Moduláris Adatbázis és Folyamatirányító Rendszer kialakítása, az EKOP-1.A.2-2012-2012-0001 jelű pályázat szerint.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bf4fa5281f5556fc8c82d2bb7d6f41cbbef9b5becbbe860f9f62f123771fff0d
+size 195

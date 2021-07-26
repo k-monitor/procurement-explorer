@@ -1,1 +1,3 @@
-Keretszerződés gázolaj tankautós szállításra.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3951981122c1c94bbf8da2750ffda6ad8e8885c8608437b5c8e836b1b843903d
+size 52

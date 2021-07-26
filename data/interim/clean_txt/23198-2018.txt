@@ -1,7 +1,3 @@
-a magyar közút nonprofit zrt. tulajdon és
-vagy üzemeltetés lévő tatra-uds és mulag típusú ároktisztító célgép garanciális és garanciális időszak túli karbantartás
-javítás
-karbantartási munkálat kapcsolódó és az független alkatrész ellátás biztosítás
-a közbeszerzési dokumentáció meghatározott feltétel és szerint
-szerződés meghatározás
-hónap időtartam kötött vállalkozási keretszerződés
+version https://git-lfs.github.com/spec/v1
+oid sha256:1afb85b8fd109478fea914710d3c36be4ad89913dfedf88b6981a30007f02eaa
+size 439

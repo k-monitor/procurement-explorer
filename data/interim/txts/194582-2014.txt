@@ -1,1 +1,3 @@
-Szolgáltatási szerződés a szelektív hulladék gyűjtés (háznál gyűjtött lakossági szelektív hulladék, gyűjtősziget és gyűjtőudvarból származó hulladék) és a települési szilárd hulladék termikus hasznosítása során melléktermékként keletkező (kivéve BUFA területé képződő) hasznosítható hulladékok előkezelése, hasznosíttatása és/vagy hasznosítása érdekében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0ea71cbbe81501faf48182283e947e8f8aef9d0198781f0831927240276addb4
+size 408

@@ -1,1 +1,3 @@
-Adásvételi szerződés 12 havi tej, tejtermékek beszerzésére.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8b4e418dc87130e7967a19b77ebc7efbe18b9551f02a93cfbaf809deb3702b3c
+size 66

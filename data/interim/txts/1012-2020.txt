@@ -1,1 +1,3 @@
-Dunakiliti-Dobrohošt’ (Doborgaz) gyalogos-kerékpáros Duna-híd kiépítése a hozzá vezető szakaszokkal, műtárgyakkal fejlesztés keretében a magyar oldali megközelítő út és ártéri híd kivitelezése
+version https://git-lfs.github.com/spec/v1
+oid sha256:025d4853b185baf4da9ce3f69cbd3e33573bd649268ec974abc4500a5f4ab22c
+size 216

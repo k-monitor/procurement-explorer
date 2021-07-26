@@ -1,6 +1,3 @@
-vállalkozási szerződés az éaop-5
-1.2
-d3-09-2f-2010-0001 azonosító számú
-vásárhelyi terv továbbfejlesztés kapcsolódó 
-és csapadékvíz rendezés jász-nagykun-szolnok megye 1. ütem
-tárgyú projekt fidic szerződéses feltétel szerinti kivitelezési feladat ellátás
+version https://git-lfs.github.com/spec/v1
+oid sha256:dc14ef10e686f9d76537e3a45adf0624a09552a0e7b1ca81404bfeb1b514c9d9
+size 284

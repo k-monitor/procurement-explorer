@@ -1,18 +1,3 @@
-szociális közétkeztetés biztosítás étel készítés és kiszállítás
-hónapos határozott időtartamú szerződés keret
-intézmény szállítva
-egy intézmény napi étkezés
-reggeli
-ebéd
-uzsonna
-intézmény napi egyszeri étkezés
-ebéd
-lakás szállítva
-napi étkezés
-ebéd
-napi várható adagszám
-adag
-a szerződés határozott idő
-a szerződés aláírás nap
-hónap kerül megkötés
-a szerződéskötés követő hónap letelte előtt nap a fél a szerződés további hónapos meghosszabbítás állapodik meg
+version https://git-lfs.github.com/spec/v1
+oid sha256:f083b87955795a4c0cce325a6d6e61854d99017ea4ad5b08718623770fb4f48c
+size 531

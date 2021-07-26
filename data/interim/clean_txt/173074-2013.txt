@@ -1,3 +1,3 @@
-a magyar hallgatói hitelrendszer forrás biztosítás
-a diákhitelezési rendszer finanszírozás
-működtetés eredő fizetési kötelezettség teljesítés cél év túli kölcsön nyújtás kölcsönszerződés keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:386ea66bc3e08b4abf1324242079e850ff543bbe10e33efef854c890f7eb9c1e
+size 220

@@ -1,1 +1,3 @@
-Megbízási szerződés, az Ajánlatkérő számára a 4.1-es verziójú Business Objects szoftver licencekhez kapcsolódóan szoftverkövetési szolgáltatások és SAP enterprise support biztosítása, továbbá a szoftverlicencek használati jogának, valamint a szoftvertermékek legfrissebb „javított, továbbfejlesztett változatának” és a „javító készletek” (új szoftververziók, frissítések, service pack-ek) ill. a hozzájuk kapcsolódó dokumentáció biztosítása.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9e08f899f5c4adf279fdc446f2b73209901177f1d775eb332ed011e2bfc910a9
+size 493

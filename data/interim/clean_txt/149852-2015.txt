@@ -1,2 +1,3 @@
-szolgáltatási szerződés szakértő
-fejlesztői támogatás biztosítás oracle ebs alapú humán erőforrás-gazdálkodási informatikai rendszer
+version https://git-lfs.github.com/spec/v1
+oid sha256:44d154a70274be08a4fd0034f9149730d7a5a2bd4eaa2028a97ee34ce905f0f0
+size 149

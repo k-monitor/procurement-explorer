@@ -1,1 +1,3 @@
-Határozott időtartamra szóló felhasználási szerződés keretében szerzői művek felhasználási jogának beszerzése a Digitális Tankönyvtár felsőoktatási tartalomszolgáltató oldalon történő közzététel céljából a TÁMOP-4.2.5.B-11/1-2011-0001. azonosítószámú, „Tudományos és felsőoktatási tartalmak központi elektronikus közzétételének biztosítása” tárgyú kiemelt projekt keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:80609a5113c59f9fc50828cdbc9b185974d6c570d1608ccf90d40805c072c384
+size 428

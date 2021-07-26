@@ -1,1 +1,3 @@
-Budapesti Szent Ferenc Kórház közel nulla energiaigényű épületének kivitelezése vállalkozási szerződés keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:42bf3871d57e6c7717dee25cd3735b4b2f093641a3b3cb37f5aba3f8ecc0fbe5
+size 127

@@ -1,1 +1,3 @@
-közétkeztetési feladat ellátás
+version https://git-lfs.github.com/spec/v1
+oid sha256:537865f92d4262aa8363a91f25009310033a89620b2c47829c88fb30b9adc3cd
+size 35

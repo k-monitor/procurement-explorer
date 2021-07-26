@@ -1,1 +1,3 @@
-1. rész: Hittudományi Egyetem kialakítása a Debrecen, Kálvin tér 16. szám alatti épületben. 2. rész: Levéltár és könyvtár kialakítása a Debrecen, Füvészkert u. 2. szám alatti épületben.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5e4ea30354b4c58d6f2167ee09e52fc8e715b7144f9e522baad922000d1d44c3
+size 207

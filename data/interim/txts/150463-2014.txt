@@ -1,1 +1,3 @@
-Az MFB Magyar Fejlesztési Bank Zártkörűen Működő Részvénytársaság és a 2001. évi XX. törvény felhatalmazása alapján az általa tulajdonolt és tulajdonosi joggyakorlása körébe tartozó egyes gazdálkodó szervezetek, mint ajánlatkérők vonatkozásában „x86-os platformú szerverek, ezeken futó Microsoft operációs rendszerek és alapinfrastruktúra elemek, Vmware virtuális környezet, hálózati adattárolók és Linux operációs rendszerek üzemeltetésének támogatása, karbantartása, vállalkozási szerződés keretében
+version https://git-lfs.github.com/spec/v1
+oid sha256:cda7fe4b306a79c43f3b912c7b4a59724225ae13fff0693b54a6ad77a696464b
+size 559

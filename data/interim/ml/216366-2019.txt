@@ -1,4 +1,3 @@
-Törökbálint	törökbálint	NOUN	Case=Nom|Number=Sing	
--	-	PUNCT	_	
-Hulladékszállítás	hulladékszállítás	NOUN	Case=Nom|Number=Sing	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:56d081ec64c0475dd90faf97ff203a9cd4cfc412071662dd15ded64a2d9d9512
+size 142

@@ -1,1 +1,3 @@
-Adásvételi szerződés elhelyezési vasbetonkonténerek beszerzésére.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ce4478b9df6e647fa3a5ffe185bb70ba46e0a713d9d3ccaece1327c8388637e2
+size 73

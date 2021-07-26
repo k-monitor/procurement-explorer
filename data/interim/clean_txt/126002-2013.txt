@@ -1,7 +1,3 @@
-a debreceni egyetem debrecen
-egyetem tér 1. sz. alatti élettudományi épület és könyvtár műszaki üzemeltetés
-felügyelet
-karbantartás
-hibaelhárítás
-kivétel a hőellátó és az informatikai rendszer üzemeltetés
-üzemeltetési szerződés
+version https://git-lfs.github.com/spec/v1
+oid sha256:d58a86fd4797ed578646d6e0f2fdc3bdcdbf300dcbc6a0f1025baa7637b3b0df
+size 254

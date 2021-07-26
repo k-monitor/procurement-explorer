@@ -1,1 +1,3 @@
-szolgáltatási keretszerződés keret ritter elosztó karbantartás és meghibásodás eset javítás
+version https://git-lfs.github.com/spec/v1
+oid sha256:5b2d603ea928663bb6aa965e173fa60eedf3c05f6fba5f1ba9a3d1f40d8841f4
+size 102

@@ -1,1 +1,3 @@
-Ajánlatkérő részére összesen 4 650 000 kWh (+ 25 %) villamos energia teljes ellátás alapú, menetrend adási kötelezettség nélküli szerződés keretében történő szállítása 2013.9.15. napjától 2014.8.31. napjáig a Miskolc, Egyetemváros fogyasztási helyen. A részletes fogyasztási adatokat a Dokumentáció tartalmazza.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b90e1ca561dd84c9d639cf0d8273b93b22f6d7d5e1d12b848fc37f89d4cf493e
+size 343

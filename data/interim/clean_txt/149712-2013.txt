@@ -1,8 +1,3 @@
-szállítási szerződés
-hulladékhasznosító mű víz-gőzrendszer
-különféle kézi működtetésű szerelvény
-átmeneti elzáró szelep
-tolózár
-visszacsapó szelep
-tartalék alkatrész
-szállítás
+version https://git-lfs.github.com/spec/v1
+oid sha256:19d0b6afc7f52bc534048c7fd6e22052f8934832c96a5e4849147ab2d9caa78e
+size 206

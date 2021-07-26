@@ -1,1 +1,3 @@
-A Miskolci Semmelweis Kórház és Egyetemi Oktató Kórház részére eszközök beszerzése a TIOP 2.2.6/12/1/B-2013-0023 pályázati konstrukció keretében- adásvételi szerződés.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3e02c1b4f7a2bac03c5dae80c618aa0721a5daf0a739a1d0cf54bfa4ecf6c468
+size 186

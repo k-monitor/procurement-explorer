@@ -1,1 +1,3 @@
-Vállalkozási szerződés a TÁMOP-5.3.8-11/A1-2012-0001 kódszámú, „Rehabilitáció – Érték – Változás (RÉV): Megváltozott munkaképességű személyek munkaerő-piaci helyzetének elősegítése érdekében történő rendszerszintű képzési és szolgáltatásfejlesztési modellprogram” című kiemelt projekt keretében a megváltozott munkaképességű személyek tranzitálását elősegítő módszertani eszköztár bővítése a hálózat tagjai számára gyakorlatorientált kézikönyvek kidolgozásával tárgyában.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f79c704c183fe48ae7d2c78837d426a0287ac1d78f60b13061c9860864cea09f
+size 547

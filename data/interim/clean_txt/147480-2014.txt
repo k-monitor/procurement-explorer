@@ -1,7 +1,3 @@
-nyertes ajánlattevő feladat közúti tábla és forgalomtechnikai eszköz és tartozék
-eszköz
-szállítás és adott eset kihelyezés ajánlatkérő eseti megrendelés alap a felhívás ii
-1.2
-pont szerinti teljesítési hely
-a részletes műszaki leírás az ajánlati dokumentáció iii
-fejezet tartalmaz
+version https://git-lfs.github.com/spec/v1
+oid sha256:a1b7d622b2e6c8f8b7808dbb9644e364e845320f981cc75fa0619bcaccb56ba6
+size 310

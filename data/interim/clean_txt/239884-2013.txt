@@ -1,3 +1,3 @@
-megbízási szerződés az
-energiahatékonyság fejlesztés a bevándorlási és állampolgársági hivatal és a rendőrség épület
-című projekt kapcsolódó az érintett épület energiafejlesztés irányuló kivitelezés kapcsolódó műszaki ellenőri feladat ellátás tárgy
+version https://git-lfs.github.com/spec/v1
+oid sha256:5b93edc12076279844cb86ff345f6a14a99c370907ff1ada7ef64f2714f7fcb9
+size 284

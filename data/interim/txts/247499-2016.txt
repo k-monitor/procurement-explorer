@@ -1,1 +1,3 @@
-A NIF Zrt. beruházásában megvalósuló, a Transzeurópai Közlekedési Hálózat – TEN-T belvízi út fejlesztéséhez kapcsolódó tervezői feladatok ellátása tervezési szerződés keretében – 2014-HU-TMC-0606-S.
+version https://git-lfs.github.com/spec/v1
+oid sha256:df982293d16f03036778f1872019ff98adb66c7f82a7a8fb20669ff3825a5fb1
+size 225

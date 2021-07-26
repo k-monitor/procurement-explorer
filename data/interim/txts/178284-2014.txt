@@ -1,1 +1,3 @@
-Szállítási szerződés 12 havi eh. orvosi vizsgáló és sebészeti kesztyűk beszerzésére.
+version https://git-lfs.github.com/spec/v1
+oid sha256:52d485a40bfd02f60677cc583602dee9b77654486e5ba051ffb39453cdde614f
+size 96

@@ -1,1 +1,3 @@
-200 000 fm. (+ opcionálisan max. 100 000 fm) H1, H2 visszatartási fokozatú acél szalagkorlát és tartozékai leszállítása a Magyar Közút Nonprofit ZRt. részére a „Közlekedésbiztonságot javító fejlesztések az országos közúthálózaton” tárgyú projekt keretében. (Kódszám: KÖZOP-3.5.0-09-11-2011-0016 ) (továbbiakban: “Vezetőkorlát 2013”)
+version https://git-lfs.github.com/spec/v1
+oid sha256:6ce61b6a1e5528cca9a74e803e2ad6b082c1a19232153675c01adfe3f3b34700
+size 374

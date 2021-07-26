@@ -1,1 +1,3 @@
-Adás-vételi szerződés keretében Ajánlatkérő az Intézmény részére Füszért áru-kényelmi termékek-mirelit termékeket 12 hónapra Kecskemét, Kiskunfélegyháza és Kalocsa telephelyekre kívánja megvásárolni.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6a3153fa0eebf944e40bb42779a51aa20b9c48dca8def7bad49d53b7fc011428
+size 226

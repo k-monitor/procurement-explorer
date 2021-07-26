@@ -1,1 +1,3 @@
-1 (egy) darab új automata töltő, palackozó és zsugorfóliázó gépsor beszerzésére.
+version https://git-lfs.github.com/spec/v1
+oid sha256:706bdd424829f11fb0e56b16fe19469ad12ea2fbb044372fde9f4052df624989
+size 91

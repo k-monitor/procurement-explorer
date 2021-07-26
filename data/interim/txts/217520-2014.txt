@@ -1,1 +1,3 @@
-Megbízási szerződés/ 1. rész: 51.sz. főút 77+917- 85+200 km.sz. (Apostag - Solt) és az 97+765 - 98+723 (Harta átkelés mellett) közötti szakaszon 115 kN tengelyterhelésre történő burkolat-megerősítés megépítéséhez kapcsolódó mérnöki és műszaki ellenőri feladatok ellátása. 2. rész: 51. sz. főút 114+652 -138+634 km.sz. (Kalocsa - M9.ap. csp.) közötti szakaszon 115 kN tengelyterhelésre történő burkolat-megerősítés és párhuzamos kerékpárút megépítéséhez kapcsolódó mérnöki és műszaki ellenőri feladatok ellátása. 3. rész: 521.sz. Solt északi elkerülő út megépítéséhez kapcsolódó mérnöki és műszaki ellenőri feladatok ellátása.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9bacf42252e388159b17e67926ffbc5d103b8b691e05c0c77ba8eaceccfcf3b4
+size 705

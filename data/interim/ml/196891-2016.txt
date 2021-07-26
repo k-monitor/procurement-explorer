@@ -1,33 +1,3 @@
-Adásvételi	adásvételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-veleszületett	veleszületett	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPast	
-vérzékenység	vérzékenység	NOUN	Case=Nom|Number=Sing	
-kezelésére	kezelés	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-szolgáló	szolgáló	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-részben	rész	NOUN	Case=Ine|Number=Sing	
-hazai	hazai	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-plazmából	plazma	NOUN	Case=Ela|Number=Sing	
-előállításra	előállítás	NOUN	Case=Sub|Number=Sing	
-kerülő	kerülő	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-,	,	PUNCT	_	
-külföldön	külföld	NOUN	Case=Sup|Number=Sing	
-feldolgozott	feldolgozott	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPast	
-nagytisztaságú	nagytisztaságú	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-VIII	8	NUM	Case=Nom|NumType=Card|Number=Sing	
-.	.	PUNCT	_	
-faktor	faktor	NOUN	Case=Nom|Number=Sing	
-koncentrátum	koncentrátum	NOUN	Case=Nom|Number=Sing	
-,	,	PUNCT	_	
-ITI	ITI	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-kezelésre	kezelés	NOUN	Case=Sub|Number=Sing	
-alkalmas	alkalmas	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-von	von	VERB	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	
-Willebrand	willebrand	NOUN	Case=Nom|Number=Sing	
-faktor	faktor	NOUN	Case=Nom|Number=Sing	
-tartalmú	tartalmú	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-készítmény	készítmény	NOUN	Case=Nom|Number=Sing	
-2016.	2016.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
-évi	évi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:69ebb59b32ecaac39ba8338c55e2ee1791289d98faf2ec3f8c729cef5c952dc3
+size 1703

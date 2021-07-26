@@ -1,13 +1,3 @@
-keretszerződés a sürgősségi betegellátás rendszeresített egyszerhasználatos anyag
-valamint orvostechnikai eszköz beszerzés és az ellátási terület történő szállítás év részajánlati kör
-ajánlatkérő
-ak
-által közzétett közbeszerzési dokumentum részletezett műszaki követelmény megfeleltethető termék részajánlati kör biztosítás történő beszerzés
-bármely rész
-az ajánlat csak új termék ajánlható meg
-nem lesz használt
-gyári felújított
-demókészülék
-ajánlatkérő felhív ajánlattevő figyelem
-hogy az ajánlatkérő által kiadott árazatlan kereskedelmi ártábla megadott tétel reprezentatív mennyiség
-amely kizárólag az ajánlat összehasonlíthatóság szolgál
+version https://git-lfs.github.com/spec/v1
+oid sha256:bbedd7f38d6eacb3f6f2ea84072ff67d821a9bd1e7fe0914686ec665433e226d
+size 729

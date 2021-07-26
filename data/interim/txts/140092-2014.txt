@@ -1,1 +1,3 @@
-Vállalkozási szerződés keretében „Árvízi kockázati térképezés és stratégiai kockázatkezelési terv készítése” (KEOP-2.5.0/B/09-12-2013-0001).
+version https://git-lfs.github.com/spec/v1
+oid sha256:6ccc741d962ea5e1445f012e5cf6f1e935eedf4fe096a356d4a044d67dd8590e
+size 162

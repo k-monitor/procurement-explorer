@@ -1,4 +1,3 @@
-szállítási keretszerződés
-tehergépjármű
-tartály és felépítmény javítás szükséges alkatrész beszerzés
-tárgy
+version https://git-lfs.github.com/spec/v1
+oid sha256:6201ee4f13d35520444a9df048df16c681373c651c23dfe4cca71fb3c8a45a6a
+size 126

@@ -1,9 +1,3 @@
-megbízási szerződés
-tárgy
-a
-kisdelta árvízi szükségtározó korszerűsítés
-azonosító szám
-keop-2
-1.1
-09-11-2011-0004
-projekt megvalósítás szükséges mérnöki és műszaki ellenőri tevékenység ellátás fidic szerződéses feltétel szerint
+version https://git-lfs.github.com/spec/v1
+oid sha256:0acc29a85492304492eb4da8d27c599fda309b6cea99f566eeb2db3af4169162
+size 261

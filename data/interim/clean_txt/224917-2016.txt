@@ -1,2 +1,3 @@
-villamosenergia-vásárlási szerződés teljes ellátás alapú kereskedelmi szerződés keret
-menetrendadási kötelezettség nélkül
+version https://git-lfs.github.com/spec/v1
+oid sha256:c0415e89d4e8f309cd313b8d6b547519c40d8fb4635382cbb747bb0fdc191882
+size 136

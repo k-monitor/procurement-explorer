@@ -1,1 +1,3 @@
-Háztartás-vegyipari és kiegészítő termékek beszerzése keretjellegű letéti raktárszerződés keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4c07d1cb7334b2f97dcebca106019eee8059afcb820be9903dec02b18e3871b8
+size 114

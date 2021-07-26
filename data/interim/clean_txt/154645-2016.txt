@@ -1,4 +1,3 @@
-villamos energia szállítás az ajánlatkérő részére
-óra
-óra
-teljes ellátás alapú villamos energia kereskedelmi szerződés keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:7a287c9d997592208a9f56e0b8d004b0896a40f0544e66c5606e61d09ce585ef
+size 139

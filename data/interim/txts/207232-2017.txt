@@ -1,1 +1,3 @@
-„Keretmegállapodás az RSZTOP-1.1.1-16-2016-00002 azonosítószámú, „Rászoruló személyek számára természetbeni juttatás biztosítása az RSZTOP-1.1.1-16 felhívás 2. szakasz keretében” elnevezésű kiemelt projekt megvalósítása során szegény gyermekes családok számára élelmiszer csomagok beszerzése” című program vonatkozásában.”
+version https://git-lfs.github.com/spec/v1
+oid sha256:457ccf826de56896a1b9ec73900ef0033a52cb7ddde02ae259a2bdd7dce8b1bf
+size 366

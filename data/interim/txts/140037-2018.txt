@@ -1,1 +1,3 @@
-MKB3/2018 - 16 000 000 kg Magyarország közigazgatási területén keletkező termékként tovább nem használható gumiabroncsok gyűjtése és őrlés útján történő hasznosítása, 2018. évben szolgáltatás-megrendelési (atipikus) szerződés keretében a környezetvédelmi termékdíjról szóló 2011. évi LXXXV. törvény 22. § (1) bekezdése alapján. 1. rész: 3 000 000 kg 2. rész: 3 000 000 kg 3. rész: 3 000 000 kg 4. rész: 3 000 000 kg 5. rész: 2 000 000 kg 6. rész: 2 000 000 kg
+version https://git-lfs.github.com/spec/v1
+oid sha256:ef899dc03346ea80bd83ad7c64865e806fcc6e1ef4a51bf03e1e6945baebd2b1
+size 508

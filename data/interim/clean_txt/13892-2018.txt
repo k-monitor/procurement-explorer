@@ -1,5 +1,3 @@
-szekszárd megyei jogú város központ és vasútállomás közeli
-egy nagy bevásárlóközpont mellett található üres terület új tudásközpont épület engedélyes és kiviteli terv elkészítés
-kialakítandó egy olyan többfunkciós épület
-mely központi aula mind a könyvtár
-mind a levéltár el+érhető
+version https://git-lfs.github.com/spec/v1
+oid sha256:f1e1596d79611bb3315c72e4016756d878916a2f2ed2fb90bdbeaae1eb82b614
+size 321

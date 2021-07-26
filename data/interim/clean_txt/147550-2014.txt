@@ -1,20 +1,3 @@
-db mikro-röntgendiffraktométer beszerzés
-a beszerez kívánt műszer egy olyan mikro-röntgendiffrakciós készülék
-amely alkalmas változatos típusú
-méretű és mennyiségű szilárd minta röntgendiffrakciós szerkezetvizsgálat
-a műszer képes nagy minta lokális
-mikrométeres nagyságrend eső részlet
-továbbá kis mennyiségű por és tömbi minta szerkezetvizsgálat
-rendelkezik nagy apertúrájú
-kétdimenziós detektor
-amely lehetséges kétdimenziós diffrakciós ábra felvétel felvétel
-a műszer alkalmas mind por-diffrakciós
-mind egykristály-diffrakciós felvétel készítés is
-a rendszer konfigurálható laue-pont vagy monokromatikus debye-kör felvétel transzmissziós vagy diffrakciós mód
-lehetőség van adatgyűjtés a teljes tartomány kristályos-amorf hányad
-fázisanalízis és krisztallit-méret meghatározás egyetlen
-a detektor mozgatás nélküli felvétel
-lehetőség van különböző jellegű mintatartó alkalmazás transzmissziós és diffrakciós felvétel porok és kisméretű minta elemzés
-továbbá görbe felületű minta vizsgálat is
-kollimátor segítség lehetőség van a mikrométeres tartomány röntgendiffrakciós elemzés
-részletes a dokumentáció
+version https://git-lfs.github.com/spec/v1
+oid sha256:906e1b91c2372d7935ccc3e5980d4574f96d802e9a2c6a03788e5b1f1d6557c6
+size 1221

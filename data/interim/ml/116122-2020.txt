@@ -1,16 +1,3 @@
-1	1	NUM	Case=Nom|NumType=Card|Number=Sing	
-db	db	NOUN	Case=Nom|Number=Sing	
-Philips	Philips	PROPN	Case=Nom|Number=Sing	
-Brilliance	Brilliance	PROPN	Case=Nom|Number=Sing	
-64	64	PROPN	Case=Nom|Number=Sing	
-CT	CT	PROPN	Case=Nom|Number=Sing	
-készülék	készülék	NOUN	Case=Nom|Number=Sing	
-karbantartása	karbantartás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-és	és	CONJ	_	
-szervizelése	szervizelés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-vállalkozási	vállalkozási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-24	24	NUM	Case=Nom|NumType=Card|Number=Sing	
-hónapra	hónap	NOUN	Case=Sub|Number=Sing	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:7315a17ab2eec7275683adc5fc0e3f19c3a374174d77d2289567c6c4e40626ec
+size 765

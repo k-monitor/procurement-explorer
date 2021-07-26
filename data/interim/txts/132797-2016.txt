@@ -1,1 +1,3 @@
-1. rész: Adásvételi szerződés kéményseprő ipari tevékenység ellátásához szükséges munkaállomások beszerzésére. 2. rész: Adásvételi szerződés kéményseprő ipari tevékenység ellátásához szükséges tabletek beszerzésére. 3. rész: Adásvételi szerződés kéményseprő ipari tevékenység ellátásához szükséges szerver beszerzésére és tárhely bővítésére.
+version https://git-lfs.github.com/spec/v1
+oid sha256:802aa439a0ed3f8e07036cfbc6951c0dd91b1aa601245a8d2c69c36be1a87041
+size 400

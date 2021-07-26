@@ -1,1 +1,3 @@
-Különféle kötszerek beszerzése a részenként meghatározottak szerint. Ajánlatkérő a részajánlat-tétel lehetőségét húsz részre biztosítja. A beszerzés mennyisége részenként kerül meghatározásra.
+version https://git-lfs.github.com/spec/v1
+oid sha256:abf47615a372a7be4c5e349beb9bef615f9949c39644f159f3cfbcf73d522657
+size 219

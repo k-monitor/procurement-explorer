@@ -1,1 +1,3 @@
-A Miskolci Egyetem 1.9.2016. 00:00 óra és 31.8.2017. 24:00 óra közötti időszakra vonatkozó 4 100 000 kWh (+ 20 %) teljes ellátás alapú, menetrend adási kötelezettség nélküli villamos energia vásárlása.
+version https://git-lfs.github.com/spec/v1
+oid sha256:280097370c4a4f2fb1240e8acfde158c66cde30c194fa090bb0d1254811dc86c
+size 219

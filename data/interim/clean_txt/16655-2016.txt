@@ -1,5 +1,3 @@
-teljes ellátás alapú villamos energia szállítás villamosenergia-kereskedelmi szerződés keret az alábbi részajánlati kör
-1. rész
-vüz nonprofit kft. profilos és idősoros fogyasztási hely villamosenergia-beszerzés
-2. rész
-vüz nonprofit kft. közvilágítási célú fogyasztási hely villamosenergia-beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:3be1291abd03c196159b64db9696cba9b3ffa42fc1393e3dadf9295fb727e070
+size 327

@@ -1,1 +1,3 @@
-Adásvételi szerződés korrelatív lézeres vágással kombinált fókuszált pásztázó elektronmikroszkóp beszerzésére. A berendezésben a fókuszált ionsugaras (Ga), vagy plazmasugaras (Xe) megmunkálás az elektronmikroszkóp vákuumkamrájában történik, a minta mozgatása nélküli elektronnyaláb általi megfigyelés lehetőségével. A korrelatív lézeres vágás külön kamrában történik a lézeres vágásból származó műszerkontamináció csökkentésére.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2683660ef68d6aa23463a729c8930c2f99e932029f324e13ad125e62a3f9f47d
+size 486

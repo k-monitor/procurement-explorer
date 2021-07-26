@@ -1,1 +1,3 @@
-kivitelezési szerződés a békés megyei központi kórház h épület részleges felújítási munka kivitelezés
+version https://git-lfs.github.com/spec/v1
+oid sha256:735ab6c5e3a1027c56e9111e3a6d72c7e99979e1c2477ea1ca02208a4cddc8d6
+size 116

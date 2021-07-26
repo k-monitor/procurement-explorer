@@ -1,1 +1,3 @@
-Adásvételi keretszerződés alapján „Általános gumitermékek beszerzése a BKV Vasúti Járműjavító Kft. részére". 1. részfeladat: ICS - KCSV-7 járműhöz általános gumi alkatrészek beszerzése 2. részfeladat: TW6000 járműhöz általános gumitermékek beszerzése 3. részfeladat: T5C5K2 járműhöz általános gumitermékek beszerzése 4. részfeladat: Szilentek, szimeringek, O-gyűrűk beszerzése 5. részfeladat: Általános gumi alkatrészek beszerzése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:83e0eed604006d1f0dea65db8889039df0da4f0e8acfe98df20f21a6dc30cf23
+size 482

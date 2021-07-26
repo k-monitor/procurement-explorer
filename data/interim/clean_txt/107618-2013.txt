@@ -1,1 +1,3 @@
-szakrendszer alkalmazástámogatás
+version https://git-lfs.github.com/spec/v1
+oid sha256:e6bab661183253adafe18292ec12185a07a538b6cfce496138c8b5a1daf3c910
+size 35

@@ -1,1 +1,3 @@
-Adásvételi keretszerződés alapján E-kerékpárok beszerzése
+version https://git-lfs.github.com/spec/v1
+oid sha256:82db92148ffa1a95722c0a4b85bfce1dba08ee51f49ee5b497efe2787c440a68
+size 65

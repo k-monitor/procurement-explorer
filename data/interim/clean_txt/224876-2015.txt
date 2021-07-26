@@ -1,7 +1,3 @@
-közúti jármű szállítás egyedi adásvételi szerződés keret
-állami tulajdonú árvízvédelmi konstrukció keop-2
-1.1
-b
-számú
-a víz kártétel elhárítás szolgáló létesítmény fenntartás és az az történő védekezés végrehajtás szolgáló eszköz
-gép és műszer beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:ece658e8a70563e2564f7604c440e47990a483503f9ebbb22a58f379c468bad1
+size 299

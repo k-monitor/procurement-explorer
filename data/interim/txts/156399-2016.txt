@@ -1,1 +1,3 @@
-Vállalkozási szerződés a Intelligens élelmiszerlánc-biztonsági elemző rendszer (INTEL) létrehozására.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4c2151fbf0db672f5d12383bb127784fb00968608c45014a7dca1e7e98a587e4
+size 112

@@ -1,1 +1,3 @@
-Adásvételi szerződések dobozos szoftverek beszerzésére az alábbi részek szerint. 1. rész: Trimble szoftverek. 2. rész: UltraMap. 3. rész: SOCET GXP. 4. rész: Summit Evolution 5. rész: BINGO.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5d9e1a426facef06c5572d8411f5f603694966ec605b53cc5e72f35b36d4d9eb
+size 203

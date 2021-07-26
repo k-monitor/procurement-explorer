@@ -1,1 +1,3 @@
-TOP-6.3.3.-16-SG1-2018-00001 projekt keretein belül Szeged, belterületi csapadékvíz elvezetés III. és IV. ütem kivitelezési munkái 3 részajánlati körben
+version https://git-lfs.github.com/spec/v1
+oid sha256:e7536b2c815cf7f805a1be901e27571c5c3402fb77a12ddc9ce7b03b60a78162
+size 164

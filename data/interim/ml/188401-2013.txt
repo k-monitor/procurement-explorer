@@ -1,17 +1,3 @@
-„	„	PUNCT	_	
-Vállalkozási	Vállalkozási	PROPN	Case=Nom|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-az	az	DET	Definite=Def|PronType=Art	
-Eldorado	eldorado	NOUN	Case=Nom|Number=Sing	
--	-	PUNCT	_	
-Elektronikus	elektronikus	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-Dokumentumküldés	dokumentumküldés	NOUN	Case=Nom|Number=Sing	
-Országos	Országos	PROPN	Case=Nom|Number=Sing	
-Rendszere	rendszer	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-,	,	PUNCT	_	
-Adatbázisa	adatbázis	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-és	és	CONJ	_	
-Dokumentumtárának	dokumentumtár	NOUN	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-megvalósítására	megvalósítás	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-"	"	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:977cacce96ec5ac253edd017b7078d5ebb8e93c6525cd913b0334e58fda7d8be
+size 793

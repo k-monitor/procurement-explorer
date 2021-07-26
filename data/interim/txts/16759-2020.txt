@@ -1,1 +1,3 @@
-Takarítási szolgáltatás ellátása
+version https://git-lfs.github.com/spec/v1
+oid sha256:472e995bdde1794dc24bd773af88d521b6b0a1a942202bf1b10cc637f239812c
+size 38

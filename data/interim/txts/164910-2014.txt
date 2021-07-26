@@ -1,1 +1,3 @@
-Vállalkozási szerződés képalkotó diagnosztikai és klinikai orvostechnikai berendezések karbantartására, javítására vonatkozóan. Az I. részajánlati körben az MH EK székhelyén és II. számú telephelyén lévő 53 darab képalkotó diagnosztikai és klinikai orvostechnikai berendezés, valamint azok tartozékainak megelőző-kijavító karbantartása. A II. részajánlati körben az MH EK székhelyén és II. számú telephelyén lévő 28 darab képalkotó diagnosztikai és klinikai orvostechnikai berendezés, valamint azok tartozékainak teljeskörű szervizszolgáltatása, továbbá 4 db korszerűsítési feladat végrehajtása.
+version https://git-lfs.github.com/spec/v1
+oid sha256:39d53e80ba192ee1b3aaf6c843383a35189ef5b1d53a647bc78255c2648a8951
+size 657

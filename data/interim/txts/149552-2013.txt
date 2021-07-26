@@ -1,1 +1,3 @@
-Adás-vételi szerződés Kalocsa Város Önkormányzata és intézményeinek fogyasztási helyei részére, a magyar elosztói hálózaton folyamatosan rendelkezésre álló, szabványos minőségű földgáz energia versenypiaci beszerzése 12 hónap (szerződéskötéstől 2014.6.30-ig, a Get. 3. § 36. szerinti gázév végéig) időtartamra, teljes ellátásalapú szerződés keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9d4d4367f78b5e708b6e93050749fa36e067b34183cf9757514651a4aeca7bbf
+size 395

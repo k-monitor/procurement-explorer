@@ -1,1 +1,3 @@
-Hungarofest Kft. által lebonyolítandó rendezvények lebonyolításához szükséges technikai, logisztikai, biztonsági tervezési és kivitelezési szolgáltatások és kellékek beszerzése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:00063f3ad1ed82c1de85289e3b0a782a61cd2cc21165e86e9e34072cb945fd18
+size 195

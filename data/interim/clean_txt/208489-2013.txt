@@ -1,4 +1,3 @@
-vállalkozási szerződés a
-sz. főút székesfehérvár nyugati elkerülő iii
-szakasz és kapcsolódó létesítmény kivitelezési feladat ellátás
-tárgy
+version https://git-lfs.github.com/spec/v1
+oid sha256:40bddf8a01ff5b3e6da36da8938cf04b301707abd552828c61cee8947d23869c
+size 159

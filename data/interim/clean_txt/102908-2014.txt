@@ -1,16 +1,3 @@
-földgáz energia szállítás hatvan város önkormányzat intézmény részére 1.7.2014
-1.7.2015
-közötti időszak vonatkozó
-teljes ellátás alapú földgáz szállítási szerződés keret
-1. rész
-földgáz energia szállítás hatvan város önkormányzat intézmény részére a m3
-h közötti lekötött teljesítmény rendelkező fogyasztási hely
-1.7.2015
-közötti időszak vonatkozó
-teljes ellátás alapú földgáz szállítási szerződés keret
-2. rész
-földgáz energia szállítás hatvan város önkormányzat intézmény részére a m3
-h alatti lekötött teljesítmény rendelkező fogyasztási hely
-1.7.2015
-közötti időszak vonatkozó
-teljes ellátás alapú földgáz szállítási szerződés keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:1cb5c43d9a98ea21bc078afb9a884985685c90cfe30e5ce632724d6248fd4cff
+size 730

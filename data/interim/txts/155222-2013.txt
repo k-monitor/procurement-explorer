@@ -1,1 +1,3 @@
-Megbízási szerződés a „Települési szilárd hulladék mechanikai-biológiai stabilizálására szolgáló rendszer kialakítása a Homokhátsági Települési Hulladékgazdálkodási Rendszerben” című KEOP-1.1.1/2F/09-11-2011-0004 azonosítószámú projekt megvalósításához szükséges szemléletformálással kapcsolatos feladatok ellátására.
+version https://git-lfs.github.com/spec/v1
+oid sha256:98cd7c2a4abf3bfc5ee0ed7c0cd1bd0c77dc1fe52a8ca83b217fe906c7704304
+size 362

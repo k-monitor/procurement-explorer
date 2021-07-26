@@ -1,2 +1,3 @@
-gumihulladék daráló-aprító gép hosszú távú bérlet
-a bérlet időtartam hónap
+version https://git-lfs.github.com/spec/v1
+oid sha256:a5cc5b793e3b3647ac1b21341a95d3f77f74e82164701cda5406e45f9004b4ed
+size 87

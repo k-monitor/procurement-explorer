@@ -1,1 +1,3 @@
-Munkaerő-kölcsönzés a BKÜ Zrt. és a BKK Zrt. egyes operatív feladataihoz szükséges humán erőforrás biztosítására
+version https://git-lfs.github.com/spec/v1
+oid sha256:604d1b25c2c4cddf0e4c65891df5afd14ca56b118e3d0bf699002989ff8e1d36
+size 127

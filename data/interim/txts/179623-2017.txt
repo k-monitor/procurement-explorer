@@ -1,1 +1,3 @@
-A beszerzés tárgya: Meglévő Symantec antivirus és anti-spam rendszer bővítése. Licence bővítés mennyisége: 3 000 db +500 db opció. License-ekhez biztosítani kell támogatást 12 hónap időtartamban. A jelenleg meglévő infrastruktúra: Symantec Anti-Virus és Anti-Spam, Gateway szintű levelezésvédelemmel, Symantec management server. Jelenleg az infrastruktúrában használt licence: „SYMC PROTECTION SUITE ENTERPRISE EDITION 4.1 PER USER INITIAL ESSENTIAL 12 MONTHS EXPRESS BAND A”.
+version https://git-lfs.github.com/spec/v1
+oid sha256:362d3b9f5978f38d26fa8b9166b7ee91a17f0044297c9cf918b1f670859b777b
+size 508

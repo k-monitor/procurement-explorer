@@ -1,12 +1,3 @@
-Budakalász	budakalász	NOUN	Case=Nom|Number=Sing	
-Város	Város	PROPN	Case=Nom|Number=Sing	
-Önkormányzat	Önkormányzat	PROPN	Case=Nom|Number=Sing	
-fenntartásában	fenntartás	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-levő	levő	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-közintézmények	közintézmény	NOUN	Case=Nom|Number=Plur	
-részére	részére	ADP	_	
-közétkeztetési	közétkeztetési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szolgáltatás	szolgáltatás	NOUN	Case=Nom|Number=Sing	
-nyújtása	nyújtás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:168820785fc67d63fb2fd6e2af2daeafa83342ccf059bba32414fb4e46af6007
+size 620

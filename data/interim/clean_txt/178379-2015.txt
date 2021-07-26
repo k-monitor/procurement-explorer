@@ -1,28 +1,3 @@
-rész vonatkozás
-vállalkozási keretszerződés gépi
-kézi
-és kerékpársáv burkolatjel festési
-valamint burkolati jel eltávolítási munka országos közút történő elvégzés
-gépi festés keret
-hagyományos
-tartós és spray-plasztik technika alkalmazás új és felújító festés
-valamint burkolatjel eltávolítás
-kerékpársáv festés keret
-hagyományos
-tartós festési technika alkalmazás új és felújító festés
-kézi festés keret
-hagyományos
-tartós festési technika alkalmazás új és felújító festés
-valamint burkolatjel eltávolítás
-a közbeszerzési műszaki leírás és szerződés-tervezet meghatározott szerint
-17. rész vonatkozás
-vállalkozási keretszerződés gépi
-hosszirányú jel
-és kézi
-keresztirányú
-burkolati jel felújítás
-új jel festés
-valamint burkolati jel eltávolítás és eltakarás a gyorsforgalmi út a közbeszerzési műszaki leírás és szerződés-tervezet meghatározott szerint
-a szerződés tárgy képező munka részletes leírás
-valamennyi rész tekintet
-az ajánlati dokumentáció rész képező közbeszerzési műszaki leírás és szerződés-tervezet tartalmaz
+version https://git-lfs.github.com/spec/v1
+oid sha256:43cec1177c3e829cc7ec1238f7ecda3dfcba4e43c19eda3386bf7ce860bb756e
+size 1156

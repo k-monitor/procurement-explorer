@@ -1,1 +1,3 @@
-Szállítási és szoftverhasználati szerződés keretében Magyarország joganyagát tartalmazó, az Ajánlatkérő és a Bíróságok hálózatán működtethető elektronikus jogi adatbázis, valamint jogszabály-nyilvántartó és -visszakereső számítógépes program szállítása, valamint kapcsolódó szolgáltatások biztosítása.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4bdfaad7fa6f8eb016f884e66c4fa004623e22939ec743397ea018546c21b6fb
+size 344

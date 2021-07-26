@@ -1,7 +1,3 @@
-szerződés meghatározás
-vállalkozási szerződés tárgya
-közlekedésbiztonság javító műszaki beavatkozás
-nyomvályú megszüntetés
-útfelújítás
-útfejlesztés megvalósítás európai uniós forrás
-rész
+version https://git-lfs.github.com/spec/v1
+oid sha256:8401041efb1e57bd96773f77b27e28c2016b29ef603bc26329dd2b35001e69db
+size 219

@@ -1,1 +1,3 @@
-„DWDM berendezés bővítése a „Közigazgatás informatikai infrastruktúrájának konszolidálása a költségek csökkentése érdekében” című (KÖFOP-1.0.0-VEKOP-15-2015-00005) projekt keretében”. Az ajánlatkérő hálózatában jelenleg is üzemelő 44 csatornás Alcatel-Lucent 1830 PSS DWDM berendezés bővítése 88 csatornásra a műszaki leírásban részletezett DWDM eszközökkel, transponder kártyákkal, az azokba illeszthető interfész modulokkal valamint szükséges licencekkel.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0cae8b887b43500704ad38463d3e52769b5ed294e4ba4d70b109630b7740d338
+size 512

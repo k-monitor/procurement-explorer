@@ -1,1 +1,3 @@
-Szállítási szerződés 12 havi csontsebészeti implantátum beszerzésére konszignációs raktár üzemeltetésével.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5f43c037850a7d400ef71fcae96959b882fd3429de96ab3c67e077cc6d41f68b
+size 121

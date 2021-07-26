@@ -1,1 +1,3 @@
-Szállítási szerződés. 1 db min. 64 szeletes CT vizsgáló berendezés beszerzése, telepítése, üzembe helyezése és teljeskörű szervizszolgáltatása.
+version https://git-lfs.github.com/spec/v1
+oid sha256:832e205bc37a1c0fd28c1dde0f7513a46010743df708992ecbc0747e5d48e0f5
+size 161

@@ -1,1 +1,3 @@
-bérleti szerződés keret a mirehuköz nonprofit kft. hulladékgyűjtési
+version https://git-lfs.github.com/spec/v1
+oid sha256:f6ded498756d7bc5413fa43546781afae83a80f5fbfaa98a96e1d6289d33da8c
+size 74

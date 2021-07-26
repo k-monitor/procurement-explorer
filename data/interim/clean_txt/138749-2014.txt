@@ -1,8 +1,3 @@
-év szóló vállalkozási szerződés a
-debreceni közterület felügyelet által üzemeltetett
-debrecen közigazgatási terület lévő piac
-a ők tartozó kiszolgáló helyiség folyamatos takarítás
-hóeltakarítás
-síkosságmentesítés
-konténeres hulladékszállítás
-az egyes piac lévő illemhely üzemeltetés és egyéb eseti jelleg végzendő feladat elvégzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:989443c5c4fd2fff3dad2dd32f573f28708f0d6311130e0d335104661bdc3abf
+size 376

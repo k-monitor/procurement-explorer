@@ -1,1 +1,3 @@
-Adásvételi szerződés csípőszegek beszerzésére, konszignációs raktárkészlet kihelyezésével 36 hónapra 2 rész az alábbiak szerint: 1. Csípőszeg combnyakcsavarral 2. Csípőszeg spirálpengével
+version https://git-lfs.github.com/spec/v1
+oid sha256:cd4d6c3ea4705627bff29c0553acd1a858458282990dcf37513929640e04301c
+size 210

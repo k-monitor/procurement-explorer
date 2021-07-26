@@ -1,12 +1,3 @@
-Állami	Állami	PROPN	Case=Nom|Number=Sing	
-Légiszállító	légiszállító	NOUN	Case=Nom|Number=Sing	
-Flotta	flotta	NOUN	Case=Nom|Number=Sing	
--	-	PUNCT	_	
-szállítógép	szállítógép	NOUN	Case=Nom|Number=Sing	
-beszerzés	beszerzés	NOUN	Case=Nom|Number=Sing	
-,	,	PUNCT	_	
-a	a	DET	Definite=Def|PronType=Art	
-hozzá	ő	PRON	Case=All|Number=Sing|Person=3|PronType=Prs	
-tartozó	tartozó	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-kiképzéssel	kiképzés	NOUN	Case=Ins|Number=Sing	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:3100aaa469aa70cd39896b9c01a125f63a28f265f923b1f56903e6b8f196167b
+size 500

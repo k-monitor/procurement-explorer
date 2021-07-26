@@ -1,1 +1,3 @@
-Granulocita aferezis rendszer biztosítása, amely rendszer tartalmazza a granulocita aferezis szerelékek felhasználásához szükséges, a jelen műszaki specifikációban részletezett, az egyszer használatos granulocita aferezis szerelékekre validált és azokkal kompatibilis, új (első alkalommal használatba vételre kerülő, a korábbiakban még nem használt) készülék használati jogának biztosítását a szerződéskötést követő 10. naptól a szerződés hatályának lejártáig, a használatba adott készülék használati idő alatti folyamatos működőképességének biztosításával járó feladatok ellátását, valamint a készülékkel kompatibilis és a készülékre validált egyszer használatos granulocita aferezis szerelékeket – Adásvételi szerződéssel vegyes használati szerződés.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c0e31d227f41162ca65f14ae170dcdde2458b3f4db57466c605bfc8685b0c55c
+size 837

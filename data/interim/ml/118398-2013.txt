@@ -1,22 +1,3 @@
-A	a	DET	Definite=Def|PronType=Art	
-NAV	NAV	PROPN	Case=Nom|Number=Sing	
-Oracle	Oracle	PROPN	Case=Nom|Number=Sing	
-alapú	alapú	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-rendszereinek	rendszer	NOUN	Case=Gen|Number=Plur|Number[psor]=Sing|Person[psor]=3	
-minőségbiztosítási	minőségbiztosítási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-támogatásához	támogatás	NOUN	Case=All|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-Oracle	Oracle	PROPN	Case=Nom|Number=Sing	
-Advanced	Advanced	PROPN	Case=Nom|Number=Sing	
-Customer	Customer	X	_	
-Services	Services	PROPN	Case=Nom|Number=Sing	
-(	(	PUNCT	_	
-ACS	ACS	PROPN	Case=Nom|Number=Sing	
-)	)	PUNCT	_	
-szolgáltatás	szolgáltatás	NOUN	Case=Nom|Number=Sing	
-nyújtása	nyújtás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-a	a	DET	Definite=Def|PronType=Art	
-dokumentációban	dokumentáció	NOUN	Case=Ine|Number=Sing	
-részletezettek	részletezett	NOUN	Case=Nom|Number=Plur	
-szerint	szerint	ADP	_	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:4168c3f0b1b15586b6aab2cba148595c885e0406b02ab347c553b8389985f07f
+size 965

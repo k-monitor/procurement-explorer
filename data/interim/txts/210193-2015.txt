@@ -1,1 +1,3 @@
-Vállalkozási szerződés a Budapest, Hold u. 7. sz. épület számítógéptermeiben üzemelő erősáramú-, gépészeti berendezések és üzemfelügyeleti rendszerelemek üzemeltetésére és karbantartására vonatkozóan a műszaki leírásban részletezettek szerint.
+version https://git-lfs.github.com/spec/v1
+oid sha256:740d1bad46b2594852e31e49c8da13a880b78d8257c3b9b20bd8569847cce83f
+size 275

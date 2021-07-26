@@ -1,1 +1,3 @@
-Adásvételi szerződés alapján különféle élelmiszer alapanyagok beszerzése 6 részajánlattételi körben.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1b953fcb770ea242fff254c1320ef2bc0e0ee8a77855916e53f36391896c38e5
+size 114

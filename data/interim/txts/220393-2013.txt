@@ -1,1 +1,3 @@
-Megbízási szerződés a 21. sz. főút 17+000-21+520 km sz. közötti szakasz négynyomúsítás építéséhez kapcsolódó mérnöki és műszaki ellenőri feladatok ellátására.
+version https://git-lfs.github.com/spec/v1
+oid sha256:acc5cf59dd34deae3eb33ef4e539530dc467a4137373888fb3e038ebd248d35e
+size 184

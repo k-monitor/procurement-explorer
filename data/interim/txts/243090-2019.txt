@@ -1,1 +1,3 @@
-«Élőerős őrzés-védési szolgáltatás és portaszolgálat ellátása a Pécs Megyei Jogú Város Önkormányzata épületeiben»
+version https://git-lfs.github.com/spec/v1
+oid sha256:29d2c91230131a23355eede7d71d08f043e674b4c92c598edd8ffa94d86772e4
+size 135

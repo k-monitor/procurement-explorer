@@ -1,1 +1,3 @@
-Rendezvényszervezési szolgáltatások (hallgatói rendezvények) beszerzése a Budapesti Gazdasági Egyetem részére.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cce3811898f33f2ede0b5e35c62e39c1664ea3c2751563947e53a5d6def5bdd0
+size 120

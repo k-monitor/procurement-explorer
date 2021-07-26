@@ -1,1 +1,3 @@
-Építési szerződés „Héhalom agglomeráció - Héhalom, Szirák, Palotás, Egyházasdengeleg, Kisbágyon - szennyvízelvezetése és tisztítása” (pályázat azonosító száma: KEOP-1.2.0/09-11-2011-0027) FIDIC Könyv szerződéses feltételei szerint.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a65937b2574d23aa3bfdff6239dad05958cae83510ab2a9f82f7374544b79912
+size 262

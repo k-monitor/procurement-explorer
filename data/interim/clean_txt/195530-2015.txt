@@ -1,1 +1,3 @@
-adásvételi szerződés keret kötszer beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:0a3c612fe473dffb6a35320feb677c69ff0026db73d3665a09a903eda896c50c
+size 50

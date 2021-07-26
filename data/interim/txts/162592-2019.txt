@@ -1,1 +1,3 @@
-Elektronikus Egészségügyi Szolgáltatási Tér (EESZT) alkalmazás üzemeltetés támogatása, eseti konzultációs szolgáltatások biztosítása és továbbfejlesztések megvalósítása. Részletes feltételek az ajánlati felhívásban és a műszaki leírásban.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5edc9f6412552d06ae6c393ec3c5259c2b821f86f79be4b27cd74612b09cf3f9
+size 270

@@ -1,2 +1,3 @@
-meglévő ejbca szoftver licensz követés és támogatási szolgáltatás
-support
+version https://git-lfs.github.com/spec/v1
+oid sha256:824cab5a97d666e23d0e4656f915209a9fcbccd4aca95038dc71c76c79269bf5
+size 82

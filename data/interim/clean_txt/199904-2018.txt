@@ -1,8 +1,3 @@
-a modern város program keret a
-smart grid rendszer kialakítás 1. ütem
-tárgyú projekt kapcsolódó tervezési és elemzési feladat ellátás
-iktatószám
-gf
-szkf
-2017.
-tervezési szerződés keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:f6b75773a52b9c9639e2177ab1ca15f8b834bb6865d67c7278bfb83c84d69042
+size 202

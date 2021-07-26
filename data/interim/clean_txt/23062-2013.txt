@@ -1,25 +1,3 @@
-vállalkozási szerződés a szegedi tudományegyetem számítástechnikai eszköz átalánydíjas rendszergazdai felügyelet
-karbantartás és eseti javítás
-keretmegállapodásos eljárás keret
-a szolgáltatás cél a számítástechnikai eszköz működés folyamatos biztosítás
-a szolgáltatás vonatkozik a hardver
-alkatrész
-részegység
-és szoftver elem is
-az eljárás keret a
-munkaállomás
-és
-szerver
-definíció szerint jelent az egység kezelendő számítógép között a kapcsolódó billentyűzet
-egér
-monitor
-hangszóró
-laptop eset dokkoló egység és egyéb közvetlen kapcsolódó eszköz
-továbbá a számítógép telepített alkalmazás
-mint operációs rendszer és felhasználói program
-a hardver legfeljebb a központosított közbeszerzés el+érhető alacsony ellenérték lesz leszállít
-garancia rendelkező meghibásodott eszköz garanciális ügyintézés az ajánlatkérő meghatalmazás meg+felelő
-a szolgáltatás keret a vállalkozó a felügyelt eszköz tekintet a hardver és szoftver elem naprakész nyilvántartás kell vezetnie
-az ajánlatkérő által előírt és rendelkezés bocsátott forma
-az eljárás keret a munkaóra
-munkanap reggel óra
+version https://git-lfs.github.com/spec/v1
+oid sha256:a5f5f2f010f58f5602ff885bf9233dac2ec2b9c7f0cdf6de9be1c25944bf0a49
+size 1199

@@ -1,16 +1,3 @@
-régészeti célú gépjármű beszerzés
-1. rész
-db régészeti célú terepjáró gépkocsi
-pick-up
-beszerzés
-ii
-rész
-db régészeti célú duplafülkés
-személy+zárt áruszállító
-gépkocsi beszerzés
-iii
-rész
-db régészeti célú személygépkocsi beszerzés
-adásvételi szerződés
-e
-keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:589af89c31c27c2e81c8b12ebbb97e0c5716908d9da28018bf4fb93b5be1225f
+size 304

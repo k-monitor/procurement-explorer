@@ -1,1 +1,3 @@
-I. Rész: Megvalósíthatósági tanulmány készítése Ajánlatkérő üzemeltetésében lévő gyorsforgalmi úthálózaton - a KÖZOP-1.5-0-09-11-2011-0010 számú támogatási szerződés keretében - megvalósítandó (építési engedélyezési eljárás nélküli) közlekedésbiztonsági beruházásokhoz. II. Rész: Megvalósíthatósági tanulmány készítése Ajánlatkérő üzemeltetésében lévő gyorsforgalmi úthálózaton - a KÖZOP-1.5-0-09-11-2011-0011 számú támogatási szerződés keretében - megvalósítandó (építési engedélyköteles) közlekedésbiztonsági beruházásokhoz.
+version https://git-lfs.github.com/spec/v1
+oid sha256:19a669e1228ca9103b683052908a46ccab0a0496c22f17da4d2bbba0c8be0b41
+size 612

@@ -1,17 +1,3 @@
-Takarítási	takarítási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szolgáltatás	szolgáltatás	NOUN	Case=Nom|Number=Sing	
-megrendelése	megrendelés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-a	a	DET	Definite=Def|PronType=Art	
-Hajdú-Bihar	Hajdú-Bihar	PROPN	Case=Nom|Number=Sing	
-Megyei	Megyei	PROPN	Case=Nom|Number=Sing	
-Rendőr-főkapitányság	Rendőr-főkapitányság	PROPN	Case=Nom|Number=Sing	
-részére	részére	ADP	_	
-,	,	PUNCT	_	
-kilenc	kilenc	NUM	Case=Nom|NumType=Card|Number=Sing	
-részre	rész	NOUN	Case=Sub|Number=Sing	
-(	(	PUNCT	_	
-részfeladatra	részfeladat	NOUN	Case=Sub|Number=Sing	
-)	)	PUNCT	_	
-vonatkozóan	vonatkozó	ADJ	Case=Ess|Degree=Pos|Number=Sing|VerbForm=PartPres	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:6bb41b35409cc0d48dfb46eb0beb955790a81a1087302fd1b5b3a332289621e8
+size 724

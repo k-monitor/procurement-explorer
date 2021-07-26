@@ -1,1 +1,3 @@
-Közétkeztetési feladatok ellátása.
+version https://git-lfs.github.com/spec/v1
+oid sha256:85932c004a3d17e3955f51a77d9039b0a07c5a8e90db9d51d9b926853ebbd1f9
+size 39

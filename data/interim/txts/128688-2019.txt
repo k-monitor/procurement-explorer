@@ -1,1 +1,3 @@
-Távoktatási licenszek beszerzése
+version https://git-lfs.github.com/spec/v1
+oid sha256:b88548c92492d9876547c732699e1b882eb491888105acfade8674a36f2e67a0
+size 35

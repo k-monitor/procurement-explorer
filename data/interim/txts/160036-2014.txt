@@ -1,1 +1,3 @@
-Kölcsönszerződés keretében beruházási célú fejlesztési hitel felvétele
+version https://git-lfs.github.com/spec/v1
+oid sha256:32a3ebb77bd69fa2a08858e0b3886b144c3f5fd919593f9dcaf9bf3511614ab9
+size 81

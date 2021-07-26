@@ -1,24 +1,3 @@
-A	a	DET	Definite=Def|PronType=Art	
-Pénzügyminisztérium	Pénzügyminisztérium	PROPN	Case=Nom|Number=Sing	
-által	által	ADP	_	
-használt	használt	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPast	
-WorkflowGen	WorkflowGen	PROPN	Case=Nom|Number=Sing	
-alapú	alapú	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-workflow	workflow	NOUN	Case=Nom|Number=Sing	
-rendszerhez	rendszer	NOUN	Case=All|Number=Sing	
-kapcsolódó	kapcsolódó	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-fejlesztési	fejlesztési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-feladatok	feladat	NOUN	Case=Nom|Number=Plur	
-ellátása	ellátás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-,	,	PUNCT	_	
-szoftverkövetés	szoftverkövetés	NOUN	Case=Nom|Number=Sing	
-és	és	CONJ	_	
-gyártói	gyártói	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-terméktámogatás	terméktámogatás	NOUN	Case=Nom|Number=Sing	
-valamint	valamint	CONJ	_	
-felhasználói	felhasználói	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-és	és	CONJ	_	
-üzemeltetői	üzemeltetői	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-támogatás	támogatás	NOUN	Case=Nom|Number=Sing	
-biztosítása	biztosítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:c13f6b34f96f72b74f486a59210460603df13b4169660fe6e0f963661398c2a7
+size 1198

@@ -1,12 +1,3 @@
-Szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-meghatározása	meghatározás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-:	:	PUNCT	_	
-Adásvételi	adásvételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-.	.	PUNCT	_	
-
-Útjavítás	útjavítás	NOUN	Case=Nom|Number=Sing	
-gépeinek	gép	NOUN	Case=Gen|Number=Plur|Number[psor]=Sing|Person[psor]=3	
-beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:bf9d49e1032456a14998aecec6ffa096d1ab8caa77d50152f5641a26c595c1df
+size 508

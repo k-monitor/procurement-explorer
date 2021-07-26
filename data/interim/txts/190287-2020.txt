@@ -1,1 +1,3 @@
-Az ezen eljárást meghirdető felhívás alapján lebonyolításra kerülő közbeszerzési eljárás keretében az Ajánlatkérő a szerződés hatálybalépésétől számított egy évben szükséges röntgen kontrasztanyagok beszerzését kívánja biztosítani 10 részben. A nyertes ajánlattevőként szerződő fél szerződésszerű teljesítésének részét képezi a termék Ajánlatkérő által megjelölt teljesítési helyre történő leszállítása, a fuvareszközről történő lerakása. A termékek teljesítéskori felhasználhatósági idejének a teljesítés napjától számítva minimálisan 1 évnek kell lennie. A részletes specifikációt és mennyiséget a Közbeszerzési Dokumentumok mellékletét képező Műszaki Leírás tartalmazza.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5151d84a7cec325898349fa77152e405056baaa18ed4daf7877b7c350aadd436
+size 774

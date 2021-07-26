@@ -1,4 +1,3 @@
-őrzés-védelmi szolgálat ellátás az országos mentőszolgálat budapest 5. ker. markó utcai központ
-a
-ker. róbert károly körúti és a
-ker. alkotás utcai telephely
+version https://git-lfs.github.com/spec/v1
+oid sha256:441753e8436f2e0567c71a99bd0946a8b2c13bd53b3eff75195529a94bf75331
+size 174

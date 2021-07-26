@@ -1,6 +1,3 @@
-ajánlatkérő az intézmény részére 2012. december 31.
-ig szükséges különféle laboratóriumi diagnosztikum kíván megvásárol
-egyrészt a saját tulajdon lévő laboratóriumi készülék működtetés
-másrészt pedig a
-immunológia fejezet eset különféle laboratóriumi készülék kihelyezés együtt
-továbbá a használat adás kerülő készülék on-line csatlakozás biztosítás megrendelő informatikai rendszer
+version https://git-lfs.github.com/spec/v1
+oid sha256:467229080ed9ba11a581bee32b315ad4cdc7ecac8a71384e59436e9b5594ef4d
+size 435

@@ -1,1 +1,3 @@
-takarítási munka a dél-budai egészségügyi szolgálat közhasznú nonprofit kft. részére
+version https://git-lfs.github.com/spec/v1
+oid sha256:e40dc5049bc6b311c740d041c865e64b1e100ef4fdd450eecf8f7773894ecab2
+size 95

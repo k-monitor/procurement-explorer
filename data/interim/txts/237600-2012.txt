@@ -1,1 +1,3 @@
-A Magyar Nemzeti Bank (MNB) integrált statisztikai (ISTAT) rendszerének továbbfejlesztése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a82bf0367614c713bb80e4d166c7a9afb8522215bae2ab0e2a8343bb2ac8b275
+size 94

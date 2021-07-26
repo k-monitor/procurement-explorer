@@ -1,1 +1,3 @@
-Adásvételi keretszerződés keretében I. részajánlatban Burkoló anyagok beszerzése összesen 200 millió keretösszeg erejéig. Adásvételi keretszerződés keretében II. részajánlatban természetes előkészített kőburkolatok és kőtömbök beszerzése összesen 220 millió keretösszeg erejéig.
+version https://git-lfs.github.com/spec/v1
+oid sha256:79c41030c599c5e9b3bae77f55b28fbeef28dc79b0e6adebf2fc033c5ea62d2c
+size 312

@@ -1,4 +1,3 @@
-hitelszerződés
-veszprém
-mfb önkormányzati infrastruktúra-fejlesztési program hitelcél meghatározott állami árfolyam-garancia támogatott huf összegű beruházási és felújítási hitel felvétel
-az ajánlattételi dokumentáció részletezett beruházási és felújítási cél
+version https://git-lfs.github.com/spec/v1
+oid sha256:f16ccf4c5e0ee1a1a31af3d4f01995dadecda92848a23d55dfcdd9b103d3a94a
+size 292

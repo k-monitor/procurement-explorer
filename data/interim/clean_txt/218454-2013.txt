@@ -1,11 +1,3 @@
-tervezési szerződés
-a
-sz
-és
-sz
-főút
-távlati m9
-és az m7 autópálya közötti szakasz fejlesztés vonatkozó környezeti hatástanulmány elkészítés
-valamint az 1. tervezési szakasz
-somogyaszaló elkerülő út
-engedélyezési és kiviteli terv elkészítés
+version https://git-lfs.github.com/spec/v1
+oid sha256:fd092d370ec22d808fcd463434dbf68dff90d627d8979fec374eb28d449a3d13
+size 270

@@ -1,1 +1,3 @@
-Hossztoldó sor szerszámgép végtelen préssel.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9a4b7926cea887b8b8e19eea260574ed5ebc15c30b85a26685381f1a1aa91aad
+size 49

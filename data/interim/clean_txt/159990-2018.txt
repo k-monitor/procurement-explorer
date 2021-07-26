@@ -1,5 +1,3 @@
-tervezési szerződés keret ajánlatkérő mosdósi telephely található ágyas pavilon épület rekonstrukció szükséges kiviteli terv megrendelés
-a részajánlattétel lehetőség ajánlatkérő nem biztosít
-tekintet az
-hogy a jelen közbeszerzési eljárás tárgy egy épület rekonstrukció kiviteli tervezés vonatkozik
-amely egység és összhang elengedhetetlen a megfelelő kivitelezés érdek
+version https://git-lfs.github.com/spec/v1
+oid sha256:4663d1210b60aaae38402df2a04b0ca564207979e6d37db5923c19c1ca0e3989
+size 408

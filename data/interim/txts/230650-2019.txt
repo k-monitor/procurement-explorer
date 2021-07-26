@@ -1,1 +1,3 @@
-Csákvár Város közigazgatási területén lévő közintézmények részére közétkeztetési szolgáltatás nyújtása vállalkozási szerződés keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ce148a42553e64ccbdc639f719ae586d4527e7d7fe6d8536282644fb1100c6ac
+size 162

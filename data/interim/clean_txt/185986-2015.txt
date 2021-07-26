@@ -1,3 +1,3 @@
-szerződés meghatározás
-vállalkozási keretszerződés tárgya
-rendezvényszervezési és kapcsolódó feladat ellátás a hungarocontrol zrt. számára
+version https://git-lfs.github.com/spec/v1
+oid sha256:77d73679ce350ab30714cc4d8e67c2d707a93aae68b2a79d9826b47fdd8ae67e
+size 156

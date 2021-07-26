@@ -1,4 +1,3 @@
-szerződés meghatározás
-hitelszerződés
-szerződés tárgy
-fejlesztési célú hitel nyújtás pécs megyei jogú város önkormányzata által már folyamat lévő és elnyert pályázat
+version https://git-lfs.github.com/spec/v1
+oid sha256:2a9e8d13048dceb917470810afa151e1dd9da5f4b92ba5000bdaa01a482b17ad
+size 191

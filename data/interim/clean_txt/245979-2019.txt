@@ -1,13 +1,3 @@
-nyertes ajánlattevő feladat valamennyi közbeszerzési rész vonatkozás az ajánlati felhívás
-a szerződés melléklet szereplő
-a kiviteli terv is tartalmazó
-műszaki dokumentáció
-a további
-műszaki dokumentáció
-meghatározott
-a nyertes ajánlattevő ajánlat és ajánlatkérő utasítás
-valamint egyéb szakmai szokás
-hatályos jogszabály meg+felelő az efop-4
-2-16-2017-00001 azonosítószámú
-skill labor fejlesztés
-projekt oktató kórház skill labor kialakítás szükséges helyiség felújítás
+version https://git-lfs.github.com/spec/v1
+oid sha256:b00fd22eaae322884093c9c9e4a6fd1dde755494e39a4ec96130df2825790238
+size 521

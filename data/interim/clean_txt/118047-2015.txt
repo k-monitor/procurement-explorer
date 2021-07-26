@@ -1,1 +1,3 @@
-kötszer beszerzés határidős adásvételi szerződés keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:cc9306e25b4b80db481d6c654eab8177d5b25b49b0756f54aba3dcceab6029bc
+size 62

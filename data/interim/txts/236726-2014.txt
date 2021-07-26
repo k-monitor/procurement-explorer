@@ -1,1 +1,3 @@
-Hitelszerződés az MFB Önkormányzati Infrastruktúrafejlesztési Program keretében helyi közutak építése, felújítása, valamint közvilágítás fejlesztési hitelcélokra.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1b5f42ac3adfe05a9a92d08b1836b2fc557b5116e3c05c9ddfa1f1a1ccad82fb
+size 182

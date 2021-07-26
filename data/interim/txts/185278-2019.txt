@@ -1,1 +1,3 @@
-Szállítási szerződés keretében SMJVÖ helyi központosított közbeszerzéshez tartozó intézményeinek élelmiszernyersanyagigényének ellátása. AK a teljes mennyiségtől valamennyi rész tekintetében, összességében - 30 %-kal eltérhet. A teljes mennyiségre vonatkozó részletes információkat - részenként - a közbeszerzési dokumentum tartalmazza
+version https://git-lfs.github.com/spec/v1
+oid sha256:c365926e43966898ba04f48b6494ff4a9af6d1ef6740ce620f0e337b35dbb0ce
+size 371

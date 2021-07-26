@@ -1,1 +1,3 @@
-szállítási keretszerződés alap képalkotó diagnosztikai eszköz beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:6b8c8f9a3e742ee2f560d936201e3bfe8ad142dd780bb82fba1e2a751a59ce6c
+size 80

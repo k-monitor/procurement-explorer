@@ -1,1 +1,3 @@
-Rehabilitációs orvostechnológiai berendezések beszerzése az EFOP-2.2.19-17-2017-00006 Azonosítószámú, Járóbeteg szakellátó szolgáltatások fejlesztése az SZSZBMK-ban című projekt keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8c55388494278780004b89f5ae1054063852022ea82459276a4be5e8a476245c
+size 207

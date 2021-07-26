@@ -1,1 +1,3 @@
-Országos író,- irodaszer beszerzés a műszaki leírásban részletezettek alapján.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9756100cbeb24a53017dee6c5a48f99401dee3cfee10b72c8056a0b2d0aecca0
+size 87

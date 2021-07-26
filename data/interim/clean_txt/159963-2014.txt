@@ -1,1 +1,3 @@
-huf folyószámlahitel keret biztosítás az alba volán zrt. és huf folyószámlahitel keret biztosítás a vértes volán zrt. részére
+version https://git-lfs.github.com/spec/v1
+oid sha256:b304ea0db5792bef0a1c9a6f2c473261e99463fa85b90db91112ad3f12bb027d
+size 139

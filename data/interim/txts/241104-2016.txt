@@ -1,1 +1,3 @@
-File server háttértár 60 db beszerzése a műszaki leírásban részletezettek szerint.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4eb23fc84cb0e129827d1be9a0bdb2b98605df70165d5b12a87c99d58c021a6a
+size 90

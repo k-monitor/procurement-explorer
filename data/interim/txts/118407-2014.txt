@@ -1,1 +1,3 @@
-Adásvételi szerződés földgáz-beszerzés tárgyában Szentendrén.
+version https://git-lfs.github.com/spec/v1
+oid sha256:39e532b56f3487f530c12f26e6f9bce8782a52a7b1746041976c24d30ff52527
+size 71

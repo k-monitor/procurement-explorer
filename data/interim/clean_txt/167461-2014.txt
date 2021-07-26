@@ -1,4 +1,3 @@
-beszerzés tárgy
-adásvételi szerződés
-oltóanyag határidős adásvétel
-az ajánlatkérő az egyes rész megjelölt oltóanyag határidős adásvétel cél folytat jelen közbeszerzési eljárás
+version https://git-lfs.github.com/spec/v1
+oid sha256:672e7e67f98d86c0397748b02e38a6b7df3d5a76cbfa5018573e75c7308114b0
+size 201

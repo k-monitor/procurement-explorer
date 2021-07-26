@@ -1,1 +1,3 @@
-adásvételi szerződés műtéti izolációs anyag beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:88be6780709a6ca285e46477155fe43bcafcb1bfe8c76cf75385c1c1b32b0fd5
+size 62

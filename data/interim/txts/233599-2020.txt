@@ -1,1 +1,3 @@
-Szivattyúk beszerzése 5 részben a Körös-vidéki Vízügyi Igazgatóság részére
+version https://git-lfs.github.com/spec/v1
+oid sha256:15b5d355e93249bffbec36e3e931ed384647fcee7348b18a453123cec388fb56
+size 86

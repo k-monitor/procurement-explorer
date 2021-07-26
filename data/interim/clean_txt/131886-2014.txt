@@ -1,1 +1,3 @@
-rulírozó hitelfelvétel az mvk miskolc városi közlekedési zrt. projekt kapcsolatos áfa és támogatási összeg előfinanszírozás
+version https://git-lfs.github.com/spec/v1
+oid sha256:8aeaba37e49075bba9228e4f45e7ce1023d770b1de8700fae8d213d191e8f840
+size 137

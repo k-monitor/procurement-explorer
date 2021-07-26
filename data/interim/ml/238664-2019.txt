@@ -1,14 +1,3 @@
-Szent	Szent	PROPN	Case=Nom|Number=Sing	
-István	István	PROPN	Case=Nom|Number=Sing	
-Király	király	PROPN	Case=Nom|Number=Sing	
-Múzeum	Múzeum	PROPN	Case=Nom|Number=Sing	
-Rendház	rendház	NOUN	Case=Nom|Number=Sing	
-műemléki	műemléki	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-épületének	épület	NOUN	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-rekonstrukciója	rekonstrukció	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-,	,	PUNCT	_	
-bővítése	bővítés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-vállalkozási	vállalkozási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:3bcd417a71d11c7594df3ffdeb2751f496e38c811f3255aba378794c601713fb
+size 743

@@ -1,4 +1,3 @@
-adásvételi szerződés keret ct-berendezés beszerzés a somogy megyei kaposi mór oktató kórház részére a keop-5
-6.0
-e
-jelű projekt keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:30bd387567ef6b1b2c5881de52d96e3985ae00ad214a8bf14c19616c3ce7c6b3
+size 146

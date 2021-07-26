@@ -1,3 +1,3 @@
-közszolgáltatási szerződés alap a közszolgáltató feladat mezőkovácsháza város közigazgatási terület keletkező hulladékgazdálkodási közszolgáltatás kör tartozó hulladék rendszeres begyűjtés
-átvétel
-és a műszaki leírás megjelölt valamelyik ártalmatlanító hely történő szállítás
+version https://git-lfs.github.com/spec/v1
+oid sha256:0ed5cc598bc524f6717e4e54766c3b261da9daddb433be7ad74149d15824f0b0
+size 318

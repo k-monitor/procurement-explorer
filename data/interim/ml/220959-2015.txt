@@ -1,14 +1,3 @@
-Biztosítási	Biztosítási	PROPN	Case=Nom|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-egészségbiztosítási	egészségbiztosítási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szolgáltatásra	szolgáltatás	NOUN	Case=Sub|Number=Sing	
-az	az	DET	Definite=Def|PronType=Art	
-SZTE	szte	PRON	Case=Nom|Number=Sing|Person=2|PronType=Prs	
-külföldi	külföldi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-hallgatóinak	hallgató	NOUN	Case=Gen|Number=Plur|Number[psor]=Sing|Person[psor]=3	
-és	és	CONJ	_	
-külföldi	külföldi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-kutatóinak	kutató	NOUN	Case=Gen|Number=Plur|Number[psor]=Sing|Person[psor]=3	
-részére	rész	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:310415e75930de70e0bf676782266a4595db963784f2cf33696e1fc2392edf90
+size 735

@@ -1,1 +1,3 @@
-Biztosítási szerződés.
+version https://git-lfs.github.com/spec/v1
+oid sha256:24f93217fa2dcb64efedfe8cecd030270809bc7615a1ee139e1703ac11c239a7
+size 26

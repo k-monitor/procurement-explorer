@@ -1,1 +1,3 @@
-Szállítási szerződés - Munkaruha és egyéni védőfelszerelés szállítására.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e436bbe9b1088910d1e7c247d66e40bb18d67e0854cca6ee9d7e48811f72c98c
+size 86

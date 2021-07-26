@@ -1,1 +1,3 @@
-szállítási szerződés alap földgáz beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:ceddb1968ec3f22f8294a8ae6507229df880eda3a642427acc0453404cf66479
+size 51

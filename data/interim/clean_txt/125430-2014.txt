@@ -1,2 +1,3 @@
-határidős adásvételi szerződés
-szemészeti műlencse és egyéb speciális szemészeti anyag szállítás a dokumentáció részletezett szerint
+version https://git-lfs.github.com/spec/v1
+oid sha256:ac2b9d9d124d3e2fb471de2bf36da9c7e25cd0ab468c7be90227f57274b5c547
+size 150

@@ -1,19 +1,3 @@
-Adásvételi	adásvételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-Kölyök-atlétikai	Kölyök-atlétikai	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-oktatási	oktatási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-program	program	NOUN	Case=Nom|Number=Sing	
-keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-speciális	speciális	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-kölyök-atlétikai	kölyök-atlétikai	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-eszközcsomagok	eszközcsomag	NOUN	Case=Nom|Number=Plur	
-beszerzésére	beszerzés	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-,	,	PUNCT	_	
-és	és	CONJ	_	
-meghatározott	meghatározott	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPast	
-iskolák	iskola	NOUN	Case=Nom|Number=Plur	
-részére	részére	ADP	_	
-történő	történő	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-kiszállítására	kiszállítás	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:5b8004d405f961d869f31c5961aa1bd7ad77be90fd21ff0ac26208d7b5778744
+size 1016

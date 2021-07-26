@@ -1,3 +1,3 @@
-vállalkozási szerződés a bács-kiskun megyei kormányhivatal épület takarítási szolgáltatás ellátás és higiéniás termék biztosítás ajánlattevő feladat
-1. a közbeszerzési dokumentum meghatározott helyszín takarítási szolgáltatás ellátás
-2. az egyes teljesítési helyszín a közbeszerzési dokumentum meghatározott higiéniás termék szállítás
+version https://git-lfs.github.com/spec/v1
+oid sha256:e05b9c527b4911422e038c0ca1a8378b876f9575b9b26c3cd313e77c160070d5
+size 378

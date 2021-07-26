@@ -1,35 +1,3 @@
-takarítási
-továbbá síkosságmentesítési és hóeltakarítási szolgáltatás nyújtás keretszerződés alap a pécsi vagyonhasznosító zrt. részére az alábbi szerint
-1. rész
-vásártér takarítás
-2. rész
-vásárcsarnok takarítás valamint hó
-és síkosságmentesítés
-3. rész
-diana téri piac
-hajnóczy u. - piac
-siklósi út 68. sz. alatt található telephely
-búza tér
-b. sz. alatti irodaház
-felsőmalom u.
-2. sz. alatti irattár
-király u.
-sz. alatti exi bank
-dobó i. u. 89. sz. alatti ingatlan
-expo center és a búza téri mélygarázs takarítás
-valamint hó
-és síkosságmentesítés
-4. rész
-finn u. 2
-az
-alatti iparterület
-rákóczi u.
-rákóczi u. 11., felsőmalom u. 13., felsőmalom u. 23.
-park mozi
-koller u.
-park mozi
-rákóczi út 50.
-rossmann
-ingatlan tartozó út és járda hó
-és síkosságmentesítés
-a szolgáltatás részletes leírás és szerződéses feltétel a közbeszerzési dokumentum tartalmaz
+version https://git-lfs.github.com/spec/v1
+oid sha256:2b46207ffd1ed70e22158dc4ffaa04de18dc49895d811ac36d47c68ec4999b99
+size 953

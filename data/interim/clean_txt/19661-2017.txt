@@ -1,12 +1,3 @@
-a közbeszerzés cél az mfb magyar fejlesztési bank zártkörű működő részvénytársaság európai uniós és hazai forrású pénzügyi eszköz
-termék kommunikáció kapcsolódó szolgáltatás beszerzés
-ajánlattevő feladat az ajánlatkérő marketingkommunikációs tevékenység kapcsolódó a következő feladat határidő és szakszerű történő ellátás
-átfogó kreatív koncepció kidolgozás
-kreatív és online kampány tervezés
-lebonyolítás
-kreatív anyag gyártás
-média felület foglalás és vásárlás
-piac
-és közvélemény kutatási
-nyomda
-grafikai tervezés és egyéb produkciós feladat ellátás
+version https://git-lfs.github.com/spec/v1
+oid sha256:9f108925e4e7484ea65e7084a741c8d7742acdbb6345b8ddd148f2dbd6cca4bc
+size 637

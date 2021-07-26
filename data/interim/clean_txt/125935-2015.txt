@@ -1,3 +1,3 @@
-bérleti szerződés
-a 2015-ös forma 1 magyar nagydíj magyar adás megvalósítás szükséges hd mobil közvetítő egység bérlet
-műszaki személyzet tárgy
+version https://git-lfs.github.com/spec/v1
+oid sha256:bbd3724528bcb9fa39f46f2b95fb657321f7b44a3fdda1934fc4ef46d4137d4e
+size 162

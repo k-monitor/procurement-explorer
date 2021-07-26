@@ -1,18 +1,3 @@
-Poroszló	poroszló	NOUN	Case=Nom|Number=Sing	
--	-	PUNCT	_	
-Tiszafüred	tiszafüred	NOUN	Case=Nom|Number=Sing	
-közötti	közötti	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-kerékpárút	kerékpárút	NOUN	Case=Nom|Number=Sing	
-megvalósítása	megvalósítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
-A	a	DET	Definite=Def|PronType=Art	
-tárgyban	tárgy	NOUN	Case=Ine|Number=Sing	
-meghatározott	meghatározott	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPast	
-építési	építési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-beruházás	beruházás	NOUN	Case=Nom|Number=Sing	
-oszthatatlan	oszthatatlan	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szolgáltatásnak	szolgáltatás	NOUN	Case=Dat|Number=Sing	
-minősül	minősül	VERB	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:79727a3e998625c08a546f9a043df8bf06f60651a68983aaba03320b6d343182
+size 844

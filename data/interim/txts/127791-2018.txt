@@ -1,1 +1,3 @@
-Kereskedelmi szerződés „Földgázenergia szabadpiaci beszerzése a KEF által üzemeltetett épületek ellátásához 2018.11.01-2019.10.01. közötti időszakra” tárgyban.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e12bd035c4eb419939ccaeb95ffb26baf62376d6c282b6556aac48fd2dd22bd7
+size 179

@@ -1,35 +1,3 @@
-A	a	DET	Definite=Def|PronType=Art	
-Fővárosi	Fővárosi	PROPN	Case=Nom|Number=Sing	
-Közterület	közterület	NOUN	Case=Nom|Number=Sing	
--	-	PUNCT	_	
-fenntartó	fenntartó	NOUN	Case=Nom|Number=Sing	
-Zártkörűen	zártkörű	ADJ	Case=Ess|Degree=Pos|Number=Sing	
-Működő	működő	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-Nonprofit	nonprofit	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-Részvénytársaság	részvénytársaság	NOUN	Case=Nom|Number=Sing	
-Hulladékhasznosító	hulladékhasznosító	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-Mű	mű	PROPN	Case=Nom|Number=Sing	
-Üzemben	üzem	NOUN	Case=Ine|Number=Sing	
-üzemelő	üzemelő	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-4	4	NUM	Case=Nom|NumType=Card|Number=Sing	
-db	db	NOUN	Case=Nom|Number=Sing	
-hulladéktüzelésű	hulladéktüzelésű	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-kazán	kazán	NOUN	Case=Nom|Number=Sing	
-fűtőfelületeinek	fűtőfelület	NOUN	Case=Dat|Number=Plur|Number[psor]=Sing|Person[psor]=3	
-,	,	PUNCT	_	
-4	4	NUM	Case=Nom|NumType=Card|Number=Sing	
-db	db	NOUN	Case=Nom|Number=Sing	
-abszorber	abszorber	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-tartály	tartály	NOUN	Case=Nom|Number=Sing	
-és	és	CONJ	_	
-az	az	DET	Definite=Def|PronType=Art	
-összekötő	összekötő	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-füstgáz	füstgáz	NOUN	Case=Nom|Number=Sing	
-csatornáknak	csatorna	NOUN	Case=Gen|Number=Plur	
-a	a	DET	Definite=Def|PronType=Art	
-hatásfokjavító	hatásfokjavító	NOUN	Case=Nom|Number=Sing	
-és	és	CONJ	_	
-munkavédelmi	munkavédelmi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-tisztítása	tisztítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:d73236a751834a35c1daf8e7d00224e90f4e445a20fc9512349c80901c64ab46
+size 1707

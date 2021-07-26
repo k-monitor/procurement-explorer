@@ -1,1 +1,3 @@
-Miskolc-Eger összekötését biztosító kerékpárút tervezése a TOP-1.2.1-16-BO1-2017-00010. számú, a TOP-1.2.1-16-BO1-2017-00007. számú, és a TOP-3.1.1-16-BO1-2017-00010. számú pályázatok, valamint kormányzati támogatás keretében. A tervezéssel érintett becsült hossz: Miskolc – Eger közigazgatási határai közötti szakasz 47,2 km.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2a4b47c22aa18295dad68173954e6c047a61fe20d14c0a6610e01d7908322c9d
+size 359

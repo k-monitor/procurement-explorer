@@ -1,1 +1,3 @@
-Román határszakasz mobilitásának növelése érdekében gépjármű beszerzés.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3be0d0478f7b41c08a7d9d8ccd04f3172ae7dac678f1eb4a3b69fc2d898e5849
+size 83

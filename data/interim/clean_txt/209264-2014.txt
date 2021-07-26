@@ -1,13 +1,3 @@
-vm dunántúli agrár-szakképző központ
-csapó dániel középiskola
-mezőgazdasági szakképző iskola és kollégium tagintézmény részére 1.9.2014
-cet
-1.7.2015
-cet időszak vonatkozó
-a magyar átviteli hálózat folyamatos rendelkezés álló
-szabványos
-msz
-2000
-minőségű földgázenergia szállítás
-rendszerhasználat biztosítás együtt
-teljes ellátás alapú földgáz szállítási szerződés keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:4c5c5084ec41e0671738a107ed9503b9eef4486ea87fe686c82a82f1bab56685
+size 421

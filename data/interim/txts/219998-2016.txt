@@ -1,1 +1,3 @@
-Összességében nettó 22 000 000 HUF - 30 % keretösszeg erejéig adásvételi szerződés keretében IVECO típusú tehergépjármű alváz gyári, új és utángyártott alkatrészek szállítása. I. rész: IVECO típusú tehergépjármű alváz gyári új alkatrész szállítása – nettó 20 000 000 HUF - 30 % keretösszeg erejéig. II. rész: IVECO típusú tehergépjármű alváz utángyártott alkatrész szállítása – nettó 2 000 000 HUF - 30 % keretösszeg erejéig.
+version https://git-lfs.github.com/spec/v1
+oid sha256:019c555ff78162158b811a1418d7e40f18f081020c6db6660e228e6701e834a8
+size 487

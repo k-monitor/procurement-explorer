@@ -1,1 +1,3 @@
-Szállítási szerződés/ A KEOP-1.1.1/C/13-2013-0024 azonosító jelű „Vecsési hulladékgazdálkodási rendszer fejlesztése” című pályázat keretében hulladékszállító gépjárművek, valamint aprítékszállító vontató gépjármű beszerzése és rendszerbe állítása.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5b6e102b3f2ed63f04b474c01e18f99926eae8cd406296fb852f7acca7d3c226
+size 290

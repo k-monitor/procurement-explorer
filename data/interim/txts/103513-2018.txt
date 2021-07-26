@@ -1,1 +1,3 @@
-Megbízási szerződés a „Északkelet-Magyarországi szennyvízelvezetési és -kezelési fejlesztés 2. (ÉKMO 2)” elnevezésű, KEHOP-2.2.2-15-2016-00095 azonosítószámú projekt keretében műszaki ellenőri tevékenység ellátására. A II.1.1. és II.2.1 pontban megadott elnevezés teljes terjedelmében: Megbízási szerződés a „Északkelet-Magyarországi szennyvízelvezetési és -kezelési fejlesztés 2. (ÉKMO 2)” elnevezésű, KEHOP-2.2.2-15-2016-00095 azonosítószámú projekt keretében műszaki ellenőri tevékenység ellátására.
+version https://git-lfs.github.com/spec/v1
+oid sha256:622c7c0b9b66685dc7082438043bf8a607ca70ee662756297cad41c6e6a11aca
+size 565

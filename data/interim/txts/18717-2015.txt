@@ -1,1 +1,3 @@
-Adásvételi szerződés a Semmelweis Egyetem Városmajori Szív- és Érgyógyászati Klinika részére tételes elszámolású mechanikus keringéstámogató eszközök beszerzése érdekében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1c475dfa3dcf14a81082468acd5695368ad7c0a24ac19e0cbf619f22eb017e87
+size 195

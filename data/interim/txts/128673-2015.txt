@@ -1,1 +1,3 @@
-Zalaegerszeg Megyei Jogú Város Önkormányzata intézményeinek teljes alapú földgáz energia ellátása 2015–2017. évre földgáz energia kereskedelmi szerződés keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:512867efd24d6609fd9c52c1cde839b0003297950673f8a6cf9e6e4996afc6fe
+size 182

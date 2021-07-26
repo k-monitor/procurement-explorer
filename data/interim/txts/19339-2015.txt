@@ -1,1 +1,3 @@
-Vállalkozási szerződés Százhalombatta Város Önkormányzat közigazgatási területén komplex parkfenntartási munkák elvégzésére.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a8a11da673f6f58e64f695f4defdec65f71ab945238832874559fecdf78f836c
+size 141

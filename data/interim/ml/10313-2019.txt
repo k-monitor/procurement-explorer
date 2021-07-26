@@ -1,12 +1,3 @@
-Veszettség	veszettség	NOUN	Case=Nom|Number=Sing	
-elleni	elleni	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-orális	orális	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-vakcina	vakcina	NOUN	Case=Nom|Number=Sing	
-beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-,	,	PUNCT	_	
-vakcinázás	vakcinázás	NOUN	Case=Nom|Number=Sing	
-és	és	CONJ	_	
-kapcsolódó	kapcsolódó	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-szolgáltatások	szolgáltatás	NOUN	Case=Nom|Number=Plur	
-ellátása	ellátás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:b38431f135a33a52c1e4ba6d3751f3c654185430e6e9aefc0fcd2b9ea0cf06cf
+size 585

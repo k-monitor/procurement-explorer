@@ -1,3 +1,3 @@
-villamos energia
-köz
-és térvilágítás
+version https://git-lfs.github.com/spec/v1
+oid sha256:747869c5a2d3a5c523c9764805e7367dd72c9cd619574efccee8718c0ba06d3f
+size 42

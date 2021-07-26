@@ -1,7 +1,3 @@
-irodaszer
-adminisztrációs
-egyéb anyag
-valamint irodai kisgép és egyéb eszköz
-folyamatos biztosítás a követelményspecifikáció meghatározott termék
-db
-és a szállító által kiadott termékkatalógus
+version https://git-lfs.github.com/spec/v1
+oid sha256:4046101fcfea3d061680df8888c7927bf8b834ec1be0fd44cb7b2493f24810c0
+size 214

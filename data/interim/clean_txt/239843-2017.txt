@@ -1,4 +1,3 @@
-uzsoki utcai kórház általános
-egészségügyi
-napi
-illetve időszakos takarítási munka elvégzés a közbeszerzési dokumentum részletezett igény meg+felelő
+version https://git-lfs.github.com/spec/v1
+oid sha256:4d29f0ebd8a3f10005bbe93694bd1eee8b64a78f189fb01fb80bacd76c4b42b9
+size 165

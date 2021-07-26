@@ -1,14 +1,3 @@
-Diagnosztikus	diagnosztikus	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-és	és	CONJ	_	
-terápiás	terápiás	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-intervenciós	intervenciós	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-radiológiai	radiológiai	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-eszközök	eszköz	NOUN	Case=Nom|Number=Plur	
-beszerzésére	beszerzés	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-szállítási	szállítási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-konszignációs	konszignációs	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-raktár	raktár	NOUN	Case=Nom|Number=Sing	
-üzemeltetésére	üzemeltetés	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:d2276a3a8a30335f2b542d904ef605f4ea0a85b24d6e2eeb1cd212405bf04a13
+size 734

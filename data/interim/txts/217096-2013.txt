@@ -1,1 +1,3 @@
-K031.10, K031.11 „31. sz. főút Heves megyei szakasz 115 kN tengelyterhelésre történő megerősítés” kivitelezési munkáinak elvégzése vállalkozási szerződés keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f75ee38892eb501b8153d3ad566ed151a6fb78eeeabc600064db755d34d87ee9
+size 186

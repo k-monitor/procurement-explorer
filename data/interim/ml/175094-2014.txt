@@ -1,9 +1,3 @@
-Megbízási	megbízási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-meleg	meleg	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-konyha	konyha	NOUN	Case=Nom|Number=Sing	
-és	és	CONJ	_	
-étkezde	étkezde	NOUN	Case=Nom|Number=Sing	
-üzemeltetésére	üzemeltetés	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:acdebf3ce269af1afa3963d1f63f8ddde655299e6cdb6ef5bb7f5c126d1587ad
+size 369

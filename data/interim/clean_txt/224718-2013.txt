@@ -1,4 +1,3 @@
-tervezési szerződés
-körforgalmú csomópont tervdokumentáció elkészítés és hatósági engedélyeztetés
-körgeometriájú csomópont egyesített tervdokumentáció elkészítés és engedélyeztetés
-közlekedésbiztonsági és forgalomtechnikai beavatkozás tervdokumentáció elkészítés és hatósági engedélyeztetés valamint külterületi autóbuszmegálló közlekedésbiztonsági beavatkozás tervezés
+version https://git-lfs.github.com/spec/v1
+oid sha256:84403c6d06e96b24cccb2d86e0cf44036a94e928ede3f8990e91df9420689117
+size 423

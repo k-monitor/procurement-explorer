@@ -1,1 +1,3 @@
-Élelmiszerek beszerzése az I. sz. Gazdasági Működtető Központ részére adásvételi keretszerződés keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:df0bf0c544df02d5eb7269c5f1762dedbc15119238a56a161ccf6df34e447633
+size 120

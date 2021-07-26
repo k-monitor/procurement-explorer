@@ -1,1 +1,3 @@
-műanyag féktuskó beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:0570cb4f27a70cc6f5d4f6c94d0fde371c487b2f3fa0d12b8dbb16d7fa0535ab
+size 30

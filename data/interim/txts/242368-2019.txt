@@ -1,1 +1,3 @@
-„A budapesti Új Duna-híd független statikai számításainak elkészítése és tervellenőrzési feladatainak ellátása”
+version https://git-lfs.github.com/spec/v1
+oid sha256:ec17ca40f0c05af7aee014f4ec4213b855f3a0cc303f0ce6d6f92b5f8aa44f19
+size 129

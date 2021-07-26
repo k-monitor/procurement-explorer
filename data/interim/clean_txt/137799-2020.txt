@@ -1,1 +1,3 @@
-vállalkozási keretszerződés vonalas létesítmény terület előkészítés kapcsolódó régészeti lelőhely feltárás gépi
+version https://git-lfs.github.com/spec/v1
+oid sha256:281ccddf53cba9a70456dfe607c3e4c7f9ddf8702c498978e46db1673ac75f3a
+size 131

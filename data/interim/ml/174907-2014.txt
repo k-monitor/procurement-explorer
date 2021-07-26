@@ -1,10 +1,3 @@
-Garantált	garantált	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPast	
-megtakarítás-alapú	megtakarítás-alapú	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-hőenergia-szolgáltatási	hőenergia-szolgáltatási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-,	,	PUNCT	_	
-karbantartási	karbantartási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-és	és	CONJ	_	
-hibaelhárítási	hibaelhárítási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:f0c22e6ee35e575a67393ebc08f0a2d187a0a13f0df7372159d12c02a104ac38
+size 483

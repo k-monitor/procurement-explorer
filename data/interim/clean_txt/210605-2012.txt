@@ -1,1 +1,3 @@
-személygépjármű beszerzés a nav részére rész keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:7acfc8767f2d27f6c1a027caab13210cfa613c315ceb32aebba91604d0a844f3
+size 58

@@ -1,25 +1,3 @@
-Összesen	összesen	ADV	_	
-153	153	NUM	Case=Nom|NumType=Card|Number=Sing	
-db	db	NOUN	Case=Nom|Number=Sing	
-közúti	közúti	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-híd	híd	NOUN	Case=Nom|Number=Sing	
-fő	fő	ADJ	Case=Nom|Degree=Pos|Number=Sing	
--	-	PUNCT	_	
-és	és	CONJ	_	
-célvizsgálata	célvizsgálat	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-21	21	NUM	Case=Nom|NumType=Card|Number=Sing	
-rész-ajánlattételi	rész-ajánlattételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-területen	terület	NOUN	Case=Sup|Number=Sing	
-Részletes	részletes	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-feladatleírás	feladatleírás	NOUN	Case=Nom|Number=Sing	
-tekintetében	tekintet	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-lásd	lát	VERB	Definite=Def|Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	
-az	az	DET	Definite=Def|PronType=Art	
-Ajánlati	ajánlati	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-Dokumentáció	Dokumentáció	PROPN	Case=Nom|Number=Sing	
-részét	rész	NOUN	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-képező	képező	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-műszaki	műszaki	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-dokumentációt	dokumentáció	NOUN	Case=Acc|Number=Sing	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:3cc43636e815c574881621d3a9464cc184e6797cb9e6df5a97c2abeaffcb29ba
+size 1259

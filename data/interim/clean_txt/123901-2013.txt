@@ -1,11 +1,3 @@
-az ajánlatkérő és tagvállalat tulajdon
-üzemeltetés és
-vagy kezelés lévő ingatlan
-épület
-építmény
-gép
-berendezés
-informatikai eszköz és készlet vagyonbiztosítás
-ajánlatkérő és tagvállalat tevékenység
-működés összefüggő felelősségbiztosítás
-gépjármű casco és kötelező felelősségbiztosítás
+version https://git-lfs.github.com/spec/v1
+oid sha256:bc5d1a58fe96c73fb50df389c6225534a8eb827543cf878aec1678e93fdf6036
+size 336

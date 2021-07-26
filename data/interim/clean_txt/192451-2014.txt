@@ -1,6 +1,3 @@
-megbízási szerződés a
-68. sz. főút t burkolat-megerősítés kivitelezés kapcsolódó mérnöki munka elvégzés az
-i
-szakasz 85+000
-93+300 km sz. között
-tárgy
+version https://git-lfs.github.com/spec/v1
+oid sha256:3049e90519d103dd9f9ab831ccae7d56b4ccbee33963264f8f2ecc5f7522ffec
+size 169

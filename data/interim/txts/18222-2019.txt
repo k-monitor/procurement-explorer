@@ -1,1 +1,3 @@
-Donorok részére adandó 0,5 literes eldobható műanyag palackos kiszerelésű “szén dioxiddal dúsított természetes ásványvíz” vagy “természetes szénsavat tartalmazó természetes ásványvíz” vagy “természetes ásványvíz a forrásból származó szén-dioxiddal dúsítva”, és teljesen szénsav-mentesített természetes ásványvíz beszerzése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:562fe0e9cae72cf42083454bea51b42005e97a631522ca3cb052a3997cdb80fe
+size 375

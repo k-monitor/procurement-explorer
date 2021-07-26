@@ -1,1 +1,3 @@
-Megbízási szerződés az „Energiahatékonyság fejlesztése a Bevándorlási és Állampolgársági Hivatal és a Rendőrség épületeiben” című projekthez kapcsolódóan az érintett épületek energiafejlesztésre irányuló kivitelezéséhez kapcsolódóan műszaki ellenőri feladatok ellátása tárgyában.
+version https://git-lfs.github.com/spec/v1
+oid sha256:de1910addff59acbed5df57c035e5bfabf357c1331eefc60e71a7564bb40a07a
+size 321

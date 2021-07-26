@@ -1,11 +1,3 @@
-kivitelezési szerződés a kehop-5
-4-15-2016-00004 azonosítószámú projekt keret a kútvölgyi klinikai tömb energetikai korszerűsítés irányuló munka elvégzés
-mely a kórházépület és a rendelő emeletes szárny homlokzati hőszigetelés
-a kőburkolat
-a nyílászáró és az árnyékoló-szerkezet csere
-a hűtési rendszer korszerűsítés
-valamint az energetikai korszerűsítés egy idő
-műszaki szükségesség elvégzendő munka foglal maga
-továbbá opció tartalmaz a rendelő lepényépület és a gazdasági szárny energetikai korszerűsítés
-az elvégzendő munka részletes meghatározás a közbeszerzési dokumentum rész képező kiviteli terv
-műszaki leírás és költségvetési kiírás tartalmaz
+version https://git-lfs.github.com/spec/v1
+oid sha256:5142cba640d76705da274120dc93f913bd12f4720c7a7dee68caab3dcd3fa06e
+size 734

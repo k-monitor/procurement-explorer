@@ -1,1 +1,3 @@
-A Semmelweis Egyetem gyógyszerbeszerzése adásvételi keretmegállapodás keretében a keretösszeg kimerüléséig (nettó 4 246 488 777 Ft) vagy 12 hónap határozott időtartamra jön létre, melyet Ajánlatkérő 1 alkalommal, további 6 hónapos határozott időtartammal meghosszabbíthat. Magyarországon a 2/2008. (I. 8.) EüM rendelet szerinti forgalomba hozatali engedéllyel Rendelkező gyógyszerek, valamint az Országos Gyógyszerészeti és Élelmezés-egészségügyi Intézet által járóbeteg egyedi import, vagy kontingens engedély alapján külföldről behozott gyógyszerek beszerzése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f70fa7b9d4de1a3e0c450d7b235781d06a9160c98b2ef8def72df089731f3289
+size 612

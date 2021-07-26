@@ -1,6 +1,3 @@
-keretszerződés a budapest főváros
-kerületi önkormányzat tulajdon lévő ingatlan kivitelezési
-felújítási
-bővítési
-tervezett karbantartási és bontási
-továbbá veszélyelhárítási munkálat elvégzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:e56e328b1defceede8ab335b6b4d36405df83f3f7c3d9121ebd4a3d09e427cf3
+size 218

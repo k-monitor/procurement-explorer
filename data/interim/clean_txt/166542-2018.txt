@@ -1,2 +1,3 @@
-dek-562 _ adásvételi szerződés atomerőmikroszkóp kombinált raman-mikroszkóp beszerzés ginop-2
-2-15-2016-00041 sz. pályázat keret belül
+version https://git-lfs.github.com/spec/v1
+oid sha256:d6e91ab43a0603f9d56f188f7618d804d42b4210f75ee27b89b337ef39219ff3
+size 146

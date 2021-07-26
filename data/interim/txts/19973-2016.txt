@@ -1,1 +1,3 @@
-Villamosenergia-adásvételi szerződés a fogyasztói csatlakozási pontokon történő átvétellel a magyar villamosenergia-hálózaton folyamatosan rendelkezésre álló villamos energia beszerzésére, szabadpiaci feltételek szerint 1.4.2016., 0:00 órától 31.12.2017., 24:00 óráig terjedő időszakra, teljes ellátás alapú villamosenergia-kereskedelmi szerződés keretében, amely nem tartalmazza a rendszerhasználati költségek elszámolását.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7eda7b36a108a53ad1f268603bfa3c106f13a5192cb407cda82accb77fd69e8c
+size 462

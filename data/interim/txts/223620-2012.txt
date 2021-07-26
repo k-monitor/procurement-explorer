@@ -1,1 +1,3 @@
-Tervezési szerződés a Pusztaszabolcs - Dombóvár - Kaposvár - Gyékényes és a Dombóvár - Pécs - Magyarbóly vasútvonalszakaszok korszerűsítésére részletes megvalósíthatósági tanulmány készítésére.
+version https://git-lfs.github.com/spec/v1
+oid sha256:da5b50baa7a4163c38b1447ddecd1d29327cbfa4a280042e2a1adabeeeee08e0
+size 221

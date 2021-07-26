@@ -1,2 +1,3 @@
-vagyon
-és felelősségbiztosítás józsefvárosi önkormányzat és intézmény részére
+version https://git-lfs.github.com/spec/v1
+oid sha256:2cd7e10e62650233d3ab58662714e0642a4778436a1a9352a5868a3bd6660347
+size 91

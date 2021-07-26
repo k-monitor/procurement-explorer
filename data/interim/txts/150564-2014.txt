@@ -1,1 +1,3 @@
-Szállítási szerződés készétel szállítási szolgáltatás beszerzésére
+version https://git-lfs.github.com/spec/v1
+oid sha256:7f0d08c6c7e6f9b17865f3210ff6801a852ddd291d8ae6471fc14434d5bbd41a
+size 80

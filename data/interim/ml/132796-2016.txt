@@ -1,30 +1,3 @@
-Vezetékes	vezetékes	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-földgáz	földgáz	NOUN	Case=Nom|Number=Sing	
-beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-teljes	teljes	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-ellátás	ellátás	NOUN	Case=Nom|Number=Sing	
-alapú	alapú	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-földgáz	földgáz	NOUN	Case=Nom|Number=Sing	
-adás-vételi	adás-vételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-1.7.2016	1.7.2016	PROPN	Case=Nom|Number=Sing	
-.	.	PUNCT	_	
-
-CET	cet	NOUN	Case=Nom|Number=Sing	
-6	6	NUM	Case=Nom|NumType=Card|Number=Sing	
-:	:	PUNCT	_	
-00-1	00-1	NUM	Case=Nom|NumType[sem]=Result|Number=Sing	
-.	.	PUNCT	_	
-
-10.2017	10.2017	PROPN	Case=Nom|Number=Sing	
-.	.	PUNCT	_	
-
-CET	cet	NOUN	Case=Nom|Number=Sing	
-6	6	NUM	Case=Nom|NumType=Card|Number=Sing	
-:	:	PUNCT	_	
-00	00	NUM	Case=Nom|NumType=Card|Number=Sing	
-közötti	közötti	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-időszakra	időszak	NOUN	Case=Sub|Number=Sing	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:d5289f7aaaa00ffce987b8b25616fb740ee71472d0eba6362fe03e117e19078b
+size 1111

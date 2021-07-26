@@ -1,8 +1,3 @@
-magyarország közigazgatási terület keletkező műanyag csomagolási hulladék
-ewc
-gyűjtés és hasznosítás 2013. év szolgáltatás-megrendelési szerződés keret a környezetvédelmi termékdíj szóló 2011. évi
-törvény 22. §
-bekezdés alap
-az országos gyűjtési és hasznosítási terv
-ogyht
-által meghatározott célérték elérés érdek
+version https://git-lfs.github.com/spec/v1
+oid sha256:dbe450918e79a563d4f4c0422e7632fb85e7e80523cfd947aa825eecd2172507
+size 358

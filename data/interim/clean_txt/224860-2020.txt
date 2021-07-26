@@ -1,21 +1,3 @@
-műszaki
-mérnöki szolgáltatás beszerzés
-tervezés
-mely jogosultság kötött
-a tervezési feladat rész képez az új épületrész és a meglévő rendelőintézet épület felújítás vonatkozó alábbi fő feladat
-vázlatterv
-településképi véleményezés benyújtandó terv
-engedélyezési és kiviteli szintű
-szakrendelő
-kis műtő ellátott rendelőintézeti tervezés a meglévő részleges felújítás együtt
-a közlekedési tervezés
-kert és útépítés tervezés
-ingatlan belüli és kívüli közmű tervezés
-terv bim rendszer kell kidolgoz
-opció
-közreműködés a közbeszerzési eljárás lebonyolítás
-felújítással-átalakítás érintett összes bruttó szintterület
-új épületszárny
-meglévő felújítás
-tervezés érintett összes bruttó szintterület
-a részletes leírás a közbeszerzési dokumentumok tartalmaz
+version https://git-lfs.github.com/spec/v1
+oid sha256:5e55f23a525013d029bc2eab47186390de43c8293291a5ff38414b020f6c867a
+size 860

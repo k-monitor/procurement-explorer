@@ -1,1 +1,3 @@
-budapesti corvinus egyetem pesti oktatási létesítmény őrzés-védelmi és portaszolgálati feladat ellátás
+version https://git-lfs.github.com/spec/v1
+oid sha256:2f2d0d4604f4fa528ac8d72c0cb10df33629ee0e936b1aeec8552617b9740bdc
+size 113

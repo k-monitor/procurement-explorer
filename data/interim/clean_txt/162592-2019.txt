@@ -1,5 +1,3 @@
-elektronikus egészségügyi szolgáltatási tér
-eeszt
-alkalmazás üzemeltetés támogatás
-eseti konzultációs szolgáltatás biztosítás és továbbfejlesztés megvalósítás
-részletes feltétel az ajánlati felhívás és a műszaki leírás
+version https://git-lfs.github.com/spec/v1
+oid sha256:6c0c9068c7208a3c50d77376f93cfe7ad5e843b355c55514eb0fc874516dc675
+size 250

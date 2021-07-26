@@ -1,14 +1,3 @@
-Adásvételi	adásvételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-,	,	PUNCT	_	
-amelynek	amely	PRON	Case=Gen|Number=Sing|Person=3|PronType=Rel	
-tárgya	tárgy	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-„	„	PUNCT	_	
-Biotechnológiai	biotechnológiai	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-eszközök	eszköz	NOUN	Case=Nom|Number=Plur	
-beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-az	az	DET	Definite=Def|PronType=Art	
-ELTE	ELTE	PROPN	Case=Nom|Number=Sing	
-részére	részére	ADP	_	
-"	"	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:b331a52ced2e4fc8586367730835de5228db6f7f87781d67e127822779b107eb
+size 599

@@ -1,2 +1,3 @@
-kivitelezési közbeszerzés eljárás lefolytatás az áeek projektirányítási igazgatóság által megvalósítandó nyugat-magyarországi _
-kivitelezési eljárás tekintet
+version https://git-lfs.github.com/spec/v1
+oid sha256:58468dd1f63aed330440eda43750889966748ca28f64f2334fe32c9f22ab4994
+size 177

@@ -1,1 +1,3 @@
-2020-2021 évekre villamos energia beszerzése, és szennyvíziszap-gázból termelt villamos energia átadása beszámítással
+version https://git-lfs.github.com/spec/v1
+oid sha256:a210e93285bf193b8387ca754376b3a1cd169c7c507629968aa3e8980ec5a909
+size 128

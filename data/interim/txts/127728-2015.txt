@@ -1,1 +1,3 @@
-Vállalkozási szerződés keretében „Üzemlátogatások és iskolabemutatók szervezése a TÁMOP-2.2.7. A-13/1-2013-0001 „Út a szakmaválasztáshoz” projekt keretében”.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c32b2d03015c6eb344df99ded59cde51c64ce02da4ee978656a3eeefb5151054
+size 181

@@ -1,16 +1,3 @@
-Szállítási	Szállítási	PROPN	Case=Nom|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-kéttengelyes	kéttengelyes	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-nyerges	nyerges	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-vontatóból	vontató	NOUN	Case=Ela|Number=Sing	
-és	és	CONJ	_	
-három	három	NUM	Case=Nom|NumType=Card|Number=Sing	
-tengelyes	tengelyes	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-hátra	hátra	ADV	Degree=Pos	
-billenő	billenő	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-félpótkocsiból	félpótkocsi	NOUN	Case=Ela|Number=Sing	
-álló	álló	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-járműszerelvények	járműszerelvény	NOUN	Case=Nom|Number=Plur	
-szállítására	szállítás	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:39f86da9dee72ff38d24557972bc973c23fd37d134cdcfedb488e012b7df257d
+size 802

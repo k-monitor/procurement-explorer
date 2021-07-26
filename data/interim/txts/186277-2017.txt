@@ -1,1 +1,3 @@
-Microsoft licence beszerzése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8d67bdc4e1fbacd7cbb4ad22cf8bc2bf756a5152e778e72d9f201e3ee97cf523
+size 30

@@ -1,1 +1,3 @@
-munkaállomás beszerzés az alábbi rész szerint
+version https://git-lfs.github.com/spec/v1
+oid sha256:814b1b3553843bd2131032be2d3eb4d9a89d96df11c372b07ae3731b7e9cb607
+size 50

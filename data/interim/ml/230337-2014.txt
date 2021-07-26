@@ -1,21 +1,3 @@
-1	1	NUM	Case=Nom|NumType=Card|Number=Sing	
-db	db	NOUN	Case=Nom|Number=Sing	
-nagyteljesítményű	nagyteljesítményű	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-genetikai	genetikai	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-analizátor	analizátor	NOUN	Case=Nom|Number=Sing	
-készülék	készülék	NOUN	Case=Nom|Number=Sing	
-,	,	PUNCT	_	
-hozzákapcsolódó	hozzákapcsolódó	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-1	1	NUM	Case=Nom|NumType=Card|Number=Sing	
-db	db	NOUN	Case=Nom|Number=Sing	
-laboratóriumi	laboratóriumi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-robotikus	robotikus	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-munkaállomás	munkaállomás	NOUN	Case=Nom|Number=Sing	
-és	és	CONJ	_	
-kiértékelő	kiértékelő	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-valamint	valamint	CONJ	_	
-adatbázis	adatbázis	NOUN	Case=Nom|Number=Sing	
-szoftverek	szoftver	NOUN	Case=Nom|Number=Plur	
-beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:f749d6d6f7e5b5656fd2d5a52ffde5d02f9168540d40aaf826bd5fe4749f2314
+size 995

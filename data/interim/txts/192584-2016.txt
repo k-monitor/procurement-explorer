@@ -1,1 +1,3 @@
-Vállalkozási szerződés / A Pest Megyei Kormányhivatal székhelyén és egyes telephelyein takarítási feladatok ellátása az ajánlati felhívásban és a közbeszerzési dokumentumban részletezettek szerint.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b37712a78c6020ee45349e69dc6c21c2cf30a70281adb91491a1e0ea0fffea34
+size 216

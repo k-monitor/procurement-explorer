@@ -1,1 +1,3 @@
-Mobil végponti, kézi információs eszközök beszerzése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cba4a149a5ac4f3e05fe02ed3e2e5e494dcc3f7263e739a5461dbb7bad2a1e42
+size 60

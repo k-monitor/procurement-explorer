@@ -1,1 +1,3 @@
-Megbízási keretszerződés stratégiai kommunikációs, PR ügynökségi, valamint kreatív feladatokkal kapcsolatos szolgáltatói és tanácsadói feladatok ellátása tárgyban a „Tájékoztatással, nyilvánossággal kapcsolatos feladatok ellátása a Miskolc és agglomerációja digitális közösség elnevezésű programhoz”, ajánlatkérő eseti megrendeléseinek megfelelően.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e57d29c4e57ba832f5d937da5d074e39dd1e1ddc7aff71702143a702da7a3b8a
+size 392

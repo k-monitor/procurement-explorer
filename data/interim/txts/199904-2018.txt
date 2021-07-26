@@ -1,1 +1,3 @@
-A Modern Városok Program keretében a „SMART GRID rendszer kialakítása I. ütem” tárgyú projekthez kapcsolódó tervezési és elemzési feladatok ellátása (Iktatószám: GF/SZKF/1117/10/2017.) tervezési szerződés keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7387c81595240f7d04223cbf6661c3eb2e3d273901076482a1891aeec8ae690b
+size 239

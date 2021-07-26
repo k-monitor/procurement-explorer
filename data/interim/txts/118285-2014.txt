@@ -1,1 +1,3 @@
-Szállítási szerződés. Tárgya: Útmeteorológiai állomások, alkatrészek szállítása.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2908e9e5089705b313e9263799d3e48aa93f02db51260b8ff798dad6c3f7a976
+size 94

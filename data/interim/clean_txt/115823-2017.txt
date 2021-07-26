@@ -1,11 +1,3 @@
-meglévő szerver csere és bővítés
-1. rész
-üvp
-üzemeltetői virtualizált platform
-rendszer bővítés
-2. rész
-elöregedik hvr naplógyűjtő szerver kiváltás
-3. rész
-elöregedik hyper-v szerver kiváltás
-4. rész
-meglévő blade szerver memória bővítés
+version https://git-lfs.github.com/spec/v1
+oid sha256:a8c457129694a93bb3fbccb0d2a5312203d0559b3e78bb134376c34ba819b4c4
+size 269

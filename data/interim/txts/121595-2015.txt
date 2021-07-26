@@ -1,1 +1,3 @@
-Szállítási szerződés halkészítmények és tartósított halak beszerzésére.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7d27a5219c83064293fda47a3f07b4cf324b9c6ac39abc8a071cc0ff7df2bef6
+size 84

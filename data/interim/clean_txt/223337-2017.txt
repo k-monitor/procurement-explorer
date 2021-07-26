@@ -1,12 +1,3 @@
-megbízási szerződés
-az ajánlatkérő számára a 4. 1-es verziójú business objects szoftver licenc kapcsolódó szoftverkövetési szolgáltatás és sap enterprise support biztosítás
-továbbá a szoftverlicenc használati jog
-valamint a szoftvertermék friss
-javít
-továbbfejlesztett változat
-és a
-javító készlet
-új szoftververzió
-frissítés
-service pack
-ill. a ők kapcsolódó dokumentáció biztosítás
+version https://git-lfs.github.com/spec/v1
+oid sha256:65f5c1db941ad3634e8629d43f4a63666a1c712dfe0a97a2318d47a9d68e571b
+size 425

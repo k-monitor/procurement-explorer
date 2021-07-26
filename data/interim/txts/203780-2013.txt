@@ -1,1 +1,3 @@
-Szerződés meghatározása: Szolgáltatási szerződés. Szerződés tárgya: Mobil telekommunikációs szolgáltatások, illetőleg eszközök szállítása szolgáltatási szerződés keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:07025503580c9ce5a3d84efce887a69ec7c62ce3e3234f0cbf4c8a119530721d
+size 198

@@ -1,26 +1,3 @@
-Négy	négy	NUM	Case=Nom|NumType=Card|Number=Sing	
-évszakos	évszakos	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-kulturális	kulturális	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-és	és	CONJ	_	
-rendezvényhelyszín	rendezvényhelyszín	NOUN	Case=Nom|Number=Sing	
-fejlesztése	fejlesztés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-Balatonfüreden	Balatonfüred	PROPN	Case=Sup|Number=Sing	
-a	a	DET	Definite=Def|PronType=Art	
-meglévő	meglévő	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-kulturális	kulturális	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-kínálat	kínálat	NOUN	Case=Nom|Number=Sing	
-erősítésével	erősítés	NOUN	Case=Ins|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-,	,	PUNCT	_	
-tervezési	tervezési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-Projekt	Projekt	PROPN	Case=Nom|Number=Sing	
-azonosítószáma	azonosítószám	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-:	:	PUNCT	_	
-GINOP-7	GINOP-7	PROPN	Case=Nom|Number=Sing	
-.	.	PUNCT	_	
-
-1	1	NUM	Case=Nom|NumType=Card|Number=Sing	
-.	.	PUNCT	_	
-9-17-2018-00022	9-17-2018-00022	PROPN	Case=Nom|Number=Sing	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:03fa079e402a85b675fa774069573c4319fc03d3aba6e1721126d4a8e8421e7e
+size 1231

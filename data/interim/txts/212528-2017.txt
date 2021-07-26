@@ -1,1 +1,3 @@
-Biztosítási szolgáltatások beszerzése a Magyar Közút Nonprofit Zrt. részére.
+version https://git-lfs.github.com/spec/v1
+oid sha256:745cdeb114da531037a524a3bcdd756427458fea787f74ecc420a2a27537978c
+size 85

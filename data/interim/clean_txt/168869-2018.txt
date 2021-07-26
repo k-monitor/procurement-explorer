@@ -1,22 +1,3 @@
-pszichodiagnosztikai eszköz beszerzés az efop-2
-0-16-2016-00002 azonosítószámú projekt keret
-a feladat cél a projekt keret belül fejlesztés érintett helyszín számára a közbeszerzési dokumentum 5. kötet
-műszaki leírás
-felsorolt pszichodiagnosztikai eszköz beszerzés az egyes helyszín történő kiszállítás
-magyarországi fejlesztési helyszín
-fehérgyarmat
-nyíregyháza
-miskolc
-debrecen
-szolnok
-kecskemét
-szeged
-pécs
-helyszín
-zalaegerszeg
-veszprém
-székesfehérvár
-győr
-a tételes lista a közbeszerzési dokumentum rész képező műszaki leírás
-5. kötet
-tartalmaz
+version https://git-lfs.github.com/spec/v1
+oid sha256:d23b9fc85815c6b53eff1e0dba1c4764069351bbce3c0a389d79c0b053df59db
+size 601

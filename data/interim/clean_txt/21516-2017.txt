@@ -1,1 +1,3 @@
-növénytelepítés és ápolás vállalkozási szerződés keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:8dad3414fffae67aa08983a329694c23db0f16cb4bab9389488de1850a8ff5ce
+size 65

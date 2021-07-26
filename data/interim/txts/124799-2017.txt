@@ -1,1 +1,3 @@
-Vállalkozási szerződés őrzés-védelmi szolgáltatás és recepciós szolgáltatás ellátására a Budapesti Gazdasági Egyetem 1149 Budapest, Buzogány u. 10-12., 11-13. szám alatti épületei és a Budapesti Gazdasági Egyetem PSZK Kollégium 1148 Budapest, Bagolyvár u. 6-10. alatti épülete területén Az intézmény össz. alapterülete: 19 994 m². Az intézmény oktatási feladatot lát el. Az intézmény A, Toldalék, B, C, D, E, és Kollégiumi épületekből áll. A karakterkorlátozás miatt a közbeszerzési műszaki leírás teljes szövegű kifejtése a közbeszerzési dokumentumokban található.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5e1089f1ace4135b7a6b923ec893d380c610438cd6b38bad0a07e9ab001132a8
+size 626

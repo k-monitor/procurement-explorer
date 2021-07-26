@@ -1,1 +1,3 @@
-Földmunka keretszerződés 2019
+version https://git-lfs.github.com/spec/v1
+oid sha256:6df20f2a3afac324f7920cd1ce45efbc742eabdd9dbb56feec5f193759c31097
+size 32

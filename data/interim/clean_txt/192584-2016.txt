@@ -1,2 +1,3 @@
-vállalkozási szerződés
-a pest megyei kormányhivatal székhely és egyes telephely takarítási feladat ellátás az ajánlati felhívás és a közbeszerzési dokumentum részletezett szerint
+version https://git-lfs.github.com/spec/v1
+oid sha256:5fff28ea0511a276c283adaf074007c115eff5f09abf2de50b3d83480ba892ba
+size 196

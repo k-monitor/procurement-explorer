@@ -1,1 +1,3 @@
-Termelő istálló, tejház kivitelezése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9fcda75ef1f8b55e8a405c4112f5bf387e8c4e642d721fa3e970019b3a1ae5c8
+size 42

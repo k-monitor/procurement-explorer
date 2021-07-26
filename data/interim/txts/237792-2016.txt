@@ -1,1 +1,3 @@
-Közétkeztetés biztosítása étel készítésével és kiszállításával, határozott időtartamú szerződés keretében, 11 telephelyre szállítva. Jelen közbeszerzési eljárás alapján kötendő szerződés határozott időre, a szerződés aláírásának napjától 12 + 24 hónapra kerül megkötésre. A szerződéskötést követő 12 hónap letelte előtt 90 nappal a Felek a szerződés további 24 hónapos meghosszabbításában állapodhatnak meg, amennyiben a szerződés teljesítése megfelelt szerződés, és a vonatkozó jogszabályok előírásainak.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9a43f11fde98d030461bd0ec2d9cdb1e27bb435b3abfc68301608e44cb0e1944
+size 579

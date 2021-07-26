@@ -1,4 +1,3 @@
-Földmunka	földmunka	NOUN	Case=Nom|Number=Sing	
-keretszerződés	keretszerződés	NOUN	Case=Nom|Number=Sing	
-2019	2019	NUM	Case=Nom|NumType=Card|Number=Sing	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:2b5415d6155e895b495ac366b04bd4d2f45a30878ea6f33e5b6d7e1448c09537
+size 160

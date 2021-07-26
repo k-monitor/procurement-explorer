@@ -1,25 +1,3 @@
-Szállítási	Szállítási	PROPN	Case=Nom|Number=Sing	
-keretszerződés	keretszerződés	NOUN	Case=Nom|Number=Sing	
-keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-Mercedes	Mercedes	PROPN	Case=Nom|Number=Sing	
-Unimog	Unimog	PROPN	Case=Nom|Number=Sing	
-,	,	PUNCT	_	
-IVECO	IVECO	PROPN	Case=Nom|Number=Sing	
-tehergépjármű	tehergépjármű	NOUN	Case=Nom|Number=Sing	
-alvázhoz	alváz	NOUN	Case=All|Number=Sing	
-,	,	PUNCT	_	
-Wielton	Wielton	PROPN	Case=Nom|Number=Sing	
-félpótkocsihoz	félpótkocsi	NOUN	Case=All|Number=Sing	
-gyári	gyári	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-,	,	PUNCT	_	
-új	új	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-vagy	vagy	CONJ	_	
-egyenértékű	egyenértékű	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-után	után	ADP	_	
-gyártott	gyártott	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPast	
-,	,	PUNCT	_	
-új	új	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-alkatrészek	alkatrész	NOUN	Case=Nom|Number=Plur	
-szállítása	szállítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:4e45a6e0f19723a23f340aeb8f3e86db7e0a7b344a8d659284f44474d8af6f01
+size 1053

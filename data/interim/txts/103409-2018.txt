@@ -1,1 +1,3 @@
-Megbízási szerződés a „Szennyvíztisztító telep fejlesztése Vácon” elnevezésű, KEHOP-2.2.2-15-2016-00051 azonosítószámú projekt keretében műszaki ellenőri tevékenység ellátására.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4b66c5beac99679ba8f56f8123bbecfb5a094b9e603a4e2340b9855aa764edfe
+size 204

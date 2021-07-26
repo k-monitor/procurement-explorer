@@ -1,5 +1,3 @@
-szolgáltatási szerződés
-gazdálkodó szervezet kapcsolatos települési szilárd hulladékkezelési részfeladat
-gyűjtés
-szállítás
-ellátás
+version https://git-lfs.github.com/spec/v1
+oid sha256:b8452a26e3bb0b2e9b4b0a6c7a33e48a28041c340becbf07b33024ff1ad9e8b0
+size 149

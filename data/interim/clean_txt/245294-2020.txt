@@ -1,5 +1,3 @@
-debrecen észak-nyugati gazdasági övezet kapcsolódó infrastruktúra fejlesztés keret megvalósuló önkormányzati út útépítési
-kerékpárút építési
-csapadékvíz elvezetési
-valamint szennyvíz
-és vízvezeték építés kivitelezési munka
+version https://git-lfs.github.com/spec/v1
+oid sha256:4c1d71d8c86bc5246f99fd2c81d804e71ba0e6647ac9c7ee92f5f99449e2a065
+size 255

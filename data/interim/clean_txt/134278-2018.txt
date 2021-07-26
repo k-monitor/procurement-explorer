@@ -1,2 +1,3 @@
-szállítási szerződés az ajánlatkérő intézmény részére év szükséges különféle szemlencse
-és tartozék beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:565b07ebcf42c299419535e120f49362ed0cab08287baf2f6b930a940e7fa466
+size 130

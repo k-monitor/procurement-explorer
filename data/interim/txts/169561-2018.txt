@@ -1,1 +1,3 @@
-A TOP-6.1.2-16-DE1-2017-00001 azonosítószámú „Debreceni Inkubációs Központ létrehozása” című projekthez, a TOP-6.5.1-16-DE1-2017-00002 azonosítószámú „A Régi Városháza energetikai korszerűsítése” című projekthez, a Régi Városháza épületének belsőépítészeti felújításához, valamint a TOP-6.3.2-15-DE1-2016-00002 azonosítószámú „Debrecen Belvárosának innovatív rekonstrukciója” című projekten belül a Sas utcai mélygarázs létesítéséhez szükséges tervdokumentáció elkészítése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c57218b9127f459d3300188ba27b3b5a3b852470d9d99643507f06b6d670c94f
+size 546

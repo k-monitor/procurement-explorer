@@ -1,3 +1,3 @@
-db x-sávú fourier transzformációs epr spektrométer beszerzés
-beállítás
-beüzemelés és betanítás
+version https://git-lfs.github.com/spec/v1
+oid sha256:be193e10d10abf2b75334a11775d8a3bb52e84f15dcc39c5655e5d65bb501680
+size 108

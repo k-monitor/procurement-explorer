@@ -1,1 +1,3 @@
-Általános és különleges gumitermékek beszerzése a BKV Vasúti Járműjavító Kft. részére
+version https://git-lfs.github.com/spec/v1
+oid sha256:f3580c3108c4e1dcf05d98d7eec4032016612ed85c861e7c963b6ad0cc5405d2
+size 99

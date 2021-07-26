@@ -1,3 +1,3 @@
-az efop-4
-2-17-2017-00058 azonosítószámú
-törökszentmiklós a hunyadi mátyás magyar-angol tanítási nyelvű általános iskola infrastrukturális fejlesztés című projekt építési beruházási feladat ellátás
+version https://git-lfs.github.com/spec/v1
+oid sha256:d16860c479d37fb45f4095df6cd51127971aad98ed1c58ba7c172453670fe325
+size 222

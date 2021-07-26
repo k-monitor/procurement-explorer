@@ -1,1 +1,3 @@
-Adásvételi szerződés Szepszis kórokozóinak kimutatására szolgáló, mikrobiológiai tenyésztésre alkalmas haemokultúra palackok, haemokultúra automata (berendezés) beszerzésére, számítógépes informatikai rendszerek biztosításával.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6a4065cb9270b5c66661c161adb249d8346df1d580dd48517e0d902049a99de4
+size 252

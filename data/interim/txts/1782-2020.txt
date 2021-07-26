@@ -1,1 +1,3 @@
-Légalkoholmérők javítása, előírás szerinti kalibrálása, hitelesítésre történő felkészítése - szolgáltatási keretszerződés A megnevezésben szereplő termék pontos paramétereit a műszaki leírás tartalmazza.
+version https://git-lfs.github.com/spec/v1
+oid sha256:87b923251aefc9355a5dff7ee742f2ae45e8a88eeec958f308f376b2550900e8
+size 232

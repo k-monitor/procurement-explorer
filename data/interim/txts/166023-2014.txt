@@ -1,1 +1,3 @@
-Adásvételi szerződés melynek tárgya: „Irodaszerek megrendelése Budapest Főváros Kormányhivatala részére”.
+version https://git-lfs.github.com/spec/v1
+oid sha256:58cad52cb518b4c50965fd8bdb6c615833591267d9b578107b659c72334cdc58
+size 120

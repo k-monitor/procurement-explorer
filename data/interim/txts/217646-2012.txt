@@ -1,1 +1,3 @@
-Szállítási szerződés a 2013. évi oltóanyagok beszerzésére.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f8ed7196e57ceb34721dfbc24ded37504eaab49c71ede3c923e29face14848df
+size 67

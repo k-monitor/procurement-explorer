@@ -1,8 +1,3 @@
-tervezési szerződés a
-sz
-főút miskolc belváros elkerülő szakasz y híd
-1. ütem
-módosított engedélyezési terv elkészítés
-a terv engedélyeztetés való benyújtás
-és a kisajátítási terv elkészítés tárgy
-k003
+version https://git-lfs.github.com/spec/v1
+oid sha256:f257008d67370b96de6dd87b3b8a6b801b65bbaf885da9fd88f9d47206c31086
+size 231

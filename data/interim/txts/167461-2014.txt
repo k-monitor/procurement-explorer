@@ -1,1 +1,3 @@
-Beszerzés tárgya: „Adásvételi szerződés, oltóanyagok határidős adásvételére”. Az ajánlatkérő az egyes részeknél megjelölt oltóanyagok határidős adásvétele céljából folytatja jelen közbeszerzési eljárást.
+version https://git-lfs.github.com/spec/v1
+oid sha256:da9cf1637c69428f12b08feb6c0d644a4ef172c2110c1f2c90b3ac14fc97e653
+size 237

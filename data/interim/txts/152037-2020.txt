@@ -1,1 +1,3 @@
-A projekt a Fejér megyei oktatási intézmények, HRSZ.:212/27, Kápolnásnyék, Gárdonyi utca 29 épülete(i)t érinti.
+version https://git-lfs.github.com/spec/v1
+oid sha256:55768e6f5c7592adb2980cfaed60d0a6c1d79d85c4e588f0751d25c1700a7599
+size 122

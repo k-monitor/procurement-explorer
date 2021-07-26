@@ -1,2 +1,3 @@
-a fővárosi közterület-fenntartó zártkörű működő nonprofit részvénytársaság hulladékhasznosító mű üzem üzemelő kazán segédberendezés gépészeti javítás
-karbantartás
+version https://git-lfs.github.com/spec/v1
+oid sha256:e14e0bb492909b2ec3a0c6767bc9e7eb930cc02c34256cdaee6937fd01a2c901
+size 192

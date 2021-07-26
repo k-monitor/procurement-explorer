@@ -1,1 +1,3 @@
-Az MFB Zrt.-nél működő SAP felhasználói licencek „Standard SAP Support” szolgáltatási szintként említett szoftverkövetésének biztosítása, határozott időre szóló szoftver - karbantartási szerződés alapján.
+version https://git-lfs.github.com/spec/v1
+oid sha256:002b89173384f52b31b60aa246c7aa27f8dc4c7b0bf4542fe3ed61b0c9308082
+size 231

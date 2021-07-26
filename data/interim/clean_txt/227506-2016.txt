@@ -1,1 +1,3 @@
-pet-ct beszerzés karbantartás a semmelweis egyetem részére
+version https://git-lfs.github.com/spec/v1
+oid sha256:87046935f80d221ebd4448f6fd51c91cdb08f8403a0cac1186ede11bc3cd3440
+size 62

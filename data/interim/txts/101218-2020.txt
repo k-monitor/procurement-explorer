@@ -1,1 +1,3 @@
-Villamosenergia versenypiaci beszerzése az Országgyűlés Hivatala fogyasztási helyei teljes körére kiterjedően, teljes ellátás alapú, fogyasztói menetrend adási kötelezettség nélkül. A villamos energiáról szóló 2007. évi LXXXVI. törvény (a továbbiakban: VET) 63.§-ának (1) bekezdése alapján a hálózati csatlakozási, hálózathasználati és villamosenergia-vásárlási szerződések összevont kezelése, a hálózathasználathoz szükséges szerződések megkötése, az ajánlattevő által képviselt mérlegkörhöz történő csatlakozás. A villamosenergia feszültségjellemzői az MSZ EN 50160:2011 (A közcélú elosztóhálózatokon szolgáltatott villamosenergia feszültségjellemzői) és az MSZ 1:2002 (Szabványos villamos feszültségek) szabványok által meghatározott értékek szerint.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bed529e29b2d633b4ce6be11d25c9b68063ef5fb5959e4359e80adbc476a1978
+size 838

@@ -1,1 +1,3 @@
-Adásvételi keretmegállapodás, melynek tárgya Magyarországon közvetlenül nem elérhető, külföldi kiadású tudományos és szakmai sorozat- és egyedi nyomású, vagy könyvárusítási forgalomba nem hozott szerzői kiadású, vagy konferenciákon megjelenő, vagy új, kiadóktól beszerezhető kiadványok, vagy régi kiadású, kiadóktól vagy a kiadó terjesztőjétől közvetlenül már nem beszerezhető, jellemzően antikváriumokon keresztül hozzáférhető könyvek és egyéb szakmai dokumentumok (minden, sokszorosítással előállított vagy elektronikusan létrehozott, nem időszaki jellegű kiadvány, hordozótól függetlenül) beszerzése, és ajánlatkérő egyes telephelyeire történő kiszállítása.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8ca7a2e55f1d3c8b5aa2e23136c38a1c5867f0ec8166ea6cae444b5529c533d9
+size 739

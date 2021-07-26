@@ -1,1 +1,3 @@
-Vállalkozási szerződés a „ELTE épületeinek energetikai fejlesztése” című, KEHOP-5.2.2/16-2017-00112 azonosító számú projekt keretében az ELTE Bárczi Gusztáv Gyógypedagógiai Kar épületének energetikai korszerűsítése tárgyában
+version https://git-lfs.github.com/spec/v1
+oid sha256:a79e3c3d604174ed73701a9841a6b21484c73956b3ec6da3179c2ffe324341da
+size 254

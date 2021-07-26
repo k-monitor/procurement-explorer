@@ -1,1 +1,3 @@
-adásvételi szerződés fizikoterápiás készülék és műszer beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:acdf401fd03187e14d0bea6210b10395b851069e4a43abfbc6284b8607484103
+size 76

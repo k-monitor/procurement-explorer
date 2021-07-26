@@ -1,2 +1,3 @@
-kézfertőtlenítési technika mérő rendszer beszerzés a pte részére az efop-2
-18-17-2017-00017 projekt keret a közbeszerzési dokumentum meghatározott szerint
+version https://git-lfs.github.com/spec/v1
+oid sha256:4e1621a69151f067f10dbc9f818fd682f3078c5369aab5146b545c63e1d54bdb
+size 166

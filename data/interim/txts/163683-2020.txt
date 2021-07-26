@@ -1,1 +1,3 @@
-1. rész: Bútorok a Ráckevei Járásbíróság új épületébe 2. rész: Görgős munkaszékek beszerzése A nyertes ajánlattevő köteles a bútorokat a helyszínre leszállítani, összeszerelni és beállítani. Ajánlatkérő csak rendeltetésszerű használatra alkalmas, új bútorokat fogad el.
+version https://git-lfs.github.com/spec/v1
+oid sha256:65089db64ec677c82c6aa7e5753d9adf00caec8d09a11fe73e59dd79cef9f02d
+size 305

@@ -1,1 +1,3 @@
-DEK-467/2017.: Adásvételi keretszerződés a Debreceni Egyetem Klinikai Központ Kardiológiai és Szívsebészeti Klinika részére gyógyszerkibocsátó stentek beszerzésére konszignációs raktár üzemeltetésével. Beszerzés tárgya: I. típusú gyógyszerkibocsátó stent. Mennyisége: 240 db/2 év.
+version https://git-lfs.github.com/spec/v1
+oid sha256:57a026f3d6dd6b79123fbaad3f14a45e678d235a85995f183185ac7581b7f064
+size 311

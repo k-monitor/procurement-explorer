@@ -1,8 +1,3 @@
-3	3	NUM	Case=Nom|NumType=Card|Number=Sing	
-db	db	NOUN	Case=Nom|Number=Sing	
-laboratóriumi	laboratóriumi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-robotikus	robotikus	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-munkaállomás	munkaállomás	NOUN	Case=Nom|Number=Sing	
-beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:b9981d4ef64db822d0b4e4d971392088e91ad2173a6204f26a08b6f5a0701f10
+size 354

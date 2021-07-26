@@ -1,9 +1,3 @@
-1. rész
-ajánlatkérő vagyonelem biztosítás
-2. rész
-géptörés biztosítás
-az ajánlatkérő tevékenység
-működés összefüggő felelősségbiztosítás
-gépjármű casco és kötelező felelősségbiztosítás
-illetve a dolgozó élet
-és balesetbiztosítás
+version https://git-lfs.github.com/spec/v1
+oid sha256:21a1fab0b09739ffdb00d112472d8497b4ba3d44352395bac05016225e1994fe
+size 270

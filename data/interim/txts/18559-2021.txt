@@ -1,1 +1,3 @@
-Modern Városok Program keretében "Békéscsaba - Versenyuszoda tervezése".
+version https://git-lfs.github.com/spec/v1
+oid sha256:10d09d67611d53e533b228a50e8fc0db2881daa5d36b199ad62942e747f47a71
+size 77

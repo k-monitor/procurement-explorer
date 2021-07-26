@@ -1,1 +1,3 @@
-Adásvételi szerződés elektron tomográf beszerzése, beállítása, beüzemelés és betanítása tárgyban. Csak gyári új rendszer szállítható.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e9a1d34bc351afae6371a1d000305de87bc8ba8a46a9a8d6fd71e0c6c33d37e7
+size 153

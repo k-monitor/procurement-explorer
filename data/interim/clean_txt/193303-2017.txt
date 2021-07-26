@@ -1,2 +1,3 @@
-gázminőségi előírás megfelelő földgáz energia beszerzés makó
-teljes ellátás alapú földgáz-kereskedelmi szerződés keret legfeljebb hónapos időszak vonatkozó
+version https://git-lfs.github.com/spec/v1
+oid sha256:ebe8365cf18392b2f67f8b71631888adfbd04ffe0dfdc2c1515d0e573eecd3d6
+size 176

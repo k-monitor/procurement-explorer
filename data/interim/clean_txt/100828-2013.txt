@@ -1,10 +1,3 @@
-vállalkozási szerződés műtőasztal
-műtőlámpa
-vizsgáló lámpa javítás
-szervizelés tárgy
-az ajánlatkérő
-full
-szerződés kér ajánlat
-az ajánlattevő a szerződés keret folyamatos el kell végez és dokumentál az
-egészségügyi eszköz
-jogszabály által előírt biztonsági felülvizsgálat
+version https://git-lfs.github.com/spec/v1
+oid sha256:7529dae1abf6b8bd7c0ebf43ed5f53a85c8ca9fa028596b9f87162ea51b69e1f
+size 312

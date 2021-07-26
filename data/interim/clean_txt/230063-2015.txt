@@ -1,1 +1,3 @@
-zala megyei kórház zalaegerszeg
+version https://git-lfs.github.com/spec/v1
+oid sha256:87c384ca6b484fc8a76707670d0224ad355c483f2370a05218f6f7140b74aa23
+size 33

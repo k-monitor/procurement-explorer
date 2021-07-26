@@ -1,1 +1,3 @@
-Fő tevékenységek: 1. intenzív terápiás szakorvosi ellátás és szakápolás biztosítása a 6 ágyas pulmonológiai intenzív részlegen; 2. POCT (ágymelletti diagnosztika) alkalmazása (vérgáz, laboratóriumi célgépek, helyi digitális rtg-felvétel készítése); 3. egészségügyi dokumentáció vezetése; 4. szakorvosi konzílium adása az intézet egyéb osztályain dolgozó tüdőgyógyászok kérésére; 5. altatásos bronchoscopiához aneszteziológiai szakorvosi ellátás; 6. reanimációs készenlét az intézmény egész területére vonatkozóan.
+version https://git-lfs.github.com/spec/v1
+oid sha256:45d741879c60b62ef07e0371d6ea37c52d1ec8da74bba421a2042fdec402508f
+size 576

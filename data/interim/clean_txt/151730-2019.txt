@@ -1,33 +1,3 @@
-kecskemét közigazgatási terület az önkormányzati közútkezelő hatáskör tartozó úthálózat telepített
-gépjármű és gyalogos forgalom szabályozás szolgáló
-közlekedési lámpa
-lámpacsoport
-forgalomérzékelő detektor
-okos zebra
-safecross intelligens gyalogátkelő rendszer
-üzemeltetés
-korszerűsítés
-a meglévő internetes távfelügyeleti
-stit
-rendszer karbantartás és üzemeltetés
-szabvány-követelmény követés
-és az az eltérő rendszerjellemző szükség szerinti kiegészítés vagy átalakítás
-különös tekintet a forgalom-szabályozás dinamizmus javítás
-valamint az energiatakarékos
-hosszú élettartamú eszköz alkalmazás
-ak a közbeszerzés szóló 2015. évi
-törvény
-a további
-kbt.
-81. §
-bekezdés valamint az elektronikus közbeszerzés részletes szabály szóló
-2017.
-korm
-rendelet
-a további
-ekrr
-rendelkezés alap
-az elektronikus közbeszerzési rendszer
-a további
-ekr
-igénybevétel jár el
+version https://git-lfs.github.com/spec/v1
+oid sha256:0f4fb8fde8464d7c5d1300c31224748f5838c35141db5a87f81df01fc3e30eb6
+size 956

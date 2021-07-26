@@ -1,16 +1,3 @@
-Szállítási	Szállítási	PROPN	Case=Nom|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-alapján	alap	NOUN	Case=Sup|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-Villamos	Villamos	PROPN	Case=Nom|Number=Sing	
-energia	energia	NOUN	Case=Nom|Number=Sing	
-beszerzés	beszerzés	NOUN	Case=Nom|Number=Sing	
-a	a	DET	Definite=Def|PronType=Art	
-közös	közös	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-ajánlatkérők	ajánlatkérő	NOUN	Case=Nom|Number=Plur	
-Dokumentációban	dokumentáció	NOUN	Case=Ine|Number=Sing	
-megjelölt	megjelölt	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPast	
-csatlakozási	csatlakozási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-pontjai	pont	NOUN	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3	
-részére	részére	ADP	_	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:ff6c60cfb68c8b1ef5224cb291e3f1774a2810a89c0371a0367868215f58cf94
+size 781

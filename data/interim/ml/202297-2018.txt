@@ -1,5 +1,3 @@
-VEKOP	VEKOP	PROPN	Case=Nom|Number=Sing	
-Laboreszköz	laboreszköz	NOUN	Case=Nom|Number=Sing	
-beszerzés	beszerzés	NOUN	Case=Nom|Number=Sing	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:e753a701d147fc6ddb1a6b24e66313a01c02182bc30c21ebc8da99d541ccc740
+size 156

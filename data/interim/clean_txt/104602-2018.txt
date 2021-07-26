@@ -1,1 +1,3 @@
-budapesti szent ferenc kórház közel energiaigényű épület kivitelezés vállalkozási szerződés keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:49108f33411bf1c6ff1c06afd58d580ca688ec1f4cac521898094d3b269a8d8d
+size 109

@@ -1,1 +1,3 @@
-A Pécsi Tudományegyetem részére antibiotikumok beszerzése adásvételi keretszerződés keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:26eda0cd2ef7729d36ef3b030bc523a5ffa32f0960560af57a0b5b683abcd38b
+size 104

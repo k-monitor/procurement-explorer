@@ -1,2 +1,3 @@
-száraz
-és konzerváru
+version https://git-lfs.github.com/spec/v1
+oid sha256:906d0112bd73db281f87d18caf304ce13c853ce947274f83d9fbb61ff081923f
+size 23

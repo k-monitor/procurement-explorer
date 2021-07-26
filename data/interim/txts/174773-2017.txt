@@ -1,1 +1,3 @@
-Mórahalom város közigazgatási területén közszolgáltatási szerződés keretében a települési szilárd hulladék rendszeres begyűjtése, elszállítása, kezelése, közszolgáltatási feladat ellátásához kapcsolódó létesítmények üzemeltetése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5d5bc53c9bb8f385d68b3e275011e337f48a5d66f16f2b44c3f56537cda1c4ab
+size 264

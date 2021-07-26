@@ -1,12 +1,3 @@
-adásvételi szerződés megkötés irányuló közbeszerzési eljárás az ajánlati dokumentáció részletezett szerinti db új
-első alkalom forgalom helyezett
-személyszállítás gyártott
-8+1 fő
-utas és vezető
-szállítás alkalmas
-azonos márkájú és típusú személygépkocsi
-mikrobusz
-beszerzés vonatkozás a tiop 2.2.3
-1-2012-0001
-kódszámú program keret
-amely maga foglal a hónapos jótállási idő alatti szervizelés biztosítás is
+version https://git-lfs.github.com/spec/v1
+oid sha256:eed94af842f4bd45dbb866f1e8c2aef9b6419a323e7d864e383d4b158dfcfe5a
+size 457

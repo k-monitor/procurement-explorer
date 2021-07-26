@@ -1,1 +1,3 @@
-A KEOP – 5.6.0/E/15. „Egészségügyi eszközök energia megtakarítást célzó beszerzésének támogatása” című konstrukció pályázati felhívásának 2.szakasza keretében 3 db röntgen berendezés beszerzése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3a46a4d46daf7fa7406d3620b37ce708c575a52ab8da0a8c2f48dac956276cd5
+size 225

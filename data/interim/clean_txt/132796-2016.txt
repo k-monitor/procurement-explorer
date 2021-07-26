@@ -1,5 +1,3 @@
-vezetékes földgáz beszerzés teljes ellátás alapú földgáz adás-vételi szerződés keret 1.7.2016
-cet
-10.2017
-cet
-közötti időszak
+version https://git-lfs.github.com/spec/v1
+oid sha256:5f616aed690a01e00ffb75ef48f9d180335365fbfc8e602171e3c54281cfd88c
+size 141

@@ -1,1 +1,3 @@
-Adásvételi szerződés / A Magyar Honvédség katasztrófavédelemmel összefüggő beavatkozási képességének fejlesztése – vegyivédelmi technikai eszközök beszerzése – KEHOP 1.6.0. 2 készlet Sebesült Mentesítő Rendszer /utánfutón/(SMR-U), vagy azzal egyenértékű eszköz beszerzése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a17c81af3e6b103c9c7f79383b6f516c2590665089bc7589108beb00bcf0a61e
+size 307

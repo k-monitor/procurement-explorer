@@ -1,1 +1,3 @@
-db laboratóriumi robotikus munkaállomás beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:5ee0dfebed2e8e310cb43b057e38ac4d21d98af0375964c97dce8b0c595a5f01
+size 53

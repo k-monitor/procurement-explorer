@@ -1,1 +1,3 @@
-Kereskedelmi szerződés szabványos minőségű MSZ EN 50160:2011 és az MSZ 1:2002 szabványok előírásainak megfelelő villamos energia beszerzésére az MTVA csatlakozási pontjai részére, fogyasztói menetrendadás nélkül 1.4.2016. – 31.12.2017. közötti időszakra.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ad1684b96755fc9ffe33b9f7a92695a572d5bef0a315c3f0f85380d4ee3a4226
+size 280

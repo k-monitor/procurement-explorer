@@ -1,8 +1,3 @@
-szállítási szerződés keret a
-sajó-bódva völgy és környék hulladékgazdálkodási rendszer fejlesztés eszközbeszerzés
-elnevezésű keop-1
-1.1
-c
-13-2013-0002 számú projekt megvalósítás szükséges eszköz beszerzés
-gyűjtőjármű
-valamint gép beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:ec37d2d6901bb264d52181bf0159f72405db1f93a0e5a06208cda9de7f32ab0a
+size 273

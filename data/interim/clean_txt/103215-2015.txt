@@ -1,7 +1,3 @@
-keop-1
-1.1
-c
-13-2013-0040 kódszámú
-települési szilárdhulladék-gazdálkodási rendszer fejlesztés székesfehérvár
-című pályázat kapcsolódó hulladéktömörítő és
-szállító gépjármű beszerzés szállítási szerződés keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:e4bb43b1f7bbcd226b13fbc2c5270983e66320a8de1bc08b2b1b4f66f4a38aab
+size 246

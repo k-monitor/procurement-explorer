@@ -1,1 +1,3 @@
-Magyar Turisztikai Ügynökség Zrt. részére 2017. évi külföldi turisztikai, bor-gasztronómiai, valamint MICE kiállítások magyar kollektív standjának megvalósítása Vállalkozási Szerződés keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ddb944111e166775729a3b761bfc700a86ed4f438ab31b53dfb3d1cde721e306
+size 216

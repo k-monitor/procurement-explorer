@@ -1,12 +1,3 @@
-Az	az	DET	Definite=Def|PronType=Art	
-ÉBH	ÉBH	PROPN	Case=Nom|Number=Sing	
-Észak-Balatoni	észak-balatoni	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-Hulladékgazdálkodási	hulladékgazdálkodási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-Kft.	kft.	NOUN	Case=Nom|Number=Sing	
-részére	részére	ADP	_	
-1	1	NUM	Case=Nom|NumType=Card|Number=Sing	
-db	db	NOUN	Case=Nom|Number=Sing	
-aprítógép	aprítógép	NOUN	Case=Nom|Number=Sing	
-bérlése	bérlés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:1f7f8f3979f70ca4fe298b6310b965f438aa0e4c7103753676f4651eaf97b713
+size 515

@@ -1,1 +1,3 @@
-adásvételi szerződés röntgen és átvilágító készülék beszerzés a semmelweis egyetem 1. sz. gyermekgyógyászati klinika részére
+version https://git-lfs.github.com/spec/v1
+oid sha256:b1b634afdddd08557b6740a7a7129eecccad42b74e82c61549a727a8925ded3e
+size 142

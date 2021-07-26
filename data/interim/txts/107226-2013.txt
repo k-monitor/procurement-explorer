@@ -1,1 +1,3 @@
-Földgáz energia szállítása Makón a helyben központosított beszerzési rendszer hatálya alá tartozó intézmények és szervezetek felhasználási helyei részére 2013.7.1. - 2014.7.1. időszakra vonatkozóan, teljes ellátás alapú földgáz áruszállítási szerződés keretében. A felhasználási helyek részletes adatai az Ajánlattételi dokumentációban találhatók.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f8ce3d33262d5b992c7061892578cdf480643723ab6769bca0e3ccecd816a63b
+size 389

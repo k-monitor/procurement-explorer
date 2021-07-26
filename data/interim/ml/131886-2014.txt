@@ -1,17 +1,3 @@
-Rulírozó	Rulírozó	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-hitelfelvétel	hitelfelvétel	NOUN	Case=Nom|Number=Sing	
-az	az	DET	Definite=Def|PronType=Art	
-MVK	MVK	PROPN	Case=Nom|Number=Sing	
-Miskolc	Miskolc	PROPN	Case=Nom|Number=Sing	
-Városi	Városi	PROPN	Case=Nom|Number=Sing	
-Közlekedési	Közlekedési	PROPN	Case=Nom|Number=Sing	
-Zrt.	Zrt.	PROPN	Case=Nom|Number=Sing	
-projektjeivel	projekt	NOUN	Case=Ins|Number=Plur|Number[psor]=Sing|Person[psor]=3	
-kapcsolatos	kapcsolatos	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-ÁFA	áfa	NOUN	Case=Nom|Number=Sing	
-és	és	CONJ	_	
-támogatási	támogatási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-összeg	összeg	NOUN	Case=Nom|Number=Sing	
-előfinanszírozására	előfinanszírozás	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:dc8bf9417f431d811b4a981cd50c6b5e136a22da6f374d9942baa0d5735ced8f
+size 809

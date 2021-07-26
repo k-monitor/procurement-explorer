@@ -1,6 +1,3 @@
-megbízási szerződés
-8. sz. főút márkó-herend
-63+778-69+055 km sz.
-közötti szakasz kn burkolat-megerősítési
-korszerűsítési
-valamint kapcsolódó létesítmény kivitelezési munka mérnök feladat ellátás
+version https://git-lfs.github.com/spec/v1
+oid sha256:03f5fcac60221c7efa4f11d0f0344ea9a54217b31ebe12f98963d15f3b147bca
+size 221

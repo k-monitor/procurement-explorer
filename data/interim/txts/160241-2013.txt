@@ -1,1 +1,3 @@
-Irodai papírok, papíráruk, író- és irodaszerek szállítása a Nemzeti Adó- és Vámhivatal részére.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b534f9de938d0b43258982f031382fc3800bbb3a3ea5607bf20fb0f4f561b5c9
+size 109

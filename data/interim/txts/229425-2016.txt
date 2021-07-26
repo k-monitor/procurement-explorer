@@ -1,1 +1,3 @@
-Adásvételi szerződések keretében kényszerszállító gépjárművek beszerzése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ccee25fa4baea7e8effa4d2f866ca12702bc0b33bf801afa1307fa63f2c43a71
+size 86

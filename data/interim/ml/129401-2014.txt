@@ -1,15 +1,3 @@
-Határozott	határozott	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-idejű	idejű	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-1	1	NUM	Case=Nom|NumType=Card|Number=Sing	
-éves	éves	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szállítási	szállítási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-keretei	keret	NOUN	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3	
-között	között	ADP	_	
-élelmezési	élelmezési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-alapanyagok	alapanyag	NOUN	Case=Nom|Number=Plur	
-és	és	CONJ	_	
-élelmiszerek	élelmiszer	NOUN	Case=Nom|Number=Plur	
-szállítása	szállítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:47582063716e9a3511d50a32f0e50dbdea7ab6c2996eb42cee42075d68002ae0
+size 701

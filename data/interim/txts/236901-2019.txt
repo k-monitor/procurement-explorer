@@ -1,1 +1,3 @@
-Villamosenergia beszerzése a Nemzeti Ménesbirtok és Tangazdaság Zrt. részére a 2020-as évre
+version https://git-lfs.github.com/spec/v1
+oid sha256:8e557a1f047711e41c3792ee897e6836a82204ad11b532fafe988b237186d827
+size 98

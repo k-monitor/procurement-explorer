@@ -1,5 +1,3 @@
-Fejlesztéspolitikai	fejlesztéspolitikai	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-rendszerek	rendszer	NOUN	Case=Nom|Number=Plur	
-hardverinfrastruktúra	hardverinfrastruktúra	NOUN	Case=Nom|Number=Sing	
-bővítése	bővítés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:bc6498d255b0d191dab9409b069c2433978a417bb05e4521ff033d4017fbaa2d
+size 283

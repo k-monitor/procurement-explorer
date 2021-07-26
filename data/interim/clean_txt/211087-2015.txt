@@ -1,6 +1,3 @@
-keop-5
-6.0
-e
-azonosítószámú projekt keret darab digitális felvételi
-átvilágító röntgen berendezés
-valamint darab kombinált perifériás és kardiológiai dsa berendezés beszerzés a fejér megyei szent györgy egyetemi oktató kórház részére
+version https://git-lfs.github.com/spec/v1
+oid sha256:1eb36607501dd987322f0e1923931df71f07c91931ddd4fe279c8548f9e685ce
+size 259

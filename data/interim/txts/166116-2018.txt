@@ -1,1 +1,3 @@
-A Modern Városok Program keretében „a debreceni Nagyerdő program befejezése” tárgyú projekt kivitelezési munkálatai.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a6903d256a8ebaaf61ffd51a14de6243d8ba9ac85ef239a3154251229634d18c
+size 128

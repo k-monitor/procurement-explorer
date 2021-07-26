@@ -1,1 +1,3 @@
-Járda- és kerékpárút takarító gépek beszerzése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:46e5bf952510005dcf438feba965dbc149625b8bf282b727e7d1bb68e942528e
+size 56

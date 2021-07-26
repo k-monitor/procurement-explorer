@@ -1,3 +1,3 @@
-ferencvárosi intézmény üzemeltetési központ által üzemeltetett intézmény részére földgáz beszerzés 1.7.2016 nap
-nap
-közötti időszak
+version https://git-lfs.github.com/spec/v1
+oid sha256:46355a9815832c65694fe550c3195db62816432c2c8e595a9e1a76ef30a2a691
+size 149

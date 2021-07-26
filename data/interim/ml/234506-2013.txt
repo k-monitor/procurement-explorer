@@ -1,18 +1,3 @@
-Szolgáltatási	szolgáltatási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
--	-	PUNCT	_	
-Szerver	szerver	NOUN	Case=Nom|Number=Sing	
-és	és	CONJ	_	
-hozzá	ő	PRON	Case=All|Number=Sing|Person=3|PronType=Prs	
-kapcsolódó	kapcsolódó	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-eszköz	eszköz	NOUN	Case=Nom|Number=Sing	
-karbantartási	karbantartási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-,	,	PUNCT	_	
-szoftverkövetési	szoftverkövetési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-és	és	CONJ	_	
--	-	PUNCT	_	
-támogatási	támogatási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szolgáltatások	szolgáltatás	NOUN	Case=Nom|Number=Plur	
-beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:b2cefc9c16e780375b8e63d7e31295c52bb4c1803f6b3deec14ddc753c79089b
+size 778

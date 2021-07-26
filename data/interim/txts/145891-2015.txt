@@ -1,1 +1,3 @@
-Megbízási szerződés a Dél-budai Egészségügyi Szolgálat Közhasznú Nonprofit Kft. pénzügyi-, számviteli-, bér-, és munkaügyi feladatainak ellátása tárgyában.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f10bc144601961999cad51342cb28207421efad6b4399408359f8c75e4a3fff1
+size 176

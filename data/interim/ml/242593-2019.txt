@@ -1,15 +1,3 @@
-Táblaszintű	táblaszintű	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-adatgyűjtés	adatgyűjtés	NOUN	Case=Nom|Number=Sing	
-a	a	DET	Definite=Def|PronType=Art	
-2018	2018	NUM	Case=Nom|NumType=Card|Number=Sing	
-/	/	PUNCT	_	
-2019.	2019.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
-és	és	CONJ	_	
-2019	2019	NUM	Case=Nom|NumType=Card|Number=Sing	
-/	/	PUNCT	_	
-2020.	2020.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
-gazdasági	gazdasági	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-évekre	év	NOUN	Case=Sub|Number=Plur	
-két	két	NUM	Case=Nom|NumType=Card|Number=Sing	
-részben	rész	NOUN	Case=Ine|Number=Sing	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:569ad4a81f65238110503ff46ef95b5e4f417e719d5b8e6c1099e6feea4bc656
+size 585

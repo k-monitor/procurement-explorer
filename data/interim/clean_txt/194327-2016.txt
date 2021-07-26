@@ -1,1 +1,3 @@
-tervezési szerződés a liget üzemeltetési központ épület megvalósítás szükséges építészeti és szakági tervezés
+version https://git-lfs.github.com/spec/v1
+oid sha256:ad7bb776716f6ba65f68492fc3182027fcca437090be08c01514eecd36e50e9d
+size 128

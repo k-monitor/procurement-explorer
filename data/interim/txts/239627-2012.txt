@@ -1,1 +1,3 @@
-Megbízási szerződés a Bajai agglomerációhoz tartozó települések szennyvízcsatornázása és szennyvíztisztítása KEOP-1.2.0/2F/09-2010-0078 számú projekt megvalósításához szükséges FIDIC mérnöki és műszaki ellenőri tevékenység ellátására.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e0dbe1c4bdac6a237eaae6deb161c49b79f608b26ef32a286f9ed130450bf58b
+size 268

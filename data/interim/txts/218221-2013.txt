@@ -1,1 +1,3 @@
-Mérnök szervezet beszerzése "Budapesti villamos és trolibusz járműfejlesztés I. ütem" projekt keretében megvalósuló villamos és trolibusz beszerzéséhez és a kapcsolódó infrastruktúra tervezéshez és megvalósításához.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4670efc70a3f7ab433c77d13fe932b40c38c39d7abf1de0a432c560d7c8e97e0
+size 239

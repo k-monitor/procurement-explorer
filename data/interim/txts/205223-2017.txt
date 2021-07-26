@@ -1,1 +1,3 @@
-Zalaegerszeg Megyei Jogú Város Önkormányzata intézményeinek teljes alapú földgáz energia ellátása 2017-2019. gázévre földgáz energia kereskedelmi szerződés keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d8416d16796829d4467f035d5950b2afe9461a77f27f3cbf1010b6b396f09214
+size 184

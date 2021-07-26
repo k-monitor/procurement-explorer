@@ -1,5 +1,3 @@
-üzemanyag kiszolgáló rendszer
-eszköz karbantartás
-javítás
-hitelesítés
-év
+version https://git-lfs.github.com/spec/v1
+oid sha256:93722ec0abab21dc582fbc635bd3d968bc857683a17610685eb43b1228234bcf
+size 82

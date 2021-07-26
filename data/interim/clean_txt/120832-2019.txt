@@ -1,2 +1,3 @@
-általányáras vállalkozási szerződés keret szeged
-cső utcai óvoda fejlesztés kivitelezési munka
+version https://git-lfs.github.com/spec/v1
+oid sha256:8644d9660096fa00e8dc82ba0f320cf165e3507aced404fdc6fa93397e4fe353
+size 105

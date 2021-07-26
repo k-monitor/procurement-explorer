@@ -1,10 +1,3 @@
-1. rész
-a leszih óvoda energetikai korszerűsítés a top-6
-1-16-mi1-2017-00020 pályázat keret belül 2. rész
-a belvárosi óvoda energetikai korszerűsítés a top-6
-1-16-mi1-2017-00012 pályázat keret belül 3. rész
-a mesevár óvoda energetikai korszerűsítés a top-6
-1-16-mi1-2017-00007 pályázat keret belül 4. rész
-a diósgyőri óvoda energetikai korszerűsítés a top-6
-1-16-mi1-2017-00009 pályázat keret belül 5. rész
-a százszorszép óvoda energetikai korszerűsítés a top-6
+version https://git-lfs.github.com/spec/v1
+oid sha256:1029aaca95106b5062b3ae3815b048228c7f00a9740bfe76e2ef9c4b0d9dabd8
+size 504

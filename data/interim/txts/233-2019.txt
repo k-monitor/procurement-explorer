@@ -1,1 +1,3 @@
-Járóbeteg-szakellátás orvostechnológiai eszközbeszerzése 8 részben
+version https://git-lfs.github.com/spec/v1
+oid sha256:13a153bfd4dded55ef6a3a658930619d2b20a1813322cba772594c85a2d5373a
+size 74

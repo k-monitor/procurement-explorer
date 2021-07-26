@@ -1,11 +1,3 @@
-Főzési	főzési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-alapanyag	alapanyag	NOUN	Case=Nom|Number=Sing	
-és	és	CONJ	_	
-élelmiszer	élelmiszer	NOUN	Case=Nom|Number=Sing	
-beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-(	(	PUNCT	_	
-adásvételi	adásvételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-)	)	PUNCT	_	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:d32e56ea84dbb7e4078226f6a61d4c8923003bb420569ff3b516bfd7de73e9f0
+size 406

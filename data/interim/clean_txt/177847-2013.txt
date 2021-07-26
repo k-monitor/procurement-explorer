@@ -1,17 +1,3 @@
-szállítási szerződés tárgya
-motor
-hajtómű
-és hidraulika olaj
-kenőzsír
-egyéb olaj és a belső égésű motor működtetett gép
-jármű üzemeltetés szükséges fagyálló hűtőfolyadék
-fékfolyadék
-szélvédőmosó folyadék
-kiegészítő anyag
-szállítás a szerződés aláírás követő folyamatos a szerződés időtartam alatt
-a magyar közút nonprofit zrt. telephely
-az által kért mennyiségi ütemezés
-az egyedi lehívás
-megrendelés
-megfelelő telephely
-a meghatározott mennyiség és kiszerelés kell szállít
+version https://git-lfs.github.com/spec/v1
+oid sha256:8bf2a6fc5ddde61c1ddc8caa06851a15c54480798406e752ae7678e866055f7e
+size 544

@@ -1,1 +1,3 @@
-Megbízási szerződés a 4 sz. főút Debrecen elkerülő szakasz szervizutak (Bocskaikert) építés kivitelezési munkáinak mérnöki és műszaki ellenőri feladatainak ellátása, valamint a kivitelezésre vonatkozó közbeszerzési eljárás előkészítésében és lefolytatásában való szakértői közreműködés (K004.14).
+version https://git-lfs.github.com/spec/v1
+oid sha256:9d24e5a050a897d9cf14bdc165a7440145d9424f29d3c05006920e391afef168
+size 337

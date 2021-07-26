@@ -1,1 +1,3 @@
-A Volánbusz Zrt. működéséhez szükséges Microsoft szoftver licencek beszerzése
+version https://git-lfs.github.com/spec/v1
+oid sha256:ced76294c9c32e57b3b471664c0acbe77818bea605045433d9abb312675a90fc
+size 85

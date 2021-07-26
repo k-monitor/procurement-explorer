@@ -1,1 +1,3 @@
-generálkivitelezői szerződés új speciális képzési intézmény és kapcsolódó létesítmény megvalósítás
+version https://git-lfs.github.com/spec/v1
+oid sha256:a0b686c5f973545eedad5d751828a6d8f2bb30f913f8e397adf3ab9393ba352e
+size 117

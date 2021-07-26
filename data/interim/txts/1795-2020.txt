@@ -1,1 +1,3 @@
-Az Észak-Közép-budai Centrum Új Szent János Kórház és Szakrendelő - Rendelőintézet fejlesztése - tervezés
+version https://git-lfs.github.com/spec/v1
+oid sha256:d4218ea9f9ccc6570059392f7163f45cce8c57aa467b0185088a216944d4c221
+size 118

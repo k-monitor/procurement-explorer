@@ -1,2 +1,3 @@
-tamási város közigazgatási terület keletkező települési szilárd hulladék gyűjtés
-elszállítás és kezelés
+version https://git-lfs.github.com/spec/v1
+oid sha256:e59f4638ac541d76fd25f740cae85c95bab53c9f837c3cc14c46ae9b686a98eb
+size 120

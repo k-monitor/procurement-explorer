@@ -1,8 +1,3 @@
-adásvételi szerződés téli és nyári adapter beszerzés
-1. rész
-adásvételi keretszerződés db padkakasza adapter beszerzés 2. rész
-adásvételi keretszerződés db rézsűkasza adapter beszerzés 3. rész
-adásvételi keretszerződés db homlokseprő adapter beszerzés 4. rész
-adásvételi keretszerződés db homlokhóeke adapter beszerzés 5. rész
-adásvételi keretszerződés db sószóró adapter beszerzés szállítási hely
-eszköz fő részére min. órás oktatás megtartás is nyertes ajánlattevő feladat
+version https://git-lfs.github.com/spec/v1
+oid sha256:86cfb02daf06ddc669e396fa2eb84c894301ac362881c689a27a50d894564123
+size 532

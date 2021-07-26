@@ -1,11 +1,3 @@
-Gőzhőenergia	gőzhőenergia	NOUN	Case=Nom|Number=Sing	
-szállítása	szállítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-a	a	DET	Definite=Def|PronType=Art	
-Ferencvárosi	Ferencvárosi	PROPN	Case=Nom|Number=Sing	
-Torna	Torna	PROPN	Case=Nom|Number=Sing	
-Club	Club	PROPN	Case=Nom|Number=Sing	
-népligeti	népligeti	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-sporttelepe	sporttelep	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-részére	részére	ADP	_	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:c3ccf8eeb9ea98eb362d7d6363528113a8225f4c91e401ae664c9db388e1ec2d
+size 496

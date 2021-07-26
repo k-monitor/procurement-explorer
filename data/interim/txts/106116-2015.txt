@@ -1,1 +1,3 @@
-Szállítási szerződés a II.2.1. pont szerinti mennyiségű tejtermékek és száraztészta beszerzésére és szállítására.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9b27cf801eac05065972331e7f54e548521ed8f82518526a911df78ffde0e826
+size 131

@@ -1,13 +1,3 @@
-Tervezési	tervezési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-a	a	DET	Definite=Def|PronType=Art	
-Dunakeszi	dunakeszi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-meglévő	meglévő	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-üzemmérnökségi	üzemmérnökségi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-telep	telep	NOUN	Case=Nom|Number=Sing	
-ütemezett	ütemezett	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPast	
-bővítésére	bővítés	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-vonatkozó	vonatkozó	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-tervdokumentációk	tervdokumentáció	NOUN	Case=Nom|Number=Plur	
-elkészítésére	elkészítés	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:a8268abee21f1f1fa70c3caee3b02e6c8a7a4a124eee129578dc18a8606129e9
+size 790

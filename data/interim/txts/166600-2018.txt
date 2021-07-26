@@ -1,1 +1,3 @@
-Kötszerek beszerzése, összesen 1 606 614 db, 11 732 csomag, 650 tekercs, 1 080 levél, 4 590 lap, 200 doboz mennyiségben, 16 ajánlati részben.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d42e9de0c1fe9539a828092945f00ac218d52c91cc2df118091cffa121f32967
+size 148

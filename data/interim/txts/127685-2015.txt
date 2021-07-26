@@ -1,1 +1,3 @@
-Az állampapírok értékesítésének támogatása érdekében média- tervezés és vásárlás lebonyolítása.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6e72108143eacfc12ffa2f5e15d29a249b23f745c2c6c84daad9b333d5d0d903
+size 114

@@ -1,1 +1,3 @@
-Szolgáltatási szerződés: Gazdálkodó szervezetekkel kapcsolatos települési szilárd hulladékkezelési részfeladatok (gyűjtés, szállítás) ellátására.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d2d743e07ddfe60763beccb8c3dd0ad150c4daf5b509f415a656f2e6e37f660e
+size 165

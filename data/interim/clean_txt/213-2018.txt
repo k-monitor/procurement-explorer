@@ -1,27 +1,3 @@
-1. részajánlat
-cementes csípőízületi totál protézis secundaer coxarthrosis kezelés
-traumatológia
-ortopédia
-db ii
-részajánlat
-cement nélküli csípőízületi totál protézis
-traumatológia
-ortopédia
-db iii
-részajánlat
-cementes csípőízületi totál protézis
-primer coxarthrosis megoldás
-traumatológia
-ortopédia
-db
-részajánlat
-totál felszínpótló és revíziós térdprotézis fémtálcás tibiális komponens
-traumatológia
-ortopédia
-db 5. részajánlat
-csontcement
-traumatológia
-ortopédia
-grammos
-db
-grammos
+version https://git-lfs.github.com/spec/v1
+oid sha256:ec43e9696f895a7fdaa05f1298bef83b8340a639c45fccb67554852d91bef469
+size 540

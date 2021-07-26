@@ -1,5 +1,3 @@
-keretmegállapodás a
-2014.
-korm
-rendelet 1. § b
-pont szerinti víziközmű projekt kapcsolódó fidic mérnöki és műszaki ellenőri feladat ellátás
+version https://git-lfs.github.com/spec/v1
+oid sha256:6a3402b0f78428fab717255413ea16b557224a6a3bea269aadcdf2be94cff6b6
+size 154

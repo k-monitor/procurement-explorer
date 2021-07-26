@@ -1,11 +1,3 @@
-gyulladásos megbetegedés kezelés szolgáló tételes elszámolás alá eső baricitinib
-oeno kód és gyógyszer hatóanyag név
-baricitinib
-keretmennyiség
-mg
-valamint tofacitinib
-oeno kód és gyógyszer hatóanyag név
-tofacitinib
-keretmennyiség
-mg
-hatóanyag tartalmazó természet biztosítandó gyógyszerkészítmény beszerzés hónap aktív és hónap passzív időszak
+version https://git-lfs.github.com/spec/v1
+oid sha256:064d96890e4f1232a8253e94aafe90b62733b95eaa4fc44bf99ef370c0878764
+size 382

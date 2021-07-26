@@ -1,1 +1,3 @@
-Izzók és fénycsövek beszerzése a KEF részére
+version https://git-lfs.github.com/spec/v1
+oid sha256:136ce5225717b5fba4471f61294096a1e3d1fa144cc92b61dbfac7705ca62990
+size 51

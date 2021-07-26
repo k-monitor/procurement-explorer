@@ -1,10 +1,3 @@
-Szivattyúk	szivattyú	NOUN	Case=Nom|Number=Plur	
-beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-5	5	NUM	Case=Nom|NumType=Card|Number=Sing	
-részben	rész	NOUN	Case=Ine|Number=Sing	
-a	a	DET	Definite=Def|PronType=Art	
-Körös-vidéki	Körös-vidéki	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-Vízügyi	Vízügyi	PROPN	Case=Nom|Number=Sing	
-Igazgatóság	Igazgatóság	PROPN	Case=Nom|Number=Sing	
-részére	részére	ADP	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:af0c04d1fe6c906d4811fd169fecde1221b1a3117d0487eba0d4b1b18661e7d0
+size 454

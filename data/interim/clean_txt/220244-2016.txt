@@ -1,3 +1,3 @@
-megbízási keretszerződés keret a vidékfejlesztési program és a magyar halgazdálkodási operatív program keret az európai mezőgazdasági vidékfejlesztési alap valamint az európai tengerügyi és halászati alap forrás származó pénzeszköz felhasználás történő közbeszerzési eljárás
-illetve szerződés felügyelet ellátó szerv tevékenység segítő
-a mindenkor hatályos jogszabály alap fennálló feladat kapcsolódó közbeszerzési és jogi szakértői tanácsadás
+version https://git-lfs.github.com/spec/v1
+oid sha256:0e5ef229eea8342cb5b88d645f7e71d9545e4dce598c24185d324750be98473e
+size 498

@@ -1,1 +1,3 @@
-vállalkozási szerződés a jahn ferenc dél-pesti kórház és rendelőintézet kezelés lévő ingatlan takarítás
+version https://git-lfs.github.com/spec/v1
+oid sha256:f21530c07adbb124030dc029fb1ee722c79012b2077e171dcf26dfd6d63fc0ab
+size 118

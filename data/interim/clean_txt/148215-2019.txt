@@ -1,4 +1,3 @@
-vekop-5
-3.-17-2017-00002 kódszámú
-az ér
-elöljáró-velencei út forgalomirányít csomópont fejlesztés
+version https://git-lfs.github.com/spec/v1
+oid sha256:64a180f17f3c060b834ba6b3288f8dcacd3cdb023dfb8d4459fb01010bf4502e
+size 109

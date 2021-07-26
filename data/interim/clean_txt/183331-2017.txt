@@ -1,1 +1,3 @@
-kröger típusú vagy az egyenértékű szemétbunker téri polipmarkoló beszerzés és szállítás
+version https://git-lfs.github.com/spec/v1
+oid sha256:25291fce800f75f93eb57fa16c4d7727dab9eebc2863387e3e2c0266830f437c
+size 101

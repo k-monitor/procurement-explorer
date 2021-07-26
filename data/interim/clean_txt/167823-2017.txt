@@ -1,19 +1,3 @@
-ajánlatkérő a
-fókusz az önkormányzati tagság rendelkező a közfoglalkoztatás alap szerveződő szociális szövetkezet
-című támogatási program
-program
-kapcsolódó monitoring szolgáltatás kíván beszerez
-amely tevékenység kiterjed valamennyi
-a program támogatott szociális szövetkezet
-a monitoring cél
-hogy elősegít a program támogatott projekt szabályszerű működés a szociális szövetkezet tevékenység folyamatos szakmai és pénzügyi vizsgálat
-a kockázatelemzés és a folyamatos visszacsatolás módszer
-további cél a program támogatási szerződés foglalt szerinti megvalósítás kapcsolatos szakmai és pénzügyi tevékenység nyom követés
-naprakész információ biztosítás ajánlatkérő felé a projekt megvalósítás szempont kockázat jelentő tényező
-körülmény
-a monitoring vizsgálat alapvető elem áll
-dokumentum ellenőrzés
-monitoring látogatás
-monitoring jelentés
-telefon
-email elérhetőség
+version https://git-lfs.github.com/spec/v1
+oid sha256:76b263fd167875a555c91f1124cccb0ade97543f32faca0e69c394adf7ac7320
+size 964

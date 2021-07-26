@@ -1,12 +1,3 @@
-a
-1990.
-12.
-köhém rendelet a jármű vonatkozó műszaki előírás megfelelő
-legalább euro 6-os kategória sorolt diesel motor szerelt úttisztító és hulladékgyűjtő célgép szállítás figyelmeztető jelzés
-forgalmi rendszám az
-1. rész
-db kéttengelyes téli csere felépítmény is ellátott önfelszedő célgép
-ii
-rész
-db keskenynyomtávú összkerék meghajtású kisteljesítményű
-préselve tömörítő hulladékgyűjtő célgép
+version https://git-lfs.github.com/spec/v1
+oid sha256:101288ebb04c2fc4a2e09b2de3003584023314c649612e6a1d4e110917cbca36
+size 455

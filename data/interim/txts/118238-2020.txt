@@ -1,1 +1,3 @@
-Adásvételi szerződés megkötése a Szociális és Gyermekvédelmi Főigazgatóság gépjárműparkjának bővítése, korszerűsítése érdekében 3 részben: 1. rész: A 14/2012. (VI. 8.) NFM utasítás 6. függeléke szerinti egyterű személygépjárművek 5. kategóriába tartozó új személygépjárművek beszerzése rámpa nélküli (8 db) 2. rész: A 14/2012. (VI. 8.) NFM utasítás 6. függeléke szerinti egyterű személygépjárművek 5. kategóriába tartozó új személygépjárművek beszerzése rámpával ellátva (31 db) 3. rész: 15 személyes személygépjármű (1 db)
+version https://git-lfs.github.com/spec/v1
+oid sha256:b56d170ac9dc1ce795233450372ab2501a52a98b2dd5d1e387914bc5a60ba501
+size 598

@@ -1,5 +1,3 @@
-a miskolci egyetem 1.9.2016
-óra és
-óra közötti időszak vonatkozó kwh
-teljes ellátás alapú
-menetrend adási kötelezettség nélküli villamos energia vásárlás
+version https://git-lfs.github.com/spec/v1
+oid sha256:00b55bae1a7820e24fa564d82f8095ff56165e76f3ff91bd8c932d19f5eb2360
+size 171

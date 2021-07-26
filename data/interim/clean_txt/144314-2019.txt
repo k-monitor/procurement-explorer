@@ -1,2 +1,3 @@
-ritter elosztó karbantartás
-javítás
+version https://git-lfs.github.com/spec/v1
+oid sha256:3897f62281703b29d493f018abb4b69d17848836aeadcf82cf9672f6eb48acff
+size 39

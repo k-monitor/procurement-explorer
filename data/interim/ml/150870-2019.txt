@@ -1,12 +1,3 @@
-DEK-774	DEK-774	PROPN	Case=Nom|Number=Sing	
-_	_	X	_	
-Adásvételi	adásvételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-villamos	villamos	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-energia	energia	NOUN	Case=Nom|Number=Sing	
-beszerzésére	beszerzés	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-a	a	DET	Definite=Def|PronType=Art	
-Debreceni	debreceni	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-Egyetem	Egyetem	PROPN	Case=Nom|Number=Sing	
-részére	részére	ADP	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:f6349fb4d9dd85df204bb5d231d597274320862e64aba422a76bda775a067d5a
+size 515

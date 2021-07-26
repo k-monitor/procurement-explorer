@@ -1,5 +1,3 @@
-szállítási szerződés komplex
-biogáz üzemű cukorcirok feldolgozás és cukor szirup gyártás biztosító egyedi technológia kapcsolódó eszköz tervezés
-szállítás
-valamint komplett
-kulcsrakész telepítés és a ő kapcsolódó infrastrukturális létesítmény tervezés és kivitelezés együtt
+version https://git-lfs.github.com/spec/v1
+oid sha256:7ae1fb887a58f2303f651e7d0a5806727923f341859f0c75dbafb1d68318eb0d
+size 310

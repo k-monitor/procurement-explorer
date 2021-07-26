@@ -1,3 +1,3 @@
-folyószámlahitel biztosítás összesen huf
-azaz forint érték
-hitelszerződés forma
+version https://git-lfs.github.com/spec/v1
+oid sha256:e07173c84fc1f6f9d17521953e25757f23cd62ea74017bc2639a8cc05c1b3c05
+size 88

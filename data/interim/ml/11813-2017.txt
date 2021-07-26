@@ -1,20 +1,3 @@
-A	a	DET	Definite=Def|PronType=Art	
-Magyar	Magyar	PROPN	Case=Nom|Number=Sing	
-Államkincstár	Államkincstár	PROPN	Case=Nom|Number=Sing	
-felvonó	felvonó	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-és	és	CONJ	_	
-emelő	emelő	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-berendezéseinek	berendezés	NOUN	Case=Gen|Number=Plur|Number[psor]=Sing|Person[psor]=3	
-üzemeltetése	üzemeltetés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-,	,	PUNCT	_	
-karbantartása	karbantartás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-és	és	CONJ	_	
-javítása	javítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-3	3	NUM	Case=Nom|NumType=Card|Number=Sing	
-évre	év	NOUN	Case=Sub|Number=Sing	
-a	a	DET	Definite=Def|PronType=Art	
-dokumentációban	dokumentáció	NOUN	Case=Ine|Number=Sing	
-részletezettek	részletezett	NOUN	Case=Nom|Number=Plur	
-szerint	szerint	ADP	_	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:ddb4abbe5524045fc85ca3bb79ebc3fbecc84bba055504cd2455c194fb41a23d
+size 941

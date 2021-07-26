@@ -1,1 +1,3 @@
-Integrált kommunikációs ügynökségi szolgáltatások beszerzése a GINOP-1.1.3-16-2017-00001 sz. projekt keretében II.
+version https://git-lfs.github.com/spec/v1
+oid sha256:78b113773e1da5911be751e8a145480cd03b6c0a5bfdeeeb533d78a56698163a
+size 124

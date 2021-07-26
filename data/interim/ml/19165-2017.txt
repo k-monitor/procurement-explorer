@@ -1,30 +1,3 @@
-Szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-meghatározása	meghatározás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-:	:	PUNCT	_	
-Keretmegállapodás	keretmegállapodás	NOUN	Case=Nom|Number=Sing	
-,	,	PUNCT	_	
-a	a	DET	Definite=Def|PronType=Art	
-keretmegállapodásos	keretmegállapodásos	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-eljárás	eljárás	NOUN	Case=Nom|Number=Sing	
-második	második	ADJ	Case=Nom|NumType=Ord|Number=Sing	
-szakaszában	szakasz	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-vállalkozási	vállalkozási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-.	.	PUNCT	_	
-
-Tárgya	tárgy	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-:	:	PUNCT	_	
-„	„	PUNCT	_	
-Keretmegállapodás	keretmegállapodás	NOUN	Case=Nom|Number=Sing	
-megkötése	megkötés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-az	az	DET	Definite=Def|PronType=Art	
-MNV	MNV	PROPN	Case=Nom|Number=Sing	
-Zrt.	Zrt.	PROPN	Case=Nom|Number=Sing	
-feladataihoz	feladat	NOUN	Case=All|Number=Plur|Number[psor]=Sing|Person[psor]=3	
-kapcsolódó	kapcsolódó	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-kivitelezési	kivitelezési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-munkák	munka	NOUN	Case=Nom|Number=Plur	
-elvégzésére	elvégzés	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-"	"	PUNCT	_	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:60edef637ac88d56ce9ae56fc84410c71fc2365f6f1cdcbda2b9f02d3d43c1f1
+size 1414

@@ -1,1 +1,3 @@
-Szarvasmarha telep korszerűsítése (3-4 egybevont ütemek) Részekre történő ajánlattételi kizárása: Ajánlatkérő rögzíti, hogy a kivitelezési terület egysége miatt a részekre történő ajánlattétel nem biztosítható. A tervezett beruházás organizáció szempontjából nem szétválasztható teljesítési helyen található.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0b2e80f62ebfdf97676c5d1b58de64c5957808d78c9a8de6bd74bd0a19cc0ac9
+size 349

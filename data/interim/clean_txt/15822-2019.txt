@@ -1,2 +1,3 @@
-microsoft
-vagy az egyenértékű oktatási licenc beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:a51556825be100b913f5d6e259a059b79823d3092c9ee9b0416efbaad39d61cc
+size 60

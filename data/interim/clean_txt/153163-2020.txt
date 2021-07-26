@@ -1,5 +1,3 @@
-vállalkozási szerződés keret az ajánlatkérő illetékességi terület lévő db közterületi díjfizető várakozóhely
-parkolóhely
-üzemeltetés
-támogatás vonatkozó informatikai szoftver
-és egyéb kapcsolódó szolgáltatás nyújtás
+version https://git-lfs.github.com/spec/v1
+oid sha256:efbe96919ddd4148cbe02b4da69e61d1cca7d4e4855f332a3b1548c79686e70b
+size 247

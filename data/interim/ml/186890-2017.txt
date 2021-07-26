@@ -1,32 +1,3 @@
-INTUT-SAP	INTUT-SAP	PROPN	Case=Nom|Number=Sing	
-licencek	licenc	NOUN	Case=Nom|Number=Plur	
-követése	követés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-2017.	2017.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
-
-Az	az	DET	Definite=Def|PronType=Art	
-Ajánlatkérő	ajánlatkérő	NOUN	Case=Nom|Number=Sing	
-által	által	ADP	_	
-használt	használt	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPast	
-SAP	SAP	PROPN	Case=Nom|Number=Sing	
-licenszek	licensz	NOUN	Case=Nom|Number=Plur	
-vonatkozásában	vonatkozás	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-az	az	DET	Definite=Def|PronType=Art	
-SAP	SAP	PROPN	Case=Nom|Number=Sing	
-,	,	PUNCT	_	
-mint	mint	SCONJ	_	
-gyártó	gyártó	NOUN	Case=Nom|Number=Sing	
-által	által	ADP	_	
-deklarált	deklarált	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPast	
-„	„	PUNCT	_	
-SAP	SAP	PROPN	Case=Nom|Number=Sing	
-Standard	Standard	PROPN	Case=Nom|Number=Sing	
-Support	Support	PROPN	Case=Nom|Number=Sing	
-"	"	PUNCT	_	
-licenszkövetési	licenszkövetési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szolgáltatás	szolgáltatás	NOUN	Case=Nom|Number=Sing	
-beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-szoftverkövetési	szoftverkövetési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:7968d0e0ceb9a58bde321d90ef06735c4e09c6d4817c4858bf837cb3597f7c3a
+size 1417

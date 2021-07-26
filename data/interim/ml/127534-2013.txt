@@ -1,5 +1,3 @@
-Hulladékszállító	hulladékszállító	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-tehergépjárművek	tehergépjármű	NOUN	Case=Nom|Number=Plur	
-bérlése	bérlés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:d517b50611af12c47987f98df45a115b4af64fbbf27218ff55260a5b32bd7f89
+size 236

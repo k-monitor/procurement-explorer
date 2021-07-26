@@ -1,30 +1,3 @@
-A	a	DET	Definite=Def|PronType=Art	
-Budapest	Budapest	PROPN	Case=Nom|Number=Sing	
-I.	1.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
-kerület	kerület	NOUN	Case=Nom|Number=Sing	
-Budavári	Budavári	PROPN	Case=Nom|Number=Sing	
-Önkormányzat	Önkormányzat	PROPN	Case=Nom|Number=Sing	
-Gazdasági	Gazdasági	PROPN	Case=Nom|Number=Sing	
-Műszaki	Műszaki	PROPN	Case=Nom|Number=Sing	
-Ellátó	ellátó	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-és	és	CONJ	_	
-Szolgáltató	Szolgáltató	PROPN	Case=Nom|Number=Sing	
-Szervezet	Szervezet	PROPN	Case=Nom|Number=Sing	
-fenntartásában	fenntartás	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-működő	működő	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-intézmények	intézmény	NOUN	Case=Nom|Number=Plur	
-részére	részére	ADP	_	
-földgáz	földgáz	NOUN	Case=Nom|Number=Sing	
-energia	energia	NOUN	Case=Nom|Number=Sing	
-szállítása	szállítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-,	,	PUNCT	_	
-teljes	teljes	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-ellátás	ellátás	NOUN	Case=Nom|Number=Sing	
-alapú	alapú	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-földgáz	földgáz	NOUN	Case=Nom|Number=Sing	
-energia	energia	NOUN	Case=Nom|Number=Sing	
-szállítási	szállítási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:8fc54b06d563a866903774df24e914aaa70febc2d05fe8a4cd2fdb241ef71c73
+size 1445

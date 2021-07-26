@@ -1,1 +1,3 @@
-Adásvételi keretszerződés genotipizáló kitek beszerzésére 2 részben.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2771e92a411376de4f119a9c49b15bcea0ec5c5c6d92da5ca0872b6501f250da
+size 77

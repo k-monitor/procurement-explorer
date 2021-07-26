@@ -1,9 +1,3 @@
-egészségügyi veszélyes hulladék elszállítás
-ártalmatlanítás a csolnoky ferenc kórház részére
-kg
-év
-illetve m3
-év mennyiségű
-egészségügyi fekvőbeteg intézmény keletkező veszélyes egészségügyi hulladék elszállítás
-ártalmatlanítás
-a hulladék gyűjtés konténer biztosítás
+version https://git-lfs.github.com/spec/v1
+oid sha256:5746fa1b080abe0d6f5889d9b51bbe5a4e4f837d2f710f9cd619a23d266dd16d
+size 309

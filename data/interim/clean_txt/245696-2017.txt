@@ -1,24 +1,3 @@
-zöldkarikás játékok
-komplex szemléletformálási program című projekt kapcsolódó rendezvényszervezési feladat ellátás vállalkozási szerződés keret
-kiegészítés a iii
-1.4.2
-iii
-1.4.3
-és
-4.3.2
-pont
-az ajánlatkérő felhív az érdeklődő gazdasági szereplő figyelem a
-2015.
-10. 30.
-korm
-rendelet 30. §
-bekezdés alap
-hogy a minősített ajánlattevő jegyzék tekintet meghatározott képest szigorú állapít meg a részvétel jelentkező
-ajánlattevő gazdasági és pénzügyi
-valamint a műszaki és szakmai alkalmassági feltétel
-az igazolás a felhívás jelez pont p1
-p2
-alpont
-valamint m1
-m3
-alpont foglalt szerint
+version https://git-lfs.github.com/spec/v1
+oid sha256:ab979121ac67526953b5e8e138aeda44af19af3233a0d85b546256b4a8d8c4b6
+size 647

@@ -1,1 +1,3 @@
-Szállítási szerződés – „GPS technológián alapuló PDA készülékek beszerzése a Mezőgazdasági és Vidékfejlesztési Hivatal részére” tárgyában.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a5903ac656569ba9484634ae5ab62a158d02ebe9340a8cb40ec847bba760e7f4
+size 165

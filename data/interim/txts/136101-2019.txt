@@ -1,1 +1,3 @@
-Adás-vételi szerződés keretében az Intézmény részére idegsebészeti implantátumok beszerzése 24 hónapra.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f3adb6ffd130de5ddc9f3ce6a5c7c331704bf8bb4e2b94d7fd65b27efb3a3259
+size 116

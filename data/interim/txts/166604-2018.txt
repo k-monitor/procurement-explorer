@@ -1,1 +1,3 @@
-Adásvételi szerződés. Ajánlatkérő az Intézmény részére 12 hónapban szükséges mikrobiológiai diagnosztika fogyóanyagait (táptalajok, reagensek, diagnosztikus kitek, munkaoldatok, haemokultúra palack) kívánja megvásárolni, azok felhasználásához kapcsolódó gyári új készülékek használatba adásával együtt. (Haemokultúra vizsgálatokhoz szükséges háttérkészülék, identifikáló készülék, és szonikáló berendezés használatba adásával) Az adásvételi szerződés időtartama alatt a használatba adásra kerülő készülékek on-line csatlakozásának biztosítása Ajánlatkérő mindenkori informatikai rendszeréhez nyertes Ajánlattevő feladata és költsége. Jelenleg Vevőnél kecskeméti és kalocsai telephelyen MEDBAKTER informatikai rendszer működik.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5511fd9546fd4257353379d4f88a259e5e8bacf1a724d0e14f828201feb6e115
+size 814

@@ -1,1 +1,3 @@
-Élelmiszeripari termékek beszerzése a Sopronkőhidai Fegyház és Börtön részére, szállítási szerződés keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ade36b5767514c6160e69e02fe4180055468b68c27f21c8e13db93e9505fee0a
+size 126

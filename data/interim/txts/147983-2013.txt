@@ -1,1 +1,3 @@
-Villamos energia beszerzése teljes ellátásalapú adásvételi szerződés keretében a KEF által üzemeltetett épületek (összesen 52 db, profilos-vezérelt és idősoros fogyasztási hely) ellátásához.
+version https://git-lfs.github.com/spec/v1
+oid sha256:88707e9501437839abfbf11650b04fd9420c6ec076fcd4ed8a167952f349c5b2
+size 211

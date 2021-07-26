@@ -1,1 +1,3 @@
-vállalkozási szerződés keret faültetési
+version https://git-lfs.github.com/spec/v1
+oid sha256:2e14622a4e222eae260af3495ca4a860e9d8abc94b067bfc31b8ed20aa2b5683
+size 45

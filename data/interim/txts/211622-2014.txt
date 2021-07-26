@@ -1,1 +1,3 @@
-Fajta és mennyiség szerint meghatározott dolog határidős adásvételére vonatkozó szerződés „Hulladékgyűjtő ágazat járműparkjának fejlesztéséhez célgépek beszerzése” tárgyban.
+version https://git-lfs.github.com/spec/v1
+oid sha256:77af660d0df20a7df7d229de11b2983ab0fa00262f10cafc5b4df8398ffd493b
+size 201

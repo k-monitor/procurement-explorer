@@ -1,27 +1,3 @@
-A	a	DET	Definite=Def|PronType=Art	
-Nemzeti	Nemzeti	PROPN	Case=Nom|Number=Sing	
-Ménesbirtok	ménesbirt	NOUN	Case=Nom|Number=Plur	
-és	és	CONJ	_	
-Tangazdaság	Tangazdaság	PROPN	Case=Nom|Number=Sing	
-Zrt	Zrt	PROPN	Case=Nom|Number=Sing	
-,	,	PUNCT	_	
-a	a	DET	Definite=Def|PronType=Art	
-tevékenységi	tevékenységi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-körében	kör	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-végzett	végzett	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPast	
-Hibridkukorica	hibridkukorica	NOUN	Case=Nom|Number=Sing	
-vetőmag	vetőmag	NOUN	Case=Nom|Number=Sing	
-előállításhoz	előállítás	NOUN	Case=All|Number=Sing	
-szükséges	szükséges	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-kézi	kézi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-munkaerő	munkaerő	NOUN	Case=Nom|Number=Sing	
-igény	igény	NOUN	Case=Nom|Number=Sing	
-kielégítése	kielégítés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-céljából	cél	NOUN	Case=Ela|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-munkaerő	munkaerő	NOUN	Case=Nom|Number=Sing	
-biztosítása	biztosítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-szolgáltatási	szolgáltatási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:b03ec1add14f63a049b083bb94f0d4bbeba32af2353a53f1ba8e5f2514c1e91b
+size 1370

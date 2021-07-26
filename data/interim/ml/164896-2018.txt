@@ -1,30 +1,3 @@
-Makó	makó	NOUN	Case=Nom|Number=Sing	
-és	és	CONJ	_	
-Térsége	térsége	PROPN	Case=Nom|Number=Sing	
-Ivóvízminőség-javító	Ivóvízminőség-javító	NOUN	Case=Nom|Number=Sing	
-Önkormányzati	Önkormányzati	PROPN	Case=Nom|Number=Sing	
-Társulás	társulás	NOUN	Case=Nom|Number=Sing	
-ivóvízminőség-javító	ivóvízminőség-javító	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-beruházása	beruházás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-II	II	PROPN	Case=Nom|Number=Sing	
-.	.	PUNCT	_	
-szakasz	szakasz	NOUN	Case=Nom|Number=Sing	
-és	és	CONJ	_	
-III	III	PROPN	Case=Nom|Number=Sing	
-.	.	PUNCT	_	
-
-Új	új	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-,	,	PUNCT	_	
-kiegészítő	kiegészítő	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-beruházási	beruházási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-üteméhez	ütem	NOUN	Case=All|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-kapcsolódó	kapcsolódó	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-FIDIC	FIDIC	PROPN	Case=Nom|Number=Sing	
-mérnöki	mérnöki	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-és	és	CONJ	_	
-műszaki	műszaki	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-ellenőri	ellenőri	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-feladatok	feladat	NOUN	Case=Nom|Number=Plur	
-ellátása	ellátás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:0fbd173444c3fede8344b2e031a8bb328d4de58434750d6ca3da5386062ec16b
+size 1352

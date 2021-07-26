@@ -1,1 +1,3 @@
-6030 db szivacskézilabda beszerzése (iskolánként 30 db) 402 db szivacskézilabda kapu (iskolánként 2 db) A felszerelések részletes leírását, paramétereit, alkalmazási körét a közbeszerzési dokumentumok részeként kiadásra kerülő közbeszerzési műszaki leírás tartalmazza. A nettó ajánlati áraknak tartalmaznia kell az összes felmerülő, járulékos költséget függetlenül azok formájától és forrásától (kiszállítás, csomagolás, VÁM, adók, illetéket stb.).
+version https://git-lfs.github.com/spec/v1
+oid sha256:87e5c205186a916aa32d6f31078149aa50cae7c5a4bac8ceb3490880ecc1bb60
+size 502

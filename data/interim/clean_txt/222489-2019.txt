@@ -1,11 +1,3 @@
-a köfop-2
-3-vekop-15-2016-00002 azonosító számú
-a területi államigazgatási szerv humánerőforrás fejlesztés
-című projekt megvalósítás keret képzési szolgáltatás megrendelés
-1. számú rész
-valamint szálláshely szolgáltatás és előadó
-és oktatóterem bérlet
-valamint étkeztetés
-catering
-feladat ellátás tárgyú szolgáltatás megrendelés
-2. számú rész
+version https://git-lfs.github.com/spec/v1
+oid sha256:6c80972874f8eeec1ab2d8fb1f4849e26ad8db708495d5f7354689c916659fcf
+size 389

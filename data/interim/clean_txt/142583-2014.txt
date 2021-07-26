@@ -1,6 +1,3 @@
-földgáz adásvételi
-teljes ellátás alapú
-szerződés a nemzeti sportközpont
-nsk
-vagyonkezelés
-üzemeltetés álló ingatlan feljogosított fogyasztási helyei részére a gázminőségi előírás megfelelő földgázenergia versenypiaci beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:0dbc993e85c4b585a1d3188462ad6104f7930ae7237d182b59125b39ef2bc5fe
+size 256

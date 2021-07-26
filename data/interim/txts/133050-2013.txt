@@ -1,1 +1,3 @@
-Szállítási szerződés, a Semmelweis Egyetem, Központi Textiltisztító és Javító Üzem részére, 24 hónapra szükséges, a chemo-termo mosástechnológiához szükséges, mosás hatékony vegyületek, fertőtlenítőszerek és mosószerek beszerzésére.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b69554bf6e01420dc8ad5d4cac585ab0211fe8c26031a448018c277870107724
+size 264

@@ -1,29 +1,3 @@
-„	„	PUNCT	_	
-Keretszerződés	keretszerződés	NOUN	Case=Nom|Number=Sing	
-a	a	DET	Definite=Def|PronType=Art	
-Budapest	Budapest	PROPN	Case=Nom|Number=Sing	
-Főváros	főváros	NOUN	Case=Nom|Number=Sing	
-XIII	13	NUM	Case=Nom|NumType=Card|Number=Sing	
-.	.	PUNCT	_	
-kerületi	kerületi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-Önkormányzat	Önkormányzat	PROPN	Case=Nom|Number=Sing	
-tulajdonában	tulajdon	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-lévő	lévő	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-ingatlanok	ingatlan	NOUN	Case=Nom|Number=Plur	
-kivitelezési	kivitelezési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-,	,	PUNCT	_	
-felújítási	felújítási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-,	,	PUNCT	_	
-bővítési	bővítési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-,	,	PUNCT	_	
-tervezett	tervezett	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPast	
-karbantartási	karbantartási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-és	és	CONJ	_	
-bontási	bontási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-,	,	PUNCT	_	
-továbbá	továbbá	ADV	_	
-veszélyelhárítási	veszélyelhárítási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-munkálatainak	munkálat	NOUN	Case=Gen|Number=Plur|Number[psor]=Sing|Person[psor]=3	
-elvégzésére	elvégzés	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-"	"	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:9a18c00dff224fa914db26da9556a5f996d80d7392d5b44b27973bd6011950c1
+size 1329

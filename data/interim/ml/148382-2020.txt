@@ -1,7 +1,3 @@
-24	24	NUM	Case=Nom|NumType=Card|Number=Sing	
-MW-os	MW	NOUN	Case=Nom|Number=Sing	
-turbina	turbina	NOUN	Case=Nom|Number=Sing	
-2020.	2020.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
-évi	évi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szervizelése	szervizelés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:5849ba24be247a3a5b46e83f29fee2980cd9036ed3451fe06f71b9e91be29e98
+size 309

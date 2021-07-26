@@ -1,2 +1,3 @@
-vállalkozási szerződés keret
-takarítási szolgáltatás megrendelés a budapest főváros kormányhivatal által használt ingatlan közül db ingatlan vonatkozó
+version https://git-lfs.github.com/spec/v1
+oid sha256:37417268de3b22aab50b8d2b70d1b2a5bffe887c199794cc810f227249e77f70
+size 167

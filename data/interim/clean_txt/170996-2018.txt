@@ -1,2 +1,3 @@
-a közbeszerzési eljárás sor a nyertes ajánlattevő az ajánlatkérő edelény 1. akna
-20. szám alatti helyszín össze kell állít a dokumentáció műszaki leírás meghatározott paraméter megfelelő papíripari anyagelőkészítő rendszer gép
+version https://git-lfs.github.com/spec/v1
+oid sha256:d86eee5913d7e2d20579678fe4222559ab9f5d582cefe4226d886f4e7fec1c17
+size 255

@@ -1,26 +1,3 @@
-Szolgáltatási	szolgáltatási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-keretszerződésben	keretszerződés	NOUN	Case=Ine|Number=Sing	
-a	a	DET	Definite=Def|PronType=Art	
-Fővárosi	Fővárosi	PROPN	Case=Nom|Number=Sing	
-Hulladékhasznosító	hulladékhasznosító	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-Mű	mű	PROPN	Case=Nom|Number=Sing	
-Üzem	üzem	NOUN	Case=Nom|Number=Sing	
-ELCON	elco	NOUN	Case=Sup|Number=Sing	
-típusú	típusú	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-épületfelügyeleti	épületfelügyeleti	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-rendszerének	rendszer	NOUN	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-karbantartása	karbantartás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-,	,	PUNCT	_	
-beszabályozása	beszabályozás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-,	,	PUNCT	_	
-meghibásodás	meghibásodás	NOUN	Case=Nom|Number=Sing	
-esetén	eset	NOUN	Case=Sup|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-javítása	javítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-,	,	PUNCT	_	
-hibás	hibás	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-egységek	egység	NOUN	Case=Nom|Number=Plur	
-,	,	PUNCT	_	
-berendezések	berendezés	NOUN	Case=Nom|Number=Plur	
-cseréje	csere	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:4e57ed947ea0004ecb0b2034eac8700fbca4722bb0564d78b49fa4c591d1e0dc
+size 1330

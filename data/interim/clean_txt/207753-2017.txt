@@ -1,2 +1,3 @@
-a mezőföldvíz kft. részére all risk vagyon
-felelősségbiztosítási szerződés megkötés a közbeszerzési dokumentum és a műszaki specifikáció meghatározott tartalom
+version https://git-lfs.github.com/spec/v1
+oid sha256:a26ce842498cd248af705c7e7eb19846459655a7a7fa453350cc64495273fdc8
+size 179

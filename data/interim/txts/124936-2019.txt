@@ -1,1 +1,3 @@
-B-A-Z Megyei Központi Kórház és Egyetemi Oktatókórház hőenergia-ellátó rendszerének üzemeltetése, karbantartása, és a felmerülő javítási feladatok szükség szerinti elvégzése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a9619d28b256c964d69e2002ba364077758a7665d01a7b780bfd11ff7a04282a
+size 197

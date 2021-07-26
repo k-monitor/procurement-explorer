@@ -1,1 +1,3 @@
-Rakodó vágányoknál a térburkolat kialakítása, víztelenítése. EKR feladás miatt Kiegészítő CPV kódok itt kerülnek feltüntetésre: 71245000-7 45235111-4 45232440-8 45247130-0 45231300-8
+version https://git-lfs.github.com/spec/v1
+oid sha256:f4bfb91296b84b9c2f5c202266c491515983759e531e0b21364c5517cc30187f
+size 200

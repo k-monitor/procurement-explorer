@@ -1,1 +1,3 @@
-31. sz. főút JNSZ megyei szakasz 115 kN tengelyterhelésre történő megerősítés I.-II. ütem (I.-VI. szakasz) kivitelezési munkáinak elvégzése vállalkozási szerződés keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2ed0dd3b91baa549c5193ca3f0e4e147e74fca0d1e5a138928f4c48f88ef90e8
+size 192

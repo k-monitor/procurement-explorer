@@ -1,1 +1,3 @@
-VEKOP-5.3.3.-17-2017-00005 kódszámú, «Szent István út – Damjanich u. – Tárnoki út – Lőcsei út csomópont körforgalmú csomóponttá történő átépítése»
+version https://git-lfs.github.com/spec/v1
+oid sha256:2a6322aed1328746f546b062417c52f94f4952279f073a5ea2d96d5706739a71
+size 175

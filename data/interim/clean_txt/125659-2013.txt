@@ -1,5 +1,3 @@
-szállítási szerződés
-földgáz beszerzés az nmhh budapesti és vidéki telephely 2013.7.1
-cet
-2015.7.1
-cet időszak vonatkozó
+version https://git-lfs.github.com/spec/v1
+oid sha256:9f0d7d2010495c260775c173b0e5e9e00749418958317671a343df4de5998450
+size 132

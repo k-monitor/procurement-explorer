@@ -1,4 +1,3 @@
-komplex tisza-tó projekt című projekt ii
-ütem megvalósítás szükséges fidic mérnöki
-műszaki ellenőri tevékenység ellátás kehop-1
-1-15-2015-00001
+version https://git-lfs.github.com/spec/v1
+oid sha256:6b2564f4764c1f0062e771f35922789ceac72f9c038fa31ab4a5eb8c45856a7a
+size 160

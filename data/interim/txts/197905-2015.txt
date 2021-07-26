@@ -1,1 +1,3 @@
-Szállítási szerződés a II.2.1. pont szerinti mennyiségű különféle élelmiszerek beszerzésére és szállítására.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7f5233e1695dba2296929b757270af81427d9886c7c62fe1d54b93f415978afe
+size 126

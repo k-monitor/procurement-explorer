@@ -1,11 +1,3 @@
-földgáz energia szállítás nyíregyháza város önkormányzati tulajdonú intézmény székhely
-telephely
-fióktelep
-mint felhasználási hely 2013.7.1
-cet
-2014.7.1
-cet időszak vonatkozó
-teljes ellátás alapú földgáz szállítási szerződés keret
-a felhasználási hely részletes
-előző évi fogyasztási adat
-lekötési érték hónap lebontva a dokumentáció tartalmaz
+version https://git-lfs.github.com/spec/v1
+oid sha256:ba3077077af7f92c05739226d51c048bb04c1b3b0ab161b22973a61e81736c26
+size 386

@@ -1,2 +1,3 @@
-db hajózó sisak éjjellátó készülék beszerzés a műszaki leírás foglalt szerint
-a műszaki paraméter részletes a közbeszerzési dokumentum rész képező műszaki leírás határoz meg
+version https://git-lfs.github.com/spec/v1
+oid sha256:2ef9f63e53c42a5c0d769f989850e92d1bef6d26dafcab3fe58458de0028386c
+size 197

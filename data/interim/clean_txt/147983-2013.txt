@@ -1,4 +1,3 @@
-villamos energia beszerzés teljes ellátásalapú adásvételi szerződés keret a kef által üzemeltetett épület
-összesen db
-profilos-vezérel és idősoros fogyasztási hely
-ellátás
+version https://git-lfs.github.com/spec/v1
+oid sha256:3f68d8406552cc40a64d831559f9daf03e4f9a053a92d5bfb6e781a4e302099f
+size 190

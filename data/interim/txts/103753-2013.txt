@@ -1,1 +1,3 @@
-Szállítási keretszerződés az Országos Katasztrófavédelmi Főigazgatóság vagyonkezelésében (üzemeltetésében) lévő Mercedes Benz gyártmányú gépjárművek karbantartásához, felújításához és javításához szükséges gyári első beépítésű vagy az azokkal egyenértékű alkatrészek beszerzése és szállítása érdekében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:70bc419f1b1f05caf3476f428f7da8bf03cfe09fc86ce6c95de263cab797bf25
+size 355

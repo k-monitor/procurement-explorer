@@ -1,1 +1,3 @@
-orvos szakmai berendezés és eszköz beszerzés adásvételi szerződés keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:4471411128bcb89d70b923ee4a17b6818e00960a018c88820eec4d970f1351fa
+size 79

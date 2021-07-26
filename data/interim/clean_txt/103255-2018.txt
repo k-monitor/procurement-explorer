@@ -1,7 +1,3 @@
-megbízási szerződés az
-észak
-és közép-dunántúli szennyvízelvezetési és
-kezelési fejlesztés 6.
-ékdu
-kehop-2
-2-15-2016-00085 projekt keret műszaki ellenőri tevékenység ellátás
+version https://git-lfs.github.com/spec/v1
+oid sha256:f826f22e74e927e1cbb1138a23ca4b0aaf20b2300fd29f7c57091906c65943a2
+size 195

@@ -1,8 +1,3 @@
-adásvételi keretszerződés
-ajánlatkérő az intézmény részére hónap szükséges különféle laboratóriumi diagnosztikum kíván megvásárol
-egyrészt a saját tulajdon lévő laboratóriumi készülék működtetés
-másrészt pedig a gyári új illetve kémia eset új és max év nem régi automata készülék
-immunológia
-hemosztázis és vizelet eset új és éves nem régi készülék
-valamint a molekuláris genetika eset új vagy legfeljebb éves nem régi felújított különféle laboratóriumi készülék használat adás együtt
-a szerződés időtartam alatt a használat adás kerülő készülék on-line csatlakozás biztosítás ajánlatkérő mindenkori informatikai rendszer nyertes ajánlattevő feladat és költség
+version https://git-lfs.github.com/spec/v1
+oid sha256:3c4d81f4fd628ab35c517f8873f0a73e73823fa914ab55a310a8cd5683fa9d60
+size 752

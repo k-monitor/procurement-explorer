@@ -1,10 +1,3 @@
-adás-vételi szerződés
-különféle orvostechnikai gép-műszer beszerzés
-1. ajánlati rész
-orvostechnikai gép-műszer
-2. ajánlati rész
-betegellátás segítő készülék
-a további információ
-a részletes specifikáció
-az ajánlatkérő elvárás
-egyéb információ a közbeszerzési dokumentum részletez
+version https://git-lfs.github.com/spec/v1
+oid sha256:e9d81acad8d4895a410b144fd6f53cab9f9eac6c34ed4e803f9ab7f989e9c56d
+size 319

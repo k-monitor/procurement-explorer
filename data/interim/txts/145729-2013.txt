@@ -1,1 +1,3 @@
-Vonalas létesítmények terület előkészítéséhez szükséges régészeti feltárások gépi és kézi földmunkáinak elvégzésére vállalkozási keretszerződés.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b5de04a99778763490e0f006d1ddf7f448194d1bac5eb7d8b49da108f2e46471
+size 171

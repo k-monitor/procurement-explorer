@@ -1,1 +1,3 @@
-Szilárd kommunális hulladék, zöldhulladék, szelektíven gyűjtött hulladék, lomtalanítási hulladék gyűjtése, szállítása Mende község közigazgatási területén és ennek ártalmatlanítása.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fa4d3dbd3deee921d719130a57bf0abdff0e1ba5f0431cfa303e6c9b67e2ba47
+size 208

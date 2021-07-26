@@ -1,1 +1,3 @@
-primer hidegenergia szolgáltatás nyújtás a városliget a vész előírás betartás
+version https://git-lfs.github.com/spec/v1
+oid sha256:7e9d8009330526574ba91f92c995b14e7fac3c534f668e836e5a3839ba654782
+size 87

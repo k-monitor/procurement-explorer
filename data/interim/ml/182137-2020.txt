@@ -1,23 +1,3 @@
-A	a	DET	Definite=Def|PronType=Art	
-2020	2020	NUM	Case=Nom|NumType=Card|Number=Sing	
--	-	PUNCT	_	
-2024	2024	NUM	Case=Nom|NumType=Card|Number=Sing	
-évekhez	év	NOUN	Case=All|Number=Plur	
-kapcsolódóan	kapcsolódó	ADJ	Case=Ess|Degree=Pos|Number=Sing|VerbForm=PartPres	
-,	,	PUNCT	_	
-országos	országos	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-közúthálózaton	közúthálózat	NOUN	Case=Sup|Number=Sing	
-történő	történő	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-fejlesztési	fejlesztési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-és	és	CONJ	_	
-felújítási	felújítási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-munkák	munka	NOUN	Case=Nom|Number=Plur	
-tervezési	tervezési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-feladatainak	feladat	NOUN	Case=Gen|Number=Plur|Number[psor]=Sing|Person[psor]=3	
-ellátására	ellátás	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-keretmegállapodások	keretmegállapodás	NOUN	Case=Nom|Number=Plur	
-megkötése	megkötés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-3	3	NUM	Case=Nom|NumType=Card|Number=Sing	
-részben	rész	NOUN	Case=Ine|Number=Sing	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:3204a04375fb8c3899f85649213af2d2efa99b87d4879426819234d097c9c40c
+size 1139

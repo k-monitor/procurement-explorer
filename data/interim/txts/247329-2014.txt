@@ -1,1 +1,3 @@
-Adásvételi szerződés 1 db FFS – mozgató mechanizmussal ellátott szimulátor és 1 db FTD – mozgató mechanizmussal még nem ellátott, de FFS szintre fejleszthető szimulátor beszerzésére.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b367a7a094aba3120df56487272978d7b3ec9b40cf4caa7f8e5390e739686e32
+size 201

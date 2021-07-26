@@ -1,1 +1,3 @@
-A „Barnamezős területek rehabilitációja, Nyíregyháza Tiszavasvári úti laktanyák tekintetében” tárgyú projekthez kapcsolódó építőipari kivitelezési munkák.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0656be3374ed3e0c9a84e2de5c453a9bbdc62e8ffeab3d3fcac07d5d1f41df16
+size 177

@@ -1,15 +1,3 @@
-Ajánlatkérő	ajánlatkérő	NOUN	Case=Nom|Number=Sing	
-által	által	ADP	_	
-üzemeltetett	üzemeltetett	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPast	
-sportlétesítmények	sportlétesítmény	NOUN	Case=Nom|Number=Plur	
-őrzés-védelmi	őrzés-védelmi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-,	,	PUNCT	_	
-rendezvénybiztosítási	rendezvénybiztosítási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-,	,	PUNCT	_	
-távfelügyeleti	távfelügyeleti	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-és	és	CONJ	_	
-vonuló-szolgálati	vonuló-szolgálati	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-feladatainak	feladat	NOUN	Case=Gen|Number=Plur|Number[psor]=Sing|Person[psor]=3	
-ellátása	ellátás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:c44f253809adf768c7919513c4c8f8dc01454624883885e6cc7b24c48ab106a5
+size 754

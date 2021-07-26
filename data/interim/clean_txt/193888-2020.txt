@@ -1,11 +1,3 @@
-nyertes ajánlattevő feladat az nmhh telephely üzemelő emir
-egységes mérésügyi információs rendszer
-és doktár alkalmazás éles
-teszt és dev környezet alkalmazástámogatás
-karbantartás
-üzemeltetés támogatás
-hiba elhárítás
-az esetleges meghibásodás bejelentés fogadás érdek ügyeleti rendszer biztosítás vállalkozási szerződés keret a ii
-2.4
-pont
-valamint a közbeszerzési dokumentum rész képező műszaki leírás részletezett szerint
+version https://git-lfs.github.com/spec/v1
+oid sha256:50ff3692ec23d208a422200aaa41d2210959165397a7b3f05f13ea8b71044ddd
+size 472

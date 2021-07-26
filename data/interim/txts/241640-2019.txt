@@ -1,1 +1,3 @@
-Hajók és lapátok beszerzése 4 részben. AF=ajánlati felhívás, KD=közbeszerzési dokumentáció, EKRr=424/2017. korm. rend. Kbt.=2015. évi CXLIII. törvény, AT=ajánlattevő, AK=ajánlatkérő
+version https://git-lfs.github.com/spec/v1
+oid sha256:3bf2907a565719b3fba2def4fb7e60d44521d4f32dce00d2375409ad21f19345
+size 201

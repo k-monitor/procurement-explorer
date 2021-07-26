@@ -1,1 +1,3 @@
-Szerződés meghatározása: Adásvételi keretszerződés Tárgya: „Gépbeszerzés TEN-T utak/Univerzális eszközhordozó és adaptereinek beszerzése”.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9c050f120b5cf82c3269fc72a9f431166f51819f9eae15d35a93788ffd83233c
+size 158

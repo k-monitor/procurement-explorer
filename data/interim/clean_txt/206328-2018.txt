@@ -1,1 +1,3 @@
-gépjármű beszerzés adásvételi szerződés keret a nemzeti ménesbirt és tangazdaság zártkörű működő részvénytársaság részére
+version https://git-lfs.github.com/spec/v1
+oid sha256:108d69874df454293d9c93b542cc775fb1ec2ffc593a671f11cd955b8ce986df
+size 144

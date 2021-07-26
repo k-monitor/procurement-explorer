@@ -1,1 +1,3 @@
-Vállalkozási szerződés „Az IKOP-3. 1.0. -15-2017-00014 azonosítószámú, ,,A személyszállítási közszolgáltatások hatékonyabb ellátását célzó integrált utastájékoztatási, jegyértékesítési és forgalomirányítási rendszerek fejlesztése" című kiemelt projekt és az IKOP-3.2.0-15-2017-00028 azonosítószámú „A személyszállítási közszolgáltatások hatékonyabb ellátását célzó integrált utastájékoztatási, jegyértékesítési és forgalomirányítási rendszerek fejlesztése" című kiemelt projekt megvalósításához szükséges szakértői kompetenciák biztosítására vonatkozóan.
+version https://git-lfs.github.com/spec/v1
+oid sha256:657335722c100b2a3f645601f88c6946b102459923ed164c09545d4698387df4
+size 640

@@ -1,2 +1,3 @@
-a nemzeti adó
-és vámhivatal dél-alföldi regionális adó főigazgatóság kezelés lévő békés megyei objektum takarítás
+version https://git-lfs.github.com/spec/v1
+oid sha256:16422d583040d784d47a4976a6f2fa920bc63d8f455f59c376ef6cbbcf34cc05
+size 130

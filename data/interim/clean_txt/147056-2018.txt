@@ -1,33 +1,3 @@
-a láev mm nyomtávolságú keskeny nyomközű vasút
-vonalhálózat vasútvonal áll
-mely
-330. sz. miskolc-dorottya utca
-papírgyár
-lillafüred
-garadna fővonal km
-331. sz. papírgyár
-mahóca szárnyvonal km
-egyéb építési helyszín
-miskolc
-diósgyőr-majláth forgalmi telep
-miskolc
-erdész u. 24.
-miskolc
-miskolc-dorottya utca állomás felvételi épület
-miskolc
-dorottya utca
-miskolc-garadna
-garadna végállomás környezet
-miskolc-garadna
-miskolc-lillafüred
-lillafüredi ökoturisztikai központ
-miskolc-lillafüred
-állomásépület
-miskolc-lillafüred
-lillafüredi pisztrángtelep
-miskolc
-pisztrángtelep
-a tervező a kötelező tervezői művezetés a kivitelezési folyamat sor legalább alkalom
-valamint a kivitelezés lezárás egy alkalom
-azaz összesen alkalom
-valamint megbízói igény szerint a munkaterület tartott kooperációs egyeztetés való részvétel teljesít
+version https://git-lfs.github.com/spec/v1
+oid sha256:8ac3dbe69fca0326a1b60bf8967b5316d28c69d901ab6573f128fd5a6136140d
+size 895

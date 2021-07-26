@@ -1,23 +1,3 @@
-1.	1.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
-rész	rész	NOUN	Case=Nom|Number=Sing	
-Adásvételi	adásvételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-keretszerződés	keretszerződés	NOUN	Case=Nom|Number=Sing	
-színes	színes	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-pozitív	pozitív	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-nyersanyagok	nyersanyag	NOUN	Case=Nom|Number=Plur	
-beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-tárgyában	tárgy	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-2.	2.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
-rész	rész	NOUN	Case=Nom|Number=Sing	
-Adásvételi	adásvételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-keretszerződés	keretszerződés	NOUN	Case=Nom|Number=Sing	
-színes	színes	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-intermediate	intermediate	X	_	
-anyagok	anyag	NOUN	Case=Nom|Number=Plur	
-és	és	CONJ	_	
-színes	színes	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-pozitív	pozitív	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-nyersanyagok	nyersanyag	NOUN	Case=Nom|Number=Plur	
-beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-tárgyában	tárgy	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:b1562da4d69551e8220f59d99a6c2b4ea7f9ded1486b833e8dd77227320babea
+size 1198

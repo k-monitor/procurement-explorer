@@ -1,1 +1,3 @@
-Betegleolvasó (mobil), betegérzékelő karszalag és betegazonosító rendszer szállítása, illesztése- és bevezetése a Hévízgyógyfürdő és Szent András Reumakórház részére.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4aeb0d192fdb86450dca59a5ccceac8ce27f259010d0be95fd79eddb3ca8c0ff
+size 190

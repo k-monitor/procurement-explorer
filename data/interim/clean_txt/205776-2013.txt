@@ -1,6 +1,3 @@
-megbízási szerződés
-8. sz. főút várpalota-veszprém 1. szakasz 33+100-39+600 km sz.
-pérfürdő-hajmáskér
-közötti szakasz kn burkolat-megerősítési
-korszerűsítési
-valamint kapcsolódó létesítmény kivitelezési munka mérnök feladat ellátás
+version https://git-lfs.github.com/spec/v1
+oid sha256:86b96de6d4af3d1e4fab7438d89746efea5cc3c77957c54d085b2ab336d7b43f
+size 262

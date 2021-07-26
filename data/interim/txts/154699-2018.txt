@@ -1,1 +1,3 @@
-Elektrofiziológiai fogyóanyagok beszerzése a Pécsi Tudományegyetem részére a Közbeszerzési Dokumentumokban meghatározottak szerint 186 420 000 Ft keretösszeg erejéig 26 ajánlati részben. Ajánlatkérő a nyertes ajánlattevő részére előírja konszignációs raktár kihelyezését. Nyertes Ajánlattevő köteles a szerződés megkötésétől számított 10 naptári napon belül a teljesítés helyén a Termékekből a Szerződés 1. számú mellékletében meghatározott méretű Raktárkészletet létrehozni, és a Szerződés teljes időtartama alatt biztosítani.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8c570d54a5154f767f93212f1dad3901c0fe9687377136a609457886decff124
+size 590

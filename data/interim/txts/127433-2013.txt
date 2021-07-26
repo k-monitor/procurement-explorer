@@ -1,1 +1,3 @@
-„Földgáz energia beszerzése Veszprém Megye Jogú Város Önkormányzata és intézményei részére”, teljes ellátás alapú földgáz szállítási szerződés keretében. A felhasználási helyek részletes adatait a dokumentáció tartalmazza.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7ac17f46e99edb659c51cebfef58992e86ca095acafe549a339f48c296f0ec08
+size 255

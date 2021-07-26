@@ -1,17 +1,3 @@
-takarítási feladat ellátás a közép-budai tankerületi központ illetékességi terület található intézmény szolgáltatás ellátás cél
-ajánlatkérő részajánlat tételi rész alakít ki az intézmény szerint
-az egyes intézmény költséghatékony ellátás érdek
-1. rész
-takarítandó terület 2. rész
-takarítandó terület 3. rész
-takarítandó terület 4. rész
-takarítandó terület 5. rész 2957+ m2
-takarítandó terület 6. rész
-takarítandó terület 7. rész
-takarítandó terület 8. rész
-takarítandó terület 9. rész
-takarítandó terület 10. rész
-takarítandó terület 11. rész
-takarítandó terület 12. rész
-takarítandó terület a takarítási feladat részletes leírás
-mennyiségi tétel a műszaki leírás tartalmaz
+version https://git-lfs.github.com/spec/v1
+oid sha256:7e7aa8518e8ddb4f500141cf2983b1f0aee25ef50a9c2d39aadd7254e3f1af65
+size 769

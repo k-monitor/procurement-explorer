@@ -1,1 +1,3 @@
-Megbízási szerződés - Villány elkerülő út építési munkáihoz kapcsolódó mérnöki tevékenység ellátása.
+version https://git-lfs.github.com/spec/v1
+oid sha256:01f4a17a9f91eef05029d28692c84e04ed62b78bb1d84e5d871d6fd6710f0924
+size 120

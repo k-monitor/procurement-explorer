@@ -1,1 +1,3 @@
-Gyári új hidraulika és pneumatika alkatrészek szállítása.
+version https://git-lfs.github.com/spec/v1
+oid sha256:adaa11c309902499372791f65ef1229253f1951c3f114e58e328cac8ec9fc91a
+size 64

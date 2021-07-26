@@ -1,1 +1,3 @@
-faipari gép beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:831d3a082917f26e056d2209bcea3184247918fd9cd30b20dca6da0998c3078a
+size 23

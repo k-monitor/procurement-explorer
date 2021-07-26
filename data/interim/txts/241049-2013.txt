@@ -1,1 +1,3 @@
-Villamos energia áruvásárlási szerződés 2013-2014. évre Szeged.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8304715f284b1ab3d54855beb2466955a38d0e5cb6d44827eea8104ffac5b1a4
+size 70

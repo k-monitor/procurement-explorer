@@ -1,1 +1,3 @@
-Vállalkozási szerződés Siemens gyártmányú radiológiai, onkoradiológiai- és szívkatéteres laboratóriumi eszközök teljes körű karbantartására, javítására, alkatrész ellátására, gyártói technológia által megkövetelt felülvizsgálati szolgáltatások nyújtásával.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e151d0adfccd7bb1354838758cd5677a87fab1eda00b3f6c94213e9dbe2fc515
+size 294

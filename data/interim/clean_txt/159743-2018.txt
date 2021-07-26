@@ -1,2 +1,3 @@
-vállalkozási szerződés keret
-az emberi erőforrás minisztériuma fejezeti kezelésű előirányzat történő gazdálkodás nyilvántartó program szoftverfejlesztés és támogatás
+version https://git-lfs.github.com/spec/v1
+oid sha256:7ec1d4c80caa5a11d39b792d12cfaa50b4ddda4013eb8bc950135f01b9e956f3
+size 187

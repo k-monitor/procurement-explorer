@@ -1,3 +1,3 @@
-vállalkozási szerződés a pte meglévő sap rendszer fejlesztés
-az funkcionális bővítés
-valamint az az sap magyar államigazgatási megoldáscsomag szerinti tartalom történő funkcionális sztenderdizáció
+version https://git-lfs.github.com/spec/v1
+oid sha256:774116b7c9b09bf4adcd905c2c5dd0172b91b2730da27bba155f1e91382f68e3
+size 216

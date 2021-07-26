@@ -1,17 +1,3 @@
-hónap időtartam laboratóriumi reagens és egyéb kellékanyag
-mikrobiológiai vizsgálat antibiotikum korong
-baktérium identifikáló vizsgálat
-bakteriális rezisztencia mechanizmus vizsgálat korong
-tesztcsík
-portáptalaj
-a mikroorganizmus által termelt co2 okozta fluorescens fényvisszaverődés
-intenzitás mérés alapuló hemokultúra automata használatos palack beszerzés részajánlati kör
-a szükséges automata
-készülék
-bérlet
-karbantartás
-a készülék kezelés betanítás
-használat adás kerülő készülék on-line illesztés az ak mindenkori informatikai rendszer
-a kihelyezett készülék tekintet a szerződés hatály alatt órás rendelkezés állási idő teljes-körű szervizszolgáltatás biztosítás
-további a közbeszerzés tárgy vonatkozó részletes követelmény valamennyi részben a közb
-dokumentum található
+version https://git-lfs.github.com/spec/v1
+oid sha256:50a04228496f9104138ac2d3858151e2011ea18ce8f9501d745863d9e3ef2621
+size 861

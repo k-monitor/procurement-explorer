@@ -1,1 +1,3 @@
-Orvos szakmai berendezések és eszközök beszerzése adásvételi szerződés keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:641c3793d8291cc64114a5242d57f141d6d0ac3544522338a7ff88dab37ea1e7
+size 91

@@ -1,22 +1,3 @@
-Víz	víz	NOUN	Case=Nom|Number=Sing	
-(	(	PUNCT	_	
-felszíni	felszíni	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-,	,	PUNCT	_	
-felszín	felszín	NOUN	Case=Nom|Number=Sing	
-alatti	alatti	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-és	és	CONJ	_	
-szennyvíz	szennyvíz	NOUN	Case=Nom|Number=Sing	
-)	)	PUNCT	_	
-iszap	iszap	NOUN	Case=Nom|Number=Sing	
-,	,	PUNCT	_	
-hulladék	hulladék	NOUN	Case=Nom|Number=Sing	
-és	és	CONJ	_	
-talaj	talaj	NOUN	Case=Nom|Number=Sing	
-új	új	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-mintavételi	mintavételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-eszközök	eszköz	NOUN	Case=Nom|Number=Plur	
-adásvétele	adásvétel	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-szállítással	szállítás	NOUN	Case=Ins|Number=Sing	
-együtt	együtt	ADP	_	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:ffb11fb14c6fe066e7c4ab9d320eed3761f981cf8fe5200598a493f4db6cf360
+size 780

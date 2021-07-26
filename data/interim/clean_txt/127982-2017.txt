@@ -1,13 +1,3 @@
-eszközbeszerzés a pécsi tudományegyetem ginop-2
-2-15-2016-00021 jelű
-chip-technológia alkalmazás a humán in vitro fertilizáció eredményesség javítás
-pályázat keret belül adásvételi szerződés alap a közbeszerzési dokumentáció meghatározott paraméter
-az alábbi szerint
-1. ajánlati rész
-meddőségi kutatás kapcsolódó eszköz
-2. ajánlati rész
-minta előkészítés és tárolás tevékenység szükséges eszköz
-3. ajánlati rész
-nagynyomású folyadékkromatográfiás-tömegspektrometriás rendszer
-4. ajánlati rész
-digitális pcr rendszer
+version https://git-lfs.github.com/spec/v1
+oid sha256:460a78ea4eb1d1a4d6b13d9035de7deef676549693eee06735e437f3286be997
+size 577

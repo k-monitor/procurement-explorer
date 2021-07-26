@@ -1,1 +1,3 @@
-Szállítási szerződés / Új 1 100 literes fém hulladékgyűjtő tartályok beszerzése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:599aa64e2c7e209265a4e78077958aa7e14fae10fce6531afc227d65e59815a2
+size 92

@@ -1,1 +1,3 @@
-MTA/HTA berendezések informatikai eszközei
+version https://git-lfs.github.com/spec/v1
+oid sha256:82bef7f421885dcc9ecab6c726f0d257171d1abd2a8d615caddbc017f5ac316d
+size 44

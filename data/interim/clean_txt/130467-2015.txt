@@ -1,4 +1,3 @@
-szállítási szerződés villamos energia beszerzés tárgy az mta wigner fizikai kutatóközpont részére
-a magyar átviteli hálózat folyamatos rendelkezés álló
-szabványos minőségű villamos energia versenypiaci beszerzés teljes ellátásalapú szerződés keret
-menetrendadási kötelezettség nélkül
+version https://git-lfs.github.com/spec/v1
+oid sha256:e01ecc775b9b44ae4ca948ac42e1e3a437ba6397d7cd0a94ffd1ebdf214c4f0c
+size 315

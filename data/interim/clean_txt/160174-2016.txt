@@ -1,5 +1,3 @@
-vállalkozási keretszerződés budapest közigazgatási terület belül a főkert nonprofit zrt. által fenntartott kiemelt közcélú zöldterület
-közpark és fasor terület lévő fa korona gallyazási
-fa visszavágási
-száraz fa kivágási munka és faültetési munka
-a műszaki leírás meghatározott követelmény szerint
+version https://git-lfs.github.com/spec/v1
+oid sha256:1cca70ea0a31765200a9f52f6e0fbae0f567ab7003b6b649a6a7c84659878253
+size 332

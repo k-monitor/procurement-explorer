@@ -1,1 +1,3 @@
-NCTS és ECS rendszerek, valamint az ICS és EMCS rendszerek kommunikációjának általános támogatása és fejlesztése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b8e4643ff09fe89d83b1847b5bb9f086bb014353c8a13cd3349970487d35aae8
+size 124

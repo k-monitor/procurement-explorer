@@ -1,4 +1,3 @@
-keretmegállapodás az 5. kerületi önkormányzat tulajdon
-fenntartás
-kezelés lévő közterület
-illetve különféle mélyépítési kör tartozó építmény tervezési feladat ellátás
+version https://git-lfs.github.com/spec/v1
+oid sha256:e28d1d883c011d8f37f6561dd94d43da7645ef021c52be6502930b419612c355
+size 192

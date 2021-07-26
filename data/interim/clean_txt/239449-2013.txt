@@ -1,5 +1,3 @@
-valamennyi rész eset szállítási szerződés nyertes ajánlattevő feladat a jelen felhívás ii
-1.2
-pont meghatározott teljesítési hely a jelen felhívás
-b
-melléklet 5. pont felsorolt termék szállítás
+version https://git-lfs.github.com/spec/v1
+oid sha256:1c16afa6373ae412b0b1ddfa96d40fd745504b7b4ddb0c7094464ad50f52a715
+size 213

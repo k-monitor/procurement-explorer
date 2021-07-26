@@ -1,6 +1,3 @@
-megbízási szerződés a műszaki ellenőri és a fidic szerződéses rendszer szerinti mérnöki feladat ellátás a
-nádudvar település szennyvízelvezető rendszer
-valamint szennyvíztisztító telep fejlesztés keop-1
-2.0
-09-11-2011-0035
-című pályázat kapcsolódó
+version https://git-lfs.github.com/spec/v1
+oid sha256:e3edc6785f78c017ac941933b31ed7000826563840ad066049a0d0331b9ff01c
+size 275

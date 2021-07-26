@@ -1,3 +1,3 @@
-a bábolna nemzeti ménesbirt részére villamos energia beszerzés 1.
-30.
-terjedő időszak
+version https://git-lfs.github.com/spec/v1
+oid sha256:c7d135c8b4afcbfa31cd8217f885ec0e34f4fbd97f3959fd65f4303a5aabcad6
+size 92

@@ -1,7 +1,3 @@
-megbízási szerződés a
-szolnok
-kiz
-szajol
-kiz
-vasúti vonalszakasz kivitelezési munka kapcsolódó mérnöki tevékenység
-tárgy
+version https://git-lfs.github.com/spec/v1
+oid sha256:b2a16150f12d9ebde57baf1ee8d4bbcae8169299fb6a2e9bde851ce8c4086055
+size 133

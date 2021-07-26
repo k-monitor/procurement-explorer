@@ -1,1 +1,3 @@
-Különféle – orvosi felhasználásra – varrófonalak beszerzése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:16ea7804c51539132cd563fcc4ad9aecff6a04ee039714d1581a5444b09d00d8
+size 71

@@ -1,1 +1,3 @@
-kereskedelmi szerződés villamos energia beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:b09ffd169552ce5c10eedd5f771e32afc45bc1ea46ee963e92571426cf7351eb
+size 52

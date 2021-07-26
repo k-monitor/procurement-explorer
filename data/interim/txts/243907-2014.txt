@@ -1,1 +1,3 @@
-Szerződés meghatározása: Pénzügyi lízingszerződés. Hóeke adapterek beszerzése zárt végű pénzügyi lízingkonstrukcióban, a dokumentációban leírtaknak megfelelően.
+version https://git-lfs.github.com/spec/v1
+oid sha256:25d866fe99e6351f9f223940d1a1aa26b819fac628e6707f6fc7d38e32874656
+size 182

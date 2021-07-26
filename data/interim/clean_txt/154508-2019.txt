@@ -1,5 +1,3 @@
-burkolat épített súlymérő karbantartás
-javítás és mérőberendezés karbantartás
-1. rész
-burkolat épített súlymérő karbantartás
-javítás 2. rész
+version https://git-lfs.github.com/spec/v1
+oid sha256:78c63aa6b17acb0d0ea13e5df762d855ad36522af639b30b51211b038f82ee05
+size 163

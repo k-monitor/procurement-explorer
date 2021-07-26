@@ -1,1 +1,3 @@
-vállalkozási szerződés burkolatállapot mérés elvégzés az országos úthálózat
+version https://git-lfs.github.com/spec/v1
+oid sha256:33f924490a7ca57daba182862946a2fd612dcb09af171d71b2ccd1724af5364d
+size 88

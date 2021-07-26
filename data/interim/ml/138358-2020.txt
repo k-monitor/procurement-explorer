@@ -1,24 +1,3 @@
-BKV	BKV	PROPN	Case=Nom|Number=Sing	
-Vasúti	Vasúti	PROPN	Case=Nom|Number=Sing	
-Járműjavító	járműjavító	NOUN	Case=Nom|Number=Sing	
-Kft.	Kft.	PROPN	Case=Nom|Number=Sing	
-részére	részére	ADP	_	
-T5C5	T5C5	PROPN	Case=Nom|Number=Sing	
-,	,	PUNCT	_	
-T5C5	T5C5	PROPN	Case=Nom|Number=Sing	
-K2	K2	PROPN	Case=Nom|Number=Sing	
-járművekhez	jármű	NOUN	Case=All|Number=Plur	
-forgácsolt	forgácsolt	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPast	
-kerékpár	kerékpár	NOUN	Case=Nom|Number=Sing	
-alkatrészek	alkatrész	NOUN	Case=Nom|Number=Plur	
-beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-a	a	DET	Definite=Def|PronType=Art	
-közbeszerzési	közbeszerzési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-dokumentumban	dokumentum	NOUN	Case=Ine|Number=Sing	
-részletesen	részletes	ADJ	Case=Ess|Degree=Pos|Number=Sing	
-meghatározott	meghatározott	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPast	
-műszaki	műszaki	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-leírás	leírás	NOUN	Case=Nom|Number=Sing	
-szerint	szerint	ADP	_	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:0c0e0d38f0be061341b3e189755e85b5b7d25c4859b79a176b1655f01a57d58b
+size 1077

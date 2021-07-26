@@ -1,1 +1,3 @@
-Trélerek beszerzése adásvételi keretszerződés keretében 2 részajánlatban az alábbiak szerint: 1. részajánlat: 7 db 22 t hasznos tömegű (3-tengelyes) tréler beszerzése; 2. részajánlat: 2 db 30 t hasznos tömegű (4-tengelyes) tréler beszerzése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a9ac827a2d54117dd48f633cbd2986b672036d5b0f16dcb4234dd7a542c73f29
+size 263

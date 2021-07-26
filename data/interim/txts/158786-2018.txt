@@ -1,1 +1,3 @@
-TOP-6.1.1-16-PC1 - 2017-00002 „Ipari parkok, iparterületek fejlesztése” program keretében, infrastruktúrafejlesztés a pécsi Déli Ipari Parkban. I. Közmű Az alábbi ingatlanok közműellátását szolgálja (vízvezeték kiépítés, szennyvíz elvezetés, csapadékvíz elvezetés): Pécs, Időjós u. 01455/86., 01455/87., 01455/88., 01455/89., 01455/90. hrsz. II. Út, buszforduló, parkoló Időjós úthoz csatlakozó 0219/8. hrs.z-ú ingatlanra ipari út és a 01455/89. hrsz.-ú ingatlanra parkoló és buszforduló, buszmegálló kiviteli teveinek elkészítése és kiviteli munkái
+version https://git-lfs.github.com/spec/v1
+oid sha256:27e2007953fba10496d1dd49a85f843cb45abc6daa0163d2617698ca99f0d3f3
+size 603

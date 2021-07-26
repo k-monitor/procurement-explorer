@@ -1,34 +1,3 @@
-Szállítási	Szállítási	PROPN	Case=Nom|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-a	a	DET	Definite=Def|PronType=Art	
-Médiaszolgáltatás-támogató	Médiaszolgáltatás-támogató	NOUN	Case=Nom|Number=Sing	
-és	és	CONJ	_	
-Vagyonkezelő	Vagyonkezelő	PROPN	Case=Nom|Number=Sing	
-Alap	Alap	PROPN	Case=Nom|Number=Sing	
-meglévő	meglévő	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-stúdióinak	stúdió	NOUN	Case=Gen|Number=Plur|Number[psor]=Sing|Person[psor]=3	
-hangtechnikai	hangtechnikai	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-,	,	PUNCT	_	
-utasító	utasító	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-és	és	CONJ	_	
-videotechnikai	videotechnikai	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-eszközeivel	eszköz	NOUN	Case=Ins|Number=Plur|Number[psor]=Sing|Person[psor]=3	
-kompatibilis	kompatibilis	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-,	,	PUNCT	_	
-a	a	DET	Definite=Def|PronType=Art	
-2-es	2-es	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-stúdió	stúdió	NOUN	Case=Nom|Number=Sing	
-megépítéséhez	megépítés	NOUN	Case=All|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-szükséges	szükséges	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-hangtechnikai	hangtechnikai	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-eszközök	eszköz	NOUN	Case=Nom|Number=Plur	
-,	,	PUNCT	_	
-utasító	utasító	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-eszközei	eszköz	NOUN	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3	
-és	és	CONJ	_	
-videotechnikai	videotechnikai	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-eszközök	eszköz	NOUN	Case=Nom|Number=Plur	
-szállítása	szállítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-tárgyában	tárgy	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:6c9f92f11a94fdc391be344f3d3aff54cd0d5ffb99b90464f36b8c549b500ccd
+size 1758

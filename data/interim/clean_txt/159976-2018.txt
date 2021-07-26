@@ -1,1 +1,3 @@
-különféle szerződés
+version https://git-lfs.github.com/spec/v1
+oid sha256:9ab74bcd3cd59a08fb4ab911eef878ea34142c70aef5072b6a605e86ea96a02f
+size 24

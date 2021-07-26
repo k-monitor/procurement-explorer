@@ -1,1 +1,3 @@
-Szállítási szerződés alapján földgáz beszerzése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a5ff2e48614766342c3e58e9dd3c1b25057c6f0f789bbb7d262adf5800ea931f
+size 57

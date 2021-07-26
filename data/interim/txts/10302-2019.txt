@@ -1,1 +1,3 @@
-Őrzésvédelmi és portaszolgálati feladatok elvégzése 36 hó határozott időtartamban vállalkozási szerződés keretében a Jahn Ferenc Dél-pesti Kórház és Rendelőintézet részére 3 telephelyen
+version https://git-lfs.github.com/spec/v1
+oid sha256:de58cce813d53f1c8567c7a3eabb66985b9b8d6450acefe719776508af5be031
+size 208

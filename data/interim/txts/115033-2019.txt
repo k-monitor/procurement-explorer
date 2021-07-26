@@ -1,1 +1,3 @@
-Használaton kívüli bányászati célú mélyfúrások biztonságba helyezése, elzárása.
+version https://git-lfs.github.com/spec/v1
+oid sha256:26abda1adec0526440f107850307cca621e438d7456d3d6f798c3eb40cb05977
+size 93

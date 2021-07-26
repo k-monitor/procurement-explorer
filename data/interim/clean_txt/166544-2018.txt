@@ -1,20 +1,3 @@
-adásvételi keretszerződés alap
-kábelszerelési anyag beszerzés a bkv vasúti járműjavító kft. részére ii
-1. részfeladat
-különféle jármű kábelszerelési anyag beszerzés i.
-tömszelence
-saru
-érvég hüvely
-szigetelőszalag
-zsugorcső
-gégecső
-2. részfeladat
-különféle jármű kábelszerelési anyag beszerzés ii
-sorkapocs
-kapocslécelem
-3. részfeladat
-különféle jármű kábelszerelési anyag beszerzés iii
-tartósine
-végzáró
-átkötés
-kapocsléc elemek
+version https://git-lfs.github.com/spec/v1
+oid sha256:cc64c8303cea0ffa9fd82176a26db4eb96fd0a3b2914ad8e30d7bd263b6c7b31
+size 487

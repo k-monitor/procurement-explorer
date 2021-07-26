@@ -1,4 +1,3 @@
-digitális röntgengép havi bérlés a semmelweis egyetem áok ii
-belgyógyászati klinika részére valamint a röntgenhelyiség kialakítás
-a berendezés szállítás
-telepítés és üzem helyezés
+version https://git-lfs.github.com/spec/v1
+oid sha256:1bc383aa1c42eebf468438fa5d3b81d04968fd77bebf54bd9cfaabd8237cd0ad
+size 202

@@ -1,1 +1,3 @@
-Miskolc Megyei Jogú Város Önkormányzatának 2010., 2011., 2012. és 2013., évi fejlesztési hiteleinek közbeszerzése 2 105 895 000 HUF összegben.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c888039c9097b0616c8b3880854841710ca45f33fc8a55e6f94c3a69904aaad8
+size 153

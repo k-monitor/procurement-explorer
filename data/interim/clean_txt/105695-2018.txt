@@ -1,8 +1,3 @@
-megbízási szerződés a
-közép
-és kelet-magyarországi szennyvízelvezetési és
-kezelési fejlesztés 5.
-kkmo 5
-elnevezésű
-kehop-2
-2-15-2015-00003 azonosítószámú projekt keret műszaki ellenőri tevékenység ellátás
+version https://git-lfs.github.com/spec/v1
+oid sha256:44b9011fa93d96d33e4b857c38b455665cabde83409c5b752fbc48e4e1376298
+size 229

@@ -1,11 +1,3 @@
-vállalkozási szerződés keret a hatvani multifunkcionális sport-és rendezvénycsarnok
-valamint a ő kapcsolódó telek belüli út
-parkoló
-közmű
-víz
-gáz
-és elektromos áramellátás
-szennyvíz
-és csapadékvíz elvezetés
-továbbá a kert
-és parképítési munka megvalósítás
+version https://git-lfs.github.com/spec/v1
+oid sha256:7af2757a20bbca8dd29d1ad63d04aa6306a472ff680e1a076adbff9dbfe027ab
+size 290

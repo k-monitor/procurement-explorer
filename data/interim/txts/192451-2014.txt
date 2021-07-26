@@ -1,1 +1,3 @@
-Megbízási szerződés a „68. sz. főút 11,5 t burkolat-megerősítés kivitelezéséhez kapcsolódó Mérnöki munkák elvégzése az „I” szakasz 85+000 - 93+300 km sz. között” tárgyában.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a4fe954ecb5e9567c70d052129c5caf3033d49dc1fa1470bb17108755db8bc27
+size 202

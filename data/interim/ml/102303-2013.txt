@@ -1,8 +1,3 @@
-Forgalomba	forgalom	NOUN	Case=Ill|Number=Sing	
-hozatalra	hozatal	NOUN	Case=Sub|Number=Sing	
-engedélyezett	engedélyezett	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPast	
-gyári	gyári	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-gyógyszerkészítmények	gyógyszerkészítmény	NOUN	Case=Nom|Number=Plur	
-beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:ee4f9ce00a467803f16f87ee76ffc70f8551896e80e559175db5c32050aafa18
+size 402

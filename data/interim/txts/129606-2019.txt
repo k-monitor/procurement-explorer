@@ -1,1 +1,3 @@
-Tervezési szerződés Kecskeméten a Rudolf-laktanya területén megvalósítandó beruházások engedélyezési és kiviteli tervdokumentációinak elkészítésére
+version https://git-lfs.github.com/spec/v1
+oid sha256:2c1439b14e7e63f3fae40afcbf4afc9d2b9067a03898b7b5877013f238cd7af4
+size 167

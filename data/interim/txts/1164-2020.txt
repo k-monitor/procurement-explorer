@@ -1,1 +1,3 @@
-Sebészeti varrógépek beszerzése 8 részben 1. rész: körvarrógépek 160 db 2. rész: egyenes haránt varrógépek és hozzá tartozó tárak (varrógépek: 534 db, tárak: 245 db) 3. rész: felszívódó varrógéptár 30 db 4. rész: Véredényforrasztó kézi eszközök 204 db 5. rész: egyenes vágó varrógép és hozzá tartozó tár 30-30 db 6. rész: Endoszkópos vágó-varrógépek és hozzá tartozó tárak (varrógép: 100 db, tárak: 304 db) 7. rész: Hajlított fejű haránt vágó-varrógép 5 db 8. rész: Varrógép tár titán kapcsokkal 80 db Ajánlatkérő a konkrét betegigény figyelembe vételével jogosult a szerződésben rögzített termékek teljes /értékétől/ mennyiségétől +20 %-ban eltérni a szerződés hatálya alatt. A folyamatos ellátás biztosítása érdekében a nyertes AT feladata egy konszignációs raktár létrehozása, a szerződésben részletezett feltételek szerint.
+version https://git-lfs.github.com/spec/v1
+oid sha256:08140e51569c44a88e651ffac50ab98253088f0caa207a9d53f035651a14bfb8
+size 934

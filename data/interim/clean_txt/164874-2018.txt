@@ -1,3 +1,3 @@
-onkoradiológiai eszközpark karbantartás
-teljes körű szervizszolgáltatás az üzemképesség min. 95
-os rendelkezés állás biztosítás
+version https://git-lfs.github.com/spec/v1
+oid sha256:b88bdf4f6c358d5919560661ba64ec59a79bcca02c2bbae73e554f41de9edd18
+size 142

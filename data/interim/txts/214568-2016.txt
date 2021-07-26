@@ -1,1 +1,3 @@
-1.10.2016., 6:00 CET – 1.10.2017., 6:00 CET időszakra összesen 504 960 gnm³ földgáz szállítása a közbeszerzési dokumentumok mellékletét képező „A melléklet 2016” nevű excel fájl, „2016_2017” fülén található bontásban. Mindösszesen 20 db 20–100 m³/h közötti névleges mérő(k) 886 m3/h összteljesítményű felhasználási hely, összesen: 504 960 gnm3 szállítandó mennyiséggel. Ajánlatkérő 504 960 gnm³ földgáz vételre vállal kötelezettséget, de fenntartja a lehetőséget összesen 706 943 gnm³ földgáz vételére az eljárásban résztvevő intézmények által összesítetten, a szerződés teljes időtartama alatt. A meghatározott mennyiségeket az MSZ 1648 szabvány szerint 15 ºC és 101 325 kPa referencia körülményeken kell értelmezni m³-ben (gnm³).
+version https://git-lfs.github.com/spec/v1
+oid sha256:e09de9cce773b1def0bab93f13d35f8c63cad43ec593d6c872ee36c64d973fc5
+size 824

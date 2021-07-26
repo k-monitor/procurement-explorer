@@ -1,20 +1,3 @@
-msz en szabvány szerinti mentőgépjármű beszerzés a kbt. §
-bek. a
-pont szerinti keretmegállapodás keret hónap időtartam nettó huf keretösszeg
-ak hónap aktív időszak határoz meg
-ezen időszak alatt kerül sor megrendelés
-ak jelez
-hogy jelen eljárás a km 2. rész szerinti megrendelés a
-2017.
-iii
-17.
-korm
-határozat szerinti fedezet rendelkezés állás figyelem vétel történik
-ak előre nem tud meghatároz a b és
-vagy c típusú gjmű megrendelés szám
-és megrendelés ütem
-ak megvizsgál részajánlat tétel lehetőség és az nem tart gazdasági észszerű
-ill. az esetleges eltérő típus és felszereltség a gyakorlati alkalmazás sor nehézség okoz azáltal
-hogy minden eszköz működtetés külön kell ismer
-ami gazdasági és egyéb észerűsség nem összeegyeztethető
-a beszerzendő speciális gépjármű egységes gazdasági funkció alkot
+version https://git-lfs.github.com/spec/v1
+oid sha256:110a830582c41656356829b16760b1858e47937f96ee72a245311c627d62f6cf
+size 885

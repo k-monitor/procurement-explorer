@@ -1,1 +1,3 @@
-Egyszerhasználatos keringéstámogató eszközök beszerzése kihelyezett áruraktár létrehozásával. Ajánlatkérő a rendszer üzemeltetéséért díjat számol fel. Hosszú távú, levitációs elven működő, folyamatos áramlást biztosító, intracorporalis, mechanikus keringéstámogató eszköz beszerzése, mely tartalmazza a pumpát és tartozékokat, melyek a beültetéshez szükségesek, valamint a beteg kiegészítő készletet, mely tartalmazza a páciens részére szükséges tartozékokat.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b3b28baabb6a71fe29afdc569f507d92ff38917268d04f34aa3e69fff2637f0b
+size 514

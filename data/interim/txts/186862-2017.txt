@@ -1,1 +1,3 @@
-Keretszerződés nyomdai kiviteli szolgáltatások nyújtására a Barcika Art Kft. részére.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1d679290a451fed33828368742654a323d492d78d238dc65c284433153b16a05
+size 94

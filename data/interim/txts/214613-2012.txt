@@ -1,1 +1,3 @@
-A Magyar Nemzeti Bank épületeihez kapcsolódó teljes körű üzemeltetési, karbantartási, hibaelhárítási, javítási, felújítási és gondnoksági tevékenységek, valamint egyéb szolgáltatások ellátása vállalkozási szerződés keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9a0b2ddb33805a0b03144ad143ebf7ea39c226237ecc84850eea37bf482bbdeb
+size 256

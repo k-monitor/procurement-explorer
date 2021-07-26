@@ -1,1 +1,3 @@
-élelmiszer alapanyag beszerzés adásvételi szerződés keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:146800b46687e197d700a887bacc437d90fac6ca592b0d6d4cfbe475cf037e98
+size 63

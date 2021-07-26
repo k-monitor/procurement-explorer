@@ -1,1 +1,3 @@
-Szállítási keretszerződés az MH állomány immunizálásához különféle készítmények beszerzése - 2013. évben tárgyban.
+version https://git-lfs.github.com/spec/v1
+oid sha256:757ff339adbfb54daa78412910edf5aaa62f531a1737c3211cd2ffca9b91f20d
+size 133

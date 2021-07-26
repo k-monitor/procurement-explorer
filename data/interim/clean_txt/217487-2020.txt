@@ -1,12 +1,3 @@
-az ajánlatkérő
-megrendelő
-tulajdon lévő integrált irat
-és dokumentumkezelő rendszer
-rövid elnevezés
-iidr
-továbbfejlesztés
-új modul történő kiegészítés az érdek
-hogy a fejlesztés befejezte az iidr szoftver alkalmas lesz országos
-éles üzem állítás az ügyészi munka
-legalább egy szakterület
-történő kiszolgálás
+version https://git-lfs.github.com/spec/v1
+oid sha256:52b6c3badc438621db608e771469e431d042725f7d82429c5323265d7791e634
+size 344

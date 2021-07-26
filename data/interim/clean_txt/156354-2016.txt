@@ -1,3 +1,3 @@
-vállalkozási keretszerződés
-nyomdaipari tevékenység ellátás
-nyomdai termék előállítás és kapcsolódó szolgáltatás nyújtás tárgy a közbeszerzési dokumentum részletezett szerint
+version https://git-lfs.github.com/spec/v1
+oid sha256:e89fe792ff9c803cc30b9af594397dc686e6678168b306996a3652e199e4290a
+size 198

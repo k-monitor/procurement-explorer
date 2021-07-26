@@ -1,1 +1,3 @@
-útalap építés szükséges zúzottkő beszerzés a
+version https://git-lfs.github.com/spec/v1
+oid sha256:079168ef224bb194a44a163f21fd5ada82e56a6b785585ec72d5df7c21051141
+size 53

@@ -1,1 +1,3 @@
-Ajánlatkérő által használt HPE termékek licenceinek frissítése (upgrade-je) és ELA gyártói támogatása.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8f5fceaf5556c8f988d8676023a0779e716691854e0c193e947f1b903a8ca919
+size 115

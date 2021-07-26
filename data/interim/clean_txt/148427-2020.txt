@@ -1,5 +1,3 @@
-vmware licenc beszerzés és gyártói támogatás hosszabbítás fix
-upgrade:vmware vsphere6 enterpriseplus to vcloud suite enterprise production support
-subscription for vmware vcloud suite enterprise for upgrade:vmware vsphere6 enterprise to vcloud suite enterprise production support
-subscription for vmware vcloud suite enterprise for vmware riport
-leltár szereplő licenc production szintű gyártó támogatás megújítás a vcloud termékcsomag éves gyártói támogatás vég consulting&learning credits-prepaid services credit opció
+version https://git-lfs.github.com/spec/v1
+oid sha256:ed544820ff1f0561615d06890e1ca8d5de54fd4c03d2d9f6294ddefa73ab7dc3
+size 546

@@ -1,6 +1,3 @@
-a veleszületett vérzékenység kezelés szolgáló
-recombináns technológia előállított 3. generációs b-domain-depletál
-teljes tirozin-szulfatált
-faktor koncentrátum beszerzés
-korán már kezelt
-ún. ptp beteg részére
+version https://git-lfs.github.com/spec/v1
+oid sha256:87dd6d568c30291e5d90db81dcf469c2c861a303ced9c35d34ccc7e38201a662
+size 231

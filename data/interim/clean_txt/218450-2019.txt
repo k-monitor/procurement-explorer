@@ -1,1 +1,3 @@
-speciális célú gépkocsi beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:86bc6229ff9db6ae3ff321b31e7bdc58d2201d2d1a36d629beb7c95af45564d5
+size 38

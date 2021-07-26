@@ -1,6 +1,3 @@
-felszín alatti víz
-illetve földtani közeg szennyezettség tényfeltárás
-környezetvédelmi felülvizsgálat végzés
-valamint vízjogi engedélyezési tervdokumentáció készítés szóló vállalkozási keretszerződés az ajánlatkérő által kijelölt részterület
-sor kívül elrendelt vagy szükséges váló környezetvédelmi
-vízügyi és vízvédelmi részfeladat teljesítés
+version https://git-lfs.github.com/spec/v1
+oid sha256:ccf6d752e6304ec4b253f33c902565959ba95b896c60c528c24c27fcad79b853
+size 394

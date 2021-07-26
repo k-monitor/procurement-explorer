@@ -1,1 +1,3 @@
-Adásvételi keretszerződés keretében Nyári úttisztító felépítményhez, Téli síkosság mentesítő felépítményhez adapterhez gyári, új vagy egyenértékű után gyártott, új alkatrészek szállítása.
+version https://git-lfs.github.com/spec/v1
+oid sha256:92f41aad0f82f75f3239faf574c6dfe4d434f047dfae8be5f518426e4231af5c
+size 219

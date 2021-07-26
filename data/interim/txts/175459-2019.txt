@@ -1,1 +1,3 @@
-Meglévő NET OSS rendszer szoftverekhez (NETvisor PVSR, NETvisor SLA Suite, NETvisor NETinv és NETvisor IP Explorer) gyártói licenckövetés és gyártói terméktámogatás, valamint a NET OSS rendszer szoftvereihez és integrációihoz szállítói terméktámogatás továbbá a NET OSS rendszerhez üzemeltetési és fejlesztési szakértői támogatás biztosítása.
+version https://git-lfs.github.com/spec/v1
+oid sha256:72a06ef513b57a9bc12199e52e979dc2733f337f064f6015ea74f0a697073cb5
+size 376

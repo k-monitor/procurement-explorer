@@ -1,13 +1,3 @@
-Sysmex®	Sysmex®	PROPN	Case=Nom|Number=Sing	
-CA-1500	CA-1500	PROPN	Case=Nom|Number=Sing	
-System	System	PROPN	Case=Nom|Number=Sing	
-készülékekkel	készülék	NOUN	Case=Ins|Number=Plur	
-validált	validált	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPast	
-és	és	CONJ	_	
-kompatibilis	kompatibilis	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-véralvadási	véralvadási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-reagens	reagens	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-készletek	készlet	NOUN	Case=Nom|Number=Plur	
-beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:3a8bb2d499a40c730d80b2bd53a06d7ad8304c39aca30e9703e217e0803b9ccd
+size 604

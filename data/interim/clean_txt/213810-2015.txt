@@ -1,5 +1,3 @@
-szállítási szerződés a budapest
-visegrádi u 49., budapest
-fiumei út
-a. és a budapest
-váci út 73. szám alatti épület földgáz beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:a249a47a4e2c9e60546f4ce327b884710bbf155e05c7171f38f8cc35088ca08c
+size 149

@@ -1,3 +1,3 @@
-változó terepminőségű burkolatlan
-valamint burkolt útfelület való átlagos menetteljesítmény bíró
-állandó vagy kapcsolható kerék meghajtás rendelkező személygépjármű beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:f1b4fe8be80d0b4163c004a894ba68f9297eed5816f87c23cd35ad2c90558509
+size 198

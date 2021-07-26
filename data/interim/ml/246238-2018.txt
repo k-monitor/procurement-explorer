@@ -1,4 +1,3 @@
-Sebességváltók	sebességváltó	NOUN	Case=Nom|Number=Plur	
-felújítása	felújítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:95bdd4138112f7f406cf1b2dfb91ae2c353cbc3e580916f7ea351e3580fb2716
+size 163

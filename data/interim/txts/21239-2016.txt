@@ -1,1 +1,3 @@
-Szerződés meghatározása: Vállalkozási szerződés. Szerződés tárgya: „Csikós udvarban újraépülő Új királyi lovarda kivitelezése”.
+version https://git-lfs.github.com/spec/v1
+oid sha256:c62bbb9be68df7316b82d823027cf2c6617eac04ff3254410f2070407d7b26c7
+size 150

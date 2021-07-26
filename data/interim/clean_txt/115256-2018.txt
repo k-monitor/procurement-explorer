@@ -1,7 +1,3 @@
-a csokonai nemzeti színház
-valamint a színészház épület komplex felújítás
-korszerűsítés
-átalakítás és akadálymentesítés projekt felmérési
-koncepciós
-örökségvédelmi engedélyezési
-illetve építési engedélyezési és kiviteli tervdokumentáció elkészítés
+version https://git-lfs.github.com/spec/v1
+oid sha256:bcd19d30a344565ef1a2dfe883a8cd4f06c60dc39b822d5170a26632e243ed41
+size 287

@@ -1,1 +1,3 @@
-a karolina katolikus általános iskola tervezés
+version https://git-lfs.github.com/spec/v1
+oid sha256:3c9857d29d1872548d1a8e967af6ac9bae48fe349018195e584a1dd54c0c1ec1
+size 49

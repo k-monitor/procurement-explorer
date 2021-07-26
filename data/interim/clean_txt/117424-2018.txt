@@ -1,1 +1,3 @@
-a debreceni nemzetközi repülőtér technikai fejlesztés projekt tervezési feladat ellátás
+version https://git-lfs.github.com/spec/v1
+oid sha256:2c79c69bc83a42ccff11270c8255d42eab21daeea47eadc3458aedf44c3ee2ba
+size 95

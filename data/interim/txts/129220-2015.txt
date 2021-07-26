@@ -1,1 +1,3 @@
-Vállalkozási keretszerződés keretében az FKF Nonprofit Zrt. Hulladékhasznosító Mű-ben üzemelő Víz-gőz rendszer elzáró szelepeinek, szerelvényeinek (armatúráinak): — rendszeres (évente egy alkalommal) történő javítása — és meghibásodás esetén történő javítása.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8eb696327713fd949d5eb54ab8da227f3a43a4d888eef51e7cb43d146422e359
+size 296

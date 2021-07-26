@@ -1,1 +1,3 @@
-Vállalkozási szerződés az M0 autóút déli szektorán a 0+115-2+840 km sz. között 2x3 sávra történő bővítéséhez bal pálya építése során építés, meglévő jobb pálya 0+220-3+225 km sz. közötti részének forgalomba helyezésével kapcsolatos építési munkák elvégzése tárgyában.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cae727769d625420da4bd7d7f17eca1b138d23abab42d9157a37d531f1e59432
+size 310

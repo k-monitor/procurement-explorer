@@ -1,1 +1,3 @@
-Megbízási szerződés mérnöki tevékenység ellátására az alábbi építési beruházásokhoz kapcsolódóan: — Budapest III. kerület Bécsi út – Budapest-Esztergom vasútvonal szintbeli keresztezés kiváltása II. ütem 10. sz. főút Bécsi út és Ürömi csomópont között és ehhez kapcsolódóan Aranyvölgy utca kiépítése, valamint — Ürömi úti körforgalmú csomópont kiépítése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:824568bd02e50ca3a265af06c7f5d5ad1586e34408c4d3d6466966032e37cdca
+size 413

@@ -1,1 +1,3 @@
-Ajánlatkérő számára folyószámla-hitel biztosítása 1 100 000 000 HUF folyószámla-hitelkerettel, jelen felhívás II.2.1.) pontjában és a Dokumentációban rögzített feltételek szerint.
+version https://git-lfs.github.com/spec/v1
+oid sha256:71fe352db7053c4e011b61bb1435efd44d4525bf1b7fc0572b56677e032e5090
+size 199

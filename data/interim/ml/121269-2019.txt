@@ -1,8 +1,3 @@
-Hulladékhasznosító	hulladékhasznosító	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-Műben	mű	NOUN	Case=Ine|Number=Sing	
-üzemelő	üzemelő	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-kazánok	kazán	NOUN	Case=Nom|Number=Plur	
-rostélyhengereihez	rostélyhenger	NOUN	Case=All|Number=Plur|Number[psor]=Sing|Person[psor]=3	
-rostélypálcák	rostélypálca	NOUN	Case=Nom|Number=Plur	
-beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:e4da06937c920fc8cd75c4481bb34390b6e340cf0c543e07714ff8e093d64af2
+size 493

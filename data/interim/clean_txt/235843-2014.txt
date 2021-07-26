@@ -1,6 +1,3 @@
-szállítási szerződés keret szilárd-hulladék-gazdálkodási rendszer továbbfejlesztés a heves megyei regionális hulladékgazdálkodási társulás terület
-keop-1
-1.1
-b
-10-11-2013-0005
-elnevezésű projekt megvalósítás szükséges gép és jármű beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:96cb92a9778ec8752f2dd412b5e1aca7cf5fdc1999b4a7710ca824e708212936
+size 270

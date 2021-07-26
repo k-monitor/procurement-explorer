@@ -1,1 +1,3 @@
-Ajánlatkérő által üzemeltetett sportlétesítmények őrzés-védelmi, rendezvénybiztosítási, távfelügyeleti és vonuló-szolgálati feladatainak ellátása.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dc0cf79f8d1efed4edac2a9cdf2504ed18607f39016c25bbec64bc306c9f4f0c
+size 167

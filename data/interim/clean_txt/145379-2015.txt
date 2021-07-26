@@ -1,13 +1,3 @@
-ipari innovációs központ technológiai eszköz beszerzés
-a kapcsolódó szolgáltatás együtt
-1. rész
-fémes anyag technológia kapcsolódó eszköz
-berendezés
-fémipari megmunkáló központ berendezés
-fémmegmunkáló eszköz
-szállítás
-technológiai gépsor kialakítás és üzem állítás a kapcsolódó szolgáltatás együtt
-ii
-rész
-revétlenítő gép szállítás
-üzem állítás a kapcsolódó szolgáltatás együtt
+version https://git-lfs.github.com/spec/v1
+oid sha256:1c41dfc7158e55d1025d2a06aa98116768a3399df167d0694e70610ce8a3a264
+size 439

@@ -1,7 +1,3 @@
-Szállítási	Szállítási	PROPN	Case=Nom|Number=Sing	
-keretszerződés	keretszerződés	NOUN	Case=Nom|Number=Sing	
-haemodinamikai	haemodinamikai	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-fogyóanyagok	fogyóanyag	NOUN	Case=Nom|Number=Plur	
-szállítására	szállítás	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:14a3d4fb60801836cc1516f1b4b4bb5844f29714864996276ce1812ea6222290
+size 341

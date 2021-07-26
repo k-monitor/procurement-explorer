@@ -1,6 +1,3 @@
-mkb17
-kg magyarország közigazgatási terület keletkező lakossági gyűjtés származó társított csomagolási hulladék hasznosítás szolgáltatás-megrendelési szerződés keret a környezetvédelmi termékdíj szóló
-2011. évi
-törvény 22. §
-bekezdés alap
-lakossági gyűjtés származó társított csomagolási hulladék hasznosítás
+version https://git-lfs.github.com/spec/v1
+oid sha256:fa8d8ffbede90a970ea25ea7c721230d8c86a1667a45838b13c706ffde6b834a
+size 351

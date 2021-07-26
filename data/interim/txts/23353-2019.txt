@@ -1,1 +1,3 @@
-Adás-vételi szerződés keretében Ajánlatkérő az Intézmény részére 24 hónapban szükséges különféle orvosi gázokat kívánja beszerezni. Nyertes ajánlattevő feladatát képezi az egészségügyi gázok (gyógyszernek minősülő orvosi gázok és gyógyászati, valamint diagnosztikai célú gázok) folyamatos szállítása és üzembe helyezése, tartály kihelyzése, a gáz ellátó rendszerek folyamatos a hatályos jogszabályok által előírt karbantartása, felülvizsgálata, a szerződés időtartama alatt az ajánlatkérő által leadott eseti megrendelések alapján. Az 1. rész esetében 2 darab tartály kihelyezésével. A Szent László Kórház területén található tartály Ajánlatkérő saját tulajdonában van. A másik két telephelyen szükséges tartály kihelyezés.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8c466d072f7369e27b29bcdcf6ed0f709ebf00d7da6c4d805c49a6975e9daa21
+size 816

@@ -1,13 +1,3 @@
-K1881	K1881	PROPN	Case=Nom|Number=Sing	
-Vállalkozási	Vállalkozási	PROPN	Case=Nom|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-24	24	NUM	Case=Nom|NumType=Card|Number=Sing	
-MW-os	MW	NOUN	Case=Nom|Number=Sing	
-gőzturbina	gőzturbina	NOUN	Case=Nom|Number=Sing	
-éves	éves	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-gépészeti	gépészeti	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-karbantartási	karbantartási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-munkáinak	munka	NOUN	Case=Gen|Number=Plur|Number[psor]=Sing|Person[psor]=3	
-elvégzésére	elvégzés	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:7648905b74dc70ce61f5ea3b391298803e9c84f683fcceff45371c51bc34373d
+size 635

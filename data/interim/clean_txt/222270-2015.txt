@@ -1,6 +1,3 @@
-parkolójegy kiadó automata és tartozék beszerzés
-az leszállítás
-helyszíni telepítés és üzem helyezés veszprém város közigazgatási terület
-a parkolójegy kiadó automata használati jog megszerzés
-vételi jog kikötés
-bérleti szerződés keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:091e9652685cb132ed261b9c024c6339e705345895d0844312508b6a6a4f21cf
+size 264

@@ -1,4 +1,3 @@
-téli síkosság-mentesítési feladat ellátás szükséges felépítmény
-adapter
-átrakodó berendezés
-oldott-só technológia alapuló folyékony síkosság mentesítő anyag készítés és tárolás szükséges berendezés beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:2706238b73d624f327a83759462d2d14679ed160e5dad6a6e5bc88432430fadb
+size 240

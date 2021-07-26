@@ -1,1 +1,3 @@
-ct berendezés teljes körű karbantartás és szervizelés vállalkozási szerződés keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:94cf6969780ce30d4504b09d0148dd35c8744ef2bb8e8c0b015162ca9ffae7ed
+size 92

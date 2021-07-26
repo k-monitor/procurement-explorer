@@ -1,2 +1,3 @@
-modern város program keret a szegedi 4-es villamos rekonstrukció
-valamint a kísérleti önjáró trolibusz üzem infrastruktúra engedélyes és kiviteli tervezés
+version https://git-lfs.github.com/spec/v1
+oid sha256:3479d6d2140d94c75bb5df99effc8d5dfbe9a7eec0ddc5d75b7ff398d6304571
+size 166

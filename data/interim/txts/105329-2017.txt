@@ -1,1 +1,3 @@
-Mátrai Gyógyintézet - gyógyszerek beszerzése - 2017.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a4671c531821cd66ac313f4ee589a0395e59b04b2cd0d455dcbc5102760c4c2f
+size 57

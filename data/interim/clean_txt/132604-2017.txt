@@ -1,5 +1,3 @@
-vállalkozási szerződés
-hirdetési és médiaszolgáltatás megrendelés
-valamint médiatervezési és
-vásárlási feladat ellátás a liszt ferenc zeneművészeti egyetem részére
-tárgy
+version https://git-lfs.github.com/spec/v1
+oid sha256:ce46a7fcc40482b56ad1ffe7723b2afec21c0b5a63812fb8254af14abb9c1871
+size 192

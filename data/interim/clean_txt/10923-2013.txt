@@ -1,3 +1,3 @@
-megbízási szerződés keret nagyatád és környék csatornahálózat és nagyatád szennyvíztelep fejlesztés elnevezésű keop-1
-2.0
-09-11-2011-0038 azonosítószámú projekt megvalósítás sor fidic mérnöki és műszaki ellenőri tevékenység ellátás
+version https://git-lfs.github.com/spec/v1
+oid sha256:fb24baa6563fb7377b0808653b8a4128c886a9e5549e236872654f251a051659
+size 263

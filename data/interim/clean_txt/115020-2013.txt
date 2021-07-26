@@ -1,2 +1,3 @@
-szolgáltatási keretszerződés
-fkf zrt. hulladékhasznosító mű hulladéktüzelésű kazán fűtőfelület és az összekötő füstgázcsatorna a hatásfokjavító és munkavédelmi tisztítás
+version https://git-lfs.github.com/spec/v1
+oid sha256:0cdaf088bc7d4944113af2047b0427f2be5b70f59e7068dce6e3373e130545c6
+size 198

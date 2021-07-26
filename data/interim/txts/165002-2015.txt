@@ -1,1 +1,3 @@
-Kenyér, péksütemény, cukrászsütemény élelmiszerek szállítására irányuló szállítási szerződés a Bácsborsódi „Őszi Napfény” Integrált Szociális Intézmény ajánlatkérő és az „A melléklet” IV) pontjában megnevezett „Harmónia” Integrált Szociális Intézmény, valamint a Pszichiátriai Betegek és Fogyatékos Személyek Otthona részére.
+version https://git-lfs.github.com/spec/v1
+oid sha256:491c8e4ed0399190e929d2f7969c35a08bfc718b2efa7e1676a9bc6edfa1fcde
+size 381

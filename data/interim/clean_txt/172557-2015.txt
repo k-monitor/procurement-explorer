@@ -1,1 +1,3 @@
-vállalkozási szerződés
+version https://git-lfs.github.com/spec/v1
+oid sha256:1257e0492f2996d3d81e24875b807b03d728c3b9bc959a43a67fd4cc37495e98
+size 26

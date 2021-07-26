@@ -1,8 +1,3 @@
-megbízási szerződés a
-nyugat
-és dél-dunántúli szennyvízelvezetési és
-kezelési fejlesztés 4.
-nyddu 4
-elnevezésű
-kehop-2
-2-15-2016-00108 azonosítószámú projekt keret műszaki ellenőri tevékenység ellátás
+version https://git-lfs.github.com/spec/v1
+oid sha256:dbca71f24164398ed77e9c623f76bb92afbaccc94a3f221b2a90b9d58b387181
+size 225

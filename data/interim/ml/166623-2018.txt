@@ -1,20 +1,3 @@
-Adásvételi	adásvételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-polielektrolit	polielektrolit	NOUN	Case=Nom|Number=Sing	
-szállítása	szállítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-a	a	DET	Definite=Def|PronType=Art	
-Szeged	Szeged	PROPN	Case=Nom|Number=Sing	
-Városi	Városi	PROPN	Case=Nom|Number=Sing	
-és	és	CONJ	_	
-Algyő	algyő	NOUN	Case=Nom|Number=Sing	
-Nagyközségi	nagyközségi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-Szennyvíztisztító	szennyvíztisztító	NOUN	Case=Nom|Number=Sing	
-Telepek	telep	NOUN	Case=Nom|Number=Plur	
-számára	számára	ADP	_	
-iszapsűrítés	iszapsűrítés	NOUN	Case=Nom|Number=Sing	
-és	és	CONJ	_	
-iszapvíztelenítés	iszapvíztelenítés	NOUN	Case=Nom|Number=Sing	
-céljából	cél	NOUN	Case=Ela|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:132658e62e6b0e5a33e38ae42d99b56e4e117b78e13cc41573e875e830ea7637
+size 950

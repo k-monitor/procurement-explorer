@@ -1,1 +1,3 @@
-A MÁV csoport személy-és vagyonvédelmi feladatainak ellátása, melynek keretében többek között közcélnak átadott, fizikai védelem nélküli üzemi magánterületen ellátott, kötöttpályás közlekedés biztonsági kockázatot magában foglaló, gördülő (mozgó) állomány védelmére is kiterjedő személy- és vagyonvédelmi feladatokat szükséges teljesíteni. A beszerzés mennyiségét ajánlatkérő a megkötendő szerződés (keretmegállapodás) értékének meghatározásával közli a következők szerint: nettó 24 500 000 000 HUF + ÁFA. Ajánlatkérő fenntartja magának a jogot arra, hogy amennyiben a keretösszeg a 36 hónapos időtartam alatt nem merül ki, a keretmegállapodás időbeli hatályát további 12 hónappal meghosszabbítsa.
+version https://git-lfs.github.com/spec/v1
+oid sha256:542860e2a3dfb13f8193b14cc0b00cd4c4cea8c6678eeb8484a60bb32e71a7b0
+size 781

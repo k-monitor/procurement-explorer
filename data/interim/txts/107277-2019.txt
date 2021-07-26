@@ -1,1 +1,3 @@
-Magyar Honvédség Egészségügyi Központ műtéti textília beszerzése adásvételi keretmegállapodás keretében 24 hónapra: 12 részajánlati körben
+version https://git-lfs.github.com/spec/v1
+oid sha256:b249ac8f32d144bb1f32405f00d4062f8dabde6badf60c92dbbc88e5c84d78fb
+size 157

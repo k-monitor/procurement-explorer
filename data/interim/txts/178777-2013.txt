@@ -1,1 +1,3 @@
-Vállalkozási keretszerződés Mercedes-Benz Axor és Actros típusú tehergépjárművek garanciálsi időszak alatti javítására, szervizelésére és alkatrész ellátása a Magyar Közút Nonprofit Zrt. számára az ajánlati felhívás II.2.1) pontjában megjelölt részekben a részenként megjelölt nettó keretösszeg erejéig.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fd248548d8d56264acc9f2ed397023c5537026769a9ecc8f94e8464bcf992f52
+size 340

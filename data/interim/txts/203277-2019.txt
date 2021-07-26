@@ -1,1 +1,3 @@
-Villamos energia közbeszerzés 2020
+version https://git-lfs.github.com/spec/v1
+oid sha256:e859249a5f0486ff935c55a2f6af7680ccb377955376cacf72164a7aee96b11c
+size 36

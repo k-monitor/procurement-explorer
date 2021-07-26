@@ -1,29 +1,3 @@
-Az	az	DET	Definite=Def|PronType=Art	
-Önkormányzati	Önkormányzati	PROPN	Case=Nom|Number=Sing	
-ASP	ASP	PROPN	Case=Nom|Number=Sing	
-2.0	2.0	PROPN	Case=Nom|Number=Sing	
-országos	országos	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-kiterjesztésének	kiterjesztés	NOUN	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-megvalósításához	megvalósítás	NOUN	Case=All|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-kapcsolódó	kapcsolódó	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-naplózó	naplózó	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-rendszer	rendszer	NOUN	Case=Nom|Number=Sing	
-megoldása	megoldás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-és	és	CONJ	_	
-információbiztonsági	információbiztonsági	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szakértői	szakértői	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-támogatása	támogatás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-Vállalkozási	Vállalkozási	PROPN	Case=Nom|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-a	a	DET	Definite=Def|PronType=Art	
-jelen	jelen	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-felhívásban	felhívás	NOUN	Case=Ine|Number=Sing	
-és	és	CONJ	_	
-a	a	DET	Definite=Def|PronType=Art	
-közbeszerzési	közbeszerzési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-dokumentumokban	dokumentum	NOUN	Case=Ine|Number=Plur	
-meghatározottak	meghatározott	ADJ	Case=Nom|Degree=Pos|Number=Plur|VerbForm=PartPast	
-szerint	szerint	ADP	_	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:254b92b23dd3a7d595973f00d44c8c944af2b5af773f0cd41f20bd4da5679a05
+size 1565

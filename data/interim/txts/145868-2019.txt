@@ -1,1 +1,3 @@
-Ajánlatkérő az Intézményében működő lakossági gyógyszerellátást végző vényforgalmú gyógyszertár részére 24 hónapban szükséges különféle gyógyszereket (beleértve a magisztrális készítményeket is), kötszereket, gyógyászati segédeszközöket és egyéb készítményeket kívánja megvásárolni a Kbt. 104.§ (3) bekezdés alapján több ajánlattevővel megkötött keretmegállapodás alapján. A Kbt. 105. § (2) bekezdés a) pontja alapján, az esetenkénti megrendelés, a 104. § (3) bekezdés szerinti keretmegállapodásban meghatározott feltételek szerint, az ajánlatkérő által közvetlen megrendelés útján a 105. § (2) bekezdés a) pontja szerint kiválasztott ajánlattevőtől történik.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ec473e28b4669ced6fc292f8a0f60188e501d685a6ee5c30faf4c9054028ba00
+size 745

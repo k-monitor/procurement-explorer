@@ -1,1 +1,3 @@
-központi microsoft licenc beszerzés ii
+version https://git-lfs.github.com/spec/v1
+oid sha256:27f820fb73dd9706aa6b20442ab8fec15c02db8988cf2c3539e475d96def8285
+size 40

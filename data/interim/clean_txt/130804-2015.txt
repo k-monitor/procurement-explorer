@@ -1,5 +1,3 @@
-szolgáltatási keretszerződés a fővárosi hulladékhasznosító mű üzem elco típusú épületfelügyeleti rendszer karbantartás
-beszabályozás
-meghibásodás eset javítás
-hibás egység
-berendezés csere
+version https://git-lfs.github.com/spec/v1
+oid sha256:2e07a89d2dfa15e5a7d24e58cf7dfe66a7629276a7fe64b8231ec50934ae94ec
+size 214

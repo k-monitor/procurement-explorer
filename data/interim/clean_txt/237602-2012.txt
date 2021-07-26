@@ -1,5 +1,3 @@
-megbízási szerződés a keop-1
-2.0
-b
-10-2010-0065 számú pályázat keret
-doboz szennyvízcsatornázás és szennyvíztisztító telep tervezés és építés projekt kapcsolatos fidic mérnök felügyeleti és műszaki ellenőri feladat teljes körű ellátás
+version https://git-lfs.github.com/spec/v1
+oid sha256:00ff0fbc043ccb65427f7f6e4e9810fa5c8d09a576b39a30a6aa5fce808000f5
+size 264

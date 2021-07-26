@@ -1,3 +1,3 @@
-magyar közút nonprofit zrt. által üzemeltetett közúthálózat egyes pihenőhelyi illemhely
-illetve egyes telephely keletkezett szennyvíz begyűjtés
-ártalmatlanítás cél történő elszállítás vállalkozási keretszerződés keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:424eafd4ef04d90b74e6b501140ad3a93afe98af5fdb9cb6efea2d686c24beda
+size 243

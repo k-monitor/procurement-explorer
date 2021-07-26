@@ -1,2 +1,3 @@
-kerékpáros létesítmény kivitelezés vállalkozási szerződés keret
-a közbeszerzési dokumentum foglalt szerint
+version https://git-lfs.github.com/spec/v1
+oid sha256:69b8aa42c40ba46f404591e5a91f94cd98733229ca881be4cb8432d1d1556ad2
+size 118

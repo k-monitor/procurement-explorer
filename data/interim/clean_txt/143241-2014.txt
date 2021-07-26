@@ -1,7 +1,3 @@
-tervezési szerződés az
-m44 autóút kecskemét
-m8 autópálya
-tiszakürt
-csatlakozás az m44 követő szakasz
-közötti szakasz és kapcsolódó építmény engedélyezési terv elkészítés
-tárgy
+version https://git-lfs.github.com/spec/v1
+oid sha256:018f9b6a29b43a210119c1d1c5ce948fa797bbfaa881bf087ff6009b11c9eb62
+size 201

@@ -1,2 +1,3 @@
-db új
-első alkalom forgalom helyezett emelőhátfalas tehergépkocsi beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:972b180c4044119e9c6008c52b7424aedc23831612202985664a780da8c85629
+size 81

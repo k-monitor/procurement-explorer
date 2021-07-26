@@ -1,5 +1,3 @@
-az ajánlatkérő tulajdon lévő tango optimo vércsoportszerológiai automata
-gyártó
-bio-rad laboratories
-inc.
-kompatibilis és validált reagens készlet beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:0da939a987b02c9f373f52f83a358a2b8565c941b45cc9160a95a8d9661337a9
+size 169

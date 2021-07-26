@@ -1,1 +1,3 @@
-Étkeztetési szolgáltatás biztosítása a Békéscsabai Kistérségi Életfa Idősek Otthona számára.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8478f7128f3768e5dcaae6138f4eee1fc3021543ca52cd0585a838de97af81db
+size 106

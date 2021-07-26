@@ -1,1 +1,3 @@
-Keretmegállapodás keretében magasépítési kivitelezési munkák megrendelése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0f531715c65054068d30f8dd4af4a54c46f1f2ea5470428f02941a7e68ab736a
+size 83

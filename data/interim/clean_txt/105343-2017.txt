@@ -1,1 +1,3 @@
-csapágy és szimering beszerzés adásvételi keretszerződés
+version https://git-lfs.github.com/spec/v1
+oid sha256:13fe58fc3f47409901f125cc761484c273c4904d3e41b0c969826ed36d5a8628
+size 63

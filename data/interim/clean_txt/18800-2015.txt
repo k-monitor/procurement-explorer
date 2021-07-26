@@ -1,1 +1,3 @@
-adásvételi szerződés szén-monoxid-érzékelő készülék beszerzés keretmegállapodás keret belül
+version https://git-lfs.github.com/spec/v1
+oid sha256:3f92b2f8e9056cbd8e94f046817f34d8f5220d4a9dcaf6bc645369cdcfbbba74
+size 106

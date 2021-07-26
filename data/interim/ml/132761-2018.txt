@@ -1,27 +1,3 @@
-Az	az	DET	Definite=Def|PronType=Art	
-EFOP-4	EFOP-4	PROPN	Case=Nom|Number=Sing	
-.	.	PUNCT	_	
-
-2	2	NUM	Case=Nom|NumType=Card|Number=Sing	
-.	.	PUNCT	_	
-1-16-2017-00014	1-16-2017-00014	PROPN	Case=Nom|Number=Sing	
-„	„	PUNCT	_	
-SZTE	szte	PRON	Case=Nom|Number=Sing|Person=2|PronType=Prs	
-ÁOK	ÁOK	PROPN	Case=Nom|Number=Sing	
-volt	van	VERB	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin|Voice=Act	
-Sebészeti	Sebészeti	PROPN	Case=Nom|Number=Sing	
-Klinika	Klinika	PROPN	Case=Nom|Number=Sing	
-áttervezése	áttervezés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-Egészségtudományi	egészségtudományi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-Képzési	képzési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-Tömbbé	tömb	NOUN	Case=Tra|Number=Sing	
-"	"	PUNCT	_	
-tárgyú	tárgyú	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-projekt	projekt	NOUN	Case=Nom|Number=Sing	
-megvalósításához	megvalósítás	NOUN	Case=All|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-szükséges	szükséges	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-tervezési	tervezési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szolgáltatások	szolgáltatás	NOUN	Case=Nom|Number=Plur	
-nyújtása	nyújtás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:bce23f83e91d8f6702e9305f6ab8e237f06625cca40d27271c9ade5873a2a9d2
+size 1256

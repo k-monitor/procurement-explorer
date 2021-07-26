@@ -1,18 +1,3 @@
-Határozatlan	határozatlan	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-időtartamú	időtartamú	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-biztosítási	biztosítási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-csoportos	csoportos	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-életbiztosítás	életbiztosítás	NOUN	Case=Nom|Number=Sing	
-,	,	PUNCT	_	
-kockázati	kockázati	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-élet	élet	NOUN	Case=Nom|Number=Sing	
--	-	PUNCT	_	
-és	és	CONJ	_	
-balesetbiztosítás	balesetbiztosítás	NOUN	Case=Nom|Number=Sing	
-,	,	PUNCT	_	
-valamint	valamint	CONJ	_	
-egészségbiztosítás	egészségbiztosítás	NOUN	Case=Nom|Number=Sing	
-tárgyában	tárgy	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:237b6a02c0e7bd55ba68a41bce7f3ca0a14d5017219196608b4dcc702e66ca76
+size 776

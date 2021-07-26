@@ -1,21 +1,3 @@
-Földgáz	földgáz	NOUN	Case=Nom|Number=Sing	
-beszerzés	beszerzés	NOUN	Case=Nom|Number=Sing	
-Budafok-Tétény	Budafok-tétény	NOUN	Case=Nom|Number=Sing	
-Budapest	Budapest	PROPN	Case=Nom|Number=Sing	
-XXII	22	NUM	Case=Nom|NumType=Card|Number=Sing	
-.	.	PUNCT	_	
-kerület	kerület	NOUN	Case=Nom|Number=Sing	
-Önkormányzata	Önkormányzata	PROPN	Case=Nom|Number=Sing	
-Polgármesteri	Polgármesteri	PROPN	Case=Nom|Number=Sing	
-Hivatala	Hivatala	PROPN	Case=Nom|Number=Sing	
-és	és	CONJ	_	
-egyes	egyes	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-intézményei	intézmény	NOUN	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3	
-részére	részére	ADP	_	
-teljes	teljes	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-alapú	alapú	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-földgáz-kereskedelmi	földgáz-kereskedelmi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:ab3c800bcb78a6758451853274897ffb2c28c52acb0a3dc28cf2cf5457763861
+size 977

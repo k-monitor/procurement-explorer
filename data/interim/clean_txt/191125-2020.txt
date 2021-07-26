@@ -1,2 +1,3 @@
-vállalkozási keretszerződés
-integrált reklámügynökségi szolgáltatás a nif nemzeti infrastruktúra fejlesztő zártkörű működő részvénytársaság beruházási projekt keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:ae9e04ba755ebf550be180e857aa37e1d1d89f4a597e886f61cbe985e5322dc6
+size 189

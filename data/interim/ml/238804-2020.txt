@@ -1,29 +1,3 @@
-Az	az	DET	Definite=Def|PronType=Art	
-EFOP-4	EFOP-4	PROPN	Case=Nom|Number=Sing	
-.	.	PUNCT	_	
-
-1	1	NUM	Case=Nom|NumType=Card|Number=Sing	
-.	.	PUNCT	_	
-2-17-2017-00058	2-17-2017-00058	PROPN	Case=Nom|Number=Sing	
-azonosítószámú	azonosítószámú	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-,	,	PUNCT	_	
-Törökszentmiklóson	Törökszentmiklós	PROPN	Case=Sup|Number=Sing	
-a	a	DET	Definite=Def|PronType=Art	
-Hunyadi	Hunyadi	PROPN	Case=Nom|Number=Sing	
-Mátyás	Mátyás	PROPN	Case=Nom|Number=Sing	
-Magyar-Angol	Magyar-angol	NOUN	Case=Nom|Number=Sing	
-Két	két	NUM	Case=Nom|NumType=Card|Number=Sing	
-Tanítási	tanítási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-Nyelvű	nyelvű	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-Általános	Általános	PROPN	Case=Nom|Number=Sing	
-Iskola	Iskola	PROPN	Case=Nom|Number=Sing	
-infrastrukturális	infrastrukturális	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-fejlesztése	fejlesztés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-című	című	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-projektben	projekt	NOUN	Case=Ine|Number=Sing	
-építési	építési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-beruházási	beruházási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-feladatok	feladat	NOUN	Case=Nom|Number=Plur	
-ellátása	ellátás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:77f77ba4ed231e0f5acaf015d14e1d8e9bb16213ad33c80660f3a11114707317
+size 1319

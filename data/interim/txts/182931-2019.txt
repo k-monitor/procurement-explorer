@@ -1,1 +1,3 @@
-K1970 CNG Üzemanyag chipkártyás beszerzése 63 db IVECO-2Y3C és IVECO-110 ELG típusú jármű ellátásához
+version https://git-lfs.github.com/spec/v1
+oid sha256:8a499d25872707b595a7f2a2ae10749745b897345dc1ee58322fe6d0c74eb7e5
+size 113

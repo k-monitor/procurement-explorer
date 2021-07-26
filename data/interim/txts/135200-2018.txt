@@ -1,1 +1,3 @@
-A közbeszerzés tárgya: szolgáltatás megrendelése. A közbeszerzési eljárás alapján a Kbt. 105. § (1) bek. a) pontja szerinti keretmegállapodás megkötésére kerül sor. Erre tekintettel az Ajánlatkérő az Ajánlattevő által az ajánlata keretében benyújtott Ártáblázatban foglalt ajánlati árak alapján a közvetlen megrendelés jogával élhet.
+version https://git-lfs.github.com/spec/v1
+oid sha256:da6c5c90dfe8175d7174cec10ead2f5d75d448244b879d590e319a4c7ab36a05
+size 370

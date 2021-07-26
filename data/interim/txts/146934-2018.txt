@@ -1,1 +1,3 @@
-Vállalkozási szerződés „ A Bevándorlási és Menekültügyi Hivatal 18 városában működő regionális igazgatóságainak és kirendeltségeinek, illetve ügyfélszolgálati irodájának általános és időszaki takarítása” tárgyban.
+version https://git-lfs.github.com/spec/v1
+oid sha256:00188c566a96788f7a30b8315332f933873225412bf245b561f8f803ac48335b
+size 248

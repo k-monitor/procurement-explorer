@@ -1,6 +1,3 @@
-az ajánlatkérő üzemeltetés lévő hulladékgyűjtő udvar begyűjtés kerülő veszélyes és nem veszélyes hulladék átvétel és elszállítás
-és végső kezelés
-ártalmatlanítás és
-vagy hasznosítás
-vagy végső kezelés átadás
-betartva a teljes folyamat vonatkozó hatályos jogszabály foglalt előírás
+version https://git-lfs.github.com/spec/v1
+oid sha256:d71b818e5ba62f00f6560dc57718fe64e1c780230010959ec13e5da2e0204270
+size 325

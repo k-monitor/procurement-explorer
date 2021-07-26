@@ -1,16 +1,3 @@
-Keretszerződés	keretszerződés	NOUN	Case=Nom|Number=Sing	
-alapján	alap	NOUN	Case=Sup|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-"	"	PUNCT	_	
-Tatra	tat	NOUN	Case=Sub|Number=Sing	
-T5C5K2-es	T5C5K2	NOUN	Case=Nom|Number=Sing	
-típusú	típusú	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-villamos	villamos	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-jármű	jármű	NOUN	Case=Nom|Number=Sing	
-elektronika	elektronika	NOUN	Case=Nom|Number=Sing	
-és	és	CONJ	_	
-kontaktor	kontaktor	NOUN	Case=Nom|Number=Sing	
-kereteinek	keret	NOUN	Case=Gen|Number=Plur|Number[psor]=Sing|Person[psor]=3	
-átalakítása	átalakítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-"	"	PUNCT	_	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:508b245b84317bb4bf7c682467014219d6565fadd2bae5657b4cab64ebb06031
+size 689

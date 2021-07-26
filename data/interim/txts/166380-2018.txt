@@ -1,1 +1,3 @@
-1 db korrózióálló, automata, tasakos és doypack csomagoló gép kombinációs mérleggel és felhordóval való beszerzése 1 db meggymagozó gép beszerzése 1 db szilva magozó gép beszerzése 1 db kézi raklapemelő beszerzése
+version https://git-lfs.github.com/spec/v1
+oid sha256:2386cc203a8879056a0adf0802e445190743b4ef9ad90497bd605e1714e1ec4c
+size 236

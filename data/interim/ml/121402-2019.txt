@@ -1,13 +1,3 @@
-Kapacitásbővítéshez	kapacitásbővítés	NOUN	Case=All|Number=Sing	
-szükséges	szükséges	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-fiber	fiber	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-lézervágógép	lézervágógép	NOUN	Case=Nom|Number=Sing	
-beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-a	a	DET	Definite=Def|PronType=Art	
-közbeszerzési	közbeszerzési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-dokumentációban	dokumentáció	NOUN	Case=Ine|Number=Sing	
-részletezett	részletezett	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPast	
-specifikáció	specifikáció	NOUN	Case=Nom|Number=Sing	
-alapján	alap	NOUN	Case=Sup|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:7fb87b3049afed3ead18f538cc52fb6d2e0a709cb8c0e3853ff5f769246eef7e
+size 718

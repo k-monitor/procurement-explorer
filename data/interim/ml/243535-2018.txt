@@ -1,7 +1,3 @@
-Járműülések	járműülés	NOUN	Case=Nom|Number=Plur	
-gyártásához	gyártás	NOUN	Case=All|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-szükséges	szükséges	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerszámok	szerszám	NOUN	Case=Nom|Number=Plur	
-beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:83e2b5500c10c261ae8aadb896cf6e162a4f2a1effa0da67b680c10dcf4ee4ff
+size 349

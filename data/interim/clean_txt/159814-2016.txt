@@ -1,9 +1,3 @@
-elektronikus lézerdiagnosztikai eszköz beszerzés a ginop-2
-6-15-2015-00001
-ginop
-eli lézer kutatóközpont megvalósítás
-eli-alps
-nagyprojekt
-2. fázis
-p4
-keret részben adásvételi keretszerződés alap
+version https://git-lfs.github.com/spec/v1
+oid sha256:e88a0fa1c8ec7d7f578a14cfcea0531993930f83278738f58384dc986acaa121
+size 210

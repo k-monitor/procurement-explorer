@@ -1,1 +1,3 @@
-Földgáz energia szállítása Nyíregyháza város önkormányzati tulajdonú intézményeinek székhelyeire, telephelyeire, fióktelepeire, mint felhasználási helyekre 2013.9.1. 06:00 CET - 2014.7.1. 06:00 CET időszakra vonatkozóan, teljes ellátás alapú földgáz szállítási szerződés keretében. A felhasználási helyek részletes, előző évi fogyasztási adatait/lekötési értékeit hónapokra lebontva a dokumentáció tartalmazza.
+version https://git-lfs.github.com/spec/v1
+oid sha256:63f0d9f36059aa9e197df88a2fad5a8bb48d6997ff751a5750ba601a0a370056
+size 454

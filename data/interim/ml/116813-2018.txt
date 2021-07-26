@@ -1,14 +1,3 @@
-Mátrai	Mátrai	PROPN	Case=Nom|Number=Sing	
-Gyógyintézet	gyógyintézet	NOUN	Case=Nom|Number=Sing	
--	-	PUNCT	_	
-EFOP-2	EFOP-2	PROPN	Case=Nom|Number=Sing	
-.	.	PUNCT	_	
-
-2	2	NUM	Case=Nom|NumType=Card|Number=Sing	
-.	.	PUNCT	_	
-18-17	18-17	NUM	Case=Nom|NumType=Card|Number=Sing	
--	-	PUNCT	_	
-árubeszerzés	árubeszerzés	NOUN	Case=Nom|Number=Sing	
--	-	PUNCT	_	
-2018.	2018.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:b270a29259234e629d0a9b111e7b8a06d6dac25da3312a37ae7a8512c83be931
+size 411

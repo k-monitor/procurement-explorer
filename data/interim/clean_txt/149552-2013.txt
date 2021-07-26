@@ -1,9 +1,3 @@
-adás-vételi szerződés kalocsa város önkormányzata és intézmény fogyasztási helyei részére
-a magyar elosztói hálózat folyamatos rendelkezés álló
-szabványos minőségű földgáz energia versenypiaci beszerzés hónap
-szerződéskötés 2014.
-30.
-a g
-3. § 36. szerinti gázév vég
-időtartam
-teljes ellátásalapú szerződés keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:ef813a608331038ceb1c3a9d4cdc0d0f88f6f11d6c377205455bc4fe29d91b9d
+size 352

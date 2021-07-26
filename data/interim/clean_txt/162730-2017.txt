@@ -1,1 +1,3 @@
-hp központi adattároló bővítés ssd technológiájú tárolóelem
+version https://git-lfs.github.com/spec/v1
+oid sha256:99cb7740f5fccadbd196fe4854fea808eef5c5b6f3a87a9f1a91da0a12dfd952
+size 70

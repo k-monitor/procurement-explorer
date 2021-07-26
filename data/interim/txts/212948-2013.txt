@@ -1,1 +1,3 @@
-Megbízási szerződés. A szerződés tárgya: 8 sz. főút Székesfehérvár nyugati elkerülő III. szakasz és kapcsolódó létesítmények kivitelezési munkáinál Mérnöki feladatok ellátása.
+version https://git-lfs.github.com/spec/v1
+oid sha256:19e9dcb6cf76391dbe9816889580630a4c639e0cc663736ff74b0732d27ee627
+size 202

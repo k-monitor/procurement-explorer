@@ -1,1 +1,3 @@
-Adásvételi szerződés. Vezetékes földgáz értékesítése az ajánlatkérő részére, teljes ellátás alapú, földgáz-kereskedelmi szerződés keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e50bdf0731acddd42917a3d982728b4634fefa527cf6f1a44a65cd91e38e32a7
+size 164

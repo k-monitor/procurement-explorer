@@ -1,3 +1,3 @@
-vállalkozási szerződés mindszenty józsef zarándokközpont és múzeum építés
-göcseji múzeum felújítás
-a múzeum kapcsolódó parkolóház kialakítás kapcsolódó mérnöki feladat ellátás
+version https://git-lfs.github.com/spec/v1
+oid sha256:a77ca7299817c2ed7174bf3f9f5c8cad1db1735a64e602ff6cd61e3611aa36fc
+size 205

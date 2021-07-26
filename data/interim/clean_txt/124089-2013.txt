@@ -1,1 +1,3 @@
-vállalkozói szerződés a volánbusz zrt. telephely őrzésvédelmi valamint pénzszállítási feladat ellátás
+version https://git-lfs.github.com/spec/v1
+oid sha256:df258b67504febbb41e3e5f45b5d30fa3f3eb6cfdd09b5395413a5b6368f8640
+size 115

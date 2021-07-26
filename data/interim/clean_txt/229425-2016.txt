@@ -1,1 +1,3 @@
-adásvételi szerződés keret kényszerszállító gépjármű beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:8b32c616a575763a1f34fd7cfd6f7688182b4e6ca0e033c10d13c6f60948c6c9
+size 74

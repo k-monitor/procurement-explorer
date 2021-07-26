@@ -1,1 +1,3 @@
-hídfelújítási munka kapcsolódó tervezési szolgáltatás
+version https://git-lfs.github.com/spec/v1
+oid sha256:916bd31ad008331409f0c912e9d772bb864d52bbc3803cc17b707f0db59aa81f
+size 62

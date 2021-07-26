@@ -1,1 +1,3 @@
-Adásvételi szerződés - Villamos energia beszerzése Fót költségvetési intézményei és cége, illetve a közvilágítási hálózat számára.
+version https://git-lfs.github.com/spec/v1
+oid sha256:91e8906618fa7875bbbdfe34a526dfa2881466c77cb5532d265adcae07464839
+size 151

@@ -1,13 +1,3 @@
-a hulladék szóló 2012. évi
-törvény
-ht.
-rendelkezés értelem az állami hulladékgazdálkodási közfeladat ellátás kör ajánlatkérő feladat a közszolgáltatás sor el+különített gyűjt és a vegyes hulladék kezelés sor keletkezett hasznosítható hulladék hasznosítás megszervezés történő gondoskodás
-a ht. rendelkezés értelem ajánlatkérő a közszolgáltatás kör tartozó hulladék tulajdonos
-mindez összhang ajánlatkérő a közszolgáltatás sor gyűjtött hulladék származó srf
-rdf
-rdf ua
-uv haszonanyag energetikai hasznosítás a jelen közbeszerzési eljárás alap megkötés kerülő keretmegállapodás
-ok
-és az az alap meghatározott közvetlen megrendelés
-verseny újranyitás útján gondoskodik a keretmegállapodás időtartam alatt
-a részletes feladatleírás a közbeszerzési dokumentumok melléklet képző műszaki leírás és a szerződéstervezet tartalmaz
+version https://git-lfs.github.com/spec/v1
+oid sha256:9453e23e25b1c99b5b24915198fccc7304a0e254abeac924753e6024c17f4275
+size 919

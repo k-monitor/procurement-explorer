@@ -1,29 +1,3 @@
-Vagyonbiztosítási	vagyonbiztosítási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-keretszerződés	keretszerződés	NOUN	Case=Nom|Number=Sing	
-a	a	DET	Definite=Def|PronType=Art	
-MÁV-START	MÁV-start	NOUN	Case=Nom|Number=Sing	
-Zrt.	Zrt.	PROPN	Case=Nom|Number=Sing	
-jegykiadó	jegykiadó	NOUN	Case=Nom|Number=Sing	
-automatáira	automata	NOUN	Case=Sub|Number=Plur|Number[psor]=Sing|Person[psor]=3	
-,	,	PUNCT	_	
-azok	az	PRON	Case=Nom|Number=Plur|Person=3|PronType=Dem	
-lopás	lopás	NOUN	Case=Nom|Number=Sing	
-,	,	PUNCT	_	
-vandalizmus	vandalizmus	NOUN	Case=Nom|Number=Sing	
-okozta	okozta	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-vagyoni	vagyoni	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-kockázatainak	kockázat	NOUN	Case=Gen|Number=Plur|Number[psor]=Sing|Person[psor]=3	
-kezelésére	kezelés	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-,	,	PUNCT	_	
-fedezetére	fedezet	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-valamint	valamint	CONJ	_	
-az	az	DET	Definite=Def|PronType=Art	
-automatákban	automata	NOUN	Case=Ine|Number=Plur	
-található	található	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-készpénz	készpénz	NOUN	Case=Nom|Number=Sing	
-és	és	CONJ	_	
-jegytekercs	jegytekercs	NOUN	Case=Nom|Number=Sing	
-készlet	készlet	NOUN	Case=Nom|Number=Sing	
-vagyonbiztosítási	vagyonbiztosítási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-fedezetére	fedezet	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:e14278bb98b0b391d7638c11f39fc71963a8dd5fbc44cbf3231b4e550028f1bd
+size 1441

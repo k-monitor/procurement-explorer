@@ -1,21 +1,3 @@
-Radiológiai	radiológiai	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-berendezések	berendezés	NOUN	Case=Nom|Number=Plur	
-beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-a	a	DET	Definite=Def|PronType=Art	
-KEOP-5	KEOP-5	PROPN	Case=Nom|Number=Sing	
-.	.	PUNCT	_	
-
-6.0	6.0	PROPN	Case=Nom|Number=Sing	
-/	/	PUNCT	_	
-E	e	PRON	Case=Nom|Number=Sing|Person=3|PronType=Dem	
-/	/	PUNCT	_	
-15	15	NUM	Case=Nom|NumType=Card|Number=Sing	
-azonosítószámú	azonosítószámú	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-konstrukció	konstrukció	NOUN	Case=Nom|Number=Sing	
-keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-(	(	PUNCT	_	
-adásvételi	adásvételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-)	)	PUNCT	_	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:047c84ed4c54eb128335d0ae95446b1d54a6408865b9c954e476683b23a92851
+size 809

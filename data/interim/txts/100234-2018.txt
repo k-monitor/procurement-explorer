@@ -1,1 +1,3 @@
-Keretmegállapodás Győr Megyei Jogú Város önkormányzati tulajdonú/kezelésű bel-, és külterületi közútjainak, kerékpárútjainak, járdáinak, és az utakhoz tartozó csapadékvíz elvezető létesítményeknek illetve műtárgyaknak (híd) folyamatos fenntartására, karbantartására, és felújítására illetve átépítésére.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4c4b8f573d3ad3db287727816465c21e33984d0a75e4cb2ec5dde8cef5da8bfb
+size 348

@@ -1,23 +1,3 @@
-adásvételi szerződés mobil dinamikus tengelyterhelés mérő rendszer beszerzés
-nyertes ajánlattevő feladat
-készlet mobil dinamikus tengelyterhelés mérő rendszer szállítás
-készlet tartalom legalább
-kerékterhelés mérő talp
-db
-megfelelő tápellátás
-szintkiegyenlítő szőnyeg készlet
-kerékterhelés mérő
-tengelyterhelés és össztömeg meghatározó
-a mérés vezérlő szoftver
-db forgalomirányító jelzőlámpa állvány
-a beszerzés tárgy meghatározás a
-2015.
-x.
-korm
-rendelet
-a további
-alkr.
-46. §
-bekezdés rendelkezés figyelembevétel történik az esetleges megnevezett termék egyenértékű teljesítés elfogad az ajánlatkérő a korm
-r. 46. §
-bekezdés foglalt szerint
+version https://git-lfs.github.com/spec/v1
+oid sha256:f8f8dd8194d550fb76e7e08019e6d4ed9639b6e04155c7b044f87a5cc6a12bde
+size 716

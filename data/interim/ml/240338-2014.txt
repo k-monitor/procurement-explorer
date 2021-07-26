@@ -1,7 +1,3 @@
-Irodabútor	Irodabútor	PROPN	Case=Nom|Number=Sing	
-beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-az	az	DET	Definite=Def|PronType=Art	
-EUTAF	EUTAF	PROPN	Case=Nom|Number=Sing	
-számára	számára	ADP	_	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:f8e45fcd505b9d62cebcbb99826a6618115cc2ebaf0194e14fb6646e88c701ae
+size 253

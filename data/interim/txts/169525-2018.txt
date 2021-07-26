@@ -1,1 +1,3 @@
-Modern Városok Program keretében megvalósuló „a debreceni Nagyerdő program befejezése” tárgyú projekt műszaki ellenőri és műszaki bonyolítói feladatai.
+version https://git-lfs.github.com/spec/v1
+oid sha256:eeffb0dd934d452094a49b901b678154db28e43a744bbc650448abbba15d036c
+size 169

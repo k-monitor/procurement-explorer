@@ -1,1 +1,3 @@
-Adásvételi szerződés alapján gépműszer beszerzése a Felső-Szabolcsi Kórház részére „ A Felső-Szabolcsi Kórház egészségügyi ellátórendszerének korszerűsítése, komplex fejlesztési program keretében” című és TIOP 2.2.4-09/1-2010-0014 azonosítószámú projekt keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:400ec14faf91a5cbda7efa2cefeed8305d9e34c9b0f02ee1ff9719c2c62987c5
+size 303

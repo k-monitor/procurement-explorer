@@ -1,1 +1,3 @@
-Adásvételi szerződés keretében hangszerek beszerzése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8c9779720c8dcb7b0839ade3e787e56f7ed23def9b571ba26633257db3e184fe
+size 59

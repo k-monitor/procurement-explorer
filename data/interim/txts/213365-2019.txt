@@ -1,1 +1,3 @@
-A Vígszínház és a Pesti Színház épületének és egyes helyiségeinek takarítása. Rendszeres takarítás óraszáma/év: Vígszínházban és a hozzátartozó helyiségekben: 25 280 óra Rendszeres takarítás óraszáma: Pesti Színházban 8 521 óra Évente meghatározott számban végzendő feladatok: Vígszínház nyári nagytakarítása évente 1 alkalommal (2019 és 2020 nyarán) Pesti Színház nyári nagytakarítása évente 1 alkalommal (2019 és 2020 nyarán)
+version https://git-lfs.github.com/spec/v1
+oid sha256:57c42e946f0cfaf5d4deaa938a54fabc049aec70618f2e6fc29bd55a1e0268be
+size 482

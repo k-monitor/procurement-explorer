@@ -1,31 +1,3 @@
-darabszám
-db
-a személygépkocsi előírt paraméter
-karosszéria
-ötajtós
-hajtóanyag
-benzin
-vegyes átlagfogyasztás
-km
-hengerűrtartalom
-cm3
-teljesítmény
-95
-kw
-sebességváltó
-manuális
-hajtás
-kapcsolható négykerék-hajtás környezetvédelmi besorolás
-min. euro
-gépjármű magasság
-mm
-gépjármű szélesség tükör nélkül
-mm
-gépjármű hossz
-mm
-a dokumentáció gyártmány
-típus szerint megadott
-vagy műszaki paraméter azonosítható gyártmány
-típus megadás kizárólag a közbeszerzés tárgy egyértelmű meghatározás érdek történik
-bármely
-funkcionalitás és műszaki tartalom legalább ez egyenértékű gépjármű megajánlható
+version https://git-lfs.github.com/spec/v1
+oid sha256:06debb165535210cccd55c9e32e257258bb882acaf394861637bdef0ff7a9184
+size 669

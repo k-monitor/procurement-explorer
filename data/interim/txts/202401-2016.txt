@@ -1,1 +1,3 @@
-A Közúti Központi Információs Rendszer (a továbbiakban: KÖKIR) és kapcsolódó szakrendszereinek üzemeltetése (alkalmazás-üzemeltetés, support) továbbá egyes fejlesztési feladatai. — Értékelési szempont a Kbt. 76. § (2) bekezdés c) pontja. Az értékelés során adható pontszám alsó és felső határa: 1–10. Módszer: 1. fordított arányosítás, 2–4. pontozás. A módszer részletes ismertetése a közbeszerzési dokumentumokban kerül kifejtésre.
+version https://git-lfs.github.com/spec/v1
+oid sha256:139cf155801d983946128516ff9fd67d44f159c0822a91f48a0df9e941336050
+size 484

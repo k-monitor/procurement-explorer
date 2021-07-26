@@ -1,1 +1,3 @@
-Szállítási szerződés krónikus aktív hepatitis C kezelésére szolgáló készítmények beszerzésére.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cf604521b06a0b59071a2ef6386078d0d0854718b155739e8f6907b8b434f4e7
+size 110

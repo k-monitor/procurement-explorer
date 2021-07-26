@@ -1,10 +1,3 @@
-1. részfeladat
-hulladékszállító gyűjtőautó bérlet
-2. részfeladat
-vegyes hulladék lerakás
-3. részfeladat
-biohulladék komposztálás
-4. részfeladat
-begyűjt szelektív hulladék válogatás anyagfajta és bálázás
-5. részfeladat
-hulladékgyűjtő edény bérlet
+version https://git-lfs.github.com/spec/v1
+oid sha256:cc42dece5f53e4b09879c26badc0b36a10d48c1ece62e5523687c4e5bb98d482
+size 277

@@ -1,1 +1,3 @@
-Ortopédiai és traumatológiai implantátumok beszerzésére konszignációs raktárkészlet biztosításával 34 részben. Jelen hirdetményben részenként megjelölt mennyiségek 12 hónapos időszakra vonatkoznak. Amennyiben a jelen közbeszerzési eljárás eredményeként megkötött szerződés további 12 hónap meghosszabbításra kerül, úgy ezen mennyiségek a szerződés teljes időbeli hatálya alatt duplán értendők. A nyertes ajánlattevőként szerződő fél feladatát képező a megkötésre kerülő szerződés alapján a leszállításra kerülő termékek tekintetében azok használatára vonatkozó szakmai tanácsadás, valamint a felhasználó személyzet számára történő betanítás. A beszerzendő termékekkel kapcsolatos részletes leírást és a konszignációs raktárkészletbe kihelyezendő mennyiségeket a közbeszerzési dokumentumok tartalmazzák valamennyi rész tekintetében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b23516643ddd353f39c0cb52e600b0cb8ae5f38031810806c945b9cd46591202
+size 931

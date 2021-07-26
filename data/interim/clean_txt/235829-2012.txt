@@ -1,2 +1,3 @@
-vállalkozási szerződés keret megrendelő intézmény teljes körű általános és egészségügyi napi
-illetve időszakos takarítás
+version https://git-lfs.github.com/spec/v1
+oid sha256:55125532c4236725991a098fa7365a83c870b69996db1117b7e333e5bcddcdf7
+size 138

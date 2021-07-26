@@ -1,1 +1,3 @@
-Vállalkozási szerződés, melynek tárgya: "A fővárosi házhoz menő szelektív hulladékgyűjtési rendszer kialakítása című projekthez kapcsolódó kötelező kommunikációs feladatok elvégzésére kommunikációs szakértő kiválasztása".
+version https://git-lfs.github.com/spec/v1
+oid sha256:1e3b77a1dba4fb4d6fa6432f7b86f53455048519c7d03a572d43ef638ccf8cc1
+size 253

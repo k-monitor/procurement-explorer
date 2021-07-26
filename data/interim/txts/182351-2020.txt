@@ -1,1 +1,3 @@
-AS6 upgrade fejlesztés támogatás
+version https://git-lfs.github.com/spec/v1
+oid sha256:aeb5f4341674e6d7d01ec1369b2075e09c0c229137f8732f94fc930065a490d3
+size 35

@@ -1,12 +1,3 @@
-az mnv zrt. saját
-bérelt és kezelt vagyoni kör tartozó ingatlan komplex vagyonvédelem
-élőerős őrzés
-portaszolgálat
-járőrszolgálat és kivonuló szolgálat
-illetve vagyonvédelmi távfelügyelet
-ellenőrzés kivonuló szolgálat
-valamint biztonsági rendszer
-behatolás-jelző
-kamerás
-telepítés
-karbantartás
+version https://git-lfs.github.com/spec/v1
+oid sha256:2ca1796ab90882c5b5c1f06be082648b9acc4000df61239513b57e37d329f949
+size 325

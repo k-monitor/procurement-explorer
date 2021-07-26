@@ -1,1 +1,3 @@
-mór városi önkormányzat ellátó központ részére élelmiszer beszerzés szállítási keretszerződés keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:ffb5c1b6df56c4e82ccc379d589c43345fbf28ac01d099f250f67ed0822e9343
+size 115

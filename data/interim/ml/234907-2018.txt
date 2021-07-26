@@ -1,21 +1,3 @@
-Belügyminisztérium	Belügyminisztérium	PROPN	Case=Nom|Number=Sing	
-alá	alá	ADP	_	
-tartozó	tartozó	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-szervek	szerv	NOUN	Case=Nom|Number=Plur	
-részére	részére	ADP	_	
-földgázenergia	földgázenergia	NOUN	Case=Nom|Number=Sing	
-beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-a	a	DET	Definite=Def|PronType=Art	
-2018	2018	NUM	Case=Nom|NumType=Card|Number=Sing	
-/	/	PUNCT	_	
-2019.	2019.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
-gázévre	gázév	NOUN	Case=Sub|Number=Sing	
-,	,	PUNCT	_	
-teljes	teljes	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-ellátás	ellátás	NOUN	Case=Nom|Number=Sing	
-alapú	alapú	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-földgázenergia-kereskedelmi	földgázenergia-kereskedelmi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:5519e0e1fef6eb49c22d3724320ebe5701f15a2779504c322293e7dac59c28f8
+size 965

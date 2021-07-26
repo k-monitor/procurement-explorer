@@ -1,7 +1,3 @@
-Prodigy	Prodigy	PROPN	Case=Nom|Number=Sing	
-mérőfej	mérőfej	NOUN	Case=Nom|Number=Sing	
-és	és	CONJ	_	
-tartozékainak	tartozék	NOUN	Case=Gen|Number=Plur|Number[psor]=Sing|Person[psor]=3	
-beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:8f869f805ada0a86e02f5cb51241e9c06627135eb8221eff25256cff38f2efb5
+size 289

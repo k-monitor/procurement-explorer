@@ -1,5 +1,3 @@
-borsod-abaúj-zemplén megyei központi kórház és egyetemi oktatókórház központi telephely takarítási feladat ellátás az ajánlati dokumentáció részletezett szerint
-a takarítás érintett alapterület
-m²
-a szerződés időtartam alatt a takarítandó terület változtatás jog a kórház fenntart
-os mérték
+version https://git-lfs.github.com/spec/v1
+oid sha256:948b356454505e334b44c2c891a4679325a4a5ad0465d647ab84bf61b9175159
+size 325

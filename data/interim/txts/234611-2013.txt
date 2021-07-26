@@ -1,1 +1,3 @@
-Folyószámlahitel biztosítása összesen 5 100 000 000 HUF, azaz ötmilliárd-egyszázmillió forint értékben, hitelszerződés formájában.
+version https://git-lfs.github.com/spec/v1
+oid sha256:62422c2b7df920dec06658acf4f9f41e1b88829e8d6fc23df946b01c200ca8d9
+size 145

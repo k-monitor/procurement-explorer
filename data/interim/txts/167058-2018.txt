@@ -1,1 +1,3 @@
-Vállalkozási szerződés keretében Budapesti vasúti átjárhatósági tanulmány (Budapest Rail Node Study) elkészítése a közbeszerzési dokumentumokban foglaltak szerint.
+version https://git-lfs.github.com/spec/v1
+oid sha256:aad392a866d4b4a80b87ee9e99d2d077c6af8d38e177628db2189130c711aa3f
+size 179

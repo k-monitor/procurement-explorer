@@ -1,1 +1,3 @@
-Szolgáltatási keretszerződés - Generátor gerjesztő rendszerének évi 1 alkalommal történő ellenőrzése, szükség szerinti javítása, beállítása, valamint az eseti meghibásodások javítása.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4f9859b29e0da20ed8a2083d7ec50cafaf5413679d566d58e9a983698b6cb27e
+size 207

@@ -1,9 +1,3 @@
-ajánlatkérő hulladékgazdálkodási közszolgáltatási tevékenység sor szelektív gyűjt
-az nhkv zrt. tulajdon képező
-hak azonosító kódú
-együtt gyűjtött papír
-műanyag
-fém
-italoskart tartalmú
-kevert csomagolási hulladék nyertes ajánlattevő által történő átvétel előkezelés
-valamint újrahasznosítás vagy hasznosítás történő átadás cél
+version https://git-lfs.github.com/spec/v1
+oid sha256:8cda2d33ac045fb646cfbc4ec7dac8b0c994147f0d6611e8b24084d700e8a607
+size 374

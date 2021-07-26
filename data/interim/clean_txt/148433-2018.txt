@@ -1,1 +1,3 @@
-gőzhőenergia szállítás a ferencvárosi torna club népligeti sporttelep részére
+version https://git-lfs.github.com/spec/v1
+oid sha256:15379196ea958855da9582864eacd94cb9a03044e5a99ce9679275d61a7be38a
+size 86

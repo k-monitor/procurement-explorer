@@ -1,1 +1,3 @@
-Szezonális gumiabroncs-szerelés, -tárolás és -biztonsági felmérés 3 részben. A szerződések hatálya a részenként meghatározott keretösszegek kimerüléséig, de legkésőbb az egyes részek hatályba lépésétől számított 36 hónapig tart. A szerződés hatálybalépésének feltétele valamennyi rész tekintetében a közbeszerzések központi ellenőrzéséről és engedélyezéséről szóló 320/2015. (X.30.) Korm. rendelet 13. § (1) bekezdés a) vagy b) pontja vagy a (3) bekezdésben foglaltak teljesülése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3b4fee47ca45fbf3d9754e83e779d09cdf494ab981eaec9459be7379bbd06be8
+size 538

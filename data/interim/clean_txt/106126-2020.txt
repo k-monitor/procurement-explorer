@@ -1,1 +1,3 @@
-dek-824 _ adásvételi szerződés fizioterápiás eszköz beszerzés efop-4
+version https://git-lfs.github.com/spec/v1
+oid sha256:1dbfe02ebaa6c01e131eb0d5653d4cfe92abee0caa63d10cdf0bbad8cff6a859
+size 76

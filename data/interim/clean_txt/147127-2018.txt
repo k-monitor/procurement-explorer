@@ -1,8 +1,3 @@
-vállalkozási keretszerződés mely tárgy seaguard rendszer karbantartás
-eseti hibajavítás és bővítés
-ajánlatkérő székhely és telephely működő integrált beléptető és elektronikus vagyonvédelmi rendszer üzemeltetés szükséges támogatás
-a rendszer hardver
-és szoftverelem ütemezés szerinti karbantartás illetve a rendszer garanciális meghibásodás túli javítás
-valamint ajánlatkérő egyedi igény alap kivitelezendő szoftver
-hardverfejlesztés
-programmódosítás megvalósítás
+version https://git-lfs.github.com/spec/v1
+oid sha256:95bc3e84e32a0803a45b4912b89483b7fc116df9f396507cca21d66c514b52cd
+size 516

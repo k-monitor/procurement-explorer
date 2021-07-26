@@ -1,1 +1,3 @@
-Vállalkozási szerződés az alábbi építési-, kivitelezési munkákra: Debreceni Református Oktatási- Nevelési rendszer infrastrukturális fejlesztése című projekt III. üteme A rész: Debreceni Református Hittudományi Egyetem „A” jelű épület homlokzati nyílászáró szerkezetek és homlokzat és belső falépcső felújítása. B. rész: a Debreceni Református Kollégium Gimnáziumának Középiskolai Fiú- Leánykollégium (Internátus) kialakítása. A vállalkozási szerződés egyösszegű (átalányáras) típusú.
+version https://git-lfs.github.com/spec/v1
+oid sha256:740617684b5cec2496abfadb7d1dbdbfe499a9941fa13cd2f74862c9b38bcb76
+size 548

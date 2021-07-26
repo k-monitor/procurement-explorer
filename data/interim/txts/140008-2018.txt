@@ -1,1 +1,3 @@
-Vállalkozási szerződés alapján „Blaha Lujza tér felújítása".
+version https://git-lfs.github.com/spec/v1
+oid sha256:b415a4ca97dc71054846d9143a677d8835e82cf3fd00de10a19517a9ccc54fe9
+size 71

@@ -1,3 +1,3 @@
-adásvételi szerződés bőrcsomósodáskór
-lumpy sk disease lsd
-elleni vakcina beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:fee31eab478df046720e41857350e09afe27c0b7d523304c0a1e2491b9829a9e
+size 92

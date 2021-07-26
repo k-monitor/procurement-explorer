@@ -1,12 +1,3 @@
-adás-vételi szerződés keret ajánlatkérő az intézmény részére hónap szükséges különféle orvosi gáz kíván beszerez
-nyertes ajánlattevő feladat képez az egészségügyi gáz
-gyógyszer minősülő orvosi gáz és gyógyászati
-valamint diagnosztikai célú gáz
-folyamatos szállítás és üzem helyezés
-tartály kihelyzés
-a gáz ellátó rendszer folyamatos a hatályos jogszabály által előírt karbantartás
-felülvizsgálat
-a szerződés időtartam alatt az ajánlatkérő által leadott eseti megrendelés alap
-az 1. rész eset darab tartály kihelyezés
-a szent lászló kórház terület található tartály ajánlatkérő saját tulajdon van
-a másik telephely szükséges tartály kihelyezés
+version https://git-lfs.github.com/spec/v1
+oid sha256:fc3849fac4a0bf5dbf27cf65e321c9dae5c4d3297f544d07d414fe1bc63e6413
+size 727

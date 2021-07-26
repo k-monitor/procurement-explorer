@@ -1,16 +1,3 @@
-a diákhitelezési rendszer finanszírozási biztonság javítás
-2012. szeptember 15. nap 2013. szeptember 14. nap
-1. rész tekintet
-huf
-azaz forint keretösszegű
-újrafeltöltődő jellegű
-készenléti hitel nyújtás
-állami készfizető kezességvállalás
-hitelszerződés keret
-2. rész tekintet
-huf
-azaz forint keretösszegű
-újrafeltöltődő jellegű
-készenléti hitel nyújtás
-állami készfizető kezességvállalás
-hitelszerződés keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:9cd21824b64589d9a65e7f84eed93333cdda354c10e762d8e8ae9ee8cc78f171
+size 455

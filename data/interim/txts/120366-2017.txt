@@ -1,1 +1,3 @@
-Keretszerződés alapján az MNB által „Fogyasztóbarát termék”-nek minősített lakáscélú jelzáloghitelek társadalmi megismertetése érdekében teljes körű, szakszerű és határidőre történő tájékoztatási feladatok megvalósítása, stratégia és javaslatok összeállítása, továbbá a nem tervezett, a kampány feladatleírásában megjelenített, a kampányhoz közvetlenül nem kapcsolódó részfeladatok (kreatív tervezés és gyártás, médiavásárlás, PR feladatok) ellátása a keretösszeg (nettó 1 500 000 0000 HUF) kimerüléséig vagy legkésőbb 31.12.2019-ig.
+version https://git-lfs.github.com/spec/v1
+oid sha256:81468aa39f9de9fc5b37e563a77f94f903772889980c67c10316f772701336cd
+size 606

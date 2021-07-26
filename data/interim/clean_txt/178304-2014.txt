@@ -1,7 +1,3 @@
-ajánlatkérő számára a szerződés időtartam alatt
-hónap
-különféle élelmiszer
-rész
-becsült érték nettó huf
-beszerzés a dokumentáció szerinti specifikáció meghatározott mennyiség
-eltérés a kiírás szerinti mennyiség
+version https://git-lfs.github.com/spec/v1
+oid sha256:3d6eeef01db9e58bd316563b575fbd9a28c67cded82b065bb2ffbd849b46325e
+size 240

@@ -1,10 +1,3 @@
-dek-420 hagyományos egészségügyi textília beszerzés a dekk részére
-1. rész védőruha beszerzés
-ii
-rész ellátotti és anyagjellegű textília
-iii
-rész egyéb textília beszerzés
-vevő keretmennyiség határoz meg
-mely hónap alatt db áru mennyiség jelent
-vevő a keretmennyiség
-ár megrendelési kötelezettség vállal
+version https://git-lfs.github.com/spec/v1
+oid sha256:4f91d97d77f0cee33a8d5e87bf3c978782851c12838dbcbe85993397ce16be52
+size 336

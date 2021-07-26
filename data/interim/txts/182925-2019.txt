@@ -1,1 +1,3 @@
-K1974 Kenőanyagok és egyéb kemikáliák beszerzése és szállítása
+version https://git-lfs.github.com/spec/v1
+oid sha256:8223896528730af87cfc401c51c8307820be5b998ccb105d6cb3d1d3b161e043
+size 72

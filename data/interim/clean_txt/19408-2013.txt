@@ -1,2 +1,3 @@
-ncts és egy rendszer
-valamint az ics és emcs rendszer kommunikáció általános támogatás és fejlesztés
+version https://git-lfs.github.com/spec/v1
+oid sha256:ee66b0d881de8736ac31f99e0803ba8298a9d5eb096f95a9ebcd658c9ecaa40a
+size 110

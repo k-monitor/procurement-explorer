@@ -1,7 +1,3 @@
-Adásvételi	adásvételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-Biochar	biochar	NOUN	Case=Nom|Number=Sing	
-gép	gép	NOUN	Case=Nom|Number=Sing	
-beszerzésére	beszerzés	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:ec5253233721e0b746cb55d4db3ce93ac7d8e3ca542ce53b0008b367a1fa56d9
+size 294

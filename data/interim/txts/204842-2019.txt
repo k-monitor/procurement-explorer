@@ -1,1 +1,3 @@
-Piac épületéhez kapcsolódó kivitelezési munkák
+version https://git-lfs.github.com/spec/v1
+oid sha256:0ff4c8b923e4a0e3bd352461ee6a042e0c489a51a073cfe95a9f837d05141acc
+size 53

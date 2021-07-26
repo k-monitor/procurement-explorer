@@ -1,1 +1,3 @@
-fasori fa és közterületi parkfa ápolás
+version https://git-lfs.github.com/spec/v1
+oid sha256:297234c16da1f60dbc3b07864bb9218cd308951e032a223dc69988ef21892915
+size 43

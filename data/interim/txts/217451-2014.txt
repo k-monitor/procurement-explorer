@@ -1,1 +1,3 @@
-Hitelszerződés Eger MJV Önkormányzata közműfejlesztést szolgáló beruházás finanszírozásához.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1fd36d1747c7ec5e77d0b886babecd05e44962b5143295517e825bff96d16662
+size 106

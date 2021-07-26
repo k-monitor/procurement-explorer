@@ -1,2 +1,3 @@
-adásvételi szerződés
-mtva meglévő központi router rendszer bővítés az induló m4 sportcsatorna kapcsán tárgy
+version https://git-lfs.github.com/spec/v1
+oid sha256:0e37a551274a4f28a9d424a6039e788f812abd09df9b73d9a7eb277f2483688e
+size 120

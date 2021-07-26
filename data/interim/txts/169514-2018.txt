@@ -1,1 +1,3 @@
-A „Pécsi Vasutas Sportkör 2017-2019. évekre vonatkozó centenáriumi sportinfrastruktúra-fejlesztés” tárgyú projekt során építési beruházáshoz kapcsolódó beruházás-lebonyolító, műszaki ellenőr és tervellenőri feladatok ellátása.
+version https://git-lfs.github.com/spec/v1
+oid sha256:295c15f8d5890a8968e5662cca2a2543bef6d19cc86120790d9a506b3036972f
+size 257

@@ -1,1 +1,3 @@
-Üzemanyag kiszolgáló rendszerek, eszközök karbantartása, javítása, hitelesítése 2013-2015. évben.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f6bc666e63b2d06fd9eaab9cd80fc0e45e56456d72af3b070270b71a90cd29fe
+size 108

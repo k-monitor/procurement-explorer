@@ -1,2 +1,3 @@
-adásvételi szerződés keret ajánlatkérő az intézmény részére hónap szükséges különféle vágó
-záró és szeparáló sebészeti eszköz kíván megvásárol
+version https://git-lfs.github.com/spec/v1
+oid sha256:bffc1136800a535fcec2a8dfdbb0b4669bd4848254e1c27d61be7f62941631bb
+size 172

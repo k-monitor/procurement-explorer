@@ -1,1 +1,3 @@
-Megbízási szerződés a 86 és 76 sz. főutak Nádasd-Hegyhátsál-Katafa közös elkerülő szakasz 44+010-50+000 km szelvények közötti kivitelezési munkáihoz szükséges mérnöki feladatok ellátására.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cc50193dac9a3845d7dc30528ec69f966fa9d4f7f7f2b07e06308a3f761da1d2
+size 213

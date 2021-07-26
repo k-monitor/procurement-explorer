@@ -1,1 +1,3 @@
-Adásvételi szerződés árvízvédelmi művek védképességének helyreállítása céljából szükséges szádlemezek beszerzésére az ATIVIZIG területén elvégzendő feladatok ellátásához a KEOP-2.1.1/2F/09-11-2013-0001 azonosítószámú, „Állami árvízvédelmi művek állékonyságának, védképességének helyreállítása a 2013. évi őszi felülvizsgálat eredményeként meghatározottak szerint” elnevezésű projekt keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3d5237818e90d092f0ff65c07461b7cb749660ea4d3e8c1c0ccd2b787dea99a2
+size 457

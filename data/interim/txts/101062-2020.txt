@@ -1,1 +1,3 @@
-Onkológiai megbetegedések kezelésére szolgáló tételes elszámolás alá eső atezolizumab hatóanyagot tartalmazó készítmény beszerzése 12 hónap aktív és 4 hónap passzív időszakra
+version https://git-lfs.github.com/spec/v1
+oid sha256:43c1cee34d2667eaf84b4e54491ce6b42224b8fe77e92a0fb9284a7ee44836d6
+size 197

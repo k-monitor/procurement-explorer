@@ -1,1 +1,3 @@
-szállítási szerződés menetrendszerint tömegközlekedés lebonyolítás szolgáló autóbusz beszerzés tárgy
+version https://git-lfs.github.com/spec/v1
+oid sha256:77d66cd71af70de9fabdfae0949b5b7b15a22b16ef6b6fe82d1a327c53220a3a
+size 115

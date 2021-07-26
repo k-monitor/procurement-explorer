@@ -1,1 +1,3 @@
-K2 alapú munkafolyamat-irányító infrastruktúra szoftverkövetése, bővítése, valamint a K2 infrastruktúra és workflow alkalmazások eseti támogatása, hibajavítása és fejlesztése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0e0fe1983a0289b9a4cfa51f846905822e911c2d1b324b1936be69f7ef488531
+size 194

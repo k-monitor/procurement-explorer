@@ -1,1 +1,3 @@
-A TIOP-2.2.6-12/1B pályázat keretében adásvételi szerződés, a Parádfürdői Állami Kórház részére röntgen berendezés, valamint egyéb orvosi berendezések valamint orvostechnikai és egyéb eszközök szállítása, telepítése és üzembe helyezése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:32e6e4e270210aa28ca9d448263601aeeb9ec7d449e6105c3cdbe9af8b6cab5a
+size 267

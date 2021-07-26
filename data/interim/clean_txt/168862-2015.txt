@@ -1,4 +1,3 @@
-szerződés meghatározás
-adásvételi szerződés
-önjáró oszlopverő beszerzés
-a dokumentáció leírt meg+felelő
+version https://git-lfs.github.com/spec/v1
+oid sha256:ff0ce8e084e26bac9df4de9c46e4dec6c437549f0171646b8622d2c145c209cc
+size 120

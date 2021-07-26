@@ -1,1 +1,3 @@
-Egyszerhasználatos, steril 3 részes „top and bottom” típusú zárt vérvételi műanyag zsákrendszer beszerzése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6741adc02e0afd98d5ba5bd6fe620f4db29f36966b956472ca001e5c6fc6ba5e
+size 121

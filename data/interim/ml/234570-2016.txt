@@ -1,22 +1,3 @@
-DEK-347	DEK-347	PROPN	Case=Nom|Number=Sing	
-/	/	PUNCT	_	
-2016.	2016.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
-
-:	:	PUNCT	_	
-Veszélyes	veszélyes	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-hulladék	hulladék	NOUN	Case=Nom|Number=Sing	
-gyűjtők	gyűjtő	NOUN	Case=Nom|Number=Plur	
-(	(	PUNCT	_	
-badellák	badella	NOUN	Case=Nom|Number=Plur	
-)	)	PUNCT	_	
-és	és	CONJ	_	
-tűgyűjtők	tűgyűjtő	NOUN	Case=Nom|Number=Plur	
-beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-a	a	DET	Definite=Def|PronType=Art	
-Debreceni	debreceni	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-Egyetem	Egyetem	PROPN	Case=Nom|Number=Sing	
-Klinikai	klinikai	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-Központ	Központ	PROPN	Case=Nom|Number=Sing	
-részére	részére	ADP	_	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:857e0500194bf6a9904d007486fe85f7ea2f9782e5568058c27fa4ee3c0da344
+size 773

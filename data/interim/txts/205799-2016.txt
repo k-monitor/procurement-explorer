@@ -1,1 +1,3 @@
-Ajánlatkérő székhelyén található ingatlanok helyiségeinek (14 543 m²) és ablakainak (3 881 m² ablakfelület) takarítása, részben saját tisztítószerrel és eszközökkel, valamint higiéniai töltőanyagok és adagolók utántöltése, kezelése, vállalkozási szerződés keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5ff7cf0951c73f4c44960f98438dbf94766f9fe1dba4d181de9ad013b86043ef
+size 301

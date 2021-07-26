@@ -1,1 +1,3 @@
-Adás-vételi szerződés keretében Ajánlatkérő az Intézmény részére 12 hónapban szükséges gyógyszereket kívánja megvásárolni.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bcf38b301ac5b4c5682568f19f46aaccd244656e31cd824828a7ca8267820946
+size 142

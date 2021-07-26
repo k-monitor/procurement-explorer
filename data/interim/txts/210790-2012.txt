@@ -1,1 +1,3 @@
-Debrecen, Borzán Gáspár utcai buszforduló és hozzá kapcsolódóan a Borzán - Diószegi - Gizella utca csomópontjában körforgalom kiépítéséhez kapcsolódó műszaki ellenőri feladatok ellátása a projektzárásig (záró projekt-előrehaladási jelentés elfogadásáig), valamint a kivitelezést követő jótállási időszak végéig megbízási szerződés keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:aa222b1ad5f4edde4ad91a928221c44c29b189c9016406105570b3298a97afa2
+size 387

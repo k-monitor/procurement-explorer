@@ -1,1 +1,3 @@
-szent istván király múzeum rendház műemléki épület rekonstrukció
+version https://git-lfs.github.com/spec/v1
+oid sha256:590aaeff0283ed4650ecb92e1cb280c72fe0dd21c555816c0d382f4121413eba
+size 73

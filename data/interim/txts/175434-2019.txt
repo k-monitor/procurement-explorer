@@ -1,1 +1,3 @@
-Gyakornoki program
+version https://git-lfs.github.com/spec/v1
+oid sha256:3934f4bfc4c5df42d9cc7998f0ffe0de11dee9d50812abcabf5947dc5b7740e4
+size 18

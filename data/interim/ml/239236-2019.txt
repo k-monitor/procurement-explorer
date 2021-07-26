@@ -1,24 +1,3 @@
-Rehabilitációs	rehabilitációs	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-orvostechnológiai	orvostechnológiai	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-berendezések	berendezés	NOUN	Case=Nom|Number=Plur	
-beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-az	az	DET	Definite=Def|PronType=Art	
-EFOP-2	EFOP-2	NOUN	Case=Nom|Number=Sing	
-.	.	PUNCT	_	
-
-2	2	NUM	Case=Nom|NumType=Card|Number=Sing	
-.	.	PUNCT	_	
-19-17-2017-00006	19-17-2017-00006	PROPN	Case=Nom|Number=Sing	
-Azonosítószámú	azonosítószámú	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-,	,	PUNCT	_	
-Járóbeteg	járóbeteg	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szakellátó	szakellátó	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szolgáltatások	szolgáltatás	NOUN	Case=Nom|Number=Plur	
-fejlesztése	fejlesztés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-az	az	DET	Definite=Def|PronType=Art	
-SZSZBMK-ban	SZSZBMK	NOUN	Case=Ine|Number=Sing	
-című	című	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-projekt	projekt	NOUN	Case=Nom|Number=Sing	
-keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:e5fed4fc980509382e7f38a075edca4e61d1e9c55213b7d1579277eed0c52fd1
+size 1117

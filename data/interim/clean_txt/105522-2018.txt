@@ -1,18 +1,3 @@
-megbízási szerződés a
-észak-magyarországi szennyvízelvezetési és
-kezelési fejlesztés 7.
-émo 7
-elnevezésű
-kehop-2
-2-15-2016-00081 azonosítószámú projekt keret műszaki ellenőri tevékenység ellátás
-a ii
-1.1
-és ii
-2.1 pont megadott elnevezés teljes terjedelem
-megbízási szerződés a
-észak-magyarországi szennyvízelvezetési és
-kezelési fejlesztés 7.
-émo 7
-elnevezésű
-kehop-2
-2-15-2016-00081 azonosítószámú projekt keret műszaki ellenőri tevékenység ellátás
+version https://git-lfs.github.com/spec/v1
+oid sha256:7a691034b5d4eca9e1a0357e6fb6f461bb9c47aaba81fd920922db38576b3e13
+size 500

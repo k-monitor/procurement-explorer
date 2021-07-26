@@ -1,1 +1,3 @@
-Adásvételi szerződés – Szemészeti műlencsék beszerzése a Borsod-Abaúj-Zemplén Megyei Kórház és Egyetemi Oktató Kórház részére.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bdee6499cfd9792d4d3a14417dcc8bd0923bea1b422d67aeea4e988428cdc064
+size 146

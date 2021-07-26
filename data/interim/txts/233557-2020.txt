@@ -1,1 +1,3 @@
-DEK-896_Adásvételi szerződés kutatóeszközök beszerzésére GINOP-2.3.3-15-2016-00021 sz. pályázat keretein belül 1. rész: Elektroretinográf (ERG) rendszer 2. rész: Magatartástudományi vizsgáló berendezés (MAZE) 3. rész: Izolált szívperfúziós készülék (Gravitációs Nelly)
+version https://git-lfs.github.com/spec/v1
+oid sha256:5805e873cdf2b53bd5f52a6f35473414c26f090b866af38fa8630c06abee8665
+size 298

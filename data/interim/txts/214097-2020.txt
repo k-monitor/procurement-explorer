@@ -1,1 +1,3 @@
-Nyertes ajánlattevő feladata — az 1. részben tizenhét darab minimum két fő szállítására alkalmas gépjármű szállítása, — a 2. részben kettő darab N1 kategóriájú - zárt rakodóterű - hosszú kisteher gépjármű szállítása, — a 3. részben kettő darab N1 kategóriájú - zárt rakodóterű - rövid kisteher gépjármű szállítása És a gépjárművek 1. részben legalább 250 000 km-es (tájékoztató jelleggel, tervezetten ~5 év alatt érik el a járművek ezt a futásteljesítményt) 2. és 3. részben legalább 120 000 km-es (tájékoztató jelleggel, tervezetten ~3 év alatt érik el a járművek ezt a futásteljesítményt) üzemeltetési futásteljesítményéhez tartozó a gyártó, illetve forgalmazó által előírt karbantartási szolgáltatások ellátása A közbeszerzési műszaki leírásban foglaltak szerint.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8d8a5534f65af456d1dffbd106f9fbeda5074091f22c363adc22aef480518074
+size 870

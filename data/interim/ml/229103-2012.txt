@@ -1,19 +1,3 @@
-Vállalkozási	Vállalkozási	PROPN	Case=Nom|Number=Sing	
-keretszerződés	keretszerződés	NOUN	Case=Nom|Number=Sing	
-szódagyártó	szódagyártó	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-berendezések	berendezés	NOUN	Case=Nom|Number=Plur	
-,	,	PUNCT	_	
-szódaballon-hűtők	szódaballon-hűtő	NOUN	Case=Nom|Number=Plur	
-átalánydíjas	átalánydíjas	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-javítása	javítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-,	,	PUNCT	_	
-karbantartása	karbantartás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-,	,	PUNCT	_	
-állagmegóvása	állagmegóvás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-,	,	PUNCT	_	
-és	és	CONJ	_	
-cseréje	csere	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-havi	havi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szinten	szint	NOUN	Case=Sup|Number=Sing	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:e3b1cda518ffa67298c7e41979a887a92a748fc96b50559776773982079cb74c
+size 884

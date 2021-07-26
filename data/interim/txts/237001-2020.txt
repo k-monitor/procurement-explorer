@@ -1,1 +1,3 @@
-„Szállítási szerződés 2 db 60 tonna teher emelő-képességű autódaru szállítására”
+version https://git-lfs.github.com/spec/v1
+oid sha256:37504f3a0fb2f5283377403a07aafe020750cdb78ddf3651d60cf008e9057177
+size 98

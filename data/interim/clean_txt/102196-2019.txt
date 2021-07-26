@@ -1,1 +1,3 @@
-adásvételi szerződés db c-íves képerősítő beszerzés a debreceni egyetem klinikai központ egyes egység részére
+version https://git-lfs.github.com/spec/v1
+oid sha256:43cd9782ae840118be0c99e53908dffc1437669961bcacc4f1e099029fd66818
+size 123

@@ -1,7 +1,3 @@
-adásvételi szerződés megkötés az alábbi hulladék
-és szeméttároló konténer beszerzés érdek a dbht
-keop-1
-1.1
-c
-13-2013-0031 pályázat kapcsán
-házi komposztáló edényzet db újrahasználati központ db l-es kerekes hulladékgyűjtő edény db l-es lapos fedelű hulladékgyűjtő konténer db l-es kerekes hulladékgyűjtő edény db nyit 4m3-es acéllemez konténer ponyva db nyit 5m3-es acéllemez konténer ponyva db nyit 8m3-es acéllemez konténer ponyva db m3 préskonténer db m3 préskonténer db m3 préskonténer db
+version https://git-lfs.github.com/spec/v1
+oid sha256:1fec1ebef68494456ff49cffc71bda5bb1d0a6c14f29706525fd02fb07e3b6a2
+size 543

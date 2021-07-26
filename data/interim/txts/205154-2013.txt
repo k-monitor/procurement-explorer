@@ -1,1 +1,3 @@
-Roche gyártmányú humán diagnosztikai laboratóriumi automatákhoz felhasználható reagensek beszerzése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e86777ffc23942021084a545f2b93d101a519fad8f84cdb27aaab5b6ce771689
+size 109

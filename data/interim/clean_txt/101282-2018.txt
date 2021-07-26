@@ -1,4 +1,3 @@
-természetvédelmi felmérés
-vizsgálat és mérés elvégzés skhu
-1.1
-azonosító számú projekt keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:5b889edddf8ffade2b9cd2f2e3f16a6b06871c444c93c3fef25fe1a3db60ac6d
+size 106

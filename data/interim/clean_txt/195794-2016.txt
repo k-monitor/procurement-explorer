@@ -1,9 +1,3 @@
-a
-1990.
-12.
-köhém rendelet a jármű vonatkozó műszaki előírás megfelelő
-legalább euro 6-os kategória sorolt diesel motor szerelt
-db járműszerelvény
-mely kéttengelyes nyerges vontató és háromtengelyes hátra billenő félpótkocsi áll
-figyelmeztető jelzés
-forgalmi rendszám
+version https://git-lfs.github.com/spec/v1
+oid sha256:5165f0349079352a4d2febe8e6bc941e0309cc9192288842c1f1bc172b720f77
+size 294

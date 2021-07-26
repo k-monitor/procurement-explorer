@@ -1,1 +1,3 @@
-Vállalkozási szerződés a „A003.12 338. sz. főút Nyíregyháza nyugati elkerülő (0+000 – 2+225 km. sz. közötti) szakasz kivitelezési munkáinak elvégzése” tárgyában.
+version https://git-lfs.github.com/spec/v1
+oid sha256:322caa67c5ffb81d139f086205ef1ceb2b24dd9f89c37bb274e1d1fd73c99f65
+size 185

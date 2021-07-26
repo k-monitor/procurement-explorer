@@ -1,3 +1,3 @@
-cng üzemanyag
-chipkártyás
-beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:3a4abe9140dc895a0d869f00280da5a12058dc9081e701c8b4425a115343f9fe
+size 39

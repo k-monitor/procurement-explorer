@@ -1,5 +1,3 @@
-db csere-felépítményes kommunális jármű beszerzés nyári
-seprő
-és téli
-hóeke és sószóró
-adapter
+version https://git-lfs.github.com/spec/v1
+oid sha256:b6ae6d2b4762f02c122ddbc413aaaf642c1904e863c38a915e8c3884a023c5a7
+size 110

@@ -1,11 +1,3 @@
-ajánlatkérő telephely működő
-a dokumentáció tételes meghatározott cisco hálózati
-lan
-wan
-cisco storage hálózati
-san
-valamint cisco dwdm eszköz havi
-os rendelkezés állás biztosító támogatási szolgáltatás nyújtás 1.
-31.
-havi embernap proaktív támogatás
-a szerződés hatály alatt összesen legfeljebb mérnöknap opciós eseti embernap alapú támogatás
+version https://git-lfs.github.com/spec/v1
+oid sha256:11179b1d24620a442ff8adafbd6fe71e15fa1a0e539106e7423c182a581c5cdf
+size 382

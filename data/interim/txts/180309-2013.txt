@@ -1,1 +1,3 @@
-I. rész: Tervezési szerződés „39. sz. tervezett új főút Encs-Tiszanagyfalu (38. sz. főút) között új Tisza-híddal” tárgyú projekthez értékelemzés készítése tárgyában II. rész: Tervezési szerződés „39. sz. tervezett új főút Encs-Tiszanagyfalu (38. sz. főút) között új Tisza-híddal” tárgyú projekthez megvalósíthatósági tanulmány készítése tárgyában
+version https://git-lfs.github.com/spec/v1
+oid sha256:d886cb0789c136944b8422a825f3375f2e140b48b94519d71ee716168feed9fe
+size 402

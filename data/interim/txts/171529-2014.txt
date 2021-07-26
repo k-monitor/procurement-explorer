@@ -1,1 +1,3 @@
-Szolgáltatási szerződés az Ajánlatkérő telephelyeinek takarítására, 1 + 1 évre.
+version https://git-lfs.github.com/spec/v1
+oid sha256:912e55c60234ec01278becfe5ce47d85b4825cbc6dae1f40508db4d3cc7d850f
+size 90

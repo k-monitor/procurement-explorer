@@ -1,2 +1,3 @@
-földgáz beszerzés budafok-tétény budapest
-kerület önkormányzata polgármesteri hivatala és egyes intézmény részére teljes alapú földgáz-kereskedelmi szerződés keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:494c04b38df8b6636f4277ed93b9f007b5f85a4144c0eee055ff3308b30e911f
+size 182

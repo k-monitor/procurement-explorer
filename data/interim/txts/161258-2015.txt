@@ -1,1 +1,3 @@
-Adásvételi szerződés 12 havi kenyér- pékáru, tésztafélék beszerzésére.
+version https://git-lfs.github.com/spec/v1
+oid sha256:2b125a809fcf87fa7e4f0fa3cdc1ae45875a4deeeb35da833c165c0ef60110c9
+size 82

@@ -1,16 +1,3 @@
-Megbízási	megbízási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-beruházás	beruházás	NOUN	Case=Nom|Number=Sing	
-lebonyolítói	lebonyolító	ADJ	Case=Nom|Degree=Pos|Number=Plur|Number[psor]=Sing|Person[psor]=3|VerbForm=PartPres	
-és	és	CONJ	_	
-teljes	teljes	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-körű	körű	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-műszaki	műszaki	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-ellenőri	ellenőri	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-feladatok	feladat	NOUN	Case=Nom|Number=Plur	
-ellátására	ellátás	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-versenyuszoda	versenyuszoda	NOUN	Case=Nom|Number=Sing	
-építése	építés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-tekintetében	tekintet	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:1b1d4900179726e9c485d9263b51b7ce73f6070e031178bb1f66eed6a9bafb52
+size 872

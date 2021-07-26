@@ -1,31 +1,3 @@
-Megbízási	megbízási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-Nagyatád	nagyatád	NOUN	Case=Nom|Number=Sing	
-és	és	CONJ	_	
-környéke	környék	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-csatornahálózatának	csatornahálózat	NOUN	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-és	és	CONJ	_	
-Nagyatád	nagyatád	NOUN	Case=Nom|Number=Sing	
-szennyvíztelepének	szennyvíztelep	NOUN	Case=Gen|Number=Sing|Number[psed]=Sing	
-fejlesztése	fejlesztés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-elnevezésű	elnevezésű	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-KEOP-1	KEOP-1	PROPN	Case=Nom|Number=Sing	
-.	.	PUNCT	_	
-
-2.0	2.0	PROPN	Case=Nom|Number=Sing	
-/	/	PUNCT	_	
-09-11-2011-0038	09-11-2011-0038	PROPN	Case=Nom|Number=Sing	
-azonosítószámú	azonosítószámú	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-projekt	projekt	NOUN	Case=Nom|Number=Sing	
-megvalósítása	megvalósítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-során	sor	NOUN	Case=Sup|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-FIDIC	FIDIC	PROPN	Case=Nom|Number=Sing	
-mérnöki	mérnöki	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-és	és	CONJ	_	
-műszaki	műszaki	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-ellenőri	ellenőri	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-tevékenységek	tevékenység	NOUN	Case=Nom|Number=Plur	
-ellátása	ellátás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:7e7848cee06d3ef4b7c835561fa0cfbd3ebac8c4604193db9bb3fc4c96984fd4
+size 1551

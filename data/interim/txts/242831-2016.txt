@@ -1,1 +1,3 @@
-Őrzés-védelmi feladatok, ideértve a szolgáltatás végzéséhez kapcsolódóan előírt fejlesztési célú beruházások elvégzését Kecskemét Megyei Jogú Város Önkormányzata központosított beszerzési rendszeréhez csatlakozott intézmények és gazdasági társaságok részére.
+version https://git-lfs.github.com/spec/v1
+oid sha256:43e7831e23932faed23dd4cd7ac4ccc953a977ddba9047154e31448bd2286256
+size 296

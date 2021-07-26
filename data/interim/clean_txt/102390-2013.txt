@@ -1,1 +1,3 @@
-sysmex® ca-1500 system készülék validált és kompatibilis véralvadási reagens készlet beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:a90ba0f14fe669f5459270b5cb920c7355b5adbd10458275ec69a8debce1c237
+size 104

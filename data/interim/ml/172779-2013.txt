@@ -1,8 +1,3 @@
-Újbuda	újbuda	NOUN	Case=Nom|Number=Sing	
-Sportjáért	sport	NOUN	Case=Cau|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-Nonprofit	nonprofit	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-Kft.	Kft.	PROPN	Case=Nom|Number=Sing	
-földgáz	földgáz	NOUN	Case=Nom|Number=Sing	
-beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:a0b08fe4a87f53da11aa7d6b2d811b3f6889f1a1c9f58a8e76e97b3e95948109
+size 361

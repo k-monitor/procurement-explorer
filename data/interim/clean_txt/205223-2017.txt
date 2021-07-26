@@ -1,2 +1,3 @@
-zalaegerszeg megyei jogú város önkormányzata intézmény teljes alapú földgáz energia ellátás
-gázév földgáz energia kereskedelmi szerződés keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:3bfec1f5d5de90decec402052055f09a581cb08c802ec05d950ebd4245b631f7
+size 159

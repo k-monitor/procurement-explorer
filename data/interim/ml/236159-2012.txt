@@ -1,19 +1,3 @@
-Határozott	határozott	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-,	,	PUNCT	_	
-egy	egy	NUM	Case=Nom|NumType=Card|Number=Sing	
-éves	éves	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-időtartamra	időtartam	NOUN	Case=Sub|Number=Sing	
-szóló	szóló	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-folyószámla	folyószámla	NOUN	Case=Nom|Number=Sing	
-hitelkeret	hitelkeret	NOUN	Case=Nom|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-3	3	NUM	Case=Nom|NumType=Card|Number=Sing	
-000	000	NUM	Case=Nom|NumType=Card|Number=Sing	
-000	000	NUM	Case=Nom|NumType=Card|Number=Sing	
-000	000	NUM	Case=Nom|NumType=Card|Number=Sing	
-HUF	HUF	PROPN	Case=Nom|Number=Sing	
-értékben	érték	NOUN	Case=Ine|Number=Sing	
-folyószámla	folyószámla	NOUN	Case=Nom|Number=Sing	
-vezetéssel	vezetés	NOUN	Case=Ins|Number=Sing	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:c7c393f06955e965256643991f031ca1adf41f02f569bf71e2569b5298bcd735
+size 830

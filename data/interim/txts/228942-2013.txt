@@ -1,1 +1,3 @@
-Vállalkozási szerződés a Beregi vízgazdálkodási rendszerhez és a Lónyai árapasztó fióktározóhoz csatlakozó védőerdősáv kialakításához szükséges telepítések megvalósítására, befejezett erdősítéssel a KEOP-2.1.1/2F/09-2010-0007 számú Beregi komplex árapasztási és ártér-revitalizációs fejlesztés című projekt keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:71080f1f5968a9ad788e35cb05ceaf9a280845f1602e229a431e34262384ee0f
+size 363

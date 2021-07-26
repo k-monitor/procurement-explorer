@@ -1,25 +1,3 @@
-Vállalkozási	Vállalkozási	PROPN	Case=Nom|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-a	a	DET	Definite=Def|PronType=Art	
-NAV	NAV	PROPN	Case=Nom|Number=Sing	
-Központi	Központi	PROPN	Case=Nom|Number=Sing	
-Hivatala	Hivatala	PROPN	Case=Nom|Number=Sing	
-,	,	PUNCT	_	
-Közép-magyarországi	Közép-magyarországi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-Regionális	Regionális	PROPN	Case=Nom|Number=Sing	
-Vám	Vám	PROPN	Case=Nom|Number=Sing	
--	-	PUNCT	_	
-és	és	CONJ	_	
-Pénzügyőri	pénzügyőri	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-Főigazgatósága	főigazgatóság	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-és	és	CONJ	_	
-Szakértői	Szakértői	PROPN	Case=Nom|Number=Sing	
-Intézete	Intézete	PROPN	Case=Nom|Number=Sing	
-egyes	egyes	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-ingatlanjainak	ingatlan	NOUN	Case=Gen|Number=Plur|Number[psor]=Sing|Person[psor]=3	
-takarítása	takarítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-3	3	NUM	Case=Nom|NumType=Card|Number=Sing	
-részben	rész	NOUN	Case=Ine|Number=Sing	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:24f660701e78f1964891a34667262f97eaf23dec83b3f665ea022d4a9d2c1f3f
+size 1159

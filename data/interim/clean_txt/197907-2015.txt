@@ -1,5 +1,3 @@
-abo vércsoport
-rhd
-c
-e
-c és e vörösvérsejt antigén meghatározás szolgáló diagnosztikum beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:188e8641469cc1f42ddee7edeefde09b6a8a2604d5e3340de290772c3d5049c4
+size 107

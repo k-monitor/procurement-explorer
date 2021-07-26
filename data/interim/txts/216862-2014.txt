@@ -1,1 +1,3 @@
-Adásvételi szerződés a Pilisvörösvári szennyvízcsatorna hálózat eszközállományának fejlesztése tárgyában. Adásvételi szerződés 1 db kombinált csatornatisztító célgép beszerzésére.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cb351a3055765261a510304cadfec6c98631ddb859e42d7930c5c099c670d990
+size 207

@@ -1,7 +1,3 @@
-Repülőtér	repülőtér	NOUN	Case=Nom|Number=Sing	
-,	,	PUNCT	_	
-belső	belső	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-átalakítások	átalakítás	NOUN	Case=Nom|Number=Plur	
-tervezési	tervezési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-feladatai	feladat	NOUN	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:050100b0563568d914b2603df6eca01ece68a2fbe6d89cb3a80c97eb738e7134
+size 312

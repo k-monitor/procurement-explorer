@@ -1,3 +1,3 @@
-a modern város program keret
-a debreceni nagyerdő program befejezés
-tárgyú projekt kivitelezési munkálat
+version https://git-lfs.github.com/spec/v1
+oid sha256:39df6ab9a7c59969126e1f1466ef547f4f8b97254446b7234ade7859dbc92e05
+size 111

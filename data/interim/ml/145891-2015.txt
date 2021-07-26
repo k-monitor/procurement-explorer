@@ -1,25 +1,3 @@
-Megbízási	megbízási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-a	a	DET	Definite=Def|PronType=Art	
-Dél-budai	Dél-budai	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-Egészségügyi	Egészségügyi	PROPN	Case=Nom|Number=Sing	
-Szolgálat	Szolgálat	PROPN	Case=Nom|Number=Sing	
-Közhasznú	Közhasznú	PROPN	Case=Nom|Number=Sing	
-Nonprofit	nonprofit	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-Kft.	Kft.	PROPN	Case=Nom|Number=Sing	
-pénzügyi	pénzügyi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
--	-	PUNCT	_	
-,	,	PUNCT	_	
-számviteli	számviteli	ADJ	Case=Nom|Degree=Pos|Number=Sing	
--	-	PUNCT	_	
-,	,	PUNCT	_	
-bér	bér	NOUN	Case=Nom|Number=Sing	
--	-	PUNCT	_	
-,	,	PUNCT	_	
-és	és	CONJ	_	
-munkaügyi	munkaügyi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-feladatainak	feladat	NOUN	Case=Gen|Number=Plur|Number[psor]=Sing|Person[psor]=3	
-ellátása	ellátás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-tárgyában	tárgy	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:0539784b39603538bd1ed8dd51f6d769322bf769230e4361b134421a58abeb99
+size 1028

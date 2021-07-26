@@ -1,1 +1,3 @@
-különféle kórházi textília beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:54ea846772248737ba4b5ccc78be75400606131067f53ff63f7c29305be97fd5
+size 43

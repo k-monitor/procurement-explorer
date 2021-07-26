@@ -1,18 +1,3 @@
-A	a	DET	Definite=Def|PronType=Art	
-Miskolctapolcai	miskolctapolcai	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-Strandfürdő	strandfürdő	NOUN	Case=Nom|Number=Sing	
-részére	részére	ADP	_	
-fitnesz	fitnesz	NOUN	Case=Nom|Number=Sing	
-gépek	gép	NOUN	Case=Nom|Number=Plur	
--	-	PUNCT	_	
-futópadok	futópad	NOUN	Case=Nom|Number=Plur	
-,	,	PUNCT	_	
-terem	terem	NOUN	Case=Nom|Number=Sing	
-kerékpárok	kerékpár	NOUN	Case=Nom|Number=Plur	
-,	,	PUNCT	_	
-has-és	has-és	CONJ	_	
-hátizom	hátizik	VERB	Definite=Ind|Mood=Ind|Number=Sing|Person=1|Tense=Pres|VerbForm=Fin|Voice=Act	
-gépek	gép	NOUN	Case=Nom|Number=Plur	
--	-	PUNCT	_	
-szállítása	szállítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:d311689910e13fbcb37bbd28edb3c27089b02f60cfcc912efe1643d1c09c55d2
+size 709

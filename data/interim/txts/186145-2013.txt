@@ -1,1 +1,3 @@
-Bűnmegelőzés - Térfigyelő kamerarendszer felszerelése, telepítése Budapest Főváros XV. kerületben - vállalkozási szerződés keretében
+version https://git-lfs.github.com/spec/v1
+oid sha256:9091d44609c285cf5a20021e3c2f4fdd13edd035d476fdb87fcfbb14db2194fa
+size 148

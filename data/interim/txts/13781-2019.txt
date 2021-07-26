@@ -1,1 +1,3 @@
-„Defibrillátor beszerzés az MLSZ részére”
+version https://git-lfs.github.com/spec/v1
+oid sha256:4f8fe80c1fd442ed9a5ac10e3804cd01bf642000a908eeac3ed35b7bd6919433
+size 49

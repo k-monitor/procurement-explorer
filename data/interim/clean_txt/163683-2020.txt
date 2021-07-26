@@ -1,6 +1,3 @@
-1. rész
-bútor a ráckevei járásbíróság új épület 2. rész
-görgős munkaszék beszerzés a nyertes ajánlattevő köteles a bútor a helyszín leszállít
-összeszerel és beállít
-ajánlatkérő csak rendeltetésszerű használat alkalmas
-új bútor fogad el
+version https://git-lfs.github.com/spec/v1
+oid sha256:2333bb94719214d207ca6a5220c36306861e7799ff62fea114f68ead239207de
+size 270

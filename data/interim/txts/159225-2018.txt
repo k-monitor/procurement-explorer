@@ -1,1 +1,3 @@
-DEK-525/2017.: Tömegspektrometrián alapuló standardizált integrált lipidomikai vizsgálatokra alkalmas rendszer beszerzése a GINOP-2.3.2-15-2016-00005 sz. projekt keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:aaffaad116f2eae9f52dc87bf96c89c56c0f6d4bad558c874dddedaf1694537a
+size 180

@@ -1,11 +1,3 @@
-a beszerzés tárgy
-meglévő symantec antivirus és anti-spam rendszer bővítés
-licenc bővítés mennyiség
-db db opció
-license biztosít kell támogatás hónap időtartam
-a jelenleg meglévő infrastruktúra
-symantec anti-virus és anti-spam
-gateway szintű levelezésvédelem
-symantec management server
-jelenleg az infrastruktúra használt licenc
-symc protection suite enterprise edition 4.1 per user initial essential months express band a
+version https://git-lfs.github.com/spec/v1
+oid sha256:5f835ca0b0d6a512261ea600384fbbb4f364f648917af75dc602872119f5cf3e
+size 449

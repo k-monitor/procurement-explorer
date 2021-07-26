@@ -1,7 +1,3 @@
-biztosítási szerződés a fővárosi közterület-fenntartó zrt. működés sor felmerülő kockázat
-vagyonbiztosítás
-felelősségbiztosítás
-csoportos élet
-és balesetbiztosítás
-egyedi felelősségbiztosítás
-vonatkozó biztosítási szolgáltatás tárgy
+version https://git-lfs.github.com/spec/v1
+oid sha256:73f92b8f2ee59b8b78386c53eddca063ccd45ada0b92649ae6840ee1624765ad
+size 267

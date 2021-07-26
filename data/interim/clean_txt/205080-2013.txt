@@ -1,8 +1,3 @@
-szállítási szerződés
-tárgy
-digitális röntgenfelvételi berendezés mobil digitális detektor
-digitális alulcsöves átvilágító berendezés
-digitális röntgen felvételi berendezés tüdőgondozói cél mobil digitális detektor
-pacs rendszer db leletező munkaállomás
-a meglévő his rendszer történő illesztés
-a berendezés jótállási idő túli teljes körű szerviz szolgáltatás
+version https://git-lfs.github.com/spec/v1
+oid sha256:edec34d3466dc4053de92f9f61701d3ec70a71e944de73dd24392fa11560acc8
+size 404

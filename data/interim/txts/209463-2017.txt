@@ -1,1 +1,3 @@
-Adásvételi szerződés a Semmelweis Egyetem részére fertőtlenítőszerek beszerzésére 34 rész keretében Összesen 65 171 liter, 596 540 db és 6 560 kg fertőtlenítőszer Opciós mennyiség: Minden rész esetében az alapmennyiség 50 %-a. Összesen 32 586 liter, 298 270 db és 3 280 kg fertőtlenítőszer Az eljárás keretösszege: nettó 133 858 268 Ft Mennyiségi eltérés: Ajánlatkérő fenntartja a jogát, hogy a szerződés hatálya alatt a tényleges szükségleteknek megfelelően a fenti teljes mennyiségektől -30 %-kal (mínusz harminc százalékkal) eltérjen, amelybe az opciós mennyiséggel érintett részek is beleértendők.
+version https://git-lfs.github.com/spec/v1
+oid sha256:846d66f154e8036fc045a196d3ae5e32c20d2b723f389e7a1ab04bfedc23ad52
+size 659

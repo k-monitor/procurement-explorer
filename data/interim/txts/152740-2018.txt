@@ -1,1 +1,3 @@
-Adásvételi szerződés élelmiszerek beszerzésére a Szent Lázár Megyei Kórházba. Az ajánlat „7” részre tehető, a felhívás II.2.1-II.2.14 pontjaiban valamint közbeszerzési dokumentáció 3. kötetében meghatározott élelmiszerekre vonatkozóan.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e66dda0cbd9984aff0dc511df220e9aabd892d47c78b713fff9e4bdeabd039b5
+size 264

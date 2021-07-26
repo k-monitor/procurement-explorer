@@ -1,9 +1,3 @@
-HPV	HPV	PROPN	Case=Nom|Number=Sing	
-védőoltáshoz	védőoltás	NOUN	Case=All|Number=Sing	
-oltóanyag	oltóanyag	NOUN	Case=Nom|Number=Sing	
-beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-adásvételi	adásvételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:0a866eea27a7388eca3fb44916fa0dd8d840b37c600444e319741baa5b9b6f5f
+size 429

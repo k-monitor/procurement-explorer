@@ -1,12 +1,3 @@
-1. rész
-adásvételi keretszerződés
-szivárgási-ér mérőműszer túlnyomásos éréstermék-elvezető
-tárgy
-2. rész
-adásvételi keretszerződés
-szivárgási-ér mérőműszer valamennyi nyomás osztályú égéstermék-elvezető
-tárgy
-3. rész
-adásvételi keretszerződés
-tüzeléstechnikai mérőműszer
-tárgy
+version https://git-lfs.github.com/spec/v1
+oid sha256:7f81122314a53f725958ee10bf3de5fad4c826884f4d8488dc47c92b82b54da9
+size 324

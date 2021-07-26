@@ -1,1 +1,3 @@
-Eszközbeszerzés Konszolidációs Támogatás keretében a Pécsi Tudományegyetem részére 1-34. ajánlati részben a Közbeszerzési dokumentumokban meghatározottak szerint.
+version https://git-lfs.github.com/spec/v1
+oid sha256:afd993c846dcf7964c5274d4a71a935de309d711ec6c8115f6106ae45a5e597b
+size 178

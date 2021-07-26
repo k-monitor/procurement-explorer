@@ -1,1 +1,3 @@
-DEK-775 — Adásvételi szerződés Gázenergia beszerzése a Debreceni Egyetem egyes egységei részére
+version https://git-lfs.github.com/spec/v1
+oid sha256:8035d882832ffb8b964354e6354348f9b2ad950fe66fd1f141b001eb7d8390a0
+size 106

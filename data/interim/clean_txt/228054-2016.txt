@@ -1,1 +1,3 @@
-ajánlatkérő részére közétkeztetési szolgáltatás nyújtás vállalkozási szerződés keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:0ecea29c2b40506d629e342bd2474778a957b862e3c2ad64c619d95fdfea243b
+size 100

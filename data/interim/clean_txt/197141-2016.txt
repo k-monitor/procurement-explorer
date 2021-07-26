@@ -1,2 +1,3 @@
-vállalkozási keretszerződés a csereerdő telepítés és a telepített erdő történő erdőgazdálkodási feladat elvégzés
-valamint az egyéb erdőtelepítés pótlás és befejezett átadás történő előkészítés
+version https://git-lfs.github.com/spec/v1
+oid sha256:557787faa57d948c171c53df380efefe275d33394a704b4c83cb70e07c4cdded
+size 226

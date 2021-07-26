@@ -1,1 +1,3 @@
-Növénytelepítés 2019.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dca34c5e154fb94f1abc649a772a69027d20374867675bdf14f742e1e13be89f
+size 25

@@ -1,1 +1,3 @@
-Szakrendszerek alkalmazástámogatása.
+version https://git-lfs.github.com/spec/v1
+oid sha256:77cdfa190d21e9344011053e485cf74d3e791c133e5a55e9604545a1d450b8ac
+size 39

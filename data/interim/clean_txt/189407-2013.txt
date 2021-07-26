@@ -1,1 +1,3 @@
-szállítási szerződés irodai papíráru beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:4d8fe52e1989dce2c1776fc6d8d36f1471ac2ed839a39654c7036ca48c665b43
+size 54

@@ -1,1 +1,3 @@
-ewc 17. főcsoport tartozó építési és bontási hulladék telephely közötti szállítás
+version https://git-lfs.github.com/spec/v1
+oid sha256:a6f21bf13aa83777577f183850bbd76cc7b5417e7613602fe2dd8d80b36b27a7
+size 94

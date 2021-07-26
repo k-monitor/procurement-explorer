@@ -1,1 +1,3 @@
-Földgáz energia szállítása az ajánlatkérő részére 1.7.2019. 6:00 CET – 1.7.2020. 6:00 CET időszakra vonatkozóan, teljes ellátás alapú földgáz energia kereskedelmi szerződés keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b137a866f870194c7e30036eaecb2523a5101aac62f539f1ca99301a95a97e65
+size 205

@@ -1,10 +1,3 @@
-a nemzeti adó
-és vámhivatal m³
-h és a feletti lekötött kapacitás rendelkező objektum számára m³
-a magyar átviteli hálózat folyamatos rendelkezés álló
-msz
-minőségű földgáz energia versenypiaci beszerzés hónap
-teljes ellátásalapú szerződés keret
-menetrendadási kötelezettség nélkül
-a mennyiség m³-ben kifejezett érték gáztechnikai normál állapot
-azaz °c hőmérséklet és pa nyomás értendő
+version https://git-lfs.github.com/spec/v1
+oid sha256:0477a8e3858c34edf6ff64dfa4ea1703c61b4d8ff1d4e9a968cab12e8b035d4d
+size 434

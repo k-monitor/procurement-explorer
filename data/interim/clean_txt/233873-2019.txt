@@ -1,15 +1,3 @@
-a kiegészítő közbeszerzési dokumentum
-kkd
-meghatározott műszaki specifikáció megfelelő nagyértékű tárgyi eszköz ajánlatkérő
-ak
-általi megvásárlás részajánlati kör
-kizárólag új termék ajánlható meg
-az ajánlati ár tartalmaznia kell a szállítandó termék csomagolás és szállítás költség
-szakmai ajánlat az ajánlat tartalmaznia kell valamennyi megajánlott termék
-fantázia
-név
-gyártó
-típus
-a megajánlott termék nettó ellenérték
-huf
-db
+version https://git-lfs.github.com/spec/v1
+oid sha256:caaa25b8a636cb606387e9b93d765aa41a43c99d023f4a7becc9dcde3869b2a3
+size 486

@@ -1,1 +1,3 @@
-Tervezési szerződés „M30 gyorsforgalmi út Tornyosnémeti-országhatár közötti szakasz és kapcsolódó létesítményei kiviteli (építési) terveinek és kapcsolódó dokumentációinak elkészítése” tárgyában.
+version https://git-lfs.github.com/spec/v1
+oid sha256:60ecff9f75e28a555fed599f992cc1247289efd0b5bb308f1c6224296f175852
+size 227

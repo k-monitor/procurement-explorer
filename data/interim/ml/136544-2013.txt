@@ -1,12 +1,3 @@
-Megbízási	megbízási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-a	a	DET	Definite=Def|PronType=Art	
-Belügyminisztérium	Belügyminisztérium	PROPN	Case=Nom|Number=Sing	
-Országos	Országos	PROPN	Case=Nom|Number=Sing	
-Katasztrófavédelmi	katasztrófavédelmi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-Főigazgatóság	főigazgatóság	NOUN	Case=Nom|Number=Sing	
-egyes	egyes	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-létesítményeinek	létesítmény	NOUN	Case=Gen|Number=Plur|Number[psor]=Sing|Person[psor]=3	
-őrzés-védelmére	őrzés-védelem	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:f2fa774071998f845370aa903a7285f966ab9c3f14489aac0ab11567ad505678
+size 660

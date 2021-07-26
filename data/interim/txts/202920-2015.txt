@@ -1,1 +1,3 @@
-Aneszteziológiai és intenzív terápiás berendezések karbantartása és javítása.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f64f8b5ddf047d877e03c0c8a006d3b86e58fd5983d865cbb4aa58543a27f9dd
+size 87

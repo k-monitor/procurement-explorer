@@ -1,1 +1,3 @@
-Nyertes ajánlattevő feladata közúti táblák és forgalomtechnikai eszközök és tartozékaik (eszközök) szállítása és adott esetben kihelyezése ajánlatkérő eseti megrendelései alapján a felhívás II.1.2. pontja szerinti teljesítési helyeken. A részletes műszaki leírást az ajánlati dokumentáció III. fejezete tartalmazza.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f5c6e48adad80d5861f7cbef39908ba9d3bda929300e2d0279c9f56cc3663872
+size 349

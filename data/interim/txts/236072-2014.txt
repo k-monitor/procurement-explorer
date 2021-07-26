@@ -1,1 +1,3 @@
-A Városmajori Szív- és Érgyógyászati Klinika aorta stentgraft beültetéseihez szükséges speciális fogyóanyagok szállítása.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a5029c73f4ec9a7357db0c878c7e361dc40a40c459b6d6db237014a73ba19f02
+size 136

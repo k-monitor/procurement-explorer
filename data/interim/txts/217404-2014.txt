@@ -1,1 +1,3 @@
-Tervezési szerződés keretében az M0 autóút nyugati szektor 10 sz. főút - 1. sz. főút közötti szakaszra vonatkozó környezeti hatástanulmány és Natura 2000 hatásbecslés elkészítése, illetve a környezetvédelmi engedély megszerzése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a4162506750614ce3acfabd9e9d726376eb3b65bf39c4598cec20a592f3c7db0
+size 254

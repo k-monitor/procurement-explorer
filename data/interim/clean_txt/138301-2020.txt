@@ -1,6 +1,3 @@
-adás-vételi szerződés keret ajánlatkérő az intézmény részére hónap szükséges
-photopheresis
-ecp
-szerelék kíván megvásárol konszignációs raktár létrehozás
-a szerelék kompatibilis db photopheresis készülék használat adás
-ez db új vagy legfeljebb éves korú és db új vagy legfeljebb éves korú photopheresis készülék helyezhető ki
+version https://git-lfs.github.com/spec/v1
+oid sha256:5f6526bdd99881a231d40b6bbd9282e6084254a9de9dc790fa37dde4d31d0ae1
+size 365

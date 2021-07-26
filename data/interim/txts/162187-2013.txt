@@ -1,1 +1,3 @@
-Szerződés a 813. sz. főút I. ütem engedélyezési és kiviteli terveinek elkészítése a hozzá kapcsolódó közműkiváltási, vízépítési, környezetvédelmi, műtárgy és kisajátítási tervekkel együtt, valamint a szükséges engedélyek beszerzésére; Közúti Biztonsági Audit elkészítésére (K081.11).
+version https://git-lfs.github.com/spec/v1
+oid sha256:5e11f502e58a19e9ef175c4cd226d84fecdf6489eaef4f40d0053b956d63ca43
+size 326

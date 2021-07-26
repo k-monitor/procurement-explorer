@@ -1,11 +1,3 @@
-adásvételi szerződés
-kardiovaszkuláris katéteres labor intervencionális kardiológiai beavatkozás és perifériás angiográfia
-történő röntgen készülék
-beszerzés
-szállítás
-szerelés
-üzem helyezés
-próbaüzem lefolytatás
-kezelőszemélyzet betanítás
-teljes körű installáció valamint a szállított készülék jótállási idő belüli javítás
-karbantartás
+version https://git-lfs.github.com/spec/v1
+oid sha256:167958ff4f60b02d71e22b63d28cccefb695f82b6f6f9527195167080f32c80c
+size 387

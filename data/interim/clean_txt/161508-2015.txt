@@ -1,4 +1,3 @@
-a dombóvári szent lukács kórház infrastruktúra fejlesztés
-elnevezésű
-tiop-2
-1b-2013-0017 azonosító ellátott projekt kapcsolódó dombóvári szent lukács kórház és pincehelyi részleg fejlesztés sor orvos-technológiai eszköz beszerzés adásvételi szerződés keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:f723b330429894d3ccac757c47ced4c791894c5ad17364cf99b1866c1cc6a0ce
+size 285

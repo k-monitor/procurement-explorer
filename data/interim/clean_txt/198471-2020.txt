@@ -1,7 +1,3 @@
-gyógyszerészi vegyszer és fogyóanyag beszerzés a pécsi tudományegyetem részére efop-3
-1-16-2016-00004 jelű pályázat keret belül
-ajánlati rész a közbeszerzési dokumentáció meghatározott paraméter és alábbi szerint
-1. általános laboratóriumi áru beszerzés 2. cfx96 rendszer kompatibilis elem beszerzés 3. antitest
-ki
-supplement beszerés 4. aviva wnt5a elisa ki
-human
+version https://git-lfs.github.com/spec/v1
+oid sha256:65b3b4e58e0ed6871a69d7bbc4c77d848cfe7c4f72b1d12b7fd6127ef4dd2603
+size 394

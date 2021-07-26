@@ -1,1 +1,3 @@
-Adásvételi szerződés vérkészítmény előállításhoz felhasznált oldatok beszerzésére 1–5. rész.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0b89ace094cc8db3f62ff1820a00ceb844b06faa05b820b790cc0c3b106e5238
+size 110

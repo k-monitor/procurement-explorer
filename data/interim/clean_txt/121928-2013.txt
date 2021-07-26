@@ -1,7 +1,3 @@
-az 1. 1. és az
-a melléklet
-pont felsorolt ajánlatkérő 2013.7.1
-2014.7.1
-időszak közötti földgázszükséglet beszerzés
-magyarországi földgázhálózat folyamatos rendelkezés álló
-szabványos minőségű földgázenergia szállítás teljes ellátásalapú földgáz-kereskedelmi szerződés keret között
+version https://git-lfs.github.com/spec/v1
+oid sha256:aec7ad2eed4547ad7840b4f95a3742d1f041ea376d11d8bac07a1a6513839086
+size 320

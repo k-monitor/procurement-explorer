@@ -1,1 +1,3 @@
-Szállítási szerződés lézer eszközök beszerzése a „Műszaki képzéshez kapcsolódó oktatási és kutatási infrastruktúra fejlesztés az Edutus Főiskolán” című TIOP-1.3.1-10/1-2010-0015 azonosítószámú projekt keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f74c976ff6cf221433332d4cfb2153e30837e104dac4040c33728abe1aaa74c0
+size 243

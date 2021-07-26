@@ -1,1 +1,3 @@
-Adás-vételi szerződés keretében Ajánlatkérő az Intézmény részére Kenyér és péksütemény, cukrászsütemény, tésztaféléket 12 hónapra Kecskemét, Kiskunfélegyháza és Kalocsa telephelyekre kívánja megvásárolni.
+version https://git-lfs.github.com/spec/v1
+oid sha256:14416748bf5fa21ef36349b7ceeef6c8f6c8c7c849670bacb68337c0f223caa1
+size 236

@@ -1,1 +1,3 @@
-Szállítási szerződés a Kanizsai Dorottya Kórház TIOP 2.2.4 Struktúraváltoztatást támogató infrastruktúrafejlesztés a fekvőbeteg szakellátásban pályázat bútor és mobiliák beszerzése tárgyában.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7d46699517e7b386ac8f1c6bbc619cfaf5ac45bfd35a616e8d94822e1c3a1b6c
+size 216

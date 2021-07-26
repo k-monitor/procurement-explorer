@@ -1,1 +1,3 @@
-fertőtlenítőszer beszerzés magyarországi fekvőbeteg ellátó intézmény részére
+version https://git-lfs.github.com/spec/v1
+oid sha256:70f1fb0b4366f407000cb369246bd632c665854ec0d7800f2943996cbbb63b14
+size 88

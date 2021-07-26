@@ -1,2 +1,3 @@
-a belügyminiszter irányítás alá tartozó szerv tulajdon
-vagyonkezelés és használat lévő gépjármű kötelező felelősségbiztosítás
+version https://git-lfs.github.com/spec/v1
+oid sha256:9936c4cd52edfc5c9af3ec1788d174f2351fb67ab7e231406c1f4c22c9e58cc7
+size 145

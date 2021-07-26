@@ -1,1 +1,3 @@
-keretmegállapodás közfoglalkoztatási program lebonyolítás szállítójármű bérlet
+version https://git-lfs.github.com/spec/v1
+oid sha256:325594ba2ff5956fa3f603d155eb2f871ea270b4c80d1aa63144f6aed022c23b
+size 90

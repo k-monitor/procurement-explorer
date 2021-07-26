@@ -1,1 +1,3 @@
-Kelenföld és Ferencváros állomások közötti kötött pályás kapcsolat fejlesztése érdekében háromvágányú kapcsolat és új elővárosi megállók kialakítása – előkészítés (tervezési szerződés).
+version https://git-lfs.github.com/spec/v1
+oid sha256:e78cc0e9c32624349ee4a87a402357f760078d1c055c8486fb311318a9ff1d14
+size 220

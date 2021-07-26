@@ -1,15 +1,3 @@
-biztosítási szolgáltatás nyújtás az nmhh részére
-határozott idejű
-hónapos
-biztosítási szerződés keret a következő részajánlattételi lehetőség
-1. részajánlat
-vagyonbiztosítás
-üvegbiztosítás
-ii
-részajánlat
-felelősségbiztosítás
-iii
-részajánlat
-casco
-részajánlat
-elektronikus berendezés biztosítás
+version https://git-lfs.github.com/spec/v1
+oid sha256:507948d3cbcb98f507e2890883c2cb885831825735149af8d655366d0727c692
+size 335

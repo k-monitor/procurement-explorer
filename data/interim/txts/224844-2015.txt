@@ -1,1 +1,3 @@
-Adásvételi szerződés a KEOP – 5.6.0/E/15 „Egészségügyi eszközök energia megtakarítást célzó beszerzésének támogatása” című konstrukcióhoz kapcsolódóan, meglévő röntgen berendezések cseréje új röntgen berendezések szállításával, telepítésével, üzembe helyezésével, a régi berendezések leszerelése az előzőek végrehajtásához elengedhetetlenül szükséges járulékos munkák elvégzése az Almási Balogh Pál Kórház részére.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1d2436aa33d91b84bc0fe0873b455ffc05d20cb0c3e5ef67c4cff1b3b0aaa57e
+size 482

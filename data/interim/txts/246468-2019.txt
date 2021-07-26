@@ -1,1 +1,3 @@
-Keretmegállapodás hemodinamikai fogyóanyagok beszerzésére 25 részben, kihelyezett áruraktár biztosításával.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b9b7829d40d13cfa3766a2fa996b28c1e34fd9ce890bb4a1492092673a4edf87
+size 118

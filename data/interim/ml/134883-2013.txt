@@ -1,24 +1,3 @@
-Megbízási	megbízási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-a	a	DET	Definite=Def|PronType=Art	
-Ferencváros	Ferencváros	PROPN	Case=Nom|Number=Sing	
-„	„	PUNCT	_	
-C	C	NOUN	Case=Nom|Number=Sing	
-"	"	PUNCT	_	
-elágazás	elágazás	NOUN	Case=Nom|Number=Sing	
--	-	PUNCT	_	
-Gyoma	Gyoma	PROPN	Case=Nom|Number=Sing	
-vonalszakaszon	vonalszakasz	NOUN	Case=Sup|Number=Sing	
-az	az	DET	Definite=Def|PronType=Art	
-ETCS	ETCS	PROPN	Case=Nom|Number=Sing	
-2	2	NUM	Case=Nom|NumType=Card|Number=Sing	
-telepítés	telepítés	NOUN	Case=Nom|Number=Sing	
-munkáihoz	munka	NOUN	Case=All|Number=Plur|Number[psor]=Sing|Person[psor]=3	
-kapcsolódó	kapcsolódó	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-mérnök	mérnök	NOUN	Case=Nom|Number=Sing	
-lebonyolítói	lebonyolító	ADJ	Case=Nom|Degree=Pos|Number=Plur|Number[psor]=Sing|Person[psor]=3|VerbForm=PartPres	
-tevékenység	tevékenység	NOUN	Case=Nom|Number=Sing	
-ellátása	ellátás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-tárgyában	tárgy	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:3edaf2dbfde699133e73667851b457cba387da3d1dd175bfe16ca9b0fc843e34
+size 1137

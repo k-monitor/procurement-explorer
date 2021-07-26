@@ -1,18 +1,3 @@
-Vállalkozási	Vállalkozási	PROPN	Case=Nom|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
--	-	PUNCT	_	
-Budapesti	Budapesti	PROPN	Case=Nom|Number=Sing	
-Corvinus	Corvinus	PROPN	Case=Nom|Number=Sing	
-Egyetem	Egyetem	PROPN	Case=Nom|Number=Sing	
-pesti	pesti	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-oktatási	oktatási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-létesítményeiben	létesítmény	NOUN	Case=Ine|Number=Plur|Number[psor]=Sing|Person[psor]=3	
-takarítási	takarítási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-feladatok	feladat	NOUN	Case=Nom|Number=Plur	
-és	és	CONJ	_	
-egyéb	egyéb	PRON	Case=Nom|Number=Sing|Person=3|PronType=Ind	
-gondnoksági	gondnoksági	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-tevékenységek	tevékenység	NOUN	Case=Nom|Number=Plur	
-ellátása	ellátás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:faf7daf7915d4858db5e51821a309dbb6170f029a98e6a5eb358681dc63d22f4
+size 863

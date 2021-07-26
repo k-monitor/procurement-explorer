@@ -1,4 +1,3 @@
-szerződés meghatározás
-keretmegállapodás
-tárgy
-kondoros nagyközség önkormányzata részére mélyépítési keretmegállapodás megkötés
+version https://git-lfs.github.com/spec/v1
+oid sha256:0155bdc43f30dd0f51241b2a4a9560d0a9eb45557a39c12e2328c438a2aa1a35
+size 148

@@ -1,1 +1,3 @@
-Szállítási keretszerződés „Tehergépjármű, tartály és felépítmény javításához szükséges alkatrészek beszerzése” tárgyban.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6aceac289879865e7ba6128de8b528ad583f777f313636a36fe459077e535880
+size 145

@@ -1,1 +1,3 @@
-Szerződés meghatározása: Tervezési szerződés Tárgya: „Budai Vár és környéke közlekedés fejlesztése” projekt keretében a Budapest I. kerület Döbrentei utca - Apród utca - Lánchíd utca (Ybl Miklós tér - Clark Ádám tér közötti szakasz) közterület rendezés engedélyezési tervek elkészítése, építési engedélyek beszerzése, valamint kiviteli tervek elkészítése tervezési szerződés keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1685c290eb904ead08f3d0aac54a1e436767045a03de33dbd8430f86b67371cf
+size 437

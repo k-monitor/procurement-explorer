@@ -1,16 +1,3 @@
-a péterfy sándor utcai kórház-rendelőintézet és baleseti központ székhely és telephely takarítási feladat ellátás vállalkozási szerződés keret
-összesen négyzetméter alapterület
-a takarítandó felület
-feladat és takarítási szint részletes meghatározás a közbeszerzési dokumentum található
-a szolgáltatás teljesítés a kézi és gépi takarítás szükséges eszköz
-vegyszer nyertes ajánlattevő szükséges biztosítania
-az országos epidemiológiai központ dezinfekciós osztály által kiadott tájékoztató a fertőtlenítés című 2012-es kiadvány szerinti takarítási technológia betartás követelmény
-a napi
-heti
-havi
-féléves takarítás kívül a higiénés osztály elrendelés alap szükség szerint rendkívüli fertőtlenítő nagytakarítás
-fertőzés
-járvány után
-kell végez
-az ajánlatkérő által meghatározott mennyiség
- is eltér
+version https://git-lfs.github.com/spec/v1
+oid sha256:b6cdabf9217f6aefea65f84e37aab99a654d364d4d3f3172929fdaf8cccb5c22
+size 902

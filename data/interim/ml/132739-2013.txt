@@ -1,21 +1,3 @@
-Kézi	kézi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-és	és	CONJ	_	
-gépi	gépi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-burkolatjel	burkolatjel	NOUN	Case=Nom|Number=Sing	
-festés	festés	NOUN	Case=Nom|Number=Sing	
-az	az	DET	Definite=Def|PronType=Art	
-országos	országos	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-közutakon	közút	NOUN	Case=Sup|Number=Plur	
-vállalkozási	vállalkozási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-(	(	PUNCT	_	
-továbbiakban	további	NOUN	Case=Ine|Number=Plur	
-:	:	PUNCT	_	
-„	„	PUNCT	_	
-Burkolatjel-festés	Burkolatjel-festés	NOUN	Case=Nom|Number=Sing	
-2013	2013	NUM	Case=Nom|NumType=Card|Number=Sing	
-"	"	PUNCT	_	
-)	)	PUNCT	_	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:ab8da23a0cede229bae676e706caa439d02b7c6aa9962b6e3729f1e0505f17eb
+size 792

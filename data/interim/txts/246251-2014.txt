@@ -1,1 +1,3 @@
-Megbízási szerződés keretében a „KEOP-1.1.1./2F/09-11-2013-0003 azonosító számú Kelet-Nógrád Térségi Hulladékgazdálkodási Rendszer fejlesztése” elnevezésű projekt megvalósításához szükséges FIDIC mérnöki és műszaki ellenőri tevékenység ellátása.
+version https://git-lfs.github.com/spec/v1
+oid sha256:447c206184be0c1e4d55a2f927b35b233220a3e5ce1e332fa86f0e025496f9e3
+size 283

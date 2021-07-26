@@ -1,13 +1,3 @@
-pécs megyei jogú város önkormányzata pályázat nyújt be a
-top-6
-zöld város kialakítás
-című kiírás
-amely keret belül a ferences utca kíván fejleszt
-a pályázat keret a zöldfelületi fejlesztés kívül új térburkolat épül
-a ferences utca jelenleg nincs telepített növényzet
-az utca burkolat karakteres a vegyes használt bazaltkockakő és aszfaltburkolat miatt
-az épület homlokzat mentén illetve az utca közép bazaltkockakő sáv található
-a középső sáv kialakítás miatt a felszíni vízelvezetés is szolgál
-az utca szegélyző ingatlan telekhatár folytatás az utca kereszt irányú bazaltkockakő sáv található
-az utca északi oldal burkolatcsere sor a fontos szempont van a jelenlegi karakter megtartás és az illeszkedés a már felújított köztér
-az utca burkolat a jókai tér azonos porfír készül
+version https://git-lfs.github.com/spec/v1
+oid sha256:73dfeb685c5bf29983310e78f43ac2fd3bfc609fea9a8e7c57eda32729f90da8
+size 856

@@ -1,4 +1,3 @@
-a
-barnamezs terület rehabilitáció
-nyíregyháza tiszavasvári úti laktanya tekintet
-tárgyú projekt kapcsolódó építőipari kivitelezési munka
+version https://git-lfs.github.com/spec/v1
+oid sha256:1f85dfca786064de7e73923ec0c6f138b0023176cbcf6f025c0a6b3291bbdd1b
+size 151

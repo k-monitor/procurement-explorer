@@ -1,1 +1,3 @@
-Az Országos pénzügyi fogyasztóvédelmi hálózat kialakítása és működtetése 18 megyeszékhelyen kialakított és működtetett irodán keresztül.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0570d5d18c96c9d6b6cc4d870ba0347da302cb39e9791178df60a950eb06f663
+size 156

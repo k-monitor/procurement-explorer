@@ -1,1 +1,3 @@
-Húsok, húskészítmények beszerzése szállítási szerződés keretében 12 hónapra.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f11e32c7bb47812ba6f8d284cb9e1e6414a862741ea166827a60a72bba107c8a
+size 89

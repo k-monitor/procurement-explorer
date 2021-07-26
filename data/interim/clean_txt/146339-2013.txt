@@ -1,2 +1,3 @@
-szolgáltatási keretszerződés
-hhm terület lévő különféle sigma típusú szivattyú helyszíni javítás
+version https://git-lfs.github.com/spec/v1
+oid sha256:294a8d35a617a1f40fb46cde43c2809d5e099b52acbe5164901ffe08a0d4e011
+size 112

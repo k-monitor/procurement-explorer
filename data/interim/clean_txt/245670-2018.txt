@@ -1,2 +1,3 @@
-adásvételi szerződés
-amely tárgy hálózati lan eszköz beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:be533a91cf3594a8492231ce54a03da106c82f366be37f4885308940f2fe7574
+size 71

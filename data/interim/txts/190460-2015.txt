@@ -1,1 +1,3 @@
-Adásvételi szerződés keretében hulladékszállító járművek és edényzet beszerzése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:782570b91b90cbe681d41713dfb0f68c892d3e21bcf811d39c33b77b4fd69cf3
+size 94

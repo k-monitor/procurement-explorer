@@ -1,8 +1,3 @@
-vállalkozási keretszerződés az országos katasztrófavédelmi főigazgatóság vagyonkezelés
-üzemeltetés
-lévő vízi jármű
-a jármű gyártmány szerinti összetétel
-rész
-a dokumentáció műszaki leírás tartalmaz
-javítás
-karbantartás és műszaki megvizsgálási feladat elvégzés a rész megadott keretösszeg erő
+version https://git-lfs.github.com/spec/v1
+oid sha256:edc735631f88d1aee95eb2e09f0a80f3cf36f3aff3b6e40736244d13eff2e142
+size 334

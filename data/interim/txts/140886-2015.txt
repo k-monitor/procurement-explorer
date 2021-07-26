@@ -1,1 +1,3 @@
-A Gyulai Törvényszék részére földgáz beszerzésére vonatkozó adásvételi szerződés az Ajánlati dokumentációban részletezettek szerint.
+version https://git-lfs.github.com/spec/v1
+oid sha256:85f5644fb324edc1d72d11efd3dfdedc093f651251418e494d9f6c44e0aa4d74
+size 150

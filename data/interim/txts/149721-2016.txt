@@ -1,1 +1,3 @@
-Biztosítási szerződések a GYSEV cégcsoport (GYSEV Zrt., GYSEV Cargo Zrt. és FHÉV Zrt.) részére.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d2ebc683f3bd9ccf644a00c52607c274a811191efac38c6e18d8e7eca511e591
+size 104

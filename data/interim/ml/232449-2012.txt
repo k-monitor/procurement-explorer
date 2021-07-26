@@ -1,12 +1,3 @@
-Szállítási	Szállítási	PROPN	Case=Nom|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-téli	téli	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-síkosság-mentesítő	síkosság-mentesítő	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-anyag	anyag	NOUN	Case=Nom|Number=Sing	
-(	(	PUNCT	_	
-útszóró	útszóró	NOUN	Case=Nom|Number=Sing	
-só	só	NOUN	Case=Nom|Number=Sing	
-)	)	PUNCT	_	
-szállítására	szállítás	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:e6874588a0818e5d99f33df2b36ee9ddd7708b7be705298e4f9774d21858f674
+size 492

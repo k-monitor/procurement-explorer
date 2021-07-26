@@ -1,1 +1,3 @@
-exchange és sharepoint licenc beszerzés adásvételi szerződés keret a közbeszerzési dokumentum meghatározott szerint
+version https://git-lfs.github.com/spec/v1
+oid sha256:413488b0e9a4308839e3e6eebf858003eb1767e8d4f766def489f4c346b8ff9a
+size 124

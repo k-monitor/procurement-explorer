@@ -1,1 +1,3 @@
-Vállalkozási szerződés a Bács-Kiskun Megyei Kormányhivatal épületeiben takarítási szolgáltatás ellátására és higiéniás termékek biztosítására Ajánlattevő feladata: 1. a közbeszerzési dokumentumokban meghatározott helyszíneken takarítási szolgáltatás ellátása; 2. az egyes teljesítési helyszínekre a közbeszerzési dokumentumokban meghatározott higiéniás termékek szállítása.
+version https://git-lfs.github.com/spec/v1
+oid sha256:874ebb34540ca2573e0b2d700aea040967d10e18983fb393ee598cb77b77540b
+size 419

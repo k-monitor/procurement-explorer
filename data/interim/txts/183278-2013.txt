@@ -1,1 +1,3 @@
-Vagyonbiztosítási keretszerződés a MÁV-START Zrt. jegykiadó automatáira, azok lopás, vandalizmus okozta vagyoni kockázatainak kezelésére, fedezetére valamint az automatákban található készpénz és jegytekercs készlet vagyonbiztosítási fedezetére
+version https://git-lfs.github.com/spec/v1
+oid sha256:42959566195c1f20703e30562948c2d7743c0dd468bdc4423a0841a44c92c92f
+size 266

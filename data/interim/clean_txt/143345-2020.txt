@@ -1,2 +1,3 @@
-a központi konyha 2020. augusztus 1.
-2021. július 31. közti időszak történő élelmiszer alapanyag szállító kiválasztás
+version https://git-lfs.github.com/spec/v1
+oid sha256:5ef20cc95866f50688be5fc042baa907605d4ac114cb8493012369c764fc7712
+size 130

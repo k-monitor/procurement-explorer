@@ -1,1 +1,3 @@
-Megbízási szerződés beruházás lebonyolítói és teljes körű műszaki ellenőri feladatok ellátására versenyuszoda építése tekintetében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a58a97342684579f3ef2a9e40933bf6aa7f2845815484c0884eb71331613dfe1
+size 151

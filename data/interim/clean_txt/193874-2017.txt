@@ -1,2 +1,3 @@
-jelen eljárás tárgy a műszaki leírás meghatározott támogató rendszer és integrációs alkalmazás finomhangolás szakértői tevékenység ellátó vállalkozó beszerzés
-a szakértői tevékenység a műszaki leírás részletezett feladat végrehajtás kell ellát
+version https://git-lfs.github.com/spec/v1
+oid sha256:614348f3605444ccf4d987bcfdd84cb1ac546caab1a139104c8a7b7c61424a96
+size 277

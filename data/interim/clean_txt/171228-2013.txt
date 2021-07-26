@@ -1,7 +1,3 @@
-genetikai vizsgálat szükséges vegyszer csomag
-valamint mintavételi egységcsomag beszerzés hónapos időtartam alatt
-1. rész
-genetikai vizsgálat szükséges vegyszer csomag beszerzés
-2. rész
-mintavételi egységcsomag beszerzés
-részletes a dokumentáció
+version https://git-lfs.github.com/spec/v1
+oid sha256:5c07991fe1bcb7e8c7e0c832e7128603bf3cf792fdec5ba18785378542885250
+size 265

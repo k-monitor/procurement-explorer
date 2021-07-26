@@ -1,24 +1,3 @@
-Az	az	DET	Definite=Def|PronType=Art	
-Országos	Országos	PROPN	Case=Nom|Number=Sing	
-Közfoglalkoztatási	közfoglalkoztatási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-Pályázat	pályázat	NOUN	Case=Nom|Number=Sing	
-keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-foglalkoztatottak	foglalkoztatott	ADJ	Case=Nom|Degree=Pos|Number=Plur|VerbForm=PartPast	
-számára	számára	ADP	_	
-vízügyi	vízügyi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-műtárgyak	műtárgy	NOUN	Case=Nom|Number=Plur	
-és	és	CONJ	_	
-tereptárgyak	tereptárgy	NOUN	Case=Nom|Number=Plur	
-,	,	PUNCT	_	
-vízügyi	vízügyi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-létesítmények	létesítmény	NOUN	Case=Nom|Number=Plur	
-javításához	javítás	NOUN	Case=All|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-,	,	PUNCT	_	
-karbantartásához	karbantartás	NOUN	Case=All|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-szükséges	szükséges	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-különböző	különböző	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-tárgyi	tárgyi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-eszközök	eszköz	NOUN	Case=Nom|Number=Plur	
-beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:6a6094fc92a7374777f7ad14e88c70936195d27ddae8bdbf0dce7f5780c5d66a
+size 1223

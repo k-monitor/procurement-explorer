@@ -1,1 +1,3 @@
-Megbízási szerződés a 86. sz. főút Zalalövő elkerülő szakasz 25+499-36+360 km szelvények közötti kivitelezési munkáihoz szükséges mérnöki feladatok ellátására tárgyában
+version https://git-lfs.github.com/spec/v1
+oid sha256:ba8050fa3ec902835fce87e8aa67ee75f316b9db60779862df65910cf0ecc356
+size 192

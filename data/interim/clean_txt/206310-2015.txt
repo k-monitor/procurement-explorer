@@ -1,1 +1,3 @@
-haemodinamikai anyag beszerzés határidős adásvételi szerződés keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:1bd74eb8084be8058adf238b79713c00d98ed774a652d261000d14741733f39f
+size 74

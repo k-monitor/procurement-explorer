@@ -1,4 +1,3 @@
-tervezési szerződés a máv szűk keresztmetszet kiváltás kapcsán az almásfüzitő-komárom
-nagykáta-újszász
-kiskunfélegyháza-szeged-rendező és kelenföld-budaörs vasúti vonalszakasz kivitelezés szükséges engedélyezési
-tenderterv és tenderdokumentáció elkészítés a tárgy meghatározott szolgáltatás megrendelés oszthatatlan szolgáltatás minősül
+version https://git-lfs.github.com/spec/v1
+oid sha256:d73feaef837a56e09e217bff79239ebca84f3bfbdfcc0885d635d1ac2f7dcb04
+size 378

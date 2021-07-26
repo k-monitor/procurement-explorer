@@ -1,8 +1,3 @@
-tervezési szerződés a máv zrt. 127-es számú
-kőrösnagyharsány
-vésztő
-gyoma vasútvonal fejlesztés a
-magyarország
-románia határ átnyúló együttműködési program
-keret kiírt huro pályázati felhívás keret
-tervezési szolgáltatás nyújtás
+version https://git-lfs.github.com/spec/v1
+oid sha256:eee82891dd3da5eefa4b7495f8a6e3dfa48bcc669d2acd0450fcaceb254cba6b
+size 261

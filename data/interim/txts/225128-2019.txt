@@ -1,1 +1,3 @@
-Takarítandó mennyiség: 12 db épületben 21 970 m2 amiből műtő: 1 493 m2. A takarítási tevékenység magában foglal napi-,heti havi és nagytakarítási feladatokat valamint söprést és hóeltakarítást is a Közbeszerzési Dokumentáció Műszaki Leírásában foglaltak szerint. I. Ajánlatkérő nem teszi lehetővé a részekre történő ajánlattételt, mivel a hatékony és felelős gazdálkodás elvét szem előtt tartva a részekre bontás mellőzésével kedvezőbb ajánlati ár érhető el. II. Ajánlattevőnek a 2. értékelési szempont tekintetében megajánlott számú hátrányos helyzetű munkavállalónak minősített szakembert a szerződés egész időtartama alatt biztosítani kell. III. Ajánlatkérő (AK) az eljárás lebonyolításához felelős akkreditált közbeszerzési szaktanácsadót alkalmaz: Dr. Kerek Éva Gabriella Lajstromszám: 00861, helyettese: Dr. Csók István Áron Lajstromszám:00118
+version https://git-lfs.github.com/spec/v1
+oid sha256:5912a3243b0fffdceb7ce2bd3ec3e192cdd7217b7d16365fde551759ba6e34c9
+size 948

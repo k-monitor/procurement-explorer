@@ -1,1 +1,3 @@
-vállalkozási szerződés országos közút keresztmetszeti forgalomszámlálás elvégzés kézi módszer és videó felvétel rögzített kézi módszer
+version https://git-lfs.github.com/spec/v1
+oid sha256:bc1a62a17efaf9fbeecb1ce6d22aebe0ae5b54ac74c49fe5de5fa30f108035c9
+size 155

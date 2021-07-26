@@ -1,1 +1,3 @@
-keretszerződés folyóirat
+version https://git-lfs.github.com/spec/v1
+oid sha256:9d9ba3eaf48b8385f8869cadd91c54cd039385d611964016615afbbfe76cc8f3
+size 27

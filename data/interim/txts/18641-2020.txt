@@ -1,1 +1,3 @@
-Bezerédj kastély energetikai korszerűsítése
+version https://git-lfs.github.com/spec/v1
+oid sha256:d342366426a1ce355cb02428df5cfe15bd3eb2e28e5a099a630cfac2dd3aefd8
+size 48

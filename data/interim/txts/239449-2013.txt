@@ -1,1 +1,3 @@
-Valamennyi rész esetében szállítási szerződés Nyertes Ajánlattevő feladata a jelen felhívás II.1.2. pontjában meghatározott teljesítési helyekre a jelen felhívás „B” melléklet 5. pontjában felsorolt termékek szállítása.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bda3864f3b1d94ffca7ad49570837e38295014ef26d1513d8b65e92d8c348cf7
+size 246

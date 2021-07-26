@@ -1,1 +1,3 @@
-Földgáz értékesítési szerződés alapján a Magyar Tudományos Akadémia köztestületi intézményei földgáz energiavételezése 1.10.2016–1.10.2017. közötti időszakban.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9b4b31ae477aba15f208e7f44bdc3a333a52814972d3f7648c2ab9048072a3ee
+size 183

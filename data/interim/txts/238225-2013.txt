@@ -1,1 +1,3 @@
-Biztosítási szerződés a Radioaktív Hulladékokat Kezelő Közhasznú Nonprofit Kft. részére Építés-szerelésbiztosítási (CAR) szolgáltatások nyújtására.
+version https://git-lfs.github.com/spec/v1
+oid sha256:aa3dc15774423ad2c44d5b767e8f4dbe360227157e7132c3bd93ddf3c13c2153
+size 169

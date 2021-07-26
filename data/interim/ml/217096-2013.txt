@@ -1,30 +1,3 @@
-K031	K031	PROPN	Case=Nom|Number=Sing	
-.	.	PUNCT	_	
-
-10	10	NUM	Case=Nom|NumType=Card|Number=Sing	
-,	,	PUNCT	_	
-K031	K031	PROPN	Case=Nom|Number=Sing	
-.	.	PUNCT	_	
-
-11	11	NUM	Case=Nom|NumType=Card|Number=Sing	
-„	„	PUNCT	_	
-31.	31.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
-sz.	sz.	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-főút	főút	NOUN	Case=Nom|Number=Sing	
-Heves	Heves	PROPN	Case=Nom|Number=Sing	
-megyei	megyei	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szakasz	szakasz	NOUN	Case=Nom|Number=Sing	
-115	115	NUM	Case=Nom|NumType=Card|Number=Sing	
-kN	kN	PROPN	Case=Nom|Number=Sing	
-tengelyterhelésre	tengelyterhelés	NOUN	Case=Sub|Number=Sing	
-történő	történő	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-megerősítés	megerősítés	NOUN	Case=Nom|Number=Sing	
-"	"	PUNCT	_	
-kivitelezési	kivitelezési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-munkáinak	munka	NOUN	Case=Gen|Number=Plur|Number[psor]=Sing|Person[psor]=3	
-elvégzése	elvégzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-vállalkozási	vállalkozási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:26ef07e7f707530326f401c5c9c7b913716dc27ddd7a481517490abf8e5a8c97
+size 1215

@@ -1,1 +1,3 @@
-Pilis Város Önkormányzata részére „Közszolgáltatási szerződés keretében Pilis Város közigazgatási területén keletkező települési szilárd hulladék rendszeres begyűjtése, elszállítása és ártalmatlanítása.”.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8b617a8c212ca814f347c4fa22e74cc5a6e415d6d76b687949f20413606bca7b
+size 238

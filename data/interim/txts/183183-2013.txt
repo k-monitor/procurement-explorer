@@ -1,1 +1,3 @@
-Közszolgáltatási szerződés keretében a Makó Város közigazgatási területén keletkező települési kevert és szelektíven gyűjtött szilárd hulladék gyűjtése és kezelése (ártalmatlanítása)
+version https://git-lfs.github.com/spec/v1
+oid sha256:8bba9179001db2293d7f39d5fba8a41c3ae748ba9de5bd7c6d36a5e09553cf89
+size 210

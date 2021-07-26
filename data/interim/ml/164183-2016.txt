@@ -1,14 +1,3 @@
-Adásvételi	adásvételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-páncélozott	páncélozott	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPast	
-terepjáró	terepjáró	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-személygépjármű	személygépjármű	NOUN	Case=Nom|Number=Sing	
-,	,	PUNCT	_	
-valamint	valamint	CONJ	_	
-könnyű	könnyű	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-terepjáró	terepjáró	NOUN	Case=Nom|Number=Sing	
-személygépkocsi	személygépkocsi	NOUN	Case=Nom|Number=Sing	
-beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-tárgyban	tárgy	NOUN	Case=Ine|Number=Sing	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:77792c1382ad45a4760c6a839a41fab7053d47651e43443c698d62bcc00df024
+size 674

@@ -1,1 +1,3 @@
-hpv védőoltás oltóanyag beszerzés adásvételi szerződés keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:3c432d3015e89af569dc3bf0b168a1d1029bebe325ad8ca51bc91b10d32c1ccf
+size 69

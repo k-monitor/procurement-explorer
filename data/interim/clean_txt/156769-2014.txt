@@ -1,1 +1,3 @@
-villamos energia szállítás százhalombatta város önkormányzata fenntartás lévő intézmény részére villamos energia-vásárlási szerződés keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:13431d58222d950c1f510dc93a0e8da1581cad672fe7bdfe10d0b6c14130b9e3
+size 157

@@ -1,13 +1,3 @@
-Szállítási	Szállítási	PROPN	Case=Nom|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-.	.	PUNCT	_	
-
-Tárgya	tárgy	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-:	:	PUNCT	_	
-Útmeteorológiai	útmeteorológiai	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-állomások	állomás	NOUN	Case=Nom|Number=Plur	
-,	,	PUNCT	_	
-alkatrészek	alkatrész	NOUN	Case=Nom|Number=Plur	
-szállítása	szállítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:b018be90f6b190fd240e4892f8b3c6c5251d20bcd74140cc4cda6114b91e4270
+size 496

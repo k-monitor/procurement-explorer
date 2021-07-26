@@ -1,1 +1,3 @@
-A Modern Városok Program keretében a békéscsabai térségi vásártér kialakítását célzó projekthez (Iktatószám: GF/SZKF/1114/8/2017.) kapcsolódó tervezési feladatok (tanulmányterv, engedélyezési és kiviteli tervdokumentáció készítése) elvégzése tervezési szerződés keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:41fcd8e2c42830353b8a72a2d121305e7fc5616c2016756a610985fb2cb39924
+size 306

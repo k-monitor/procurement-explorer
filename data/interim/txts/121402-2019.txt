@@ -1,1 +1,3 @@
-Kapacitásbővítéshez szükséges fiber lézervágógép beszerzése a közbeszerzési dokumentációban részletezett specifikáció alapján.
+version https://git-lfs.github.com/spec/v1
+oid sha256:d17e7b375dffbc8f9a26cf28b9157c8b668944f2cec202f01b678f1937fc5f49
+size 145

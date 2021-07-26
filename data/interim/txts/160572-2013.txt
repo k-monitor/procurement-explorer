@@ -1,1 +1,3 @@
-Megbízási szerződés a „Mezőladány és térsége szennyvízelvezetés és tisztítási projekt” FIDIC szerződéses feltételek szerinti mérnöki, valamint műszaki ellenőri feladatainak ellátása (azonosítószám: KEOP-1.2.0/09-11-2011-0051).
+version https://git-lfs.github.com/spec/v1
+oid sha256:1268de7340a40a36a3df9182db6a870760062516be2542693b8b7b2d4d5dafea
+size 256

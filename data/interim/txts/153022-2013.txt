@@ -1,1 +1,3 @@
-Földgáz energia szállítása Budapest Főváros Vagyonkezelő Központ Zrt. vagyonkezelésében és üzemeltetésében álló ingatlanok vonatkozásában 2013.7.1. - 2014.6.30. időszakra vonatkozóan, teljes ellátás alapú földgáz energia kereskedelmi szerződés keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:72d869816662dbe54e88d13e0546173ef8c14a60a96b93e340a9c8a0aebdc8b8
+size 283

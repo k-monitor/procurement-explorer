@@ -1,24 +1,3 @@
-a fővárosi vízmű zrt.
-mint ajánlatkérő ajánlat kér
-adásvételi szerződés asztali számítógép és monitor
-valamint notebook szállítás a fővárosi vízmű zrt. részére
-tárgyú közösségi eljárásrend indított nyílt közbeszerzési eljárás
-ajánlatkérő jelen közbeszerzési dokumentáció és melléklet
-további
-dokumentáció
-a közbeszerzés szóló 2015. évi
-tv
-a további
-kbt.
-57. § alap
-figyelem az elektronikus közbeszerzés részletes szabály szóló
-2017.
-korm
-rendelet
-a további
-ekr rendelet
-foglalt bocsát ajánlattevő rendelkezés
-a közbeszerzési eljárás rész áll
-az ajánlatkérő a részajánlattétel lehetőség az alábbi szerint biztosít az ajánlattevő számára
-1. rész
-adásvételi szerződés asztali számítógép és monitor szállítás a fővárosi vízmű zrt. részére 2. rész
+version https://git-lfs.github.com/spec/v1
+oid sha256:0c0f4f53d7dd419fee96c8f1dd706d60d45afb5d71036db9efddbb40e86d9559
+size 852

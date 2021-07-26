@@ -1,1 +1,3 @@
-Gyorsított nyílt, egy ajánlattevővel megkötött keretmegállapodás megkötésére irányuló eljárás alapján tételes elszámolás alá eső venetoklax hatóanyagot tartalmazó, természetben biztosítandó gyógyszerkészítmény beszerzése 12 hónap aktív, további 4 hónap passzív időszakra, amely meghosszabbítható további 12 hónap aktív időtartammal (részletes feltételeket a Keretmegállapodás-tervezet (KM tervezet) tartalmazza). Ajánlatkérő a Kbt. 105. § (1) bekezdés a) pontja szerint jár el. Figyelem: Kbt. 73. § (6) c) pontjára tekintettel tájékoztatjuk ajánlattevőket, hogy a megajánlott konkrét gyógyszerre vonatkozó, az ajánlattételi határidő napján hatályos PUPHA árral a keretmennyiségre számított összárnál magasabb áron érvényes ajánlat nem tehető.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1fa22b911cd59ea4a4b6be0a6a57fb4bdd1acdcb56fe766cfbdba6a1979324fe
+size 823

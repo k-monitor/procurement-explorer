@@ -1,1 +1,3 @@
-Adás-vételi szerződés keretében élelmiszer alapanyagok beszerzése Alsózsolca Város Önkormányzata részére, 13 részajánlattételi körben.
+version https://git-lfs.github.com/spec/v1
+oid sha256:80eaad20d8ed18f4558491a204cdc80c3339b35cc9ac1930ccb72622d315e55d
+size 151

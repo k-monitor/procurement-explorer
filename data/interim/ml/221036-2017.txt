@@ -1,21 +1,3 @@
-Adásvételi	adásvételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-elektron	elektron	NOUN	Case=Nom|Number=Sing	
-tomográf	tomográf	NOUN	Case=Nom|Number=Sing	
-beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-,	,	PUNCT	_	
-beállítása	beállítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-,	,	PUNCT	_	
-beüzemelés	beüzemelés	NOUN	Case=Nom|Number=Sing	
-és	és	CONJ	_	
-betanítása	betanítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-tárgyban	tárgy	NOUN	Case=Ine|Number=Sing	
-.	.	PUNCT	_	
-
-Csak	csak	ADV	_	
-gyári	gyári	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-új	új	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-rendszer	rendszer	NOUN	Case=Nom|Number=Sing	
-szállítható	szállítható	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:7348e1cc1ed6b42ebaa8a4fe6232b72b7bffc6870c34b4d50351ffb3bb6045a2
+size 871

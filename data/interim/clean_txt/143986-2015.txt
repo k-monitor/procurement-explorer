@@ -1,1 +1,3 @@
-huf folyószámlahitel keret biztosítás és az ez kapcsolódó bankszámlavezetés a knykk középnyugat-magyarországi közlekedési központ zrt. részére
+version https://git-lfs.github.com/spec/v1
+oid sha256:5fb777a66fa9bd27e2e4e3dd68c7b3be6ce9ae8f21f45718270530621184a965
+size 159

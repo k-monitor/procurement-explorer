@@ -1,1 +1,3 @@
-Az ajánlatkérő és tagvállalatai tulajdonában, üzemeltetésében és/vagy kezelésében lévő ingatlanok (épületek, építmények) gépek, berendezések, informatikai eszközök és készletek vagyonbiztosítása, ajánlatkérő és tagvállalatai tevékenységével, működésével összefüggő felelősségbiztosítások, gépjárművek casco és kötelező felelősségbiztosítása.
+version https://git-lfs.github.com/spec/v1
+oid sha256:db63e0ec325a219026cede22b4d0e6b86728e26cc6365d0edc36e14d34adbb89
+size 397

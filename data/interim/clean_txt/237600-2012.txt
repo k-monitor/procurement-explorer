@@ -1,5 +1,3 @@
-a magyar nemzeti bank
-mnb
-integrált statisztikai
-istat
-rendszer továbbfejlesztés
+version https://git-lfs.github.com/spec/v1
+oid sha256:1cc31a569c73f3637b84efc4e1b88573203edb4c1cce12b182857c5152771262
+size 83

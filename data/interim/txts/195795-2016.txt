@@ -1,1 +1,3 @@
-Adásvételi szerződés Teleszkópos rakodók (KSZTE) beszerzése tárgyban.
+version https://git-lfs.github.com/spec/v1
+oid sha256:15aeb08e854f95cfcfbda2edcecf201d7329a3bb4ca2a2e3b3e8f6899fbdc5af
+size 77

@@ -1,1 +1,3 @@
-A beszerzés tárgya Budapest X. kerületében, a Mázsa téren létesítendő fedett uszodakomplexum és multifunkcionális sportcsarnok többváltozatú döntéselőkészítő dokumentációja (költségbecsléssel és az üzemeltetéssel összefüggő gazdaságossági számításokkal), építési engedélyezési tervdokumentációja, valamint egyéb szükséges engedélyezési dokumentációk, továbbá opcióként a kiviteli tervdokumentáció elkészítése. A cél egy ötszáz fő néző befogadására alkalmas uszodakomplexum és egy háromezer fő néző befogadására alkalmas sportcsarnok felépítése a kapcsolódó kiszolgáló funkciókkal, amely megfelel a sportszakmai elvárásoknak és a szakmai előírásoknak, a megvalósítási és az üzemeltetési költségek tekintetében pedig a kormányzat takarékossági követelményeit is szem előtt tartja.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9160c884a999e3c536e5b92e57b8373ece70886f99ca92c9775ced8de22ce3d4
+size 881

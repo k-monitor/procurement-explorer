@@ -1,7 +1,3 @@
-villamos áram beszerzés a szegedi tudományegyetem
-szte
-és az mta szegedi biológiai kutatóközpont
-mta szbk
-telephely számára 1.
-30.
-hónap meghosszabbítási lehetőség
+version https://git-lfs.github.com/spec/v1
+oid sha256:cfa8b0d075af27f0373cc66f6c3d19fe4b0498f0a7ff1b59ff64c46b58b24341
+size 177

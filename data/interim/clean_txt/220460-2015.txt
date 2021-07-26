@@ -1,7 +1,3 @@
-szerződés meghatározás
-adásvételi szerződés a keop-5
-6.0
-e
-számú pályázat kapcsolódó c-íves sebészeti képerősítő orvosi műszer leszállítás
-és üzem helyezés
-továbbá a jótállási idő belüli karbantartási és szerviz tevékenység ellátás
+version https://git-lfs.github.com/spec/v1
+oid sha256:05e9519a075665f2e2fcc7578bdaf929b3344b0db7d54061e44de86b15483521
+size 271

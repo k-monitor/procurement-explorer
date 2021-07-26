@@ -1,1 +1,3 @@
-útépítési munka debrecen nyugati városrész
+version https://git-lfs.github.com/spec/v1
+oid sha256:e750cb2e1c2dedc8ee3f532d0b559e05149dbfb80397d8af44f156fee449632f
+size 48

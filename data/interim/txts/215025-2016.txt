@@ -1,1 +1,3 @@
-Szállítmányozási szerződés a „Picasso – Alakváltozások 1895–1972” című kiállítás műtárgy szállítmányozási feladatainak ellátására (kölcsönadókhoz történő visszaszállítás); a közbeszerzési dokumentumokban meghatározott műtárgyaknak a Magyar Nemzeti Galériából való visszaszállítása a kölcsönadók által megjelölt helyekre.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bfbbea77d3edec974747dbdd9ef54abdb67ae26b9d37ff3c38d05a708b8e6142
+size 376

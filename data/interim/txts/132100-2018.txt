@@ -1,1 +1,3 @@
-A Kórház intézeti gyógyszertár készletének ellátására szolgáló adásvételi szerződés a közbeszerzés közvetlen tárgya. Az ajánlatkérő a 16/2012 (II.16.) Korm. r. alapján áru rabatt adásának lehetőségét biztosítja valamennyi rész esetében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:24ce348979f699535dabb6fca0873b57f018dd3e5e84d691758cad1db59073d3
+size 269

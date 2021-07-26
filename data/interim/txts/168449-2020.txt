@@ -1,1 +1,3 @@
-Kórházi éjjeliszekrények beszerzése szállítási szerződés keretében. 60 db kórházi éjjeliszekrény acél vázzal és gázrugós emelővel. A szekrények műszaki jellemzői: Acél vázszerkezet, epoxy alapú porfestéssel ellátva (szín min. 20 szín közül RAL színskálából választható). A szekrénytesten két részre osztott. Felül fiókos, alul ajtós szerkezet. A szekrénytest úgynevezett kétutas szerkezet, amely mindkét oldalról működtethető. Az etetőlap magassága állítható és gázrugó rásegítéssel rendelkezik. Szekrény méretei: Hosszúság: min. 530 mm – max. 560 mm; Szélesség: min. 380 mm – max. 410 mm; Magasság: min. 700 mm – max. 730 mm. Etetőlap méretei: Szélesség: min. 350 mm – max. 400 mm; Hosszúság: min. 580 mm – max. 620 mm.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e7a069f44cf85a20f226a2536f750bd9d20ec50217aa9021b7d36a7f13d271fc
+size 807

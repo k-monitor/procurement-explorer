@@ -1,1 +1,3 @@
-Adásvételi szerződés - Műtőasztal rendszer és műtőlámpa beszerzése a Borsod-Abaúj-Zemplén Megyei Központi Kórház és Egyetemi Oktatókórház részére
+version https://git-lfs.github.com/spec/v1
+oid sha256:db8e45440652225603f6fed149858526067a357d48e344626d525f3c203d6dac
+size 167

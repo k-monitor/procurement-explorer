@@ -1,1 +1,3 @@
-Vállalkozási keretszerződés, Ajánlatkérő által üzemeltetett országos közutak melletti területeken, az Ajánlatkérő által megadott méretű és mennyiségű ültetési anyag telepítése, majd 3 éven keresztül, évi 3 alkalommal szakszerű ápolása, szükség esetén pótlása az ajánlati felhívás II.2.1) pontjában megjelölt részekben, a részenként megjelölt nettó keretösszeg erejéig. Az ültetendő fákat és cserjéket az Ajánlattevő biztosítja.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b6aeeaf39ff060075b76692782cb84bef9162cfcac701b4767ac7fef1278bc2f
+size 483

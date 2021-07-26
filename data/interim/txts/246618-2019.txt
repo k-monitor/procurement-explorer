@@ -1,1 +1,3 @@
-Teljes ellátás alapú, földgáz-kereskedelmi szerződés keretében az Észak-Pesti Tankerületi Központ intézményei részére szabványos minőségű földgáz energia beszerzése 1.10.2019 6:00 CET – 1.10.2020 6:00 CET időszakra vonatkozóan
+version https://git-lfs.github.com/spec/v1
+oid sha256:e9160244a6b77facc2466f1c2ef48f0cabb6e4cf9dab4be22723617771a3b8de
+size 252

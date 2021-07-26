@@ -1,6 +1,3 @@
-a magyar nemzeti bank épület kapcsolódó teljes körű üzemeltetési
-karbantartási
-hibaelhárítási
-javítási
-felújítási és gondnoksági tevékenység
-valamint egyéb szolgáltatás ellátás vállalkozási szerződés keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:1b2c8130836c46a1178546cd09b631837a5782dfc92408bf590712b92118c36d
+size 235

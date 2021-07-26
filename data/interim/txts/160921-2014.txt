@@ -1,1 +1,3 @@
-Egyösszegű átalánydíjas Vállalkozási szerződés Ózd Város Önkormányzata szennyvízcsatorna-hálózatának bővítéséhez (Piros FIDIC, 2005) szükséges építési feladatok ellátására a Szennyvízelvezetés és tisztítás fejlesztése Ózd városában KEOP-1.2.0/2F/09-2010-0060 azonosítószámú projekt keretén belül.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a8ae90cd0caad45822c0e99498101dc67afcb37eca12f0ca91839b0252fed5a1
+size 340

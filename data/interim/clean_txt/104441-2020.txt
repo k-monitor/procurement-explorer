@@ -1,8 +1,3 @@
-nagyfelbontású 3d reflexiós szeizmikus mérés kivitelezés a nyugat-mecs cserdi-bükkösd-boda térség terület
-a forráspont szám
-vibrátoros és
-robbantásos jeladás
-kísérleti mérés és kiegészítő sekély refrakciós mérés
-terepi minőségellenőrzés
-qc
-adatfeldolgozás és összegző dokumentáció készítés
+version https://git-lfs.github.com/spec/v1
+oid sha256:7aac987d34746277cc3fdb8942594717cb1e4dc222b7000df28158e2825db5fa
+size 331

@@ -1,16 +1,3 @@
-Szállítási	Szállítási	PROPN	Case=Nom|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
--	-	PUNCT	_	
-Nadrágpelenka	nadrágpelenka	NOUN	Case=Nom|Number=Sing	
-beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-a	a	DET	Definite=Def|PronType=Art	
-Borsod-Abaúj-Zemplén	Borsod-Abaúj-Zemplén	PROPN	Case=Nom|Number=Sing	
-Megyei	Megyei	PROPN	Case=Nom|Number=Sing	
-Központi	Központi	PROPN	Case=Nom|Number=Sing	
-Kórház	Kórház	PROPN	Case=Nom|Number=Sing	
-és	és	CONJ	_	
-Egyetemi	egyetemi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-Oktatókórház	oktatókórház	NOUN	Case=Nom|Number=Sing	
-részére	részére	ADP	_	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:dfde89dc40a9f1d418f9476fba519784b2ea26c6f8290cebad68808a6de31c0e
+size 676

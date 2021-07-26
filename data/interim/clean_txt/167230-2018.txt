@@ -1,28 +1,3 @@
-az ép
-beruházás szakszerű kivitelezés
-és a kivitelező közbesz
-el
- történő kiválasztás szükséges
-műszaki megalapozott
-a vonatkozó szabvány és előírás megfelelő részletezettségű szakmai és szaktervezői munkarész tartalmazó engedélyes és kiviteli tervdokumentáció
-további
-tervdokumentáció
-az esetleges felmerülő
-szükséges szakhatósági építési
-létesítési engedély megszerzés együtt
-elkészítendő dokumentáció
-feladat a teljes engedélyes terv és engedélyezési d
-illetve jogerős építési engedély és a kiviteli terv elkészítés
-megrendelő részére pld papíralap
-összefűz a
-formátum és pld elektronikus
-szerk. formátum is
-árazott
-és árazatlan munkanemenkénti tételes költségvetés
-az engedélyeztetés sor szükséges engedély
-szakhatóság részére pld
-plusz a megrendelő részére pld papíralap
-összefűz a
-formátum és pld elektronikus
-tervezői művezetői feladat
-tervezői művezetés munkanap
+version https://git-lfs.github.com/spec/v1
+oid sha256:05d65a54fe8f3c30ede53ce2463e5323e2425785e0f5bd3270a42e80f4bcfc25
+size 980

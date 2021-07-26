@@ -1,7 +1,3 @@
-Ipari	Ipari	PROPN	Case=Nom|Number=Sing	
-Park	Park	PROPN	Case=Nom|Number=Sing	
-fejlesztése	fejlesztés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
--	-	PUNCT	_	
-munkagépek	munkagép	NOUN	Case=Nom|Number=Plur	
-beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:f3e064d7df93e373b3d1fcb9fadd18be62d3747d630822486190186b5cf6a993
+size 309

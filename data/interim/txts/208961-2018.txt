@@ -1,1 +1,3 @@
-Diák munkaerő foglalkoztatása.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bdd488f20a3074be1124ef35850151e6ca7cd0d40f4287b7ef51294e28a9987d
+size 33

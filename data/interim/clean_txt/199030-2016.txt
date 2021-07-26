@@ -1,1 +1,3 @@
-megbízási szerződés beruházás lebonyolító és teljes körű műszaki ellenőri feladat ellátás a csiky gergely színház felújítás tekintet
+version https://git-lfs.github.com/spec/v1
+oid sha256:372f0767947e9ebc1dbd9b2775fb997ff12db72113fe9360004c2d6ed5d6bf3c
+size 152

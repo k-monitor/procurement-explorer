@@ -1,11 +1,3 @@
-Szállítási	Szállítási	PROPN	Case=Nom|Number=Sing	
-keretmegállapodás	keretmegállapodás	NOUN	Case=Nom|Number=Sing	
-keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-acetonos	acetonos	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-ezüst-jodid-oldat	ezüst-jodid-oldat	NOUN	Case=Nom|Number=Sing	
-beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-a	a	DET	Definite=Def|PronType=Art	
-JÉGER	jéger	NOUN	Case=Nom|Number=Sing	
-projektben	projekt	NOUN	Case=Ine|Number=Sing	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:abd4ebb1bc8a99cf419db812dd1f3e5259f041da96329803bb29677b6e4584e5
+size 539

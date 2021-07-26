@@ -1,1 +1,3 @@
-adás-vételi szerződés keret az intézmény részére műtéti kötszer beszerzés hónap
+version https://git-lfs.github.com/spec/v1
+oid sha256:1f2f7f06bd63ee98459863a6f6684092ea61ca4747652c5d1dab541fcc0c492d
+size 92

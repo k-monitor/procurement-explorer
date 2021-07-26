@@ -1,1 +1,3 @@
-Régészeti lelőhelyen végzett régészeti megelőző feltárási szolgáltatások – szükség szerint geodéziai szolgáltatásokkal, térinformatikai feldolgozással – ellátása a hatályos vonatkozó jogszabályok alapján, vállalkozási keretszerződés keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e04b594692f89d6652aeff0ee5ff844c6dbe3b3b55d52926269960365f9d38a3
+size 277

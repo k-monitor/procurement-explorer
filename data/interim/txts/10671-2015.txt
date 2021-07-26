@@ -1,1 +1,3 @@
-Adásvételi szerződés a Szegedi Tudományegyetem TIOP-2.2.2-08/2-2009-0008 kódszámú pályázatának keretében a Szent-Györgyi Albert Klinikai Központ részére orvostechnológiai gép-műszerek és felszerelések beszerzése, leszállítása, üzembe helyezése tárgyban.
+version https://git-lfs.github.com/spec/v1
+oid sha256:957204c35274492bd57f43ce0be2e8f266d8da92a500a7165678cc1fb8436741
+size 281

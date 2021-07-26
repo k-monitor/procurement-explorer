@@ -1,1 +1,3 @@
-1. rész: 6 316 db bútor szállítása különféle ülések és székek kivételével a dokumentációban meghatározottak szerint. 2. rész: 1 980 db Különféle ülés és szék szállítása a dokumentációban meghatározottak szerint.
+version https://git-lfs.github.com/spec/v1
+oid sha256:efc6b7987294c227a618b447eddfeff9cf3548ac94fac71ddd145d60586adfc8
+size 242

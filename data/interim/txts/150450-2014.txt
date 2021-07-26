@@ -1,1 +1,3 @@
-Hulladékgazdálkodási közszolgáltatási szerződés, amelynek tárgya Monostorpályi Község közigazgatási területén keletkező települési szilárd (kommunális) hulladék rendszeres begyűjtése, elszállítása és ártalmatlanítása a dokumentációban részletezettek szerint. A közszolgáltatói feladatok ellátása kiterjed az Önkormányzati intézmények és az Önkormányzat közigazgatási területén működő gazdálkodó szervezetek gazdasági tevékenységével összefüggésben keletkezett települési szilárd hulladékának kezelésére is (Ht. 39. § (3) bekezdés).
+version https://git-lfs.github.com/spec/v1
+oid sha256:e4ace0cba9a48012972bac00bfe7b0db608a3909b141a274556e4de9068a6cb0
+size 602

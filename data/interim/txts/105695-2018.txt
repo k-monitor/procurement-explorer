@@ -1,1 +1,3 @@
-Megbízási szerződés a „Közép- és Kelet-Magyarországi szennyvízelvezetési és -kezelési fejlesztés 5. (KKMO 5)” elnevezésű, KEHOP-2.2.2-15-2015-00003 azonosítószámú projekt keretében műszaki ellenőri tevékenység ellátására.
+version https://git-lfs.github.com/spec/v1
+oid sha256:9f56c71c752a4ec567bd4c0b70c518cf6d41089a05e15200f47fb29246f9ffeb
+size 252

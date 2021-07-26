@@ -1,26 +1,3 @@
-1. mellkasi stentgraft az aorta deszcendens érintő betegség kezelés
-2. elongál aortaív helyezhető
-fal simuló stentgraft
-3. mellkasi stentgraft az aorta dissectio kezelés
-4. a mellkasi aorta hosszú szakasz érintő betegség kezelés szolgáló stentgraft
-5. speciális hibrid stentgraft az aorta ascendens és az aorta ív betegség kezelés
-6. hasi aorta illeszthető suprarenalis fixatiós
-y
-elágazású stentgraft
-7. hasi aorta illeszthető suprarenalis fixatiós
-y
-elágazású stentgraft hosszú főtest
-8.
-y
-elágazású
-infrarenális fixációjú stentgraft hasi aorta
-9.
-y
-elágazású
-infrarenális fixációjú stentgraft hasi aorta iliac branch graft rendszer lehetőség
-10. hasi aorta aneurysma ellátás szolgáló stentgraft rendszer polimer töltés
-11. ball katéter stengraft dilatáció
-12. merev felvezető drót stentgraft beültetés
-13. artéria vagy véna implantálható sheath
-introducer
-bevezető hüvely
+version https://git-lfs.github.com/spec/v1
+oid sha256:6910dd6f050e5bcb442513fe660674e00e07862c400427c040169b8104cf1003
+size 942

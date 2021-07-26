@@ -1,1 +1,3 @@
-A Debreceni Egyetem DEK-847 Orvosi műszerek beszerzése a ROHU401. sz. projekt keretében az alábbi eszközök beszerzését vállalta: 1. rész: Hibrid inkubátor beszerzése 2. rész: 4D képes echocardiográfiás készülék beszerzése 3. rész: 3D Thoracoscopos torony beszerzése
+version https://git-lfs.github.com/spec/v1
+oid sha256:e0dc8fcfa4b8ba94333f26eb4b1abef363053efc0f43315f6ac236910cc9fbd3
+size 287

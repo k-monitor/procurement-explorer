@@ -1,4 +1,3 @@
-2013.
-2015.02.28
-időszak vonatkozó takarítási
-valamint ipari alpin technika végzett külső épülettakarítási szolgáltatás megrendelés a győr-moson-sopron megyei kormányhivatal részére
+version https://git-lfs.github.com/spec/v1
+oid sha256:5f468df05163b4891462cb6355ea8d878d44c5aae4713bfd3056aefa33c937b3
+size 199

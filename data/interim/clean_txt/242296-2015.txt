@@ -1,2 +1,3 @@
-újfehértó-bököny víziközmű beruházási társulás által meghirdetett
-kombinált csatornamosó berendezés telepítés járóképes alváz
+version https://git-lfs.github.com/spec/v1
+oid sha256:4459c3522dfb16d857823bcc5f9a412c05cd764cbc6e92c5a23f931be57e9de6
+size 147

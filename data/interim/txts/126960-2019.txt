@@ -1,1 +1,3 @@
-Megbízási szerződés, melynek tárgya «Budapest Főváros Önkormányzata könyvvizsgálói Feladatainak ellátása». (EKR rövidített név: Könyvvizsgálói feladatok ellátása)
+version https://git-lfs.github.com/spec/v1
+oid sha256:b615c0f0626a59b05703b765e4a52e617580bcd6d5b7063ce105515c972c98bd
+size 186

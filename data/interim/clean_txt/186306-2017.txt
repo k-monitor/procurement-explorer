@@ -1,13 +1,3 @@
-kereskedelmi szerződés
-földgáz energia szabadpiaci beszerzés
-cet
-1.11.2018
-cet időszak vonatkozó
-tárgy
-a beszerzés mennyiség
-teljes ellátás alapú
-kereskedelmi szerződés keret összesen 000m3
-azaz mj mennyiségű földgáz energia beszerzés cél
-ajánlatkérő a megadott mennyiség pozitív irány
- különdíjmentesen eltér a ii
-opció vonatkozó információ pont megadott szerint
+version https://git-lfs.github.com/spec/v1
+oid sha256:56854e69fe2cd87941e277448613b52f7f3759a6c2fd8ea00d7e56c1bff42df4
+size 399

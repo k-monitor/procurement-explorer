@@ -1,2 +1,3 @@
-határozott idejű felhasználási szerződés keret a cab abstract
-a food science and technology abstracts és a zoological record elektronikus adatbázis beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:b3edf879365b1d02b085485c611d20edf6e4ae42a944fb3c1364ac3b40aff944
+size 166

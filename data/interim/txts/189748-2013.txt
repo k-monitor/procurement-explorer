@@ -1,1 +1,3 @@
-Megbízási szerződés a „Kiskunhalas Ivóvízminőség-javító Projekt” című KEOP-1.3.0/09-11-2011-0028 azonosító számú projekttel kapcsolatos FIDIC mérnöki és műszaki ellenőri feladatok ellátására.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0af82d91b697ee71a0056766497795ba47089d1b8a5bc7240298fa81c954e318
+size 219

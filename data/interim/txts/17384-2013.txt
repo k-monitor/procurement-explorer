@@ -1,1 +1,3 @@
-Keretszerződés a HM tárca vírusirtó licenszeinek frissítése (2013-2015) tárgyban.
+version https://git-lfs.github.com/spec/v1
+oid sha256:597e1ee278e8efeb31fdf1e962e5feeb16a94e9647df44d1edeb85aeb3545e6b
+size 89

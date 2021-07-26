@@ -1,1 +1,3 @@
-Eszközbeszerzés a Fenntartható és költséghatékony termálvíz visszasajtolás kútkiképzési technológiájának kifejlesztése GINOP-2.2.1-15-2017-00102 pályázat keretein belül a Pécsi Tudományegyetem részére a Közbeszerzési Dokumentumokban meghatározottak szerint, az alábbi bontásban: 1. ajánlati rész: DSC kaloriméter 2. ajánlati rész: HPHT reométer (viszkoziméter) 3. ajánlati rész: Pásztázó elektronmikroszkóp (FEG-SEM) EDS/EDX detektorral
+version https://git-lfs.github.com/spec/v1
+oid sha256:2f5527f9ac35e85449fa3285135e312b0456f9ba79348a841718cc13bbd2b248
+size 478

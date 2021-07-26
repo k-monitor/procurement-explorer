@@ -1,9 +1,3 @@
-Győr	Győr	PROPN	Case=Nom|Number=Sing	
-Kossuth	Kossuth	PROPN	Case=Nom|Number=Sing	
-L.	L.	PROPN	Case=Nom|Number=Sing	
-u.	u.	PROPN	Case=Nom|Number=Sing	
-36.	36.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
-sz.	sz.	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-épület	épület	NOUN	Case=Nom|Number=Sing	
-felújítása	felújítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:a4b3d60eacd117e2932e1e85f7aab18320bbfdfea03404a8b98f66a000bf5d59
+size 376

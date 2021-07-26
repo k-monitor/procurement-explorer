@@ -1,2 +1,3 @@
-munkagép és haszongépjármű karbantartás
-javítás és ez kapcsolódó alkatrész és csere munkagép illetve gépjármű biztosítás év
+version https://git-lfs.github.com/spec/v1
+oid sha256:b434734908f7bc41e15b0b587151a0733859353b032c53c8c79fa66d0c6432ec
+size 143

@@ -1,1 +1,3 @@
-Adásvételi szerződés keretében a VKI monitoring KEHOP-1.1.0-15-2016-00002 azonosítószámú projekt keretében vízminőségi monitoringhoz szükséges eszközpark fejlesztése
+version https://git-lfs.github.com/spec/v1
+oid sha256:0ebc3a7c7489555e066491fff85769a2f7e3055fe9a9403a83bdcd1a23c0e63b
+size 182

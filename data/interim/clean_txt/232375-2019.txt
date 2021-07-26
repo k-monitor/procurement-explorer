@@ -1,2 +1,3 @@
-zöld város
-fehérvár tüdő fejlesztési program kapcsolódó tervezési feladat ellátás a top-6
+version https://git-lfs.github.com/spec/v1
+oid sha256:e8a0f68af3d44d83388ee494a76931696316842acfb4dc6d48287d07892f69a7
+size 101

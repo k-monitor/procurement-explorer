@@ -1,1 +1,3 @@
-„Kormányzati Személyügyi Döntéstámogató Rendszer kialakítása” (rendszertervezés és fejlesztés) vállalkozási szerződés keretében a KÖFOP-2.1.5-VEKOP-16-2016-00001 azonosító jelű, „A versenyképes közszolgálat személyzeti utánpótlásának stratégiai támogatása” elnevezésű kiemelt projekt keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6027b95d33b951fc6cbf8e7df7df6a4d035ae123c9bea6798491baca312bb39a
+size 337

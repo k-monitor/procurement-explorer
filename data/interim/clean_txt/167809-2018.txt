@@ -1,3 +1,3 @@
-százhalombatta város önkormányzata fenntartás lévő konyha üzemeltetés és a gyermek
-diák
-és felnőtt közétkeztetés biztosítás négyéves időtartam
+version https://git-lfs.github.com/spec/v1
+oid sha256:b9b9e8860b1982f68a518a1fb351c66a1d8559a9214ed78c3b67b1057817d04a
+size 163

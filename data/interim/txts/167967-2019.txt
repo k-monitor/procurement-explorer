@@ -1,1 +1,3 @@
-Balesetveszélyes fák kivágása 2019.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bcb790349e29c9e75011a19635ec38e8a38f6ddba9adf0f9a900ffa07425b1c5
+size 39

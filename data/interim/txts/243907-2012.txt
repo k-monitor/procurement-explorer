@@ -1,1 +1,3 @@
-Tűzifa beszerzés teljeskörű logisztikai szolgáltatással.
+version https://git-lfs.github.com/spec/v1
+oid sha256:05eb91b14763e7a53b034de27555609fbee433546460d5180c991b32274af2f3
+size 62

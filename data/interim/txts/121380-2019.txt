@@ -1,1 +1,3 @@
-GINOP-1.2.8.-17-00007 Ipar 4.0-s kapacitásbővítés a Kermann Kft-nél - eszközbeszerzés szállítási szerződés keretében 1. részfeladat: 1 db új 5 tengelyes vízszintes főorsójú CNC-vezérlésű megmunkálóközpont és 1 db új, hajtottszerszámos nagyteljesítményű CNC esztergaközpont leszállítása, telepítése, üzembehelyezése, betanítás 2. részfeladat: 1 db lézeres hegesztő rendszer leszállítása, telepítése, üzembehelyezése, betanítás
+version https://git-lfs.github.com/spec/v1
+oid sha256:d667c6d86f0fa6331e05682656860d174aafe14b1d31451fc6c03be28cd99879
+size 478

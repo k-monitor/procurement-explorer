@@ -1,1 +1,3 @@
-Vállalkozási keretszerződések az Országos Katasztrófavédelmi Főigazgatóság vagyonkezelésében (üzemeltetésében) lévő vízi járművek (a járművek gyártmány szerinti összetételét - részenként - a dokumentáció műszaki leírása tartalmazza) javítására, karbantartására és műszaki megvizsgálási feladatainak elvégzésére a részeknél megadott keretösszegek erejéig.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fc486317c0e2c8dbae6e03e1a16ff9a24ac342de06bd797faee360992119a6df
+size 404

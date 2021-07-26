@@ -1,1 +1,3 @@
-Adásvételi szerződés keretében villamos energia beszerzése 2017. évre a Budapesti Nagybani Piac Zrt. részére.
+version https://git-lfs.github.com/spec/v1
+oid sha256:64fb066534183329cd204f169013099124464555790a01474471bd688e2dfea4
+size 118

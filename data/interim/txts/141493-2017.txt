@@ -1,1 +1,3 @@
-„Tandetron Laboratórium bővítése kutatási eszközök vásárlásával” tárgyában indult közbeszerzési eljárásban az Ajánlatkérő telephelyén már üzembe helyezett Tandetron részecskegyorsító alkalmazási körének bővítéséhez szükségesek a jelen eljárás keretében beszerzésre, megvásárlásra kerülő alábbi eszközök, melyekre részenként lehet pályázni (részenként külön, ugyanakkor egy pályázó több részre is pályázhat): 1. rész: ionforrások és nagyenergiás kiegészítő gyártása, szállítása. 2. rész: analítikai nyalábvég gyártása, szállítása. 3. rész: röntgendetektor klaszter gyártása, szállítása.
+version https://git-lfs.github.com/spec/v1
+oid sha256:0ea3d5916a2340636fbbc0bd56bf3b5d598c2a58794fdbdcdbf1f7c56aad48b4
+size 679

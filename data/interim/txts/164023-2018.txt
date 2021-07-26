@@ -1,1 +1,3 @@
-Neurológiai beavatkozások elvégzésére alkalmas hibrid rendszerű műtőegyüttes kialakítása és valamennyi a közbeszerzési eljárás műszaki specifikációjában meghatározott eszközzel történő felszerelése, majd bérleti viszony keretei között Ajánlatkérő részére történő bérbeadása a rendeltetésszerű használathoz szükséges karbantartási, javítási és szerviz szolgáltatások biztosításával.
+version https://git-lfs.github.com/spec/v1
+oid sha256:8891ba46aa49eb2be76ece5c7c437babb194ffc98d25d691508dd3ec3e90dbf5
+size 434

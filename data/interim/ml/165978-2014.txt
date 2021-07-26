@@ -1,15 +1,3 @@
-Extrahajlékony	extrahajlékony	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-alumínium	alumínium	NOUN	Case=Nom|Number=Sing	
-sodratszerkezetű	sodratszerkezetű	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-vezetékek	vezeték	NOUN	Case=Nom|Number=Plur	
-előállítására	előállítás	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-alkalmas	alkalmas	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-kosaras	kosaras	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-sodró	sodró	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-gépsor	gépsor	NOUN	Case=Nom|Number=Sing	
-beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-szállítási	szállítási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:346a5bf634cc1c9c4849895e84f282c4fa5ff74133ac80da52fc1e9749039322
+size 842

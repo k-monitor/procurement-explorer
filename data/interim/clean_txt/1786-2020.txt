@@ -1,9 +1,3 @@
-jelen közbeszerzés tárgy olyan átfogó tanulmány készítés
-amely felmér a rendelkezés álló hazai és külföldi szabad szakképzett munkaerő mennyiség
-illetve az nagy hazai és külföldi beruházás
-amely elszívó hatás jelent a paks ii
-beruházás tekintet
-továbbá az európai atomerőmű-építés alkalmazott
-a munkaerő közvetítés és toborzás vonatkozás
-jó gyakorlat
-eljárás feltérképezés és átemelés a szakképzett humánerőforrás megfelelő mennyiségű és minőségű biztosítás
+version https://git-lfs.github.com/spec/v1
+oid sha256:67245d8b73af96b0f56d042a971160d46b715be2622e911cfa022ea7fce37242
+size 523

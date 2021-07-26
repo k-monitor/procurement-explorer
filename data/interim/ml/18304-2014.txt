@@ -1,12 +1,3 @@
-Szállítási	Szállítási	PROPN	Case=Nom|Number=Sing	
-keretszerződés	keretszerződés	NOUN	Case=Nom|Number=Sing	
-,	,	PUNCT	_	
-melynek	mely	PRON	Case=Gen|Number=Sing|Person=3|PronType=Rel	
-tárgya	tárgy	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-„	„	PUNCT	_	
-Irodai	irodai	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-papír	papír	NOUN	Case=Nom|Number=Sing	
-beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-"	"	PUNCT	_	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:853dde59ee9347d6de4c81ea0c9e00b7de5f166b04854d01f7a92dfac44c546f
+size 486

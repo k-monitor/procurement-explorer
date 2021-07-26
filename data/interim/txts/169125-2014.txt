@@ -1,1 +1,3 @@
-Adásvételi szerződés a VKSZ-12_1-2013-0078 számú, Az akvakultúra ágazat kitörési pontjainak komplex versenyképességet szolgáló fejlesztése elnevezésű támogatott pályázat keretében „Amur és ponty takarmány beszerzésére”
+version https://git-lfs.github.com/spec/v1
+oid sha256:1c74b13b1ef3fa2b5fc5266f0e00c14e35c5c46097d4823958b1affff28bfd1d
+size 247

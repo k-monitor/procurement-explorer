@@ -1,4 +1,3 @@
-zalaegerszeg közigazgatási terület keletkező települési szilárd hulladék gyűjtés
-szállítás
-kezelés és a ő kapcsolódó egyes feladat ellátás vállalkozási szerződés keret az ajánlatkérő ht. 41. §
-bekezdés szerinti alvállalkozó
+version https://git-lfs.github.com/spec/v1
+oid sha256:b1555a3d4cdb96bed12cdb39478b0870d7e439cf0765fafcd8825410064ac733
+size 254

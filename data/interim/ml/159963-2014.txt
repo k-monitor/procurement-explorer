@@ -1,28 +1,3 @@
-1	1	NUM	Case=Nom|NumType=Card|Number=Sing	
-400	400	NUM	Case=Nom|NumType=Card|Number=Sing	
-000	000	NUM	Case=Nom|NumType=Card|Number=Sing	
-000	000	NUM	Case=Nom|NumType=Card|Number=Sing	
-HUF	HUF	PROPN	Case=Nom|Number=Sing	
-folyószámlahitel	folyószámlahitel	NOUN	Case=Nom|Number=Sing	
-keret	keret	NOUN	Case=Nom|Number=Sing	
-biztosítása	biztosítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-az	az	DET	Definite=Def|PronType=Art	
-Alba	Alba	PROPN	Case=Nom|Number=Sing	
-Volán	Volán	PROPN	Case=Nom|Number=Sing	
-Zrt.	Zrt.	PROPN	Case=Nom|Number=Sing	
-és	és	CONJ	_	
-1	1	NUM	Case=Nom|NumType=Card|Number=Sing	
-400	400	NUM	Case=Nom|NumType=Card|Number=Sing	
-000	000	NUM	Case=Nom|NumType=Card|Number=Sing	
-000	000	NUM	Case=Nom|NumType=Card|Number=Sing	
-HUF	HUF	PROPN	Case=Nom|Number=Sing	
-folyószámlahitel	folyószámlahitel	NOUN	Case=Nom|Number=Sing	
-keret	keret	NOUN	Case=Nom|Number=Sing	
-biztosítása	biztosítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-a	a	DET	Definite=Def|PronType=Art	
-Vértes	Vértes	PROPN	Case=Nom|Number=Sing	
-Volán	Volán	PROPN	Case=Nom|Number=Sing	
-Zrt.	Zrt.	PROPN	Case=Nom|Number=Sing	
-részére	részére	ADP	_	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:514e4bdf35dcedb96be8693391ee0975f90c7af1234c5d40aed90abfc904a4dc
+size 1193

@@ -1,2 +1,3 @@
-nyomdaipari tevékenység ellátás
-nyomdai termék előállítás és kapcsolódó szolgáltatás nyújtás vállalkozási szerződés keret a közbeszerzési dokumentum meghatározott szerint
+version https://git-lfs.github.com/spec/v1
+oid sha256:5fed3c842778ae1deac6c68faf309c7002efe1c449353e401569db3eed2f1dfe
+size 193

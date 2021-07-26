@@ -1,8 +1,3 @@
-különféle érsebészeti és angiográfiai termék beszerzés konszignációs raktár biztosítás
-részben összesen
-db ez össz
-alapmenny
-db
-össz
-opciós menny
-db
+version https://git-lfs.github.com/spec/v1
+oid sha256:d2eb4d451d4057a66b46345a0eaf70a22be3f80ed9f3bdadda6ed5bb374b61ac
+size 167

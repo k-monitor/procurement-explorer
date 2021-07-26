@@ -1,1 +1,3 @@
-„Pénzügyi közvetítői szolgáltatások nyújtása a GINOP-8.3.3-17 Irinyi Tőkeprogram (TP) végrehajtásának biztosítása érdekében”.
+version https://git-lfs.github.com/spec/v1
+oid sha256:529280f2952a8da5384a867b3e21305fee9f9ed569e7a9a0ac4e7b2722dd8e6a
+size 146

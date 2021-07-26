@@ -1,2 +1,3 @@
-vállalkozási keretmegállapodás józsefváros közigazgatási határ belül a józsefvárosi önkormányzat tulajdon álló és a jgk zrt. fenntartás és kezelés lévő zöld felület
-fa és fasor ápolás
+version https://git-lfs.github.com/spec/v1
+oid sha256:e5b4daa1f4b987bea698d34cf6718143d67fd0622254076e3438d0110c74b5ce
+size 210

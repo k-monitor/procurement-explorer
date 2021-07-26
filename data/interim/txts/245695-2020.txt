@@ -1,1 +1,3 @@
-Adásvételi szerződés fogászati kezelőegységek, elszívómotor és kezelőszék beszerzésére a Fogászati és Szájsebészeti Oktató Intézet, a Fogpótlástani Klinika, a Konzerváló Fogászati Klinika, a Parodontológiai Klinika, az Arc-Állcsont-Szájsebészeti és Fogászati Klinika részére
+version https://git-lfs.github.com/spec/v1
+oid sha256:0f342b6c6de7875b327cdd377a183d5380fd65a0d74bd940eeaff6259aeb084f
+size 307

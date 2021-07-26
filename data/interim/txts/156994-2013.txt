@@ -1,1 +1,3 @@
-Vállalkozási keretszerződések az Országos Katasztrófavédelmi Főigazgatóság vagyonkezelésében (üzemeltetésében) lévő Mercedes Benz gyártmányú, tűzoltó vagy katasztrófavédelmi felépítményű valamint egyéb járművek (a járművek típus szerinti összetételét - részenként - a dokumentáció műszaki leírása tartalmazza) garanciális időszak alatti és garanciaidőn túli javítására, karbantartására és műszaki vizsgáztatási feladatainak elvégzésére a részeknél megadott keretösszegek erejéig.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ddc2f036677f665bb2c1f59e43e3097035d62af00de34fdd57d8d547136b2596
+size 544

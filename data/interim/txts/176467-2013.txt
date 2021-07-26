@@ -1,1 +1,3 @@
-Szolgáltatási keretszerződés megkötése az alábbi tárgyban: „A MÁV Zrt. nagyértékű ingatlanjainak (létesítményeknek) őrzése, mely egyes helyeken magában foglalja a beléptető rendszerek kezelését, kaszálási és síkosság-mentesítési feladatokat is -Budapest régió”
+version https://git-lfs.github.com/spec/v1
+oid sha256:6c726671a3c1c8b473ab7efc584e52bda8567881599eaf329faf586d1b10747c
+size 295

@@ -1,15 +1,3 @@
-Szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-meghatározása	meghatározás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-:	:	PUNCT	_	
-Hitelszerződés	hitelszerződés	NOUN	Case=Nom|Number=Sing	
-.	.	PUNCT	_	
-
-Szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-tárgya	tárgy	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-:	:	PUNCT	_	
-Működési	működési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-célú	célú	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-hitelkeret	hitelkeret	NOUN	Case=Nom|Number=Sing	
-biztosítása	biztosítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:b7b5e78c554e6dcd0cc47e7cb3a9f9a473f9bde24095435402207eb89543a447
+size 631

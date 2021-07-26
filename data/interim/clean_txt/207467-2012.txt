@@ -1,1 +1,3 @@
-szelektív gyűjtött csomagolási hulladék válogatás vállalkozási szerződés keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:bd3935bcae0b64e0c07fb408173fdad070806d82482a1c62804e7619e6fa7398
+size 89

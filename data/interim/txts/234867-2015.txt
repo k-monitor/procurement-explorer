@@ -1,1 +1,3 @@
-Adásvételi keretszerződés sebészeti varróanyagok beszerzésére a Semmelweis Egyetem szervezeti egységei részére.
+version https://git-lfs.github.com/spec/v1
+oid sha256:11d614a6fd129059e1b319af9d12b065d449cd09c835754b28752ae973c78ffb
+size 122

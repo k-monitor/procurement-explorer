@@ -1,18 +1,3 @@
-A	a	DET	Definite=Def|PronType=Art	
-Püspökszilágyi	püspökszilágyi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-Radioaktív	radioaktív	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-Hulladékokat	hulladék	NOUN	Case=Acc|Number=Plur	
-Feldolgozó	feldolgozó	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-és	és	CONJ	_	
-Tároló	tároló	NOUN	Case=Nom|Number=Sing	
-(	(	PUNCT	_	
-RHFT	RHFT	PROPN	Case=Nom|Number=Sing	
-)	)	PUNCT	_	
-takarítása	takarítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-,	,	PUNCT	_	
-hó	hó	NOUN	Case=Nom|Number=Sing	
--	-	PUNCT	_	
-és	és	CONJ	_	
-síkosságmentesítése	síkosságmentesítés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:fac0404fbb59acfa9bef4a81b623017fe2aff3e43428a0713acd2089553ede9f
+size 707

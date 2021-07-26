@@ -1,1 +1,3 @@
-Adásvételi keretszerződés textiltermékek gyártására, szállítására a Semmelweis Egyetem egészségügyi intézményei részére
+version https://git-lfs.github.com/spec/v1
+oid sha256:d2de45ede54e1b14e895e06587e09ffc8a598f20018071adccaff7d6e3a6eecc
+size 138

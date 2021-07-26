@@ -1,1 +1,3 @@
-ABO vércsoport, RhD, C, E, c és e vörösvérsejt antigének meghatározására szolgáló diagnosztikumok beszerzése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4f2d41e3835fa76ccd2bfe2adf5e8626726790c58e5341f308fd4bca4a2e2dae
+size 121

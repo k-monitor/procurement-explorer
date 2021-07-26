@@ -1,1 +1,3 @@
-Adásvételi szerződés – MTVA meglévő központi router rendszerének bővítése az induló M4 Sportcsatorna kapcsán tárgyában.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1b6b0043ebd4e315d4726aecfc4748ead7b3e3b0c103b1d106b9a7e899870057
+size 136

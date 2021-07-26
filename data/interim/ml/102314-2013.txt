@@ -1,34 +1,3 @@
-Földgáz	földgáz	NOUN	Case=Nom|Number=Sing	
-adásvételi	adásvételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-(	(	PUNCT	_	
-teljes	teljes	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-ellátás	ellátás	NOUN	Case=Nom|Number=Sing	
-alapú	alapú	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-)	)	PUNCT	_	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-a	a	DET	Definite=Def|PronType=Art	
-BM	BM	PROPN	Case=Nom|Number=Sing	
-Országos	Országos	PROPN	Case=Nom|Number=Sing	
-Katasztrófavédelmi	katasztrófavédelmi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-Főigazgatóság	főigazgatóság	NOUN	Case=Nom|Number=Sing	
-Gazdasági	Gazdasági	PROPN	Case=Nom|Number=Sing	
-Ellátó	ellátó	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-Központ	Központ	PROPN	Case=Nom|Number=Sing	
-(	(	PUNCT	_	
-BM	BM	PROPN	Case=Nom|Number=Sing	
-OKF	OKF	PROPN	Case=Nom|Number=Sing	
-GEK	GEK	PROPN	Case=Nom|Number=Sing	
-)	)	PUNCT	_	
-feljogosított	feljogosított	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPast	
-fogyasztási	fogyasztási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-helyei	helyei	PROPN	Case=Nom|Number=Sing	
-részére	részére	ADP	_	
-a	a	DET	Definite=Def|PronType=Art	
-gázminőségi	gázminőségi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-előírásoknak	előírás	NOUN	Case=Dat|Number=Plur	
-megfelelő	megfelelő	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-földgázenergia	földgázenergia	NOUN	Case=Nom|Number=Sing	
-versenypiaci	versenypiaci	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-beszerzésére	beszerzés	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:cfa54413f9b4124de9b22752c590fc3f56879ebced944bd3170c61b3ee00f6a1
+size 1550

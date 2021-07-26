@@ -1,1 +1,3 @@
-Élelmezési nyersanyag beszerzés adásvételi szerződés keretében
+version https://git-lfs.github.com/spec/v1
+oid sha256:6e95d4f09485570d53816e5b795995a9314c7395c66823f76ac27f101f0688e8
+size 70

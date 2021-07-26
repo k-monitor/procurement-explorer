@@ -1,1 +1,3 @@
-Budapesti Corvinus Egyetem pesti oktatási létesítményeiben takarítási feladatok és egyéb gondnoksági tevékenységek ellátása.
+version https://git-lfs.github.com/spec/v1
+oid sha256:ab7cabdb6b0eb1baf9839a979aab6fc514c44c25e60428ef0040520841e81fdb
+size 137

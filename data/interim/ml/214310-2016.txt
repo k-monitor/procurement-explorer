@@ -1,20 +1,3 @@
-A	a	DET	Definite=Def|PronType=Art	
-Kisvárdai	kisvárdai	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-UEFA	UEFA	PROPN	Case=Nom|Number=Sing	
-3-as	3-as	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-,	,	PUNCT	_	
-MLSZ	MLSZ	PROPN	Case=Nom|Number=Sing	
-C	C	NOUN	Case=Nom|Number=Sing	
-kategóriájú	kategóriájú	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-labdarúgó	labdarúgó	NOUN	Case=Nom|Number=Sing	
--	-	PUNCT	_	
-sportlétesítmény	sportlétesítmény	NOUN	Case=Nom|Number=Sing	
-(	(	PUNCT	_	
-Stadion	stadion	NOUN	Case=Nom|Number=Sing	
-)	)	PUNCT	_	
-kivitelezése	kivitelezés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-vállalkozási	vállalkozási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:6bbb7a48d4ef4036c0f991652308f79fae2d70281570d8886e4b58de56d1432a
+size 824

@@ -1,1 +1,3 @@
-Budapest Főváros IX. kerület Ferencváros Önkormányzata részére hosszú lejáratú, mindösszesen 420 000 000 HUF összegű banki hitel biztosítása az Önkormányzat közigazgatási területén megvalósuló bérlakás-felújítás finanszírozása céljából, a 12/2001. (I. 31.) Kormányrendelet 22. §-a által biztosított kamattámogatás szerint.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e525cd54f4b04b60537a732f878c1491b56d597082d25a5149bd6f689423b41b
+size 362

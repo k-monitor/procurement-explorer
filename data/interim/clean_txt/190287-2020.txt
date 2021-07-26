@@ -1,5 +1,3 @@
-az ezen eljárás meghirdető felhívás alap lebonyolítás kerülő közbeszerzési eljárás keret az ajánlatkérő a szerződés hatálybalépés számított év szükséges röntgen kontrasztanyag beszerzés kíván biztosít rész
-a nyertes ajánlattevő szerződő szerződésszerű teljesítés rész képez a termék ajánlatkérő által megjelölt teljesítési hely történő leszállítás
-a fuvareszköz történő lerakás
-a termék teljesítéskori felhasználhatósági idő a teljesítés nap számítva minimális év kell lennie
-a részletes specifikáció és mennyiség a közbeszerzési dokumentumok melléklet képező műszaki leírás tartalmaz
+version https://git-lfs.github.com/spec/v1
+oid sha256:5178fe6d22fc1cf3315f537f4754fe8f5475ba5494724aaecdf3736087b9b807
+size 672

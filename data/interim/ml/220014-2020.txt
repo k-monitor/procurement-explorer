@@ -1,16 +1,3 @@
-Tesztrendszerek	tesztrendszer	NOUN	Case=Nom|Number=Plur	
-karbantartása	karbantartás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-,	,	PUNCT	_	
-méréstechnikai	méréstechnikai	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-támogatása	támogatás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-,	,	PUNCT	_	
-és	és	CONJ	_	
-kapcsolódó	kapcsolódó	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-műszerek	műszer	NOUN	Case=Nom|Number=Plur	
-javítása	javítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-,	,	PUNCT	_	
-kalibrálása	kalibrálás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-keretszerződés	keretszerződés	NOUN	Case=Nom|Number=Sing	
-keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:7fe186fdc12c7d22e3cb1d4d6e7bf886b0de06aef79b611a03e6264a48192f48
+size 803

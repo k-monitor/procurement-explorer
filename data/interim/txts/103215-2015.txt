@@ -1,1 +1,3 @@
-KEOP-1.1.1/C/13-2013-0040 kódszámú, „Települési szilárdhulladék-gazdálkodási rendszer fejlesztése Székesfehérváron” című pályázathoz kapcsolódóan hulladéktömörítő és -szállító gépjárművek beszerzése szállítási szerződés keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:596b9b86b282c4e2279b69fa7c03f6244589351fdee1e55f5132cdf3fc03aff1
+size 272

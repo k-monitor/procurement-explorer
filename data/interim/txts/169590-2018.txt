@@ -1,1 +1,3 @@
-Vállalkozási szerződés online szolgáltatások futtatáshoz szükséges szerver kialakítás és hosting szolgáltatás az EFOP-1.2.3-VEKOP-15-2015-00001 Komplex ifjúsági fejlesztések - Új Nemzedék Újratöltve című projekt keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cccb0b4a33025371900e5b44b0fcd4b20bc9df96f883f63da8e7b83800f66588
+size 246

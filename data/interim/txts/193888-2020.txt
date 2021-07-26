@@ -1,1 +1,3 @@
-Nyertes Ajánlattevő feladata az NMHH telephelyén üzemelő EMIR (Egységes Mérésügyi Információs Rendszer) és Doktár alkalmazások éles, teszt és dev környezetének alkalmazástámogatása, karbantartása, üzemeltetésének támogatása, hibáinak elhárítása, az esetleges meghibásodások bejelentésének fogadása érdekében ügyeleti rendszer biztosítása vállalkozási szerződés keretében a II.2.4) pontban, valamint a közbeszerzési dokumentumok részét képező műszaki leírásban részletezettek szerint.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dc5f0da79f2c1f4a2411e1fede3b3b5ab9053e772bab81793626ce4b5840e356
+size 539

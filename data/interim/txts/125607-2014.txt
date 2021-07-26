@@ -1,1 +1,3 @@
-Földgáz energia szállítása Hajdúböszörmény város önkormányzatának intézményei részére, mint felhasználási helyekre 1.7.2014. 6:00 CET–1.7.2015. 6:00 CET időszakra vonatkozóan, teljes ellátás alapú földgáz szállítási szerződés keretében. A felhasználási helyek részletes, előző évi fogyasztási adatait/lekötési értékeit hónapokra lebontva a dokumentáció tartalmazza.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6249de7fe7662c93092e364c48206eebf9922bf923bf72dd50fa028ce050cffa
+size 413

@@ -1,4 +1,3 @@
-vállalkozási szerződés az
-m60 gyorsforgalmi út 58. sz.
-jelű összekötő út közötti szakasz építés valamint kapcsolódó létesítmény kivitelezési feladat elvégzés
-tárgy
+version https://git-lfs.github.com/spec/v1
+oid sha256:5680f118348f1720f845bdd9fa041fa48d9e5b9f352caf4582bd67bedd21e565
+size 187

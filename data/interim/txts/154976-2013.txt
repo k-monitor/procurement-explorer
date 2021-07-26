@@ -1,1 +1,3 @@
-Megbízási szerződés a „Települési szilárdhulladék-lerakók rekultivációja a Délkelet-Alföld Regionális Hulladékgazdálkodási Rendszer Létrehozását Célzó Önkormányzati Társulás területén (II. ütem)” című KEOP-2.3.0/2F/09-11-2011-0004 azonosító számú projekthez kapcsolódód FIDIC Mérnöki és műszaki ellenőri feladatok ellátására.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f55bce940593340dd2f57ac86388ef8bf6bf15878c3d8f12842141818e4e0e26
+size 374

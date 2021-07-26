@@ -1,15 +1,3 @@
-Adás-vételi	Adás-vételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-„	„	PUNCT	_	
-Transzparencia	Transzparencia	PROPN	Case=Nom|Number=Sing	
-program	program	NOUN	Case=Nom|Number=Sing	
-"	"	PUNCT	_	
-keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-szerver	szerver	NOUN	Case=Nom|Number=Sing	
-állomás	állomás	NOUN	Case=Nom|Number=Sing	
-kialakításához	kialakítás	NOUN	Case=All|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-szükséges	szükséges	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-eszközök	eszköz	NOUN	Case=Nom|Number=Plur	
-beszerzésére	beszerzés	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:8f84ed825cf245814975c73d6b4bf59d44a9fd80e1086dce125ef8f23cebf06e
+size 712

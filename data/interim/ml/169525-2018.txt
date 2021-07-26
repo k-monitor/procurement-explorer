@@ -1,22 +1,3 @@
-Modern	Modern	PROPN	Case=Nom|Number=Sing	
-Városok	város	NOUN	Case=Nom|Number=Plur	
-Program	Program	PROPN	Case=Nom|Number=Sing	
-keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-megvalósuló	megvalósuló	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-„	„	PUNCT	_	
-a	a	DET	Definite=Def|PronType=Art	
-debreceni	debreceni	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-Nagyerdő	nagyerdő	NOUN	Case=Nom|Number=Sing	
-program	program	NOUN	Case=Nom|Number=Sing	
-befejezése	befejezés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-"	"	PUNCT	_	
-tárgyú	tárgyú	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-projekt	projekt	NOUN	Case=Nom|Number=Sing	
-műszaki	műszaki	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-ellenőri	ellenőri	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-és	és	CONJ	_	
-műszaki	műszaki	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-bonyolítói	bonyolítói	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-feladatai	feladat	NOUN	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:0f0603331bcc8b5dd222909540e2cd394c7fbe9ba0135b63b4d59d00ffad0814
+size 1020

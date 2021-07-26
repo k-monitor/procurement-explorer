@@ -1,1 +1,3 @@
-Villamos energia beszerzése a T-Szol Tatabányai Szolgáltató Zártkörűen Működő Részvénytársaság, valamint kettő tagvállalata (AGORA Nonprofit Kft., Cseri Kft.) részére 12 hónapos időtartamra a dokumentációban meghatározott fogyasztási helyekre.
+version https://git-lfs.github.com/spec/v1
+oid sha256:20543778bad729d8ee836ae7e1094d6c4977964361c2ef32031abc50d3fdce75
+size 267

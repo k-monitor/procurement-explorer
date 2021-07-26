@@ -1,1 +1,3 @@
-Vállalkozási keretszerződés vonalas létesítmények terület előkészítéséhez kapcsolódó régészeti lelőhelyek feltárásának gépi- és kézi földmunkáinak elvégzésére Magyarország területén
+version https://git-lfs.github.com/spec/v1
+oid sha256:afad7fae078ff1c50439558754f8430f2266cfdc2ccc432279a41f2377934d82
+size 213

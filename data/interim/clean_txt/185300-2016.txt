@@ -1,9 +1,3 @@
-cisco hálózati eszköz szállítás
-db catalyst és alkatrész
-db lx4 xenpak modul csere
-db san supervisor kártya csere
-db dwdm készülék bővítés
-db san director fc bővítés
-opcionálisan
-külön megrendelés alap szállítandó eszköz és tartozék
-db
+version https://git-lfs.github.com/spec/v1
+oid sha256:568a63536a32942fda082f375bab49745223c0047950441059172de847869a33
+size 263

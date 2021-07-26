@@ -1,1 +1,3 @@
-UHPLC-ESI-Quadrupole Time-of-Flight tömegspektrométer rendszer beszerzése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fa8c009034ce822d66bcc978ea49616d8802c07226d9effe0bf000696c6d3774
+size 77

@@ -1,1 +1,3 @@
-szállítási szerződés szívsebészeti és aneszteziológiai anyag beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:528b6095daf4d760dda73121efedbcd0b1d6d844613d06951d11ff2442dd3beb
+size 80

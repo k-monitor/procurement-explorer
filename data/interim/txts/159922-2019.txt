@@ -1,1 +1,3 @@
-Megbízási szerződés a «Vállalkozni érdemes! — Álláskeresők és fiatalok vállalkozóvá válása a Dél-Dunántúli régióban» elnevezésű GINOP-5.1.9-17-2017-00005 azonosító számú projekt keretében a tanácsadási és mentorálási szolgáltatások biztosítására, megvalósítására
+version https://git-lfs.github.com/spec/v1
+oid sha256:f8c6055543eaf076885666d94f15ef9fa0924295320d80f22b6902ed0d5575b8
+size 307

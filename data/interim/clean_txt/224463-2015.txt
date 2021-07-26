@@ -1,4 +1,3 @@
-nemzeti kézilabda akadémia
-szállás és kiszolgáló épület átalakítás
-felújítás és új portaépület építés
-vállalkozási szerződés keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:29868fa05f4922fcf844fb3cf1a4c1bcecd36e06c2323d770c72812a6ceb5ba9
+size 156

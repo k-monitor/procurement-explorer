@@ -1,12 +1,3 @@
-Haemodinamikai	Haemodinamikai	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-laboratórium	laboratórium	NOUN	Case=Nom|Number=Sing	
-12	12	NUM	Case=Nom|NumType=Card|Number=Sing	
-havi	havi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-működéséhez	működés	NOUN	Case=All|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-szükséges	szükséges	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-fogyóanyagok	fogyóanyag	NOUN	Case=Nom|Number=Plur	
-beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-85	85	NUM	Case=Nom|NumType=Card|Number=Sing	
-részben	rész	NOUN	Case=Ine|Number=Sing	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:5eda0d788691801a09a483d778ee373e29011d854bb85f566367046b94860433
+size 599

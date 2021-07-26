@@ -1,31 +1,3 @@
-Debrecen	Debrecen	PROPN	Case=Nom|Number=Sing	
-Észak-Nyugati	Észak-nyugati	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-Gazdasági	Gazdasági	PROPN	Case=Nom|Number=Sing	
-Övezethez	övezet	NOUN	Case=All|Number=Sing	
-kapcsolódó	kapcsolódó	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-infrastruktúra	infrastruktúra	NOUN	Case=Nom|Number=Sing	
-fejlesztés	fejlesztés	NOUN	Case=Nom|Number=Sing	
-keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-megvalósuló	megvalósuló	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-önkormányzati	önkormányzati	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-utak	út	NOUN	Case=Nom|Number=Plur	
-útépítési	útépítési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-,	,	PUNCT	_	
-kerékpárút	kerékpárút	NOUN	Case=Nom|Number=Sing	
-építési	építési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-,	,	PUNCT	_	
-csapadékvíz	csapadékvíz	NOUN	Case=Nom|Number=Sing	
-elvezetési	elvezetési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-,	,	PUNCT	_	
-valamint	valamint	CONJ	_	
-szennyvíz	szennyvíz	NOUN	Case=Nom|Number=Sing	
--	-	PUNCT	_	
-és	és	CONJ	_	
-vízvezeték	vízvezeték	NOUN	Case=Nom|Number=Sing	
-építés	építés	NOUN	Case=Nom|Number=Sing	
-kivitelezési	kivitelezési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-munkák	munka	NOUN	Case=Nom|Number=Plur	
--	-	PUNCT	_	
-I.	1.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
-ütem	ütem	NOUN	Case=Nom|Number=Sing	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:2b6a035d7905ca7cfdd6343833d11c2edd45de99fd86125b54d6696d880b991c
+size 1406

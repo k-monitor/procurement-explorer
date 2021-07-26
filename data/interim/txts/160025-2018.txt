@@ -1,1 +1,3 @@
-Tervezési szerződés az „M1-es autópálya 2x3 sávra bővítésére Győr és Budapest között, az autópálya 2x3 forgalmi sávra való szélesítésének tervezése az M0 és M19 csomópontok között” tárgyban.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bfd3af762bafa04de4698acfec21e9f09b77ab56b15a8dc393a607e5421834d4
+size 222

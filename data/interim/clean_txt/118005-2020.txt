@@ -1,6 +1,3 @@
-általános felhasználású villamos energia értékesítés a 2021.1.1
-cet
-2021.12.31
-cet és 2022.1.1
-cet
-2022.12.31 cet közötti időszak teljes ellátás alapú villamos energia kereskedelmi szerződés keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:daabf588fdbd3e9075d3d03d6ba4c8b0ca9505c5d02efb2b27562b71d0891cbe
+size 214

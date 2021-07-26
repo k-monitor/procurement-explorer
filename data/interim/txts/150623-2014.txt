@@ -1,1 +1,3 @@
-2014. évre szolgáltatás-megrendelési szerződés a környezetvédelmi termékdíjról szóló, 2011. évi LXXXV. törvény 22. § (1) bekezdés alapján (EWC 15 01 01) Magyarország közigazgatási területén keletkező papír csomagolási hulladékok gyűjtése és hasznosítása.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f2e591cb9806db1f5727d9b0b467ac788b3886de71f5dbcb137c8564f7ac53a5
+size 287

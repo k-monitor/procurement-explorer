@@ -1,7 +1,3 @@
-földgázvásárlási szerződés a magyar földgáz hálózat folyamatos rendelkezés álló
-szabványos minőségű földgáz energia versenypiaci beszerzés
-2013.8.1
-óra és 2014.7.1
-óra közötti időszak vonatkozó
-teljes ellátásalapú földgáz-kereskedelmi szerződés keret
-a dokumentáció meghatározott szerint
+version https://git-lfs.github.com/spec/v1
+oid sha256:09c921f5eb945f79886c0631645d08c295fa29f2e687d163e1be07b85c3255f0
+size 325

@@ -1,33 +1,3 @@
-Képalkotó	képalkotó	NOUN	Case=Nom|Number=Sing	
-és	és	CONJ	_	
-orvostechnikai	orvostechnikai	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-eszközök	eszköz	NOUN	Case=Nom|Number=Plur	
-beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-4	4	NUM	Case=Nom|NumType=Card|Number=Sing	
-rt.	rt.	NOUN	Case=Nom|Number=Sing	
-1.	1.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
-részterület	részterület	NOUN	Case=Nom|Number=Sing	
-:	:	PUNCT	_	
-Röntgen	röntgen	NOUN	Case=Nom|Number=Sing	
-diagnosztikai	diagnosztikai	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-eszközök	eszköz	NOUN	Case=Nom|Number=Plur	
-2.	2.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
-részterület	részterület	NOUN	Case=Nom|Number=Sing	
-:	:	PUNCT	_	
-MRI	MRI	NOUN	Case=Nom|Number=Sing	
-és	és	CONJ	_	
-Csontsűrűség	csontsűrűség	NOUN	Case=Nom|Number=Sing	
-diagnosztikai	diagnosztikai	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-eszközök	eszköz	NOUN	Case=Nom|Number=Plur	
-3.	3.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
-részterület	részterület	NOUN	Case=Nom|Number=Sing	
-:	:	PUNCT	_	
-Ultrahang	ultrahang	NOUN	Case=Nom|Number=Sing	
-diagnosztikai	diagnosztikai	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-eszközök	eszköz	NOUN	Case=Nom|Number=Plur	
-4.	4.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
-részterület	részterület	NOUN	Case=Nom|Number=Sing	
-:	:	PUNCT	_	
-Sugárterápiás	sugárterápiás	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-eszközök	eszköz	NOUN	Case=Nom|Number=Plur	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:fb31d04e110b7081cf597906742ea87811a4447f4598c42930e79c837744aab0
+size 1442

@@ -1,32 +1,3 @@
-Vagyon	vagyon	NOUN	Case=Nom|Number=Sing	
--	-	PUNCT	_	
-és	és	CONJ	_	
-felelősségbiztosítás	felelősségbiztosítás	NOUN	Case=Nom|Number=Sing	
-;	;	PUNCT	_	
-utas-és	utas-és	CONJ	_	
-balesetbiztosítás	balesetbiztosítás	NOUN	Case=Nom|Number=Sing	
-;	;	PUNCT	_	
-gépjármű	gépjármű	NOUN	Case=Nom|Number=Sing	
-felelősségbiztosítás	felelősségbiztosítás	NOUN	Case=Nom|Number=Sing	
-valamint	valamint	CONJ	_	
-CASCO	CASCO	PROPN	Case=Nom|Number=Sing	
-biztosítás	biztosítás	NOUN	Case=Nom|Number=Sing	
-megrendelése	megrendelés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-a	a	DET	Definite=Def|PronType=Art	
-Szegedi	Szegedi	PROPN	Case=Nom|Number=Sing	
-Tudományegyetem	Tudományegyetem	PROPN	Case=Nom|Number=Sing	
-részére	részére	ADP	_	
-5	5	NUM	Case=Nom|NumType=Card|Number=Sing	
-részajánlati	részajánlati	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-körben	kör	NOUN	Case=Ine|Number=Sing	
-,	,	PUNCT	_	
-jelen	jelen	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-felhívásban	felhívás	NOUN	Case=Ine|Number=Sing	
-és	és	CONJ	_	
-a	a	DET	Definite=Def|PronType=Art	
-közbeszerzési	közbeszerzési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-dokumentumokban	dokumentum	NOUN	Case=Ine|Number=Plur	
-részletezettek	részletezett	NOUN	Case=Nom|Number=Plur	
-szerint	szerint	ADP	_	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:0c02468a1d5880bffb4a4147d604900dbb3729329cb673d362fd887930327e8a
+size 1300

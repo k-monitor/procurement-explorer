@@ -1,1 +1,3 @@
-Megbízási szerződés keretében az M25 autóút Déli ütem kivitelezési munkáihoz kapcsolódó műszaki ellenőri és mérnöki feladatok ellátása.
+version https://git-lfs.github.com/spec/v1
+oid sha256:dcdfa8ae2fea74cef55a2c81c8289ee5ebec11e6a8c15ef38bb91af2912b60bc
+size 155

@@ -1,14 +1,3 @@
-Vállalkozási	Vállalkozási	PROPN	Case=Nom|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
--	-	PUNCT	_	
-Közreműködő	közreműködő	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-Szervezet	Szervezet	PROPN	Case=Nom|Number=Sing	
-által	által	ADP	_	
-kezelt	kezelt	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPast	
-pályázatok	pályázat	NOUN	Case=Nom|Number=Plur	
-szakmai	szakmai	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-értékelésének	értékelés	NOUN	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-minőségbiztosítása	minőségbiztosítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-tárgyában	tárgy	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:77741638f3d82e06e6e66d1a2e516d99ef335e74907ef2639424dcc6937a9a93
+size 740

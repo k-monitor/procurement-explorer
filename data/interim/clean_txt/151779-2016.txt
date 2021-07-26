@@ -1,1 +1,3 @@
-a liget budapest projekt kapcsolódó olof palm ház megvalósítás szükséges teljes körű építészeti és szakági tervezés
+version https://git-lfs.github.com/spec/v1
+oid sha256:3df12418e85b573ae965f6921e0a66543636a74d78b8c9ca3abc7dae59d46e2c
+size 131

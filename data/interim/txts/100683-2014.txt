@@ -1,1 +1,3 @@
-A Semmelweis Egyetem, Anatómiai, Szövet- és Fejlődéstani Intézet, Humánmorfológiai és Fejlődésbiológiai Intézet, MTA-KOKI Integratív Neuroendokrinológiai Kutatócsoport részére 1 db konfokális lézerpásztázó mikroszkóp beszerzése és karbantartása.
+version https://git-lfs.github.com/spec/v1
+oid sha256:df516c53ff0a6fa616fd9665498cf588b7ff2880c348776942d59e8e1a21dfa4
+size 272

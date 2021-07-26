@@ -1,1 +1,3 @@
-Keretmegállapodás az RVTV portál továbbfejlesztésére és kapcsolódó rendszerek kifejlesztésére
+version https://git-lfs.github.com/spec/v1
+oid sha256:ec9e3e43f6249e158c4c03632bf5df3e42220214ce4e5a9a1311624297c1ce7e
+size 104

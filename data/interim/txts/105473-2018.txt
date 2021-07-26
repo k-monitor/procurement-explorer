@@ -1,1 +1,3 @@
-Megbízási szerződés a „Bóly központú agglomeráció szennyvíztisztító telepének és csatornahálózatának fejlesztése” elnevezésű, KEHOP-2.2.2-15-2016-00087 azonosítószámú projekt keretében műszaki ellenőri tevékenység ellátására.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1a80a040f637ca02199d304400560d29ea9a41864ca6772141012e595120259d
+size 261

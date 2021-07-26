@@ -1,1 +1,3 @@
-Határidős adásvételi szerződés különféle élelmiszerek beszerzésére, 4 részajánlati tételi körben. Termékcsoportok: 1. Felvágottak 2. Mirelit 3. Száraz áru Keretösszeg összesen: nettó 166 971 789,- Ft Keretösszegek részenként: 1. részajánlat: Felvágottak: nettó 35 578 710,- Ft 2. részajénlat: Mirelit: nettó 22 168 815,- Ft 3. részajánlat: Száraz áru: nettó 58 353 990,- Ft 4. részajánlat: Tejtermék: nettó 50 870 274,- Ft
+version https://git-lfs.github.com/spec/v1
+oid sha256:b8b68cf97493a02ce60a641c230730024f403e21260079a5792ca6bde39ad305
+size 464

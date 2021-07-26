@@ -1,1 +1,3 @@
-Megbízási szerződés keretében „Vízvisszatartás és tájhasználat-váltás tervezése az Ős-Dráva Programban" című (KEHOP-1.3.0-15-2016-00014) projekt keretében FIDIC Sárga Könyv szerint megkötésre kerülő tervezésre és kivitelezésre vonatkozó szerződéshez nyújtandó FIDIC mérnöki és műszaki ellenőri tevékenység ellátása”. Az eljárás címe a II.1.1) és II.2.1) pontban karakterkorlátok miatt rövidítetten szerepel. A helyes cím a jelen pontban megadott.
+version https://git-lfs.github.com/spec/v1
+oid sha256:211e2466ade52ab1be291cf1c8285ad084800c175aa5f95dd5b8a735e76fb8ab
+size 499

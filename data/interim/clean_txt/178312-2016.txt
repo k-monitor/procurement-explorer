@@ -1,21 +1,3 @@
-ajánlatkérő a jelen közbeszerzési eljárás eredmény tervezői művezetés irányuló megbízás vegyes tervezési szerződés kíván köt a közbeszerzési eljárás nyertes ajánlattevő
-a szerződés
-beszerzés
-tárgy
-a máriaremetei uszoda módosított építési engedélyezési és építészeti-műszaki kivitelezési tervdokumentáció teljes körű elkészítés
-valamint a kivitelezés sor tervezői művezetési feladat elvégzés
-ak felhív az at figyelem az
-hogy ak a jelen felhívás az európai uniós hivatalos lap kiadóhivatal által bevezetett terjedelmi korlát miatt rövidítés használ
-az egész felhívás érvényes általános fogalom rövidítés
-ajánlatkérő
-ak
-ajánlattevő
-at
-felhívás
-felh
-szakember
-hiszen
-referenciamunka
-rm
-a további használt rövidítés az egyes kifejezés
-fogalom után ad meg
+version https://git-lfs.github.com/spec/v1
+oid sha256:39f88df357ebaf87b72576c5de1ddc296322dd143e1adbf5ee78e45f2f074ea6
+size 843

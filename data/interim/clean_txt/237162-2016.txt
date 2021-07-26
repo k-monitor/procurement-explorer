@@ -1,1 +1,3 @@
-keretmegállapodás keret magasépítési kivitelezési munka megrendelés
+version https://git-lfs.github.com/spec/v1
+oid sha256:5ea6b2802ca83483d07ce974fca3001f02fe83d922192faa03b9ab1e7a8b6179
+size 74

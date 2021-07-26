@@ -1,1 +1,3 @@
-A „NYITOK hálózat a társadalmi befogadásért” pályázati program (kódszám: TÁMOP-5.3.9-11/1-2012-0001.) keretében informatikai eszközök karbantartása vállalkozási szerződés keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:50b1f7752a772915d6e68d08d78fffc64ec69e5e8748aa3d47247cef8d4c76f0
+size 204

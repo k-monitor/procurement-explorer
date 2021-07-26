@@ -1,8 +1,3 @@
-földgáz adásvételi szerződés keret az ajánlatkérő részére a magyar földgáz hálózat folyamatos rendelkezés álló
-szabványos minőségű földgáz energia versenypiaci beszerzés 1.7.2014.,
-óra
-1.7.2015.,
-óra tartó időszak vonatkozó
-teljes ellátásalapú földgáz-kereskedelmi szerződés keret
-földgázkereskedő kiválasztás
-gázév mnv
+version https://git-lfs.github.com/spec/v1
+oid sha256:be0790ba213e895b9e9ac2076fe8c41356b6db2d148262b46f0436bb211cf4c1
+size 363

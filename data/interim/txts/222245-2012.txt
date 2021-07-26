@@ -1,1 +1,3 @@
-Külső Bécsi úti villamosvonal meghosszabbításának előkészítése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:fa3370fbaf3e144147298ea15c1dfd9925595f0a56350b1845ece06221b250d4
+size 74

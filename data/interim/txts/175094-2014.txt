@@ -1,1 +1,3 @@
-Megbízási szerződés meleg konyha és étkezde üzemeltetésére.
+version https://git-lfs.github.com/spec/v1
+oid sha256:31fc1f4dfe8380963f00b5c66514db48fd1269237dbabad43abd7f788ffcf746
+size 68

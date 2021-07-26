@@ -1,9 +1,3 @@
-a modern város program keret a békéscsabai térségi vásártér kialakítás célzó projekt
-iktatószám
-gf
-szkf
-2017.
-kapcsolódó tervezési feladat
-tanulmányterv
-engedélyezési és kiviteli tervdokumentáció készítés
-elvégzés tervezési szerződés keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:95d13548fa7c1afcb70746dfe5632f9dff2144bda000b93057336c0733a250a9
+size 270

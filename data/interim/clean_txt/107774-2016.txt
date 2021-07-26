@@ -1,8 +1,3 @@
-földgáz szállítás
-cet
-1.10.2018
-cet időszak vonatkozó
-teljes ellátás alapú földgáz kereskedelmi szerződés keret szentendre
-db fogyasztási hely
-összesen m³
-év
+version https://git-lfs.github.com/spec/v1
+oid sha256:266986c6069525509a6397d4460b846030a2ee9f4086a40a9058aa114b9fee05
+size 175

@@ -1,2 +1,3 @@
-dorog város egyesített sportintézmény
-polgármesteri hivatal és intézmény háza
+version https://git-lfs.github.com/spec/v1
+oid sha256:03bc30e8533e7b768fb5f696049988828f5ccc8d476026208f8a31fa67a7a039
+size 86

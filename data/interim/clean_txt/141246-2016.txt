@@ -1,7 +1,3 @@
-magyarország különböző földterület
-az összes megye kiterjedő
-részben kézi
-részben gépi kaszálás történő parlagfű irtási valamint ez kapcsolódó járulékos
-részleges bozótirtási
-munka elvégzés ütem
-a szerződés teher kibocsátandó megrendelés alap
+version https://git-lfs.github.com/spec/v1
+oid sha256:8eff061eab87c290b7e101c860ac3d145f4ade2625c99389aa9ce1dfc0265359
+size 277

@@ -1,5 +1,3 @@
-irodai papír
-papíráru
-író
-és irodaszer szállítás a nemzeti adó
-és vámhivatal részére
+version https://git-lfs.github.com/spec/v1
+oid sha256:7605f27916ff8ffc9828439d24d162a2cc570d5ad93083f5fb445d8d368d8dd3
+size 98

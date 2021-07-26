@@ -1,1 +1,3 @@
-Tervezés és vállalkozás: „Mór – Oroszlány – Tatabánya (M1 autópálya) közötti kapcsolat javítása és Tatabánya –Tata közös elkerülő út (1. sz. főút új nyomvonalra helyezése) megvalósíthatósági tanulmány és értékelemzés elkészítése ”. Projekt azonosítószáma: KÖZOP-3.5.0-09-11-2012-0023 1. rész Mór – Oroszlány – Tatabánya (M1 autópálya) közötti kapcsolat javítása és Tatabánya – Tata közös elkerülő út (1. sz. főút új nyomvonalra helyezése) megvalósíthatósági tanulmány elkészítése. 2. rész Mór – Oroszlány – Tatabánya (M1 autópálya) közötti kapcsolat javítása és Tatabánya – Tata közös elkerülő út (1. sz. főút új nyomvonalra helyezése) értékelemzés elkészítése”.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4b16d3b191632541716ea4f90f992c291e01a93a3c2dc6c1c8591ed335579b2a
+size 782

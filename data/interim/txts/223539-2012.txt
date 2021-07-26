@@ -1,1 +1,3 @@
-Megbízási keretszerződés, melynek tárgya "pénzügyi tanácsadó szolgáltatások ellátása".
+version https://git-lfs.github.com/spec/v1
+oid sha256:cb97846025a7578584c185f7ea5acc18a17c48a2da9e95da0c72b049f88bce4f
+size 99

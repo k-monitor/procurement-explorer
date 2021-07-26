@@ -1,1 +1,3 @@
-Dorog Város Egyesített Sportintézménye, Polgármesteri Hivatal és Intézmények Háza - takarítási feladatok ellátása
+version https://git-lfs.github.com/spec/v1
+oid sha256:ba0756abd3bce9e7c99584e345f02d1fc54eadb52177dc99adb93ac0fbfced52
+size 126

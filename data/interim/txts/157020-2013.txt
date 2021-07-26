@@ -1,1 +1,3 @@
-Vállalkozási szerződés diákmunka közvetítésére, az ajánlatkérők által üzemeltetett szolgáltatási helyszínek munkavállalókkal történő ellátásához.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5d8792edbc5625db7e69f31a0fe456f35b5c518d98b82f520dc626be6e6da8c5
+size 170

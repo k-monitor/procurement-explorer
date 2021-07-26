@@ -1,1 +1,3 @@
-Vállalkozási szerződés a Mánfa, Budafai meddőhányó tájrendezésére.
+version https://git-lfs.github.com/spec/v1
+oid sha256:90c3f6233e7bcd9af873722135f9dee82206cea065542c7874b8b57577d8897c
+size 77

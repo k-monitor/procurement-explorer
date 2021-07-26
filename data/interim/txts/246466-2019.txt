@@ -1,1 +1,3 @@
-Szállítási szerződés, Tiszavasvári, élelmiszer nyersanyagok beszerzésére. I.sz. részajánlat: tejtermékek 47 tétel II.sz. részajánlat: kenyér, péksütemény 58 tétel III.sz. részajánlat: tőkehús, 18 tétel VI.sz. részajánlat: baromfihús és húskészítmények 54 tétel V.sz. részajánlat: mirelit zöldség, gyümölcs 34 tétel VI.sz. részajánlat: friss zöldség, gyümölcs 69 tétel VII.sz. részajánlat: szárazáru 132 tétel A közbeszerzési dokumentumban részletezettek szerint. Ahol gyártmányra, típusra, eredetre, szabadalomra vagy védjegyre hivatkozott ajánlatkérő, ott a megnevezés csak a tárgy jellegének egyértelmű meghatározása érdekében történt, azzal Egyenértékű termék ajánlható meg (321/2015. (X. 30.) Korm. rendelet 46. §. (3) bekezdése. Ajánlatkérő a megadott mennyiségtől + 20 % -al eltérhet.
+version https://git-lfs.github.com/spec/v1
+oid sha256:743144b285b01169abbb8dd460e9e98e564bd1ec52f1a02d4d7e52dbeb65f3c7
+size 878

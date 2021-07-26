@@ -1,1 +1,3 @@
-Határidős adásvételi szerződés az „Angiográfiai, interventionális radiológiai, neurointerventionális és haemodinamikai eszközök szállítása a Somogy Megyei Kaposi Mór Oktató Kórház részére” tárgyban.
+version https://git-lfs.github.com/spec/v1
+oid sha256:199c5eebb4cc7a6d307c202867e757fc054cc888728e881a58cc33794fb020b2
+size 225

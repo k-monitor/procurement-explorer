@@ -1,1 +1,3 @@
-A közbeszerzésekről szóló 2015. évi CXLIII. törvény 105. § (1) bekezdés a) pontja szerinti keretmegállapodás megkötésére irányuló, gyorsított tárgyalásos közbeszerzési eljárás tételes elszámolású infliximab hatóanyagot tartalmazó, természetben biztosítandó egyes gyógyszerek beszerzésére, a 31.10.2018-ig terjedő aktív időszakra (passzív időszak 28.2.2019-ig tart).
+version https://git-lfs.github.com/spec/v1
+oid sha256:68b2c9dca7df15b014c84a7cffb24e7d5ec044fad19a795af4810efe284e153f
+size 406

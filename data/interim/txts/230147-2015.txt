@@ -1,1 +1,3 @@
-Vízi járművek szállítása egyedi adásvételi szerződés keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a79ec3f2944bb19a3f70b63873c31d8db5195a1b8bfcf4e7d1e8d9f0a50c203d
+size 74

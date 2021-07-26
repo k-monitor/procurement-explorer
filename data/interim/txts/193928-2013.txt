@@ -1,1 +1,3 @@
-Vállalkozási szerződés a „Nádudvar település szennyvízelvezető rendszerének, valamint szennyvíz tisztító telepének fejlesztése” című, EU-támogatással megvalósítani tervezett Projekt keretén belül „a szennyvízelvezető rendszer fejlesztése” kivitelezési feladatok ellátására vonatkozóan, a FIDIC Piros Könyv feltételei szerint KEOP-1.2.0/09-11-2011-0035.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a2a88eb6590986c314da454e5a2d2d03bba15dbe016d5682546f810c26a1efcc
+size 393

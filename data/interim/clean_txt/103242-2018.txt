@@ -1,6 +1,3 @@
-megbízási szerződés a
-dunavarsány szennyvíztisztító telep technológia korszerűsítés
-émo4
-elnevezésű
-kehop-2
-2-15-2015-00039 projekt keret műszaki ellenőri tevékenység ellátás
+version https://git-lfs.github.com/spec/v1
+oid sha256:bbea05f0b202902fda77dc1117af0cba7deb799ef9a926ff4300dea6b6002332
+size 195

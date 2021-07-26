@@ -1,1 +1,3 @@
-adásvételi szerződés nyomdai papír alapanyag szállítás
+version https://git-lfs.github.com/spec/v1
+oid sha256:4954fed398c02b1cdd1b5ee5137b2ac814fa0c92e8883dadc5419ad9b9ad4552
+size 62

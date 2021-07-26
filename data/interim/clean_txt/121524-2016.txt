@@ -1,21 +1,3 @@
-mnkh
-magyar nemzeti kereskedőház zrt. által partneriroda
-regionális iroda és kompetencia központ álló kereskedőházi partner iroda hálózat kialakítás
-működtetés
-üzemeltetés cél határozatlan időtartam szóló szolgáltatási szerződés megkötés az a cél
-hogy országspecifikus kereskedelem-fejlesztési szolgáltatás keret a partneriroda elősegít az exportképes termék
-technológia
-szolgáltatás rendelkező magyar vállalkozás külpiac jutás
-a kereskedőházi partner iroda
-regionális iroda
-kompetencia központ feladat
-hogy célország-specifikus kereskedelem-fejlesztési szolgáltatás keret elősegít az exportképes termék
-technológia
-szolgáltatás rendelkező magyar vállalkozás külpiac jutás
-ez érdek kereskedőházi partner iroda
-regionális iroda
-kompetencia központ feladat azon szektor
-piaci szegmens meghatározás a célország
-amely a magyar mikro
-kis
-és középvállalkozás versenyképes lesz
+version https://git-lfs.github.com/spec/v1
+oid sha256:1db85006f0714a9bad78e128b8c82c1facabe0a1b9e91ba39e686b5189af3564
+size 953

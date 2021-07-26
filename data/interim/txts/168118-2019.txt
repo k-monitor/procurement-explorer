@@ -1,1 +1,3 @@
-K1955 Az FKF Nonprofit Zrt. Hulladékhasznosító Művében keletkező pernye (azonosító kód: 19 01 13) és füstgáztisztítási maradékanyag (azonosító kód: 19 01 07) elszállítása, ártalmatlanítása és/vagy hasznosítása
+version https://git-lfs.github.com/spec/v1
+oid sha256:dcdc34c98dc48066294c23ba0e842415c13fbfd499ef405c325017bc38ff8bac
+size 236

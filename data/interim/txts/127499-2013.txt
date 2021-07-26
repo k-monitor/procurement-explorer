@@ -1,1 +1,3 @@
-Szállítási szerződés élelmiszer alapanyag beszerzésére.
+version https://git-lfs.github.com/spec/v1
+oid sha256:711f1085759d4f7613a7bb6df5ffca9998f1bbdde74f190719c2b9d042f346b4
+size 63

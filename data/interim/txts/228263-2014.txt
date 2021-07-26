@@ -1,1 +1,3 @@
-Adásvételi szerződés (fajta és mennyiség szerint meghatározott dolog határidős adásvételére vonatkozó szerződés) – a REHAB-13MUTE-TTF-0088 azonosító számú projekt keretében bőripari gépek és ipari varrógépek beszerzése egyes részei (I. rész – bőripari gépek beszerzése (Budapest, Pásztó), II. rész – bőripari gépek beszerzése (Szentlőrinc), III. rész: 1 darab textil hegesztőgép beszerzése, IV. rész: varrógépek és kiegészítő gépek beszerzése, V. rész: címkenyomtató és Gerber plotterek beszerzése).
+version https://git-lfs.github.com/spec/v1
+oid sha256:2c4b39e964ca6f7e2095fcc59f000e4d8bae94ffa467734c2ddf0ca1a6322d5d
+size 561

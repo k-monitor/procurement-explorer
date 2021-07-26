@@ -1,1 +1,3 @@
-Audiovizuális rendszer létesítése a Pécsi Tudományegyetem Általános Orvostudományi Kar részére Modern Városok Program keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:28a907f3331f3805c5a7cfa17d26984d497835333919709ae0cb6fc6ef633191
+size 141

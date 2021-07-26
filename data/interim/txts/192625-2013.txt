@@ -1,1 +1,3 @@
-Gyógyszerek adásvételére vonatkozó szállítási szerződés.
+version https://git-lfs.github.com/spec/v1
+oid sha256:777e1faea15c00c7e158db3266ef221f35e8eff1daa2e849eb04fb3871943ab2
+size 66

@@ -1,1 +1,3 @@
-Vállalkozási szerződés keretében az MNB új, legalább 1000 felhasználót kiszolgáló közös adatbefogadó rendszeré-nek (a továbbiakban: Rendszer) kifejlesztése Microsoft .NET környezetben, a kifejlesztett pénzügyi intézményi informatikai Rendszer üzemeltetési támogatása és szoftverfejlesztési támogatása (az évente felmerülő új igények megvalósítása, azaz a kifejlesztett közös adatbefogadó rendszer továbbfejlesztése, módosítása vagy összekapcsolása más informatikai rendszerekkel) dokumentáció részét képező követelményspecifikációban részletezettek szerint.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f66c7ba4951e1d8dc682765d58ef750e9b58de69201f58d692729660bd18d1e5
+size 617

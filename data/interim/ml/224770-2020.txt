@@ -1,11 +1,3 @@
-Telepített	telepített	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPast	
-növények	növény	NOUN	Case=Nom|Number=Plur	
-három	három	NUM	Case=Nom|NumType=Card|Number=Sing	
-éven	év	NOUN	Case=Sup|Number=Sing	
-keresztül	keresztül	ADP	_	
-történő	történő	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-ápolása	ápolás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-és	és	CONJ	_	
-pótlása	pótlás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:d4893fda8031e5bca3375a1f9a2c10325771a3e586bc7522a1685cbeb17ea95f
+size 510

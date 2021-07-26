@@ -1,5 +1,3 @@
-földgáz energia szállítás az ajánlatkérő részére 1.7.2015
-cet
-1.10.2016
-cet időszak vonatkozó
-teljes ellátás alapú földgáz energia kereskedelmi szerződés keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:2013e77e6e613806002d3b67b7fd48a5abbd70457f37bcbc54921096fc19727f
+size 178

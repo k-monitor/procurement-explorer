@@ -1,1 +1,3 @@
-Szállítási keretszerződés az FKF Nonprofit Zrt.-nél üzemeltetett 3,5 t alatti személy és kisteher gépjárművek gyári, vagy azzal egyenértékű első beszállítói új alkatrészek szállítása érdekében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:58161f9721ad7132bbabad757992d3830777f2e1c0ba0eaeb2523b16844587d5
+size 220

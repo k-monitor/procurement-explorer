@@ -1,1 +1,3 @@
-páty község önkormányzat által fenntartott óvoda
+version https://git-lfs.github.com/spec/v1
+oid sha256:053b40fe1154e75d0e58e15b5dd6b7c0d4a16ac6c60fd07c07266f44a1821d22
+size 55

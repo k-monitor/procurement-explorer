@@ -1,1 +1,3 @@
-Szemészeti implantátumok szállítása Ajánlatkérő részére.
+version https://git-lfs.github.com/spec/v1
+oid sha256:7d5088a808a5e15c87b849a2cd8c015b35efca6beda3cfd60939028f39caa0d6
+size 66

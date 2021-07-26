@@ -1,1 +1,3 @@
-Ajánlatkérő telephelyein működő, a Dokumentációban tételesen meghatározott Cisco hálózati (LAN, WAN), Cisco storage hálózati (SAN), valamint Cisco DWDM eszközök havi 99,9 %-os rendelkezésre állást biztosító támogatási szolgáltatás nyújtása 1.4.2019-től 31.3.2021-ig havi 1 embernap proaktív támogatással. A szerződés hatálya alatt összesen legfeljebb 48 mérnöknap opciós eseti embernap alapú támogatás.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e1a5b9f90edb0a38337b6a510af1509be2bda07716b3efcaf15c256772133fbe
+size 443

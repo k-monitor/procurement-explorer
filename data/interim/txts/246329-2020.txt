@@ -1,1 +1,3 @@
-Nyertes ajánlattevő köteles az általa megajánlott ellenérték (havidíj) fejében a szerződés hatálybalépésének napjától 00:00 órától a rendszerüzemeltetési feladatait 12 hónapig – azaz a 365. nap 24:00 óráig – ellátni. Továbbá nyertes ajánlattevőnek az ajánlatkérő eseti lehívásainak megfelelően kell elvégeznie a műszaki leírásban foglalt Rendszerfejlesztési feladatokat és Változáskövetést a keretösszeg erejéig: A Rendszerfejlesztési feladatokra és Változáskövetésre fordítható keretösszeg: a 12 havi rendszerüzemeltetési szolgáltatási díj összegével csökkentett teljes nettó keretösszeg. Ajánlatkérő (AK) a teljes nettó keretösszeg 70 %-ára, azaz nettó 168 000 000 Ft erejéig vállal lehívási kötelezettséget, azzal, hogy a rendszerüzemeltetési feladatok vonatkozásában AK 100 %-os lehívási kötelezettséget vállal.
+version https://git-lfs.github.com/spec/v1
+oid sha256:12e0fdf3335790fc92569df3a419b3bb3c86d68652d0b6966a16ea2644c9ea55
+size 908

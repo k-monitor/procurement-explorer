@@ -1,12 +1,3 @@
-összesség nettó huf
-keretösszeg erő adásvételi szerződés keret iveco típusú tehergépjármű alváz gyári
-új és utángyártott alkatrész szállítás
-1. rész
-iveco típusú tehergépjármű alváz gyári új alkatrész szállítás
-nettó huf
-keretösszeg erő
-ii
-rész
-iveco típusú tehergépjármű alváz utángyártott alkatrész szállítás
-nettó huf
-keretösszeg erő
+version https://git-lfs.github.com/spec/v1
+oid sha256:f59ca67b836a6a26f4f6ba4d78fe747745dec1b21c73d6524e8d00b203f6d0a5
+size 392

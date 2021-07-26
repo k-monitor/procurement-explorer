@@ -1,32 +1,3 @@
-Kereskedelmi	kereskedelmi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-szabványos	szabványos	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-minőségű	minőségű	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-MSZ	MSZ	PROPN	Case=Nom|Number=Sing	
-EN	en	X	_	
-50160	50160	NUM	Case=Nom|NumType=Card|Number=Sing	
-:	:	PUNCT	_	
-2008	2008	NUM	Case=Nom|NumType=Card|Number=Sing	
-és	és	CONJ	_	
-az	az	DET	Definite=Def|PronType=Art	
-MSZ	MSZ	PROPN	Case=Nom|Number=Sing	
-1	1	NUM	Case=Nom|NumType=Card|Number=Sing	
-:	:	PUNCT	_	
-2002	2002	PROPN	Case=Nom|Number=Sing	
-szabványok	szabvány	NOUN	Case=Nom|Number=Plur	
-előírásainak	előírás	NOUN	Case=Dat|Number=Plur|Number[psor]=Sing|Person[psor]=3	
-megfelelő	megfelelő	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-villamos	villamos	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-energia	energia	NOUN	Case=Nom|Number=Sing	
-beszerzésére	beszerzés	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-az	az	DET	Definite=Def|PronType=Art	
-MTVA	MTVA	PROPN	Case=Nom|Number=Sing	
-csatlakozási	csatlakozási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-pontjai	pont	NOUN	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3	
-részére	részére	ADP	_	
-,	,	PUNCT	_	
-fogyasztói	fogyasztói	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-menetrend-adás	menetrend-adás	NOUN	Case=Nom|Number=Sing	
-nélkül	nélkül	ADP	_	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:c8b88ceac8ef4feb52f16cabde88e4b011f77bff21ab3dd78bce8d70eb56e4ca
+size 1370

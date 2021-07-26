@@ -1,1 +1,3 @@
-Az I.1. és az „A melléklet” IV. pontban felsorolt ajánlatkérők 2013.7.1 (6:00) - 2014.7.1.(6:00) időszak közötti földgázszükségletének beszerzése - magyarországi földgázhálózaton folyamatosan rendelkezésre álló, szabványos minőségű földgázenergia szállításával teljes ellátásalapú földgáz-kereskedelmi szerződés keretei között.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f8fa38a7181c0e3b16df6df70570912c0b2dc47cdca5110ccb2ddd9fffaefb52
+size 372

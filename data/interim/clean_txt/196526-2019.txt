@@ -1,30 +1,3 @@
-a semmelweis egyetem részére gyógyszerkészítmény beszerzés
-főcsoport
-adásvételi keretszerződés keret
-lehívás
-normál és rendkívüli
-un
-stati
-útján
-a szerződés a keretösszeg kimerülés
-mely az alap
-opciós mennyiség
-alapmennyiség
-a
-nettó ft
-de legfeljebb havi időtartam jön lét
-a beszerzés nem tárgy az áeek által
-a fekvőbeteg szakellátás nyújtó intézmény részére történő gyógyszer
-orvostechnikai eszköz és fertőtlenítőszer beszerzés országos központosított rendszer szóló
-2012.
-iii
-korm
-rendelet alap beszerzett készítmény
-a
-2012.
-iii
-korm
-rendelet 6. §
-bekezdés alap az áeek által későn
-a szerződés hatály alatt beszerzett készítmény az áeek által kötendő szerződés
-illetve keretmegállapodás hatály lépés követő szintén kikerül a nyertes ajánlattevő által szállítandó készítmény közül
+version https://git-lfs.github.com/spec/v1
+oid sha256:3288419b30d8e872542191eb539e4bf8c9536f101221a5f5e0f9eae899d76652
+size 882

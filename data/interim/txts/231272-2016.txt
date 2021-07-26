@@ -1,1 +1,3 @@
-Földgáz energia beszerzése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:de9099f6a43b63be5fcec6e720fdd20bcefffdffb4acd8bc356a87d6ad77fa8d
+size 30

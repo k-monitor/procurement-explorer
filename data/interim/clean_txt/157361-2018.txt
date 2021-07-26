@@ -1,3 +1,3 @@
-tervezési szerződés a
-balaton funkcionális térség komplex közlekedésfejlesztési koncepció
-elkészítés tárgy
+version https://git-lfs.github.com/spec/v1
+oid sha256:9f6f8138f6e0b8099f0ce630869b3acdb33dc83d8ed3867a235e11175940b7fb
+size 120

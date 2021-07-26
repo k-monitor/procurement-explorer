@@ -1,1 +1,3 @@
-Tesztrendszerek karbantartása, méréstechnikai támogatása, és kapcsolódó műszerek javítása, kalibrálása keretszerződés keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:36b5c2918530d0b02f572edf5bd509a37746eb161ecc75e92ace5f5fa26735d8
+size 144

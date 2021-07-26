@@ -1,1 +1,3 @@
-Hulladékszállító tehergépjárművek bérlése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:e2a1fefa4b8ca5c2c49c3cea364407d079380f4510e27db96f54b1b581af9bd5
+size 51

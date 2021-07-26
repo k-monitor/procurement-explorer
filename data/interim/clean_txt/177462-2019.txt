@@ -1,6 +1,3 @@
-ferencváros épülő munkásszálló részére eszközbeszerzés
-a közbeszerzés biztosított a részajánlattétel a jelen felhívás ii
-1.6
-és ii
-pont foglalt meg+felelő
-részlet a közbeszerzési dokumentum
+version https://git-lfs.github.com/spec/v1
+oid sha256:e27f9858acf09e5d4fb9165f44bc9e137033cd4ffab1c37e829b9ad5f79a8ae7
+size 213

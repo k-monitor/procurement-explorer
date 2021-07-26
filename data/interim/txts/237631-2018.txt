@@ -1,1 +1,3 @@
-A lentebb részletezett helyszíneken forgalomtechnikai intézkedések megvalósításához szükséges, kivitelezésre alkalmas teljes körű, minden szakágra kiterjedő engedélyezési és kiviteli tervek elkészítése, továbbá az építéshez szükséges jogerős engedélyek, hozzájárulások megszerzése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f59b78645bdf416076b0dbc9128642f4ace13c632d0437bf5aa7b918ebb108a2
+size 315

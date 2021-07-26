@@ -1,1 +1,3 @@
-Földgázenergia
+version https://git-lfs.github.com/spec/v1
+oid sha256:eb7618f35caddcb739cbf4911950fbdcfca84fed6c0d9af75f808a89eb94dfe9
+size 16

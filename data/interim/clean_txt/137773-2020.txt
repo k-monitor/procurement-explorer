@@ -1,2 +1,3 @@
-vállalkozási szerződés
-a pásztói zsigmond király általános iskola infrastrukturális fejlesztés a hátránykompenzáció elősegítés és a minőségi oktatás megteremtés érdek
+version https://git-lfs.github.com/spec/v1
+oid sha256:50d88b17f2d86e2408a1462134ec481d56abf48b78efc62c42a0a19ed7b7ab8a
+size 190

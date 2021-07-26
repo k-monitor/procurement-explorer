@@ -1,1 +1,3 @@
-Vállalkozási keretszerződés járműjavítási szolgáltatás nyújtására a KEF által üzemeltetett, a minisztériumok, Miniszterelnökség, és háttérintézményeik ellátását biztosító gépjárművek részére.
+version https://git-lfs.github.com/spec/v1
+oid sha256:b9e87ed801b56a81ebab29627db643b58384e68ea948c9ff21c62378a6f481de
+size 224

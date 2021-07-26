@@ -1,4 +1,3 @@
-a miskolctapolcai strandfürdő részére fitnesz gép
-futópad
-terem kerékpár
-has-és hátizik gép
+version https://git-lfs.github.com/spec/v1
+oid sha256:41cfe96af4d1c75d9854e4f47ff658855dfc7977a6337bc8d0eee6c2f1ae73aa
+size 102

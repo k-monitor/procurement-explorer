@@ -1,1 +1,3 @@
-„Egészségügyi szakellátók szállóinak fejlesztése” című, EFOP-2.2.0-16-2016-00001 azonosítószámú projekt megvalósítása során szükséges műszaki ellenőri szolgáltatás beszerzése 7 részben”
+version https://git-lfs.github.com/spec/v1
+oid sha256:c1fb9afeaa38d8f729dbfe0b3a487d28453f99ab0e3ea05179da86abd331ae3a
+size 217

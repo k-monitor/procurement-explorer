@@ -1,10 +1,3 @@
-Élelmezési	élelmezési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-nyersanyag	nyersanyag	NOUN	Case=Nom|Number=Sing	
-közbeszerzés	közbeszerzés	NOUN	Case=Nom|Number=Sing	
--	-	PUNCT	_	
-Szentendre	Szentendre	PROPN	Case=Nom|Number=Sing	
-,	,	PUNCT	_	
-adásvételi	adásvételi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:b8cbc563cf8795f12909ae5ad7e64278f449d907526b3fe4bde0f09111ff8083
+size 373

@@ -1,1 +1,3 @@
-paksi vízi színpad létesítés vállalkozási szerződés keret
+version https://git-lfs.github.com/spec/v1
+oid sha256:3de8fd07b799414e8433d3db066751bdaa134443769892084ce863368fc9e53f
+size 66

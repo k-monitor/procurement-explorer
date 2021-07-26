@@ -1,1 +1,3 @@
-Haemodinamika eszközök beszerzése, összesen 13 242 db, 57 részben.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5b301c88ef2fd372c134bfb20c05a3f3f2407b90be425c181dfbc7caf1ec5725
+size 71

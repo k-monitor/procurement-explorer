@@ -1,21 +1,3 @@
-Magyar	magyar	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-Közút	közút	NOUN	Case=Nom|Number=Sing	
-Nonprofit	nonprofit	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-Zrt.	Zrt.	PROPN	Case=Nom|Number=Sing	
-útfenntartási	útfenntartási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-,	,	PUNCT	_	
-telephely	telephely	NOUN	Case=Nom|Number=Sing	
-üzemeltetési	üzemeltetési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-,	,	PUNCT	_	
-gépkarbantartási	gépkarbantartási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-és	és	CONJ	_	
-labortevékenysége	labortevékenység	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-során	sor	NOUN	Case=Sup|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-keletkezett	keletkezett	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPast	
-veszélyes	veszélyes	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-hulladékok	hulladék	NOUN	Case=Nom|Number=Plur	
-szállítása	szállítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-és	és	CONJ	_	
-kezelése	kezelés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:b0ed146a1f51a19fb635a0ad89d22841d039e4186288ed00040ee0e61e7ce712
+size 1042

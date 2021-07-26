@@ -1,1 +1,3 @@
-Tervezési szerződés az „M44 autóút Kondoros (csatlakozással az M44 megelőző szakaszához) – Békéscsaba (csatlakozással a 47. sz. főúthoz) közötti szakasz és kapcsolódó építmények engedélyezési terveinek elkészítése” tárgyában.
+version https://git-lfs.github.com/spec/v1
+oid sha256:1dee0982a1dc0aebd8bffe0e97a57c5860e58dc4dee85e3c3998071ef3207285
+size 260

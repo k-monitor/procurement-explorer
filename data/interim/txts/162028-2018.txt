@@ -1,1 +1,3 @@
-Keretmegállapodás a Nemzeti Kommunikációs Hivatalról és a kormányzati kommunikációs beszerzések központosított közbeszerzési rendszeréről szóló 247/2014. (X.1.) Korm. rendelet hatálya alá tartozó vagy ahhoz önként csatlakozó szervezetek számára, a rendeletben szabályozott kommunikációs tárgyú feladatokhoz kapcsolódó szolgáltatások ellátására.
+version https://git-lfs.github.com/spec/v1
+oid sha256:f92fedea1ee0b85afbd8ba072f8c0a025b83dda0b6f39110b15cc03e81465216
+size 382

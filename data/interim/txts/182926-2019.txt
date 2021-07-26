@@ -1,1 +1,3 @@
-Adásvételi keretszerződés 18F-fluoro-dezoxi-glükóz (FDG) radiofarmakon vásárlására szállítással Ajánlatkérő tájékoztató jelleggel megadja a megrendelni kívánt mennyiségeket, melyek teljes lehívására nem vállal kötelezettséget. FDG 50 mCi aktivitás 30 db FDG 100 mCi aktivitás 30 db FDG 190 mCi aktivitás 150 db FDG 490 mCi aktivitás 150 db FDG 590 mCi aktivitás 750 db FDG 690 mCi aktivitás 150 db FDG 790 mCi aktivitás 150 db Kalibrációs időpont: 8:00-8:30 óra között (megajánlás szerint). A részletes műszaki leírást a Közbeszerzési Dokumentumok tartalmazzák.
+version https://git-lfs.github.com/spec/v1
+oid sha256:58baa2a290540acf30c307b5d505e4a7a1f91123e938c63ed8f061749cec41d9
+size 611

@@ -1,1 +1,3 @@
-1 400 000 000 HUF folyószámlahitel keret biztosítása az Alba Volán Zrt. és 1 400 000 000 HUF folyószámlahitel keret biztosítása a Vértes Volán Zrt. részére.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bb19b0eb1fd34862a6f8835a9b24932a7b1c9b43ca01594f5e546d5b439ffc01
+size 170

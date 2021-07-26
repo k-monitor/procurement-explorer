@@ -1,2 +1,3 @@
-ajánlatkérő részére db
-opció mennyiség hónap időtartam ms office home and business hungarian eurozone medialess szoftvercsomag beszerzés a közbeszerzési dokumentum meghatározott műszaki leírás szerint
+version https://git-lfs.github.com/spec/v1
+oid sha256:5e5700e36c3c971157f6d5fa4eb11a115c8fa589346bc26bb3a6f0b8e381b82a
+size 216

@@ -1,1 +1,3 @@
-Megbízási szerződés keretében Hódmezővásárhely szennyvíztisztítása és Kishomok városrészének szennyvízcsatornázása elnevezésű, KEOP-1.2.0/09-11-2013-0013 azonosítószámú projekt során FIDIC mérnöki és műszaki ellenőri tevékenységek ellátása.
+version https://git-lfs.github.com/spec/v1
+oid sha256:69efe5216bda2b186f3e5cd725a4548a50eeeeb93d912b5311fb7db32ff58ace
+size 275

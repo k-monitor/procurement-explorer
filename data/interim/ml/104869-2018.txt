@@ -1,25 +1,3 @@
-Betegleolvasó	betegleolvasó	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-(	(	PUNCT	_	
-mobil	mobil	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-)	)	PUNCT	_	
-,	,	PUNCT	_	
-betegérzékelő	betegérzékelő	NOUN	Case=Nom|Number=Sing	
-karszalag	karszalag	NOUN	Case=Nom|Number=Sing	
-és	és	CONJ	_	
-betegazonosító	betegazonosító	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-rendszer	rendszer	NOUN	Case=Nom|Number=Sing	
-szállítása	szállítás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-,	,	PUNCT	_	
-illesztése	illesztés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
--	-	PUNCT	_	
-és	és	CONJ	_	
-bevezetése	bevezetés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-a	a	DET	Definite=Def|PronType=Art	
-Hévízgyógyfürdő	hévízgyógyfürdő	NOUN	Case=Nom|Number=Sing	
-és	és	CONJ	_	
-Szent	Szent	PROPN	Case=Nom|Number=Sing	
-András	András	PROPN	Case=Nom|Number=Sing	
-Reumakórház	reumakórház	NOUN	Case=Nom|Number=Sing	
-részére	részére	ADP	_	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:2be706f144318f33c8423d01349cd9120782a8ebbe19f92e377289f9bbb495c8
+size 990

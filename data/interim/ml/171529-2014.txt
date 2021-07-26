@@ -1,13 +1,3 @@
-Szolgáltatási	szolgáltatási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-az	az	DET	Definite=Def|PronType=Art	
-Ajánlatkérő	ajánlatkérő	NOUN	Case=Nom|Number=Sing	
-telephelyeinek	telephely	NOUN	Case=Gen|Number=Plur|Number[psor]=Sing|Person[psor]=3	
-takarítására	takarítás	NOUN	Case=Sub|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-,	,	PUNCT	_	
-1	1	NUM	Case=Nom|NumType=Card|Number=Sing	
-+	+	PUNCT	_	
-1	1	NUM	Case=Nom|NumType=Card|Number=Sing	
-évre	év	NOUN	Case=Sub|Number=Sing	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:db3b187d52a9a2892bbf35e90e147227cc0985e3719b1ff7962784c3714aad81
+size 550

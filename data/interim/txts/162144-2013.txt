@@ -1,1 +1,3 @@
-Tervezési szerződés A MÁV Zrt. 127-es számú, Kőrösnagyharsány - Vésztő - Gyoma vasútvonal fejlesztése a „Magyarország - Románia határon átnyúló együttműködési program" keretében kiírt HURO 1001 pályázati felhívás keretében - tervezési szolgáltatás nyújtására.
+version https://git-lfs.github.com/spec/v1
+oid sha256:eb0e0b9f589e9130cf8b985e2cbc2cbc4a55d211d6a507cddbebb9bef566eea6
+size 297

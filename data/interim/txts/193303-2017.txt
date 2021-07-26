@@ -1,1 +1,3 @@
-Gázminőségi előírásoknak megfelelő Földgáz energia beszerzése Makón, teljes ellátás alapú földgáz-kereskedelmi szerződés keretében legfeljebb 12 hónapos időszakra vonatkozóan.
+version https://git-lfs.github.com/spec/v1
+oid sha256:5667d8a589fed42348b595c9546ee72e0ecd415752505ada9226c39c9de2cd62
+size 197

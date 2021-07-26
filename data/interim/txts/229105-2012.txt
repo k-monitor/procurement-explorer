@@ -1,1 +1,3 @@
-Az Új Széchenyi Terv kommunikációs tevékenységét támogató integrált közbeszerzés az alábbi részekben: 1. rész: Grafikai tervezési, DTP, nyomdai és egyéb produkciós feladatok ellátása; 2. rész: Rendezvényszervezési feladatok ellátása; 3. rész: Médiavásárlási és egyéb, a médiavásárláshoz kapcsolódó médiaügynökségi feladatok ellátása; 4. rész: Közvélemény-kutatási feladatok ellátása.
+version https://git-lfs.github.com/spec/v1
+oid sha256:bfd989ac08e37563b168b96e86835f770a79f856fa8b429eca7203c728497f97
+size 435

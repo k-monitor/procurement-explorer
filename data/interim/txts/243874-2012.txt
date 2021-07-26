@@ -1,1 +1,3 @@
-Földgáz energia szállítása 2012.11.01. - 2013.07.01. időszakra vonatkozóan teljes ellátásalapú szállítási szerződés keretében 10 országos múzeum és az 1997. évi CXL. törvény hatálya alá tartozó országos feladatkörrel rendelkező intézmény (központi költségvetési szervek) részére.
+version https://git-lfs.github.com/spec/v1
+oid sha256:44c7f656b1958758f11af49abcd7324851ac9c5b02ac4e87bf0a33d5ed431d2e
+size 315

@@ -1,1 +1,3 @@
-Vezetékes hang távközlési szolgáltatások beszerzése az MTVA részére, 48 hónapos határozott időtartamra, szolgáltatási szerződés keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cdca9adfdcd485f0481e867f1ae3cae2653519a4fc35014a98aff7596c641f77
+size 155

@@ -1,1 +1,3 @@
-Adásvételi szerződés különféle gyári gyógyszerek beszerzésére.
+version https://git-lfs.github.com/spec/v1
+oid sha256:3a1b00c27484250cd765029294efa5fe5344ac4c7760e100498b6ee0d52ccbdd
+size 73

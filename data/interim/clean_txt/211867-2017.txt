@@ -1,6 +1,3 @@
-földgáz vásárlási szerződés fogyasztási hely
-gnm3 továbbá opcionálisan
-mennyiségű földgáz fűtési célú felhasználás történő beszerzés az országgyűlés hivatala részére
-a földgáz vásárlási szerződés a földgázellátás szóló 2008. évi
-törvény
-végrehajtási rendelet és az egyéb vonatkozó jogszabály foglalt figyelembevétel kerül megkötés
+version https://git-lfs.github.com/spec/v1
+oid sha256:badac9b2fe1cd69579a2ac9b664a540ae87975c7706819970622ec643419c15e
+size 386

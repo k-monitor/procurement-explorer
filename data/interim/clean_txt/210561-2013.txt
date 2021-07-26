@@ -1,1 +1,3 @@
-szállítási szerződés különböző típusú koporsó beszerzés
+version https://git-lfs.github.com/spec/v1
+oid sha256:8b06d8968f2bb280c84054e2275ea990c8bdbf2e6f50c886ec0539581e4a0daa
+size 68

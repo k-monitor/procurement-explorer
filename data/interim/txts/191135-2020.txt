@@ -1,1 +1,3 @@
-Nemzetpolitikai Informatikai Rendszer (NIR) funkcionális bővítési és üzemeltetés-támogatási feladatainak ellátása.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6f20b0af73de932d99e0fbf6eb1f31f3345075a885aa2475e820ab3f9f9e602b
+size 125

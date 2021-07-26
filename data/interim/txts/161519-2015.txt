@@ -1,1 +1,3 @@
-Adásvételi szerződés keretében orvostechnikai eszközök és gépek beszerzése és kapcsolódó szolgáltatások teljesítése 2 részben: 1. rész: CT berendezés beszerzése; 2. rész: Különféle orvostechnikai eszközök és gépek beszerzése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:50406ecaae275e61d690ee6cbb5ba8ccb57d979926e53f59cbf4b70f0822d057
+size 255

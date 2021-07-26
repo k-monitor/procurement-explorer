@@ -1,6 +1,3 @@
-a közbeszerzés tárgy
-szolgáltatás megrendelés
-a közbeszerzési eljárás alap a kbt. 105. §
-bek. a
-pont szerinti keretmegállapodás megkötés kerül sor
-ez tekintet az ajánlatkérő az ajánlattevő által az ajánlat keret benyújtott ártáblázat foglalt ajánlati ár alap a közvetlen megrendelés jog él
+version https://git-lfs.github.com/spec/v1
+oid sha256:ce6f0f1bc79db13791f9b7683a28d00b5364e151957a78cb66a810ddf146a658
+size 321

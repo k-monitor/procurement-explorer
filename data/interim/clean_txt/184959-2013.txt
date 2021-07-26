@@ -1,3 +1,3 @@
-hitelszerződés
-mely tárgy nagyszénás nagyközség önkormányzata részére összesen huf összegű
-hosszú lejáratú
+version https://git-lfs.github.com/spec/v1
+oid sha256:5538841e9f35372128e3b781d20ba230444ed7ada6e5d5dac457853f48f953d2
+size 123

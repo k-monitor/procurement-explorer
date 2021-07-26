@@ -1,20 +1,3 @@
-Területi	területi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-vízellátás	vízellátás	NOUN	Case=Nom|Number=Sing	
-fejlesztése	fejlesztés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-,	,	PUNCT	_	
-Érd	ér	VERB	Definite=Def|Mood=Imp|Number=Sing|Person=2|Tense=Pres|VerbForm=Fin|Voice=Act	
-Parkvárosi	parkvárosi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-új	új	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-iskola	iskola	NOUN	Case=Nom|Number=Sing	
-és	és	CONJ	_	
-új	új	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-óvoda	óvoda	NOUN	Case=Nom|Number=Sing	
-biztonságos	biztonságos	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-vízellátás	vízellátás	NOUN	Case=Nom|Number=Sing	
-biztosításához	biztosítás	NOUN	Case=All|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-nyomásövezet	nyomásövezet	NOUN	Case=Nom|Number=Sing	
-vízellátásának	vízellátás	NOUN	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-korszerűsítésének	korszerűsítés	NOUN	Case=Gen|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-kivitelezési	kivitelezési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-munkái	munka	NOUN	Case=Nom|Number=Plur|Number[psor]=Sing|Person[psor]=3	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:8fa937f2df46347992ff62e37c1de4d7f65ebdac1d914e0c82ccaca8ec4d557a
+size 1149

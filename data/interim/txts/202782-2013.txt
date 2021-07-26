@@ -1,1 +1,3 @@
-Szállítási szerződés - Tejtermék beszerzése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:774e5c92e60eea3e733822517e236646eec74cf3d25330c9821a05035d8306d1
+size 51

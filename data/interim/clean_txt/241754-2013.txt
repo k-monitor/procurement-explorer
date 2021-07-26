@@ -1,3 +1,3 @@
-hitelszerződés év túli lejáratú fejlesztési hitel biztosítás eger mjv önkormányzata önkormányzati feladat ellátás szolgáló út
-járda
-parkoló és lépcső építés fejlesztés finanszírozás
+version https://git-lfs.github.com/spec/v1
+oid sha256:361c62650d76c94a3ff21a5296aee0142556eac3b26df286d94ee5213d18736e
+size 210

@@ -1,1 +1,3 @@
-Az MNÁMK használatába adott területen személy-és vagyonvédelmi szolgálat teljesítése. Kizárólag teljes körű, valamennyi feladat ellátására kiterjedő ajánlatot lehetséges tenni. A beszerzés tárgyának részletes meghatározását az ajánlattételi dokumentáció tartalmazza.
+version https://git-lfs.github.com/spec/v1
+oid sha256:38286d2c1f683979eaa2f0933202afe8500c75f4177f3c65d00c06803220c73e
+size 297

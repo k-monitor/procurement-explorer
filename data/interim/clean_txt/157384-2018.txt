@@ -1,2 +1,3 @@
-vállalkozási szerződés
-budapesti corvinus egyetem pesti oktatási létesítmény takarítási feladat és egyéb gondnoksági tevékenység ellátás
+version https://git-lfs.github.com/spec/v1
+oid sha256:5ffab0f30a127634ab1d39381d1a9e698f2437665db11b9777648fe83a88f076
+size 153

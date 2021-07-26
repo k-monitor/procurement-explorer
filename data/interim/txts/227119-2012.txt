@@ -1,1 +1,3 @@
-Földgázenergia beszerzése 2012. 11.01. 6:00 CET - 2013. 07.01. 6:00 CET időszakra vonatkozóan, teljes ellátás alapú földgázenergia kereskedelmi szerződés keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:09edfff6f6577315e2d24adc2966c776f26147ede533c6ca7c61c5988a29a4d9
+size 177

@@ -1,9 +1,3 @@
-villamos energia adás-vételi szerződés ajánlatkérő vagyonkezelés lévő ingatlan részére a magyar villamos energia átviteli hálózat folyamatos rendelkezés álló
-a felhasználási hely csatlakozási jellemző megfelelő minőségű villamos energia beszerzés
-kereskedelmi jogviszony való megvásárlás
-hónapos időszak vonatkozó
-menetrend adási kötelezettség nélküli teljes ellátásalapú villamos energia adás-vételi szerződés keret
-amely nem foglal maga a rendszerhasználati díj elszámolás
-a rendszerhasználati díj a hálózati engedélyes közvetlen érvényesít ajánlatkérő
-k
-el szemben
+version https://git-lfs.github.com/spec/v1
+oid sha256:06aa55ec546427ac42f18e3cc10674e8f3099519b75f682ffe0065c31566328e
+size 629

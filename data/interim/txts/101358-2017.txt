@@ -1,1 +1,3 @@
-SIMON monitoring rendszer CRFS, CommsAudit és IZT gyártmányú műszereinek fejlesztése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:15fb9de4ad3cf1a9c05573cc33a01d6e500f06d0118e1bda3ea30e25828e8429
+size 91

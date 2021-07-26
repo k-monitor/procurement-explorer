@@ -1,7 +1,3 @@
-étkeztetési szolgáltatás biztosítás a békéscsabai kistérségi egyesít szociális központ telephely számára
-1. rész
-ebéd biztosítás telephely
-2. rész
-bentlakásos ellátás biztosítás napi étkezés telephely
-3. rész
-diétás étkeztetés biztosítás telephely
+version https://git-lfs.github.com/spec/v1
+oid sha256:a01ff8cb9c911a725caf324465f54d9e539d084166dc7fe1cb39fb47395e888e
+size 281

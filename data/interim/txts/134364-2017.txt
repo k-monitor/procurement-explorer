@@ -1,1 +1,3 @@
-Korszerű műtéti és diagnosztikai eszközök beszerzése a PTE részére 2. a közbeszerzési dokumentációban meghatározott paraméterekkel, az alábbiak szerint: 1 darab Műtőasztal cserélhető feklapokkal, tartozékokkal. Ajánlattevő köteles elvégezni az eszköz átadás-átvétele során az Ajánlatkérő által kijelölt személyek felhasználói szintű oktatását is.
+version https://git-lfs.github.com/spec/v1
+oid sha256:4cfc79e0b504c4d3299e8c55f19c2e76bb8f0389b2004b55d5e5f639c75aa653
+size 388

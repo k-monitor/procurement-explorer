@@ -1,14 +1,3 @@
-Kivitelezési	kivitelezési	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-keretében	keret	NOUN	Case=Ine|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-2	2	NUM	Case=Nom|NumType=Card|Number=Sing	
-db	db	NOUN	Case=Nom|Number=Sing	
-fedett	fedett	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPast	
-géptároló	géptároló	NOUN	Case=Nom|Number=Sing	
-épület	épület	NOUN	Case=Nom|Number=Sing	
-és	és	CONJ	_	
-tüzivíz	tüzivíz	NOUN	Case=Nom|Number=Sing	
-tároló	tároló	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-építése	építés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:050bb122d39d82229ae3ca9cd7b2b93c19c4e99e1692ba7700e83f99d0b430ae
+size 667

@@ -1,1 +1,3 @@
-Szállítási szerződés a 1132 Budapest, Visegrádi u 49., 1081 Budapest, Fiumei út 19/A. és a 1139 Budapest, Váci út 73. szám alatti épület földgáz beszerzésére.
+version https://git-lfs.github.com/spec/v1
+oid sha256:6d7f59c5f9c866938403190042e237dcc16a5cacb63a71d1f76587e92598d250
+size 175

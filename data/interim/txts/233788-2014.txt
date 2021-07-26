@@ -1,1 +1,3 @@
-Városmajori Szív-és Érgyógyászati Klinika részére egyszer használatos tételes finanszírozású szívsebészeti eszközök beszerzése.
+version https://git-lfs.github.com/spec/v1
+oid sha256:50c94681ca5ce9ab51289376b646c177ff507917c72c30482ae34b8ed62bffb5
+size 145

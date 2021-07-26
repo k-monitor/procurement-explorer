@@ -1,1 +1,3 @@
-1 db alsó-középkategóriás függőleges hátfalú személygépjármű
+version https://git-lfs.github.com/spec/v1
+oid sha256:b61d1e06e1778419484e188b3745724994263da8f4e4c0f06c0f756f2bf06c13
+size 73

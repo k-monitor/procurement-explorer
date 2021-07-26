@@ -1,20 +1,3 @@
-A	a	DET	Definite=Def|PronType=Art	
-2017.	2017.	ADJ	Case=Nom|NumType=Ord|Number=Sing	
-évi	évi	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-Asztanai	asztanai	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-Szakvilágkiállításon	szakvilágkiállítás	NOUN	Case=Sup|Number=Sing	
-való	való	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPres	
-magyar	magyar	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-megjelenés	megjelenés	NOUN	Case=Nom|Number=Sing	
-komplex	komplex	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-tervezésével	tervezés	NOUN	Case=Ins|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-,	,	PUNCT	_	
-előkészítésével	előkészítés	NOUN	Case=Ins|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-kapcsolatos	kapcsolatos	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-feladatok	feladat	NOUN	Case=Nom|Number=Plur	
-ellátása	ellátás	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-vállalkozási	vállalkozási	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-szerződés	szerződés	NOUN	Case=Nom|Number=Sing	
-alapján	alap	NOUN	Case=Sup|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:7610a14c033fa1ef04ce1eef0d49f1fbb1bff3b5ca199e4a4717100f20783ddd
+size 1072

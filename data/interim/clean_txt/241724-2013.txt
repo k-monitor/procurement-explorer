@@ -1,2 +1,3 @@
-hitelszerződés év túli lejáratú beruházási hitel biztosítás cél
-eger mjv önkormányzata önkormányzati feladat ellátás szolgáló beruházás finanszírozás
+version https://git-lfs.github.com/spec/v1
+oid sha256:f37663983f79400201719a94f7a49aeaeaae8ed1be95481d8875db8eb0cf22ff
+size 172

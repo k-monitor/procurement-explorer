@@ -1,1 +1,3 @@
-Villamos energia szállítása az ajánlatkérő részére 1.7.2016 00:00 órától 30.6.2017 24:00 óráig, teljes ellátás alapú villamos energia kereskedelmi szerződés keretében.
+version https://git-lfs.github.com/spec/v1
+oid sha256:a32edc200096e313d0263f5f0a5c4e91c7cf7aac453fa17e61fc69e99c3f0f02
+size 186

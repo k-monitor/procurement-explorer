@@ -1,13 +1,3 @@
-1	1	NUM	Case=Nom|NumType=Card|Number=Sing	
-db	db	NOUN	Case=Nom|Number=Sing	
-neonatológiai	neonatológiai	ADJ	Case=Nom|Degree=Pos|Number=Sing	
-mentőgépjármű	mentőgépjármű	NOUN	Case=Nom|Number=Sing	
-beszerzése	beszerzés	NOUN	Case=Nom|Number=Sing|Number[psor]=Sing|Person[psor]=3	
-a	a	DET	Definite=Def|PronType=Art	
-dokumentációban	dokumentáció	NOUN	Case=Ine|Number=Sing	
-meghatározott	meghatározott	ADJ	Case=Nom|Degree=Pos|Number=Sing|VerbForm=PartPast	
-felszereléssel	felszerelés	NOUN	Case=Ins|Number=Sing	
-,	,	PUNCT	_	
-eszközökkel	eszköz	NOUN	Case=Ins|Number=Plur	
-.	.	PUNCT	_	
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:e56978348b46ddf7836d86503da219db088051c1451fc0f9fcd0f7a6861fbfb4
+size 601

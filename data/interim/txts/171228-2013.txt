@@ -1,1 +1,3 @@
-Genetikai vizsgálatokhoz szükséges vegyszer csomagok, valamint mintavételi egységcsomagok beszerzése 48 hónapos időtartam alatt: 1. rész: genetikai vizsgálatokhoz szükséges vegyszer csomag beszerzése; 2. rész: mintavételi egységcsomagok beszerzése. Részletesen a dokumentációban.
+version https://git-lfs.github.com/spec/v1
+oid sha256:cb45d7b92bac8fd492fd2c6af49c8b45cf4799154200530feb2573e707e9790c
+size 299

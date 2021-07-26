@@ -1,1 +1,3 @@
-Az MTA LGK részére élőerős őrzés-védelmi szolgáltatások biztosítása 24 + 12 hónapos időszakra vonatkozóan. A részajánlattétel kizárásának indoka: AK megvizsgálta a részajánlat-tétel lehetőségét, mely vizsgálat alapján álláspontja szerint a közbeszerzés tárgya nem képez olyan részfeladatokat, melyek a többitől elválaszthatóan, önálló egységként kezelhető, a szolgáltatás természete nem teszi lehetővé annak részekre bontását, részajánlat-tétel biztosítását. Változás történhet egy ingatlanok AK üzemeltetési köréből történő kikerüléssel, vagy bővüléssel, így a szolgáltatás mennyisége oly mértékben csökkenhet, vagy bővülhet, mely az adott helyszínen szolgáltató nyertes AT teljesítését ellehetetleníti. AK nem biztosítja többváltozatú (alternatív ajánlat) benyújtásának lehetőségét.
+version https://git-lfs.github.com/spec/v1
+oid sha256:339ebf9e023475679c5621108ee81fbed7e4ca9cc2ae521b2800bb2fc6ab0b8d
+size 890

@@ -1,6 +1,3 @@
-földgáz értékesítési szerződés alap a magyar tudományos akadémia köztestületi intézmény földgáz energiavételezés
-1.10.2018
-közötti időszak
-mj mennyiség
-a közbeszerzés rész bontása a gazdasági ésszerűség nem összeegyeztethető
-ezért a részajánlattétel nem biztosított
+version https://git-lfs.github.com/spec/v1
+oid sha256:cd13ad8faafb8c0d5e043b671c374128b04cc5c30cda3b72d369da43b52b726c
+size 302
